@@ -1,0 +1,29 @@
+{
+  "id": "ph-capi0",
+  "nom": "Capiz",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese Name: Capiz / Capicen(sis) (Latin)Suffragan Sees: Kalibo, RomblonNeighbouring Dioceses: San Jose de Antique (↙), Kalibo (←), Masbate (↗), Jaro (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Our Lady of the Immaculate Conception (December 8)Liturgical Calendar (National) 📅History1951.01.27: Established as Diocese of Capiz / Capicen(sis) (Latin) (from Diocese of Jaro and became suffragan of Cebu)1974.12.19: Lost territory to establish Diocese of Romblon1976.01.17: Promoted as Metropolitan Archdiocese of Capiz / Capicen(sis) (Latin) (with suffragan sees Kalibo and Romblon and lost territory to establish Diocese of Kalibo)Present PrelatesMetropolitan Archbishop (2023.03.03 – ...):Archbishop Victor Barnuevo Bendico (66)Monsignors (35)OrdinariesMetropolitan Archbishops of Capiz (Roman Rite)Archbishop Victor Barnuevo Bendico (66)  (2023.03.03 – ...)Metropolitan Archbishop of Capiz (Philippines)ConfidamBorn:1960.01.22 (Roxas City, Philippines)Ordained Priest:1984.04.14Consecrated Bishop:2017.01.10Priest of Capiz (Philippines) (1984.04.14 – 2016.10.01)Chaplain of His Holiness (2011.08.06 – 2016.10.01)Bishop of Baguio (Philippines) (2016.10.01 – 2023.03.03)Apostolic Administrator of San Fernando de La Union (Philippines) (2017.07.05 – 2018.05.09)Metropolitan Archbishop of Capiz (Philippines) (2023.03.03 – ...)Apostolic Administrator of Kalibo (Philippines) (2025.06.16 – 2026.01.24)Cardinal Jose Fuerte Advincula (74)  (2011.11.09 – 2021.03.25)Cardinal-Priest of S. VigilioMetropolitan Archbishop of Manila (Philippines)AudiamBorn:1952.03.30 (Dumalag, Philippines)Ordained Priest:1976.04.14Consecrated Bishop:2001.09.08Created Cardinal:2020.11.28Priest of Capiz (Philippines) (1976.04.14 – 2001.07.25)Chaplain of His Holiness (1997.03.19 – 2001.07.25)Bishop of San Carlos (Philippines) (2001.07.25 – 2011.11.09)Metropolitan Archbishop of Capiz (Philippines) (2011.11.09 – 2021.03.25)Cardinal-Priest of S. Vigilio (2020.11.28 [2022.04.30] – ...)Metropolitan Archbishop of Manila (Philippines) (2021.03.25 – ...)Archbishop Onesimo Cadiz Gordoncillo  (1986.06.18 – 2011.11.09)Veritatem tuam annuntiaboBorn:1935.02.16 (Jimalalud, Philippines)Ordained Priest:1961.03.18Consecrated Bishop:1974.05.27Died:2013.11.13 († 78)Priest of Dumaguete (Philippines) (1961.03.18 – 1974.03.14)Chaplain of His Holiness (1971.05.29 – 1974.03.14)Titular Bishop of Gunugus (1974.03.14 – 1976.07.03)Auxiliary Bishop of Dumaguete (Philippines) (1974.03.14 – 1976.07.03)Bishop of Tagbilaran (Philippines) (1976.07.03 – 1986.06.18)Metropolitan Archbishop of Capiz (Philippines) (1986.06.18 – 2011.11.09)Archbishop Antonio Frondosa  (1976.01.17 – 1986.06.18)Born:1909.06.13 (Dumalag, Philippines)Ordained Priest:1936.03.08Consecrated Bishop:1952.05.28Died:1993.09.19 († 84)Bishop of Capiz (Philippines) (1952.03.05 – 1976.01.17)Metropolitan Archbishop of Capiz (Philippines) (1976.01.17 – 1986.06.18)Bishops of Capiz (Roman Rite)Bishop Antonio Frondosa (later Archbishop)  (1952.03.05 – 1976.01.17)(see above)Bishop Manuel Yap  (1951.02.13 – 1952.03.05)Born:1900.06.17 (Cárcar, Philippines)Ordained Priest:1929.09.21Consecrated Bishop:1951.05.01Died:1966.10.16 († 66)Bishop of Capiz (Philippines) (1951.02.13 – 1952.03.05)Bishop of Bacolod (Philippines) (1952.03.05 – 1966.10.16)Former PrelatesAuxiliary Bishop: Bishop Vicente Macanan Navarra (87) (1979.04.23 – 1987.11.21)Special ChurchesCathedral:  Metropolitan Cathedral of the Immaculate Conception, Roxas City, Capiz, Western Visayas Jubilee Churches in the Holy Year 2025Churches by City (42)Show MapSan Jose de Antique (↙), Kalibo (←), Masbate (↗), Jaro (↓)Statistics (2022.12.31)Area: 2,633 km²Population: 828,386 Catholics (90.1% of 918,900 total)Pastoral Centres: 37 parishes, 30 missionsPersonnel: 112 priests (109 diocesan, 3 religious), 90 religious (23 brothers, 67 sisters), 72 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "capi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 918900,
+    "catholiques": 828386,
+    "pourcentage_catholiques": 90.1
+  },
+  "ressources": {
+    "pretres_diocesains": 109,
+    "pretres_religieux": null,
+    "total_pretres": 112,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 37
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

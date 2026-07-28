@@ -1,0 +1,29 @@
+{
+  "id": "li-siau0",
+  "nom": "Šiauliai",
+  "pays": "li",
+  "pays_nom": "Lithuania",
+  "continent": "unknown",
+  "type": "Diocese Name: Šiauliai / Siaulien(sis) (Latin)Ecclesiastical Province: KaunasNeighbouring Dioceses: Telšiai (←), Jelgava (↑), Panevėžys (→), Kaunas (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1997.05.28: Established as Diocese of Šiauliai / Siaulien(sis) (Latin) (from Metropolitan Archdiocese of Kaunas, Diocese of Panevėžys and Diocese of Telšiai and became suffragan of Kaunas)Papal VisitsPope John Paul II (1993.09)Present PrelatesBishop (2024.12.08 – ...):Bishop Darius Trijonis (53)Monsignors (3)OrdinariesBishops of Šiauliai (Roman Rite)Bishop Darius Trijonis (53)  (2024.12.08 – ...)Bishop of Šiauliai (Lithuania)In simplicitate et sinceritate DeiBorn:1973.04.21 (Telšiai, Lithuania)Ordained Priest:1997.05.18Consecrated Bishop:2017.12.16Priest of Telšiai (Lithuania) (1997.05.18 – 2017.09.29)Titular Bishop of Fissiana (2017.09.29 – 2024.06.06)Auxiliary Bishop of Vilnius (Lithuania) (2017.09.29 – 2024.06.06)Coadjutor Bishop of Šiauliai (Lithuania) (2024.06.06 – 2024.12.08)Bishop of Šiauliai (Lithuania) (2024.12.08 – ...)Bishop Eugenijus Bartulis (76)  (1997.05.28 – 2024.12.08)Bishop emeritus of Šiauliai (Lithuania)Gaudete semper in DominoBorn:1949.12.07 (Kaunas, Lithuania)Ordained Priest:1976.05.30Consecrated Bishop:1997.06.29Priest of Kaunas (Lithuania) (1976.05.30 – 1997.05.28)Bishop of Šiauliai (Lithuania) (1997.05.28 – 2024.12.08)Military Ordinary of Lithuania (Lithuania) (2000.11.25 – 2010.07.02)Former PrelatesCoadjutor Bishop: Bishop Darius Trijonis (53) (2024.06.06 – 2024.12.08)Special ChurchesCathedral:  Šv. Apaštalų Petro ir Pauliaus katedra, Šiauliai, Šiauliai Shrine:  Kryžių kalnas, Šiauliai, Šiauliai Jubilee Churches in the Holy Year 2025Churches by City (73)Show MapTelšiai (←), Jelgava (↑), Panevėžys (→), Kaunas (↘)Statistics (2022.12.31)Area: 7,696 km²Population: 214,538 Catholics (88.7% of 241,764 total)Pastoral Centres: 68 parishes, 3 missionsPersonnel: 59 priests (49 diocesan, 10 religious), 18 religious (15 brothers, 3 sisters)PopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "siau0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 241764,
+    "catholiques": 214538,
+    "pourcentage_catholiques": 88.7
+  },
+  "ressources": {
+    "pretres_diocesains": 49,
+    "pretres_religieux": null,
+    "total_pretres": 59,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 68
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

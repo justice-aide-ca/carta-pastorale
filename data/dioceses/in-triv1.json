@@ -1,0 +1,29 @@
+{
+  "id": "in-triv1",
+  "nom": "Trivandrum",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese Name: Trivandrum / Thiruvananthapuram / Trivandren(sis) Latinorum (Latin)Suffragan Sees: Alleppey, Neyyattinkara, Punalur, QuilonNeighbouring Dioceses: Quilon (↖), Punalur (↑), Neyyattinkara (↘)Depends on: Dicastery for EvangelisationWebsites: CelebrationsPatron Saint: Saint Thérèse of the Child JesusLiturgical Calendar (National) 📅History1937.07.01: Established as Diocese of Trivandrum / Thiruvananthapuram / Trivandren(sis) Latinorum (Latin) (from Diocese of Quilon and became suffragan of Verapoly)1955.04.29: Lost territory to Diocese of Changanacherry1955.05.20: Gained territory from Diocese of Cochin1996.06.14: Lost territory to establish Diocese of Neyyattinkara2004.06.03: Promoted as Metropolitan Archdiocese of Trivandrum / Thiruvananthapuram / Trivandren(sis) Latinorum (Latin) (with suffragan sees Alleppey, Neyyattinkara, Punalur and Quilon)Papal VisitsPope John Paul II (1986.02)Present PrelatesMetropolitan Archbishop (2022.02.02 – ...):Archbishop Thomas Jessayyan Netto (61)Auxiliary Bishop (2016.02.02 – ...):Bishop Christudas Rajappan (54)Titular Bishop of Avitta BibbaMonsignors (13)OrdinariesMetropolitan Archbishops of Trivandrum (Roman Rite)Archbishop Thomas Jessayyan Netto (61)  (2022.02.02 – ...)Metropolitan Archbishop of Trivandrum (India)Prædicare evangelium pro pauperibus misit meBorn:1964.12.29 (Puthiyathura, India)Ordained Priest:1989.12.19Consecrated Bishop:2022.03.19Priest of Trivandrum (India) (1989.12.19 – 2022.02.02)Metropolitan Archbishop of Trivandrum (India) (2022.02.02 – ...)Archbishop Maria Callist Soosa Pakiam (80)  (2004.06.03 – 2022.02.02)Metropolitan Archbishop emeritus of Trivandrum (India)Mercy and peaceBorn:1946.03.11 (Marthandonthura, India)Ordained Priest:1969.12.20Consecrated Bishop:1990.02.02Priest of Trivandrum (India) (1969.12.20 – 1989.11.10)Coadjutor Bishop of Trivandrum (India) (1989.11.10 – 1991.01.31)Bishop of Trivandrum (India) (1991.01.31 – 2004.06.03)Metropolitan Archbishop of Trivandrum (India) (2004.06.03 – 2022.02.02)Bishops of Trivandrum (Roman Rite)Bishop Maria Callist Soosa Pakiam (80) (later Archbishop)  (1991.01.31 – 2004.06.03)(see above)Bishop Benedict Jacob Acharuparambil, O.F.M. Cap.  (1979.08.03 – 1991.01.31)Born:1919.04.16 (Palliport, India)Ordained Priest:1945.03.17Consecrated Bishop:1979.10.07Died:1995.08.13 († 76)Bishop of Trivandrum (India) (1979.08.03 – 1991.01.31)Bishop Peter B. Pereira  (1966.10.01 – 1978.06.13)Born:1917.06.21 (Murukumpuzha, India)Ordained Priest:1944.03.25Consecrated Bishop:1955.08.24Died:1978.06.13 († 60)Auxiliary Bishop of Trivandrum (India) (1955.05.05 – 1961)Titular Bishop of Urusi (1955.05.05 – 1966.10.01)Coadjutor Bishop of Trivandrum (India) (1961 – 1966.10.01)Bishop of Trivandrum (India) (1966.10.01 – 1978.06.13)Bishop Vincent Victor Dereere, O.C.D.  (1937.07.01 – 1966.10.01)Born:1880.02.12 (Ostende, Belgium)Ordained Priest:1905.06.17Consecrated Bishop:1936.05.17Died:1973.12.31 († 93)Bishop of Quilon (India) (1936.02.10 – 1937.07.01)Bishop of Trivandrum (India) (1937.07.01 – 1966.10.01)Titular Bishop of Ibora (1966.10.24 – 1973.12.31)Former PrelatesCoadjutor Bishop: Bishop Maria Callist Soosa Pakiam (80) (later Archbishop) (1989.11.10 – 1991.01.31)Coadjutor Bishop: Bishop Peter B. Pereira (1961 – 1966.10.01)Auxiliary Bishop: Bishop Peter B. Pereira (1955.05.05 – 1961)Special ChurchesCathedral:  Metropolitan Cathedral of St. Joseph, Palayam, Kerala Churches by City (149)Show MapQuilon (↖), Punalur (↑), Neyyattinkara (↘)Statistics (2022.12.31)Area: 686 km²Population: 267,883 Catholics (10.2% of 2,619,940 total)Pastoral Centres: 96 parishes, 3 missionsPersonnel: 290 priests (145 diocesan, 145 religious), 987 religious (266 brothers, 721 sisters), 62 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "triv1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2619940,
+    "catholiques": 267883,
+    "pourcentage_catholiques": 10.2
+  },
+  "ressources": {
+    "pretres_diocesains": 145,
+    "pretres_religieux": null,
+    "total_pretres": 290,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 96
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

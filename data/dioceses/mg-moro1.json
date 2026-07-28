@@ -1,0 +1,29 @@
+{
+  "id": "mg-moro1",
+  "nom": "Morombe",
+  "pays": "mg",
+  "pays_nom": "Madagascar",
+  "continent": "unknown",
+  "type": "Diocese Name: Morombe / Moromben(sis) (Latin)Ecclesiastical Province: ToliaraNeighbouring Dioceses: Morondava (↑), Ambositra (↗), Fianarantsoa (→), Ihosy (↘), Toliara (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1960.04.25: Established as Diocese of Morombe / Moromben(sis) (Latin) (from Diocese of Morondava and became suffragan of Fianarantsoa)2003.11.14: Became suffragan of ToliaraPresent PrelatesBishop (2024.02.12 – ...):Bishop Jean Désiré Razafinirina (51)OrdinariesBishops of Morombe (Roman Rite)Bishop Jean Désiré Razafinirina (51)  (2024.02.12 – ...)Bishop of Morombe (Madagascar)Born:1975.05.05 (Manombo, Madagascar)Ordained Priest:2003.08.10Consecrated Bishop:2024.04.14Priest of Toliara (Madagascar) (2003.08.10 – 2024.02.12)Bishop of Morombe (Madagascar) (2024.02.12 – ...)Bishop Zygmunt Robaszkiewicz, M.S.F. (67)  (2001.04.24 – 2022.11.19)Bishop of Mahajanga (Madagascar)Born:1958.10.16 (Nietuszkowo, Poland)Ordained Priest:1986.06.11Consecrated Bishop:2001.09.02Bishop of Morombe (Madagascar) (2001.04.24 – 2022.11.19)Bishop of Mahajanga (Madagascar) (2022.11.19 – ...)Apostolic Administrator of Maintirano (Madagascar) (2023.10.01 – 2024.05.02)Bishop Alwin Albert Hafner, M.S.F.  (1989.05.15 – 2000.07.15)Born:1930.09.11 (Balsthal, Switzerland)Ordained Priest:1957.06.28Consecrated Bishop:1990.04.22Died:2016.01.07 († 85)Bishop of Morombe (Madagascar) (1989.05.15 – 2000.07.15)Bishop Joseph Zimmermann, M.S.F.  (1960.05.28 – 1988.12.04)Born:1923.12.12 (Trecase, Switzerland)Ordained Priest:1950.06.29Consecrated Bishop:1960.10.23Died:1988.12.04 († 64)Bishop of Morombe (Madagascar) (1960.05.28 – 1988.12.04)Special ChurchesCathedral:  Cathédrale du Sacré-Cœur de Jésus, Morombe, Toliara Show MapMorondava (↑), Ambositra (↗), Fianarantsoa (→), Ihosy (↘), Toliara (↓)Statistics (2022.12.31)Area: 31,917 km²Population: 52,261 Catholics (7.0% of 742,255 total)Pastoral Centres: 17 parishesPersonnel: 42 priests (26 diocesan, 16 religious), 58 religious (21 brothers, 37 sisters), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "moro1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 742255,
+    "catholiques": 52261,
+    "pourcentage_catholiques": 7.0
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

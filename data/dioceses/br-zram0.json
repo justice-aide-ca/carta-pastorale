@@ -1,0 +1,29 @@
+{
+  "id": "br-zram0",
+  "nom": "São Raimundo Nonato",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: São Raimundo Nonato / Raymundian(us) (Latin)Ecclesiastical Province: TeresinaNeighbouring Dioceses: Bom Jesus do Gurguéia (←), Floriano (↖), Oeiras (↑), Picos (↗), Juazeiro (→)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1960.12.17: Established as Territorial Prelature of São Raimundo Nonato / Raymundian(us) (Latin) (from Territorial Prelature of Bom Jesus do Piauí and became suffragan of Teresina)1981.10.03: Promoted as Diocese of São Raimundo Nonato / Raymundian(us) (Latin)2008.02.27: Lost territory to Diocese of OeirasPresent PrelatesBishop (2023.07.19 – ...):Bishop Ronilton Souza de Araújo, S.C.I. (59)OrdinariesBishops of São Raimundo Nonato (Roman Rite)Bishop Ronilton Souza de Araújo, S.C.I. (59)  (2023.07.19 – ...)Bishop of São Raimundo Nonato (Brazil)Adveniat regnum tuumBorn:1967.03.23 (Ituiutaba, MG, Brazil)Ordained Priest:2002.12.07Consecrated Bishop:2023.08.26Bishop of São Raimundo Nonato (Brazil) (2023.07.19 – ...)Bishop Eduardo Zielski (79)  (2016.03.02 – 2023.07.19)Bishop emeritus of São Raimundo Nonato (Brazil)Só a MisericordiaBorn:1947.02.12 (Brodnica, Poland)Ordained Priest:1972.05.21Consecrated Bishop:2000.05.07Priest of Pelplin (Poland) (1972.05.21 – 2000.02.02)Chaplain of His Holiness (1995.07.31 – 2000.02.02)Bishop of Campo Maior (Brazil) (2000.02.02 – 2016.03.02)Bishop of São Raimundo Nonato (Brazil) (2016.03.02 – 2023.07.19)Bishop João Santos Cardoso (64) (later Archbishop)  (2011.12.14 – 2015.06.24)Metropolitan Archbishop of Natal (Brazil)In eo qui me confortatBorn:1961.12.03 (Boa Nova, BA, Brazil)Ordained Priest:1986.12.27Consecrated Bishop:2012.02.12Priest of Vitória da Conquista (Brazil) (1986.12.27 – 2011.12.14)Bishop of São Raimundo Nonato (Brazil) (2011.12.14 – 2015.06.24)Bishop of Bom Jesus da Lapa (Brazil) (2015.06.24 – 2023.07.05)Metropolitan Archbishop of Natal (Brazil) (2023.07.05 – ...)Bishop Pedro Brito Guimarães (72) (later Archbishop)  (2002.07.17 – 2010.10.20)Metropolitan Archbishop of Palmas (Brazil)Apostolic Administrator of Porto Nacional (Brazil)SitioBorn:1954.02.22 (Buriti, MA, Brazil)Ordained Priest:1986.01.26Consecrated Bishop:2002.09.14Priest of Oeiras–Floriano (Brazil) (1986.01.26 – 2002.07.17)Bishop of São Raimundo Nonato (Brazil) (2002.07.17 – 2010.10.20)Metropolitan Archbishop of Palmas (Brazil) (2010.10.20 – ...)Apostolic Administrator of Porto Nacional (Brazil) (2026.06.01 – ...)Bishop Cândido Lorenzo González, O. de M.  (1981.10.03 – 2002.07.17)Omnibus ServireBorn:1925.09.23 (Ginzo de Limia, Spain)Ordained Priest:1954.06.06Consecrated Bishop:1970.03.19Died:2019.12.17 (Sâo Raimundo Nonato, PI, Brazil † 94)Titular Bishop of Skradin (1969.12.05 – 1978.05.26)Bishop-Prelate of São Raimundo Nonato (Brazil) (1969.12.05 – 1981.10.03)Bishop of São Raimundo Nonato (Brazil) (1981.10.03 – 2002.07.17)Prelates of São Raimundo Nonato (Roman Rite)Bishop Cândido Lorenzo González, O. de M.  (1969.12.05 – 1981.10.03)(see above)Bishop Amadeu González Ferreiros, O. de M.  (1961.12.23 – 1967.12.28)Born:1911.07.23 (Sindrán-Monforte, Spain)Ordained Priest:1934.12.22Consecrated Bishop:1963.05.19Died:1995.03.20 (Madrid, Spain † 83)Bishop-Prelate of São Raimundo Nonato (Brazil) (1961.12.23 – 1967.12.28)Titular Bishop of Metræ (1963.02.18 – 1995.03.20)Special ChurchesCathedral:  Catedral São Raimundo, São Raimundo Nonato, Piauí Jubilee Churches in the Holy Year 2025Show MapBom Jesus do Gurguéia (←), Floriano (↖), Oeiras (↑), Picos (↗), Juazeiro (→)Statistics (2020.12.31)Area: 39,528 km²Population: 196,000 Catholics (87.1% of 225,000 total)Pastoral Centres: 39 parishesPersonnel: 30 priests (26 diocesan, 4 religious), 12 deacons, 26 religious (4 brothers, 22 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zram0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 225000,
+    "catholiques": 196000,
+    "pourcentage_catholiques": 87.1
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 39
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

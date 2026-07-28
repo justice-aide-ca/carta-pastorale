@@ -1,0 +1,29 @@
+{
+  "id": "co-cald0",
+  "nom": "Caldas",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Caldas / Calden(sis) (Latin)Ecclesiastical Province: MedellínNeighbouring Dioceses: Jericó (↙), Santa Fe de Antioquia (↖), Medellín (↗), Sonsón–Rionegro (→), Manizales (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1988.06.18: Established as Diocese of Caldas / Calden(sis) (Latin) (from Metropolitan Archdiocese of Medellín and became suffragan of Medellín)Present PrelatesBishop (2022.10.15 – ...):Bishop Juan Fernando Franco Sánchez (51)Monsignors (1)OrdinariesBishops of Caldas (Roman Rite)Bishop Juan Fernando Franco Sánchez (51)  (2022.10.15 – ...)Bishop of Caldas (Colombia)Porque me amó, me eligióBorn:1975.06.01 (Barbosa, Colombia)Ordained Priest:2003.03.29Consecrated Bishop:2022.12.09Priest of Caldas (Colombia) (2003.03.29 – 2022.10.15)Bishop of Caldas (Colombia) (2022.10.15 – ...)Bishop César Alcides Balbín Tamayo (67)  (2015.01.28 – 2021.10.18)Bishop of Cartago (Colombia)Ecce ego mitte meBorn:1958.09.08 (Santa Rosa de Osos, Colombia)Ordained Priest:1985.11.19Consecrated Bishop:2015.03.07Priest of Santa Rosa de Osos (Colombia) (1985.11.19 – 2015.01.28)Bishop of Caldas (Colombia) (2015.01.28 – 2021.10.18)Bishop of Cartago (Colombia) (2021.10.18 – ...)Bishop José Soleibe Arbeláez (87)  (2002.12.06 – 2015.01.28)Bishop emeritus of Caldas (Colombia)Born:1938.11.17 (Cartago, Colombia)Ordained Priest:1963.09.21Consecrated Bishop:1999.09.08Priest of Cartagena (Colombia) (1963.09.21 – 1999.07.19)Titular Bishop of Sullectum (1999.07.19 – 2002.12.06)Auxiliary Bishop of Cali (Colombia) (1999.07.19 – 2002.12.06)Bishop of Caldas (Colombia) (2002.12.06 – 2015.01.28)Bishop Germán Garcia Isaza, C.M.  (1988.06.18 – 2002.03.01)Ora et laboraBorn:1936.09.02 (Manizales, Colombia)Ordained Priest:1962.02.11Consecrated Bishop:1988.08.03Died:2006.10.11 († 70)Prefect Apostolic of Tierradentro (Colombia) (1977.07.21 – 1988.06.18)Bishop of Caldas (Colombia) (1988.06.18 – 2002.03.01)Bishop of Apartadó (Colombia) (2002.03.01 – 2006.10.11)Special ChurchesCathedral:  Catedral de Nuestra Señora de las Mercedes, Caldas, Antioquia Jubilee Churches in the Holy Year 2025Churches by City (26)Show MapJericó (↙), Santa Fe de Antioquia (↖), Medellín (↗), Sonsón–Rionegro (→), Manizales (↓)Statistics (2022.12.31)Area: 1,415 km²Population: 267,167 Catholics (99.9% of 267,347 total)Pastoral Centres: 27 parishes, 2 missionsPersonnel: 74 priests (diocesan), 27 religious (1 brother, 26 sisters), 15 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cald0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 267347,
+    "catholiques": 267167,
+    "pourcentage_catholiques": 99.9
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

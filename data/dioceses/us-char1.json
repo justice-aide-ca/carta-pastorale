@@ -1,0 +1,29 @@
+{
+  "id": "us-char1",
+  "nom": "Charlotte",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Charlotte / Carolinan(us) (Latin)Ecclesiastical Province: AtlantaNeighbouring Dioceses: Atlanta (↙), Knoxville (←), Richmond (↑), Raleigh (→), Charleston (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsCathedral Dedication Anniversary: September 4Liturgical Calendar (National) 📅History1971.11.12: Established as Diocese of Charlotte / Carolinan(us) (Latin) (from Diocese of Raleigh and became suffragan of Atlanta)1977.01.01: Gained territory from the suppressed Abbacy nullius of Belmont–Mary Help of ChristiansContact InfoAddress: Chancery Office, 1123 S. Church St., P.O. Box 36776, Charlotte, NC 28236, USAPhone: +1 (704) 370-6299Present PrelatesBishop (2024.04.09 – ...):Bishop Michael Thomas Martin, O.F.M. Conv. (64)Monsignors (15)OrdinariesBishops of Charlotte (Roman Rite)Bishop Michael Thomas Martin, O.F.M. Conv. (64)  (2024.04.09 – ...)Bishop of Charlotte (USA)Duc in altumBorn:1961.12.02 (Baltimore, MD, USA)Ordained Priest:1989.06.10Consecrated Bishop:2024.05.29Bishop of Charlotte (USA) (2024.04.09 – ...)Bishop Peter Joseph Jugis (69)  (2003.08.01 – 2024.04.09)Bishop emeritus of Charlotte (USA)Caritas Christi urget nosBorn:1957.03.03 (Charlotte, NC, USA)Ordained Priest:1983.06.12Consecrated Bishop:2003.10.24Priest of Charlotte (USA) (1983.06.12 – 2003.08.01)Bishop of Charlotte (USA) (2003.08.01 – 2024.04.09)Bishop William George Curlin  (1994.02.22 – 2002.09.10)Sentire cum ChristoBorn:1927.08.30 (Portsmouth, VA, USA)Ordained Priest:1957.05.25Consecrated Bishop:1988.12.20Died:2017.12.23 (Charlotte, NC, USA † 90)Priest of Washington (USA) (1957.05.25 – 1988.11.02)Titular Bishop of Rosemarkie (1988.11.02 – 1994.02.22)Auxiliary Bishop of Washington (USA) (1988.11.02 – 1994.02.22)Bishop of Charlotte (USA) (1994.02.22 – 2002.09.10)Bishop John Francis Donoghue (later Archbishop)  (1984.11.06 – 1993.06.22)To live in Christ JesusBorn:1928.08.09 (Washington, DC, USA)Ordained Priest:1955.06.04Consecrated Bishop:1984.12.18Died:2011.11.11 (Atlanta, GA, USA † 83)Priest of Washington (USA) (1955.06.04 – 1984.11.06)Chaplain of His Holiness (1970.01.31 – 1984.11.06)Bishop of Charlotte (USA) (1984.11.06 – 1993.06.22)Metropolitan Archbishop of Atlanta (USA) (1993.06.22 – 2004.12.09)Bishop Michael Joseph Begley  (1971.11.30 – 1984.05.29)Diligimus fratresBorn:1909.03.12 (Mattineague, MI, USA)Ordained Priest:1934.03.26Consecrated Bishop:1972.01.12Died:2002.02.09 (High Point, NC, USA † 92)Priest of Raleigh (USA) (1934.03.26 – 1971.11.30)Bishop of Charlotte (USA) (1971.11.30 – 1984.05.29)Special ChurchesCathedral:  St. Patrick Cathedral, Charlotte, North Carolina Former Cathedral, Minor Basilica:  Basilica of Our Lady Help of Christians, Belmont, North Carolina Minor Basilica:  Basilica of St. Lawrence, Asheville, North Carolina Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (96)Show MapAtlanta (↙), Knoxville (←), Richmond (↑), Raleigh (→), Charleston (↓)Statistics (2022.12.31)Area: 53,476 km²Population: 546,370 Catholics (9.9% of 5,505,666 total)Pastoral Centres: 76 parishes, 23 missionsPersonnel: 165 priests (138 diocesan, 27 religious), 141 deacons, 121 religious (39 brothers, 82 sisters), 49 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "char1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5505666,
+    "catholiques": 546370,
+    "pourcentage_catholiques": 9.9
+  },
+  "ressources": {
+    "pretres_diocesains": 138,
+    "pretres_religieux": null,
+    "total_pretres": 165,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 76
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

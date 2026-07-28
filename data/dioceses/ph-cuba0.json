@@ -1,0 +1,29 @@
+{
+  "id": "ph-cuba0",
+  "nom": "Cubao",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Cubao / Cubaoën(sis) (Latin)Ecclesiastical Province: ManilaNeighbouring Dioceses: Manila (↙), Kalookan (←), Novaliches (↑), Antipolo (→), Pasig (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Immaculate Conception (December 8), Saint Peter Baptist (February 6)Cathedral Dedication Anniversary: August 14Liturgical Calendar (National) 📅History2003.06.28: Established as Diocese of Cubao / Cubaoën(sis) (Latin) (from Metropolitan Archdiocese of Manila and became suffragan of Manila)Present PrelatesBishop (2024.10.04 – ...):Bishop Elias Lumayog Ayuban, C.M.F. (58)Apostolic Administrator of Parañaque (Philippines)Monsignors (2)OrdinariesBishops of Cubao (Roman Rite)Bishop Elias Lumayog Ayuban, C.M.F. (58)  (2024.10.04 – ...)Bishop of Cubao (Philippines)Apostolic Administrator of Parañaque (Philippines)Misericordes sicut PaterBorn:1968.01.01 (Parang, Philippines)Ordained Priest:1996.03.09Consecrated Bishop:2024.12.03Bishop of Cubao (Philippines) (2024.10.04 – ...)Apostolic Administrator of Parañaque (Philippines) (2026.06.06 – ...)Bishop Honesto Flores Ongtioco (77)  (2003.06.28 – 2024.10.04)Bishop emeritus of Cubao (Philippines)Major autem caritasBorn:1948.10.17 (San Fernando, Philippines)Ordained Priest:1972.12.07Consecrated Bishop:1998.06.18Priest of San Fernando (Philippines) (1972.12.07 – 1998.04.08)Prelate of Honour of His Holiness (1992.12.23 – 1998.04.08)Bishop of Balanga (Philippines) (1998.04.08 – 2003.06.28)Bishop of Cubao (Philippines) (2003.06.28 – 2024.10.04)Apostolic Administrator of Malolos (Philippines) (2018.05.12 – 2019.05.14)Special ChurchesCathedral:  Cathedral of the Immaculate Conception, Quezon City, National Capital Region Minor Basilica:  Basilica Minore de San Pedro Bautista, Quezon City, National Capital Region Minor Basilica, National Shrine:  Basilica of the National Shrine of Our Lady of Mount Carmel, Quezon City, National Capital Region National Shrine:  National Shrine of Our Lady of Lourdes, Quezon City, National Capital Region National Shrine:  National Shrine of Our Lady of the Holy Rosary of La Naval de Manila, Quezon City, National Capital Region Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (49)Show MapManila (↙), Kalookan (←), Novaliches (↑), Antipolo (→), Pasig (↓)Statistics (2022.12.31)Area: 76 km²Population: 1,478,766 Catholics (78.8% of 1,877,260 total)Pastoral Centres: 47 parishes, 205 missionsPersonnel: 304 priests (44 diocesan, 260 religious), 9 deacons, 1,249 religious (570 brothers, 679 sisters), 18 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cuba0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1877260,
+    "catholiques": 1478766,
+    "pourcentage_catholiques": 78.8
+  },
+  "ressources": {
+    "pretres_diocesains": 44,
+    "pretres_religieux": null,
+    "total_pretres": 304,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

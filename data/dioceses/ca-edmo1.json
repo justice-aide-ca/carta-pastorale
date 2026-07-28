@@ -1,0 +1,29 @@
+{
+  "id": "ca-edmo1",
+  "nom": "Edmonton",
+  "pays": "ca",
+  "pays_nom": "Canada",
+  "continent": "amerique",
+  "type": "Diocese Name: Edmonton / Edmontonen(sis) Ucrainorum (Latin)Ecclesiastical Province: WinnipegNeighbouring Dioceses: New Westminster (←), Saskatoon (→), Saint Nicholas of Chicago (↓)Depends on: Dicastery for the Eastern ChurchesWebsites: History1948.01.19: Established as Apostolic Exarchate of Western Canada (from Apostolic Exarchate of Canada)1951.03.10: Renamed as Apostolic Exarchate of Edmonton / Edmontonen(sis) Ucrainorum (Latin)1956.11.03: Promoted as Diocese of Edmonton / Edmontonen(sis) Ucrainorum (Latin) (became suffragan of Winnipeg)1974.06.27: Lost territory to establish Diocese of New WestminsterContact InfoAddress: Eparch’s Chancery, 9645 - 108 Ave., Edmonton, AB T5H 1A3, CanadaPhone: +1 (780) 424-5496Present PrelatesBishop (2007.01.25 – ...):Bishop David Motiuk (64)OrdinariesBishops of Edmonton (Ukrainian Rite)Bishop David Motiuk (64)  (2007.01.25 – ...)Bishop of Edmonton of the Ukrainians (Canada)Born:1962.01.13 (Vegreville, AB, Canada)Ordained Priest:1988.08.21Consecrated Bishop:2002.06.11Priest of Edmonton of the Ukrainians (Canada) (1988.08.21 – 2002.04.05)Titular Bishop of Mathara in Numidia (2002.04.05 – 2007.01.25)Auxiliary Bishop of Winnipeg of the Ukrainians (Canada) (2002.04.05 – 2007.01.25)Bishop of Edmonton of the Ukrainians (Canada) (2007.01.25 – ...)Apostolic Administrator of New Westminster of the Ukrainians (Canada) (2020.01.15 – 2023.08.24)Bishop Lawrence Daniel Huculak, O.S.B.M. (75) (later Archbishop)  (1996.12.16 – 2006.01.09)Metropolitan Archbishop emeritus of Winnipeg of the Ukrainians (Canada)Confido in DominiBorn:1951.01.25 (Vernon, BC, Canada)Ordained Priest:1977.08.28Consecrated Bishop:1997.04.03Bishop of Edmonton of the Ukrainians (Canada) (1996.12.16 – 2006.01.09)Metropolitan Archbishop of Winnipeg of the Ukrainians (Canada) (2006.01.09 – 2026.07.09)Apostolic Administrator of Saskatoon of the Ukrainians (Canada) (2022.04.28 – 2023.11.30)Bishop Myron Michael Daciuk, O.S.B.M.  (1991.10.28 – 1996.01.14)Born:1919.11.16 (Mundare, AB, Canada)Ordained Priest:1945.06.10Consecrated Bishop:1982.10.14Died:1996.01.14 (Edmonton, AB, Canada † 76)Titular Bishop of Thyatira (1982.06.24 – 1991.10.28)Auxiliary Bishop of Winnipeg of the Ukrainians (Canada) (1982.06.24 – 1991.10.28)Bishop of Edmonton of the Ukrainians (Canada) (1991.10.28 – 1996.01.14)Bishop Demetrius Martin Greschuk  (1986.04.28 – 1990.07.08)Born:1923.11.07 (Innisfree, AB, Canada)Ordained Priest:1950.06.11Consecrated Bishop:1974.10.03Died:1990.07.08 (Edmonton, AB, Canada † 66)Priest of Edmonton of the Ukrainians (Canada) (1950.06.11 – 1974.06.27)Titular Bishop of Nazianzus (1974.06.27 – 1986.04.28)Auxiliary Bishop of Edmonton of the Ukrainians (Canada) (1974.06.27 – 1986.04.28)Bishop of Edmonton of the Ukrainians (Canada) (1986.04.28 – 1990.07.08)Bishop Neil Nicholas Savaryn, O.S.B.M.  (1956.11.03 – 1986.01.08)In te Domine speraviBorn:1905.05.19 (Stary Sambir, Ukraine)Ordained Priest:1931.08.23Consecrated Bishop:1943.07.01Died:1986.01.08 († 80)Auxiliary Bishop of Canada of the Ukrainians (Canada) (1943.04.03 – 1948.01.19)Titular Bishop of Ios (1943.04.03 – 1956.11.03)Apostolic Exarch of Western Canada of the Ukrainians (Canada) (1948.01.19 – 1951.03.10)Apostolic Exarch of Edmonton of the Ukrainians (Canada) (1951.03.10 – 1956.11.03)Bishop of Edmonton of the Ukrainians (Canada) (1956.11.03 – 1986.01.08)Apostolic Exarchs of Edmonton (Ukrainian Rite)Bishop Neil Nicholas Savaryn, O.S.B.M.  (1951.03.10 – 1956.11.03)(see above)Apostolic Exarchs of Western Canada (Ukrainian Rite)Bishop Neil Nicholas Savaryn, O.S.B.M.  (1948.01.19 – 1951.03.10)(see above)Former PrelatesAuxiliary Bishop: Bishop Demetrius Martin Greschuk (1974.06.27 – 1986.04.28)Special ChurchesCathedral:  St. Josaphat’s Cathedral, Edmonton, Alberta Churches by City (90)Show MapNew Westminster (←), Saskatoon (→), Saint Nicholas of Chicago (↓)Statistics (2022.12.31)Population: 5,090 CatholicsPastoral Centres: 81 parishesPersonnel: 38 priests (28 diocesan, 10 religious), 5 deacons, 21 religious (12 brothers, 9 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "edmo1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 28,
+    "pretres_religieux": null,
+    "total_pretres": 38,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 81
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

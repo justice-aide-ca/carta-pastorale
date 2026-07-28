@@ -1,0 +1,29 @@
+{
+  "id": "uy-merc1",
+  "nom": "Mercedes",
+  "pays": "uy",
+  "pays_nom": "Uruguay",
+  "continent": "amerique",
+  "type": "Diocese Name: Mercedes / Mercedanian(us) (Latin)Ecclesiastical Province: MontevideoNeighbouring Dioceses: Buenos Aires (↙), San Isidro (↙), Gualeguaychú (←), Salto (↑), San José de Mayo (↘)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1960.12.17: Established as Diocese of Mercedes / Mercedanian(us) (Latin) (from Diocese of Salto and Diocese of San José de Mayo and became suffragan of Montevideo)Contact InfoAddress: Wilson Ferreira Aldunate 669, 75000 Mercedes, UruguayPresent PrelatesBishop (2023.09.26 – ...):Bishop Luis Eduardo González Cedrés (54)Monsignors (1)OrdinariesBishops of Mercedes (Roman Rite)Bishop Luis Eduardo González Cedrés (54)  (2023.09.26 – ...)Bishop of Mercedes (Uruguay)Por Cristo, con Él y en ÉlBorn:1972.01.15 (Montevideo, Uruguay)Ordained Priest:2009.04.18Consecrated Bishop:2018.06.17Priest of Maldonado–Punta del Este (Uruguay) (2009.04.18 – 2018.05.11)Titular Bishop of Thugga (2018.05.11 – 2023.09.26)Auxiliary Bishop of Montevideo (Uruguay) (2018.05.11 – 2023.09.26)Bishop of Mercedes (Uruguay) (2023.09.26 – ...)Bishop Carlos María Collazzi Irazábal, S.D.B. (78)  (1995.02.14 – 2023.09.26)Bishop emeritus of Mercedes (Uruguay)Born:1947.09.20 (Rosario, Uruguay)Ordained Priest:1980.10.04Consecrated Bishop:1995.03.26Bishop of Mercedes (Uruguay) (1995.02.14 – 2023.09.26)President of Episcopal Conference of Uruguay (2000 – 2003)President of Episcopal Conference of Uruguay (2007.04 – 2013.04.01)First Vice-President of Latin American Episcopal Council (2015.05.13 – 2019.05.15)President of Episcopal Conference of Uruguay (2016.04.01 – 2019.04.01)Vice-President of Episcopal Conference of Uruguay (2019.04.01 – 2022.04.01)Bishop Andrés María Rubio Garcia, S.D.B.  (1975.05.22 – 1995.02.14)Born:1924.06.01 (Rocha, Uruguay)Ordained Priest:1949.09.11Consecrated Bishop:1968.06.29Died:2006.04.19 († 81)Titular Bishop of Fordongianus (1968.05.18 – 1975.05.22)Auxiliary Bishop of Montevideo (Uruguay) (1968.05.18 – 1975.05.22)Bishop of Mercedes (Uruguay) (1975.05.22 – 1995.02.14)Bishop Enrico Lorenzo Cabrera Urdangarin  (1960.12.31 – 1974.05.23)Born:1900.08.10 (San José de Mayo, Uruguay)Ordained Priest:1925.12.19Consecrated Bishop:1961.02.11Died:1974.05.23 († 73)Priest of Montevideo (Uruguay) (1925.12.19 – 1960.12.31)Bishop of Mercedes (Uruguay) (1960.12.31 – 1974.05.23)Former PrelatesAuxiliary Bishop: Bishop José Gottardi Cristelli, S.D.B. (later Archbishop) (1972.03.01 – 1975.05.22)Special ChurchesCathedral:  Catedral Nuestra Señora de las Mercedes, Mercedes, Soriano Minor Basilica, World Heritage Site (Minor):  Basílica do Santíssimo Sacramento, Colonia del Sacramento, Colonia Jubilee Churches in the Holy Year 2025Churches by City (21)Show MapBuenos Aires (↙), San Isidro (↙), Gualeguaychú (←), Salto (↑), San José de Mayo (↘)Statistics (2022.12.31)Area: 15,000 km²Population: 182,140 Catholics (81.7% of 222,935 total)Pastoral Centres: 16 parishesPersonnel: 14 priests (7 diocesan, 7 religious), 15 deacons, 34 religious (7 brothers, 27 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "merc1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 222935,
+    "catholiques": 182140,
+    "pourcentage_catholiques": 81.7
+  },
+  "ressources": {
+    "pretres_diocesains": 7,
+    "pretres_religieux": null,
+    "total_pretres": 14,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

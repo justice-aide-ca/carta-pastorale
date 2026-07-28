@@ -1,0 +1,29 @@
+{
+  "id": "ga-pgen0",
+  "nom": "Port-Gentil",
+  "pays": "ga",
+  "pays_nom": "Gabon",
+  "continent": "unknown",
+  "type": "Diocese Name: Port-Gentil / Portus Gentil(is) (Latin)Ecclesiastical Province: LibrevilleNeighbouring Dioceses: São Tomé e Príncipe (↖), Libreville (↑), Mouila (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2003.03.19: Established as Diocese of Port-Gentil / Portus Gentil(is) (Latin) (from Metropolitan Archdiocese of Libreville and became suffragan of Libreville)Present PrelatesBishop (2016.01.12 – ...):Bishop Euzébius Chinekezy Ogbonna Managwu (66)OrdinariesBishops of Port-Gentil (Roman Rite)Bishop Euzébius Chinekezy Ogbonna Managwu (66)  (2016.01.12 – ...)Bishop of Port-Gentil (Gabon)Born:1959.12.13 (N’Djamena, Chad)Ordained Priest:1992.11.01Consecrated Bishop:2016.04.03Priest of Libreville (Gabon) (1992.11.01 – 2016.01.12)Bishop of Port-Gentil (Gabon) (2016.01.12 – ...)Bishop Mathieu Madega Lebouakehan (66)  (Apostolic Administrator 2013.01.19 – 2016.01.12)Bishop Mathieu Madega Lebouakehan (66)  (2003.03.19 – 2013.01.19)Bishop of Mouila (Gabon)Born:1960.07.06 (Mbigou, Gabon)Ordained Priest:1991.12.29Consecrated Bishop:2000.05.07Priest of Mouila (Gabon) (1991.12.29 – 2000.02.17)Titular Bishop of Zallata (2000.02.17 – 2003.03.19)Auxiliary Bishop of Libreville (Gabon) (2000.02.17 – 2003.03.19)Bishop of Port-Gentil (Gabon) (2003.03.19 – 2013.01.19)Apostolic Administrator of Port-Gentil (Gabon) (2013.01.19 – 2016.01.12)Bishop of Mouila (Gabon) (2013.01.19 – ...)President of Episcopal Conference of Gabon (2014.07.11 – 2022.11.04)First Vice-President of Symposium of Episcopal Conferences of Africa and Madagascar (2016.07.24 – 2019.07.19)Special ChurchesCathedral:  Cathédrale Saint-Louis, Port-Gentil Show MapSão Tomé e Príncipe (↖), Libreville (↑), Mouila (→)Statistics (2022.12.31)Area: 22,890 km²Population: 79,260 Catholics (55.7% of 142,280 total)Pastoral Centres: 9 parishesPersonnel: 19 priests (13 diocesan, 6 religious), 18 religious (7 brothers, 11 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pgen0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 142280,
+    "catholiques": 79260,
+    "pourcentage_catholiques": 55.7
+  },
+  "ressources": {
+    "pretres_diocesains": 13,
+    "pretres_religieux": null,
+    "total_pretres": 19,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 9
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

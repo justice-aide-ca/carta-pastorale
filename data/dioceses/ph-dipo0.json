@@ -1,0 +1,29 @@
+{
+  "id": "ph-dipo0",
+  "nom": "Dipolog",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Dipolog / Dipologan(us) (Latin)Ecclesiastical Province: OzamizNeighbouring Dioceses: Ipil (↙), Dumaguete (↑), Ozamiz (↘), Pagadian (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Our Lady of the Holy Rosary, Saint Vincent FerrerCathedral Dedication Anniversary: November 6Liturgical Calendar (National) 📅History1967.07.31: Established as Diocese of Dipolog / Dipologan(us) (Latin) (from Metropolitan Archdiocese of Zamboanga and became suffragan of Zamboanga)1983.01.24: Became suffragan of OzamizPresent PrelatesBishop (2014.07.25 – ...):Bishop Severo Cagatan Caermare (56)Monsignors (1)OrdinariesBishops of Dipolog (Roman Rite)Bishop Severo Cagatan Caermare (56)  (2014.07.25 – ...)Bishop of Dipolog (Philippines)Benedicam Dominum semperBorn:1969.10.22 (Sibutad, Philippines)Ordained Priest:1996.04.22Consecrated Bishop:2014.10.30Priest of Dipolog (Philippines) (1996.04.22 – 2014.07.25)Bishop of Dipolog (Philippines) (2014.07.25 – ...)Bishop Jose Ricare Manguiran (89)  (1987.05.27 – 2014.07.25)Bishop emeritus of Dipolog (Philippines)Facite divina in nomine DominiBorn:1936.08.27 (Carcar, Philippines)Ordained Priest:1966.12.27Consecrated Bishop:1987.08.19Priest of Malaybalay (Philippines) (1966.12.27 – 1987.05.27)Bishop of Dipolog (Philippines) (1987.05.27 – 2014.07.25)Bishop Felix Sanchez Zafra  (1967.07.31 – 1986.10.20)Ut vitam abundantius habeantBorn:1920.01.14 (Clarin, Philippines)Ordained Priest:1944.03.04Consecrated Bishop:1967.10.22Died:2002.08.04 († 82)Priest of Tagbilaran (Philippines) (1944.03.04 – 1967.07.31)Bishop of Dipolog (Philippines) (1967.07.31 – 1986.10.20)Bishop of Tagbilaran (Philippines) (1986.10.20 – 1992.04.21)Special ChurchesCathedral:  Cathedral of Our Lady of the Holy Rosary, Dipolog City, Zamboanga del Norte, Zamboanga Peninsula Jubilee Churches in the Holy Year 2025Churches by City (44)Show MapIpil (↙), Dumaguete (↑), Ozamiz (↘), Pagadian (↓)Statistics (2022.12.31)Area: 7,206 km²Population: 726,168 Catholics (69.4% of 1,045,745 total)Pastoral Centres: 42 parishes, 3 missionsPersonnel: 88 priests (diocesan), 10 religious (10 sisters), 86 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "dipo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1045745,
+    "catholiques": 726168,
+    "pourcentage_catholiques": 69.4
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 42
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

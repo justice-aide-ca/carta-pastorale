@@ -1,0 +1,29 @@
+{
+  "id": "in-miao0",
+  "nom": "Miao",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Miao / Miaœn(sis) (Latin)Ecclesiastical Province: GuwahatiNeighbouring Dioceses: Kohima (↙), Dibrugarh (←), Itanagar (↖), Kangding 康定 (→), Myitkyina (↘)Depends on: Dicastery for EvangelisationWebsites: CelebrationsPatron Saint: Christ the LightLiturgical Calendar (National) 📅History2005.12.07: Established as Diocese of Miao / Miaœn(sis) (Latin) (from Diocese of Dibrugarh and became suffragan of Guwahati)Present PrelatesBishop (2005.12.07 – ...):Bishop George Pallipparambil, S.D.B. (72)Auxiliary Bishop (2018.06.08 – ...):Bishop Dennis Panipitchai, S.D.B. (67)Titular Bishop of AggerselOrdinariesBishops of Miao (Roman Rite)Bishop George Pallipparambil, S.D.B. (72)  (2005.12.07 – ...)Bishop of Miao (India)Miya aatma aur vishvaasBorn:1954.05.10 (Thattarathatta, India)Ordained Priest:1982.12.20Consecrated Bishop:2006.02.26Bishop of Miao (India) (2005.12.07 – ...)Special ChurchesCathedral:  Cathedral of Christ the Light, Miao, Arunāchal Pradesh Show MapKohima (↙), Dibrugarh (←), Itanagar (↖), Kangding 康定 (→), Myitkyina (↘)Statistics (2022.12.31)Area: 43,955 km²Population: 98,945 Catholics (19.5% of 508,000 total)Pastoral Centres: 26 parishes, 1 missionPersonnel: 105 priests (30 diocesan, 75 religious), 273 religious (86 brothers, 187 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "miao0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 508000,
+    "catholiques": 98945,
+    "pourcentage_catholiques": 19.5
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 105,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

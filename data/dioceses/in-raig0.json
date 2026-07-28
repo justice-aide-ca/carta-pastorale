@@ -1,0 +1,29 @@
+{
+  "id": "in-raig0",
+  "nom": "Raiganj",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Raiganj / Raigangen(sis) (Latin)Ecclesiastical Province: CalcuttaNeighbouring Dioceses: Dumka (↙), Purnea (←), Bagdogra (↑), Jalpaiguri (↗), Dinajpur (→), Joypurhat (↘), Rajshahi (↘), Krishnagar (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: St. Joseph the Worker (May 1)Liturgical Calendar (National) 📅History1978.06.08: Established as Diocese of Raiganj / Raigangen(sis) (Latin) (from Diocese of Dumka and became suffragan of Calcutta)Present PrelatesBishop (2018.06.08 – ...):Bishop Fulgence Aloysius Tigga (61)Monsignors (1)OrdinariesBishops of Raiganj (Roman Rite)Bishop Fulgence Aloysius Tigga (61)  (2018.06.08 – ...)Bishop of Raiganj (India)Born:1965.03.03 (Katkahi, India)Ordained Priest:1997.03.03Consecrated Bishop:2018.08.28Priest of Muzaffarpur (India) (1997.03.03 – 1998.06.27)Priest of Bettiah (India) (1998.06.27 – 2018.06.08)Bishop of Raiganj (India) (2018.06.08 – ...)Bishop Alphonsus Flavian D’Souza, S.J.  (1987.01.26 – 2016.04.30)Born:1939.07.04 (Mangalore, India)Ordained Priest:1971.07.13Consecrated Bishop:1987.05.17Died:2016.04.30 († 76)Bishop of Raiganj (India) (1987.01.26 – 2016.04.30)Bishop Leo Tigga, S.J.  (1978.06.08 – 1986.01.29)Born:1916.01.31 (Paikpara, India)Ordained Priest:1948.11.21Consecrated Bishop:1962.10.07Died:1986.01.29 (Malda, India † 69)Bishop of Dumka (India) (1962.08.08 – 1978.06.08)Bishop of Raiganj (India) (1978.06.08 – 1986.01.29)Special ChurchesCathedral:  St. Joseph the Worker Cathedral, Raiganj, West Bengal Show MapDumka (↙), Purnea (←), Bagdogra (↑), Jalpaiguri (↗), Dinajpur (→), Joypurhat (↘), Rajshahi (↘), Krishnagar (↓)Statistics (2021.12.31)Area: 8,920 km²Population: 106,400 Catholics (1.2% of 9,148,000 total)Pastoral Centres: 40 parishesPersonnel: 118 priests (100 diocesan, 18 religious), 277 religious (42 brothers, 235 sisters), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "raig0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 9148000,
+    "catholiques": 106400,
+    "pourcentage_catholiques": 1.2
+  },
+  "ressources": {
+    "pretres_diocesains": 100,
+    "pretres_religieux": null,
+    "total_pretres": 118,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

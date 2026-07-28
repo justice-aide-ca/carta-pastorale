@@ -1,0 +1,29 @@
+{
+  "id": "in-gulb0",
+  "nom": "Gulbarga",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Gulbarga / Gulbargien(sis) (Latin)Ecclesiastical Province: BangaloreNeighbouring Dioceses: Belgaum (↙), Poona (↖), Aurangabad (↑), Hyderabad (→), Nalgonda (→), Bellary (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Mary Mother of Divine GraceLiturgical Calendar (National) 📅History2005.06.24: Established as Diocese of Gulbarga / Gulbargien(sis) (Latin) (from Metropolitan Archdiocese of Hyderabad, Diocese of Belgaum and Diocese of Bellary and became suffragan of Bangalore)Present PrelatesBishop (2005.06.24 – ...):Bishop Robert Michael Miranda (74)OrdinariesBishops of Gulbarga (Roman Rite)Bishop Robert Michael Miranda (74)  (2005.06.24 – ...)Bishop of Gulbarga (India)In the spirit of the LordBorn:1952.04.10 (Kirem, India)Ordained Priest:1978.05.04Consecrated Bishop:2005.08.18Priest of Mangalore (India) (1978.05.04 – 2005.06.24)Bishop of Gulbarga (India) (2005.06.24 – ...)Special ChurchesCathedral:  Cathedral of Mother Mary of Divine Grace, Gulbarga, Karnātaka Show MapBelgaum (↙), Poona (↖), Aurangabad (↑), Hyderabad (→), Nalgonda (→), Bellary (↓)Statistics (2022.12.31)Area: 32,157 km²Population: 8,397 Catholics (0.1% of 7,708,320 total)Pastoral Centres: 30 parishes, 112 missionsPersonnel: 28 priests (diocesan), 223 religious (3 brothers, 220 sisters), 10 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "gulb0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 7708320,
+    "catholiques": 8397,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

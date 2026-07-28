@@ -1,0 +1,29 @@
+{
+  "id": "pg-mend2",
+  "nom": "Mendi",
+  "pays": "pg",
+  "pays_nom": "Papua New Guinea",
+  "continent": "oceanie",
+  "type": "Diocese Name: Mendi / 門迪 (正體中文) / Mendien(sis) (Latin)Ecclesiastical Province: Mount HagenNeighbouring Dioceses: Daru–Kiunga (←), Aitape (↖), Wabag (↑), Wewak (↑), Mount Hagen (↗), Kundiawa (→), Kerema (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1958.11.13: Established as Apostolic Prefecture of Mendi / 門迪 (正體中文) / Mendien(sis) (Latin) (from Apostolic Vicariate of Port Moresby)1965.07.06: Promoted as Apostolic Vicariate of Mendi / 門迪 (正體中文) / Mendien(sis) (Latin)1966.11.15: Promoted as Diocese of Mendi / 門迪 (正體中文) / Mendien(sis) (Latin) (became suffragan of Madang)1971.01.16: Lost territory to establish Diocese of Kerema1982.03.18: Became suffragan of Mount HagenContact InfoAddress: Bishop’s House, P.O. Box 69, Mendi, Southern Highlands Province 251, Papua New GuineaPhone: 54.91.102Present PrelatesBishop (2011.11.22 – ...):Bishop Donald Francis Lippert, O.F.M. Cap. (69)OrdinariesBishops of Mendi (Roman Rite)Bishop Donald Francis Lippert, O.F.M. Cap. (69)  (2011.11.22 – ...)Bishop of Mendi (Papua New Guinea)Stap wanbel wantain siosBorn:1957.06.12 (Pittsburgh, PA, USA)Ordained Priest:1985.06.08Consecrated Bishop:2012.02.04Bishop of Mendi (Papua New Guinea) (2011.11.22 – ...)Bishop Stephen Joseph Reichert, O.F.M. Cap. (83) (later Archbishop)  (1995.02.03 – 2010.11.30)Metropolitan Archbishop emeritus of Madang (Papua New Guinea)Laikim God na ol manneriBorn:1943.05.14 (Leoville, KS, USA)Ordained Priest:1969.09.27Consecrated Bishop:1995.05.07Bishop of Mendi (Papua New Guinea) (1995.02.03 – 2010.11.30)President of Bishops’ Conference of Papua New Guinea and Solomon Islands (1999 – 2002)Metropolitan Archbishop of Madang (Papua New Guinea) (2010.11.30 – 2019.07.26)Apostolic Administrator of Wewak (Papua New Guinea) (2013.09.20 – 2015.02.06)Vice-President of Bishops’ Conference of Papua New Guinea and Solomon Islands (2014.05 – 2020.07.02)Bishop Firmin Martin Schmidt, O.F.M. Cap.  (1966.11.15 – 1995.02.03)Born:1918.10.12 (Catharine, KS, USA)Ordained Priest:1946.06.02Consecrated Bishop:1965.12.15Died:2005.08.04 (Hays, KS, USA † 86)Prefect Apostolic of Mendi (Papua New Guinea) (1959.04.03 – 1965.07.06)Titular Bishop of Conana (1965.07.06 – 1966.11.15)Vicar Apostolic of Mendi (Papua New Guinea) (1965.07.06 – 1966.11.15)Bishop of Mendi (Papua New Guinea) (1966.11.15 – 1995.02.03)President of Bishops’ Conference of Papua New Guinea and Solomon Islands (1978 – 1983)Vicars Apostolic of Mendi (Roman Rite)Bishop Firmin Martin Schmidt, O.F.M. Cap.  (1965.07.06 – 1966.11.15)(see above)Prefects Apostolic of Mendi (Roman Rite)Fr. Firmin Martin Schmidt, O.F.M. Cap. (later Bishop)  (1959.04.03 – 1965.07.06)(see above)Special ChurchesCathedral:  Mother of the Divine Shepherd Cathedral, Mendi, Southern Highlands Show MapDaru–Kiunga (←), Aitape (↖), Wabag (↑), Wewak (↑), Mount Hagen (↗), Kundiawa (→), Kerema (↘)Statistics (2022.12.31)Area: 25,500 km²Population: 86,129 Catholics (9.7% of 889,000 total)Pastoral Centres: 31 parishes, 2 missionsPersonnel: 44 priests (19 diocesan, 25 religious), 97 religious (34 brothers, 63 sisters), 25 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mend2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 889000,
+    "catholiques": 86129,
+    "pourcentage_catholiques": 9.7
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 44,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

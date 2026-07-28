@@ -1,0 +1,29 @@
+{
+  "id": "pl-bydg0",
+  "nom": "Bydgoszcz",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Bydgoszcz / Bydgostien(sis) (Latin)Ecclesiastical Province: GnieznoNeighbouring Dioceses: Poznań (↙), Koszalin–Kołobrzeg (↖), Pelplin (↗), Toruń (→), Gniezno (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Najświętszej Maryi Panny, Matki Pięknej Miłości (September 8), Blessed Michał Kozal (June 14)Cathedral Dedication Anniversary: August 31Liturgical Calendar 📅History2004.02.24: Established as Diocese of Bydgoszcz / Bydgostien(sis) (Latin) (from Metropolitan Archdiocese of Gniezno, Diocese of Koszalin–Kołobrzeg and Diocese of Pelplin and became suffragan of Gniezno)Papal VisitsPope John Paul II (1999.06)Present PrelatesBishop (2021.09.21 – ...):Bishop Krzysztof Stefan Włodarczyk (65)Monsignors (28)OrdinariesBishops of Bydgoszcz (Roman Rite)Bishop Krzysztof Stefan Włodarczyk (65)  (2021.09.21 – ...)Bishop of Bydgoszcz (Poland)Łaska miłosierdzie pokójBorn:1961.02.25 (Sławno, Poland)Ordained Priest:1987.06.21Consecrated Bishop:2016.06.11Priest of Koszalin–Kołobrzeg (Poland) (1987.06.21 – 2016.05.07)Chaplain of His Holiness (2006.05.16 – 2016.05.07)Titular Bishop of Surista (2016.05.07 – 2021.09.21)Auxiliary Bishop of Koszalin–Kołobrzeg (Poland) (2016.05.07 – 2021.09.21)Bishop of Bydgoszcz (Poland) (2021.09.21 – ...)Bishop Wiesław Śmigiel (57) (later Archbishop)  (Apostolic Administrator 2021.05.12 – 2021.09.21)Bishop Jan Karol Tyrawa (77)  (2004.02.24 – 2021.05.12)Bishop emeritus of Bydgoszcz (Poland)Crux ave spes unicaBorn:1948.11.04 (Kuznice Swidnickie, Poland)Ordained Priest:1973.05.26Consecrated Bishop:1988.11.05Priest of Wrocław (Poland) (1973.05.26 – 1988.09.24)Titular Bishop of Nova Sinna (1988.09.24 – 2004.02.24)Auxiliary Bishop of Wrocław (Poland) (1988.09.24 – 2004.02.24)Bishop of Bydgoszcz (Poland) (2004.02.24 – 2021.05.12)Special ChurchesCathedral:  Katedra św. Marcina i Mikołaja, Bydgoszcz, Kujawsko-Pomorskie Minor Basilica:  Bazylika Matki Boskiej Królowej Męczenników, Bydgoszcz, Kujawsko-Pomorskie Minor Basilica:  Bazylika NMP Niepokalanie Poczętej, Górka Klasztorna, Wielkopolskie Minor Basilica:  Bazylika św. Wincentego à Paulo, Bydgoszcz, Kujawsko-Pomorskie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapPoznań (↙), Koszalin–Kołobrzeg (↖), Pelplin (↗), Toruń (→), Gniezno (↓)Statistics (2022.12.31)Area: 5,200 km²Population: 590,000 Catholics (93.7% of 630,000 total)Pastoral Centres: 153 parishes, 1 missionPersonnel: 401 priests (302 diocesan, 99 religious), 240 religious (109 brothers, 131 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bydg0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 630000,
+    "catholiques": 590000,
+    "pourcentage_catholiques": 93.7
+  },
+  "ressources": {
+    "pretres_diocesains": 302,
+    "pretres_religieux": null,
+    "total_pretres": 401,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 153
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

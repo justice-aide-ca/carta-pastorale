@@ -1,0 +1,29 @@
+{
+  "id": "br-join0",
+  "nom": "Joinville",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Metropolitan Archdiocese Name: Joinville / Ioinvillen(sis) (Latin)Suffragan Sees: Blumenau, Rio do SulNeighbouring Dioceses: Rio do Sul (↙), Caçador (←), União da Vitória (←), São José dos Pinhais (↖), Paranaguá (↑), Blumenau (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Francis Xavier (December 3)Liturgical Calendar (National) 📅History1927.01.17: Established as Diocese of Joinville / Ioinvillen(sis) (Latin) (from Diocese of Santa Catarina and became suffragan of Florianópolis)1968.11.23: Lost territory to establish Diocese of Rio do Sul2000.04.19: Lost territory to establish Diocese of Blumenau2024.11.05: Promoted as Metropolitan Archdiocese of Joinville / Ioinvillen(sis) (Latin) (with suffragan sees Blumenau and Rio do Sul)Present PrelatesMetropolitan Archbishop (2024.11.05 – ...):Archbishop Francisco Carlos Bach (72)Monsignors (4)OrdinariesMetropolitan Archbishops of Joinville (Roman Rite)Archbishop Francisco Carlos Bach (72)  (2024.11.05 – ...)Metropolitan Archbishop of Joinville (Brazil)In manus tuasBorn:1954.05.04 (Ponta Grossa, PR, Brazil)Ordained Priest:1977.12.03Consecrated Bishop:2005.10.27Priest of Ponta Grossa (Brazil) (1977.12.03 – 2005.07.27)Bishop of Toledo (Brazil) (2005.07.27 – 2012.10.03)Bishop of São José dos Pinhais (Brazil) (2012.10.03 – 2017.04.19)Apostolic Administrator of Paranaguá (Brazil) (2015.04.11 – 2015.11.25)Bishop of Joinville (Brazil) (2017.04.19 – 2024.11.05)Metropolitan Archbishop of Joinville (Brazil) (2024.11.05 – ...)Bishops of Joinville (Roman Rite)Bishop Francisco Carlos Bach (72) (later Archbishop)  (2017.04.19 – 2024.11.05)(see above)Bishop Irineu Roque Scherer  (2007.05.30 – 2016.07.01)Fides mundum vincitBorn:1950.12.15 (Cerro Largo, RS, Brazil)Ordained Priest:1978.01.07Consecrated Bishop:1998.06.20Died:2016.07.01 (Joinville, SC, Brazil † 65)Priest of Toledo (Brazil) (1978.01.07 – 1998.04.15)Bishop of Garanhuns (Brazil) (1998.04.15 – 2007.05.30)Bishop of Joinville (Brazil) (2007.05.30 – 2016.07.01)Bishop Orlando Brandes (80) (later Archbishop)  (1994.03.09 – 2006.05.10)Metropolitan Archbishop emeritus of Aparecida (Brazil)Somos Operários de DeusBorn:1946.04.13 (Urubici, SC, Brazil)Ordained Priest:1974.07.06Consecrated Bishop:1994.06.05Priest of Lages (Brazil) (1974.07.06 – 1994.03.09)Bishop of Joinville (Brazil) (1994.03.09 – 2006.05.10)Metropolitan Archbishop of Londrina (Brazil) (2006.05.10 – 2016.11.16)Metropolitan Archbishop of Aparecida (Brazil) (2016.11.16 – 2026.03.02)Apostolic Administrator of Limeira (Brazil) (2019.05.17 – 2019.11.20)Bishop Gregório Warmeling  (1957.04.03 – 1994.03.09)Mihi vivere Christus estBorn:1918.04.17 (Orleães, SC, Brazil)Ordained Priest:1943.09.05Consecrated Bishop:1957.06.29Died:1997.01.03 (Joinville, SC, Brazil † 78)Priest of Tubarão (Brazil) (1943.09.05 – 1957.04.03)Bishop of Joinville (Brazil) (1957.04.03 – 1994.03.09)Bishop Inácio Krause (葛樂才), C.M.  (Apostolic Administrator 1956 – 1957.04.03)Bishop Pio de Freitas Silveira, C.M.  (1929.01.25 – 1955.01.19)Vivo autem jam non egoBorn:1885.04.29 (Campo Belo, MG, Brazil)Ordained Priest:1908.06.13Consecrated Bishop:1929.06.09Died:1963.05.19 († 78)Bishop of Joinville (Brazil) (1929.01.25 – 1955.01.19)Titular Bishop of Voncaria (1955.01.19 – 1963.05.19)Former PrelatesCoadjutor Bishop: Bishop Inácio João Dal Monte, O.F.M. Cap. (1949.03.15 – 1952.05.21)Special ChurchesCathedral:  Catedral São Francisco Xavier, Joinville, Santa Catarina Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (66)Show MapRio do Sul (↙), Caçador (←), União da Vitória (←), São José dos Pinhais (↖), Paranaguá (↑), Blumenau (↓)Statistics (2022.12.31)Area: 9,508 km²Population: 896,000 Catholics (69.0% of 1,298,000 total)Pastoral Centres: 65 parishes, 427 missionsPersonnel: 151 priests (91 diocesan, 60 religious), 86 deacons, 187 religious (89 brothers, 98 sisters), 20 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "join0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1298000,
+    "catholiques": 896000,
+    "pourcentage_catholiques": 69.0
+  },
+  "ressources": {
+    "pretres_diocesains": 91,
+    "pretres_religieux": null,
+    "total_pretres": 151,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 65
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

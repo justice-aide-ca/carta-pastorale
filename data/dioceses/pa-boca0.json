@@ -1,0 +1,29 @@
+{
+  "id": "pa-boca0",
+  "nom": "Bocas del Toro",
+  "pays": "pa",
+  "pays_nom": "Panama",
+  "continent": "unknown",
+  "type": "Territorial Prelature Name: Bocas del Toro / Buccæ Taurinæ (Latin)Ecclesiastical Province: PanamáNeighbouring Dioceses: San Isidro de El General (←), Limón (↖), Santiago de Veraguas (↘), David (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History1962.10.17: Established as Territorial Prelature of Bocas del Toro / Buccæ Taurinæ (Latin) (from Diocese of David and became suffragan of Panamá)Contact InfoAddress: Obispado, Calle Tercera, Apartado 0101-00018, Bocas del Toro, PanamaPhone: 757.92.58Present PrelatesBishop-Prelate (2008.05.01 – ...):Bishop Anibal Saldaña Santamaría, O.A.R. (68)OrdinariesPrelates of Bocas del Toro (Roman Rite)Bishop Anibal Saldaña Santamaría, O.A.R. (68)  (2008.05.01 – ...)Bishop-Prelate of Bocas del Toro (Panama)Tu sequere me / Tú sigúemeBorn:1958.01.25 (Puerto Armuelles, Panama)Ordained Priest:1982.10.24Consecrated Bishop:2008.06.21Bishop-Prelate of Bocas del Toro (Panama) (2008.05.01 – ...)Bishop José Agustín Ganuza García, O.A.R.  (1970.03.12 – 2008.05.01)Ubi utilius EcclesiæBorn:1931.08.28 (Artajona, Spain)Ordained Priest:1954.06.27Consecrated Bishop:1972.05.27Died:2026.02.20 (Panamá, Panama † 94)Bishop-Prelate of Bocas del Toro (Panama) (1970.03.12 – 2008.05.01)Titular Bishop of Pauzera (1972.02.04 – 1977.11.18)Bishop Martin Legarra Tellechea, O.A.R.  (1963.11.06 – 1969.04.03)Born:1910.01.25 (Murguindueta, Spain)Ordained Priest:1933.03.19Consecrated Bishop:1965.06.06Died:1985.06.15 (Panamá, Panama † 75)Bishop-Prelate of Bocas del Toro (Panama) (1963.11.06 – 1969.04.03)Titular Bishop of Luperciana (1965.03.18 – 1969.04.03)Bishop of Santiago de Veraguas (Panama) (1969.04.03 – 1975.02.15)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen, Bocas del Toro, Isla Colón, Bocas del Toro Jubilee Churches in the Holy Year 2025Show MapSan Isidro de El General (←), Limón (↖), Santiago de Veraguas (↘), David (↓)Statistics (2022.12.31)Area: 8,974 km²Population: 103,890 Catholics (53.2% of 195,400 total)Pastoral Centres: 7 parishes, 46 missionsPersonnel: 12 priests (3 diocesan, 9 religious), 13 religious (9 brothers, 4 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "boca0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 195400,
+    "catholiques": 103890,
+    "pourcentage_catholiques": 53.2
+  },
+  "ressources": {
+    "pretres_diocesains": 3,
+    "pretres_religieux": null,
+    "total_pretres": 12,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

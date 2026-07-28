@@ -1,0 +1,29 @@
+{
+  "id": "et-bahi1",
+  "nom": "Bahir Dar–Dessie",
+  "pays": "et",
+  "pays_nom": "Ethiopia",
+  "continent": "unknown",
+  "type": "Diocese Name: Bahir Dar–Dessie / Bahirdardessien(sis) (Latin)Ecclesiastical Province: Addis AbebaNeighbouring Dioceses: Khartoum (↖), Adigrat (↑), Addis Abeba (↘), Nekemte (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: History2015.01.19: Established as Diocese of Bahir Dar–Dessie / Bahirdardessien(sis) (Latin) (from Metropolitanate sui juris of Addis Abeba and became suffragan of Addis Abeba)Present PrelatesBishop (2015.01.19 – ...):Bishop Lisane-Christos Matheos Semahun (66)OrdinariesBishops of Bahir Dar–Dessie (Ethiopic Rite)Bishop Lisane-Christos Matheos Semahun (66)  (2015.01.19 – ...)Bishop of Bahir Dar–Dessie of the Ethiopics (Ethiopia)Born:1959.12.19 (Addis Abeba, Ethiopia)Ordained Priest:1988.05.08Consecrated Bishop:2010.04.18Priest of Addis Abeba of the Ethiopics (Ethiopia) (1988.05.08 – 2010.01.05)Titular Bishop of Mathara in Numidia (2010.01.05 – 2015.01.19)Auxiliary Bishop of Addis Abeba of the Ethiopics (Ethiopia) (2010.01.05 – 2015.01.19)Bishop of Bahir Dar–Dessie of the Ethiopics (Ethiopia) (2015.01.19 – ...)Special ChurchesCathedral:  Cathedral of Egziabher Ab, Bahir Dar Show MapKhartoum (↖), Adigrat (↑), Addis Abeba (↘), Nekemte (↓)Statistics (2021.12.31)Area: 224,350 km²Population: 18,000 Catholics (0.1% of 22,117,000 total)Pastoral Centres: 14 parishes, 5 missionsPersonnel: 28 priests (3 diocesan, 25 religious), 87 religious (32 brothers, 55 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bahi1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 22117000,
+    "catholiques": 18000,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 3,
+    "pretres_religieux": null,
+    "total_pretres": 28,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

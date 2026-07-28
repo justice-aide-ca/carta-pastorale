@@ -1,0 +1,29 @@
+{
+  "id": "ng-agul0",
+  "nom": "Aguleri",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Aguleri / Agulerien(sis) (Latin)Ecclesiastical Province: OnitshaNeighbouring Dioceses: Issele-Uku (←), Idah (↑), Nsukka (↗), Awka (↘), Onitsha (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2023.02.12: Established as Diocese of Aguleri / Agulerien(sis) (Latin) (from Metropolitan Archdiocese of Onitsha and became suffragan of Onitsha)Present PrelatesBishop (2023.02.12 – ...):Bishop Denis Chidi Isizoh (70)OrdinariesBishops of Aguleri (Roman Rite)Bishop Denis Chidi Isizoh (70)  (2023.02.12 – ...)Bishop of Aguleri (Nigeria)Entirely for GodBorn:1956.01.24 (Ogbunike, Nigeria)Ordained Priest:1985.09.28Consecrated Bishop:2015.05.01Priest of Onitsha (Nigeria) (1985.09.28 – 2015.02.06)Chaplain of His Holiness (2002.04.20 – 2015.02.06)Titular Bishop of Legia (2015.02.06 – 2023.02.12)Auxiliary Bishop of Onitsha (Nigeria) (2015.02.06 – 2023.02.12)Bishop of Aguleri (Nigeria) (2023.02.12 – ...)Special ChurchesCathedral:  Cathedral of St. Joseph, Aguleri, Anambra Show MapIssele-Uku (←), Idah (↑), Nsukka (↗), Awka (↘), Onitsha (↓)Statistics (2023)Area: 1,388 km²Population: 357,965 Catholics (19.3% of 1,857,060 total)Pastoral Centres: 63 parishesPersonnel: 120 priests (113 diocesan, 7 religious), 316 religious (6 brothers, 310 sisters), 59 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "agul0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1857060,
+    "catholiques": 357965,
+    "pourcentage_catholiques": 19.3
+  },
+  "ressources": {
+    "pretres_diocesains": 113,
+    "pretres_religieux": null,
+    "total_pretres": 120,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 63
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

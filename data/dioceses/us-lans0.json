@@ -1,0 +1,29 @@
+{
+  "id": "us-lans0",
+  "nom": "Lansing",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Lansing / Lansingen(sis) (Latin)Ecclesiastical Province: DetroitNeighbouring Dioceses: Fort Wayne–South Bend (↙), Kalamazoo (←), Grand Rapids (↖), Saginaw (↗), Detroit (→), Toledo (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Immaculate Conception (December 8)Cathedral Dedication Anniversary: December 9 (1913)Liturgical Calendar 📅History1937.05.22: Established as Diocese of Lansing / Lansingen(sis) (Latin) (from Diocese of Detroit and became suffragan of Detroit)1970.12.19: Lost territory to establish Diocese of KalamazooContact InfoAddress: 300 West Ottawa St., Lansing, MI 48933, USAPhone: +1 (517) 342-2440Present PrelatesBishop (2008.02.27 – ...):Bishop Earl Alfred Boyea (75)Monsignors (14)OrdinariesBishops of Lansing (Roman Rite)Bishop Earl Alfred Boyea (75)  (2008.02.27 – ...)Bishop of Lansing (USA)In manus tuasBorn:1951.04.10 (Pontiac, MI, USA)Ordained Priest:1978.05.20Consecrated Bishop:2002.09.13Priest of Detroit (USA) (1978.05.20 – 2002.07.22)Prelate of Honour of His Holiness (2000.03.18 – 2002.07.22)Titular Bishop of Siccenna (2002.07.22 – 2008.02.27)Auxiliary Bishop of Detroit (USA) (2002.07.22 – 2008.02.27)Bishop of Lansing (USA) (2008.02.27 – ...)Bishop Carl Frederick Mengeling  (1995.11.07 – 2008.02.27)He must increaseBorn:1930.10.22 (Hammond, IN, USA)Ordained Priest:1957.05.25Consecrated Bishop:1996.01.25Died:2025.07.01 (Lansing, MI, USA † 94)Priest of Gary (USA) (1957.05.25 – 1995.11.07)Prelate of Honour of His Holiness (1984.04.27 – 1995.11.07)Bishop of Lansing (USA) (1995.11.07 – 2008.02.27)Bishop Kenneth Joseph Povish  (1975.10.08 – 1995.11.07)To accomplish his workBorn:1924.04.19 (Alpena, MI, USA)Ordained Priest:1950.06.03Consecrated Bishop:1970.09.29Died:2003.09.05 (Lansing, MI, USA † 79)Priest of Saginaw (USA) (1950.06.03 – 1970.07.28)Domestic Prelate (1967.10.15 – 1968.03.28)Prelate of Honour of His Holiness (1968.03.28 – 1970.07.28)Bishop of Crookston (USA) (1970.07.28 – 1975.10.08)Bishop of Lansing (USA) (1975.10.08 – 1995.11.07)Bishop Alexander Mieceslaus Zaleski  (1965.12.01 – 1975.05.16)Born:1906.06.24 (Laurel, NY, USA)Ordained Priest:1931.07.12Consecrated Bishop:1950.05.23Died:1975.05.16 (Miami, FL, USA † 68)Priest of Detroit (USA) (1931.07.12 – 1950.03.28)Auxiliary Bishop of Detroit (USA) (1950.03.28 – 1964.10.07)Titular Bishop of Lyrbe (1950.03.28 – 1965.12.01)Coadjutor Bishop of Lansing (USA) (1964.10.07 – 1965.12.01)Bishop of Lansing (USA) (1965.12.01 – 1975.05.16)Bishop Joseph Henry Albers  (1937.08.04 – 1965.12.01)Born:1891.03.18 (Cincinnati, OH, USA)Ordained Priest:1916.06.16Consecrated Bishop:1929.12.27Died:1965.12.01 (Lansing, MI, USA † 74)Priest of Cincinnati (USA) (1916.06.16 – 1929.12.16)Titular Bishop of Lunda (1929.12.16 – 1937.08.04)Auxiliary Bishop of Cincinnati (USA) (1929.12.16 – 1937.08.04)Bishop of Lansing (USA) (1937.08.04 – 1965.12.01)Former PrelatesCoadjutor Bishop: Bishop Alexander Mieceslaus Zaleski (1964.10.07 – 1965.12.01)Auxiliary Bishop: Bishop James Stephen Sullivan (1972.07.25 – 1985.03.29)Auxiliary Bishop: Bishop Michael Joseph Green (1962.06.22 – 1967.03.11)Special ChurchesCathedral:  St. Mary Cathedral, Lansing, Michigan Churches by City (88)Show MapFort Wayne–South Bend (↙), Kalamazoo (←), Grand Rapids (↖), Saginaw (↗), Detroit (→), Toledo (↘)Statistics (2022.12.31)Area: 16,327 km²Population: 180,300 Catholics (9.9% of 1,819,576 total)Pastoral Centres: 72 parishesPersonnel: 148 priests (122 diocesan, 26 religious), 113 deacons, 355 religious (27 brothers, 328 sisters), 28 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lans0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1819576,
+    "catholiques": 180300,
+    "pourcentage_catholiques": 9.9
+  },
+  "ressources": {
+    "pretres_diocesains": 122,
+    "pretres_religieux": null,
+    "total_pretres": 148,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 72
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

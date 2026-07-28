@@ -1,0 +1,29 @@
+{
+  "id": "ti-bauc0",
+  "nom": "Baucau",
+  "pays": "ti",
+  "pays_nom": "Timor-Leste",
+  "continent": "unknown",
+  "type": "Diocese Name: Baucau / Baucan(us) (Latin)Ecclesiastical Province: DíliNeighbouring Dioceses: Díli (←), Amboina (↗), Darwin (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1996.11.30: Established as Diocese of Baucau / Baucan(us) (Latin) (from Diocese of Díli)2019.09.11: Became suffragan of DíliPresent PrelatesBishop (2023.04.26 – ...):Bishop Leandro Maria Alves (52)OrdinariesBishops of Baucau (Roman Rite)Bishop Leandro Maria Alves (52)  (2023.04.26 – ...)Bishop of Baucau (Timor-Leste)Pertransivit benefaciendoBorn:1974.05.10 (Ermera, Timor-Leste)Ordained Priest:2006.12.08Consecrated Bishop:2023.07.21Priest of Díli (Timor-Leste) (2006.12.08 – 2023.04.26)Bishop of Baucau (Timor-Leste) (2023.04.26 – ...)Bishop Basílio do Nascimento  (2004.03.06 – 2021.10.30)Et vocem Spiritu SanctoBorn:1950.06.14 (Suai, Timor-Leste)Ordained Priest:1977.06.25Consecrated Bishop:1997.01.06Died:2021.10.30 (Dili, Timor-Leste † 71)Priest of Díli (Timor-Leste) (1977.06.25 – 1996.11.30)Titular Bishop of Septimunicia (1996.11.30 – 2004.03.06)Apostolic Administrator of Baucau (Timor-Leste) (1996.11.30 – 2004.03.06)Apostolic Administrator of Díli (Timor-Leste) (2002.11.26 – 2004.02.27)Bishop of Baucau (Timor-Leste) (2004.03.06 – 2021.10.30)President of Episcopal Conference of Timor (2012.04 – 2019)Apostolic Administrator of Díli (Timor-Leste) (2015.02.09 – 2016.01.30)General Secretary of Episcopal Conference of Timor (2019 – 2021.10.30)Bishop Basílio do Nascimento  (Apostolic Administrator 1996.11.30 – 2004.03.06)Special ChurchesCathedral:  Catedral Santo António, Baucau, Baucau National Shrine:  Santuario Nacional Nossa Senhora de Aitara, Saibada, Manatuto Churches by City (28)Show MapDíli (←), Amboina (↗), Darwin (↘)Statistics (2022.12.31)Area: 5,097 km²Population: 407,854 Catholics (97.5% of 418,265 total)Pastoral Centres: 22 parishes, 206 missionsPersonnel: 76 priests (37 diocesan, 39 religious), 439 religious (264 brothers, 175 sisters), 68 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bauc0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 418265,
+    "catholiques": 407854,
+    "pourcentage_catholiques": 97.5
+  },
+  "ressources": {
+    "pretres_diocesains": 37,
+    "pretres_religieux": null,
+    "total_pretres": 76,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cd-lueb0",
+  "nom": "Luebo",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Luebo / Lueboën(sis) (Latin)Ecclesiastical Province: KanangaNeighbouring Dioceses: Kikwit (↙), Idiofa (←), Mweka (↑), Kananga (→), Luiza (↘), Dundo (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1959.04.25: Established as Apostolic Vicariate of Luebo / Lueboën(sis) (Latin) (from Apostolic Vicariate of Luluabourg)1959.11.10: Promoted as Diocese of Luebo / Lueboën(sis) (Latin) (became suffragan of Luluabourg)1967.09.26: Gained territory from Metropolitan Archdiocese of LuluabourgPresent PrelatesBishop (2006.01.07 – ...):Bishop Pierre-Célestin Tshitoko Mamba (70)Monsignors (3)OrdinariesBishops of Luebo (Roman Rite)Bishop Pierre-Célestin Tshitoko Mamba (70)  (2006.01.07 – ...)Bishop of Luebo (Congo-Kinshasa)Ut unum sintBorn:1956.02.23 (Kolwezi, Congo-Kinshasa)Ordained Priest:1982.08.22Consecrated Bishop:2006.03.25Priest of Kananga (Congo-Kinshasa) (1982.08.22 – 2006.01.07)Bishop of Luebo (Congo-Kinshasa) (2006.01.07 – ...)Archbishop Emery Kabongo Kanundowi (85)  (1987.12.10 – 2003.08.14)Archbishop-Bishop emeritus of Luebo (Congo-Kinshasa)CaritasBorn:1940.07.22 (Bena-Kazadi-Tshikula, Congo-Kinshasa)Ordained Priest:1969.08.15Consecrated Bishop:1988.01.06Priest of Kananga (Congo-Kinshasa) (1969.08.15 – 1987.12.10)Chaplain of His Holiness (1976.02.09 – 1987.05.27)Second Private Secretary of the Pope (1982.02.11 – 1987.12.10)Prelate of Honour of His Holiness (1987.05.27 – 1987.12.10)Archbishop-Bishop of Luebo (Congo-Kinshasa) (1987.12.10 – 2003.08.14)Apostolic Administrator of Mweka (Congo-Kinshasa) (1988 – 1989.01.19)Bishop François Kabangu wa Mutela  (1967.09.26 – 1987.12.10)Born:1924.06.01 (Basankusu, Congo-Kinshasa)Ordained Priest:1956.12.08Consecrated Bishop:1967.12.17Died:1995.05.27 († 70)Bishop of Luebo (Congo-Kinshasa) (1967.09.26 – 1987.12.10)Bishop Joseph Ngogi Nkongolo  (1959.11.10 – 1966.05.03)Born:1916.06.17 (Hemptinne Saint Benoît, Congo-Kinshasa)Ordained Priest:1946.05.05Consecrated Bishop:1959.07.01Died:1999.10.12 († 83)Titular Bishop of Lebedus (1959.04.25 – 1959.11.10)Vicar Apostolic of Luebo (Congo-Kinshasa) (1959.04.25 – 1959.11.10)Bishop of Luebo (Congo-Kinshasa) (1959.11.10 – 1966.05.03)Apostolic Administrator of Mbuji-Mayi (Congo-Kinshasa) (1963 – 1966.05.03)Bishop of Mbujimayi (Congo-Kinshasa) (1966.05.03 – 1991.11.26)Vicars Apostolic of Luebo (Roman Rite)Bishop Joseph Ngogi Nkongolo  (1959.04.25 – 1959.11.10)(see above)Special ChurchesCathedral:  Cathédrale Saint-Jean-Baptiste, Luebo, Kasaï Former Cathedral:  Ancienne Cathédrale Sacré-Cœur, Luebo, Kasaï Show MapKikwit (↙), Idiofa (←), Mweka (↑), Kananga (→), Luiza (↘), Dundo (↓)Statistics (2022.12.31)Area: 32,000 km²Population: 1,653,000 Catholics (60.4% of 2,735,000 total)Pastoral Centres: 30 parishes, 3 missionsPersonnel: 48 priests (34 diocesan, 14 religious), 134 religious (23 brothers, 111 sisters), 39 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lueb0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2735000,
+    "catholiques": 1653000,
+    "pourcentage_catholiques": 60.4
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 48,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

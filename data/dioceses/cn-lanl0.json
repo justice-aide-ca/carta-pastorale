@@ -1,0 +1,29 @@
+{
+  "id": "cn-lanl0",
+  "nom": "Nanlong 南龍",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Nanlong 南龍 (中文) / Anlong 安龍 (中文) / Lanlung / Nánlóng 南龙 (简体中文) / Ānlóng 安龙 (简体中文) / Nganlomen(sis) (Latin)Ecclesiastical Province: Guiyang 貴陽Neighbouring Dioceses: Kunming 昆明 (←), Zhaotong 昭通 (↖), Guiyang 貴陽 (↗), Nanning 南寧 (↘)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Dioceses: Guizhou 貴州 , Guangxi 廣西 CelebrationsLiturgical Calendar (Universal) 📅History1922.02.16: Established as Apostolic Prefecture of Nanlong 南龍 (中文) / Anlong 安龍 (中文) / Lang-Long / Nánlóng 南龙 (简体中文) / Ānlóng 安龙 (简体中文) / de Lang-Long (Latin) (from Apostolic Vicariate of Guangxi 廣西 and Apostolic Vicariate of Guizhou 貴州)1927.04.27: Promoted as Apostolic Vicariate of Nanlong 南龍 (中文) / Anlong 安龍 (中文) / Lang-Long / Nánlóng 南龙 (简体中文) / Ānlóng 安龙 (简体中文) / de Lang-Long (Latin)1946.04.11: Promoted as Diocese of Nanlong 南龍 (中文) / Anlong 安龍 (中文) / Lanlung / Nánlóng 南龙 (简体中文) / Ānlóng 安龙 (简体中文) / Nganlomen(sis) (Latin) (became suffragan of Guiyang 貴陽)Present PrelatesBishop:vacantOrdinariesBishops of Nanlong 南龍 (Roman Rite)Bishop Alexandre-François-Marie Carlo (賈祿), M.E.P.  (1946.04.11 – 1952.01.26)Born:1881.05.03 (Hénon, France)Ordained Priest:1905.06.29Consecrated Bishop:1927.10.16Died:1952.01.26 (Guiyang, China † 70)Prefect Apostolic of Nanlong 南龍 (China) (1922.11.22 – 1927.04.21)Vicar Apostolic of Nanlong 南龍 (China) (1927.04.21 – 1946.04.11)Titular Bishop of Hadrianopolis in Honoriade (1927.04.29 – 1946.04.11)Bishop of Nanlong 南龍 (China) (1946.04.11 – 1952.01.26)Vicars Apostolic of Nanlong 南龍 (Roman Rite)Bishop Alexandre-François-Marie Carlo (賈祿), M.E.P.  (1927.04.21 – 1946.04.11)(see above)Prefects Apostolic of Nanlong 南龍 (Roman Rite)Fr. Alexandre-François-Marie Carlo (賈祿), M.E.P. (later Bishop)  (1922.11.22 – 1927.04.21)(see above)Show MapKunming 昆明 (←), Zhaotong 昭通 (↖), Guiyang 貴陽 (↗), Nanning 南寧 (↘)Statistics (1949.12.31)Area: 45,000 km²Population: 11,403 Catholics (0.8% of 1,350,000 total)Pastoral Centres: 18 parishes, 24 missionsPersonnel: 30 priests (15 diocesan, 15 religious), 5 religious (5 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lanl0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1350000,
+    "catholiques": 11403,
+    "pourcentage_catholiques": 0.8
+  },
+  "ressources": {
+    "pretres_diocesains": 15,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

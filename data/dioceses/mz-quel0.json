@@ -1,0 +1,29 @@
+{
+  "id": "mz-quel0",
+  "nom": "Quelimane",
+  "pays": "mz",
+  "pays_nom": "Mozambique",
+  "continent": "unknown",
+  "type": "Diocese Name: Quelimane / Quelimanen(sis) (Latin)Ecclesiastical Province: BeiraNeighbouring Dioceses: Caia (↙), Chikwawa (↖), Blantyre (↖), Lichinga (↑), Gurúè (↗), Alto Molócuè (↗)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Nossa Senhora do LivramentoCathedral Dedication Anniversary: September 8Liturgical Calendar (Universal) 📅History1954.10.06: Established as Diocese of Quelimane / Quelimanen(sis) (Latin) (from Diocese of Beira and became suffragan of Lourenço Marques)1984.06.04: Became suffragan of Beira1993.12.06: Lost territory to establish Diocese of Gurúè2025.01.23: Lost territory to establish Diocese of Alto Molócuè2025.12.23: Lost territory to establish Diocese of CaiaPresent PrelatesBishop:vacantApostolic Administrator (2026.06.12 – ...):Bishop Estêvão Ângelo Fernando (52)Bishop of Alto Molócuè (Mozambique)Monsignors (1)OrdinariesBishops of Quelimane (Roman Rite)Bishop Estêvão Ângelo Fernando (52)  (Apostolic Administrator 2026.06.12 – ...)Bishop Osório Cîtora Afonso, I.M.C.  (2025.07.25 – 2026.06.06)Lucernia pedibus meisBorn:1972.05.06 (Ribaue, Mozambique)Ordained Priest:2002.11.03Consecrated Bishop:2024.01.28Died:2026.06.06 (Quelimane, Mozambique † 54)Titular Bishop of Putia in Numidia (2023.09.21 – 2025.07.25)Auxiliary Bishop of Maputo (Mozambique) (2023.09.21 – 2025.07.25)General Secretary of Episcopal Conference of Mozambique (2024.11.12 – 2026.06.06)Bishop of Quelimane (Mozambique) (2025.07.25 – 2026.06.06)Apostolic Administrator of Beira (Mozambique) (2026.04.10 – 2026.06.06)Fr. Pietro Tosato, O.F.M. Cap.  (Apostolic Administrator 2023.08.11 – 2025.07.25)Bishop Hilário Da Cruz Massinga, O.F.M. (68)  (2008.01.25 – 2023.08.11)Titular Bishop of ChulluAuxiliary Bishop of Inhambane (Mozambique)Eu confio na misericórdia de DeuBorn:1958.06.25 (Banze, Gabon)Ordained Priest:1994.01.09Consecrated Bishop:2003.06.15Bishop of Lichinga (Mozambique) (2003.04.05 – 2008.01.25)Apostolic Administrator of Lichinga (Mozambique) (2008.01.25 – 2008.12.30)Bishop of Quelimane (Mozambique) (2008.01.25 – 2023.08.11)Vice-President of Episcopal Conference of Mozambique (2015.11.10 – 2018.11.11)Titular Bishop of Chullu (2023.08.11 – ...)Auxiliary Bishop of Inhambane (Mozambique) (2023.08.11 – ...)Archbishop Jaime Pedro Gonçalves  (Apostolic Administrator 2007.03 – 2008.01.25)Bishop Bernardo Filipe Governo, O.F.M. Cap.  (1976.05.31 – 2007.03.10)Born:1939.01.21 (Macuse, Mozambique)Ordained Priest:1969.10.04Consecrated Bishop:1976.10.10Died:2013.10.20 († 74)Bishop of Quelimane (Mozambique) (1976.05.31 – 2007.03.10)Bishop Francisco Nuñes Teixeira  (1955.02.06 – 1975.12.23)Born:1910.01.26 (Beduido Estarreja, Portugal)Ordained Priest:1933.08.06Consecrated Bishop:1955.05.13Died:1999.03.02 († 89)Priest of Beira (Mozambique) (1933.08.06 – 1955.02.06)Bishop of Quelimane (Mozambique) (1955.02.06 – 1975.12.23)President of Episcopal Conference of Mozambique (1969 – 1975)Special ChurchesCathedral:  Catedral de Nossa Senhora do Livramento, Quelimane, Zambézia Former Cathedral:  Catedral vieja, Quelimane, Zambézia Show MapCaia (↙), Chikwawa (↖), Blantyre (↖), Lichinga (↑), Gurúè (↗), Alto Molócuè (↗)Statistics (2025)Area: 57,798 km²Population: 1,366,593 Catholics (39.7% of 3,440,268 total)Pastoral Centres: 29 parishesPersonnel: 73 priests (52 diocesan, 21 religious), 105 religious (7 brothers, 98 sisters), 45 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "quel0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3440268,
+    "catholiques": 1366593,
+    "pourcentage_catholiques": 39.7
+  },
+  "ressources": {
+    "pretres_diocesains": 52,
+    "pretres_religieux": null,
+    "total_pretres": 73,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

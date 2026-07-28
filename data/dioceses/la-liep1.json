@@ -1,0 +1,29 @@
+{
+  "id": "la-liep1",
+  "nom": "Liepāja",
+  "pays": "la",
+  "pays_nom": "Latvia",
+  "continent": "unknown",
+  "type": "Diocese Name: Liepāja / Liepaien(sis) (Latin)Ecclesiastical Province: RigaNeighbouring Dioceses: Jelgava (→), Telšiai (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1937.05.08: Established as Diocese of Liepāja / Liepaien(sis) (Latin) (from Archdiocese of Riga and became suffragan of Riga)1995.12.02: Lost territory to establish Diocese of JelgavaPresent PrelatesBishop (2013.07.20 – ...):Bishop Viktors Stulpins (54)Monsignors (3)OrdinariesBishops of Liepāja (Roman Rite)Bishop Viktors Stulpins (54)  (2013.07.20 – ...)Bishop of Liepāja (Latvia)Mans Kungs un mans DievsBorn:1971.09.26 (Riga, Latvia)Ordained Priest:1995.06.01Consecrated Bishop:2013.09.07Priest of Riga (Latvia) (1995.06.01 – 2013.07.20)Bishop of Liepāja (Latvia) (2013.07.20 – ...)President of Episcopal Conference of Latvia (2018.12.18 – 2025.01)Bishop Edvards Pavlovskis (75)  (Apostolic Administrator 2012.06.20 – 2013.07.20)Bishop Vilhelms Toms Marija Lapelis, O.P. (64)  (2001.05.12 – 2012.06.20)Bishop emeritus of Liepāja (Latvia)former General Secretary of Episcopal Conference of LatviaIn nomine DominiBorn:1961.12.30 (Daugavpils, Latvia)Ordained Priest:1986.06.01Consecrated Bishop:2000.03.25Coadjutor Bishop of Liepāja (Latvia) (2000.01.25 – 2001.05.12)Bishop of Liepāja (Latvia) (2001.05.12 – 2012.06.20)General Secretary of Episcopal Conference of Latvia (2011.06.01 – 2012.06.20)Bishop Ārvaldis Andrejs Brumanis  (1995.12.07 – 2001.05.12)Born:1926.02.13 (Klostere, Latvia)Ordained Priest:1954.07.25Consecrated Bishop:1996.01.06Died:2013.12.17 († 87)Bishop of Liepāja (Latvia) (1995.12.07 – 2001.05.12)Bishop Jānis Bulis (75)  (1991.05.08 – 1995.12.07)Bishop of Rēzekne–Aglona (Latvia)Pro Christo et ecclesiaBorn:1950.08.17 (Brigi, Latvia)Ordained Priest:1977.05.22Consecrated Bishop:1991.06.24Priest of Riga (Latvia) (1977.05.22 – 1991.05.08)Bishop of Liepāja (Latvia) (1991.05.08 – 1995.12.07)Bishop of Rēzekne–Aglona (Latvia) (1995.12.07 – ...)Vice-President of Episcopal Conference of Latvia (2011.06.01 – 2011.10.18)President of Episcopal Conference of Latvia (2011.10.18 – 2018.12.18)Bishop Jānis Cakuls  (Apostolic Administrator 1990.05.23 – 1991.05.08)Cardinal Julijans Vaivods  (Apostolic Administrator 1964.11.10 – 1990.05.23)Bishop Peters Strods  (Apostolic Administrator sede plena 1947.07.25 – 1960.08.05)Bishop Antonijs Urbšs  (1938.04.29 – 1965.08.11)Born:1879.11.29 (Pandélys, Lithuania)Ordained Priest:1903.03.22Consecrated Bishop:1938.06.29Died:1965.08.11 († 85)Bishop of Liepāja (Latvia) (1938.04.29 – 1965.08.11)Former PrelatesCoadjutor Bishop: Bishop Vilhelms Toms Marija Lapelis, O.P. (64) (2000.01.25 – 2001.05.12)Auxiliary Bishop: Bishop Vilhelms Ņukšs (1987.11.23 – 1991.07.19)Auxiliary Bishop: Bishop Valerians Zondaks (1972.10.28 – 1986.09.27)Coadjutor Apostolic Administrator: Bishop Jānis Cakuls (1982.11.09 – 1990.05.23)Special ChurchesCathedral:  Svētā Jāzepa Katedrālē, Liepāja World Heritage Site (Minor):  Sv. Trīsvienības baznīca, Kuldīga Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapJelgava (→), Telšiai (↘)Statistics (2022.12.31)Area: 13,210 km²Population: 26,140 Catholics (10.5% of 249,580 total)Pastoral Centres: 31 parishesPersonnel: 10 priests (4 diocesan, 6 religious), 16 religious (6 brothers, 10 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "liep1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 249580,
+    "catholiques": 26140,
+    "pourcentage_catholiques": 10.5
+  },
+  "ressources": {
+    "pretres_diocesains": 4,
+    "pretres_religieux": null,
+    "total_pretres": 10,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

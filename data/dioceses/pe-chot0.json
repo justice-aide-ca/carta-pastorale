@@ -1,0 +1,29 @@
+{
+  "id": "pe-chot0",
+  "nom": "Chota",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Territorial Prelature Name: Chota / Choten(sis) (Latin)Ecclesiastical Province: PiuraNeighbouring Dioceses: Chiclayo (←), Chulucanas (↖), Jaén en Perú (↑), Yurimaguas (↗), Chachapoyas (→), Trujillo (↓), Cajamarca (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: San Juan Bautista (June 24)Liturgical Calendar (National) 📅History1963.04.07: Established as Territorial Prelature of Chota / Choten(sis) (Latin) (from Diocese of Chiclayo and became suffragan of Trujillo)1966.06.30: Became suffragan of PiuraContact InfoAddress: Apartado 22, Pasaje Juan XXIII 287, Chota, Cajamarca, PeruPhone: (76)35.14.75Present PrelatesBishop-Prelate (2022.07.02 – ...):Bishop Víctor Emiliano Villegas Suclupe, O.A.R. (59)OrdinariesPrelates of Chota (Roman Rite)Bishop Víctor Emiliano Villegas Suclupe, O.A.R. (59)  (2022.07.02 – ...)Bishop-Prelate of Chota (Peru)Domine totum in teBorn:1967.02.09 (Lambayeque, Peru)Ordained Priest:2003.03.22Consecrated Bishop:2022.10.15Bishop-Prelate of Chota (Peru) (2022.07.02 – ...)Bishop Fortunato Pablo Urcey, O.A.R. (79)  (2005.10.15 – 2022.07.02)Bishop-Prelate emeritus of Chota (Peru)Percussisti cor meum verbo tuo et amavi teBorn:1947.03.13 (Estollo, Spain)Ordained Priest:1971.07.05Consecrated Bishop:2005.12.12Bishop-Prelate of Chota (Peru) (2005.10.15 – 2022.07.02)General Secretary of Episcopal Conference of Peru (2011 – 2017.01.18)Apostolic Administrator sede plena of Cajamarca (Peru) (2019.06 – 2021.10.23)Bishop José Carmelo Martínez Lázaro, O.A.R. (71)  (2002.03.27 – 2004.10.12)Bishop emeritus of Cajamarca (Peru)Via veritas et vitaBorn:1954.08.21 (Luezas, Spain)Ordained Priest:1980.07.19Consecrated Bishop:2002.05.05Bishop-Prelate of Chota (Peru) (2002.03.27 – 2004.10.12)Bishop of Cajamarca (Peru) (2004.10.12 – 2021.10.23)Bishop Emiliano Antonio Cisneros Martínez, O.A.R. (81)  (1993.12.07 – 2002.03.27)Bishop emeritus of Chachapoyas (Peru)Ut vitam habeantBorn:1945.02.08 (Almazul, Spain)Ordained Priest:1968.07.14Consecrated Bishop:1994.01.06Bishop-Prelate of Chota (Peru) (1993.12.07 – 2002.03.27)Bishop of Chachapoyas (Peru) (2002.03.27 – 2022.03.09)Apostolic Administrator of Huamachuco (Peru) (2018.08.07 – 2019.07.26)Bishop José Arana Berruete, O.A.R.  (1979.01.24 – 1992.10.27)Born:1923.03.27 (Barbarin, Spain)Ordained Priest:1946.04.06Consecrated Bishop:1979.05.20Died:1992.10.27 († 69)Bishop-Prelate of Chota (Peru) (1979.01.24 – 1992.10.27)Bishop Florentino Armas Lerena, O.A.R.  (1963.04.07 – 1976.08.17)Born:1900.10.16 (San Millan de la Cogolla, Spain)Ordained Priest:1923.03.18Consecrated Bishop:1967.06.04Died:1979.11.25 († 79)Bishop-Prelate of Chota (Peru) (1963.04.07 – 1976.08.17)Titular Bishop of Macomades (1967.04.08 – 1979.11.25)Special ChurchesCathedral:  Catedral de Todos los Santos, Chota, Cajamarca Jubilee Churches in the Holy Year 2025Show MapChiclayo (←), Chulucanas (↖), Jaén en Perú (↑), Yurimaguas (↗), Chachapoyas (→), Trujillo (↓), Cajamarca (↓)Statistics (2022.12.31)Area: 6,823 km²Population: 288,575 Catholics (91.6% of 315,000 total)Pastoral Centres: 17 parishes, 20 missionsPersonnel: 53 priests (49 diocesan, 4 religious), 33 religious (6 brothers, 27 sisters), 23 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chot0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 315000,
+    "catholiques": 288575,
+    "pourcentage_catholiques": 91.6
+  },
+  "ressources": {
+    "pretres_diocesains": 49,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ph-sors0",
+  "nom": "Sorsogon",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Sorsogon / Sorsogonen(sis) (Latin)Ecclesiastical Province: CaceresNeighbouring Dioceses: Masbate (↙), Legazpi (↖), Virac (↑), Catarman (↘)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Peter and Saint Paul of Tarsus (June 29)Cathedral Dedication Anniversary: April 27Liturgical Calendar (National) 📅History1951.06.29: Established as Diocese of Sorsogon / Sorsogonen(sis) (Latin) (from Diocese of Nueva Caceres and became suffragan of Caceres)1968.03.23: Lost territory to establish Diocese of MasbatePresent PrelatesBishop (2019.10.15 – ...):Bishop Jose Alan Verdejo Dialogo (64)Monsignors (8)OrdinariesBishops of Sorsogon (Roman Rite)Bishop Jose Alan Verdejo Dialogo (64)  (2019.10.15 – ...)Bishop of Sorsogon (Philippines)FiatBorn:1962.07.10 (Lagonoy, Philippines)Ordained Priest:1996.07.31Consecrated Bishop:2019.12.12Priest of Manila (Philippines) (1996.07.31 – 2019.10.15)Bishop of Sorsogon (Philippines) (2019.10.15 – ...)Bishop Arturo Mandin Bastes, S.V.D.  (2003.04.16 – 2019.10.15)Gressus meos dirigetBorn:1944.04.01 (Loboc, Philippines)Ordained Priest:1970.11.28Consecrated Bishop:1997.08.21Died:2024.10.20 (Cainta, Philippines † 80)Bishop of Romblon (Philippines) (1997.07.03 – 2002.07.25)Coadjutor Bishop of Sorsogon (Philippines) (2002.07.25 – 2003.04.16)Bishop of Sorsogon (Philippines) (2003.04.16 – 2019.10.15)Bishop Jesus Yu Varela  (1980.11.27 – 2003.04.16)Dum spiro speroBorn:1927.12.18 (Bacolod, Philippines)Ordained Priest:1956.03.17Consecrated Bishop:1967.04.30Died:2018.02.23 (Pasay City, Philippines † 90)Titular Bishop of Tatilti (1967.03.28 – 1971.02.17)Auxiliary Bishop of Zamboanga (Philippines) (1967.03.28 – 1971.02.17)Bishop of Ozamiz (Philippines) (1971.02.17 – 1980.11.27)Bishop of Sorsogon (Philippines) (1980.11.27 – 2003.04.16)Bishop Arnulfo Surtida Arcilla  (1959.09.07 – 1979.12.11)Pax in cordibus nostriBorn:1922.08.15 (Virac, Philippines)Ordained Priest:1947.04.27Consecrated Bishop:1959.12.12Died:1992.10.26 († 70)Bishop of Sorsogon (Philippines) (1959.09.07 – 1979.12.11)Bishop Teopisto Valderrama Alberto (later Archbishop)  (1952.07.10 – 1959.09.07)Ipsi gloriæ in sæculaBorn:1912.09.19 (Bagamanoc, Philippines)Ordained Priest:1937.03.07Consecrated Bishop:1952.10.07Died:1996.05.02 († 83)Bishop of Sorsogon (Philippines) (1952.07.10 – 1959.09.07)Titular Archbishop of Amastris (1959.09.07 – 1965.04.06)Coadjutor Archbishop of Caceres (Philippines) (1959.09.07 – 1965.04.06)Metropolitan Archbishop of Caceres (Philippines) (1965.04.06 – 1983.10.20)President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.) (1970 – 1974)Former PrelatesCoadjutor Bishop: Bishop Arturo Mandin Bastes, S.V.D. (2002.07.25 – 2003.04.16)Auxiliary Bishop: Bishop Concordio Maria Sarte (1977.08.30 – 1980.08.12)Special ChurchesCathedral:  Sts. Peter and Paul Cathedral, Sorsogon City, Sorsogon, Bicol Jubilee Churches in the Holy Year 2025Churches by City (32)Show MapMasbate (↙), Legazpi (↖), Virac (↑), Catarman (↘)Statistics (2022.12.31)Area: 2,141 km²Population: 779,900 Catholics (93.0% of 838,600 total)Pastoral Centres: 30 parishesPersonnel: 97 priests (78 diocesan, 19 religious), 163 religious (96 brothers, 67 sisters), 59 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sors0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 838600,
+    "catholiques": 779900,
+    "pourcentage_catholiques": 93.0
+  },
+  "ressources": {
+    "pretres_diocesains": 78,
+    "pretres_religieux": null,
+    "total_pretres": 97,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "et-meki0",
+  "nom": "Meki",
+  "pays": "et",
+  "pays_nom": "Ethiopia",
+  "continent": "unknown",
+  "type": "Apostolic Vicariate Name: Meki / Mekvien(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Hosanna (↙), Emdeber (←), Addis Abeba (↑), Harar (↗), Robe (↘), Awasa (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1980.03.06: Established as Apostolic Prefecture of Meki / Mekvien(sis) (Latin) (from Apostolic Vicariate of Harar)1991.12.21: Promoted as Apostolic Vicariate of Meki / Mekvien(sis) (Latin)2012.02.11: Lost territory to establish Apostolic Prefecture of RobePresent PrelatesVicar Apostolic (2003.01.29 – ...):Bishop Abraham Desta (75)Titular Bishop of Horrea AniniciOrdinariesVicars Apostolic of Meki (Roman Rite)Bishop Abraham Desta (75)  (2003.01.29 – ...)Vicar Apostolic of Meki (Ethiopia)Titular Bishop of Horrea AniniciLampada ai miei passi è la tua parola, luce sul mio camminoBorn:1951.03.21 (Medea-Sebea, Ethiopia)Ordained Priest:1980.04.20Consecrated Bishop:2003.05.10Priest of Adigrat of the Ethiopics (Ethiopia) (1980.04.20 – 2003.01.29)Titular Bishop of Horrea Aninici (2003.01.29 – ...)Vicar Apostolic of Meki (Ethiopia) (2003.01.29 – ...)Bishop Yohannes Woldegiorgis  (1991.12.21 – 2002.09.19)Born:1921.12.27 (Alitena, Ethiopia)Ordained Priest:1954.10.31Consecrated Bishop:1992.05.03Died:2002.09.19 († 80)Priest of Adigrat of the Ethiopics (Ethiopia) (1954.10.31 – 1991.12.21)Prefect Apostolic of Meki (Ethiopia) (1981.09.08 – 1991.12.21)Titular Bishop of Forma (1991.12.21 – 2002.09.19)Vicar Apostolic of Meki (Ethiopia) (1991.12.21 – 2002.09.19)Prefects Apostolic of Meki (Roman Rite)Fr. Yohannes Woldegiorgis (later Bishop)  (1981.09.08 – 1991.12.21)(see above)Fr. Giovanni Bonzanino, I.M.C.  (Apostolic Administrator 1981.02.12 – 1981.09.08)Special ChurchesCathedral:  Kidane Miheret Cathedral, Meki Show MapHosanna (↙), Emdeber (←), Addis Abeba (↑), Harar (↗), Robe (↘), Awasa (↓)Statistics (2022.12.31)Area: 52,780 km²Population: 41,024 Catholics (0.7% of 5,500,000 total)Pastoral Centres: 16 parishesPersonnel: 28 priests (19 diocesan, 9 religious), 74 religious (23 brothers, 51 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "meki0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5500000,
+    "catholiques": 41024,
+    "pourcentage_catholiques": 0.7
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 28,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

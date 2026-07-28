@@ -1,0 +1,29 @@
+{
+  "id": "be-bela0",
+  "nom": "Belarus",
+  "pays": "be",
+  "pays_nom": "Belarus",
+  "continent": "unknown",
+  "type": "Apostolic Administration Name: Belarus / Bielorussia pro fidelibus ritus byzantini (Latin)Immediately subject to the Holy SeeDepends on: Dicastery for the Eastern ChurchesHistory1939.09.17: Established as Apostolic Exarchate of Belarus1943: Suppressed2023.03.30: Restored as Apostolic Administration of Belarus / Bielorussia pro fidelibus ritus byzantini (Latin)Present PrelatesApostolic Administrator (2023.03.30 – ...):Archimandrite Jan Sergiusz Gajek, M.I.C. (77)OrdinariesApostolic Administrators of Belarus (Belarussian Rite)Archimandrite Jan Sergiusz Gajek, M.I.C. (77)  (2023.03.30 – ...)Apostolic Administrator of Belarus of the Belarussians (Belarus)Born:1949.02.08 (Łyszkowice, Poland)Ordained Priest:1974.06.23Apostolic Visitator in Belarus of the Belarussians (1994.01 – 2023.03.30)Apostolic Administrator of Belarus of the Belarussians (Belarus) (2023.03.30 – ...)Apostolic Exarchs of Belarus (Belarussian Rite)Fr. Antoni Niemancewicz, S.J.  (1940.08 – 1943.01.06)Born:1893.02.08 (St. Petersburg, Russia)Ordained Priest:1915.09.27Died:1943.01.06 (Minsk, Belarus † 49)Apostolic Exarch of Belarus of the Belarussians (Belarus) (1940.08 – 1943.01.06)Blessed Bishop Mykolai Charnets’kyi (Миколай Чарнецький), C.SS.R.  (Apostolic Administrator 1939.09.17 – 1940.08)Special ChurchesJubilee Churches in the Holy Year 2025Churches by City (19)Show MapStatistics (2023.12.31)Population: 500 CatholicsPastoral Centres: 16 parishesPersonnel: 16 priests (diocesan), 3 deacons, 4 seminariansPopulationPastoral CentresPriestsDeaconsSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bela0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

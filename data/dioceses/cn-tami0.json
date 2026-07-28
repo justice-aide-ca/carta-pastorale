@@ -1,0 +1,29 @@
+{
+  "id": "cn-tami0",
+  "nom": "Daming 大名",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Daming 大名 (中文) / Taming / Dàmíng 大名 (简体中文) / Tamimen(sis) (Latin)Ecclesiastical Province: Beijing 北京Neighbouring Dioceses: Kaifeng 開封 (↙), Jixian 級縣 (↙), Yongnian 永年 (↑), Linqing 臨清 (↗), Yanggu 陽穀 (↘), Caozhou 曹州 (↓)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Handan 邯鄲 CelebrationsLiturgical Calendar (Universal) 📅History1935.03.11: Established as Apostolic Prefecture of Daming 大名 (中文) / Taming / Dàmíng 大名 (简体中文) / de Taming (Latin) (from Apostolic Vicariate of Xianxian 獻縣)1947.07.10: Promoted as Diocese of Daming 大名 (中文) / Taming / Dàmíng 大名 (简体中文) / Tamimen(sis) (Latin) (became suffragan of Beijing 北京)Present PrelatesBishop:vacantOrdinariesBishops of Daming 大名 (Roman Rite)Bishop Simon An Shi-en (安世恩)  (1989 – 2002.03.06)Born:1915.01.12 (China)Ordained Priest:1944.04.20Consecrated Bishop:1989.08.30Died:2002.03.06 († 87)Bishop of Daming 大名 (China) (1989 – 2002.03.06)Prefects Apostolic of Daming 大名 (Roman Rite)Fr. Gaspar Lischerong (隆其化), S.J.  (Apostolic Administrator 1947.07.10 – 1972.01.17)Fr. Nicolaus Szarvas (查宗夏), S.J.  (1936.01.31 – 1947.07.08)Born:1890.11.04 (Hungary)Ordained Priest:1920.07.25Died:1965.08.20 († 74)Prefect Apostolic of Daming 大名 (China) (1936.01.31 – 1947.07.08)Special ChurchesCathedral:  Mother of Grace Cathedral, Daming 大名, Hebei Show MapKaifeng 開封 (↙), Jixian 級縣 (↙), Yongnian 永年 (↑), Linqing 臨清 (↗), Yanggu 陽穀 (↘), Caozhou 曹州 (↓)Last updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tami0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

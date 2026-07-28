@@ -1,0 +1,29 @@
+{
+  "id": "cn-lish0",
+  "nom": "Lishui 麗水",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Lishui 麗水 (中文) / Lishui / Lìshuǐ 丽水 (简体中文) / Liscioëiven(sis) (Latin)Ecclesiastical Province: Hangzhou 杭州Neighbouring Dioceses: Jian’ou 建甌 (↙), Hangzhou 杭州 (↑), Ningbo 寧波 (↗), Linhai 臨海 (→), Yongjia 永嘉 (↘), Funing 福寧 (↓)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Dioceses: Wenzhou 溫州 , Hangzhou 杭州 CelebrationsLiturgical Calendar (Universal) 📅History1931.07.02: Established as Apostolic Prefecture of Chuzhou 處州 (中文) / Chuchow / Chùzhōu 处州 (简体中文) (from Apostolic Vicariate of Ningbo 寧波)1937.05.18: Renamed as Apostolic Prefecture of Lishui 麗水 (中文) / Lishui / Lìshuǐ 丽水 (简体中文) / de Lishui (Latin)1948.05.13: Promoted as Diocese of Lishui 麗水 (中文) / Lishui / Lìshuǐ 丽水 (简体中文) / Liscioëiven(sis) (Latin) (became suffragan of Hangzhou 杭州)Present PrelatesBishop:vacantOrdinariesBishops of Lishui 麗水 (Roman Rite)Bishop Kenneth Roderick Turner (譚爾鼐), S.F.M.  (1948.05.13 – 1983.10.31)Adveniat regnum tuumBorn:1905.10.14 (Montréal, QC, Canada)Ordained Priest:1936.09.06Consecrated Bishop:1948.09.29Died:1983.10.31 (Pembroke, ON, Canada † 78)Bishop of Lishui 麗水 (China) (1948.05.13 – 1983.10.31)Fr. William Cecil MacGrath, S.F.M.  (1937.05.18 – 1970.07.13)Born:1896.04.29 (Oderin, NL, Canada)Ordained Priest:1921.06.29Died:1970.07.13 († 74)Prefect Apostolic of Chuzhou 處州 (China) (1932.03.04 – 1937.05.18)Bishop of Lishui 麗水 (China) (1937.05.18 – 1970.07.13)Prefects Apostolic of Chuzhou 處州 (Roman Rite)Fr. William Cecil MacGrath, S.F.M.  (1932.03.04 – 1937.05.18)(see above)Special ChurchesCathedral:  Cathedral of the Sacred Heart, Lishui 丽水, Zhejiang Show MapJian’ou 建甌 (↙), Hangzhou 杭州 (↑), Ningbo 寧波 (↗), Linhai 臨海 (→), Yongjia 永嘉 (↘), Funing 福寧 (↓)Statistics (1950.12.31)Area: 23,484 km²Population: 4,286 Catholics (0.1% of 3,309,300 total)Pastoral Centres: 8 parishes, 30 missionsPersonnel: 13 priests (5 diocesan, 8 religious), 9 religious (9 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lish0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3309300,
+    "catholiques": 4286,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 5,
+    "pretres_religieux": null,
+    "total_pretres": 13,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 8
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

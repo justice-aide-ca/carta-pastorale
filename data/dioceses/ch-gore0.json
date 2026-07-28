@@ -1,0 +1,29 @@
+{
+  "id": "ch-gore0",
+  "nom": "Goré",
+  "pays": "ch",
+  "pays_nom": "Chad",
+  "continent": "unknown",
+  "type": "Diocese Name: Goré / Goren(sis) (Latin)Ecclesiastical Province: N’DjaménaNeighbouring Dioceses: Bouar (↙), Garoua (←), Moundou (↖), Doba (↑), Koumra (↗), Bossangoa (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1998.11.28: Established as Diocese of Goré / Goren(sis) (Latin) (from Diocese of Doba and Diocese of Moundou and became suffragan of N’Djaména)Present PrelatesBishop (1998.11.28 – ...):Bishop Rosario Pio Ramolo, O.F.M. Cap. (73)OrdinariesBishops of Goré (Roman Rite)Bishop Rosario Pio Ramolo, O.F.M. Cap. (73)  (1998.11.28 – ...)Bishop of Goré (Chad)Deus est Dominus rexBorn:1952.12.12 (Limosano, Italy)Ordained Priest:1978.07.30Consecrated Bishop:1999.02.14Bishop of Goré (Chad) (1998.11.28 – ...)Special ChurchesCathedral:  Cathédrale Sainte-Marie-des-Anges, Goré, Logone Oriental Show MapBouar (↙), Garoua (←), Moundou (↖), Doba (↑), Koumra (↗), Bossangoa (↘)Statistics (2022.12.31)Area: 21,000 km²Population: 104,099 Catholics (30.3% of 344,000 total)Pastoral Centres: 8 parishesPersonnel: 24 priests (9 diocesan, 15 religious), 51 religious (21 brothers, 30 sisters), 1 seminarianPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gore0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 344000,
+    "catholiques": 104099,
+    "pourcentage_catholiques": 30.3
+  },
+  "ressources": {
+    "pretres_diocesains": 9,
+    "pretres_religieux": null,
+    "total_pretres": 24,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 8
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

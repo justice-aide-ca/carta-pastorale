@@ -1,0 +1,29 @@
+{
+  "id": "gh-kono0",
+  "nom": "Konongo–Mampong",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Konongo–Mampong / Konongen(sis)–Mampongan(us) (Latin)Ecclesiastical Province: KumasiNeighbouring Dioceses: Kumasi (←), Techiman (↖), Tamale (↑), Jasikan (↗), Donkorkrom (→), Koforidua (↘), Obuasi (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsPatron Saint: Saint Paul of Tarsus, St. Gabriel the ArchangelLiturgical Calendar (Universal) 📅History1995.03.03: Established as Diocese of Konongo–Mampong / Konongen(sis)–Mampongan(us) (Latin) (from Diocese of Kumasi and Diocese of Sunyani and became suffragan of Cape Coast)2001.12.22: Became suffragan of Kumasi2007.12.28: Lost territory to establish Diocese of TechimanPresent PrelatesBishop (2024.03.21 – ...):Bishop John Opoku-Agyemang (68)Monsignors (8)OrdinariesBishops of Konongo–Mampong (Roman Rite)Bishop John Opoku-Agyemang (68)  (2024.03.21 – ...)Bishop of Konongo–Mampong (Ghana)Fiat voluntas DeiBorn:1957.08.15 (Kumawu, Ghana)Ordained Priest:1984.01.22Consecrated Bishop:2024.06.07Priest of Kumasi (Ghana) (1984.01.22 – 1995.03.03)Priest of Konongo–Mampong (Ghana) (1995.03.03 – 2024.03.21)Chaplain of His Holiness (2005.02.25 – 2024.03.21)Bishop of Konongo–Mampong (Ghana) (2024.03.21 – ...)Bishop Joseph Osei-Bonsu (78)  (1995.03.03 – 2024.03.21)Bishop emeritus of Konongo–Mampong (Ghana)Fiat voluntas DeiBorn:1948.02.08 (Jamasi, Ghana)Ordained Priest:1975.08.03Consecrated Bishop:1995.05.28Priest of Konongo–Mampong (Ghana) (1975.08.03 – 1995.03.03)Bishop of Konongo–Mampong (Ghana) (1995.03.03 – 2024.03.21)President of Ghana Bishops’ Conference (2010.11 – 2016.10.14)Special ChurchesCathedral:  St. Paul Cathedral, Mampong-Ashanti, Ashanti Co-Cathedral:  St. Gabriel’s Co-Cathedral, Konongo, Ashanti Show MapKumasi (←), Techiman (↖), Tamale (↑), Jasikan (↗), Donkorkrom (→), Koforidua (↘), Obuasi (↓)Statistics (2022.12.31)Area: 11,357 km²Population: 97,000 Catholics (5.5% of 1,769,990 total)Pastoral Centres: 63 parishes, 1 missionPersonnel: 114 priests (86 diocesan, 28 religious), 159 religious (113 brothers, 46 sisters), 55 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kono0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1769990,
+    "catholiques": 97000,
+    "pourcentage_catholiques": 5.5
+  },
+  "ressources": {
+    "pretres_diocesains": 86,
+    "pretres_religieux": null,
+    "total_pretres": 114,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 63
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

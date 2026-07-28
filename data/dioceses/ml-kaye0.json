@@ -1,0 +1,29 @@
+{
+  "id": "ml-kaye0",
+  "nom": "Kayes",
+  "pays": "ml",
+  "pays_nom": "Mali",
+  "continent": "unknown",
+  "type": "Diocese Name: Kayes / Kayesen(sis) (Latin)Ecclesiastical Province: BamakoNeighbouring Dioceses: Conakry (↙), Tambacounda (←), Nouakchott (↑), Ségou (→), Bamako (↘), Kankan (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1947.06.12: Established as Apostolic Prefecture of Kayes / Kayesen(sis) (Latin) (from Apostolic Vicariate of Bamako)1963.07.06: Promoted as Diocese of Kayes / Kayesen(sis) (Latin) (became suffragan of Bamako)Present PrelatesBishop (2013.01.31 – ...):Bishop Jonas Dembélé (63)President of Episcopal Conference of MaliOrdinariesBishops of Kayes (Roman Rite)Bishop Jonas Dembélé (63)  (2013.01.31 – ...)Bishop of Kayes (Mali)President of Episcopal Conference of MaliBorn:1963.05.15 (Sokoura, Mali)Ordained Priest:1992.07.12Consecrated Bishop:2013.05.11Priest of San (Mali) (1992.07.12 – 2013.01.31)Bishop of Kayes (Mali) (2013.01.31 – ...)President of Episcopal Conference of Mali (2017.03 – ...)Bishop Joseph Dao  (1978.09.12 – 2011.06.13)Born:1936.06.08 (Bobo-Dioulasso, Mali)Ordained Priest:1965.06.26Consecrated Bishop:1979.01.27Died:2011.10.23 († 75)Priest of Ségou (Mali) (1965.06.26 – 1978.09.12)Bishop of Kayes (Mali) (1978.09.12 – 2011.06.13)Bishop Étienne-Marie-Félix Courtois, M. Afr.  (1963.07.06 – 1978.07.11)Born:1913.09.22 (Sainte-Foy-lès-Lyon, France)Ordained Priest:1938.06.11Consecrated Bishop:1963.10.20Died:1978.07.11 (Kayes, Mali † 64)Prefect Apostolic of Kayes (Mali) (1947.11.07 – 1963.07.06)Bishop of Kayes (Mali) (1963.07.06 – 1978.07.11)Prefects Apostolic of Kayes (Roman Rite)Fr. Étienne-Marie-Félix Courtois, M. Afr. (later Bishop)  (1947.11.07 – 1963.07.06)(see above)Special ChurchesCathedral:  Cathédrale de l’Immaculée Conception, Kayes, Kayes National Shrine:  Sanctuaire Notre-Dame du Mali, Kita, Kayes Churches by City (7)Show MapConakry (↙), Tambacounda (←), Nouakchott (↑), Ségou (→), Bamako (↘), Kankan (↘)Statistics (2021.12.31)Area: 166,000 km²Population: 9,776 Catholics (0.5% of 2,125,900 total)Pastoral Centres: 7 parishesPersonnel: 14 priests (11 diocesan, 3 religious), 16 religious (3 brothers, 13 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kaye0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2125900,
+    "catholiques": 9776,
+    "pourcentage_catholiques": 0.5
+  },
+  "ressources": {
+    "pretres_diocesains": 11,
+    "pretres_religieux": null,
+    "total_pretres": 14,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

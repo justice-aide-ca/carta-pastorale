@@ -1,0 +1,29 @@
+{
+  "id": "cu-cieg0",
+  "nom": "Ciego de Ávila",
+  "pays": "cu",
+  "pays_nom": "Cuba",
+  "continent": "unknown",
+  "type": "Diocese Name: Ciego de Ávila / Cæci Abulen(sis) (Latin)Ecclesiastical Province: CamagüeyNeighbouring Dioceses: Santa Clara (←), Nassau (↑), Camagüey (→)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: San EugenioLiturgical Calendar (Universal) 📅History1996.02.02: Established as Diocese of Ciego de Ávila / Cæci Abulen(sis) (Latin) (from Diocese of Camagüey and became suffragan of Santiago)1998.12.05: Became suffragan of CamagüeyPresent PrelatesBishop:vacantMonsignors (1)OrdinariesBishops of Ciego de Ávila (Roman Rite)Bishop Juan Gabriel Díaz Ruiz (65)  (2017.07.08 – 2022.04.07)Bishop of Matanzas (Cuba)Vice-President of Catholic Bishops’ Conference of CubaApacienta mis ovejasBorn:1960.11.14 (Camagüey, Cuba)Ordained Priest:1989.08.05Consecrated Bishop:2017.09.30Priest of Camagüey (Cuba) (1989.08.05 – 2017.07.08)Bishop of Ciego de Ávila (Cuba) (2017.07.08 – 2022.04.07)Bishop of Matanzas (Cuba) (2022.04.07 – ...)Vice-President of Catholic Bishops’ Conference of Cuba (2024.11.07 – ...)Bishop Mario Eusebio Mestril Vega (86)  (1996.02.02 – 2017.07.08)Bishop emeritus of Ciego de Ávila (Cuba)El Señor es mi Pastor, nada me faltaráBorn:1940.03.05 (Nuevitas, Cuba)Ordained Priest:1964.08.04Consecrated Bishop:1992.02.09Priest of Camagüey (Cuba) (1964.08.04 – 1991.11.16)Titular Bishop of Cediæ (1991.11.16 – 1996.02.02)Auxiliary Bishop of Camagüey (Cuba) (1991.11.16 – 1996.02.02)Bishop of Ciego de Ávila (Cuba) (1996.02.02 – 2017.07.08)Special ChurchesCathedral:  Catedral de San Eugenio de la Palma, Ciego de Ávila, Ciego de Avila Show MapSanta Clara (←), Nassau (↑), Camagüey (→)Statistics (2022.12.31)Area: 7,887 km²Population: 192,000 Catholics (41.1% of 467,366 total)Pastoral Centres: 7 parishes, 63 missionsPersonnel: 7 priests (3 diocesan, 4 religious), 4 deacons, 17 religious (4 brothers, 13 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cieg0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 467366,
+    "catholiques": 192000,
+    "pourcentage_catholiques": 41.1
+  },
+  "ressources": {
+    "pretres_diocesains": 3,
+    "pretres_religieux": null,
+    "total_pretres": 7,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

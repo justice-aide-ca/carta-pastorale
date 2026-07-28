@@ -1,0 +1,29 @@
+{
+  "id": "er-kere1",
+  "nom": "Keren",
+  "pays": "er",
+  "pays_nom": "Eritrea",
+  "continent": "unknown",
+  "type": "Diocese Name: Keren / Cheren (Italiano) / Keren(sis) (Latin)Ecclesiastical Province: AsmaraNeighbouring Dioceses: Barentu (↙), Khartoum (↖), Asmara (↘)Depends on: Dicastery for the Eastern ChurchesWebsite: History1995.12.21: Established as Diocese of Keren / Cheren (Italiano) / Keren(sis) (Latin) (from Diocese of Asmara, from the suppressed Apostolic Vicariate of Asmara and became suffragan of Addis Abeba)2015.01.19: Became suffragan of AsmaraPresent PrelatesBishop (2003.01.04 – ...):Bishop Kidane Yebio (68)OrdinariesBishops of Keren (Eritrean Rite)Bishop Kidane Yebio (68)  (2003.01.04 – ...)Bishop of Keren of the Eritreans (Eritrea)Born:1958.01.25 (Shinnara, Eritrea)Ordained Priest:1985.06.30Consecrated Bishop:2003.03.02Priest of Keren of the Eritreans (Eritrea) (1985.06.30 – 2003.01.04)Bishop of Keren of the Eritreans (Eritrea) (2003.01.04 – ...)Bishop Tesfamariam Bedho  (1995.12.21 – 2002.07.29)Born:1934.09.12 (Deroq, Eritrea)Ordained Priest:1965.12.19Consecrated Bishop:1996.02.04Died:2002.07.29 († 67)Bishop of Keren of the Eritreans (Eritrea) (1995.12.21 – 2002.07.29)Special ChurchesCathedral:  Cathedral of St. Michael, Keren Show MapBarentu (↙), Khartoum (↖), Asmara (↘)Statistics (2020.12.31)Area: 25,949 km²Population: 39,000 Catholics (8.3% of 471,000 total)Pastoral Centres: 47 parishes, 56 missionsPersonnel: 73 priests (43 diocesan, 30 religious), 160 religious (73 brothers, 87 sisters), 25 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kere1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 471000,
+    "catholiques": 39000,
+    "pourcentage_catholiques": 8.3
+  },
+  "ressources": {
+    "pretres_diocesains": 43,
+    "pretres_religieux": null,
+    "total_pretres": 73,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

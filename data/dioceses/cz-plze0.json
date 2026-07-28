@@ -1,0 +1,29 @@
+{
+  "id": "cz-plze0",
+  "nom": "Plzeň",
+  "pays": "cz",
+  "pays_nom": "Czechia",
+  "continent": "unknown",
+  "type": "Diocese Name: Plzeň / Pilsen (English) / Pilznen(sis) (Latin)Ecclesiastical Province: PrahaNeighbouring Dioceses: Regensburg (↙), Dresden–Meißen (↑), Litoměřice (↗), Praha (→), České Budějovice (↘), Passau (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Blessed HroznataLiturgical Calendar 📅History1993.05.31: Established as Diocese of Plzeň / Pilsen (English) / Pilznen(sis) (Latin) (from Metropolitan Archdiocese of Praha, Diocese of České Budějovice and Diocese of Litoměřice and became suffragan of Praha)Present PrelatesBishop (2016.02.12 – ...):Bishop Tomáš Holub (58)Monsignors (13)OrdinariesBishops of Plzeň (Roman Rite)Bishop Tomáš Holub (58)  (2016.02.12 – ...)Bishop of Plzeň (Czechia)Kdo miluje poznává bohaBorn:1967.08.16 (Jaromer, Czechia)Ordained Priest:1993.08.28Consecrated Bishop:2016.04.30Priest of Hradec Králové (Czechia) (1993.08.28 – 2016.02.12)Chaplain of His Holiness (2003.08.14 – 2016.02.12)General Secretary of Czech Bishops’ Conference (2011.07.01 – 2016.10.01)Bishop of Plzeň (Czechia) (2016.02.12 – ...)Bishop František Radkovský (86)  (1993.05.31 – 2016.02.12)Bishop emeritus of Plzeň (Czechia)Credidimus caritatiBorn:1939.10.03 (Trešt, Czechia)Ordained Priest:1970.06.27Consecrated Bishop:1990.04.07Priest of Plzeň (Czechia) (1970.06.27 – 1990.03.17)General Secretary of Czech Bishops’ Conference (1990 – 1993.07.07)Titular Bishop of Aggar (1990.03.17 – 1993.05.31)Auxiliary Bishop of Praha (Czechia) (1990.03.17 – 1993.05.31)Bishop of Plzeň (Czechia) (1993.05.31 – 2016.02.12)Special ChurchesCathedral:  Katedrála sv. Bartoloměje, Plzeň, Plzeňský kraj Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapRegensburg (↙), Dresden–Meißen (↑), Litoměřice (↗), Praha (→), České Budějovice (↘), Passau (↓)Statistics (2022.12.31)Area: 9,661 km²Population: 117,680 Catholics (13.7% of 862,000 total)Pastoral Centres: 68 parishesPersonnel: 99 priests (56 diocesan, 43 religious), 6 deacons, 77 religious (58 brothers, 19 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "plze0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 862000,
+    "catholiques": 117680,
+    "pourcentage_catholiques": 13.7
+  },
+  "ressources": {
+    "pretres_diocesains": 56,
+    "pretres_religieux": null,
+    "total_pretres": 99,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 68
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

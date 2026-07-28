@@ -1,0 +1,29 @@
+{
+  "id": "ng-otuk0",
+  "nom": "Otukpo",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Otukpo / Otukpoën(us) (Latin)Ecclesiastical Province: AbujaNeighbouring Dioceses: Nsukka (↙), Idah (←), Lafia (↑), Makurdi (↗), Gboko (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1995.07.10: Established as Diocese of Otukpo / Otukpoën(us) (Latin) (from Diocese of Makurdi and became suffragan of Abuja)Present PrelatesBishop (2002.12.17 – ...):Bishop Michael Ekwoy Apochi (65)OrdinariesBishops of Otukpo (Roman Rite)Bishop Michael Ekwoy Apochi (65)  (2002.12.17 – ...)Bishop of Otukpo (Nigeria)Vias tuas DomineBorn:1960.08.06 (Ichama District, Nigeria)Ordained Priest:1986.07.19Consecrated Bishop:2003.02.23Priest of Makurdi (Nigeria) (1986.07.19 – 1995.07.10)Priest of Otukpo (Nigeria) (1995.07.10 – 2002.12.17)Bishop of Otukpo (Nigeria) (2002.12.17 – ...)Bishop Fidelis Uga Orgah  (1995.07.10 – 2000.12.07)Born:1953.03.29 (Adim Akpa, Nigeria)Ordained Priest:1979.03.16Consecrated Bishop:1995.10.28Died:2000.12.07 († 47)Priest of Otukpo (Nigeria) (1979.03.16 – 1995.07.10)Bishop of Otukpo (Nigeria) (1995.07.10 – 2000.12.07)Special ChurchesCathedral:  St. Francis’ Cathedral, Otukpo, Benue Show MapNsukka (↙), Idah (←), Lafia (↑), Makurdi (↗), Gboko (→)Statistics (2022.12.31)Area: 13,015 km²Population: 761,575 Catholics (16.3% of 4,683,225 total)Pastoral Centres: 63 parishes, 12 missionsPersonnel: 119 priests (102 diocesan, 17 religious), 71 religious (31 brothers, 40 sisters), 112 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "otuk0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4683225,
+    "catholiques": 761575,
+    "pourcentage_catholiques": 16.3
+  },
+  "ressources": {
+    "pretres_diocesains": 102,
+    "pretres_religieux": null,
+    "total_pretres": 119,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 63
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

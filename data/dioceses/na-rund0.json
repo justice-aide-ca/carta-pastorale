@@ -1,0 +1,29 @@
+{
+  "id": "na-rund0",
+  "nom": "Rundu",
+  "pays": "na",
+  "pays_nom": "Namibia",
+  "continent": "unknown",
+  "type": "Apostolic Vicariate Name: Rundu / Runduen(sis) (Latin)Ecclesiastical Province: WindhoekNeighbouring Dioceses: Windhoek (↙), Menongue (↑), Francistown (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1994.03.14: Established as Apostolic Vicariate of Rundu / Runduen(sis) (Latin) (from Apostolic Vicariate of Windhoek and became suffragan of Windhoek)Present PrelatesVicar Apostolic (2026.05.11 – ...):Bishop Linus Ngenomesho, O.M.I. (56)OrdinariesVicars Apostolic of Rundu (Roman Rite)Bishop Linus Ngenomesho, O.M.I. (56)  (2026.05.11 – ...)Vicar Apostolic of Rundu (Namibia)Born:1969.08.22 (Omatando, Namibia)Ordained Priest:2002.01.26Consecrated Bishop:2026.07.18General Secretary of Namibian Catholic Bishop’s Conference (2016.03 – 2021.03.16)Apostolic Administrator of Rundu (Namibia) (2020.11.16 – 2026.05.11)Vicar Apostolic of Rundu (Namibia) (2026.05.11 – ...)Fr. Linus Ngenomesho, O.M.I. (56) (later Bishop)  (Apostolic Administrator 2020.11.16 – 2026.05.11)Bishop Joseph Shipandeni Shikongo, O.M.I. (78)  (1994.03.14 – 2020.11.16)Titular Bishop of CapraVicar Apostolic emeritus of Rundu (Namibia)Born:1948.07.08 (Tyeye, Namibia)Ordained Priest:1980.12.20Consecrated Bishop:1994.05.22Vicar Apostolic of Rundu (Namibia) (1994.03.14 – 2020.11.16)Titular Bishop of Capra (1994.03.14 – ...)Special ChurchesCathedral:  St. Mary’s Cathedral, Rundu Show MapWindhoek (↙), Menongue (↑), Francistown (↘)Statistics (2022.12.31)Area: 140,046 km²Population: 120,275 Catholics (35.3% of 340,760 total)Pastoral Centres: 13 parishesPersonnel: 21 priests (6 diocesan, 15 religious), 13 deacons, 65 religious (16 brothers, 49 sisters), 11 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.19© 2026 GCatholic.org",
+  "code_gcatholic": "rund0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 340760,
+    "catholiques": 120275,
+    "pourcentage_catholiques": 35.3
+  },
+  "ressources": {
+    "pretres_diocesains": 6,
+    "pretres_religieux": null,
+    "total_pretres": 21,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "us-gree1",
+  "nom": "Greensburg",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Greensburg / Greensburgen(sis) (Latin)Ecclesiastical Province: PhiladelphiaNeighbouring Dioceses: Wheeling–Charleston (↙), Pittsburgh (←), Erie (↑), Altoona–Johnstown (→), Baltimore (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Assumption of Mary (August 15)Cathedral Dedication Anniversary: October 7Liturgical Calendar 📅History1951.03.10: Established as Diocese of Greensburg / Greensburgen(sis) (Latin) (from Diocese of Pittsburgh and became suffragan of Philadelphia)Contact InfoAddress: 723 E. Pittsburgh St., Greensburg, PA 15601, USAPhone: +1 (724) 837-0901Present PrelatesBishop (2020.12.18 – ...):Bishop Larry James Kulick (60)Monsignors (37)OrdinariesBishops of Greensburg (Roman Rite)Bishop Larry James Kulick (60)  (2020.12.18 – ...)Bishop of Greensburg (USA)Christus est veritasBorn:1966.02.24 (Natrona Heights, PA, USA)Ordained Priest:1992.05.16Consecrated Bishop:2021.02.11Priest of Greensburg (USA) (1992.05.16 – 2020.12.18)Bishop of Greensburg (USA) (2020.12.18 – ...)Bishop Edward Charles Malesic (65)  (2015.04.24 – 2020.07.16)Bishop of Cleveland (USA)Serve the Lord with gladnessBorn:1960.08.14 (Harrisburg, PA, USA)Ordained Priest:1987.05.30Consecrated Bishop:2015.07.13Priest of Harrisburg (USA) (1987.05.30 – 2015.04.24)Bishop of Greensburg (USA) (2015.04.24 – 2020.07.16)Bishop of Cleveland (USA) (2020.07.16 – ...)Bishop Lawrence Eugene Brandt  (2004.01.02 – 2015.04.24)Ignis caritatisBorn:1939.03.27 (Charleston, WV, USA)Ordained Priest:1969.12.19Consecrated Bishop:2004.03.04Died:2025.06.08 (PA, USA † 86)Priest of Erie (USA) (1969.12.19 – 2004.01.02)Prelate of Honour of His Holiness (1991.11.12 – 2004.01.02)Bishop of Greensburg (USA) (2004.01.02 – 2015.04.24)Bishop Anthony Gerard Bosco  (1987.04.02 – 2004.01.02)To serve, not to reignBorn:1927.08.01 (New Castle, PA, USA)Ordained Priest:1952.06.07Consecrated Bishop:1970.06.30Died:2013.07.02 († 85)Priest of Pittsburgh (USA) (1952.06.07 – 1970.05.14)Domestic Prelate (1968.02.23 – 1968.03.28)Prelate of Honour of His Holiness (1968.03.28 – 1970.05.14)Titular Bishop of Labico (1970.05.14 – 1987.04.02)Auxiliary Bishop of Pittsburgh (USA) (1970.05.14 – 1987.04.02)Bishop of Greensburg (USA) (1987.04.02 – 2004.01.02)Bishop William Graham Connare  (1960.02.23 – 1987.01.20)Sicut qui ministratBorn:1911.12.11 (Pittsburgh, PA, USA)Ordained Priest:1936.06.14Consecrated Bishop:1960.05.04Died:1995.06.12 († 83)Priest of Pittsburgh (USA) (1936.06.14 – 1960.02.23)Bishop of Greensburg (USA) (1960.02.23 – 1987.01.20)Bishop Hugh Louis Lamb  (1951.05.28 – 1959.12.08)Soli Deo gloriaBorn:1890.10.06 (Modena, PA, USA)Ordained Priest:1915.05.29Consecrated Bishop:1936.03.19Died:1959.12.08 (Greensburg, PA, USA † 69)Priest of Philadelphia (USA) (1915.05.29 – 1935.12.15)Titular Bishop of Helos (1935.12.15 – 1951.05.28)Auxiliary Bishop of Philadelphia (USA) (1935.12.15 – 1951.05.28)Bishop of Greensburg (USA) (1951.05.28 – 1959.12.08)Former PrelatesAuxiliary Bishop: Bishop Norbert Felix Gaughan (1975.04.02 – 1984.07.24)Special ChurchesCathedral:  Blessed Sacrament Cathedral, Greensburg, Pennsylvania Minor Basilica:  St. Vincent Archabbey Basilica, Latrobe, Pennsylvania Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (88)Show MapWheeling–Charleston (↙), Pittsburgh (←), Erie (↑), Altoona–Johnstown (→), Baltimore (↘)Statistics (2022.12.31)Area: 8,632 km²Population: 135,100 Catholics (20.2% of 667,700 total)Pastoral Centres: 78 parishesPersonnel: 230 priests (89 diocesan, 141 religious), 11 deacons, 456 religious (198 brothers, 258 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gree1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 667700,
+    "catholiques": 135100,
+    "pourcentage_catholiques": 20.2
+  },
+  "ressources": {
+    "pretres_diocesains": 89,
+    "pretres_religieux": null,
+    "total_pretres": 230,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 78
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

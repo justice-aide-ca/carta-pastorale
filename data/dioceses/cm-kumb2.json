@@ -1,0 +1,29 @@
+{
+  "id": "cm-kumb2",
+  "nom": "Kumba",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Kumba / Kumban(us) (Latin)Ecclesiastical Province: BamendaNeighbouring Dioceses: Calabar (←), Mamfe (↑), Nkongsamba (↗), Douala (↘), Buéa (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2016.03.15: Established as Diocese of Kumba / Kumban(us) (Latin) (from Diocese of Buéa and became suffragan of Bamenda)Present PrelatesBishop (2016.03.15 – ...):Bishop Agapitus Enuyehnyoh Nfon (62)OrdinariesBishops of Kumba (Roman Rite)Bishop Agapitus Enuyehnyoh Nfon (62)  (2016.03.15 – ...)Bishop of Kumba (Cameroon)Quodcumque dixerit vobis faciteBorn:1964.02.11 (Shishong, Cameroon)Ordained Priest:1991.03.22Consecrated Bishop:2011.05.31Priest of Kumbo (Cameroon) (1991.03.22 – 2011.04.08)Titular Bishop of Unizibira (2011.04.08 – 2016.03.15)Auxiliary Bishop of Bamenda (Cameroon) (2011.04.08 – 2016.03.15)Bishop of Kumba (Cameroon) (2016.03.15 – ...)Special ChurchesCathedral:  Cathédrale Sacré-Cœur, Kumba, South-West Show MapCalabar (←), Mamfe (↑), Nkongsamba (↗), Douala (↘), Buéa (↓)Statistics (2022.12.31)Area: 11,431 km²Population: 264,000 Catholics (44.8% of 588,920 total)Pastoral Centres: 26 parishes, 1 missionPersonnel: 46 priests (38 diocesan, 8 religious), 35 religious (13 brothers, 22 sisters), 49 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kumb2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 588920,
+    "catholiques": 264000,
+    "pourcentage_catholiques": 44.8
+  },
+  "ressources": {
+    "pretres_diocesains": 38,
+    "pretres_religieux": null,
+    "total_pretres": 46,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

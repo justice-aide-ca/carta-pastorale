@@ -1,0 +1,29 @@
+{
+  "id": "ch-pala0",
+  "nom": "Pala",
+  "pays": "ch",
+  "pays_nom": "Chad",
+  "continent": "unknown",
+  "type": "Diocese Name: Pala / Palaën(sis) (Latin)Ecclesiastical Province: N’DjaménaNeighbouring Dioceses: Garoua (←), Yagoua (↑), N’Djaména (↗), Laï (→), Moundou (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1956.12.19: Established as Apostolic Prefecture of Pala / Palaën(sis) (Latin) (from Diocese of Garoua)1964.01.16: Promoted as Diocese of Pala / Palaën(sis) (Latin) (became suffragan of Fort-Lamy)Present PrelatesBishop (2021.07.03 – ...):Bishop Dominique Tinoudji (52)OrdinariesBishops of Pala (Roman Rite)Bishop Dominique Tinoudji (52)  (2021.07.03 – ...)Bishop of Pala (Chad)Born:1973.08.08 (Manli, Chad)Ordained Priest:2005.01.08Consecrated Bishop:2021.10.02Priest of Moundou (Chad) (2005.01.08 – 2021.07.03)Bishop of Pala (Chad) (2021.07.03 – ...)Bishop Jean-Claude Bouchard, O.M.I. (85)  (1977.02.26 – 2020.09.25)Bishop emeritus of Pala (Chad)Verbum DominiBorn:1940.09.25 (Saint-Eloi, QC, Canada)Ordained Priest:1969.08.30Consecrated Bishop:1977.05.01Bishop of Pala (Chad) (1977.02.26 – 2020.09.25)President of Association of Episcopal Conferences of the Central Africa Region (2002 – 2005)President of Episcopal Conference of Chad (2002 – 2016.05)Bishop Georges-Hilaire Dupont, O.M.I.  (1964.01.16 – 1975.06.28)Servire populoBorn:1919.11.16 (Virey, France)Ordained Priest:1943.05.09Consecrated Bishop:1964.05.01Died:2020.01.29 (Saint-Hilaire-du-Harcouët, France † 100)Bishop of Pala (Chad) (1964.01.16 – 1975.06.28)Prefects Apostolic of Pala (Roman Rite)Fr. Honoré Jouneaux, O.M.I.  (1957 – 1964)Died:1964Prefect Apostolic of Pala (Chad) (1957 – 1964)Special ChurchesCathedral:  Cathédrale Saint-Pierre et Saint-Paul, Pala, Mayo-Kébbi Ouest Show MapGaroua (←), Yagoua (↑), N’Djaména (↗), Laï (→), Moundou (↘)Statistics (2022.12.31)Area: 30,105 km²Population: 76,330 Catholics (3.9% of 1,978,263 total)Pastoral Centres: 32 parishesPersonnel: 57 priests (39 diocesan, 18 religious), 72 religious (23 brothers, 49 sisters), 36 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pala0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1978263,
+    "catholiques": 76330,
+    "pourcentage_catholiques": 3.9
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 57,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

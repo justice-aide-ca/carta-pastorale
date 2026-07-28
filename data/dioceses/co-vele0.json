@@ -1,0 +1,29 @@
+{
+  "id": "co-vele0",
+  "nom": "Vélez",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Vélez / Velezan(us) (Latin)Ecclesiastical Province: BucaramangaNeighbouring Dioceses: Barrancabermeja (↑), Socorro y San Gil (→), Chiquinquirá (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History2003.05.14: Established as Diocese of Vélez / Velezan(us) (Latin) (from Diocese of Socorro y San Gil and became suffragan of Bucaramanga)Present PrelatesBishop (2025.11.14 – ...):Bishop José Camilo Arbeláez Montoya (65)OrdinariesBishops of Vélez (Roman Rite)Bishop José Camilo Arbeláez Montoya (65)  (2025.11.14 – ...)Bishop of Vélez (Colombia)Veni Sancte SpiritusBorn:1961.06.18 (Bogotá, Colombia)Ordained Priest:1995.11.25Consecrated Bishop:2026.01.24Priest of Medellín (Colombia) (1995.11.25 – 2025.11.14)Bishop of Vélez (Colombia) (2025.11.14 – ...)Bishop Marco Antonio Merchán Ladino (56)  (2016.10.26 – 2023.04.14)Bishop of Neiva (Colombia)Tu scis quia amo teBorn:1970.04.28 (Monguí, Colombia)Ordained Priest:1996.11.23Consecrated Bishop:2016.12.03Priest of Duitama–Sogamoso (Colombia) (1996.11.23 – 2016.10.26)Bishop of Vélez (Colombia) (2016.10.26 – 2023.04.14)Bishop of Neiva (Colombia) (2023.04.14 – ...)Apostolic Administrator of Tierradentro (Colombia) (2024.07.29 – 2026.05.12)Bishop Luis Albeiro Cortés Rendón  (2003.05.14 – 2015.11.30)Born:1952.02.02 (Quimbaya, Colombia)Ordained Priest:1978.12.08Consecrated Bishop:2003.06.27Died:2022.05.12 (Pereira, Colombia † 70)Priest of Pereira (Colombia) (1978.12.08 – 2003.05.14)Bishop of Vélez (Colombia) (2003.05.14 – 2015.11.30)Titular Bishop of Fidoloma (2015.11.30 – 2022.05.12)Auxiliary Bishop of Pereira (Colombia) (2015.11.30 – 2022.05.12)Special ChurchesCathedral:  Catedral Nuestra Señora de las Nieves, Vélez, Santander Jubilee Churches in the Holy Year 2025Show MapBarrancabermeja (↑), Socorro y San Gil (→), Chiquinquirá (↓)Statistics (2022.12.31)Area: 4,957 km²Population: 126,134 Catholics (74.1% of 170,250 total)Pastoral Centres: 33 parishesPersonnel: 40 priests (37 diocesan, 3 religious), 25 religious (4 brothers, 21 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vele0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 170250,
+    "catholiques": 126134,
+    "pourcentage_catholiques": 74.1
+  },
+  "ressources": {
+    "pretres_diocesains": 37,
+    "pretres_religieux": null,
+    "total_pretres": 40,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

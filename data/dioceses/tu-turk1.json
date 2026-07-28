@@ -1,0 +1,29 @@
+{
+  "id": "tu-turk1",
+  "nom": "Turkmenistan",
+  "pays": "tu",
+  "pays_nom": "Turkmenistan",
+  "continent": "unknown",
+  "type": "Mission sui juris Name: Turkmenistan / Turcmenistanian(us) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Tehran–Isfahan (↙), Azerbaigian (←), Atyrau (↑), Uzbekistan (↗), Afghanistan (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1997.09.29: Established as Mission sui juris of Turkmenistan / Turcmenistanian(us) (Latin) (from Apostolic Administration of Kazakhstan)Present PrelatesEcclesiastical Superior:vacantOrdinariesEcclesiastical Superiors of Turkmenistan (Roman Rite)Fr. Andrzej Madej, O.M.I. (74)  (1997.09.29 – 2025.06.12)Ecclesiastical Superior emeritus of Turkmenistan (Turkmenistan)Born:1951.10.06 (Kazimierz Dolny, Poland)Ordained Priest:1977.06.19Ecclesiastical Superior of Turkmenistan (Turkmenistan) (1997.09.29 – 2025.06.12)Special ChurchesPro-Cathedral:  Chapel of the Transfiguration, Ashgabat Churches by City (1)Show MapTehran–Isfahan (↙), Azerbaigian (←), Atyrau (↑), Uzbekistan (↗), Afghanistan (↘)Statistics (2022.12.31)Area: 488,100 km²Population: 250 Catholics (0.0% of 5,479,000 total)Pastoral Centres: 1 parishPersonnel: 2 priests (religious), 3 deacons, 5 religious (5 brothers)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "turk1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5479000,
+    "catholiques": 250,
+    "pourcentage_catholiques": 0.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ph-nova3",
+  "nom": "Novaliches",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Novaliches / Novalichesin(us) (Latin)Ecclesiastical Province: ManilaNeighbouring Dioceses: Kalookan (↙), Malolos (↖), Antipolo (↘), Cubao (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Jesus the Good Shepherd, Our Lady of Mercy (September 24)Cathedral Dedication Anniversary: August 19Liturgical Calendar (National) 📅History2002.12.07: Established as Diocese of Novaliches / Novalichesin(us) (Latin) (from Metropolitan Archdiocese of Manila and became suffragan of Manila)Present PrelatesBishop (2019.06.06 – ...):Bishop Roberto Orendain Gaa (63)Monsignors (1)OrdinariesBishops of Novaliches (Roman Rite)Bishop Roberto Orendain Gaa (63)  (2019.06.06 – ...)Bishop of Novaliches (Philippines)Finem fidei salutem animarumBorn:1962.10.04 (Manila, Philippines)Ordained Priest:2000.09.23Consecrated Bishop:2019.08.22Priest of Manila (Philippines) (2000.09.23 – 2019.06.06)Bishop of Novaliches (Philippines) (2019.06.06 – ...)Bishop Antonio Realubin Tobias (85)  (2003.11.25 – 2019.06.06)Bishop emeritus of Novaliches (Philippines)Adveniat regnum tuumBorn:1941.06.13 (Laoag City, Ilocos Norte, Philippines)Ordained Priest:1965.12.21Consecrated Bishop:1983.01.25Priest of Manila (Philippines) (1965.12.21 – 1982.11.03)Chaplain of His Holiness (1974.09.25 – 1982.11.03)Titular Bishop of Tipasa in Numidia (1982.11.03 – 1984.09.14)Auxiliary Bishop of Zamboanga (Philippines) (1982.11.03 – 1984.09.14)Bishop of Pagadian (Philippines) (1984.09.14 – 1993.05.28)Bishop of San Fernando de La Union (Philippines) (1993.05.28 – 2003.11.25)Apostolic Administrator sede plena of Novaliches (Philippines) (2003.06.21 – 2003.11.25)Bishop of Novaliches (Philippines) (2003.11.25 – 2019.06.06)Bishop Antonio Realubin Tobias (85)  (Apostolic Administrator sede plena 2003.06.21 – 2003.11.25)Bishop Teodoro Cruz Bacani Jr. (86)  (2002.12.07 – 2003.11.25)Bishop emeritus of Novaliches (Philippines)Ad majorem Dei gloriamBorn:1940.01.16 (Bataan, Philippines)Ordained Priest:1965.12.21Consecrated Bishop:1984.04.12Priest of Iba (Philippines) (1965.12.21 – 1984.03.06)Titular Bishop of Gauriana (1984.03.06 – 2002.12.07)Auxiliary Bishop of Manila (Philippines) (1984.03.06 – 2002.12.07)Bishop of Novaliches (Philippines) (2002.12.07 – 2003.11.25)Special ChurchesCathedral:  Cathedral Shrine of the Good Shepherd, Novaliches, National Capital Region National Shrine:  Shrine of Our Lady of Mercy, Novaliches, National Capital Region Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (68)Show MapKalookan (↙), Malolos (↖), Antipolo (↘), Cubao (↓)Statistics (2022.12.31)Area: 138 km²Population: 2,500,327 Catholics (78.0% of 3,205,547 total)Pastoral Centres: 73 parishes, 2 missionsPersonnel: 255 priests (53 diocesan, 202 religious), 771 religious (457 brothers, 314 sisters), 18 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nova3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3205547,
+    "catholiques": 2500327,
+    "pourcentage_catholiques": 78.0
+  },
+  "ressources": {
+    "pretres_diocesains": 53,
+    "pretres_religieux": null,
+    "total_pretres": 255,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 73
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

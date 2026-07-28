@@ -1,0 +1,29 @@
+{
+  "id": "mx-maza1",
+  "nom": "Mazatlán",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Mazatlán / Mazatlanen(sis) (Latin)Ecclesiastical Province: DurangoNeighbouring Dioceses: Culiacán (↖), El Salto (↗), Jesús María (→), Tepic (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1958.11.22: Established as Diocese of Mazatlán / Mazatlanen(sis) (Latin) (from Metropolitan Archdiocese of Durango and Diocese of Sinaloa and became suffragan of Durango)1968.06.10: Lost territory to establish Territorial Prelature of El SaltoContact InfoAddress: Canizales y B. Juárez s/n, Centro, 82000 - Mazatlan, Sin., MexicoPhone: (669) 9-81-33-52Present PrelatesBishop (2005.03.03 – ...):Bishop Mario Espinosa Contreras (76)Monsignors (7)OrdinariesBishops of Mazatlán (Roman Rite)Bishop Mario Espinosa Contreras (76)  (2005.03.03 – ...)Bishop of Mazatlán (Mexico)Born:1949.11.22 (Tepic, Mexico)Ordained Priest:1973.07.14Consecrated Bishop:1996.05.11Priest of Tepic (Mexico) (1973.07.14 – 1996.04.02)Bishop of Tehuacán (Mexico) (1996.04.02 – 2005.03.03)Bishop of Mazatlán (Mexico) (2005.03.03 – ...)Bishop Rafael Barraza Sánchez  (1981.10.19 – 2005.03.03)Born:1928.10.24 (Durango, Mexico)Ordained Priest:1951.10.28Consecrated Bishop:1980.01.25Died:2020.07.26 (Durango, Mexico † 91)Priest of Durango (Mexico) (1951.10.28 – 1979.10.26)Titular Bishop of Drivastum (1979.10.26 – 1981.10.19)Auxiliary Bishop of Durango (Mexico) (1979.10.26 – 1981.10.19)Bishop of Mazatlán (Mexico) (1981.10.19 – 2005.03.03)Bishop Miguel Garcia Franco  (1958.12.18 – 1981.03.08)Born:1909.03.16 (Tepehuanes, Mexico)Ordained Priest:1931.10.25Consecrated Bishop:1959.02.22Died:1981.03.08 († 71)Bishop of Mazatlán (Mexico) (1958.12.18 – 1981.03.08)Special ChurchesCathedral, Minor Basilica:  Catedral Basílica de la Inmaculada Concepción, Mazatlán, Sinaloa Churches by City (49)Show MapCuliacán (↖), El Salto (↗), Jesús María (→), Tepic (↘)Statistics (2022.12.31)Area: 19,105 km²Population: 928,000 Catholics (93.6% of 991,000 total)Pastoral Centres: 52 parishes, 13 missionsPersonnel: 93 priests (86 diocesan, 7 religious), 126 religious (8 brothers, 118 sisters), 18 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "maza1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 991000,
+    "catholiques": 928000,
+    "pourcentage_catholiques": 93.6
+  },
+  "ressources": {
+    "pretres_diocesains": 86,
+    "pretres_religieux": null,
+    "total_pretres": 93,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 52
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

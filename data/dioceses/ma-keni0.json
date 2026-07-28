@@ -1,0 +1,29 @@
+{
+  "id": "ma-keni0",
+  "nom": "Keningau",
+  "pays": "ma",
+  "pays_nom": "Malaysia",
+  "continent": "unknown",
+  "type": "Diocese Name: Keningau / 根地咬 (正體中文) / Keningauen(sis) (Latin)Ecclesiastical Province: Kota KinabaluNeighbouring Dioceses: Miri (↙), Brunei (←), Kota Kinabalu (↑), Tanjung Selor (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1992.12.17: Established as Diocese of Keningau / 根地咬 (正體中文) / Keningauen(sis) (Latin) (from Diocese of Kota Kinabalu and became suffragan of Kuching)2008.05.23: Became suffragan of Kota KinabaluPresent PrelatesBishop (1992.12.17 – ...):Bishop Cornelius Piong (77)OrdinariesBishops of Keningau (Roman Rite)Bishop Cornelius Piong (77)  (1992.12.17 – ...)Bishop of Keningau (Malaysia)Kebahagiaan adalah KekitaanBorn:1949.07.01 (Bundu, Malaysia)Ordained Priest:1977.03.27Consecrated Bishop:1993.05.06Priest of Kota Kinabalu (Malaysia) (1977.03.27 – 1992.12.17)Bishop of Keningau (Malaysia) (1992.12.17 – ...)Special ChurchesCathedral:  St. Francis Xavier’s Cathedral, Keningau, Sabah Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (12)Show MapMiri (↙), Brunei (←), Kota Kinabalu (↑), Tanjung Selor (↘)Statistics (2021.12.31)Area: 18,298 km²Population: 148,369 Catholics (29.2% of 508,000 total)Pastoral Centres: 10 parishesPersonnel: 23 priests (21 diocesan, 2 religious), 63 religious (18 brothers, 45 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "keni0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 508000,
+    "catholiques": 148369,
+    "pourcentage_catholiques": 29.2
+  },
+  "ressources": {
+    "pretres_diocesains": 21,
+    "pretres_religieux": null,
+    "total_pretres": 23,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 10
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

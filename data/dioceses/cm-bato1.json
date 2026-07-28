@@ -1,0 +1,29 @@
+{
+  "id": "cm-bato1",
+  "nom": "Batouri",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Batouri / Baturien(sis) (Latin)Ecclesiastical Province: BertouaNeighbouring Dioceses: Doumé–Abong’ Mbang (←), Bertoua (↖), Berbérati (→), Yokadouma (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1994.02.03: Established as Diocese of Batouri / Baturien(sis) (Latin) (from Diocese of Bertoua and became suffragan of Yaoundé)1994.11.11: Became suffragan of BertouaPresent PrelatesBishop (2018.04.25 – ...):Bishop Marcellin-Marie Ndabnyemb (61)OrdinariesBishops of Batouri (Roman Rite)Bishop Marcellin-Marie Ndabnyemb (61)  (2018.04.25 – ...)Bishop of Batouri (Cameroon)Envue du bien communBorn:1965.06.02 (Logbikoy, Cameroon)Ordained Priest:1996.04.13Consecrated Bishop:2018.07.07Priest of Douala (Cameroon) (1996.04.13 – 2018.04.25)Bishop of Batouri (Cameroon) (2018.04.25 – ...)Bishop Faustin Ambassa Ndjodo, C.I.C.M. (61) (later Archbishop)  (2009.12.03 – 2016.10.22)Metropolitan Archbishop of Garoua (Cameroon)Christus pax nostra / Ut unum sintBorn:1964.07.26 (Ekouda, Cameroon)Ordained Priest:1997.07.26Consecrated Bishop:2010.01.31Bishop of Batouri (Cameroon) (2009.12.03 – 2016.10.22)Metropolitan Archbishop of Garoua (Cameroon) (2016.10.22 – ...)Fr. Vital Pierre Nkenlifack  (Apostolic Administrator 2008.01 – 2009.12.03)Bishop Samuel Kleda (66) (later Archbishop)  (2000.10.23 – 2007.11.03)Metropolitan Archbishop of Douala (Cameroon)Amore omnia vincitBorn:1959 (Golompuy, Cameroon)Ordained Priest:1986.03.09Consecrated Bishop:2001.02.18Priest of Bertoua (Cameroon) (1986.03.09 – 2000.10.23)Bishop of Batouri (Cameroon) (2000.10.23 – 2007.11.03)Coadjutor Archbishop of Douala (Cameroon) (2007.11.03 – 2009.11.17)Metropolitan Archbishop of Douala (Cameroon) (2009.11.17 – ...)President of National Episcopal Conference of Cameroon (2013.04 – 2019.05.03)President of Association of Episcopal Conferences of the Central Africa Region (2014.07.13 – 2017.07.15)Bishop Roger Pirenne, C.I.C.M. (later Archbishop)  (1994.02.03 – 1999.06.03)Gardien de la véritéBorn:1934.08.09 (Clermont sur Berwinne, Belgium)Ordained Priest:1958.08.03Consecrated Bishop:1994.05.22Died:2023.08.06 (Yaoundé, Cameroon † 88)Bishop of Batouri (Cameroon) (1994.02.03 – 1999.06.03)Apostolic Administrator of Doumé–Abong’ Mbang (Cameroon) (1995.02.24 – 1997.04.20)Metropolitan Archbishop of Bertoua (Cameroon) (1999.06.03 – 2009.12.03)Special ChurchesCathedral:  Cathédrale Notre-Dame de l’Immaculée Conception, Batouri, East Show MapDoumé–Abong’ Mbang (←), Bertoua (↖), Berbérati (→), Yokadouma (↓)Statistics (2020.12.31)Area: 15,951 km²Population: 50,400 Catholics (22.9% of 220,000 total)Pastoral Centres: 18 parishes, 1 missionPersonnel: 41 priests (35 diocesan, 6 religious), 62 religious (17 brothers, 45 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bato1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 220000,
+    "catholiques": 50400,
+    "pourcentage_catholiques": 22.9
+  },
+  "ressources": {
+    "pretres_diocesains": 35,
+    "pretres_religieux": null,
+    "total_pretres": 41,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "vi-hati0",
+  "nom": "Hà Tĩnh",
+  "pays": "vi",
+  "pays_nom": "Vietnam",
+  "continent": "unknown",
+  "type": "Diocese Name: Hà Tĩnh (Tiếng Việt) / 河靜 (正體中文) / Hatinhen(sis) (Latin)Ecclesiastical Province: Hà NôiNeighbouring Dioceses: Savannakhet (↙), Vinh (↑), Huê (↘)Depends on: Dicastery for EvangelisationWebsites: CelebrationsPatron Saint: Mary Mother of GodCathedral Dedication Anniversary: April 26Liturgical Calendar (National) 📅History2018.12.22: Established as Diocese of Hà Tĩnh (Tiếng Việt) / 河靜 (正體中文) / Hatinhen(sis) (Latin) (from Diocese of Vinh and became suffragan of Hà Nôi)Present PrelatesBishop (2023.03.25 – ...):Bishop Louis Nguyễn Anh Tuấn (66)OrdinariesBishops of Hà Tĩnh (Roman Rite)Bishop Louis Nguyễn Anh Tuấn (66)  (2023.03.25 – ...)Bishop of Hà Tĩnh (Vietnam)Hic ego sumBorn:1960.04.06 (Quang Nam, Vietnam)Ordained Priest:1999.06.30Consecrated Bishop:2017.10.14Priest of Thành-Phô Hô Chí Minh (Vietnam) (1999.06.30 – 2017.08.25)Titular Bishop of Catrum (2017.08.25 – 2023.03.25)Auxiliary Bishop of Thành-Phô Hô Chí Minh (Vietnam) (2017.08.25 – 2023.03.25)Apostolic Administrator of Hà Tĩnh (Vietnam) (2021.03.19 – 2023.03.25)Bishop of Hà Tĩnh (Vietnam) (2023.03.25 – ...)Bishop Louis Nguyễn Anh Tuấn (66)  (Apostolic Administrator 2021.03.19 – 2023.03.25)Bishop Paul Nguyễn Thái Hợp, O.P. (81)  (2018.12.22 – 2021.03.19)Bishop emeritus of Hà Tĩnh (Vietnam)Veritas et caritasBorn:1945.02.02 (Lang Anh, Vietnam)Ordained Priest:1972.08.08Consecrated Bishop:2010.07.23Bishop of Vinh (Vietnam) (2010.05.13 – 2018.12.22)Bishop of Hà Tĩnh (Vietnam) (2018.12.22 – 2021.03.19)Special ChurchesCathedral:  Nhà Thờ Chính Toà Thánh thiên thần Micae, Văn Hạnh, Hà Tĩnh, North Central Coast Show MapSavannakhet (↙), Vinh (↑), Huê (↘)Statistics (2022.12.31)Area: 14,107 km²Population: 287,036 Catholics (11.9% of 2,414,607 total)Pastoral Centres: 134 parishes, 1 missionPersonnel: 160 priests (125 diocesan, 35 religious), 340 religious (53 brothers, 287 sisters), 80 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "hati0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2414607,
+    "catholiques": 287036,
+    "pourcentage_catholiques": 11.9
+  },
+  "ressources": {
+    "pretres_diocesains": 125,
+    "pretres_religieux": null,
+    "total_pretres": 160,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 134
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

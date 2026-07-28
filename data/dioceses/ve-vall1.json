@@ -1,0 +1,29 @@
+{
+  "id": "ve-vall1",
+  "nom": "Valle de la Pascua",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Valle de la Pascua / Vallispaschalen(sis) (Latin)Ecclesiastical Province: CalabozoNeighbouring Dioceses: Calabozo (←), Maracay (↖), Los Teques (↖), Guarenas (↑), Barcelona (↗), El Tigre (→), Ciudad Bolívar (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Nuestra Señora de la Candelaria (February 2)Cathedral Dedication Anniversary: November 26Liturgical Calendar (National) 📅History1992.07.25: Established as Diocese of Valle de la Pascua / Vallispaschalen(sis) (Latin) (from Diocese of Calabozo and became suffragan of Caracas)1995.06.17: Became suffragan of CalabozoContact InfoAddress: \"Villa La Paz\", Calle España N° 1, Urbanización Guamachal I, Código Postal 2307, Valle de la Pascua, Estado Guárico, VenezuelaPresent PrelatesBishop (2024.01.11 – ...):Bishop Ricardo Aldo Barreto Cairo (58)OrdinariesBishops of Valle de la Pascua (Roman Rite)Bishop Ricardo Aldo Barreto Cairo (58)  (2024.01.11 – ...)Bishop of Valle de la Pascua (Venezuela)Born:1968.07.07 (Ciudad de Panamá, Panama)Ordained Priest:1998.08.15Consecrated Bishop:2019.11.23Priest of La Guaira (Venezuela) (1998.08.15 – 2019.09.17)Titular Bishop of Badiæ (2019.09.17 – 2024.01.11)Auxiliary Bishop of Caracas (Venezuela) (2019.09.17 – 2024.01.11)Bishop of Valle de la Pascua (Venezuela) (2024.01.11 – ...)Bishop Ramón José Aponte Fernández (77)  (2004.03.05 – 2024.01.11)Bishop emeritus of Valle de la Pascua (Venezuela)Born:1948.09.23 (Carache, Venezuela)Ordained Priest:1974.08.17Consecrated Bishop:2004.05.22Priest of Trujillo (Venezuela) (1974.08.17 – 2004.03.05)Bishop of Valle de la Pascua (Venezuela) (2004.03.05 – 2024.01.11)Bishop Joaquín José Morón Hidalgo  (1992.07.25 – 2002.12.27)Born:1942.08.16 (Boconó, Venezuela)Ordained Priest:1965.08.01Consecrated Bishop:1992.10.07Died:2013.10.30 († 71)Priest of Trujillo (Venezuela) (1965.08.01 – 1992.07.25)Bishop of Valle de la Pascua (Venezuela) (1992.07.25 – 2002.12.27)Bishop of Acarigua–Araure (Venezuela) (2002.12.27 – 2013.10.30)Special ChurchesCathedral:  Catedral de Nuestra Señora de la Candelaria, Valle de la Pascua, Guárico Show MapCalabozo (←), Maracay (↖), Los Teques (↖), Guarenas (↑), Barcelona (↗), El Tigre (→), Ciudad Bolívar (↓)Statistics (2022.12.31)Area: 37,000 km²Population: 352,000 Catholics (82.1% of 429,000 total)Pastoral Centres: 31 parishes, 2 missionsPersonnel: 27 priests (25 diocesan, 2 religious), 6 deacons, 17 religious (2 brothers, 15 sisters), 13 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vall1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 429000,
+    "catholiques": 352000,
+    "pourcentage_catholiques": 82.1
+  },
+  "ressources": {
+    "pretres_diocesains": 25,
+    "pretres_religieux": null,
+    "total_pretres": 27,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mg-mora0",
+  "nom": "Moramanga",
+  "pays": "mg",
+  "pays_nom": "Madagascar",
+  "continent": "unknown",
+  "type": "Diocese Name: Moramanga / Moramangan(us) (Latin)Ecclesiastical Province: ToamasinaNeighbouring Dioceses: Antsirabé (↙), Antananarivo (←), Ambatondrazaka (↑), Toamasina (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2006.05.13: Established as Diocese of Moramanga / Moramangan(us) (Latin) (from Diocese of Ambatondrazaka and became suffragan of Antananarivo)2010.02.26: Became suffragan of ToamasinaPresent PrelatesBishop (2019.07.08 – ...):Bishop Rosario Saro Vella, S.D.B. (74)OrdinariesBishops of Moramanga (Roman Rite)Bishop Rosario Saro Vella, S.D.B. (74)  (2019.07.08 – ...)Bishop of Moramanga (Madagascar)Crux spes unicaBorn:1952.05.08 (Canicatti, Italy)Ordained Priest:1979.05.27Consecrated Bishop:2007.12.16Bishop of Ambanja (Madagascar) (2007.11.07 – 2019.07.08)Bishop of Moramanga (Madagascar) (2019.07.08 – ...)Bishop Gaetano Di Pierro, S.C.I. (77)  (2006.05.13 – 2018.03.03)Bishop emeritus of Farafangana (Madagascar)Born:1948.12.01 (Orta Nova, Italy)Ordained Priest:1975.06.29Consecrated Bishop:2001.08.05Titular Bishop of Guardialfiera (2001.04.24 – 2006.05.13)Auxiliary Bishop of Ambatondrazaka (Madagascar) (2001.04.24 – 2006.05.13)Bishop of Moramanga (Madagascar) (2006.05.13 – 2018.03.03)Bishop of Farafangana (Madagascar) (2018.03.03 – 2024.10.31)Special ChurchesCathedral:  Cathédrale du Sacré-Cœur de Jésus, Moramanga, Toamasina Show MapAntsirabé (↙), Antananarivo (←), Ambatondrazaka (↑), Toamasina (→)Statistics (2022.12.31)Area: 12,064 km²Population: 199,950 Catholics (35.0% of 571,770 total)Pastoral Centres: 16 parishesPersonnel: 42 priests (10 diocesan, 32 religious), 241 religious (95 brothers, 146 sisters), 17 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mora0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 571770,
+    "catholiques": 199950,
+    "pourcentage_catholiques": 35.0
+  },
+  "ressources": {
+    "pretres_diocesains": 10,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

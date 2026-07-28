@@ -1,0 +1,29 @@
+{
+  "id": "gh-yend0",
+  "nom": "Yendi",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Yendi / Yenden(sis) (Latin)Ecclesiastical Province: TamaleNeighbouring Dioceses: Tamale (←), Navrongo–Bolgatanga (↖), Dapaong (↗), Kara (→), Sokodé (↘), Jasikan (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1999.03.16: Established as Diocese of Yendi / Yenden(sis) (Latin) (from Metropolitan Archdiocese of Tamale and became suffragan of Tamale)Present PrelatesBishop (2022.06.03 – ...):Bishop Matthew Yitiereh (65)OrdinariesBishops of Yendi (Roman Rite)Bishop Matthew Yitiereh (65)  (2022.06.03 – ...)Bishop of Yendi (Ghana)Born:1961.01.01 (Nandom Pina, Upper West, Ghana)Ordained Priest:1995.07.22Consecrated Bishop:2022.08.20Priest of Tamale (Ghana) (1995.07.22 – 2022.06.03)Bishop of Yendi (Ghana) (2022.06.03 – ...)Bishop Vincent Sowah Boi-Nai, S.V.D. (81)  (1999.03.16 – 2022.06.03)Bishop emeritus of Yendi (Ghana)Ego veni ut vitam habeantBorn:1945.01.01 (Labadi, Ghana)Ordained Priest:1977.08.13Consecrated Bishop:1999.07.10Bishop of Yendi (Ghana) (1999.03.16 – 2022.06.03)Special ChurchesCathedral:  Cathedral of Our Lady of Lourdes, Yendi, Northern Show MapTamale (←), Navrongo–Bolgatanga (↖), Dapaong (↗), Kara (→), Sokodé (↘), Jasikan (↓)Statistics (2022.12.31)Area: 19,160 km²Population: 35,989 Catholics (4.1% of 868,326 total)Pastoral Centres: 15 parishes, 2 missionsPersonnel: 39 priests (23 diocesan, 16 religious), 60 religious (17 brothers, 43 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "yend0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 868326,
+    "catholiques": 35989,
+    "pourcentage_catholiques": 4.1
+  },
+  "ressources": {
+    "pretres_diocesains": 23,
+    "pretres_religieux": null,
+    "total_pretres": 39,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

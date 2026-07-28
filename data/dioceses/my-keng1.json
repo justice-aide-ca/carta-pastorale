@@ -1,0 +1,29 @@
+{
+  "id": "my-keng1",
+  "nom": "Kengtung",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Kengtung / Kengtunghen(sis) (Latin)Ecclesiastical Province: TaunggyiNeighbouring Dioceses: Pekhon (←), Taunggyi (←), Dali 大理 (↑), Luang Prabang (↘), Chiang Mai (↓), Chiang Rai (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1927.04.27: Established as Apostolic Prefecture of Kengtung / Kengtunghen(sis) (Latin) (from Apostolic Vicariate of Eastern Burma)1950.05.26: Promoted as Apostolic Vicariate of Kengtung / Kengtunghen(sis) (Latin)1955.01.01: Promoted as Diocese of Kengtung / Kengtunghen(sis) (Latin) (became suffragan of Mandalay)1975.11.20: Lost territory to establish Apostolic Prefecture of Lashio1998.01.17: Became suffragan of TaunggyiPresent PrelatesBishop (2022.11.04 – ...):Bishop John Saw Yaw Han (58)General Secretary of Myanmar Catholic Bishops’ ConferenceMonsignors (1)OrdinariesBishops of Kengtung (Roman Rite)Bishop John Saw Yaw Han (58)  (2022.11.04 – ...)Bishop of Kengtung (Myanmar)General Secretary of Myanmar Catholic Bishops’ ConferenceBorn:1968.05.05 (Homalim, Myanmar)Ordained Priest:1995.03.18Consecrated Bishop:2015.04.12Priest of Yangon (Myanmar) (1995.03.18 – 2014.12.30)Titular Bishop of Buffada (2014.12.30 – 2022.11.04)Auxiliary Bishop of Yangon (Myanmar) (2014.12.30 – 2022.11.04)General Secretary of Myanmar Catholic Bishops’ Conference (2017? – ...)Bishop of Kengtung (Myanmar) (2022.11.04 – ...)Bishop Peter Louis Cakü  (2001.10.02 – 2020.02.20)Servant for allBorn:1952.03.23 (Nali, Myanmar)Ordained Priest:1982.04.04Consecrated Bishop:1997.12.08Died:2020.02.20 (Kengtung, Myanmar † 67)Priest of Kengtung (Myanmar) (1982.04.04 – 1997.05.20)Titular Bishop of Abidda (1997.05.20 – 2001.10.02)Auxiliary Bishop of Kengtung (Myanmar) (1997.05.20 – 2001.10.02)Bishop of Kengtung (Myanmar) (2001.10.02 – 2020.02.20)Bishop Abraham Than  (1972.09.19 – 2001.10.02)Joyful things in lifeBorn:1927.09.21 (Mong Block, Myanmar)Ordained Priest:1957.09.22Consecrated Bishop:1969.05.11Died:2025.08.18 (Myanmar † 97)Titular Bishop of Tortiboli (1968.12.19 – 1972.09.19)Auxiliary Bishop of Kengtung (Myanmar) (1968.12.19 – 1972.09.19)Bishop of Kengtung (Myanmar) (1972.09.19 – 2001.10.02)Bishop Ferdinand Guercilena, P.I.M.E.  (1955.01.01 – 1972.09.19)Born:1899.10.29 (Montodine, Italy)Ordained Priest:1926.03.19Consecrated Bishop:1950.10.08Died:1973.05.06 (Lecco, Italy † 73)Titular Bishop of Hadriania (1950.05.31 – 1955.01.01)Vicar Apostolic of Kengtung (Myanmar) (1950.05.31 – 1955.01.01)Bishop of Kengtung (Myanmar) (1955.01.01 – 1972.09.19)Vicars Apostolic of Kengtung (Roman Rite)Bishop Ferdinand Guercilena, P.I.M.E.  (1950.05.31 – 1955.01.01)(see above)Prefects Apostolic of Kengtung (Roman Rite)Fr. Erminio Bonetta, P.I.M.E.  (1927.06.21 – 1949.02.22)Born:1881Died:1949.02.22 (Kengtung, Myanmar † 67)Prefect Apostolic of Kengtung (Myanmar) (1927.06.21 – 1949.02.22)Former PrelatesAuxiliary Bishop: Bishop Peter Louis Cakü (1997.05.20 – 2001.10.02)Auxiliary Bishop: Bishop Abraham Than (1968.12.19 – 1972.09.19)Special ChurchesCathedral:  Cathedral of the Immaculate Heart of Mary, Kengtung, Shan Show MapPekhon (←), Taunggyi (←), Dali 大理 (↑), Luang Prabang (↘), Chiang Mai (↓), Chiang Rai (↓)Statistics (2022.12.31)Area: 45,856 km²Population: 62,272 Catholics (1.7% of 3,634,000 total)Pastoral Centres: 22 parishes, 21 missionsPersonnel: 45 priests (43 diocesan, 2 religious), 118 religious (6 brothers, 112 sisters), 15 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "keng1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3634000,
+    "catholiques": 62272,
+    "pourcentage_catholiques": 1.7
+  },
+  "ressources": {
+    "pretres_diocesains": 43,
+    "pretres_religieux": null,
+    "total_pretres": 45,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

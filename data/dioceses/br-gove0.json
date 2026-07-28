@@ -1,0 +1,29 @@
+{
+  "id": "br-gove0",
+  "nom": "Governador Valadares",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Governador Valadares / Valadaren(sis) (Latin)Ecclesiastical Province: MarianaNeighbouring Dioceses: Itabira–Fabriciano (↙), Guanhães (←), Teófilo Otoni (↑), São Mateus (→), Colatina (→), Vitória (↘), Caratinga (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1956.02.01: Established as Diocese of Governador Valadares / Valadaren(sis) (Latin) (from Metropolitan Archdiocese of Diamantina, Diocese of Araçuaí and Diocese of Caratinga and became suffragan of Mariana)1985.05.24: Lost territory to establish Diocese of Guanhães2016.01.20: Gained territory from Diocese of GuanhãesPresent PrelatesBishop (2014.03.06 – ...):Bishop Antônio Carlos Félix (68)OrdinariesBishops of Governador Valadares (Roman Rite)Bishop Antônio Carlos Félix (68)  (2014.03.06 – ...)Bishop of Governador Valadares (Brazil)Sirvamos sem temorBorn:1957.12.05 (Caldas, MG, Brazil)Ordained Priest:1986.12.20Consecrated Bishop:2003.05.04Priest of Pouso Alegre (Brazil) (1986.12.20 – 2003.02.05)Bishop of Luz (Brazil) (2003.02.05 – 2014.03.06)Bishop of Governador Valadares (Brazil) (2014.03.06 – ...)Bishop Werner Franz Siebenbrock, S.V.D.  (2001.12.19 – 2014.03.06)In verbo autem TuoBorn:1937.09.27 (Münster, Germany)Ordained Priest:1965.12.18Consecrated Bishop:1988.12.18Died:2019.12.24 (Juiz de Fora, MG, Brazil † 82)Titular Bishop of Tacia montana (1988.10.12 – 1994.11.09)Auxiliary Bishop of Belo Horizonte (Brazil) (1988.10.12 – 1994.11.09)Bishop of Nova Iguaçu (Brazil) (1994.11.09 – 2001.12.19)Bishop of Governador Valadares (Brazil) (2001.12.19 – 2014.03.06)Bishop José Goncalves Heleno  (1977.12.07 – 2001.04.25)Evangelizare divitias ChristiBorn:1927.11.03 (Cipotânea, MG, Brazil)Ordained Priest:1952.11.30Consecrated Bishop:1976.10.18Died:2021.09.01 (Caratinga, MG, Brazil † 93)Priest of Mariana (Brazil) (1952.11.30 – 1976.07.19)Coadjutor Bishop of Governador Valadares (Brazil) (1976.07.19 – 1977.12.07)Bishop of Governador Valadares (Brazil) (1977.12.07 – 2001.04.25)Bishop Hermínio Malzone Hugo  (1957.01.29 – 1977.12.07)Born:1915.03.06 (Guaxupé, MG, Brazil)Ordained Priest:1938.03.27Consecrated Bishop:1957.05.05Died:2002.02.20 (Guaxupé, MG, Brazil † 86)Priest of Guaxupé (Brazil) (1938.03.27 – 1957.01.29)Bishop of Governador Valadares (Brazil) (1957.01.29 – 1977.12.07)Former PrelatesCoadjutor Bishop: Bishop José Goncalves Heleno (1976.07.19 – 1977.12.07)Special ChurchesCathedral:  Catedral Santo Antônio de Pádua, Governador Valadares, Minas Gerais Churches by City (56)Show MapItabira–Fabriciano (↙), Guanhães (←), Teófilo Otoni (↑), São Mateus (→), Colatina (→), Vitória (↘), Caratinga (↓)Statistics (2022.12.31)Area: 14,588 km²Population: 319,894 Catholics (61.9% of 516,400 total)Pastoral Centres: 54 parishesPersonnel: 71 priests (57 diocesan, 14 religious), 24 deacons, 36 religious (22 brothers, 14 sisters), 22 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gove0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 516400,
+    "catholiques": 319894,
+    "pourcentage_catholiques": 61.9
+  },
+  "ressources": {
+    "pretres_diocesains": 57,
+    "pretres_religieux": null,
+    "total_pretres": 71,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 54
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

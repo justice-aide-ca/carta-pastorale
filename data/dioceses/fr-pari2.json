@@ -1,0 +1,29 @@
+{
+  "id": "fr-pari2",
+  "nom": "Notre-Dame du Liban de Paris",
+  "pays": "fr",
+  "pays_nom": "France",
+  "continent": "unknown",
+  "type": "Diocese Name: Notre-Dame du Liban de Paris (français) / Our Lady of Lebanon of Paris (English) / Nostra Signora del Libano di Parigi (Italiano) / Dominæ Nostræ Libanen(sis) Parisien(sis) (Latin)Subject to the PatriarchDepends on: Dicastery for the Eastern ChurchesWebsites: History2012.07.21: Established as Diocese of Notre-Dame du Liban de Paris (français) / Our Lady of Lebanon of Paris (English) / Nostra Signora del Libano di Parigi (Italiano) / Dominæ Nostræ Libanen(sis) Parisien(sis) (Latin) (without ecclesiastical province)Present PrelatesBishop:vacantApostolic Administrator (2024.05.29 – ...):Bishop Peter Karam (66)Titular Bishop of Arca in Phœnicia of the MaronitesBishop of Curia of the MaronitesOrdinariesBishops of Notre-Dame du Liban de Paris (Maronite Rite)Bishop Peter Karam (66)  (Apostolic Administrator 2024.05.29 – ...)Bishop Peter Karam (66)  (Apostolic Administrator sede plena 2022.11.09 – 2024.05.29)Bishop Maroun-Nasser Gemayel (75)  (2012.07.21 – 2024.05.29)Bishop emeritus of Notre-Dame du Liban de Paris of the Maronites (France)former Apostolic Visitator in Western and Northern Europe of the MaronitesAuthenticité et missionBorn:1951.01.06 (Aïn-Kharroubé, Lebanon)Ordained Priest:1981.08.30Consecrated Bishop:2012.08.30Priest of Antélias of the Maronites (Lebanon) (1981.08.30 – 2012.07.21)Bishop of Notre-Dame du Liban de Paris of the Maronites (France) (2012.07.21 – 2024.05.29)Apostolic Visitator in Western and Northern Europe of the Maronites (2012.07.21 – 2024.05.29)Special ChurchesCathedral:  Cathédrale Notre-Dame du Liban, Paris, Paris, Île-de-France Show MapStatistics (2022.12.31)Population: 52,200 CatholicsPastoral Centres: 14 parishesPersonnel: 20 priests (diocesan), 1 religious (1 sister)PopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pari2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

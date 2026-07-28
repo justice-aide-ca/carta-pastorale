@@ -1,0 +1,29 @@
+{
+  "id": "ni-gran2",
+  "nom": "Granada",
+  "pays": "ni",
+  "pays_nom": "Nicaragua",
+  "continent": "unknown",
+  "type": "Diocese Name: Granada / Granaden(sis) (Latin)Ecclesiastical Province: ManaguaNeighbouring Dioceses: Managua (←), Matagalpa (↑), Bluefields (↗), Juigalpa (→), Tilarán–Liberia (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1913.12.02: Established as Diocese of Granada / Granaden(sis) (Latin) (from Diocese of León and became suffragan of Managua)1962.07.21: Lost territory to establish Territorial Prelature of JuigalpaPresent PrelatesBishop (2010.03.11 – ...):Bishop Jorge Solórzano Pérez (65)General Secretary of Episcopal Conference of NicaraguaMonsignors (2)OrdinariesBishops of Granada (Roman Rite)Bishop Jorge Solórzano Pérez (65)  (2010.03.11 – ...)Bishop of Granada (Nicaragua)General Secretary of Episcopal Conference of NicaraguaUt omnes unum sintBorn:1961.03.23 (San Andrés de la Palanca, Nicaragua)Ordained Priest:1985.03.29Consecrated Bishop:2000.07.13Priest of Managua (Nicaragua) (1985.03.29 – 2000.06.17)Titular Bishop of Theuzi (2000.06.17 – 2005.10.15)Auxiliary Bishop of Managua (Nicaragua) (2000.06.17 – 2005.10.15)Bishop of Matagalpa (Nicaragua) (2005.10.15 – 2010.03.11)Bishop of Granada (Nicaragua) (2010.03.11 – ...)Apostolic Administrator of Matagalpa (Nicaragua) (2010.05 – 2011.03.08)General Secretary of Episcopal Secretariat of Central America and Panama (2011 – 2022.10.23)General Secretary of Episcopal Conference of Nicaragua (2014.11.18 – 2017.11.15)General Secretary of Episcopal Conference of Nicaragua (2021.11.18 – ...)Bishop Bernardo Hombach Lütkermeier (92)  (2003.12.15 – 2010.03.11)Bishop emeritus of Granada (Nicaragua)Born:1933.09.12 (Krefeld, Germany)Ordained Priest:1961.06.28Consecrated Bishop:1995.04.22Priest of Essen (Germany) (1961.06.28 – 1995.02.28)Bishop of Juigalpa (Nicaragua) (1995.02.28 – 2003.12.15)Bishop of Granada (Nicaragua) (2003.12.15 – 2010.03.11)Bishop Leovigildo López Fitoria, C.M.  (1972.07.07 – 2003.12.15)Born:1927.06.07 (Boaco, Nicaragua)Ordained Priest:1954.07.11Consecrated Bishop:1972.10.07Died:2016.08.05 († 89)Bishop of Granada (Nicaragua) (1972.07.07 – 2003.12.15)Bishop Marco Antonio García y Suárez  (1953.03.17 – 1972.07.07)Born:1899.02.14 (Terrabona, Nicaragua)Ordained Priest:1922.04.02Consecrated Bishop:1953.05.24Died:1972.07.11 († 73)Bishop of Granada (Nicaragua) (1953.03.17 – 1972.07.07)Bishop Canuto José Reyes y Balladares  (1915.07.12 – 1951.11.03)Born:1863.09.24 (León, Nicaragua)Ordained Priest:1887.06.12Consecrated Bishop:1915.11.14Died:1951.11.03 († 88)Priest of León (Nicaragua) (1887.06.12 – 1915.07.12)Bishop of Granada (Nicaragua) (1915.07.12 – 1951.11.03)Bishop José Cándido Piñol y Batres  (1913.12.10 – 1915.07.10)Born:1878.02.02 (Guatemala)Ordained Priest:1901.03.02Consecrated Bishop:1914.03.22Died:1970.07.27 († 92)Priest of Guatemala (Guatemala) (1901.03.02 – 1913.12.10)Bishop of Granada (Nicaragua) (1913.12.10 – 1915.07.10)Titular Bishop of Phaselis (1915.07.10 – 1970.07.27)Former PrelatesAuxiliary Bishop: Bishop Carlos de la Trinidad Borge y Castrillo (1945.04.23 – 1953.08.09)Special ChurchesCathedral:  Catedral Inmaculada Concepción de María, Granada, Granada National Shrine:  Santuario Nacional de Jesús del Rescate, Popoyuapa, Rivas Jubilee Churches in the Holy Year 2025Show MapManagua (←), Matagalpa (↑), Bluefields (↗), Juigalpa (→), Tilarán–Liberia (↓)Statistics (2022.12.31)Area: 7,453 km²Population: 591,540 Catholics (90.4% of 654,190 total)Pastoral Centres: 64 parishes, 571 missionsPersonnel: 98 priests (96 diocesan, 2 religious), 151 religious (2 brothers, 149 sisters), 63 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gran2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 654190,
+    "catholiques": 591540,
+    "pourcentage_catholiques": 90.4
+  },
+  "ressources": {
+    "pretres_diocesains": 96,
+    "pretres_religieux": null,
+    "total_pretres": 98,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 64
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

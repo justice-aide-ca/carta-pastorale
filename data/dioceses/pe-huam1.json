@@ -1,0 +1,29 @@
+{
+  "id": "pe-huam1",
+  "nom": "Huamachuco",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Territorial Prelature Name: Huamachuco / Huamaciucan(us) (Latin)Ecclesiastical Province: TrujilloNeighbouring Dioceses: Trujillo (←), Cajamarca (↖), Chachapoyas (↑), Moyobamba (↗), Huarí (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar 📅History1961.12.04: Established as Territorial Prelature of Huamachuco / Huamaciucan(us) (Latin) (from Metropolitan Archdiocese of Trujillo and became suffragan of Trujillo)Contact InfoAddress: Casa Prelaticia, Pasaje Mons. Damián Nicolau Roig 101, huamachuco, Dpto. La Libertad, PeruPhone: (44)44.12.14Present PrelatesBishop-Prelate (2021.03.30 – ...):Bishop Pascual Benjamín Rivera Montoya, T.O.R. (62)OrdinariesPrelates of Huamachuco (Roman Rite)Bishop Pascual Benjamín Rivera Montoya, T.O.R. (62)  (2021.03.30 – ...)Bishop-Prelate of Huamachuco (Peru)Born:1964.05.17 (Ayotla, Mexico)Ordained Priest:1992.07.05Consecrated Bishop:2021.05.06Apostolic Administrator of Huamachuco (Peru) (2019.07.26 – 2021.03.30)Bishop-Prelate of Huamachuco (Peru) (2021.03.30 – ...)Fr. Pascual Benjamín Rivera Montoya, T.O.R. (62) (later Bishop)  (Apostolic Administrator 2019.07.26 – 2021.03.30)Bishop Emiliano Antonio Cisneros Martínez, O.A.R. (81)  (Apostolic Administrator 2018.08.07 – 2019.07.26)Bishop Sebastián Ramis Torrens, T.O.R. (83)  (1990.11.13 – 2018.08.07)Bishop-Prelate emeritus of Huamachuco (Peru)Born:1943.06.10 (Llubi, Spain)Ordained Priest:1969.06.29Consecrated Bishop:1991.01.13Bishop-Prelate of Huamachuco (Peru) (1990.11.13 – 2018.08.07)Bishop Damián Nicolau Roig, T.O.R.  (1963.10.23 – 1981.09.13)Born:1907.10.29 (Villafranca de Bonamy, Spain)Ordained Priest:1930.04.19Consecrated Bishop:1967.07.25Died:1998.08.09 († 90)Bishop-Prelate of Huamachuco (Peru) (1963.10.23 – 1981.09.13)Titular Bishop of Bararus (1967.04.08 – 1977.11.25)Special ChurchesCathedral:  Catedral San Agustín y la Virgen de la Alta Gracia, Huamachuco, La Libertad Jubilee Churches in the Holy Year 2025Show MapTrujillo (←), Cajamarca (↖), Chachapoyas (↑), Moyobamba (↗), Huarí (↓)Statistics (2022.12.31)Area: 7,918 km²Population: 201,345 Catholics (77.1% of 261,000 total)Pastoral Centres: 24 parishesPersonnel: 24 priests (19 diocesan, 5 religious), 1 deacon, 24 religious (8 brothers, 16 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "huam1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 261000,
+    "catholiques": 201345,
+    "pourcentage_catholiques": 77.1
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 24,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

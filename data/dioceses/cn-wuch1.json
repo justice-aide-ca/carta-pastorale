@@ -1,0 +1,29 @@
+{
+  "id": "cn-wuch1",
+  "nom": "Wuzhou 梧州",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Wuzhou 梧州 (中文) / Cangwu 蒼梧 (中文) / Tsang-Wu / Wuchow / Cāngwú 苍梧 (简体中文) / Wúzhōu 梧州 (简体中文) / Uceuven(sis) (Latin)Ecclesiastical Province: Nanning 南寧Neighbouring Dioceses: Beihai 北海 (↙), Nanning 南寧 (←), Guilin 桂林 (↖), Shaoguan 韶關 (↗), Guangzhou 廣州 (→), Jiangmen 江門 (↘)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Guangxi 廣西 CelebrationsLiturgical Calendar (Universal) 📅History1930.06.30: Established as Mission sui juris of Wuzhou 梧州 (中文) / Wuchow / Wúzhōu 梧州 (简体中文) / de Wuchow (Latin) (from Apostolic Vicariate of Nanning 南寧)1934.12.10: Promoted as Apostolic Prefecture of Wuzhou 梧州 (中文) / Wuchow / Wúzhōu 梧州 (简体中文) / de Wuchow (Latin)1938.02.09: Lost territory to establish Apostolic Prefecture of Guilin 桂林1939.07.20: Promoted as Apostolic Vicariate of Wuzhou 梧州 (中文) / Wuchow / Wúzhōu 梧州 (简体中文) / de Wuchow (Latin)1946.04.11: Promoted as Diocese of Wuzhou 梧州 (中文) / Cangwu 蒼梧 (中文) / Tsang-Wu / Wuchow / Cāngwú 苍梧 (简体中文) / Wúzhōu 梧州 (简体中文) / Uceuven(sis) (Latin) (became suffragan of Nanning 南寧)Present PrelatesBishop:vacantOrdinariesBishops of Wuzhou 梧州 (Roman Rite)Bishop Frederic Anthony Donaghy (唐汝琪), M.M.  (1946.04.11 – 1983)Born:1903.01.13 (New Bedford, MA, USA)Ordained Priest:1929.01.27Consecrated Bishop:1939.09.21Died:1988.02.05 (Miaoli City, Taiwan † 85)Titular Bishop of Setea (1939.07.20 – 1946.04.11)Vicar Apostolic of Wuzhou 梧州 (China) (1939.07.20 – 1946.04.11)Bishop of Wuzhou 梧州 (China) (1946.04.11 – 1983)Vicars Apostolic of Wuzhou 梧州 (Roman Rite)Bishop Frederic Anthony Donaghy (唐汝琪), M.M.  (1939.07.20 – 1946.04.11)(see above)Prefects Apostolic of Wuzhou 梧州 (Roman Rite)Fr. Bernard Francis Mayer (馬奕猷), M.M.  (1934.12.10 – 1939.07.20)Born:1891.06.16 (USA)Ordained Priest:1916.02.12Died:1976.05.08 († 84)Ecclesiastical Superior of Wuzhou 梧州 (China) (1931.10.30 – 1934.12.10)Prefect Apostolic of Wuzhou 梧州 (China) (1934.12.10 – 1939.07.20)Ecclesiastical Superiors of Wuzhou 梧州 (Roman Rite)Fr. Bernard Francis Mayer (馬奕猷), M.M.  (1931.10.30 – 1934.12.10)(see above)Special ChurchesCathedral:  Cathedral, Wuzhou 梧州, Guangxi Show MapBeihai 北海 (↙), Nanning 南寧 (←), Guilin 桂林 (↖), Shaoguan 韶關 (↗), Guangzhou 廣州 (→), Jiangmen 江門 (↘)Statistics (1950.12.31)Area: 66,531 km²Population: 19,871 Catholics (0.6% of 3,549,098 total)Pastoral Centres: 17 parishesPersonnel: 2 priests (diocesan), 17 religious (17 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "wuch1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3549098,
+    "catholiques": 19871,
+    "pourcentage_catholiques": 0.6
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ao-gand1",
+  "nom": "Ganda",
+  "pays": "ao",
+  "pays_nom": "Angola",
+  "continent": "unknown",
+  "type": "Diocese Name: Ganda / Gandan(us) (Latin)Ecclesiastical Province: HuamboNeighbouring Dioceses: Benguela (←), Huambo (→), Lubango (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2024.08.01: Established as Diocese of Ganda / Gandan(us) (Latin) (from Diocese of Benguela and became suffragan of Huambo)Present PrelatesBishop (2024.08.01 – ...):Bishop Estêvão Binga (59)OrdinariesBishops of Ganda (Roman Rite)Bishop Estêvão Binga (59)  (2024.08.01 – ...)Bishop of Ganda (Angola)Born:1966.09.02 (Twei, Angola)Ordained Priest:1996.04.28Consecrated Bishop:2022.02.06Priest of Benguela (Angola) (1996.04.28 – 2021.11.03)Titular Bishop of Nasbinca (2021.11.03 – 2024.08.01)Auxiliary Bishop of Benguela (Angola) (2021.11.03 – 2024.08.01)Bishop of Ganda (Angola) (2024.08.01 – ...)Special ChurchesCathedral:  Sé Catedral de São João Batista, Ganda, Benguela Show MapBenguela (←), Huambo (→), Lubango (↓)Statistics (2024.12.31)Area: 24,447 km²Population: 633,636 Catholics (66.9% of 947,826 total)Pastoral Centres: 12 parishesPersonnel: 59 priests (47 diocesan, 12 religious), 67 religious (3 brothers, 64 sisters), 49 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gand1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 947826,
+    "catholiques": 633636,
+    "pourcentage_catholiques": 66.9
+  },
+  "ressources": {
+    "pretres_diocesains": 47,
+    "pretres_religieux": null,
+    "total_pretres": 59,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

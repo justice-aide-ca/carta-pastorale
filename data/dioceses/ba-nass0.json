@@ -1,0 +1,29 @@
+{
+  "id": "ba-nass0",
+  "nom": "Nassau",
+  "pays": "ba",
+  "pays_nom": "Bahamas",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese Name: Nassau / Nassavien(sis) (Latin)Suffragan Sees: Hamilton, Turks and Caicos IslandsNeighbouring Dioceses: Miami (↖), Palm Beach (↖), Turks and Caicos Islands (↘), Ciego de Ávila (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint Francis Xavier (December 3)Liturgical Calendar (Universal) 📅History1929.03.21: Established as Apostolic Prefecture of Bahama / de Bahamas (Latin) (from Metropolitan Archdiocese of New York)1941.01.15: Promoted as Apostolic Vicariate of Bahama Islands (English)1960.07.05: Promoted as Diocese of Nassau / Nassavien(sis) (Latin) (without ecclesiastical province)1970.09.08: Gained territory from Metropolitan Archdiocese of Kingston in Jamaica1984.06.10: Lost territory to establish Mission sui juris of Turks and Caicos Islands1999.06.22: Promoted as Metropolitan Archdiocese of Nassau / Nassavien(sis) (Latin) (with suffragan sees Hamilton and Turks and Caicos Islands)Papal VisitsPope John Paul II (1979.02)Present PrelatesMetropolitan Archbishop (2004.02.17 – ...):Archbishop Patrick Christopher Pinder (72)Monsignors (9)OrdinariesMetropolitan Archbishops of Nassau (Roman Rite)Archbishop Patrick Christopher Pinder (72)  (2004.02.17 – ...)Metropolitan Archbishop of Nassau (Bahamas)Of one heart and mindBorn:1953.11.01 (Nassau, Bahamas)Ordained Priest:1980.08.15Consecrated Bishop:2003.08.15Priest of Nassau (Bahamas) (1980.08.15 – 2003.06.27)Chaplain of His Holiness (1999.07.22 – 2003.06.27)Titular Bishop of Casæ Calanæ (2003.06.27 – 2004.02.17)Auxiliary Bishop of Nassau (Bahamas) (2003.06.27 – 2004.02.17)Metropolitan Archbishop of Nassau (Bahamas) (2004.02.17 – ...)President of Antilles Episcopal Conference (2011.05.11 – 2017.05.04)Archbishop Lawrence Aloysius Burke, S.J.  (1999.06.22 – 2004.02.17)Jesus is LordBorn:1932.10.27 (Kingston, Jamaica)Ordained Priest:1964.06.16Consecrated Bishop:1981.10.11Died:2010.01.24 († 77)Bishop of Nassau (Bahamas) (1981.07.17 – 1999.06.22)Ecclesiastical Superior of Turks and Caicos Islands (Turks and Caicos Islands) (1984.06.10 – 1998.10.17)Metropolitan Archbishop of Nassau (Bahamas) (1999.06.22 – 2004.02.17)President of Antilles Episcopal Conference (2003.05 – 2008.05)Metropolitan Archbishop of Kingston in Jamaica (Jamaica) (2004.02.17 – 2008.04.12)Bishops of Nassau (Roman Rite)Bishop Lawrence Aloysius Burke, S.J. (later Archbishop)  (1981.07.17 – 1999.06.22)(see above)Bishop Paul Leonard Hagarty, O.S.B.  (1960.07.05 – 1981.06.17)Born:1909.03.20 (Greene, IA, USA)Ordained Priest:1936.06.06Consecrated Bishop:1950.10.19Died:1984.09.22 († 75)Titular Bishop of Arba (1950.06.25 – 1960.07.05)Vicar Apostolic of Bahama Islands (Bahamas) (1950.06.25 – 1960.07.05)Bishop of Nassau (Bahamas) (1960.07.05 – 1981.06.17)Vicars Apostolic of Bahama Islands (Roman Rite)Bishop Paul Leonard Hagarty, O.S.B.  (1950.06.25 – 1960.07.05)(see above)Bishop John Bernard Kevenhoerster, O.S.B.  (1941.01.15 – 1949.12.09)Born:1869.11.01 (Essen, Germany)Ordained Priest:1896.06.24Consecrated Bishop:1933.12.21Died:1949.12.09 (Nassau, Bahamas † 80)Prefect Apostolic of Bahama (Bahamas) (1931.05.22 – 1941.01.15)Titular Bishop of Camuliana (1933.10.27 – 1949.12.09)Vicar Apostolic of Bahama Islands (Bahamas) (1941.01.15 – 1949.12.09)Prefects Apostolic of Bahama (Roman Rite)Bishop John Bernard Kevenhoerster, O.S.B.  (1931.05.22 – 1941.01.15)(see above)Former PrelatesAuxiliary Bishop: Bishop Patrick Christopher Pinder (72) (later Archbishop) (2003.06.27 – 2004.02.17)Special ChurchesCathedral:  St. Francis Xavier Cathedral, Nassau Former Cathedral:  Old Cathedral of St. Francis Xavier, Nassau Jubilee Churches in the Holy Year 2025Churches by City (41)Show MapMiami (↖), Palm Beach (↖), Turks and Caicos Islands (↘), Ciego de Ávila (↓)Statistics (2022.12.31)Area: 13,878 km²Population: 52,517 Catholics (13.2% of 397,000 total)Pastoral Centres: 30 parishesPersonnel: 20 priests (17 diocesan, 3 religious), 17 deacons, 13 religious (3 brothers, 10 sisters), 1 seminarianPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nass0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 397000,
+    "catholiques": 52517,
+    "pourcentage_catholiques": 13.2
+  },
+  "ressources": {
+    "pretres_diocesains": 17,
+    "pretres_religieux": null,
+    "total_pretres": 20,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

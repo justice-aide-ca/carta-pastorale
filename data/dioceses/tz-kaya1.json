@@ -1,0 +1,29 @@
+{
+  "id": "tz-kaya1",
+  "nom": "Kayanga",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Kayanga / Kayangan(us) (Latin)Ecclesiastical Province: MwanzaNeighbouring Dioceses: Kibungo (↙), Mbarara (↑), Bukoba (→), Rulenge–Ngara (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2008.08.14: Established as Diocese of Kayanga / Kayangan(us) (Latin) (from Diocese of Rulenge and became suffragan of Mwanza)Present PrelatesBishop (2008.08.14 – ...):Bishop Almachius Vincent Rweyongeza (70)Monsignors (1)OrdinariesBishops of Kayanga (Roman Rite)Bishop Almachius Vincent Rweyongeza (70)  (2008.08.14 – ...)Bishop of Kayanga (Tanzania)Born:1956.01.01 (Bushagara-Kamachumu, Tanzania)Ordained Priest:1981.12.06Consecrated Bishop:2008.11.06Priest of Bukoba (Tanzania) (1981.12.06 – 2008.08.14)Bishop of Kayanga (Tanzania) (2008.08.14 – ...)Special ChurchesCathedral:  Cathedral of St. George, Kayanga, Kagera Show MapKibungo (↙), Mbarara (↑), Bukoba (→), Rulenge–Ngara (↓)Statistics (2022.12.31)Area: 7,716 km²Population: 424,000 Catholics (65.8% of 644,000 total)Pastoral Centres: 17 parishesPersonnel: 39 priests (diocesan), 99 religious (99 sisters), 24 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kaya1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 644000,
+    "catholiques": 424000,
+    "pourcentage_catholiques": 65.8
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

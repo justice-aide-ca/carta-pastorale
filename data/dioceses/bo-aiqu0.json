@@ -1,0 +1,29 @@
+{
+  "id": "bo-aiqu0",
+  "nom": "Aiquile",
+  "pays": "bo",
+  "pays_nom": "Bolivia",
+  "continent": "amerique",
+  "type": "Territorial Prelature Name: Aiquile / Aiquilen(sis) (Latin)Ecclesiastical Province: CochabambaNeighbouring Dioceses: Potosí (↙), Cochabamba (↖), Santa Cruz de la Sierra (→), Sucre (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1961.12.11: Established as Territorial Prelature of Aiquile / Aiquilen(sis) (Latin) (from Diocese of Cochabamba and became suffragan of Sucre)1975.07.30: Became suffragan of CochabambaContact InfoAddress: Casilla 93, Aiquile, Cochabamba, BoliviaPhone: (04)434.30.60Present PrelatesBishop-Prelate (2009.03.25 – ...):Bishop Jorge Herbas Balderrama, O.F.M. (63)OrdinariesPrelates of Aiquile (Roman Rite)Bishop Jorge Herbas Balderrama, O.F.M. (63)  (2009.03.25 – ...)Bishop-Prelate of Aiquile (Bolivia)Dominus evangelizare pauperibus misit meBorn:1963.06.01 (Mizque, Bolivia)Ordained Priest:1990.12.27Consecrated Bishop:2007.03.24Coadjutor Bishop-Prelate of Aiquile (Bolivia) (2006.12.29 – 2009.03.25)Bishop-Prelate of Aiquile (Bolivia) (2009.03.25 – ...)Bishop Adalberto Arturo Rosat, O.F.M.  (1986.11.22 – 2009.03.25)En el nombre di Cristo Jesús nuestra esperanzaBorn:1934.01.22 (Clès, Italy)Ordained Priest:1958.07.13Consecrated Bishop:1987.02.01Died:2015.01.31 († 81)Bishop-Prelate of Aiquile (Bolivia) (1986.11.22 – 2009.03.25)Bishop Jacinto Eccher, O.F.M.  (1961.12.16 – 1986.11.22)Born:1912.04.19 (Castagnè San Vito, Italy)Ordained Priest:1937.06.27Consecrated Bishop:1962.04.01Died:1997.01.10 († 84)Titular Bishop of Garriana (1961.12.11 – 1977.11.07)Bishop-Prelate of Aiquile (Bolivia) (1961.12.16 – 1986.11.22)Former PrelatesCoadjutor Bishop-Prelate: Bishop Jorge Herbas Balderrama, O.F.M. (63) (2006.12.29 – 2009.03.25)Special ChurchesCathedral:  Catedral de San Pedro Virgen de la Candelaria, Aiquile, Cochabamba Show MapPotosí (↙), Cochabamba (↖), Santa Cruz de la Sierra (→), Sucre (↓)Statistics (2022.12.31)Area: 23,325 km²Population: 380,890 Catholics (89.8% of 424,000 total)Pastoral Centres: 14 parishes, 3 missionsPersonnel: 20 priests (18 diocesan, 2 religious), 67 religious (3 brothers, 64 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "aiqu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 424000,
+    "catholiques": 380890,
+    "pourcentage_catholiques": 89.8
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 20,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

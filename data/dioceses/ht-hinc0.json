@@ -1,0 +1,29 @@
+{
+  "id": "ht-hinc0",
+  "nom": "Hinche",
+  "pays": "ht",
+  "pays_nom": "Haiti",
+  "continent": "unknown",
+  "type": "Diocese Name: Hinche / Hinchen(sis) (Latin)Ecclesiastical Province: Cap-HaïtienNeighbouring Dioceses: Les Gonaïves (←), Cap-Haïtien (↑), Mao–Monte Cristi (→), San Juan de la Maguana (↘), Port-au-Prince (↓)Depends on: Dicastery for BishopsCelebrationsCathedral Dedication Anniversary: December 7Liturgical Calendar 📅History1972.04.20: Established as Diocese of Hinche / Hinchen(sis) (Latin) (from Diocese of Cap-Haïtien and Diocese of Les Gonaïves and became suffragan of Port-au-Prince)1988.04.07: Became suffragan of Cap-Haïtien1991.01.31: Lost territory to establish Diocese of Fort-LibertéPresent PrelatesBishop (2016.04.04 – ...):Bishop Désinord Jean (58)Monsignors (1)OrdinariesBishops of Hinche (Roman Rite)Bishop Désinord Jean (58)  (2016.04.04 – ...)Bishop of Hinche (Haiti)Born:1967.09.26 (Furcy, Haiti)Ordained Priest:1994.11.13Consecrated Bishop:2016.07.02Priest of Port-au-Prince (Haiti) (1994.11.13 – 2016.04.04)Bishop of Hinche (Haiti) (2016.04.04 – ...)Bishop Simon-Pierre Saint-Hillien, C.S.C.  (2009.08.06 – 2015.07.22)Born:1951.07.06 (Gonaïves, Haiti)Ordained Priest:1980.12.28Consecrated Bishop:2003.02.22Died:2015.07.22 († 64)Titular Bishop of Lamdia (2002.12.10 – 2009.08.06)Auxiliary Bishop of Port-au-Prince (Haiti) (2002.12.10 – 2009.08.06)Bishop of Hinche (Haiti) (2009.08.06 – 2015.07.22)Bishop Louis Nerval Kébreau, S.D.B. (87) (later Archbishop)  (1998.06.30 – 2008.03.01)Metropolitan Archbishop emeritus of Cap-Haïtien (Haiti)Born:1938.11.08 (Jérémie, Haiti)Ordained Priest:1974.05.11Consecrated Bishop:1987.01.25Titular Bishop of Selendeta (1986.11.25 – 1998.06.30)Auxiliary Bishop of Port-au-Prince (Haiti) (1986.11.25 – 1998.06.30)Bishop of Hinche (Haiti) (1998.06.30 – 2008.03.01)President of Episcopal Conference of Haiti (2005.02 – 2011.12)Metropolitan Archbishop of Cap-Haïtien (Haiti) (2008.03.01 – 2014.11.15)Bishop Léonard Pétion Laroche  (1982.05.22 – 1998.06.30)Born:1918.11.06 (La Vallée de Jacmel, Haiti)Ordained Priest:1943.07.11Consecrated Bishop:1982.07.11Died:2006.06.14 († 87)Bishop of Hinche (Haiti) (1982.05.22 – 1998.06.30)President of Episcopal Conference of Haiti (1989 – 1992)Bishop Jean-Baptiste Décoste  (1972.04.20 – 1980.05.20)Born:1925.02.03 (Saint Louis du Sud, Haiti)Ordained Priest:1952.03.08Consecrated Bishop:1966.10.28Died:1980.05.20 († 55)Titular Bishop of Sigus (1966.08.20 – 1972.04.20)Auxiliary Bishop of Port-au-Prince (Haiti) (1966.08.20 – 1972.04.20)Bishop of Hinche (Haiti) (1972.04.20 – 1980.05.20)President of Episcopal Conference of Haiti (1979 – 1980)Special ChurchesCathedral:  Cathédrale Immaculée Conception, Hinche, Centre Show MapLes Gonaïves (←), Cap-Haïtien (↑), Mao–Monte Cristi (→), San Juan de la Maguana (↘), Port-au-Prince (↓)Statistics (2022.12.31)Area: 3,487 km²Population: 406,000 Catholics (53.4% of 760,000 total)Pastoral Centres: 54 parishes, 5 missionsPersonnel: 101 priests (98 diocesan, 3 religious), 84 religious (20 brothers, 64 sisters), 26 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "hinc0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 760000,
+    "catholiques": 406000,
+    "pourcentage_catholiques": 53.4
+  },
+  "ressources": {
+    "pretres_diocesains": 98,
+    "pretres_religieux": null,
+    "total_pretres": 101,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 54
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

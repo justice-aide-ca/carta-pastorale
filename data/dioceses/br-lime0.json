@@ -1,0 +1,29 @@
+{
+  "id": "br-lime0",
+  "nom": "Limeira",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Limeira / Limeiren(sis) (Latin)Ecclesiastical Province: CampinasNeighbouring Dioceses: Piracicaba (↙), Ribeirão Preto (↖), São Carlos (↖), São João da Boa Vista (↗), Amparo (→), Campinas (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nossa Senhora das Dores (September 15)Liturgical Calendar (National) 📅History1976.04.29: Established as Diocese of Limeira / Limeiren(sis) (Latin) (from Metropolitan Archdiocese of Campinas and Diocese of Piracicaba and became suffragan of Campinas)1997.12.23: Lost territory to establish Diocese of AmparoPresent PrelatesBishop:vacantMonsignors (5)OrdinariesBishops of Limeira (Roman Rite)Bishop José Roberto Fortes Palau (61) (later Archbishop)  (2019.11.20 – 2026.01.08)Metropolitan Archbishop of Sorocaba (Brazil)A verdade vos libertaráBorn:1965.04.09 (Jacareí, SP, Brazil)Ordained Priest:1993.02.06Consecrated Bishop:2014.06.21Priest of São José dos Campos (Brazil) (1993.02.06 – 2014.04.30)Titular Bishop of Acufida (2014.04.30 – 2019.11.20)Auxiliary Bishop of São Paulo (Brazil) (2014.04.30 – 2019.11.20)Bishop of Limeira (Brazil) (2019.11.20 – 2026.01.08)Metropolitan Archbishop of Sorocaba (Brazil) (2026.01.08 – ...)Archbishop Orlando Brandes (80)  (Apostolic Administrator 2019.05.17 – 2019.11.20)Bishop Vilson Dias de Oliveira, D.C. (67)  (2007.06.13 – 2019.05.17)Bishop emeritus of Limeira (Brazil)Cristo é a nossa pazBorn:1958.11.26 (Guaíra, PR, Brazil)Ordained Priest:1984.04.22Consecrated Bishop:2007.09.01Bishop of Limeira (Brazil) (2007.06.13 – 2019.05.17)Bishop Augusto José Zini Filho  (2003.01.22 – 2006.11.15)Frater inter fratresBorn:1932.11.26 (Poços de Caldas, MG, Brazil)Ordained Priest:1959.06.29Consecrated Bishop:1994.09.08Died:2006.11.15 (Limeira, SP, Brazil † 73)Chaplain of His Holiness (1993.07.15 – 1994.07.13)Titular Bishop of Megalopolis in Proconsulari (1994.07.13 – 2003.01.22)Auxiliary Bishop of São Sebastião do Rio de Janeiro (Brazil) (1994.07.13 – 2003.01.22)Bishop of Limeira (Brazil) (2003.01.22 – 2006.11.15)Bishop Ercílio Turco  (1989.11.18 – 2002.04.24)Evangelium Dei evangelizareBorn:1938.03.13 (Campinas, SP, Brazil)Ordained Priest:1963.12.01Consecrated Bishop:1990.02.04Died:2019.10.30 (São Paulo, SP, Brazil † 81)Priest of Campinas (Brazil) (1963.12.01 – 1989.11.18)Bishop of Limeira (Brazil) (1989.11.18 – 2002.04.24)Bishop of Osasco (Brazil) (2002.04.24 – 2014.04.16)Bishop Fernando Legal, S.D.B.  (1985.04.25 – 1989.03.15)Cum Matre JesuBorn:1931.12.17 (São Paulo, SP, Brazil)Ordained Priest:1959.12.08Consecrated Bishop:1980.05.31Died:2023.08.22 (São Paulo, SP, Brazil † 91)Bishop of Itapeva (Brazil) (1980.03.28 – 1985.04.25)Bishop of Limeira (Brazil) (1985.04.25 – 1989.03.15)Bishop of São Miguel Paulista (Brazil) (1989.03.15 – 2008.01.09)Bishop Tarcísio Ariovaldo Amaral, C.SS.R.  (1976.04.29 – 1984.04.14)Sicut qui ministratBorn:1919.12.23 (Tabatinga, MG, Brazil)Ordained Priest:1943.08.01Consecrated Bishop:1976.06.25Died:1994.11.02 (Aparecida, SP, Brazil † 74)Superior General of Congregation of the Most Holy Redeemer (Redemptorists) (1967 – 1973)Bishop of Limeira (Brazil) (1976.04.29 – 1984.04.14)Bishop of Campanha (Brazil) (1984.04.14 – 1991.05.15)Special ChurchesCathedral:  Catedral Nossa Senhora das Dores, Limeira, São Paulo Minor Basilica:  Basílica Nossa Senhora do Patrocínio, Araras, São Paulo Minor Basilica:  Basílica Santo Antônio de Pádua, Americana, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (99)Show MapPiracicaba (↙), Ribeirão Preto (↖), São Carlos (↖), São João da Boa Vista (↗), Amparo (→), Campinas (↘)Statistics (2022.12.31)Area: 4,915 km²Population: 706,426 Catholics (58.0% of 1,217,976 total)Pastoral Centres: 99 parishesPersonnel: 103 priests (91 diocesan, 12 religious), 21 deacons, 67 religious (15 brothers, 52 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lime0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1217976,
+    "catholiques": 706426,
+    "pourcentage_catholiques": 58.0
+  },
+  "ressources": {
+    "pretres_diocesains": 91,
+    "pretres_religieux": null,
+    "total_pretres": 103,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 99
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

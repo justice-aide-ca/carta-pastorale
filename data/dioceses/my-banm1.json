@@ -1,0 +1,29 @@
+{
+  "id": "my-banm1",
+  "nom": "Banmaw",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Banmaw / Banmaven(sis) (Latin)Ecclesiastical Province: MandalayNeighbouring Dioceses: Kalay (↙), Myitkyina (↗), Mandalay (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2006.08.28: Established as Diocese of Banmaw / Banmaven(sis) (Latin) (from Diocese of Myitkyina and became suffragan of Mandalay)Present PrelatesBishop (2006.08.28 – ...):Bishop Raymond Sumlut Gam (73)OrdinariesBishops of Banmaw (Roman Rite)Bishop Raymond Sumlut Gam (73)  (2006.08.28 – ...)Bishop of Banmaw (Myanmar)Love and serviceBorn:1953.06.19 (Sadung, Myanmar)Ordained Priest:1981.03.29Consecrated Bishop:2006.11.18Priest of Myitkyina (Myanmar) (1981.03.29 – 2006.08.28)Bishop of Banmaw (Myanmar) (2006.08.28 – ...)Special ChurchesCathedral:  Cathedral of St. Patrick, Bhamo, Kachin Show MapKalay (↙), Myitkyina (↗), Mandalay (↓)Statistics (2022.12.31)Area: 10,741 km²Population: 36,064 Catholics (9.6% of 376,635 total)Pastoral Centres: 14 parishesPersonnel: 32 priests (30 diocesan, 2 religious), 72 religious (9 brothers, 63 sisters), 9 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "banm1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 376635,
+    "catholiques": 36064,
+    "pourcentage_catholiques": 9.6
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 32,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

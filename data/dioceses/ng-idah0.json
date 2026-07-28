@@ -1,0 +1,29 @@
+{
+  "id": "ng-idah0",
+  "nom": "Idah",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Idah / Idahin(us) (Latin)Ecclesiastical Province: AbujaNeighbouring Dioceses: Uromi (↙), Auchi (←), Lokoja (↑), Lafia (↗), Otukpo (→), Nsukka (↘), Aguleri (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1968.09.26: Established as Apostolic Prefecture of Idah / Idahin(us) (Latin) (from Diocese of Lokoja)1977.12.17: Promoted as Diocese of Idah / Idahin(us) (Latin) (became suffragan of Kaduna)1994.03.26: Became suffragan of AbujaPresent PrelatesBishop (2009.06.01 – ...):Bishop Anthony Ademu Adaji, M.S.P. (61)Monsignors (5)OrdinariesBishops of Idah (Roman Rite)Bishop Anthony Ademu Adaji, M.S.P. (61)  (2009.06.01 – ...)Bishop of Idah (Nigeria)Pro Christo omnia facereBorn:1964.10.13 (Ukpaba, Nigeria)Ordained Priest:1995.07.01Consecrated Bishop:2007.09.22Titular Bishop of Turuda (2007.06.28 – 2009.06.01)Auxiliary Bishop of Idah (Nigeria) (2007.06.28 – 2009.06.01)Bishop of Idah (Nigeria) (2009.06.01 – ...)Bishop Ephraim Silas Obot  (1977.12.17 – 2009.04.12)Born:1936.10.06 (Adiasim, Nigeria)Ordained Priest:1968.06.29Consecrated Bishop:1971.10.31Died:2009.04.12 († 72)Priest of Ikot Ekpene (Nigeria) (1968.06.29 – 1971.06.28)Titular Bishop of Iunca in Byzacena (1971.06.28 – 1977.12.17)Auxiliary Bishop of Ikot Ekpene (Nigeria) (1971.06.28 – 1977.12.17)Bishop of Idah (Nigeria) (1977.12.17 – 2009.04.12)Prefects Apostolic of Idah (Roman Rite)Fr. Leopold Grimard, C.S.Sp.  (1968.10.04 – 1977)Died:1977Prefect Apostolic of Idah (Nigeria) (1968.10.04 – 1977)Former PrelatesAuxiliary Bishop: Bishop Anthony Ademu Adaji, M.S.P. (61) (2007.06.28 – 2009.06.01)Special ChurchesCathedral:  Cathedral of St. Boniface, Idah, Kogi Show MapUromi (↙), Auchi (←), Lokoja (↑), Lafia (↗), Otukpo (→), Nsukka (↘), Aguleri (↓)Statistics (2022.12.31)Area: 15,113 km²Population: 318,724 Catholics (12.1% of 2,629,112 total)Pastoral Centres: 65 parishesPersonnel: 99 priests (84 diocesan, 15 religious), 151 religious (22 brothers, 129 sisters), 62 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "idah0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2629112,
+    "catholiques": 318724,
+    "pourcentage_catholiques": 12.1
+  },
+  "ressources": {
+    "pretres_diocesains": 84,
+    "pretres_religieux": null,
+    "total_pretres": 99,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 65
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

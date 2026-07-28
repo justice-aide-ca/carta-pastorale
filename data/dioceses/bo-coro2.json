@@ -1,0 +1,29 @@
+{
+  "id": "bo-coro2",
+  "nom": "Coroico",
+  "pays": "bo",
+  "pays_nom": "Bolivia",
+  "continent": "amerique",
+  "type": "Diocese Name: Coroico / Coroicen(sis) (Latin)Ecclesiastical Province: La PazNeighbouring Dioceses: La Paz (↙), El Alto (↙), Santiago Apóstol de Huancané (↖), Reyes (↑)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Peter and Saint Paul of Tarsus (June 29)Cathedral Dedication Anniversary: November 7Liturgical Calendar (National) 📅History1958.11.07: Established as Territorial Prelature of Coroico / Coroicen(sis) (Latin) (from Metropolitan Archdiocese of La Paz and became suffragan of La Paz)1983.07.28: Promoted as Diocese of Coroico / Coroicen(sis) (Latin)Present PrelatesBishop (2022.12.03 – ...):Bishop Juan Carlos Huaygua Oropeza, O.P. (54)OrdinariesBishops of Coroico (Roman Rite)Bishop Juan Carlos Huaygua Oropeza, O.P. (54)  (2022.12.03 – ...)Bishop of Coroico (Bolivia)Humilitas in ministerioBorn:1972.06.11 (La Paz, Bolivia)Ordained Priest:2003.01.31Consecrated Bishop:2023.01.31Bishop of Coroico (Bolivia) (2022.12.03 – ...)Bishop Juan Vargas Aruquipa (79)  (1997.08.20 – 2022.12.03)Bishop emeritus of Coroico (Bolivia)Born:1947.03.08 (Achacachi, Bolivia)Ordained Priest:1980.07.20Consecrated Bishop:1992.03.25Priest of Coroico (Bolivia) (1980.07.20 – 1992.01.15)Titular Bishop of Bita (1992.01.15 – 1997.08.20)Auxiliary Bishop of Coroico (Bolivia) (1992.01.15 – 1997.08.20)Bishop of Coroico (Bolivia) (1997.08.20 – 2022.12.03)Bishop Tomás Roberto Manning, O.F.M.  (1983.07.28 – 1996.10.09)Born:1922.08.29 (Baltimore, MD, USA)Ordained Priest:1948.06.05Consecrated Bishop:1959.07.14Died:2001.11.09 (Suffern, NY, USA † 79)Titular Bishop of Arsamosata (1959.04.21 – 1977.12.30)Bishop-Prelate of Coroico (Bolivia) (1959.04.21 – 1983.07.28)Bishop of Coroico (Bolivia) (1983.07.28 – 1996.10.09)Prelates of Coroico (Roman Rite)Bishop Tomás Roberto Manning, O.F.M.  (1959.04.21 – 1983.07.28)(see above)Former PrelatesAuxiliary Bishop: Bishop Juan Vargas Aruquipa (79) (1992.01.15 – 1997.08.20)Special ChurchesCathedral:  Catedral de San Pedro y San Pablo, Coroico, La Paz Churches by City (8)Show MapLa Paz (↙), El Alto (↙), Santiago Apóstol de Huancané (↖), Reyes (↑)Statistics (2022.12.31)Area: 31,565 km²Population: 189,615 Catholics (78.0% of 243,097 total)Pastoral Centres: 10 parishesPersonnel: 26 priests (diocesan), 2 deacons, 24 religious (24 sisters), 4 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "coro2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 243097,
+    "catholiques": 189615,
+    "pourcentage_catholiques": 78.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 10
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

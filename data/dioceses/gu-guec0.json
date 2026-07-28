@@ -1,0 +1,29 @@
+{
+  "id": "gu-guec0",
+  "nom": "Guéckédou",
+  "pays": "gu",
+  "pays_nom": "Guinea",
+  "continent": "unknown",
+  "type": "Diocese Name: Guéckédou (français) / Gueckedouen(sis) (Latin)Ecclesiastical Province: ConakryNeighbouring Dioceses: Kenema (↙), Makeni (←), Kankan (↑), N’Zérékoré (↘), Gbarnga (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2023.06.29: Established as Diocese of Guéckédou (français) / Gueckedouen(sis) (Latin) (from Diocese of Kankan and Diocese of N’Zérékoré and became suffragan of Conakry)Present PrelatesBishop (2023.06.29 – ...):Bishop Norbert Tamba Sandouno (59)OrdinariesBishops of Guéckédou (Roman Rite)Bishop Norbert Tamba Sandouno (59)  (2023.06.29 – ...)Bishop of Guéckédou (Guinea)Mihi vivere Christus estBorn:1967.06.06 (Koniandou, Guinea)Ordained Priest:2007.11.18Consecrated Bishop:2023.11.12Priest of Kankan (Guinea) (2007.11.18 – 2023.06.29)Bishop of Guéckédou (Guinea) (2023.06.29 – ...)Special ChurchesCathedral:  Cathédrale Notre-Dame du Rosaire, Gueckédou, Nzérékoré Show MapKenema (↙), Makeni (←), Kankan (↑), N’Zérékoré (↘), Gbarnga (↓)Statistics (2023.12.31)Area: 35,476 km²Population: 62,509 Catholics (4.9% of 1,285,308 total)Pastoral Centres: 17 parishesPersonnel: 30 priests (diocesan), 9 religious (9 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "guec0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1285308,
+    "catholiques": 62509,
+    "pourcentage_catholiques": 4.9
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tz-ifak0",
+  "nom": "Ifakara",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Ifakara / Ifakaren(sis) (Latin)Ecclesiastical Province: Dar-es-SalaamNeighbouring Dioceses: Iringa (←), Morogoro (↗), Lindi (↘), Mahenge (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2012.01.14: Established as Diocese of Ifakara / Ifakaren(sis) (Latin) (from Diocese of Mahenge and became suffragan of Dar-es-Salaam)Present PrelatesBishop (2012.01.14 – ...):Bishop Salutaris Melchior Libena (62)OrdinariesBishops of Ifakara (Roman Rite)Bishop Salutaris Melchior Libena (62)  (2012.01.14 – ...)Bishop of Ifakara (Tanzania)Born:1963.11.23 (Itete, Tanzania)Ordained Priest:1991.06.29Consecrated Bishop:2010.03.19Priest of Mahenge (Tanzania) (1991.06.29 – 2010.01.28)Titular Bishop of Sutunurca (2010.01.28 – 2012.01.14)Auxiliary Bishop of Dar-es-Salaam (Tanzania) (2010.01.28 – 2012.01.14)Bishop of Ifakara (Tanzania) (2012.01.14 – ...)Special ChurchesCathedral:  Cathedral of St. Patrick, Ifakara, Morogoro Show MapIringa (←), Morogoro (↗), Lindi (↘), Mahenge (↓)Statistics (2022.12.31)Area: 14,918 km²Population: 373,890 Catholics (77.4% of 483,000 total)Pastoral Centres: 29 parishesPersonnel: 61 priests (39 diocesan, 22 religious), 312 religious (47 brothers, 265 sisters), 19 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ifak0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 483000,
+    "catholiques": 373890,
+    "pourcentage_catholiques": 77.4
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 61,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

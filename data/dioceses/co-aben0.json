@@ -1,0 +1,29 @@
+{
+  "id": "co-aben0",
+  "nom": "Abengourou",
+  "pays": "co",
+  "pays_nom": "Cote d’Ivoire",
+  "continent": "unknown",
+  "type": "Diocese Name: Abengourou / Abenguruen(sis) (Latin)Ecclesiastical Province: BouakéNeighbouring Dioceses: Agboville (↙), Yamoussoukro (←), Bouaké (↖), Bondoukou (↑), Wiawso (→), Grand-Bassam (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1963.09.13: Established as Diocese of Abengourou / Abenguruen(sis) (Latin) (from Metropolitan Archdiocese of Abidjan, Diocese of Bouaké and Diocese of Katiola and became suffragan of Abidjan)1987.07.03: Lost territory to establish Diocese of Bondoukou1994.12.19: Became suffragan of BouakéPresent PrelatesBishop (2025.10.22 – ...):Bishop Jean-Pierre Tanoh Tiémélé (57)Monsignors (2)OrdinariesBishops of Abengourou (Roman Rite)Bishop Jean-Pierre Tanoh Tiémélé (57)  (2025.10.22 – ...)Bishop of Abengourou (Cote d’Ivoire)Confirma fratres tuosBorn:1969.02.22 (Treichville, Cote d’Ivoire)Ordained Priest:2011.01.29Consecrated Bishop:2026.01.03Priest of Grand-Bassam (Cote d’Ivoire) (2011.01.29 – 2025.10.22)Bishop of Abengourou (Cote d’Ivoire) (2025.10.22 – ...)Bishop Ziri Boniface Gbaya, S.J. (76)  (2009.07.01 – 2025.10.22)Bishop emeritus of Abengourou (Cote d’Ivoire)Ecce mater tuaBorn:1949.12.31 (Gagnoa, Cote d’Ivoire)Ordained Priest:1976.06.06Consecrated Bishop:2009.08.22Bishop of Abengourou (Cote d’Ivoire) (2009.07.01 – 2025.10.22)Vice-President of Catholic Bishops’ Conference of Côte d’Ivoire (2014.05.25 – 2017.05.21)Bishop Jean-Jacques Koffi Oi Koffi (64) (later Archbishop)  (2003.11.21 – 2009.01.03)Metropolitan Archbishop of Gagnoa (Cote d’Ivoire)AmenBorn:1962.03.22 (Bongouanou, Cote d’Ivoire)Ordained Priest:1990.08.04Consecrated Bishop:2003.12.21Priest of Abengourou (Cote d’Ivoire) (1990.08.04 – 2003.11.21)Bishop of Abengourou (Cote d’Ivoire) (2003.11.21 – 2009.01.03)Bishop of San Pedro (Cote d’Ivoire) (2009.01.03 – 2025.04.08)Vice-President of Catholic Bishops’ Conference of Côte d’Ivoire (2017.05.21 – 2023.06.04)Apostolic Administrator of Gagnoa (Cote d’Ivoire) (2023.10.04 – 2025.04.08)Apostolic Administrator of San Pedro (Cote d’Ivoire) (2025.04.08 – 2025.10.22)Metropolitan Archbishop of Gagnoa (Cote d’Ivoire) (2025.04.08 – ...)Bishop Bruno Kouamé  (1981.03.26 – 2003.11.21)Born:1927.12.16 (Anoumaba, Cote d’Ivoire)Ordained Priest:1956.07.08Consecrated Bishop:1981.05.31Died:2021.05.17 (Bouaké, Cote d’Ivoire † 93)Bishop of Abengourou (Cote d’Ivoire) (1981.03.26 – 2003.11.21)Bishop Laurent Yapi  (1979.01.12 – 1980.08.17)Born:1937.09.24 (Memni, Cote d’Ivoire)Ordained Priest:1963.12.21Consecrated Bishop:1970.10.25Died:1980.08.17 († 42)Priest of Abidjan (Cote d’Ivoire) (1963.12.21 – 1970.09.21)Titular Bishop of Capsus (1970.09.21 – 1979.01.12)Auxiliary Bishop of Abidjan (Cote d’Ivoire) (1970.09.21 – 1979.01.12)Bishop of Abengourou (Cote d’Ivoire) (1979.01.12 – 1980.08.17)Bishop Eugène Abissa Kwaku  (1963.09.13 – 1978.08.10)Born:1927 (Koun-Abronso, Cote d’Ivoire)Ordained Priest:1956.12.20Consecrated Bishop:1963.11.24Died:1978.08.10 († 50)Bishop of Abengourou (Cote d’Ivoire) (1963.09.13 – 1978.08.10)Special ChurchesCathedral:  Cathédrale Sainte-Thérèse de l’Enfant-Jésus, Abengourou, Comoé Show MapAgboville (↙), Yamoussoukro (←), Bouaké (↖), Bondoukou (↑), Wiawso (→), Grand-Bassam (↓)Statistics (2022.12.31)Area: 18,214 km²Population: 749,548 Catholics (35.7% of 2,100,617 total)Pastoral Centres: 58 parishes, 2 missionsPersonnel: 93 priests (diocesan), 64 religious (5 brothers, 59 sisters), 30 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "aben0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2100617,
+    "catholiques": 749548,
+    "pourcentage_catholiques": 35.7
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 58
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "gh-damo0",
+  "nom": "Damongo",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Damongo / Damongoën(sis) (Latin)Ecclesiastical Province: TamaleNeighbouring Dioceses: Bondoukou (↙), Gaoua (↖), Wa (↑), Tamale (→), Techiman (↓), Sunyani (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1995.02.03: Established as Diocese of Damongo / Damongoën(sis) (Latin) (from Metropolitan Archdiocese of Tamale and became suffragan of Tamale)Present PrelatesBishop (2010.12.17 – ...):Bishop Peter Paul Yelezuome Angkyier (64)Monsignors (3)OrdinariesBishops of Damongo (Roman Rite)Bishop Peter Paul Yelezuome Angkyier (64)  (2010.12.17 – ...)Bishop of Damongo (Ghana)Fiat voluntas tuaBorn:1961.11.26 (Nandon, Ghana)Ordained Priest:1992.08.15Consecrated Bishop:2011.03.25Priest of Tamale (Ghana) (1992.08.15 – 1995.02.03)Priest of Damongo (Ghana) (1995.02.03 – 2010.12.17)Prelate of Honour of His Holiness (2005.02.14 – 2010.12.17)Bishop of Damongo (Ghana) (2010.12.17 – ...)Bishop Philip Naameh (77) (later Archbishop)  (1995.02.03 – 2009.02.12)Metropolitan Archbishop of Tamale (Ghana)Ut omnes unum sintBorn:1948.09.08 (Nandom-Ko, Ghana)Ordained Priest:1977.12.16Consecrated Bishop:1995.05.28Priest of Tamale (Ghana) (1977.12.16 – 1995.02.03)Bishop of Damongo (Ghana) (1995.02.03 – 2009.02.12)Metropolitan Archbishop of Tamale (Ghana) (2009.02.12 – ...)President of Ghana Bishops’ Conference (2016.10.14 – 2022.11.10)Special ChurchesCathedral:  St. Anne’s Cathedral, Damongo, Northern Show MapBondoukou (↙), Gaoua (↖), Wa (↑), Tamale (→), Techiman (↓), Sunyani (↓)Statistics (2022.12.31)Area: 23,342 km²Population: 31,650 Catholics (8.2% of 387,470 total)Pastoral Centres: 13 parishesPersonnel: 39 priests (37 diocesan, 2 religious), 35 religious (7 brothers, 28 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "damo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 387470,
+    "catholiques": 31650,
+    "pourcentage_catholiques": 8.2
+  },
+  "ressources": {
+    "pretres_diocesains": 37,
+    "pretres_religieux": null,
+    "total_pretres": 39,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

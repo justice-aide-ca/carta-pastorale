@@ -1,0 +1,29 @@
+{
+  "id": "rw-cyan0",
+  "nom": "Cyangugu",
+  "pays": "rw",
+  "pays_nom": "Rwanda",
+  "continent": "unknown",
+  "type": "Diocese Name: Cyangugu / Cyanguguen(sis) (Latin)Ecclesiastical Province: KigaliNeighbouring Dioceses: Bukavu (←), Nyundo (↗), Gikongoro (→), Bubanza (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1981.11.05: Established as Diocese of Cyangugu / Cyanguguen(sis) (Latin) (from Diocese of Nyundo and became suffragan of Kigali)Present PrelatesBishop (2021.02.06 – ...):Bishop Edouard Sinayobye (60)OrdinariesBishops of Cyangugu (Roman Rite)Bishop Edouard Sinayobye (60)  (2021.02.06 – ...)Bishop of Cyangugu (Rwanda)Fraternitas in ChristoBorn:1966.04.20 (Gisagara, Rwanda)Ordained Priest:2000.08.12Consecrated Bishop:2021.03.25Priest of Butare (Rwanda) (2000.08.12 – 2021.02.06)Bishop of Cyangugu (Rwanda) (2021.02.06 – ...)Bishop Jean Damascène Bimenyimana  (1997.01.02 – 2018.03.11)In humilitate et caritateBorn:1953.06.22 (Shangi, Rwanda)Ordained Priest:1980.07.06Consecrated Bishop:1997.03.16Died:2018.03.11 (Kanombe, Rwanda † 64)Priest of Nyundo (Rwanda) (1980.07.06 – 1981.11.05)Priest of Cyangugu (Rwanda) (1981.11.05 – 1997.01.02)Bishop of Cyangugu (Rwanda) (1997.01.02 – 2018.03.11)Archbishop Thaddée Ntihinyurwa (83)  (Apostolic Administrator 1996.03.25 – 1997.01.02)Bishop Thaddée Ntihinyurwa (83) (later Archbishop)  (1981.11.05 – 1996.03.09)Metropolitan Archbishop emeritus of Kigali (Rwanda)Ut unum sintBorn:1942.09.25 (Kibeho, Rwanda)Ordained Priest:1971.07.11Consecrated Bishop:1982.01.24Priest of Gikongoro (Rwanda) (1971.07.11 – 1981.11.05)Bishop of Cyangugu (Rwanda) (1981.11.05 – 1996.03.09)Apostolic Administrator of Kigali (Rwanda) (1994.11.11 – 1996.03.09)Metropolitan Archbishop of Kigali (Rwanda) (1996.03.09 – 2018.11.19)Apostolic Administrator of Cyangugu (Rwanda) (1996.03.25 – 1997.01.02)President of Episcopal Conference of Rwanda (1999 – 2003)Apostolic Administrator of Kabgayi (Rwanda) (2004 – 2006)Apostolic Administrator of Kibungo (Rwanda) (2010 – 2013)Vice-President of Episcopal Conference of Rwanda (2015.12 – 2022.12.02)Special ChurchesCathedral:  Cathédrale du Cœur Immaculé de Marie, Cyangugu, Ouest Show MapBukavu (←), Nyundo (↗), Gikongoro (→), Bubanza (↘)Statistics (2022.12.31)Area: 1,125 km²Population: 337,461 Catholics (41.9% of 804,811 total)Pastoral Centres: 21 parishes, 1 missionPersonnel: 89 priests (80 diocesan, 9 religious), 226 religious (37 brothers, 189 sisters), 38 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cyan0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 804811,
+    "catholiques": 337461,
+    "pourcentage_catholiques": 41.9
+  },
+  "ressources": {
+    "pretres_diocesains": 80,
+    "pretres_religieux": null,
+    "total_pretres": 89,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

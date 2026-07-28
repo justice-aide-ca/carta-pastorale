@@ -1,0 +1,29 @@
+{
+  "id": "co-vall2",
+  "nom": "Valledupar",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Valledupar / Valleduparen(sis) (Latin)Ecclesiastical Province: BarranquillaNeighbouring Dioceses: El Banco (←), Santa Marta (↖), Riohacha (↑), Maracaibo (→), Machiques (↘), Tibú (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1952.12.04: Established as Apostolic Vicariate of Valledupar / Valleduparen(sis) (Latin) (from Apostolic Vicariate of Goajira)1969.04.25: Promoted as Diocese of Valledupar / Valleduparen(sis) (Latin) (became suffragan of Barranquilla)2006.01.17: Lost territory to establish Diocese of El BancoPresent PrelatesBishop (2003.06.10 – ...):Bishop Oscar José Vélez Isaza, C.M.F. (71)OrdinariesBishops of Valledupar (Roman Rite)Bishop Oscar José Vélez Isaza, C.M.F. (71)  (2003.06.10 – ...)Bishop of Valledupar (Colombia)Born:1954.11.04 (Pensilvania, Colombia)Ordained Priest:1975.12.12Consecrated Bishop:2003.07.19Bishop of Valledupar (Colombia) (2003.06.10 – ...)Bishop José Agustín Valbuena Jáuregui  (1977.09.09 – 2003.06.10)Born:1927.05.20 (Facatativá, Colombia)Ordained Priest:1949.11.20Consecrated Bishop:1977.10.25Died:2024.03.24 (Silvania, Colombia † 96)Priest of Ibagué (Colombia) (1949.11.20 – 1977.09.09)Bishop of Valledupar (Colombia) (1977.09.09 – 2003.06.10)Bishop Vicente Roig y Villalba, O.F.M. Cap.  (1969.04.25 – 1977.04.05)Born:1904.08.29 (Guadasuar, Spain)Ordained Priest:1927.12.27Consecrated Bishop:1945.03.11Died:1977.04.05 († 72)Vicar Apostolic of Goajira (Colombia) (1944.12.15 – 1952.12.04)Titular Bishop of Arad (1944.12.15 – 1969.04.25)Vicar Apostolic of Valledupar (Colombia) (1952.12.04 – 1969.04.25)Bishop of Valledupar (Colombia) (1969.04.25 – 1977.04.05)Vicars Apostolic of Valledupar (Roman Rite)Bishop Vicente Roig y Villalba, O.F.M. Cap.  (1952.12.04 – 1969.04.25)(see above)Special ChurchesCathedral:  Catedral de Santo Ecce Homo, Valledupar, Cesar Former Cathedral:  Catedral Vieja Nuestra Señora del Rosario, Valledupar, Cesar Jubilee Churches in the Holy Year 2025Show MapEl Banco (←), Santa Marta (↖), Riohacha (↑), Maracaibo (→), Machiques (↘), Tibú (↓)Statistics (2022.12.31)Area: 26,630 km²Population: 990,000 Catholics (81.1% of 1,220,000 total)Pastoral Centres: 77 parishes, 26 missionsPersonnel: 96 priests (89 diocesan, 7 religious), 27 deacons, 69 religious (7 brothers, 62 sisters), 65 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vall2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1220000,
+    "catholiques": 990000,
+    "pourcentage_catholiques": 81.1
+  },
+  "ressources": {
+    "pretres_diocesains": 89,
+    "pretres_religieux": null,
+    "total_pretres": 96,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 77
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

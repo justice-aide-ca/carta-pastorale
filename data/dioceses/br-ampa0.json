@@ -1,0 +1,29 @@
+{
+  "id": "br-ampa0",
+  "nom": "Amparo",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Amparo / Amparen(sis) (Latin)Ecclesiastical Province: CampinasNeighbouring Dioceses: Campinas (↙), Limeira (←), São João da Boa Vista (↑), Pouso Alegre (↗), Bragança Paulista (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nossa Senhora do Amparo (September 8)Liturgical Calendar (National) 📅History1997.12.23: Established as Diocese of Amparo / Amparen(sis) (Latin) (from Metropolitan Archdiocese of Campinas and Diocese of Limeira and became suffragan of Campinas)Present PrelatesBishop (2016.01.06 – ...):Bishop Luiz Gonzaga Féchio (60)Monsignors (1)OrdinariesBishops of Amparo (Roman Rite)Bishop Luiz Gonzaga Féchio (60)  (2016.01.06 – ...)Bishop of Amparo (Brazil)Pela graça de DeusBorn:1965.12.04 (Matão, SP, Brazil)Ordained Priest:1990.12.14Consecrated Bishop:2011.03.19Priest of São Carlos (Brazil) (1990.12.14 – 2011.01.19)Titular Bishop of Putia in Byzacena (2011.01.19 – 2016.01.06)Auxiliary Bishop of Belo Horizonte (Brazil) (2011.01.19 – 2016.01.06)Bishop of Amparo (Brazil) (2016.01.06 – ...)Bishop Pedro Carlos Cipollini (74)  (2010.07.14 – 2015.05.27)Bishop of Santo André (Brazil)In nomine JesuBorn:1952.05.04 (Caconde, SP, Brazil)Ordained Priest:1978.02.25Consecrated Bishop:2010.10.12Priest of Franca (Brazil) (1978.02.25 – 1987.02.28)Priest of Campinas (Brazil) (1987.02.28 – 2010.07.14)Bishop of Amparo (Brazil) (2010.07.14 – 2015.05.27)Bishop of Santo André (Brazil) (2015.05.27 – ...)Bishop Francisco José Zugliani (92)  (1997.12.23 – 2010.07.14)Bishop emeritus of Amparo (Brazil)Lux et vitaBorn:1934.05.01 (Mineiros do Tietê, SP, Brazil)Ordained Priest:1961.07.09Consecrated Bishop:1998.03.18Priest of São Carlos (Brazil) (1961.07.09 – 1997.12.23)Bishop of Amparo (Brazil) (1997.12.23 – 2010.07.14)Special ChurchesCathedral:  Catedral Nossa Senhora do Amparo, Amparo, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (36)Show MapCampinas (↙), Limeira (←), São João da Boa Vista (↑), Pouso Alegre (↗), Bragança Paulista (↘)Statistics (2022.12.31)Area: 2,355 km²Population: 300,808 Catholics (66.7% of 451,211 total)Pastoral Centres: 34 parishesPersonnel: 46 priests (41 diocesan, 5 religious), 11 deacons, 83 religious (8 brothers, 75 sisters), 11 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ampa0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 451211,
+    "catholiques": 300808,
+    "pourcentage_catholiques": 66.7
+  },
+  "ressources": {
+    "pretres_diocesains": 41,
+    "pretres_religieux": null,
+    "total_pretres": 46,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 34
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "fr-leha0",
+  "nom": "Le Havre",
+  "pays": "fr",
+  "pays_nom": "France",
+  "continent": "unknown",
+  "type": "Diocese Name: Le Havre / Portus Gratiæ (Latin)Ecclesiastical Province: RouenNeighbouring Dioceses: Rouen (→), Évreux (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1974.07.06: Established as Diocese of Le Havre / Portus Gratiæ (Latin) (from Metropolitan Archdiocese of Rouen and became suffragan of Rouen)Present PrelatesBishop (2011.06.24 – ...):Bishop Jean-Luc Brunin (75)OrdinariesBishops of Le Havre (Roman Rite)Bishop Jean-Luc Brunin (75)  (2011.06.24 – ...)Bishop of Le Havre (France)Jusqu’à ce qu’il vienneBorn:1951.01.14 (Roubaix, France)Ordained Priest:1981.04.11Consecrated Bishop:2000.05.28Priest of Lille (France) (1981.04.11 – 2000.04.20)Titular Bishop of Usinaza (2000.04.20 – 2004.05.06)Auxiliary Bishop of Lille (France) (2000.04.20 – 2004.05.06)Bishop of Ajaccio (France) (2004.05.06 – 2011.06.24)Bishop of Le Havre (France) (2011.06.24 – ...)Bishop Michel Jean Guyard  (2003.07.09 – 2011.06.24)Born:1936.06.19 (Paris, France)Ordained Priest:1965.06.25Consecrated Bishop:2003.10.12Died:2021.07.23 (Vannes, France † 85)Priest of Paris (France) (1965.06.25 – 2003.07.09)Bishop of Le Havre (France) (2003.07.09 – 2011.06.24)Bishop Michel Marie Paul Saudreau  (1974.07.06 – 2003.07.09)Avance au largeBorn:1928.03.24 (Paris, France)Ordained Priest:1953.04.05Consecrated Bishop:1974.09.22Died:2007.05.31 (Paris, France † 79)Priest of Paris (France) (1953.04.05 – 1974.07.06)Bishop of Le Havre (France) (1974.07.06 – 2003.07.09)Special ChurchesCathedral, World Heritage Site (Minor):  Cathédrale Notre-Dame du Havre, Le Havre, Seine-Maritime, Normandie Churches by City (29)Show MapRouen (→), Évreux (↘)Statistics (2022.12.31)Area: 1,253 km²Population: 326,600 Catholics (82.5% of 395,930 total)Pastoral Centres: 21 parishes, 6 missionsPersonnel: 42 priests (36 diocesan, 6 religious), 21 deacons, 49 religious (7 brothers, 42 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "leha0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 395930,
+    "catholiques": 326600,
+    "pourcentage_catholiques": 82.5
+  },
+  "ressources": {
+    "pretres_diocesains": 36,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

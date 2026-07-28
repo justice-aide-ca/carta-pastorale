@@ -1,0 +1,29 @@
+{
+  "id": "mx-apat0",
+  "nom": "Apatzingán",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Apatzingán / Apatzinganien(sis) (Latin)Ecclesiastical Province: MoreliaNeighbouring Dioceses: Colima (←), Zamora (↑), Tacámbaro (→), Ciudad Lázaro Cárdenas (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1962.04.30: Established as Diocese of Apatzingán / Apatzinganien(sis) (Latin) (from Diocese of Colima and Diocese of Tacámbaro and became suffragan of Morelia)1985.10.11: Lost territory to establish Diocese of Ciudad Lázaro CárdenasContact InfoAddress: Esteban Baca Calderón Ote. #1 Col.Centro, 60600 - Apatzingán, Mich., MexicoPhone: (453) 5-34-17-87Present PrelatesBishop (2014.11.17 – ...):Bishop Cristóbal Ascencio García (71)OrdinariesBishops of Apatzingán (Roman Rite)Bishop Cristóbal Ascencio García (71)  (2014.11.17 – ...)Bishop of Apatzingán (Mexico)Mi paz les doyBorn:1955.03.25 (El Josefino de Allende, Mexico)Ordained Priest:1985.05.04Consecrated Bishop:2015.02.12Priest of San Juan de los Lagos (Mexico) (1985.05.04 – 2014.11.17)Bishop of Apatzingán (Mexico) (2014.11.17 – ...)Bishop Miguel Patiño Velázquez, M.S.F.  (1981.04.09 – 2014.11.17)Born:1938.09.30 (La Piedad, Mexico)Ordained Priest:1963.06.16Consecrated Bishop:1981.05.21Died:2019.09.21 (Uruapán, Mexico † 80)Bishop of Apatzingán (Mexico) (1981.04.09 – 2014.11.17)Bishop José Fernández Arteaga (later Archbishop)  (1974.07.13 – 1980.02.08)Omnium me servum feciBorn:1933.09.12 (Santa Inés, MIC, Mexico)Ordained Priest:1957.04.04Consecrated Bishop:1974.09.12Died:2021.12.17 (Tocumbo, MIC, Mexico † 88)Priest of Tulancingo (Mexico) (1957.04.04 – 1974.07.13)Bishop of Apatzingán (Mexico) (1974.07.13 – 1980.02.08)Bishop of Colima (Mexico) (1980.02.08 – 1988.12.20)Coadjutor Archbishop of Chihuahua (Mexico) (1988.12.20 – 1991.06.24)Metropolitan Archbishop of Chihuahua (Mexico) (1991.06.24 – 2009.09.29)Bishop Victorino Alvarez Tena  (1962.05.24 – 1974.02.14)Born:1920.03.10 (Puruándiro, Mexico)Ordained Priest:1943.04.10Consecrated Bishop:1962.07.25Died:1987.11.04 († 67)Priest of Morelia (Mexico) (1943.04.10 – 1962.05.24)Bishop of Apatzingán (Mexico) (1962.05.24 – 1974.02.14)Bishop of Celaya (Mexico) (1974.02.14 – 1987.11.04)Special ChurchesCathedral:  Catedral de Nuestra Señora de la Asunción, Apatzingan, Michoacán de Ocampo Churches by City (29)Show MapColima (←), Zamora (↑), Tacámbaro (→), Ciudad Lázaro Cárdenas (↓)Statistics (2022.12.31)Area: 13,102 km²Population: 406,425 Catholics (92.2% of 440,735 total)Pastoral Centres: 29 parishesPersonnel: 51 priests (50 diocesan, 1 religious), 121 religious (1 brother, 120 sisters), 15 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "apat0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 440735,
+    "catholiques": 406425,
+    "pourcentage_catholiques": 92.2
+  },
+  "ressources": {
+    "pretres_diocesains": 50,
+    "pretres_religieux": null,
+    "total_pretres": 51,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

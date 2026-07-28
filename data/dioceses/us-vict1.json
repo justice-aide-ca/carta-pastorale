@@ -1,0 +1,29 @@
+{
+  "id": "us-vict1",
+  "nom": "Victoria",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Victoria / Victoria in Texas / Victorien(sis) in Texia (Latin)Ecclesiastical Province: Galveston–HoustonNeighbouring Dioceses: Corpus Christi (↙), San Antonio (←), Austin (↑), Galveston–Houston (↗)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Our Lady of Victory (December 7), Our Lady of Guadalupe (December 12)Cathedral Dedication Anniversary: November 4Liturgical Calendar (National) 📅History1982.04.13: Established as Diocese of Victoria / Victoria in Texas / Victorien(sis) in Texia (Latin) (from Metropolitan Archdiocese of San Antonio, Diocese of Corpus Christi and Diocese of Galveston–Houston and became suffragan of San Antonio)1989.12: Gained territory from Diocese of Austin2004.12.29: Became suffragan of Galveston–HoustonContact InfoAddress: 1505 E. Mesquite Lane, P.O. Box 4070, Victoria, TX 77903, USAPhone: +1 (361) 573-0828Present PrelatesBishop (2015.04.23 – ...):Bishop Brendan John Cahill (62)Monsignors (16)OrdinariesBishops of Victoria (Roman Rite)Bishop Brendan John Cahill (62)  (2015.04.23 – ...)Bishop of Victoria (USA)Cor mundum crea in me DeusBorn:1963.11.28 (Coral Gables, FL, USA)Ordained Priest:1990.05.19Consecrated Bishop:2015.06.29Priest of Galveston–Houston (USA) (1990.05.19 – 2015.04.23)Bishop of Victoria (USA) (2015.04.23 – ...)Bishop David Eugene Fellhauer  (1990.04.07 – 2015.04.23)To witness the charity of ChristBorn:1939.08.19 (Kansas City, MO, USA)Ordained Priest:1965.05.29Consecrated Bishop:1990.05.28Died:2026.03.03 (Victoria, TX, USA † 86)Priest of Dallas (USA) (1965.05.29 – 1990.04.07)Bishop of Victoria (USA) (1990.04.07 – 2015.04.23)Bishop Charles Victor Grahmann  (1982.04.13 – 1989.12.09)To work humbly with your GodBorn:1931.07.15 (Hallettsville, TX, USA)Ordained Priest:1956.03.17Consecrated Bishop:1981.08.20Died:2018.08.14 (San Antonio, TX, USA † 87)Priest of San Antonio (USA) (1956.03.17 – 1981.06.30)Prelate of Honour of His Holiness (1971.01.31 – 1981.06.30)Titular Bishop of Equilio (1981.06.30 – 1982.04.13)Auxiliary Bishop of San Antonio (USA) (1981.06.30 – 1982.04.13)Bishop of Victoria (USA) (1982.04.13 – 1989.12.09)Coadjutor Bishop of Dallas (USA) (1989.12.09 – 1990.07.14)Bishop of Dallas (USA) (1990.07.14 – 2007.03.06)Special ChurchesCathedral:  Our Lady of Victory Cathedral, Victoria, Texas Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (69)Show MapCorpus Christi (↙), San Antonio (←), Austin (↑), Galveston–Houston (↗)Statistics (2022.12.31)Area: 25,513 km²Population: 92,600 Catholics (32.4% of 285,475 total)Pastoral Centres: 63 parishes, 1 missionPersonnel: 78 priests (diocesan), 48 deacons, 62 religious (62 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vict1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 285475,
+    "catholiques": 92600,
+    "pourcentage_catholiques": 32.4
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 63
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

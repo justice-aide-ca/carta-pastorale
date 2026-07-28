@@ -1,0 +1,29 @@
+{
+  "id": "br-itap0",
+  "nom": "Itapetininga",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Itapetininga / Itapetiningen(sis) (Latin)Ecclesiastical Province: SorocabaNeighbouring Dioceses: Itapeva (↙), Botucatu (↖), Piracicaba (↑), Sorocaba (→), Registro (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1998.04.15: Established as Diocese of Itapetininga / Itapetiningen(sis) (Latin) (from Metropolitan Archdiocese of Sorocaba and Diocese of Itapeva and became suffragan of Sorocaba)Present PrelatesBishop (2025.02.25 – ...):Bishop Luiz Antônio Lopes Ricci (60)OrdinariesBishops of Itapetininga (Roman Rite)Bishop Luiz Antônio Lopes Ricci (60)  (2025.02.25 – ...)Bishop of Itapetininga (Brazil)Fecit mihi magnaBorn:1966.05.16 (Bauru, SP, Brazil)Ordained Priest:1997.07.10Consecrated Bishop:2017.07.16Priest of Bauru (Brazil) (1997.07.10 – 2017.05.10)Titular Bishop of Tindari (2017.05.10 – 2020.05.06)Auxiliary Bishop of Niterói (Brazil) (2017.05.10 – 2020.05.06)Bishop of Nova Friburgo (Brazil) (2020.05.06 – 2025.02.25)Bishop of Itapetininga (Brazil) (2025.02.25 – ...)Bishop Gorgônio Alves da Encarnação Neto, C.R. (76)  (1998.04.15 – 2025.02.25)Bishop emeritus of Itapetininga (Brazil)In æternum misericordia ejusBorn:1949.09.17 (Fartura, SP, Brazil)Ordained Priest:1974.12.22Consecrated Bishop:1998.07.19Bishop of Itapetininga (Brazil) (1998.04.15 – 2025.02.25)Special ChurchesCathedral:  Catedral Nossa Senhora dos Prazeres, Itapetininga, São Paulo Minor Basilica:  Basílica Santuário de São Miguel Arcanjo, São Miguel Arcanjo, São Paulo Minor Basilica:  Basílica Santuário Nossa Senhora da Conceição, Tatuí, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (50)Show MapItapeva (↙), Botucatu (↖), Piracicaba (↑), Sorocaba (→), Registro (↘)Statistics (2022.12.31)Area: 8,144 km²Population: 419,000 Catholics (91.5% of 458,000 total)Pastoral Centres: 42 parishesPersonnel: 52 priests (50 diocesan, 2 religious), 93 deacons, 29 religious (2 brothers, 27 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "itap0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 458000,
+    "catholiques": 419000,
+    "pourcentage_catholiques": 91.5
+  },
+  "ressources": {
+    "pretres_diocesains": 50,
+    "pretres_religieux": null,
+    "total_pretres": 52,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 42
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

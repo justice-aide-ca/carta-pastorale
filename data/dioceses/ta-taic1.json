@@ -1,0 +1,29 @@
+{
+  "id": "ta-taic1",
+  "nom": "Taichung 臺中",
+  "pays": "ta",
+  "pays_nom": "Taiwan",
+  "continent": "unknown",
+  "type": "Diocese Name: Taichung 臺中 (中文) / Táizhōng 台中 (简体中文) / Taichungen(sis) (Latin)Ecclesiastical Province: Taipei 臺北Neighbouring Dioceses: Xiamen 廈門 (←), Hsinchu 新竹 (↑), Hualien 花蓮 (→), Chiayi 嘉義 (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (National) 📅History1950.08.10: Established as Apostolic Prefecture of Taichung 臺中 (中文) / Táizhōng 台中 (简体中文) / Taichungen(sis) (Latin) (from Apostolic Prefecture of Kaohsung 高雄)1952.08.07: Became suffragan of Taipei 臺北1962.04.16: Promoted as Diocese of Taichung 臺中 (中文) / Táizhōng 台中 (简体中文) / Taichungen(sis) (Latin)Contact InfoAddress: 11 Lane 308, Hsue-Shih Road, Taichung 404, TaiwanPhone: +886 (4) 2337881Present PrelatesBishop (2007.06.25 – ...):Bishop Martin Su Yao-wen (蘇耀文) (66)Monsignors (3)OrdinariesBishops of Taichung 臺中 (Roman Rite)Bishop Martin Su Yao-wen (蘇耀文) (66)  (2007.06.25 – ...)Bishop of Taichung 臺中 (Taiwan)Unum in Spiritu Sancto / 因聖神合一Born:1959.11.09 (左營區, 高雄市, Taiwan)Ordained Priest:1989.06.08Consecrated Bishop:2007.09.25Priest of Taichung 臺中 (Taiwan) (1989.06.08 – 2007.06.25)Bishop of Taichung 臺中 (Taiwan) (2007.06.25 – ...)Bishop Joseph Wang Yu-jung (王愈榮)  (1986.06.25 – 2007.06.25)愈顯主榮Born:1931.04.27 (上海, China)Ordained Priest:1955.12.24Consecrated Bishop:1975.07.22Died:2018.01.18 (臺中市, Taiwan † 86)Priest of Taipei 臺北 (Taiwan) (1955.12.24 – 1975.07.01)Titular Bishop of Árd Sratha (1975.07.01 – 1986.06.25)Auxiliary Bishop of Taipei 臺北 (Taiwan) (1975.07.01 – 1986.06.25)General Secretary of Chinese Bishops’ Conference (1979.04.19 – 1991.04.18)Bishop of Taichung 臺中 (Taiwan) (1986.06.25 – 2007.06.25)Bishop William Francis Kupfer (蔡文興), M.M.  (1962.04.16 – 1986.06.25)Ut omnes cognoscant Salvatorem mundi / 願萬民認識救主Born:1909.01.28 (Brooklyn, NY, USA)Ordained Priest:1933.06.11Consecrated Bishop:1962.07.25Died:1998.01.02 (Valhalla, NY, USA † 88)Prefect Apostolic of Taichung 臺中 (Taiwan) (1951.01.26 – 1962.04.16)Bishop of Taichung 臺中 (Taiwan) (1962.04.16 – 1986.06.25)Prefects Apostolic of Taichung 臺中 (Roman Rite)Fr. William Francis Kupfer (蔡文興), M.M. (later Bishop)  (1951.01.26 – 1962.04.16)(see above)Special ChurchesCathedral:  Cathedral of Jesus the Saviour, Taichung City 台中市, 臺中市 Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (62)Show MapXiamen 廈門 (←), Hsinchu 新竹 (↑), Hualien 花蓮 (→), Chiayi 嘉義 (↓)Statistics (2022.12.31)Area: 7,836 km²Population: 29,012 Catholics (0.7% of 4,462,106 total)Pastoral Centres: 68 parishes, 34 missionsPersonnel: 53 priests (19 diocesan, 34 religious), 144 religious (34 brothers, 110 sisters)PopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "taic1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4462106,
+    "catholiques": 29012,
+    "pourcentage_catholiques": 0.7
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 68
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

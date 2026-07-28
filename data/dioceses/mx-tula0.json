@@ -1,0 +1,29 @@
+{
+  "id": "mx-tula0",
+  "nom": "Tula",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Tula / Tullanen(sis) (Latin)Ecclesiastical Province: TulancingoNeighbouring Dioceses: Atlacomulco (↙), Querétaro (←), Huejutla (↗), Tulancingo (↘), Cuautitlán (↓), Izcalli (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1961.02.27: Established as Diocese of Tula / Tullanen(sis) (Latin) (from Metropolitan Archdiocese of México and Diocese of Tulancingo and became suffragan of México)2006.11.25: Became suffragan of TulancingoContact InfoAddress: 5 de mayo #5, Centro, 42800 - Tula de Allende, Hgo., MexicoPhone: (773) 7-32-02-75Present PrelatesBishop (2006.10.12 – ...):Bishop Juan Pedro Juárez Meléndez (75)OrdinariesBishops of Tula (Roman Rite)Bishop Juan Pedro Juárez Meléndez (75)  (2006.10.12 – ...)Bishop of Tula (Mexico)Iglesia discípula y misioneraBorn:1951.06.26 (San Pedro Tlalcuapán, Mexico)Ordained Priest:1975.08.09Consecrated Bishop:2006.11.26Priest of Tlaxcala (Mexico) (1975.08.09 – 2006.10.12)Bishop of Tula (Mexico) (2006.10.12 – ...)Apostolic Administrator of Atlacomulco (Mexico) (2024.07.03 – 2026.02.11)Bishop Octavio Villegas Aguilar (86)  (1994.04.27 – 2005.12.29)Titular Bishop of CissitaAuxiliary Bishop emeritus of Morelia (Mexico)Born:1940.01.26 (Copándaro, Mexico)Ordained Priest:1966.03.05Consecrated Bishop:1994.05.25Priest of Morelia (Mexico) (1966.03.05 – 1994.04.27)Bishop of Tula (Mexico) (1994.04.27 – 2005.12.29)Auxiliary Bishop of Morelia (Mexico) (2005.12.29 – 2015.04.08)Titular Bishop of Cissita (2005.12.29 – ...)Bishop José Trinidad Medel Pérez (later Archbishop)  (1986.05.22 – 1993.03.04)Born:1928.06.03 (Santa Cruz Aquiáhuac, Mexico)Ordained Priest:1955.01.15Consecrated Bishop:1986.07.12Died:2017.09.11 (Puebla, Mexico † 89)Priest of Puebla de los Ángeles (Mexico) (1955.01.15 – 1986.05.22)Bishop of Tula (Mexico) (1986.05.22 – 1993.03.04)Metropolitan Archbishop of Durango (Mexico) (1993.03.04 – 2002.06.05)Bishop José de Jesús Sahagún de la Parra (104)  (1961.05.22 – 1985.09.11)Bishop emeritus of Ciudad Lázaro Cárdenas (Mexico)Que todos sean unoBorn:1922.01.01 (Cotija, Mexico)Ordained Priest:1946.05.26Consecrated Bishop:1961.09.08Priest of Zamora (Mexico) (1946.05.26 – 1961.05.22)Bishop of Tula (Mexico) (1961.05.22 – 1985.09.11)Bishop of Ciudad Lázaro Cárdenas (Mexico) (1985.09.11 – 1993.05.03)Special ChurchesCathedral:  Catedral de San José, Tula, Hidalgo Churches by City (47)Show MapAtlacomulco (↙), Querétaro (←), Huejutla (↗), Tulancingo (↘), Cuautitlán (↓), Izcalli (↓)Statistics (2022.12.31)Area: 8,289 km²Population: 520,100 Catholics (83.2% of 625,000 total)Pastoral Centres: 50 parishesPersonnel: 89 priests (82 diocesan, 7 religious), 2 deacons, 79 religious (19 brothers, 60 sisters), 19 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tula0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 625000,
+    "catholiques": 520100,
+    "pourcentage_catholiques": 83.2
+  },
+  "ressources": {
+    "pretres_diocesains": 82,
+    "pretres_religieux": null,
+    "total_pretres": 89,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 50
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

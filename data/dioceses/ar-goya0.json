@@ -1,0 +1,29 @@
+{
+  "id": "ar-goya0",
+  "nom": "Goya",
+  "pays": "ar",
+  "pays_nom": "Argentina",
+  "continent": "amerique",
+  "type": "Diocese Name: Goya / Goyanen(sis) (Latin)Ecclesiastical Province: CorrientesNeighbouring Dioceses: Reconquista (←), Corrientes (↗), Santo Tomé (↗), Salto (↘), Concordia (↘), Paraná (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Nuestra Señora de Itatí (July 9)Liturgical Calendar (National) 📅History1961.04.10: Established as Diocese of Goya / Goyanen(sis) (Latin) (from Diocese of Corrientes and became suffragan of Corrientes)1979.07.03: Lost territory to establish Diocese of Santo ToméContact InfoAddress: Mariano I. Loza 592, W3450BXL, Goya, ArgentinaPhone: (03777) 422314Present PrelatesBishop (2015.09.24 – ...):Bishop Adolfo Ramón Canecín (68)Monsignors (1)OrdinariesBishops of Goya (Roman Rite)Bishop Adolfo Ramón Canecín (68)  (2015.09.24 – ...)Bishop of Goya (Argentina)Sean unoBorn:1958.03.25 (Formosa, Argentina)Ordained Priest:1988.03.25Consecrated Bishop:2015.03.25Priest of Formosa (Argentina) (1988.03.25 – 2014.12.09)Coadjutor Bishop of Goya (Argentina) (2014.12.09 – 2015.09.24)Bishop of Goya (Argentina) (2015.09.24 – ...)Bishop Ricardo Oscar Faifer (85)  (2002.10.10 – 2015.09.24)Bishop emeritus of Goya (Argentina)Para servirBorn:1940.09.04 (Urdinarrain, Argentina)Ordained Priest:1964.08.15Consecrated Bishop:2002.12.12Priest of Gualeguaychú (Argentina) (1964.08.15 – 2002.10.10)Bishop of Goya (Argentina) (2002.10.10 – 2015.09.24)Bishop Luis Teodorico Stöckler (90)  (1985.11.21 – 2002.02.25)Bishop emeritus of Quilmes (Argentina)Sujeto a ellosBorn:1936.04.12 (Eichelborn, Germany)Ordained Priest:1960.12.17Consecrated Bishop:1985.12.17Priest of Paderborn (Germany) (1960.12.17 – 1985.11.21)Bishop of Goya (Argentina) (1985.11.21 – 2002.02.25)Bishop of Quilmes (Argentina) (2002.02.25 – 2011.10.12)Bishop Alberto Devoto  (1961.06.12 – 1984.07.29)Born:1918.05.17 (Buenos Aires, Argentina)Ordained Priest:1942.12.06Consecrated Bishop:1961.09.17Died:1984.07.29 († 66)Priest of Buenos Aires (Argentina) (1942.12.06 – 1961.06.12)Bishop of Goya (Argentina) (1961.06.12 – 1984.07.29)Former PrelatesCoadjutor Bishop: Bishop Adolfo Ramón Canecín (68) (2014.12.09 – 2015.09.24)Special ChurchesCathedral:  Catedral Nuestra Señora del Rosario, Goya, Corrientes Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (29)Show MapReconquista (←), Corrientes (↗), Santo Tomé (↗), Salto (↘), Concordia (↘), Paraná (↓)Statistics (2022.12.31)Area: 33,603 km²Population: 311,000 Catholics (91.9% of 338,267 total)Pastoral Centres: 22 parishes, 204 missionsPersonnel: 31 priests (25 diocesan, 6 religious), 28 deacons, 38 religious (7 brothers, 31 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "goya0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 338267,
+    "catholiques": 311000,
+    "pourcentage_catholiques": 91.9
+  },
+  "ressources": {
+    "pretres_diocesains": 25,
+    "pretres_religieux": null,
+    "total_pretres": 31,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

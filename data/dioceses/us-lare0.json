@@ -1,0 +1,29 @@
+{
+  "id": "us-lare0",
+  "nom": "Laredo",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Laredo / Laredan(us) (Latin)Ecclesiastical Province: San AntonioNeighbouring Dioceses: Nuevo Laredo (↙), Piedras Negras (↖), San Antonio (↑), Corpus Christi (→), Brownsville (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Augustine of Hippo (August 28)Cathedral Dedication Anniversary: August 28Liturgical Calendar (National) 📅History2000.07.03: Established as Diocese of Laredo / Laredan(us) (Latin) (from Metropolitan Archdiocese of San Antonio and Diocese of Corpus Christi and became suffragan of San Antonio)Contact InfoAddress: Pastoral Center, 1901 Corpus Christi St., Laredo, TX 78044, USAPhone: +1 (956) 727-2140Present PrelatesBishop (2026.05.01 – ...):Bishop John Jairo Gomez (50)Monsignors (4)OrdinariesBishops of Laredo (Roman Rite)Bishop John Jairo Gomez (50)  (2026.05.01 – ...)Bishop of Laredo (USA)Born:1975.12.15 (Santa Rosa de Cabal, Colombia)Ordained Priest:2009.05.23Consecrated Bishop:2026.06.30Priest of Tyler (USA) (2009.05.23 – 2026.05.01)Bishop of Laredo (USA) (2026.05.01 – ...)Bishop James Anthony Tamayo (76)  (2000.07.03 – 2026.05.01)Bishop emeritus of Laredo (USA)Todo con amorBorn:1949.10.23 (Brownsville, TX, USA)Ordained Priest:1976.07.11Consecrated Bishop:1993.03.10Priest of Corpus Christi (USA) (1976.07.11 – 1993.01.26)Titular Bishop of Ita (1993.01.26 – 2000.07.03)Auxiliary Bishop of Galveston–Houston (USA) (1993.01.26 – 2000.07.03)Bishop of Laredo (USA) (2000.07.03 – 2026.05.01)Special ChurchesCathedral:  Cathedral of San Agustín, Laredo, Texas Churches by City (51)Show MapNuevo Laredo (↙), Piedras Negras (↖), San Antonio (↑), Corpus Christi (→), Brownsville (↓)Statistics (2022.12.31)Area: 27,482 km²Population: 328,508 Catholics (91.0% of 360,998 total)Pastoral Centres: 32 parishes, 17 missionsPersonnel: 57 priests (41 diocesan, 16 religious), 44 deacons, 59 religious (22 brothers, 37 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lare0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 360998,
+    "catholiques": 328508,
+    "pourcentage_catholiques": 91.0
+  },
+  "ressources": {
+    "pretres_diocesains": 41,
+    "pretres_religieux": null,
+    "total_pretres": 57,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

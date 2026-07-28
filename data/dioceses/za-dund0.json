@@ -1,0 +1,29 @@
+{
+  "id": "za-dund0",
+  "nom": "Dundee",
+  "pays": "za",
+  "pays_nom": "South Africa",
+  "continent": "unknown",
+  "type": "Diocese Name: Dundee / Dundeen(sis) (Latin)Ecclesiastical Province: DurbanNeighbouring Dioceses: Bethlehem (←), Johannesburg (↖), Witbank (↑), Manzini (↗), Eshowe (→), Durban (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady, Saint Francis of AssisiLiturgical Calendar (National) 📅History1958.06.23: Established as Apostolic Prefecture of Volksrust / Volksrusten(sis) (Latin) (from Metropolitan Archdiocese of Durban, Diocese of Bremersdorp and Diocese of Lydenburg)1982.11.19: Promoted as Diocese of Dundee / Dundeen(sis) (Latin) (became suffragan of Durban)Contact InfoAddress: 5 Hill Street, Postnet Suite 95, Private Bag X6603, Newcastle 2940, South AfricaPhone: (034) 312 6591Present PrelatesBishop (2008.06.13 – ...):Bishop Thomas Graham Rose (74)OrdinariesBishops of Dundee (Roman Rite)Bishop Thomas Graham Rose (74)  (2008.06.13 – ...)Bishop of Dundee (South Africa)Pax Christi amoreBorn:1951.12.23 (Evander, South Africa)Ordained Priest:1980.12.12Consecrated Bishop:2008.08.30Priest of Johannesburg (South Africa) (1980.12.12 – 2008.06.13)Bishop of Dundee (South Africa) (2008.06.13 – ...)Second Vice-President of Southern African Catholic Bishops’ Conference (2019.02 – 2025.01)Bishop Michael Vincent Paschal Rowland, O.F.M.  (1983.03.17 – 2005.09.30)Born:1929.03.18 (Grays, England)Ordained Priest:1953.03.21Consecrated Bishop:1983.09.17Died:2012.09.23 († 83)Bishop of Dundee (South Africa) (1983.03.17 – 2005.09.30)Prefects Apostolic of Volksrust (Roman Rite)Fr. Marius Joseph Banks, O.F.M.  (1969.04.15 – 1982)Born: (South Africa)Died:1983Prefect Apostolic of Volksrust (South Africa) (1969.04.15 – 1982)Fr. Christopher Ulyatt, O.F.M.  (1958 – 1969)Died:1969Prefect Apostolic of Volksrust (South Africa) (1958 – 1969)Special ChurchesCathedral:  Cathedral of the Holy Rosary, Dundee, Kwazulu-Natal Show MapBethlehem (←), Johannesburg (↖), Witbank (↑), Manzini (↗), Eshowe (→), Durban (↓)Statistics (2022.12.31)Area: 50,000 km²Population: 260,500 Catholics (14.8% of 1,763,134 total)Pastoral Centres: 28 parishesPersonnel: 28 priests (20 diocesan, 8 religious), 47 religious (8 brothers, 39 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "dund0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1763134,
+    "catholiques": 260500,
+    "pourcentage_catholiques": 14.8
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 28,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

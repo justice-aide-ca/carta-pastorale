@@ -1,0 +1,29 @@
+{
+  "id": "br-camp6",
+  "nom": "Campo Limpo",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Campo Limpo / Campi Limpidi (Latin)Ecclesiastical Province: São PauloNeighbouring Dioceses: Registro (↙), Osasco (↑), São Paulo (↗), Santo Amaro (→), Santos (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsCathedral Dedication Anniversary: June 29 (2012)Liturgical Calendar (National) 📅History1989.03.15: Established as Diocese of Campo Limpo / Campi Limpidi (Latin) (from Metropolitan Archdiocese of São Paulo and became suffragan of São Paulo)1989.08.21: Gained territory from Metropolitan Archdiocese of São PauloPresent PrelatesBishop (2022.09.14 – ...):Bishop Valdir José de Castro, S.S.P. (65)Monsignors (6)OrdinariesBishops of Campo Limpo (Roman Rite)Bishop Valdir José de Castro, S.S.P. (65)  (2022.09.14 – ...)Bishop of Campo Limpo (Brazil)Omnia propter evangeliumBorn:1961.02.14 (Santa Bárbara do Oeste, SP, Brazil)Ordained Priest:1987.12.12Consecrated Bishop:2022.11.26Superior General of Society of Saint Paul (2015.02.04 – 2022.06.15)Bishop of Campo Limpo (Brazil) (2022.09.14 – ...)Bishop Luiz Antônio Guedes (80)  (2008.07.30 – 2022.09.14)Bishop emeritus of Campo Limpo (Brazil)Scio Cui CredidiBorn:1945.11.25 (Mogi Mirim, SP, Brazil)Ordained Priest:1972.05.20Consecrated Bishop:1997.03.09Priest of Campinas (Brazil) (1972.05.20 – 1997.01.29)Titular Bishop of Maturba (1997.01.29 – 2001.10.24)Auxiliary Bishop of Campinas (Brazil) (1997.01.29 – 2001.10.24)Bishop of Bauru (Brazil) (2001.10.24 – 2008.07.30)Bishop of Campo Limpo (Brazil) (2008.07.30 – 2022.09.14)Bishop Emílio Pignoli (93)  (1989.03.15 – 2008.07.30)Bishop emeritus of Campo Limpo (Brazil)Certam Vocationem faciatisBorn:1932.12.14 (Cappella Piccenardi, Italy)Ordained Priest:1957.06.29Consecrated Bishop:1976.06.24Priest of Ribeirão Preto (Brazil) (1957.06.29 – 1971.02.20)Priest of Franca (Brazil) (1971.02.20 – 1976.04.29)Bishop of Mogi das Cruzes (Brazil) (1976.04.29 – 1989.03.15)Bishop of Campo Limpo (Brazil) (1989.03.15 – 2008.07.30)Special ChurchesCathedral:  Catedral Santuário Sagrada Família, São Paulo, São Paulo Minor Basilica:  Basílica Nossa Senhora do Rosário de Fátima, Embu das Artes, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (135)Show MapRegistro (↙), Osasco (↑), São Paulo (↗), Santo Amaro (→), Santos (↘)Statistics (2022.12.31)Area: 1,560 km²Population: 2,140,800 Catholics (91.4% of 2,341,000 total)Pastoral Centres: 110 parishes, 1 missionPersonnel: 193 priests (132 diocesan, 61 religious), 25 deacons, 367 religious (143 brothers, 224 sisters), 23 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "camp6",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2341000,
+    "catholiques": 2140800,
+    "pourcentage_catholiques": 91.4
+  },
+  "ressources": {
+    "pretres_diocesains": 132,
+    "pretres_religieux": null,
+    "total_pretres": 193,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 110
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

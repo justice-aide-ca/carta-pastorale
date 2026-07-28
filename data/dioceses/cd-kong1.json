@@ -1,0 +1,29 @@
+{
+  "id": "cd-kong1",
+  "nom": "Kongolo",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Kongolo / Kongoloën(sis) (Latin)Ecclesiastical Province: LubumbashiNeighbouring Dioceses: Kamina (↙), Kabinda (←), Kindu (↖), Kasongo (↑), Kalemie–Kirungu (↘), Manono (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1911.06.30: Established as Apostolic Prefecture of Northern Katanga / Katanga Settentrionale (Italiano) / de Katanga Septemtrionali (Latin) (from Apostolic Vicariate of Congo Belge and Apostolic Prefecture of Kasaï Supérieur)1927.04.07: Exchanged territory with Apostolic Prefecture of Lulua Katanga1935.06.18: Promoted as Apostolic Vicariate of Northern Katanga / Katanga Settentrionale (Italiano) / de Katanga Septemtrionali (Latin)1951.03.08: Renamed as Apostolic Vicariate of Kongolo / Kongoloën(sis) (Latin)1956.04.23: Lost territory to establish Apostolic Vicariate of Kindu1959.11.10: Promoted as Diocese of Kongolo / Kongoloën(sis) (Latin) (became suffragan of Elisabethville)1966.03.10: Lost territory to Diocese of Kabinda1971.04.24: Lost territory to establish Diocese of Manono1971.05.08: Gained territory from Diocese of BaudouinvillePresent PrelatesBishop (2007.03.31 – ...):Bishop Oscar Ngoy wa Mpanga, C.S.Sp. (61)OrdinariesBishops of Kongolo (Roman Rite)Bishop Oscar Ngoy wa Mpanga, C.S.Sp. (61)  (2007.03.31 – ...)Bishop of Kongolo (Congo-Kinshasa)Ut fructum afferatisBorn:1964.12.05 (Kyolo, Congo-Kinshasa)Ordained Priest:1992.07.26Consecrated Bishop:2007.06.09Bishop of Kongolo (Congo-Kinshasa) (2007.03.31 – ...)Apostolic Administrator of Kalemie–Kirungu (Congo-Kinshasa) (2010.09.15 – 2015.03.31)Bishop Jérôme Nday Kanyangu Lukundwe  (1971.01.16 – 2007.03.31)Born:1929 (Kabongo, Congo-Kinshasa)Ordained Priest:1962.08.27Consecrated Bishop:1971.05.30Died:2011.06.13 († 81)Priest of Kongolo (Congo-Kinshasa) (1962.08.27 – 1971.01.16)Bishop of Kongolo (Congo-Kinshasa) (1971.01.16 – 2007.03.31)Bishop Gustave Joseph Bouve, C.S.Sp.  (1959.11.10 – 1970.09.01)Born:1902.02.26 (Lo, Belgium)Ordained Priest:1928.08.26Consecrated Bishop:1950.08.24Died:1989.09.08 († 87)Vicar Apostolic of Northern Katanga (Congo-Kinshasa) (1950.05.31 – 1951.03.08)Titular Bishop of Cremna (1950.05.31 – 1959.11.10)Vicar Apostolic of Kongolo (Congo-Kinshasa) (1951.03.08 – 1959.11.10)Bishop of Kongolo (Congo-Kinshasa) (1959.11.10 – 1970.09.01)Titular Bishop of Zama minor (1970.09.01 – 1971.03.04)Vicars Apostolic of Kongolo (Roman Rite)Bishop Gustave Joseph Bouve, C.S.Sp.  (1951.03.08 – 1959.11.10)(see above)Vicars Apostolic of Northern Katanga (Roman Rite)Bishop Gustave Joseph Bouve, C.S.Sp.  (1950.05.31 – 1951.03.08)(see above)Bishop Giorgio Giuseppe Haezaert, C.S.Sp.  (1935.06.18 – 1949)Born:1883.06.28 (Saint Nicolas-Waes, Belgium)Ordained Priest:1912.10.28Consecrated Bishop:1935.11.30Died:1957.09.29 (Kongolo, Congo-Kinshasa † 74)Prefect Apostolic of Northern Katanga (Congo-Kinshasa) (1931.02.19 – 1935.06.18)Vicar Apostolic of Northern Katanga (Congo-Kinshasa) (1935.06.18 – 1949)Titular Bishop of Pertusa (1935.06.18 – 1957.09.29)Prefects Apostolic of Northern Katanga (Roman Rite)Fr. Giorgio Giuseppe Haezaert, C.S.Sp. (later Bishop)  (1931.02.19 – 1935.06.18)(see above)Fr. Luigi Lempereur, C.S.Sp.  (1922 – 1930)Died:1930Prefect Apostolic of Northern Katanga (Congo-Kinshasa) (1922 – 1930)Fr. Emilio Callewaert, C.S.Sp.  (1912 – 1922)Died:1922Prefect Apostolic of Northern Katanga (Congo-Kinshasa) (1912 – 1922)Special ChurchesCathedral:  Cathédrale Sacré-Cœur-de-Marie, Kongolo, Tanganyika Show MapKamina (↙), Kabinda (←), Kindu (↖), Kasongo (↑), Kalemie–Kirungu (↘), Manono (↓)Statistics (2022.12.31)Area: 44,200 km²Population: 301,000 Catholics (18.1% of 1,666,000 total)Pastoral Centres: 18 parishesPersonnel: 81 priests (78 diocesan, 3 religious), 62 religious (5 brothers, 57 sisters), 59 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kong1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1666000,
+    "catholiques": 301000,
+    "pourcentage_catholiques": 18.1
+  },
+  "ressources": {
+    "pretres_diocesains": 78,
+    "pretres_religieux": null,
+    "total_pretres": 81,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

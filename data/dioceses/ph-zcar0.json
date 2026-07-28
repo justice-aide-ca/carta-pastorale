@@ -1,0 +1,29 @@
+{
+  "id": "ph-zcar0",
+  "nom": "San Carlos",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: San Carlos / Sancti Caroli Borromeo (Latin)Ecclesiastical Province: JaroNeighbouring Dioceses: Kabankalan (↙), Bacolod (←), Cebu (→)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Charles Borromeo (November 4)Cathedral Dedication Anniversary: February 10Liturgical Calendar (National) 📅History1987.03.30: Established as Diocese of San Carlos / Sancti Caroli Borromeo (Latin) (from Diocese of Bacolod and Diocese of Dumaguete and became suffragan of Jaro)Present PrelatesBishop (2013.09.14 – ...):Bishop Gerardo Alimane Alminaza (66)Monsignors (2)OrdinariesBishops of San Carlos (Roman Rite)Bishop Gerardo Alimane Alminaza (66)  (2013.09.14 – ...)Bishop of San Carlos (Philippines)Sicut Christus vivitBorn:1959.08.14 (San Jose, Sipalay, Philippines)Ordained Priest:1986.04.29Consecrated Bishop:2008.08.04Priest of Bacolod (Philippines) (1986.04.29 – 2008.05.29)Titular Bishop of Maximiana in Byzacena (2008.05.29 – 2013.09.14)Auxiliary Bishop of Jaro (Philippines) (2008.05.29 – 2013.09.14)Bishop of San Carlos (Philippines) (2013.09.14 – ...)Bishop Jose Fuerte Advincula (74) (later Cardinal)  (2001.07.25 – 2011.11.09)Cardinal-Priest of S. VigilioMetropolitan Archbishop of Manila (Philippines)AudiamBorn:1952.03.30 (Dumalag, Philippines)Ordained Priest:1976.04.14Consecrated Bishop:2001.09.08Created Cardinal:2020.11.28Priest of Capiz (Philippines) (1976.04.14 – 2001.07.25)Chaplain of His Holiness (1997.03.19 – 2001.07.25)Bishop of San Carlos (Philippines) (2001.07.25 – 2011.11.09)Metropolitan Archbishop of Capiz (Philippines) (2011.11.09 – 2021.03.25)Cardinal-Priest of S. Vigilio (2020.11.28 [2022.04.30] – ...)Metropolitan Archbishop of Manila (Philippines) (2021.03.25 – ...)Bishop Nicolas Mollenedo Mondejar  (1987.11.21 – 2001.07.25)In truth and charityBorn:1924.09.15 (Cabatuan, Philippines)Ordained Priest:1953.04.04Consecrated Bishop:1970.08.30Died:2019.02.10 († 94)Priest of Jaro (Philippines) (1953.04.04 – 1970.07.17)Titular Bishop of Grumentum (1970.07.17 – 1974.12.19)Auxiliary Bishop of Cebu (Philippines) (1970.07.17 – 1974.12.19)Bishop of Romblon (Philippines) (1974.12.19 – 1987.11.21)Bishop of San Carlos (Philippines) (1987.11.21 – 2001.07.25)Former PrelatesAuxiliary Bishop: Bishop Salvador Trane Modesto (1987.03.30 – 2005.07.25)Special ChurchesCathedral:  San Carlos Borromeo Cathedral, San Carlos City, Negros Occidental, Negros Island Jubilee Churches in the Holy Year 2025Churches by City (30)Show MapKabankalan (↙), Bacolod (←), Cebu (→)Statistics (2022.12.31)Area: 3,041 km²Population: 992,732 Catholics (85.7% of 1,158,670 total)Pastoral Centres: 49 parishesPersonnel: 103 priests (88 diocesan, 15 religious), 110 religious (65 brothers, 45 sisters), 80 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zcar0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1158670,
+    "catholiques": 992732,
+    "pourcentage_catholiques": 85.7
+  },
+  "ressources": {
+    "pretres_diocesains": 88,
+    "pretres_religieux": null,
+    "total_pretres": 103,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 49
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

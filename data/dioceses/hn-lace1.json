@@ -1,0 +1,29 @@
+{
+  "id": "hn-lace1",
+  "nom": "La Ceiba",
+  "pays": "hn",
+  "pays_nom": "Honduras",
+  "continent": "unknown",
+  "type": "Diocese Name: La Ceiba (español) / Ceiben(sis) (Latin)Ecclesiastical Province: San Pedro SulaNeighbouring Dioceses: Yoro (↙), San Pedro Sula (←), Trujillo (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2011.12.30: Established as Diocese of La Ceiba (español) / Ceiben(sis) (Latin) (from Diocese of San Pedro Sula and became suffragan of Tegucigalpa)2023.01.26: Became suffragan of San Pedro SulaPresent PrelatesBishop (2025.06.12 – ...):Bishop Jenrry Johel Velásquez Hernández (48)Apostolic Administrator of Yoro (Honduras)OrdinariesBishops of La Ceiba (Roman Rite)Bishop Jenrry Johel Velásquez Hernández (48)  (2025.06.12 – ...)Bishop of La Ceiba (Honduras)Apostolic Administrator of Yoro (Honduras)Testimonio, servicio y communiónBorn:1977.07.23 (San Antonio la Cuesta, Honduras)Ordained Priest:2002.12.07Consecrated Bishop:2025.07.26Priest of Comayagua (Honduras) (2002.12.07 – 2025.06.12)Bishop of La Ceiba (Honduras) (2025.06.12 – ...)Apostolic Administrator of Yoro (Honduras) (2025.09.30 – ...)Bishop Michael Lenihan, O.F.M. (74) (later Archbishop)  (2011.12.30 – 2023.01.26)Metropolitan Archbishop of San Pedro Sula (Honduras)Apacienta mis ovejasBorn:1951.09.22 (Abbeyfeale, Ireland)Ordained Priest:1980.07.12Consecrated Bishop:2012.02.11Bishop of La Ceiba (Honduras) (2011.12.30 – 2023.01.26)Metropolitan Archbishop of San Pedro Sula (Honduras) (2023.01.26 – ...)Special ChurchesCathedral:  Catedral San Isidoro Labrador, La Ceiba, Atlántida Show MapYoro (↙), San Pedro Sula (←), Trujillo (→)Statistics (2022.12.31)Area: 4,251 km²Population: 433,000 Catholics (74.7% of 579,476 total)Pastoral Centres: 14 parishesPersonnel: 27 priests (13 diocesan, 14 religious), 50 religious (17 brothers, 33 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lace1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 579476,
+    "catholiques": 433000,
+    "pourcentage_catholiques": 74.7
+  },
+  "ressources": {
+    "pretres_diocesains": 13,
+    "pretres_religieux": null,
+    "total_pretres": 27,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

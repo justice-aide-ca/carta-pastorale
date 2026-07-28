@@ -1,0 +1,29 @@
+{
+  "id": "ar-cruz1",
+  "nom": "Cruz del Eje",
+  "pays": "ar",
+  "pays_nom": "Argentina",
+  "continent": "amerique",
+  "type": "Diocese Name: Cruz del Eje / Crucis Axeatæ (Latin)Ecclesiastical Province: CórdobaNeighbouring Dioceses: La Rioja (←), Catamarca (↑), Deán Funes (↗), Córdoba (→), San Luis (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nuestra Señora del Carmen (July 16), Saint Joseph (March 19)Liturgical Calendar (National) 📅History1963.08.12: Established as Diocese of Cruz del Eje / Crucis Axeatæ (Latin) (from Metropolitan Archdiocese of Córdoba and became suffragan of Córdoba)1980.01.25: Lost territory to establish Territorial Prelature of Deán Funes2011.11.09: Gained territory from Territorial Prelature of Deán FunesContact InfoAddress: España 421, España 421, Cruz del Eje, ArgentinaPhone: (03549) 422435Present PrelatesBishop (2017.08.02 – ...):Bishop Hugo Ricardo Araya (66)Monsignors (3)OrdinariesBishops of Cruz del Eje (Roman Rite)Bishop Hugo Ricardo Araya (66)  (2017.08.02 – ...)Bishop of Cruz del Eje (Argentina)De Dios y de todo el PuebloBorn:1960.03.14 (El Cano, Argentina)Ordained Priest:1984.12.21Consecrated Bishop:2017.10.07Priest of Río Cuarto (Argentina) (1984.12.21 – 2017.08.02)Bishop of Cruz del Eje (Argentina) (2017.08.02 – ...)Bishop Santiago Olivera (67)  (2008.06.24 – 2017.03.28)Military Ordinary of Argentina (Argentina)Nos amó hasta el extremoBorn:1959.01.07 (Buenos Aires, Argentina)Ordained Priest:1984.09.18Consecrated Bishop:2008.08.18Priest of Morón (Argentina) (1984.09.18 – 2008.06.24)Bishop of Cruz del Eje (Argentina) (2008.06.24 – 2017.03.28)Military Ordinary of Argentina (Argentina) (2017.03.28 – ...)Bishop Omar Félix Colomé  (1984.09.27 – 2008.06.24)Tomado de entre los hombres para las cosas que miran a diosBorn:1932.12.11 (Arroyito, Argentina)Ordained Priest:1962.09.22Consecrated Bishop:1984.10.28Died:2015.07.12 († 82)Priest of Cruz del Eje (Argentina) (1962.09.22 – 1984.09.27)Bishop of Cruz del Eje (Argentina) (1984.09.27 – 2008.06.24)Bishop Enrique Pechuán Marín  (1963.08.18 – 1983.12.16)Born:1913.12.03 (San Juan de Cuyo, Argentina)Ordained Priest:1938.04.16Consecrated Bishop:1963.09.21Died:1983.12.16 († 70)Priest of San Juan de Cuyo (Argentina) (1938.04.16 – 1963.08.18)Bishop of Cruz del Eje (Argentina) (1963.08.18 – 1983.12.16)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen, Cruz del Eje, Cordoba Former Cathedral:  Catedral vieja Nuestra Señora del Valle, Cruz del Eje, Cordoba Minor Basilica:  Basílica Nuestra Señora de los Dolores, Villa Dolores, Cordoba Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (24)Show MapLa Rioja (←), Catamarca (↑), Deán Funes (↗), Córdoba (→), San Luis (↓)Statistics (2022.12.31)Area: 22,242 km²Population: 175,500 Catholics (87.8% of 199,800 total)Pastoral Centres: 20 parishes, 1 missionPersonnel: 32 priests (28 diocesan, 4 religious), 14 deacons, 80 religious (12 brothers, 68 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cruz1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 199800,
+    "catholiques": 175500,
+    "pourcentage_catholiques": 87.8
+  },
+  "ressources": {
+    "pretres_diocesains": 28,
+    "pretres_religieux": null,
+    "total_pretres": 32,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

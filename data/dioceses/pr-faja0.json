@@ -1,0 +1,29 @@
+{
+  "id": "pr-faja0",
+  "nom": "Fajardo–Humacao",
+  "pays": "pr",
+  "pays_nom": "Puerto Rico",
+  "continent": "unknown",
+  "type": "Diocese Name: Fajardo–Humacao / Faiarden(sis)–Humacæn(sis) (Latin)Ecclesiastical Province: San Juan de Puerto RicoNeighbouring Dioceses: Caguas (↙), San Juan de Puerto Rico (↖), Saint Thomas (→)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint James Major (July 25), Nuestra Señora del Carmen (July 16)Cathedral Dedication Anniversary: July 27, May 27Liturgical Calendar 📅History2008.03.11: Established as Diocese of Fajardo–Humacao / Faiarden(sis)–Humacæn(sis) (Latin) (from Metropolitan Archdiocese of San Juan de Puerto Rico and Diocese of Caguas and became suffragan of San Juan de Puerto Rico)Present PrelatesBishop (2020.05.16 – ...):Bishop Luis Francisco Miranda Rivera, O. Carm. (72)OrdinariesBishops of Fajardo–Humacao (Roman Rite)Bishop Luis Francisco Miranda Rivera, O. Carm. (72)  (2020.05.16 – ...)Bishop of Fajardo–Humacao (Puerto Rico)In obsequio Jesu ChristiBorn:1954.01.24 (Santurce, Puerto Rico)Ordained Priest:1984.09.14Consecrated Bishop:2020.08.15Bishop of Fajardo–Humacao (Puerto Rico) (2020.05.16 – ...)Bishop Eusebio Ramos Morales (73)  (2008.03.11 – 2017.02.02)Bishop of Caguas (Puerto Rico)President of Episcopal Conference of Puerto RicoFiat mihi secundum verbum tuumBorn:1952.12.15 (Maunabo, Puerto Rico)Ordained Priest:1983.06.03Consecrated Bishop:2008.05.31Priest of Caguas (Puerto Rico) (1983.06.03 – 2008.03.11)Bishop of Fajardo–Humacao (Puerto Rico) (2008.03.11 – 2017.02.02)General Secretary of Episcopal Conference of Puerto Rico (2015 – 2020)Bishop of Caguas (Puerto Rico) (2017.02.02 – ...)Vice-President of Episcopal Conference of Puerto Rico (2020 – 2025.12.09)President of Episcopal Conference of Puerto Rico (2025.12.09 – ...)Special ChurchesCathedral:  Catedral Santiago Apóstol, Fajardo Co-Cathedral:  Concatedral Dulce Nombre de Jesus, Humacao Jubilee Churches in the Holy Year 2025Churches by City (22)Show MapCaguas (↙), San Juan de Puerto Rico (↖), Saint Thomas (→)Statistics (2022.12.31)Area: 574 km²Population: 63,500 Catholics (30.0% of 212,000 total)Pastoral Centres: 22 parishesPersonnel: 28 priests (18 diocesan, 10 religious), 31 deacons, 25 religious (14 brothers, 11 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "faja0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 212000,
+    "catholiques": 63500,
+    "pourcentage_catholiques": 30.0
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 28,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

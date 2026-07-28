@@ -1,0 +1,29 @@
+{
+  "id": "cl-zber1",
+  "nom": "San Bernardo",
+  "pays": "cl",
+  "pays_nom": "Chile",
+  "continent": "amerique",
+  "type": "Diocese Name: San Bernardo / Sancti Bernardi (Latin)Ecclesiastical Province: SantiagoNeighbouring Dioceses: Melipilla (←), Santiago (↑), Rancagua (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Bernard of Clairvaux (August 20)Liturgical Calendar 📅History1987.07.13: Established as Diocese of San Bernardo / Sancti Bernardi (Latin) (from Metropolitan Archdiocese of Santiago and became suffragan of Santiago)Contact InfoAddress: Freire 516 piso 3, San Bernardo, ChilePhone: 8591137Present PrelatesBishop (2003.10.10 – ...):Bishop Juan Ignacio González Errázuriz, Opus Dei (70)OrdinariesBishops of San Bernardo (Roman Rite)Bishop Juan Ignacio González Errázuriz, Opus Dei (70)  (2003.10.10 – ...)Bishop of San Bernardo (Chile)Duc in altum et laxate retiaBorn:1956.07.05 (Santiago, Chile)Ordained Priest:1993.06.13Consecrated Bishop:2003.11.22Priest of Opus Dei (Italy) (1993.06.13 – 2003.10.10)Bishop of San Bernardo (Chile) (2003.10.10 – ...)Apostolic Administrator of Rancagua (Chile) (2020.03.02 – 2021.06.08)Bishop Orozimbo Fuenzalida y Fuenzalida  (1987.07.13 – 2003.10.10)Duc in altum et laxate retiaBorn:1925.05.22 (Rancagua, Chile)Ordained Priest:1951.03.10Consecrated Bishop:1968.05.19Died:2013.03.27 (Santiago, Chile † 87)Priest of Rancagua (Chile) (1951.03.10 – 1968.03.13)Titular Bishop of Burca (1968.03.13 – 1970.02.26)Bishop-Prelate of Calama (Chile) (1968.03.13 – 1970.02.26)Bishop of Los Ángeles (Chile) (1970.02.26 – 1987.07.13)Bishop of San Bernardo (Chile) (1987.07.13 – 2003.10.10)Special ChurchesCathedral:  Catedral de San Bernardo, San Bernardo, Metropolitana de Santiago Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (46)Show MapMelipilla (←), Santiago (↑), Rancagua (↓)Statistics (2022.12.31)Area: 1,145 km²Population: 699,400 Catholics (72.0% of 971,300 total)Pastoral Centres: 42 parishes, 2 missionsPersonnel: 55 priests (37 diocesan, 18 religious), 11 deacons, 133 religious (22 brothers, 111 sisters), 24 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zber1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 971300,
+    "catholiques": 699400,
+    "pourcentage_catholiques": 72.0
+  },
+  "ressources": {
+    "pretres_diocesains": 37,
+    "pretres_religieux": null,
+    "total_pretres": 55,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 42
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

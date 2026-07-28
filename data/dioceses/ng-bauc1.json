@@ -1,0 +1,29 @@
+{
+  "id": "ng-bauc1",
+  "nom": "Bauchi",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Bauchi / Bauchian(us) (Latin)Ecclesiastical Province: JosNeighbouring Dioceses: Jos (↙), Kaduna (←), Kano (↖), Maiduguri (↗), Maroua–Mokolo (→), Garoua (→), Yola (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1996.07.05: Established as Apostolic Vicariate of Bauchi / Bauchian(us) (Latin) (from Metropolitan Archdiocese of Jos)2003.12.12: Promoted as Diocese of Bauchi / Bauchian(us) (Latin) (became suffragan of Jos)Present PrelatesBishop (2017.05.31 – ...):Bishop Hilary Nanman Dachelem, C.M.F. (60)OrdinariesBishops of Bauchi (Roman Rite)Bishop Hilary Nanman Dachelem, C.M.F. (60)  (2017.05.31 – ...)Bishop of Bauchi (Nigeria)Pro Dei / God first / Allah farkoBorn:1966.06.03 (Makurdi, Nigeria)Ordained Priest:1995.07.01Consecrated Bishop:2017.08.17Bishop of Bauchi (Nigeria) (2017.05.31 – ...)Bishop Malachy John Goltok  (2011.03.18 – 2015.03.21)Allah shi daya neBorn:1965.07.12 (Bauchi, Nigeria)Ordained Priest:1990.11.04Consecrated Bishop:2011.05.19Died:2015.03.21 († 49)Priest of Jos (Nigeria) (1990.11.04 – 2011.03.18)Bishop of Bauchi (Nigeria) (2011.03.18 – 2015.03.21)Bishop John Francis Moore, S.M.A.  (2003.12.12 – 2010.01.20)Born:1942.01.12 (Dublin, Ireland)Ordained Priest:1965.12.20Consecrated Bishop:1996.11.07Died:2010.01.20 (Dublin, Ireland † 68)Titular Bishop of Gigthi (1996.07.05 – 2003.12.12)Vicar Apostolic of Bauchi (Nigeria) (1996.07.05 – 2003.12.12)Bishop of Bauchi (Nigeria) (2003.12.12 – 2010.01.20)Vicars Apostolic of Bauchi (Roman Rite)Bishop John Francis Moore, S.M.A.  (1996.07.05 – 2003.12.12)(see above)Special ChurchesCathedral:  Cathedral of St. John Evangelist, Bauchi, Bauchi Show MapJos (↙), Kaduna (←), Kano (↖), Maiduguri (↗), Maroua–Mokolo (→), Garoua (→), Yola (↘)Statistics (2022.12.31)Area: 66,102 km²Population: 101,000 Catholics (1.2% of 8,636,000 total)Pastoral Centres: 35 parishes, 29 missionsPersonnel: 41 priests (30 diocesan, 11 religious), 33 religious (19 brothers, 14 sisters), 35 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bauc1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 8636000,
+    "catholiques": 101000,
+    "pourcentage_catholiques": 1.2
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 41,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 35
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

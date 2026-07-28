@@ -1,0 +1,29 @@
+{
+  "id": "in-sang0",
+  "nom": "Sanggau",
+  "pays": "in",
+  "pays_nom": "Indonesia",
+  "continent": "unknown",
+  "type": "Diocese Name: Sanggau / Sanggauen(sis) (Latin)Ecclesiastical Province: PontianakNeighbouring Dioceses: Pontianak (←), Kuching (↑), Sintang (→), Ketapang (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1968.04.09: Established as Apostolic Prefecture of Sekadau / Sekadauen(sis) (Latin) (from Metropolitan Archdiocese of Pontianak and Diocese of Ketapang)1982.06.08: Promoted as Diocese of Sanggau / Sanggauen(sis) (Latin) (became suffragan of Pontianak)Present PrelatesBishop (2022.06.18 – ...):Bishop Valentinus Saeng, C.P. (56)OrdinariesBishops of Sanggau (Roman Rite)Bishop Valentinus Saeng, C.P. (56)  (2022.06.18 – ...)Bishop of Sanggau (Indonesia)Bonum depositum custodiBorn:1969.10.28 (Keramuk, Kalimantan Barat, Indonesia)Ordained Priest:1998.09.26Consecrated Bishop:2022.11.11Bishop of Sanggau (Indonesia) (2022.06.18 – ...)Bishop Giulio Mencuccini, C.P. (80)  (1990.01.22 – 2022.06.18)Bishop emeritus of Sanggau (Indonesia)Ministerium meum in ministrandoBorn:1946.03.13 (Fossacesia, Italy)Ordained Priest:1973.08.06Consecrated Bishop:1990.06.03Bishop of Sanggau (Indonesia) (1990.01.22 – 2022.06.18)Prefects Apostolic of Sekadau (Roman Rite)Archbishop Hieronymus Herculanus Bumbun, O.F.M. Cap.  (Apostolic Administrator 1982.06.08 – 1990.01.22)Fr. Domenico Luca Spinosi, C.P. (later Mr.)  (1972.09.01 – 1982.06.08)Born:1935.09.08 (Scorrano, Italy)Ordained Priest:1961.02.26Prefect Apostolic of Sekadau (Indonesia) (1972.09.01 – 1982.06.08)Lay state (1985?)Fr. Michele Di Simone, C.P.  (1968.07.31 – 1972)Born:1929.04.09 (Isola del Gran Sasso, Italy)Ordained Priest:1954.05.09Died:2017.08.18 (Teramo, Italy † 88)Prefect Apostolic of Sekadau (Indonesia) (1968.07.31 – 1972)Special ChurchesCathedral:  Katedral Hati Kudus Yesus, Sanggau, Kalimantan Barat, Kalimantan Churches by City (28)Show MapPontianak (←), Kuching (↑), Sintang (→), Ketapang (↓)Statistics (2022.12.31)Area: 18,392 km²Population: 349,843 Catholics (49.3% of 709,543 total)Pastoral Centres: 26 parishesPersonnel: 71 priests (26 diocesan, 45 religious), 178 religious (98 brothers, 80 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sang0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 709543,
+    "catholiques": 349843,
+    "pourcentage_catholiques": 49.3
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 71,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

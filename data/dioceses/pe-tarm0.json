@@ -1,0 +1,29 @@
+{
+  "id": "pe-tarm0",
+  "nom": "Tarma",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Tarma / Tarmen(sis) (Latin)Ecclesiastical Province: HuancayoNeighbouring Dioceses: Huacho (←), Huánuco (↑), San Ramón (→), Huancayo (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Santa Ana (July 26)Liturgical Calendar 📅History1958.05.15: Established as Territorial Prelature of Tarma / Tarmen(sis) (Latin) (from Diocese of Huancayo and Diocese of Huánuco and became suffragan of Lima)1966.06.30: Became suffragan of Huancayo1985.12.21: Promoted as Diocese of Tarma / Tarmen(sis) (Latin)Present PrelatesBishop (2022.06.18 – ...):Bishop Timoteo Solórzano Rojas, M.S.C. (57)OrdinariesBishops of Tarma (Roman Rite)Bishop Timoteo Solórzano Rojas, M.S.C. (57)  (2022.06.18 – ...)Bishop of Tarma (Peru)In verbo tuo laxebo reteBorn:1969.01.24 (Chucos, Peru)Ordained Priest:2001.01.09Consecrated Bishop:2019.01.05Titular Bishop of Dume (2018.11.06 – 2022.06.18)Auxiliary Bishop of Trujillo (Peru) (2018.11.06 – 2022.06.18)Bishop of Tarma (Peru) (2022.06.18 – ...)Bishop Luis Alberto Barrera Pacheco, M.C.C.J. (59)  (Apostolic Administrator 2021.04.17 – 2022.06.18)Bishop Luis Alberto Barrera Pacheco, M.C.C.J. (59)  (2016.10.25 – 2021.04.17)Bishop of Callao (Peru)Apostolic Administrator of Huacho (Peru)Second Vice-President of Episcopal Conference of PeruLlamado por misericordia para servir y amarBorn:1966.11.16 (Gorgor, Cajatambo, Peru)Ordained Priest:1995.06.10Consecrated Bishop:2016.12.18Bishop of Tarma (Peru) (2016.10.25 – 2021.04.17)Apostolic Administrator of Tarma (Peru) (2021.04.17 – 2022.06.18)Bishop of Callao (Peru) (2021.04.17 – ...)Second Vice-President of Episcopal Conference of Peru (2024.08.24 – ...)Apostolic Administrator of Huacho (Peru) (2026.07.15 – ...)Bishop Richard Daniel Alarcón Urrutia (74) (later Archbishop)  (2001.06.13 – 2014.10.28)Metropolitan Archbishop of Cusco (Peru)Noqan kausanayquichispaq hamuniBorn:1952.04.10 (Lima, Peru)Ordained Priest:1976.12.08Consecrated Bishop:2001.07.21Priest of Order of Friars Minor (Franciscans) (1976.12.08 – 1993.04.20)Priest of Tarma (Peru) (1993.04.20 – 2001.06.13)Bishop of Tarma (Peru) (2001.06.13 – 2014.10.28)Metropolitan Archbishop of Cusco (Peru) (2014.10.28 – ...)Bishop Luis Abilio Sebastiani Aguirre, S.M. (later Archbishop)  (1992.11.21 – 2001.06.13)Sub Mariæ nomineBorn:1935.02.22 (El Callao, Peru)Ordained Priest:1962.04.23Consecrated Bishop:1993.01.03Died:2020.08.10 (Lima, Peru † 85)Bishop of Tarma (Peru) (1992.11.21 – 2001.06.13)Metropolitan Archbishop of Ayacucho (Peru) (2001.06.13 – 2011.08.06)Bishop Lorenzo Unfried Gimpel, M.C.C.J.  (1985.12.21 – 1988.11.29)Born:1919.09.13 (Ornbau, Germany)Ordained Priest:1950.04.30Consecrated Bishop:1969.05.11Died:1988.11.29 († 69)Titular Bishop of Dolia (1969.03.13 – 1980.09.19)Auxiliary Bishop of Arequipa (Peru) (1969.03.13 – 1980.09.19)Bishop-Prelate of Tarma (Peru) (1980.09.19 – 1985.12.21)Bishop of Tarma (Peru) (1985.12.21 – 1988.11.29)Prelates of Tarma (Roman Rite)Bishop Lorenzo Unfried Gimpel, M.C.C.J.  (1980.09.19 – 1985.12.21)(see above)Bishop Antonio Kühner y Kühner, M.C.C.J.  (1958.05.15 – 1980.07.24)Born:1914.05.01 (Bachenau, Germany)Ordained Priest:1938.06.29Consecrated Bishop:1964.11.08Died:1991.01.22 († 76)Bishop-Prelate of Tarma (Peru) (1958.05.15 – 1980.07.24)Titular Bishop of Avioccala (1964.09.30 – 1977.11.29)Bishop of Huánuco (Peru) (1980.07.24 – 1991.01.22)Special ChurchesCathedral:  Catedral Santa Ana, Tarma, Junín Jubilee Churches in the Holy Year 2025Churches by City (21)Show MapHuacho (←), Huánuco (↑), San Ramón (→), Huancayo (↘)Statistics (2022.12.31)Area: 13,032 km²Population: 588,000 Catholics (79.8% of 737,000 total)Pastoral Centres: 20 parishes, 2 missionsPersonnel: 21 priests (17 diocesan, 4 religious), 3 deacons, 8 religious (4 brothers, 4 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.16© 2026 GCatholic.org",
+  "code_gcatholic": "tarm0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 737000,
+    "catholiques": 588000,
+    "pourcentage_catholiques": 79.8
+  },
+  "ressources": {
+    "pretres_diocesains": 17,
+    "pretres_religieux": null,
+    "total_pretres": 21,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

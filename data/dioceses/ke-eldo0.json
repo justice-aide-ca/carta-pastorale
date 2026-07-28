@@ -1,0 +1,29 @@
+{
+  "id": "ke-eldo0",
+  "nom": "Eldoret",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Eldoret / Eldoreten(sis) (Latin)Ecclesiastical Province: KisumuNeighbouring Dioceses: Kapsabet (↙), Kakamega (←), Bungoma (↖), Kitale (↑), Nakuru (↘), Kericho (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1953.06.29: Established as Apostolic Prefecture of Eldoret / Eldoreten(sis) (Latin) (from Diocese of Kisumu)1959.10.13: Promoted as Diocese of Eldoret / Eldoreten(sis) (Latin) (became suffragan of Nairobi)1968.01.11: Lost territory to establish Diocese of Nakuru and Apostolic Prefecture of Lodwar1972.06.28: Lost territory to Diocese of Nakuru1990.05.21: Became suffragan of Kisumu1998.04.03: Lost territory to establish Diocese of Kitale2025.07.10: Lost territory to establish Diocese of KapsabetPresent PrelatesBishop:vacantApostolic Administrator (2026.04.25 – ...):Bishop Joseph Obanyi Sagwe (58)Bishop of Kakamega (Kenya)OrdinariesBishops of Eldoret (Roman Rite)Bishop Joseph Obanyi Sagwe (58)  (Apostolic Administrator 2026.04.25 – ...)Bishop Dominic Kimengich (65) (later Archbishop)  (2019.11.16 – 2026.01.28)Coadjutor Archbishop of Mombasa (Kenya)Bishop emeritus of Eldoret (Kenya)Serviamus Domino in lætitiaBorn:1961.04.23 (Kituro, Kenya)Ordained Priest:1986.09.14Consecrated Bishop:2010.05.22Priest of Nakuru (Kenya) (1986.09.14 – 2010.03.20)Titular Bishop of Tanaramusa (2010.03.20 – 2011.03.05)Auxiliary Bishop of Lodwar (Kenya) (2010.03.20 – 2011.03.05)Bishop of Lodwar (Kenya) (2011.03.05 – 2019.11.16)Bishop of Eldoret (Kenya) (2019.11.16 – 2026.01.28)Apostolic Administrator of Lodwar (Kenya) (2020.02.01 – 2022.04.04)Coadjutor Archbishop of Mombasa (Kenya) (2026.01.28 – ...)Bishop Cornelius Kipng’eno Arap Korir  (1990.04.02 – 2017.10.30)Mkitendee Kaz? Chakula KidumuchoBorn:1950.07.06 (Segutiet, Kenya)Ordained Priest:1982.11.06Consecrated Bishop:1990.06.02Died:2017.10.30 (Eldoret, Kenya † 67)Bishop of Eldoret (Kenya) (1990.04.02 – 2017.10.30)President of Kenya Conference of Catholic Bishops (2003.08 – 2006)Bishop John Njenga (later Archbishop)  (1970.10.19 – 1988.10.25)Born:1928.12.25 (Tigoni, Kenya)Ordained Priest:1957.02.17Consecrated Bishop:1970.11.22Died:2018.11.04 (Nairobi, Kenya † 89)Bishop of Eldoret (Kenya) (1970.10.19 – 1988.10.25)President of Kenya Conference of Catholic Bishops (1976 – 1982)Bishop of Mombasa (Kenya) (1988.10.25 – 1990.05.21)Metropolitan Archbishop of Mombasa (Kenya) (1990.05.21 – 2005.04.01)Bishop Joseph Brendan Houlihan, S.P.S.  (1959.10.13 – 1970.10.19)Born:1911.09.25 (Ballyferriter, Ireland)Ordained Priest:1937.03.18Consecrated Bishop:1960.11.20Died:1975.12.02 (Awasi, Kenya † 64)Prefect Apostolic of Eldoret (Kenya) (1954 – 1959.10.13)Bishop of Eldoret (Kenya) (1959.10.13 – 1970.10.19)Titular Bishop of Chunavia (1970.10.19 – 1971.04.24)Prefects Apostolic of Eldoret (Roman Rite)Fr. Joseph Brendan Houlihan, S.P.S. (later Bishop)  (1954 – 1959.10.13)(see above)Former PrelatesAuxiliary Bishop: Bishop John Kiplimo Lelei (67) (2024.03.27 – 2025.07.10)Auxiliary Bishop: Bishop Emile Njeru (1969.05.22 – 1970.09.05)Special ChurchesCathedral:  Cathedral of the Sacred Heart of Jesus, Eldoret, Uasin Gishu Show MapKapsabet (↙), Kakamega (←), Bungoma (↖), Kitale (↑), Nakuru (↘), Kericho (↓)Statistics (2025)Area: 6,366 km²Population: 581,345 Catholics (35.9% of 1,619,666 total)Pastoral Centres: 65 parishesPersonnel: 112 priests (92 diocesan, 20 religious), 8 deacons, 242 religious (31 brothers, 211 sisters), 55 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "eldo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1619666,
+    "catholiques": 581345,
+    "pourcentage_catholiques": 35.9
+  },
+  "ressources": {
+    "pretres_diocesains": 92,
+    "pretres_religieux": null,
+    "total_pretres": 112,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 65
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

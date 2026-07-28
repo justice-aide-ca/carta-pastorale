@@ -1,0 +1,29 @@
+{
+  "id": "bj-kand0",
+  "nom": "Kandi",
+  "pays": "bj",
+  "pays_nom": "Benin",
+  "continent": "unknown",
+  "type": "Diocese Name: Kandi / Kandin(us) (Latin)Ecclesiastical Province: ParakouNeighbouring Dioceses: Natitingou (↙), Fada N’Gourma (←), Niamey (↑), Sokoto (→), Ilorin (↘), N’Dali (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1994.12.19: Established as Diocese of Kandi / Kandin(us) (Latin) (from Diocese of Parakou and became suffragan of Cotonou)1997.10.16: Became suffragan of ParakouPresent PrelatesBishop (2000.01.29 – ...):Bishop Clet Feliho (72)OrdinariesBishops of Kandi (Roman Rite)Bishop Clet Feliho (72)  (2000.01.29 – ...)Bishop of Kandi (Benin)Gaudium enim DominiBorn:1954.02.14 (Conakry, Benin)Ordained Priest:1979.07.21Consecrated Bishop:2000.06.10Priest of Parakou (Benin) (1979.07.21 – 2000.01.29)Bishop of Kandi (Benin) (2000.01.29 – ...)Bishop Marcel Honorat Léon Agboton (later Archbishop)  (1994.12.19 – 2000.01.29)Servus ancillæ filiusBorn:1941.01.16 (Avrankou, Benin)Ordained Priest:1966.01.06Consecrated Bishop:1995.03.25Died:2023.09.14 (Benin † 82)Priest of Porto Novo (Benin) (1966.01.06 – 1994.12.19)Bishop of Kandi (Benin) (1994.12.19 – 2000.01.29)Bishop of Porto Novo (Benin) (2000.01.29 – 2005.03.05)Metropolitan Archbishop of Cotonou (Benin) (2005.03.05 – 2010.08.21)Special ChurchesCathedral:  Cathédrale Notre-Dame-du-Mont-Carmel, Kandi, Alibori Show MapNatitingou (↙), Fada N’Gourma (←), Niamey (↑), Sokoto (→), Ilorin (↘), N’Dali (↓)Statistics (2022.12.31)Area: 26,242 km²Population: 35,386 Catholics (2.4% of 1,475,220 total)Pastoral Centres: 14 parishes, 2 missionsPersonnel: 38 priests (25 diocesan, 13 religious), 56 religious (14 brothers, 42 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kand0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1475220,
+    "catholiques": 35386,
+    "pourcentage_catholiques": 2.4
+  },
+  "ressources": {
+    "pretres_diocesains": 25,
+    "pretres_religieux": null,
+    "total_pretres": 38,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

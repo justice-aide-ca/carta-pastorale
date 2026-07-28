@@ -1,0 +1,29 @@
+{
+  "id": "in-asan0",
+  "nom": "Asansol",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Asansol / Asansolen(sis) (Latin)Ecclesiastical Province: CalcuttaNeighbouring Dioceses: Ranchi (←), Dumka (↑), Krishnagar (→), Calcutta (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint Francis XavierLiturgical Calendar (National) 📅History1997.10.24: Established as Diocese of Asansol / Asansolen(sis) (Latin) (from Metropolitan Archdiocese of Calcutta and became suffragan of Calcutta)Present PrelatesBishop:vacantApostolic Administrator (2025.08.20 – ...):Archbishop Elias Frank (63)Metropolitan Archbishop of Calcutta (India)OrdinariesBishops of Asansol (Roman Rite)Archbishop Elias Frank (63)  (Apostolic Administrator 2025.08.20 – ...)Bishop Elias Frank (63) (later Archbishop)  (2023.07.03 – 2025.06.28)Metropolitan Archbishop of Calcutta (India)Apostolic Administrator of Asansol (India)Born:1962.08.15 (Bantwal, India)Ordained Priest:1993.04.23Consecrated Bishop:2023.08.24Priest of Calcutta (India) (1993.04.23 – 1997.10.24)Priest of Asansol (India) (1997.10.24 – 2023.07.03)Bishop of Asansol (India) (2023.07.03 – 2025.06.28)Coadjutor Archbishop of Calcutta (India) (2025.06.28 – 2025.09.20)Apostolic Administrator of Asansol (India) (2025.08.20 – ...)Metropolitan Archbishop of Calcutta (India) (2025.09.20 – ...)Bishop Julius Marandi (72)  (Apostolic Administrator 2022.05.04 – 2023.07.03)Bishop Salvadore Lobo (81)  (Apostolic Administrator 2020.05.04 – 2022.05.04)Bishop Cyprian Monis (81)  (1997.10.24 – 2020.05.04)Bishop emeritus of Asansol (India)Sacred Heart of GodBorn:1945.04.11 (Dorna Halli, India)Ordained Priest:1975.12.21Consecrated Bishop:1994.08.04Titular Bishop of Molicunza (1994.03.26 – 1997.10.24)Auxiliary Bishop of Calcutta (India) (1994.03.26 – 1997.10.24)Bishop of Asansol (India) (1997.10.24 – 2020.05.04)Special ChurchesCathedral:  Cathedral of the Sacred Heart, Asansol, West Bengal Show MapRanchi (←), Dumka (↑), Krishnagar (→), Calcutta (↘)Statistics (2022.12.31)Area: 13,300 km²Population: 35,850 Catholics (0.2% of 16,564,000 total)Pastoral Centres: 17 parishes, 15 missionsPersonnel: 80 priests (52 diocesan, 28 religious), 250 religious (35 brothers, 215 sisters), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "asan0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 16564000,
+    "catholiques": 35850,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 52,
+    "pretres_religieux": null,
+    "total_pretres": 80,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

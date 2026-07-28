@@ -1,0 +1,29 @@
+{
+  "id": "in-samb0",
+  "nom": "Sambalpur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Sambalpur / Sambalpuren(sis) (Latin)Ecclesiastical Province: Cuttack–BhubaneswarNeighbouring Dioceses: Raipur (←), Raigarh (↖), Rourkela (↗), Balasore (→), Cuttack–Bhubaneswar (↘), Rayagada (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint JosephLiturgical Calendar (National) 📅History1951.06.14: Established as Diocese of Sambalpur / Sambalpuren(sis) (Latin) (from Metropolitan Archdiocese of Calcutta, Diocese of Nagpur and Diocese of Ranchi and became suffragan of Calcutta)1953.09.19: Became suffragan of Ranchi1974.01.24: Became suffragan of Cuttack–Bhubaneswar1979.07.04: Lost territory to establish Diocese of RourkelaPresent PrelatesBishop (2013.07.26 – ...):Bishop Niranjan Sual Singh (64)OrdinariesBishops of Sambalpur (Roman Rite)Bishop Niranjan Sual Singh (64)  (2013.07.26 – ...)Bishop of Sambalpur (India)United in love and serviceBorn:1961.07.20 (Kottama, India)Ordained Priest:1991.04.29Consecrated Bishop:2013.09.28Priest of Cuttack–Bhubaneswar (India) (1991.04.29 – 2013.07.26)Bishop of Sambalpur (India) (2013.07.26 – ...)Bishop Lucas Kerketta, S.V.D. (89)  (1986.11.17 – 2013.07.26)Bishop emeritus of Sambalpur (India)Communion in charityBorn:1936.09.20 (Kahupani, India)Ordained Priest:1969.10.25Consecrated Bishop:1987.03.01Bishop of Sambalpur (India) (1986.11.17 – 2013.07.26)Bishop Raphael Cheenath, S.V.D. (later Archbishop)  (1974.02.28 – 1985.07.01)To become all things to allBorn:1934.12.29 (Manalur, India)Ordained Priest:1963.09.21Consecrated Bishop:1974.05.18Died:2016.08.14 (Mumbai, India † 81)Bishop of Sambalpur (India) (1974.02.28 – 1985.07.01)Metropolitan Archbishop of Cuttack–Bhubaneswar (India) (1985.07.01 – 2011.02.11)Bishop Hermann Westermann, S.V.D.  (1951.06.14 – 1974.02.28)Born:1905.04.24 (Werne, Germany)Ordained Priest:1932.05.22Consecrated Bishop:1951.07.29Died:1985.10.23 († 80)Prefect Apostolic of Indore (India) (1948.03.20 – 1951.06.14)Bishop of Sambalpur (India) (1951.06.14 – 1974.02.28)Special ChurchesCathedral:  St. Joseph the Worker Cathedral, Sambalpur, Odisha Show MapRaipur (←), Raigarh (↖), Rourkela (↗), Balasore (→), Cuttack–Bhubaneswar (↘), Rayagada (↓)Statistics (2021.12.31)Area: 37,035 km²Population: 48,400 Catholics (0.6% of 8,527,000 total)Pastoral Centres: 24 parishes, 22 missionsPersonnel: 149 priests (66 diocesan, 83 religious), 428 religious (110 brothers, 318 sisters), 27 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "samb0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 8527000,
+    "catholiques": 48400,
+    "pourcentage_catholiques": 0.6
+  },
+  "ressources": {
+    "pretres_diocesains": 66,
+    "pretres_religieux": null,
+    "total_pretres": 149,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

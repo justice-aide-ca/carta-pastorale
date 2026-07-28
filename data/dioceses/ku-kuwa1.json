@@ -1,0 +1,29 @@
+{
+  "id": "ku-kuwa1",
+  "nom": "Kuwait",
+  "pays": "ku",
+  "pays_nom": "Kuwait",
+  "continent": "unknown",
+  "type": "Patriarchal Exarchate Name: KuwaitSubject to the PatriarchNeighbouring Dioceses: Iraq (↖)Depends on: Dicastery for the Eastern ChurchesWebsite: History1972.03.25: Established as Patriarchal Exarchate of KuwaitContact InfoAddress: Vicariat Patriarcal Grec-Melkite Catholique, Salwa Block 12, St. 6 N. House 58, P.O. Box 1205, Salamieh 22013, KuwaitPresent PrelatesPatriarchal Exarch (2002.08.09 – ...):Archimandrite Boutros GharibOrdinariesPatriarchal Exarchs of Kuwait (Greek-Melkite Rite)Archimandrite Boutros Gharib  (2002.08.09 – ...)Patriarchal Exarch of Kuwait of the Greek-Melkites (Kuwait)Patriarchal Exarch of Kuwait of the Greek-Melkites (Kuwait) (2002.08.09 – ...)Archimandrite Basilios Kanakry  (1991 – 2002)Patriarchal Exarch of Iraq of the Greek-Melkites (Iraq) (1971 – 1978)Patriarchal Vicar of Kuwait of the Greek-Melkites (Kuwait) (1972.03.25 – 1991)Patriarchal Exarch of Kuwait of the Greek-Melkites (Kuwait) (1991 – 2002)Former PrelatesPatriarchal Vicar: Archimandrite Basilios Kanakry (1972.03.25 – 1991)Special ChurchesCathedral:  Greek Melkite Church, Kuwait City Show MapIraq (↖)Statistics (2005.12.31)Population: 800 CatholicsPopulationLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kuwa1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

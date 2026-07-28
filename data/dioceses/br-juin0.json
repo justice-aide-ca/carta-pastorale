@@ -1,0 +1,29 @@
+{
+  "id": "br-juin0",
+  "nom": "Juína",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Juína / Iuinen(sis) (Latin)Ecclesiastical Province: CuiabáNeighbouring Dioceses: San Ignacio de Velasco (↙), Guajará-Mirim (↙), Ji-Paraná (←), Borba (↑), Sinop (→), Diamantino (↘), São Luiz de Cáceres (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1997.12.23: Established as Diocese of Juína / Iuinen(sis) (Latin) (from Diocese of Diamantino and Diocese of Ji-Paraná and became suffragan of Cuiabá)Present PrelatesBishop (2008.11.12 – ...):Bishop Neri José Tondello (62)OrdinariesBishops of Juína (Roman Rite)Bishop Neri José Tondello (62)  (2008.11.12 – ...)Bishop of Juína (Brazil)O Bom Pastor dá a Vida pelas suas OvelhasBorn:1964.03.24 (Antônio Prado, RS, Brazil)Ordained Priest:1993.04.18Consecrated Bishop:2009.01.11Priest of Caxias do Sul (Brazil) (1993.04.18 – 2008.11.12)Bishop of Juína (Brazil) (2008.11.12 – ...)Archbishop Mílton Antônio dos Santos, S.D.B. (79)  (Apostolic Administrator 2007.08 – 2008.11.12)Bishop Franco Dalla Valle, S.D.B.  (1997.12.23 – 2007.08.02)EvangelizareBorn:1945.08.02 (Crespano del Grappa, Italy)Ordained Priest:1972.08.26Consecrated Bishop:1998.01.06Died:2007.08.02 († 62)Bishop of Juína (Brazil) (1997.12.23 – 2007.08.02)Special ChurchesCathedral:  Catedral Sagrado Coração de Jesus, Juína, Mato Grosso Churches by City (15)Show MapSan Ignacio de Velasco (↙), Guajará-Mirim (↙), Ji-Paraná (←), Borba (↑), Sinop (→), Diamantino (↘), São Luiz de Cáceres (↓)Statistics (2022.12.31)Area: 129,078 km²Population: 115,000 Catholics (66.9% of 172,000 total)Pastoral Centres: 15 parishes, 3 missionsPersonnel: 32 priests (26 diocesan, 6 religious), 10 deacons, 17 religious (6 brothers, 11 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "juin0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 172000,
+    "catholiques": 115000,
+    "pourcentage_catholiques": 66.9
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 32,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

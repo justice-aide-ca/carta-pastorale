@@ -1,0 +1,29 @@
+{
+  "id": "pl-gliw0",
+  "nom": "Gliwice",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Gliwice / Glivicen(sis) (Latin)Ecclesiastical Province: KatowiceNeighbouring Dioceses: Opole (↖), Częstochowa (↗), Sosnowiec (→), Katowice (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Peter and Saint Paul of Tarsus (June 29), Saint Anne (July 26), Najświętszej Maryi Panny, Matki Sprawiedliwości i Miłości Społecznej (September 12)Cathedral Dedication Anniversary: May 16Liturgical Calendar 📅History1992.03.25: Established as Diocese of Gliwice / Glivicen(sis) (Latin) (from Diocese of Częstochowa, Diocese of Katowice and Diocese of Opole and became suffragan of Katowice)Present PrelatesBishop (2023.01.28 – ...):Bishop Sławomir Oder (65)Auxiliary Bishop (2017.11.18 – ...):Bishop Andrzej Iwanecki (65)Titular Bishop of ArcavicaMonsignors (44)OrdinariesBishops of Gliwice (Roman Rite)Bishop Sławomir Oder (65)  (2023.01.28 – ...)Bishop of Gliwice (Poland)Quod dixerit faciteBorn:1960.08.07 (Chełmża, Poland)Ordained Priest:1989.05.14Consecrated Bishop:2023.03.11Priest of Chełmno (Poland) (1989.05.14 – 1992.03.25)Priest of Toruń (Poland) (1992.03.25 – 2023.01.28)Chaplain of His Holiness (2001.10.01 – 2023.01.28)Bishop of Gliwice (Poland) (2023.01.28 – ...)Bishop Jan Kopiec (78)  (2011.12.29 – 2023.01.28)Bishop emeritus of Gliwice (Poland)Crux Christi spes nostraBorn:1947.12.18 (Zabrze, Poland)Ordained Priest:1972.04.30Consecrated Bishop:1993.01.06Priest of Opole (Poland) (1972.04.30 – 1992.12.04)Titular Bishop of Cemerinianus (1992.12.04 – 2011.12.29)Auxiliary Bishop of Opole (Poland) (1992.12.04 – 2011.12.29)Bishop of Gliwice (Poland) (2011.12.29 – 2023.01.28)Bishop Jan Walenty Wieczorek  (1992.03.25 – 2011.12.29)Servire populoBorn:1935.02.08 (Bodzanowice, Poland)Ordained Priest:1958.06.22Consecrated Bishop:1981.08.16Died:2023.09.13 (Pyskowice, Poland † 88)Priest of Opole (Poland) (1958.06.22 – 1981.06.12)Titular Bishop of Thimida regia (1981.06.12 – 1992.03.25)Auxiliary Bishop of Opole (Poland) (1981.06.12 – 1992.03.25)Bishop of Gliwice (Poland) (1992.03.25 – 2011.12.29)Former PrelatesAuxiliary Bishop: Bishop Gerard Alfons Kusz (1992.03.25 – 2014.11.15)Special ChurchesCathedral:  Katedra św. Apostołów Piotra i Pawła, Gliwice, Śląskie Minor Basilica:  Bazylika Wniebowzięcia NMP, Rudy, Śląskie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapOpole (↖), Częstochowa (↗), Sosnowiec (→), Katowice (↘)Statistics (2022.12.31)Area: 2,250 km²Population: 585,700 Catholics (89.3% of 656,066 total)Pastoral Centres: 156 parishesPersonnel: 478 priests (336 diocesan, 142 religious), 2 deacons, 326 religious (166 brothers, 160 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gliw0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 656066,
+    "catholiques": 585700,
+    "pourcentage_catholiques": 89.3
+  },
+  "ressources": {
+    "pretres_diocesains": 336,
+    "pretres_religieux": null,
+    "total_pretres": 478,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 156
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

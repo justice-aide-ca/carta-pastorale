@@ -1,0 +1,29 @@
+{
+  "id": "br-anap0",
+  "nom": "Anápolis",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Anápolis / Anapolitan(us) (Latin)Ecclesiastical Province: GoiâniaNeighbouring Dioceses: Goiânia (↙), Goiás (←), Uruaçu (↑), Luziânia (→), Ipameri (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1966.10.11: Established as Diocese of Anápolis / Anapolitan(us) (Latin) (from Metropolitan Archdiocese of Goiânia and became suffragan of Goiânia)1989.03.29: Lost territory to establish Diocese of LuziâniaPresent PrelatesBishop (2025.11.11 – ...):Bishop Waldemar Passini Dalbello (60)Monsignors (3)OrdinariesBishops of Anápolis (Roman Rite)Bishop Waldemar Passini Dalbello (60)  (2025.11.11 – ...)Bishop of Anápolis (Brazil)Congregare in unumBorn:1966.06.06 (Anápolis, GO, Brazil)Ordained Priest:1994.12.03Consecrated Bishop:2010.03.19Priest of Brasília (Brazil) (1994.12.03 – 2009.12.30)Titular Bishop of Membressa (2009.12.30 – 2014.12.03)Auxiliary Bishop of Goiânia (Brazil) (2009.12.30 – 2014.12.03)Apostolic Administrator of Brasília (Brazil) (2011.02.17 – 2011.06.15)Coadjutor Bishop of Luziânia (Brazil) (2014.12.03 – 2017.07.12)Bishop of Luziânia (Brazil) (2017.07.12 – 2025.02.05)Coadjutor Bishop of Anápolis (Brazil) (2025.02.05 – 2025.11.11)Bishop of Anápolis (Brazil) (2025.11.11 – ...)Bishop João Casimiro Wilk (Jan Kazimierz), O.F.M. Conv.  (2004.06.09 – 2025.11.11)Ut amor ameturBorn:1951.09.18 (Seroczyn, Poland)Ordained Priest:1976.06.24Consecrated Bishop:1998.04.04Died:2025.11.11 (Anápolis, GO, Brazil † 74)Bishop of Formosa (Brazil) (1998.01.28 – 2004.06.09)Bishop of Anápolis (Brazil) (2004.06.09 – 2025.11.11)Bishop Manuel Pestana Filho  (1978.11.30 – 2004.06.09)In te projectusBorn:1928.04.27 (Santos, SP, Brazil)Ordained Priest:1952.10.05Consecrated Bishop:1979.02.18Died:2011.01.08 (Santos, SP, Brazil † 82)Bishop of Anápolis (Brazil) (1978.11.30 – 2004.06.09)Bishop Epaminondas José de Araújo  (1966.10.27 – 1978.06.05)In verbo tuoBorn:1922.03.19 (Caiçara, PB, Brazil)Ordained Priest:1945.08.12Consecrated Bishop:1960.03.27Died:2010.06.09 (João Pessoa, PB, Brazil † 88)Bishop of Ruy Barbosa (Brazil) (1959.12.14 – 1966.10.27)Bishop of Anápolis (Brazil) (1966.10.27 – 1978.06.05)Bishop of Palmeira dos Índios (Brazil) (1978.06.05 – 1984.11.28)Former PrelatesCoadjutor Bishop: Bishop Waldemar Passini Dalbello (60) (2025.02.05 – 2025.11.11)Auxiliary Bishop: Bishop Dilmo Franco de Campos (2019.11.27 – 2024.08.01)Special ChurchesCathedral:  Catedral Senhor Bom Jesus, Anápolis, Goiás Jubilee Churches in the Holy Year 2025Churches by City (60)Show MapGoiânia (↙), Goiás (←), Uruaçu (↑), Luziânia (→), Ipameri (↘)Statistics (2022.12.31)Area: 14,178 km²Population: 461,360 Catholics (70.2% of 657,651 total)Pastoral Centres: 58 parishes, 5 missionsPersonnel: 128 priests (91 diocesan, 37 religious), 21 deacons, 249 religious (121 brothers, 128 sisters), 30 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "anap0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 657651,
+    "catholiques": 461360,
+    "pourcentage_catholiques": 70.2
+  },
+  "ressources": {
+    "pretres_diocesains": 91,
+    "pretres_religieux": null,
+    "total_pretres": 128,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 58
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

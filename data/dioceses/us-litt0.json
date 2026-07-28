@@ -1,0 +1,29 @@
+{
+  "id": "us-litt0",
+  "nom": "Little Rock",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Little Rock / Petriculan(us) (Latin)Ecclesiastical Province: Oklahoma CityNeighbouring Dioceses: Tyler (↙), Tulsa (←), Springfield–Cape Girardeau (↑), Memphis (→), Jackson (↘), Shreveport (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsCathedral Dedication Anniversary: November 30Liturgical Calendar 📅History1843.11.28: Established as Diocese of Little Rock / Petriculan(us) (Latin) (from Diocese of Saint Louis and became suffragan of Baltimore)1850.07.19: Became suffragan of New Orleans1876.05.14: Lost territory to establish Apostolic Prefecture of Indian Territory1972.12.13: Became suffragan of Oklahoma CityContact InfoAddress: 2500 N. Tyler St., P.O. Box 7565, Little Rock, AR 72217-7565, USAPhone: +1 (501) 664-0340Present PrelatesBishop (2008.04.10 – ...):Bishop Anthony Basil Taylor (72)Monsignors (18)OrdinariesBishops of Little Rock (Roman Rite)Bishop Anthony Basil Taylor (72)  (2008.04.10 – ...)Bishop of Little Rock (USA)The humble shall inherit the earthBorn:1954.04.24 (Fort Worth, TX, USA)Ordained Priest:1980.08.02Consecrated Bishop:2008.06.05Priest of Oklahoma City (USA) (1980.08.02 – 2008.04.10)Bishop of Little Rock (USA) (2008.04.10 – ...)Bishop James Peter Sartain (74) (later Archbishop)  (2000.01.04 – 2006.05.16)Metropolitan Archbishop emeritus of Seattle (USA)Of you my heart has spokenBorn:1952.06.06 (Memphis, TN, USA)Ordained Priest:1978.07.15Consecrated Bishop:2000.03.06Priest of Memphis (USA) (1978.07.15 – 2000.01.04)Bishop of Little Rock (USA) (2000.01.04 – 2006.05.16)Bishop of Joliet (USA) (2006.05.16 – 2010.09.16)Metropolitan Archbishop of Seattle (USA) (2010.09.16 – 2019.09.03)Bishop Andrew Joseph McDonald  (1972.07.04 – 2000.01.04)Ave cruxBorn:1923.10.24 (Savannah, GA, USA)Ordained Priest:1948.05.08Consecrated Bishop:1972.09.05Died:2014.04.01 (Palatine, IL, USA † 90)Priest of Savannah (USA) (1948.05.08 – 1972.07.04)Bishop of Little Rock (USA) (1972.07.04 – 2000.01.04)Bishop Albert Lewis Fletcher  (1946.12.07 – 1972.07.04)Pax ChristiBorn:1896.10.28 (Little Rock, AR, USA)Ordained Priest:1920.06.04Consecrated Bishop:1940.04.25Died:1979.12.06 (Little Rock, AR, USA † 83)Priest of Little Rock (USA) (1920.06.04 – 1939.12.11)Titular Bishop of Samos (1939.12.11 – 1946.12.07)Auxiliary Bishop of Little Rock (USA) (1939.12.11 – 1946.12.07)Bishop of Little Rock (USA) (1946.12.07 – 1972.07.04)Bishop John Baptist Morris  (1907.02.21 – 1946.10.22)Vias tuas DomineBorn:1866.06.29 (Hendersonville, TN, USA)Ordained Priest:1892.06.11Consecrated Bishop:1906.06.11Died:1946.10.22 (Little Rock, AR, USA † 80)Priest of Nashville (USA) (1892.06.11 – 1906.04.18)Titular Bishop of Acmonia (1906.04.18 – 1907.02.21)Coadjutor Bishop of Little Rock (USA) (1906.04.18 – 1907.02.21)Bishop of Little Rock (USA) (1907.02.21 – 1946.10.22)Bishop Edward Fitzgerald  (1866.04.24 – 1907.02.21)Born:1833.10.28 (Limerick, Ireland)Ordained Priest:1857.08.22Consecrated Bishop:1867.02.03Died:1907.02.21 (Hot Springs, AR, USA † 73)Priest of Cincinnati (USA) (1857.08.22 – 1866.04.24)Bishop of Little Rock (USA) (1866.04.24 – 1907.02.21)Bishop Andrew Byrne  (1843.11.28 – 1862.06.10)Born:1802.12.05 (Navan, Ireland)Ordained Priest:1827.11.11Consecrated Bishop:1844.03.10Died:1862.06.10 (Helena, AR, USA † 59)Priest of Charleston (USA) (1827.11.11 – 1843.11.28)Bishop of Little Rock (USA) (1843.11.28 – 1862.06.10)Former PrelatesCoadjutor Bishop: Bishop John Baptist Morris (1906.04.18 – 1907.02.21)Auxiliary Bishop: Bishop Lawrence Preston Joseph Graves (1969.02.24 – 1973.05.10)Auxiliary Bishop: Bishop Albert Lewis Fletcher (1939.12.11 – 1946.12.07)Special ChurchesCathedral:  Cathedral of St. Andrew, Little Rock, Arkansas Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (130)Show MapTyler (↙), Tulsa (←), Springfield–Cape Girardeau (↑), Memphis (→), Jackson (↘), Shreveport (↓)Statistics (2022.12.31)Area: 137,733 km²Population: 166,293 Catholics (5.5% of 3,045,637 total)Pastoral Centres: 91 parishes, 39 missionsPersonnel: 130 priests (101 diocesan, 29 religious), 87 deacons, 169 religious (54 brothers, 115 sisters), 26 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "litt0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3045637,
+    "catholiques": 166293,
+    "pourcentage_catholiques": 5.5
+  },
+  "ressources": {
+    "pretres_diocesains": 101,
+    "pretres_religieux": null,
+    "total_pretres": 130,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 91
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

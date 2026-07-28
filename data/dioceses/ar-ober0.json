@@ -1,0 +1,29 @@
+{
+  "id": "ar-ober0",
+  "nom": "Oberá",
+  "pays": "ar",
+  "pays_nom": "Argentina",
+  "continent": "amerique",
+  "type": "Diocese Name: Oberá / Oberen(sis) (Latin)Ecclesiastical Province: CorrientesNeighbouring Dioceses: Posadas (←), Puerto Iguazú (↗), Frederico Westphalen (→), Santo Ângelo (↘)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Anthony of Padua (June 13), Nuestra Señora de Itatì (July 16)Liturgical Calendar (National) 📅History2009.06.13: Established as Diocese of Oberá / Oberen(sis) (Latin) (from Diocese of Posadas and Diocese of Puerto Iguazú and became suffragan of Corrientes)Present PrelatesBishop (2010.10.26 – ...):Bishop Damián Santiago Bitar (63)OrdinariesBishops of Oberá (Roman Rite)Bishop Damián Santiago Bitar (63)  (2010.10.26 – ...)Bishop of Oberá (Argentina)Discípulo misionero de JesucristoBorn:1963.02.12 (Arroyo Cabral, Argentina)Ordained Priest:1987.12.13Consecrated Bishop:2008.12.08Priest of Villa María (Argentina) (1987.12.13 – 2008.10.04)Titular Bishop of Turris Tamalleni (2008.10.04 – 2010.10.26)Auxiliary Bishop of San Justo (Argentina) (2008.10.04 – 2010.10.26)Bishop of Oberá (Argentina) (2010.10.26 – ...)Bishop Víctor Selvino Arenhardt  (2009.06.13 – 2010.05.17)Fe, Obediencia y servicioBorn:1948.12.23 (Campo Grande, Argentina)Ordained Priest:1977.03.05Consecrated Bishop:2009.08.15Died:2010.05.17 († 61)Priest of Posadas (Argentina) (1977.03.05 – 2009.06.13)Bishop of Oberá (Argentina) (2009.06.13 – 2010.05.17)Special ChurchesCathedral:  Catedral San Antonio de Padua, Oberá, Misiones World Heritage Site (now ruined):  Misión Jesuítica de Nuestra Señora de Loreto, Candelaria, Misiones World Heritage Site (now ruined):  Misión Jesuítica de Nuestra Señora de Santa Ana, Candelaria, Misiones World Heritage Site (now ruined):  Misión Jesuítica de San Ignacio Miní, San Ignacio, Misiones World Heritage Site (now ruined):  Misión Jesuítica de Santa María la Mayor, Santa María, Misiones Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (22)Show MapPosadas (←), Puerto Iguazú (↗), Frederico Westphalen (→), Santo Ângelo (↘)Statistics (2022.12.31)Area: 8,717 km²Population: 198,700 Catholics (63.6% of 312,549 total)Pastoral Centres: 18 parishes, 330 missionsPersonnel: 30 priests (10 diocesan, 20 religious), 23 deacons, 32 religious (21 brothers, 11 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ober0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 312549,
+    "catholiques": 198700,
+    "pourcentage_catholiques": 63.6
+  },
+  "ressources": {
+    "pretres_diocesains": 10,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

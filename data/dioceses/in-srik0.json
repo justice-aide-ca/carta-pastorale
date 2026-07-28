@@ -1,0 +1,29 @@
+{
+  "id": "in-srik0",
+  "nom": "Srikakulam",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Srikakulam / Srikakulamen(sis) (Latin)Ecclesiastical Province: VisakhapatnamNeighbouring Dioceses: Visakhapatnam (↙), Rayagada (↖), Berhampur (↗)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Mary Help of ChristiansLiturgical Calendar (National) 📅History1993.07.01: Established as Diocese of Srikakulam / Srikakulamen(sis) (Latin) (from Diocese of Visakhapatnam and became suffragan of Hyderabad)2001.10.16: Became suffragan of VisakhapatnamPresent PrelatesBishop (2019.07.16 – ...):Bishop Vijaya Kumar Rayarala, P.I.M.E. (56)OrdinariesBishops of Srikakulam (Roman Rite)Bishop Vijaya Kumar Rayarala, P.I.M.E. (56)  (2019.07.16 – ...)Bishop of Srikakulam (India)Nolite timereBorn:1969.10.15 (Khammam, India)Ordained Priest:1998.08.29Consecrated Bishop:2019.09.02Bishop of Srikakulam (India) (2019.07.16 – ...)Bishop Innayya Chinna Addagatla  (1993.07.01 – 2018.12.12)Ad majorem Dei gloriamBorn:1937.05.02 (Ravipadu, India)Ordained Priest:1965.01.04Consecrated Bishop:1989.06.29Died:2022.04.01 (Srikakulam, India † 84)Bishop of Nalgonda (India) (1989.04.17 – 1993.07.01)Bishop of Srikakulam (India) (1993.07.01 – 2018.12.12)Special ChurchesCathedral:  Cathedral of Our Lady of Mercy, Srikakulam, Andhra Pradesh Show MapVisakhapatnam (↙), Rayagada (↖), Berhampur (↗)Statistics (2022.12.31)Area: 8,524 km²Population: 88,500 Catholics (2.2% of 4,016,180 total)Pastoral Centres: 39 parishesPersonnel: 50 priests (33 diocesan, 17 religious), 146 religious (28 brothers, 118 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "srik0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4016180,
+    "catholiques": 88500,
+    "pourcentage_catholiques": 2.2
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 50,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 39
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "us-gall2",
+  "nom": "Gallup",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Gallup / Gallupien(sis) (Latin)Ecclesiastical Province: Santa FeNeighbouring Dioceses: Tucson (↙), Phoenix (←), Salt Lake City (↖), Pueblo (↗), Santa Fe (→), Las Cruces (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Our Lady of Guadalupe (December 12)Cathedral Dedication Anniversary: June 19Liturgical Calendar 📅History1939.12.16: Established as Diocese of Gallup / Gallupien(sis) (Latin) (from Metropolitan Archdiocese of Santa Fe and Diocese of Tucson and became suffragan of Santa Fe)Contact InfoAddress: 711 S. Puerco Dr., P.O. Box 1317, Gallup, NM 87305, USAPhone: +1 (505) 863-4406Present PrelatesBishop (2009.02.05 – ...):Bishop James Sean Wall (61)Monsignors (2)OrdinariesBishops of Gallup (Roman Rite)Bishop James Sean Wall (61)  (2009.02.05 – ...)Bishop of Gallup (USA)Estote factores verbiBorn:1964.10.11 (Ganado, AZ, USA)Ordained Priest:1998.06.06Consecrated Bishop:2009.04.23Priest of Phoenix (USA) (1998.06.06 – 2009.02.05)Bishop of Gallup (USA) (2009.02.05 – ...)Bishop Thomas James Olmsted (79)  (Apostolic Administrator 2008.04.30 – 2009.02.05)Bishop Thomas James Olmsted (79)  (Apostolic Administrator sede plena 2008.01.03 – 2008.04.30)Bishop Donald Edmond Pelotte, S.S.S.  (1990.03.31 – 2008.04.30)Strengthen one anotherBorn:1945.04.13 (Waterville, ME, USA)Ordained Priest:1972.09.02Consecrated Bishop:1986.05.06Died:2010.01.07 (Gallup, NM, USA † 64)Coadjutor Bishop of Gallup (USA) (1986.02.24 – 1990.03.31)Bishop of Gallup (USA) (1990.03.31 – 2008.04.30)Bishop Jerome Joseph Hastrich  (1969.08.25 – 1990.03.31)Born:1914.11.13 (Milwaukee, WI, USA)Ordained Priest:1941.02.09Consecrated Bishop:1963.09.03Died:1995.05.12 (Gallup, NM, USA † 80)Priest of Milwaukee (USA) (1941.02.09 – 1945.12.22)Priest of Madison (USA) (1945.12.22 – 1963.07.25)Titular Bishop of Gurza (1963.07.25 – 1969.08.25)Auxiliary Bishop of Madison (USA) (1963.07.25 – 1969.08.25)Bishop of Gallup (USA) (1969.08.25 – 1990.03.31)Bishop Bernard Theodore Espelage, O.F.M.  (1940.07.20 – 1969.08.25)Iter para tutumBorn:1892.02.16 (Cincinnati, OH, USA)Ordained Priest:1916.05.16Consecrated Bishop:1940.10.09Died:1971.02.19 (Gallup, NM, USA † 79)Bishop of Gallup (USA) (1940.07.20 – 1969.08.25)Titular Bishop of Penafiel (1969.08.25 – 1971.02.19)Former PrelatesCoadjutor Bishop: Bishop Donald Edmond Pelotte, S.S.S. (1986.02.24 – 1990.03.31)Special ChurchesCathedral:  Sacred Heart Cathedral, Gallup, New Mexico Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (87)Show MapTucson (↙), Phoenix (←), Salt Lake City (↖), Pueblo (↗), Santa Fe (→), Las Cruces (↘)Statistics (2022.12.31)Area: 143,648 km²Population: 66,470 Catholics (12.5% of 530,500 total)Pastoral Centres: 52 parishesPersonnel: 42 priests (41 diocesan, 1 religious), 18 deacons, 72 religious (7 brothers, 65 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gall2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 530500,
+    "catholiques": 66470,
+    "pourcentage_catholiques": 12.5
+  },
+  "ressources": {
+    "pretres_diocesains": 41,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 52
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

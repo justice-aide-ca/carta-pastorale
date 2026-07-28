@@ -1,0 +1,29 @@
+{
+  "id": "do-bara0",
+  "nom": "Barahona",
+  "pays": "do",
+  "pays_nom": "Dominican Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: Barahona / Barahonen(sis) (Latin)Ecclesiastical Province: Santo DomingoNeighbouring Dioceses: Port-au-Prince (←), San Juan de la Maguana (↑)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1976.04.24: Established as Diocese of Barahona / Barahonen(sis) (Latin) (from Diocese of San Juan de la Maguana and became suffragan of Santo Domingo)Present PrelatesBishop:vacantOrdinariesBishops of Barahona (Roman Rite)Bishop Andrés Napoleón Romero Cárdenas (58)  (2015.02.23 – 2026.06.12)Bishop of La Vega (Dominican Republic)En nombre de CristoBorn:1967.07.24 (Ramonal Arriba, Duarte, Dominican Republic)Ordained Priest:1995.07.08Consecrated Bishop:2015.04.25Priest of San Francisco de Macorís (Dominican Republic) (1995.07.08 – 2015.02.23)Bishop of Barahona (Dominican Republic) (2015.02.23 – 2026.06.12)Bishop of La Vega (Dominican Republic) (2026.06.12 – ...)Bishop Rafael Leónidas Felipe y Núñez  (1999.12.07 – 2015.02.23)Dios, patria y libertadBorn:1938.09.12 (Villa Tapia, Hermanas Mirabal, Dominican Republic)Ordained Priest:1965.03.25Consecrated Bishop:2000.01.22Died:2025.12.10 (Santiago de los Caballeros, Dominican Republic † 87)Priest of Santiago de los Caballeros (Dominican Republic) (1965.03.25 – 1999.12.07)Chaplain of His Holiness (1996.05.07 – 1999.12.07)Bishop of Barahona (Dominican Republic) (1999.12.07 – 2015.02.23)Bishop Fabio Mamerto Rivas Santos, S.D.B.  (1976.04.24 – 1999.12.07)Cristo es nuestra pazBorn:1932.05.11 (Cabirmota, Dominican Republic)Ordained Priest:1965.03.25Consecrated Bishop:1976.08.28Died:2018.08.11 (Jarabacoa, Dominican Republic † 86)Bishop of Barahona (Dominican Republic) (1976.04.24 – 1999.12.07)Special ChurchesCathedral:  Catedral Nuestra Señora del Rosario, Barahona, Barahona, Enriquillo Churches by City (25)Show MapPort-au-Prince (←), San Juan de la Maguana (↑)Statistics (2022.12.31)Area: 6,975 km²Population: 251,000 Catholics (54.1% of 463,680 total)Pastoral Centres: 25 parishesPersonnel: 42 priests (10 diocesan, 32 religious), 3 deacons, 82 religious (33 brothers, 49 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bara0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 463680,
+    "catholiques": 251000,
+    "pourcentage_catholiques": 54.1
+  },
+  "ressources": {
+    "pretres_diocesains": 10,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

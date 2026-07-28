@@ -1,0 +1,29 @@
+{
+  "id": "si-nmes0",
+  "nom": "Novo Mesto",
+  "pays": "si",
+  "pays_nom": "Slovenia",
+  "continent": "unknown",
+  "type": "Diocese Name: Novo Mesto / Novæ Urbis (Latin)Ecclesiastical Province: LjubljanaNeighbouring Dioceses: Rijeka (↙), Ljubljana (↖), Celje (↗), Zagreb (→)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint JosephCathedral Dedication Anniversary: October 25Liturgical Calendar (National) 📅History2006.04.07: Established as Diocese of Novo Mesto / Novæ Urbis (Latin) (from Metropolitan Archdiocese of Ljubljana and became suffragan of Ljubljana)Contact InfoAddress: Kapiteljska ulica 1, 8000 Novo Mesto, SloveniaPresent PrelatesBishop (2021.06.30 – ...):Bishop Andrej Saje (60)President of Episcopal Conference of SloveniaMonsignors (7)OrdinariesBishops of Novo Mesto (Roman Rite)Bishop Andrej Saje (60)  (2021.06.30 – ...)Bishop of Novo Mesto (Slovenia)President of Episcopal Conference of SloveniaŽivimo po duhuBorn:1966.04.22 (Novo Mesto, Slovenia)Ordained Priest:1992.06.29Consecrated Bishop:2021.09.26Priest of Ljubljana (Slovenia) (1992.06.29 – 2021.06.30)Chaplain of His Holiness (2010.10.02 – 2021.06.30)Bishop of Novo Mesto (Slovenia) (2021.06.30 – ...)President of Episcopal Conference of Slovenia (2022.03.14 [2022.03.24] – ...)Bishop Andrej Glavan (82)  (2006.04.07 – 2021.06.30)Bishop emeritus of Novo Mesto (Slovenia)Kar koli vam poreče, storiteBorn:1943.10.14 (Soteska in Novo Mesto, Slovenia)Ordained Priest:1972.06.29Consecrated Bishop:2000.06.12Priest of Ljubljana (Slovenia) (1972.06.29 – 2000.05.13)Prelate of Honour of His Holiness (1999.01.18 – 2000.05.13)Titular Bishop of Musti in Numidia (2000.05.13 – 2006.04.07)Auxiliary Bishop of Ljubljana (Slovenia) (2000.05.13 – 2006.04.07)Bishop of Novo Mesto (Slovenia) (2006.04.07 – 2021.06.30)Apostolic Administrator of Ljubljana (Slovenia) (2013.07.31 – 2014.10.04)President of Episcopal Conference of Slovenia (2013.07.31 – 2017.03.23)Special ChurchesCathedral:  Stolnica sv. Nikolaja, Novo Mesto, Novo Mesto Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (81)Show MapRijeka (↙), Ljubljana (↖), Celje (↗), Zagreb (→)Statistics (2022.12.31)Area: 2,160 km²Population: 133,814 Catholics (81.7% of 163,826 total)Pastoral Centres: 71 parishesPersonnel: 88 priests (74 diocesan, 14 religious), 3 deacons, 61 religious (17 brothers, 44 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nmes0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 163826,
+    "catholiques": 133814,
+    "pourcentage_catholiques": 81.7
+  },
+  "ressources": {
+    "pretres_diocesains": 74,
+    "pretres_religieux": null,
+    "total_pretres": 88,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 71
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ve-marg0",
+  "nom": "Margarita",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Margarita / Margariten(sis) (Latin)Ecclesiastical Province: CumanáNeighbouring Dioceses: Cumaná (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Nuestra Señora de la Asunción (August 15)Cathedral Dedication Anniversary: July 18Liturgical Calendar (National) 📅History1969.07.18: Established as Diocese of Margarita / Margariten(sis) (Latin) (from Diocese of Cumaná and became suffragan of Ciudad Bolívar)1992.05.16: Became suffragan of CumanáContact InfoAddress: Calle Unión 11.20, Apartado 1486311, La Asunción, Estado Nueva Esparta, VenezuelaPresent PrelatesBishop (2015.08.04 – ...):Bishop Fernando José Castro Aguayo, Opus Dei (74)Monsignors (8)OrdinariesBishops of Margarita (Roman Rite)Bishop Fernando José Castro Aguayo, Opus Dei (74)  (2015.08.04 – ...)Bishop of Margarita (Venezuela)Born:1951.07.29 (Caracas, Venezuela)Ordained Priest:1984.05.31Consecrated Bishop:2009.09.26Priest of Opus Dei (Italy) (1984.05.31 – 2009.06.27)Titular Bishop of Ampora (2009.06.27 – 2015.08.04)Auxiliary Bishop of Caracas (Venezuela) (2009.06.27 – 2015.08.04)Bishop of Margarita (Venezuela) (2015.08.04 – ...)Bishop Jorge Anibal Quintero Chacón (69)  (2008.12.19 – 2014.07.11)Bishop of Barcelona (Venezuela)Pastor y naveganteBorn:1956.07.23 (Queniquea, Venezuela)Ordained Priest:1981.06.27Consecrated Bishop:2009.03.07Priest of San Cristóbal de Venezuela (Venezuela) (1981.06.27 – 2008.12.19)Bishop of Margarita (Venezuela) (2008.12.19 – 2014.07.11)Bishop of Barcelona (Venezuela) (2014.07.11 – ...)Bishop Rafael Ramón Conde Alfonzo  (1999.03.18 – 2008.02.12)Born:1943.07.13 (Caracas, Venezuela)Ordained Priest:1968.12.08Consecrated Bishop:1996.01.06Died:2020.12.10 (Maracay, Venezuela † 77)Priest of Caracas (Venezuela) (1968.12.08 – 1995.12.02)Titular Bishop of Bapara (1995.12.02 – 1997.08.21)Auxiliary Bishop of Caracas (Venezuela) (1995.12.02 – 1997.08.21)Coadjutor Bishop of La Guaira (Venezuela) (1997.08.21 – 1999.03.18)Bishop of Margarita (Venezuela) (1999.03.18 – 2008.02.12)Bishop of Maracay (Venezuela) (2008.02.12 – 2019.07.19)Bishop César Ramón Ortega Herrera  (1983.08.25 – 1998.07.15)Born:1938.07.16 (Salom, Venezuela)Ordained Priest:1963.06.30Consecrated Bishop:1983.10.28Died:2021.04.09 (Valencia, Venezuela † 82)Priest of Ciudad Bolívar (Venezuela) (1963.06.30 – 1983.08.25)Chaplain of His Holiness (1974.02.22 – 1983.08.25)Bishop of Margarita (Venezuela) (1983.08.25 – 1998.07.15)Apostolic Administrator of Barcelona (Venezuela) (1997.06.21 – 1998.07.15)Bishop of Barcelona (Venezuela) (1998.07.15 – 2014.01.20)Bishop Tulio Manuel Chirivella Varela (later Archbishop)  (1974.04.05 – 1982.10.18)Me gastaré y desgastaré para la gloria de DiosBorn:1932.11.14 (Aguirre, Venezuela)Ordained Priest:1956.11.11Consecrated Bishop:1974.06.09Died:2021.04.10 (Miami, FL, USA † 88)Priest of Barquisimeto (Venezuela) (1956.11.11 – 1974.04.05)Bishop of Margarita (Venezuela) (1974.04.05 – 1982.10.18)Metropolitan Archbishop of Barquisimeto (Venezuela) (1982.10.18 – 2007.12.22)Second Vice-President of Latin American Episcopal Council (1991 – 1995)President of Episcopal Conference of Venezuela (1996 – 1999)Bishop Francisco de Guruceaga Iturriza, Opus Dei  (1969.06.18 – 1973.10.02)Born:1928.01.28 (Valencia, Venezuela)Ordained Priest:1960.08.14Consecrated Bishop:1967.05.21Died:2012.02.10 († 84)Titular Bishop of Villa regis (1967.03.31 – 1969.06.18)Auxiliary Bishop of Ciudad Bolívar (Venezuela) (1967.03.31 – 1969.06.18)Bishop of Margarita (Venezuela) (1969.06.18 – 1973.10.02)Bishop of La Guaira (Venezuela) (1973.10.02 – 2001.10.18)Special ChurchesCathedral:  Catedral Nuestra Señora de La Asunción, Isla de Margarita, Nueva Esparta Minor Basilica:  Basílica Menor Nuestra Señora del Valle, Isla de Margarita, Nueva Esparta Show MapCumaná (↓)Statistics (2022.12.31)Area: 1,150 km²Population: 459,000 Catholics (75.0% of 612,000 total)Pastoral Centres: 29 parishes, 50 missionsPersonnel: 28 priests (27 diocesan, 1 religious), 13 deacons, 24 religious (2 brothers, 22 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "marg0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 612000,
+    "catholiques": 459000,
+    "pourcentage_catholiques": 75.0
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 28,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

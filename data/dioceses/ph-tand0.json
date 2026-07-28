@@ -1,0 +1,29 @@
+{
+  "id": "ph-tand0",
+  "nom": "Tandag",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Tandag / Tandagen(sis) (Latin)Ecclesiastical Province: Cagayan de OroNeighbouring Dioceses: Prosperidad (↙), Butuan (←), Surigao (↖), Caroline Islands (→), Mati (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Nicholas of Tolentino (September 10), Saint Pius of Pietrelcina (June 16)Liturgical Calendar (National) 📅History1978.12.09: Established as Diocese of Tandag / Tandagen(sis) (Latin) (from Diocese of Surigao and became suffragan of Cagayan de Oro)Present PrelatesBishop (2018.02.26 – ...):Bishop Raul Bautista Dael (59)Monsignors (1)OrdinariesBishops of Tandag (Roman Rite)Bishop Raul Bautista Dael (59)  (2018.02.26 – ...)Bishop of Tandag (Philippines)Duc in altumBorn:1966.10.10 (Jasa-an, Philippines)Ordained Priest:1993.06.07Consecrated Bishop:2018.06.07Priest of Cagayan de Oro (Philippines) (1993.06.07 – 2018.02.26)Bishop of Tandag (Philippines) (2018.02.26 – ...)Bishop Nereo Page Odchimar  (2001.10.18 – 2018.02.26)Duc in altumBorn:1940.10.16 (Bacuad, Philippines)Ordained Priest:1964.12.19Consecrated Bishop:2001.11.27Died:2024.02.01 (Davao, Philippines † 83)Priest of Surigao (Philippines) (1964.12.19 – 2001.10.18)Priest of Manila (Philippines) (1977 – 2001.10.18)Chaplain of His Holiness (1997.06.15 – 2001.10.18)Bishop of Tandag (Philippines) (2001.10.18 – 2018.02.26)President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.) (2009.12.01 – 2011.12.01)Bishop Ireneo Ali Amantillo, C.SS.R.  (1978.12.09 – 2001.10.18)Soli DeoBorn:1934.12.10 (Alimodian, Philippines)Ordained Priest:1962.12.16Consecrated Bishop:1976.03.15Died:2018.10.11 (Cebu City, Philippines † 83)Titular Bishop of Girus (1976.01.02 – 1978.12.09)Auxiliary Bishop of Cagayan de Oro (Philippines) (1976.01.02 – 1978.12.09)Bishop of Tandag (Philippines) (1978.12.09 – 2001.10.18)Special ChurchesCathedral:  New Cathedral of San Nicolas de Tolentino, Tandag City, Surigao del Sur, Caraga Former Cathedral (now secular):  Cathedral of San Nicolas de Tolentino, Tandag City, Surigao del Sur, Caraga Jubilee Churches in the Holy Year 2025Churches by City (29)Show MapProsperidad (↙), Butuan (←), Surigao (↖), Caroline Islands (→), Mati (↓)Statistics (2022.12.31)Area: 4,933 km²Population: 600,144 Catholics (78.6% of 763,780 total)Pastoral Centres: 34 parishesPersonnel: 68 priests (61 diocesan, 7 religious), 42 religious (7 brothers, 35 sisters), 36 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tand0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 763780,
+    "catholiques": 600144,
+    "pourcentage_catholiques": 78.6
+  },
+  "ressources": {
+    "pretres_diocesains": 61,
+    "pretres_religieux": null,
+    "total_pretres": 68,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 34
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

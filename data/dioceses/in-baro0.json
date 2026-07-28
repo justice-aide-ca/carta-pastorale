@@ -1,0 +1,29 @@
+{
+  "id": "in-baro0",
+  "nom": "Baroda",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Baroda / Baroden(sis) (Latin)Ecclesiastical Province: GandhinagarNeighbouring Dioceses: Rajkot (←), Ahmedabad (↖), Gandhinagar (↑), Udaipur (↑), Jhabua (→), Nashik (↓), Vasai (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady of the Rosary, Saint Francis XavierLiturgical Calendar (National) 📅History1966.09.29: Established as Diocese of Baroda / Baroden(sis) (Latin) (from Metropolitan Archdiocese of Bombay and became suffragan of Bombay)2002.10.11: Became suffragan of GandhinagarPresent PrelatesBishop (2022.12.31 – ...):Bishop Sebastião Mascarenhas, S.F.X. (66)Monsignors (1)OrdinariesBishops of Baroda (Roman Rite)Bishop Sebastião Mascarenhas, S.F.X. (66)  (2022.12.31 – ...)Bishop of Baroda (India)Born:1959.07.29 (Camurlim, India)Ordained Priest:1984.05.06Consecrated Bishop:2023.02.18Superior General of Society of the Missionaries of Saint Francis Xavier (Pilar Fathers) (2017.08.10 – 2022.12.31)Bishop of Baroda (India) (2022.12.31 – ...)Archbishop Stanislaus Fernandes, S.J. (86)  (Apostolic Administrator 2016.05.23 – 2022.12.31)Bishop Godfrey de Rozario, S.J. (79)  (1997.08.29 – 2021.12.18)Bishop emeritus of Baroda (India)Serving with loveBorn:1946.09.13 (Ahmadabad, India)Ordained Priest:1978.04.22Consecrated Bishop:1997.12.28Bishop of Baroda (India) (1997.08.29 – 2021.12.18)Bishop Francis Leo Braganza, S.J.  (1987.04.27 – 1997.08.29)Born:1922.01.29 (Mumbai, India)Ordained Priest:1951.11.21Consecrated Bishop:1987.06.29Died:2011.12.21 († 89)Bishop of Baroda (India) (1987.04.27 – 1997.08.29)Bishop Ignatius Salvador D’Souza  (1966.09.29 – 1986.01.19)Born:1912.02.13 (Calangute, India)Ordained Priest:1938.11.27Consecrated Bishop:1966.11.30Died:1986.01.19 († 73)Bishop of Baroda (India) (1966.09.29 – 1986.01.19)Special ChurchesCathedral:  Our Lady of the Rosary Cathedral, Vadodara, Gujarāt Show MapRajkot (←), Ahmedabad (↖), Gandhinagar (↑), Udaipur (↑), Jhabua (→), Nashik (↓), Vasai (↓)Statistics (2022.12.31)Area: 40,365 km²Population: 97,980 Catholics (0.4% of 25,252,200 total)Pastoral Centres: 47 parishes, 9 missionsPersonnel: 169 priests (47 diocesan, 122 religious), 494 religious (136 brothers, 358 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "baro0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 25252200,
+    "catholiques": 97980,
+    "pourcentage_catholiques": 0.4
+  },
+  "ressources": {
+    "pretres_diocesains": 47,
+    "pretres_religieux": null,
+    "total_pretres": 169,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

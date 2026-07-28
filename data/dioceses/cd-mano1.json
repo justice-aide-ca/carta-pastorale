@@ -1,0 +1,29 @@
+{
+  "id": "cd-mano1",
+  "nom": "Manono",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Manono / Manonen(sis) (Latin)Ecclesiastical Province: LubumbashiNeighbouring Dioceses: Kamina (↙), Kongolo (↑), Kalemie–Kirungu (→), Kilwa–Kasenga (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1971.04.24: Established as Diocese of Manono / Manonen(sis) (Latin) (from Diocese of Baudouinville, Diocese of Kilwa and Diocese of Kongolo and became suffragan of Lubumbashi)Present PrelatesBishop (2005.03.18 – ...):Bishop Vincent de Paul Kwanga Ndjibu (70)Monsignors (1)OrdinariesBishops of Manono (Roman Rite)Bishop Vincent de Paul Kwanga Ndjibu (70)  (2005.03.18 – ...)Bishop of Manono (Congo-Kinshasa)Born:1956.01.24 (Budi, Congo-Kinshasa)Ordained Priest:1985.08.31Consecrated Bishop:2005.06.18Priest of Kongolo (Congo-Kinshasa) (1985.08.31 – 2005.03.18)Bishop of Manono (Congo-Kinshasa) (2005.03.18 – ...)Bishop Jean-Anatole Kalala Kaseba (79)  (Apostolic Administrator 2004 – 2005.03.18)Archbishop Floribert Songasonga Mwitwa  (Apostolic Administrator 2001.12.21 – 2004.04.07)Bishop Nestor Ngoy Katahwa (83)  (1989.09.25 – 2000.11.16)Bishop emeritus of Kolwezi (Congo-Kinshasa)Born:1943.03.24 (Nonge, Congo-Kinshasa)Ordained Priest:1970.08.23Consecrated Bishop:1990.02.26Bishop of Manono (Congo-Kinshasa) (1989.09.25 – 2000.11.16)Bishop of Kolwezi (Congo-Kinshasa) (2000.11.16 – 2022.01.11)Bishop Gérard Ngoy Kabwe  (1972.05.06 – 1989.09.25)Born:1918.04.14 (Malemba-Nkulu, Congo-Kinshasa)Ordained Priest:1948.09.26Consecrated Bishop:1972.09.24Died:2004.05.30 († 86)Priest of Manono (Congo-Kinshasa) (1948.09.26 – 1972.05.06)Apostolic Administrator of Manono (Congo-Kinshasa) (1971.04.24 – 1972.05.06)Bishop of Manono (Congo-Kinshasa) (1972.05.06 – 1989.09.25)Fr. Gérard Ngoy Kabwe (later Bishop)  (Apostolic Administrator 1971.04.24 – 1972.05.06)Special ChurchesCathedral:  Cathédrale Sainte-Barbe, Manono, Tanganyika Show MapKamina (↙), Kongolo (↑), Kalemie–Kirungu (→), Kilwa–Kasenga (↘)Statistics (2022.12.31)Area: 45,000 km²Population: 235,388 Catholics (19.6% of 1,198,856 total)Pastoral Centres: 17 parishes, 7 missionsPersonnel: 35 priests (33 diocesan, 2 religious), 12 religious (2 brothers, 10 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mano1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1198856,
+    "catholiques": 235388,
+    "pourcentage_catholiques": 19.6
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

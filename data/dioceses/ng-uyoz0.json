@@ -1,0 +1,29 @@
+{
+  "id": "ng-uyoz0",
+  "nom": "Uyo",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Uyo / Uyoën(sis) (Latin)Ecclesiastical Province: CalabarNeighbouring Dioceses: Port Harcourt (↙), Ikot Ekpene (←), Umuahia (↖), Calabar (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1989.07.04: Established as Diocese of Uyo / Uyoën(sis) (Latin) (from Diocese of Calabar and became suffragan of Onitsha)1994.03.26: Became suffragan of CalabarPresent PrelatesBishop (2014.07.05 – ...):Bishop John Ebebe Ayah (66)Monsignors (2)OrdinariesBishops of Uyo (Roman Rite)Bishop John Ebebe Ayah (66)  (2014.07.05 – ...)Bishop of Uyo (Nigeria)Ut Deus ametusBorn:1959.12.10 (Buja-Obanliku, Nigeria)Ordained Priest:1993.07.24Consecrated Bishop:2007.01.06Priest of Ogoja (Nigeria) (1993.07.24 – 2006.10.14)Bishop of Ogoja (Nigeria) (2006.10.14 – 2014.07.05)Apostolic Administrator of Ogoja (Nigeria) (2014.07.05 – 2017.04.09)Bishop of Uyo (Nigeria) (2014.07.05 – ...)Bishop Joseph Effiong Ekuwem (76) (later Archbishop)  (1989.07.04 – 2013.02.02)Metropolitan Archbishop of Calabar (Nigeria)Omnia ad DeumBorn:1949.12.18 (Offi Udah, Nigeria)Ordained Priest:1979.06.30Consecrated Bishop:1989.12.09Priest of Calabar (Nigeria) (1979.06.30 – 1989.07.04)Bishop of Uyo (Nigeria) (1989.07.04 – 2013.02.02)Metropolitan Archbishop of Calabar (Nigeria) (2013.02.02 – ...)Special ChurchesCathedral:  Christ the King Cathedral, Uyo, Akwa Ibom Show MapPort Harcourt (↙), Ikot Ekpene (←), Umuahia (↖), Calabar (→)Statistics (2022.12.31)Area: 8,342 km²Population: 988,158 Catholics (12.6% of 7,873,000 total)Pastoral Centres: 92 parishesPersonnel: 119 priests (115 diocesan, 4 religious), 65 religious (4 brothers, 61 sisters), 35 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "uyoz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 7873000,
+    "catholiques": 988158,
+    "pourcentage_catholiques": 12.6
+  },
+  "ressources": {
+    "pretres_diocesains": 115,
+    "pretres_religieux": null,
+    "total_pretres": 119,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 92
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

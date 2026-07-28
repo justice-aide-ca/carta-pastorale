@@ -1,0 +1,29 @@
+{
+  "id": "es-huel0",
+  "nom": "Huelva",
+  "pays": "es",
+  "pays_nom": "Spain",
+  "continent": "unknown",
+  "type": "Diocese Name: Huelva / Huelven(sis) (Latin) / Onuben(sis) (Latin)Ecclesiastical Province: SevillaNeighbouring Dioceses: Faro (←), Beja (↖), Mérida–Badajoz (↑), Sevilla (→), Jerez de la Frontera (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsCathedral Dedication Anniversary: February 12Liturgical Calendar 📅History1953.10.22: Established as Diocese of Huelva / Huelven(sis) (Latin) / Onuben(sis) (Latin) (from Metropolitan Archdiocese of Sevilla and became suffragan of Sevilla)Papal VisitsPope John Paul II (1993.06)Present PrelatesBishop (2020.06.15 – ...):Bishop Santiago Gómez Sierra (68)Monsignors (2)OrdinariesBishops of Huelva (Roman Rite)Bishop Santiago Gómez Sierra (68)  (2020.06.15 – ...)Bishop of Huelva (Spain)Pacificans per sanguinem ejusBorn:1957.11.24 (Madridejos, Spain)Ordained Priest:1982.09.18Consecrated Bishop:2011.02.26Priest of Córdoba (Spain) (1982.09.18 – 2010.12.18)Titular Bishop of Vergi (2010.12.18 – 2020.06.15)Auxiliary Bishop of Sevilla (Spain) (2010.12.18 – 2020.06.15)Bishop of Huelva (Spain) (2020.06.15 – ...)Bishop José Vilaplana Blasco (81)  (2006.07.17 – 2020.06.15)Bishop emeritus of Huelva (Spain)Christus vita nostraBorn:1944.12.05 (Benimarfull, Spain)Ordained Priest:1972.05.25Consecrated Bishop:1984.12.27Priest of Valencia (Spain) (1972.05.25 – 1984.11.20)Titular Bishop of Bladia (1984.11.20 – 1991.08.23)Auxiliary Bishop of Valencia (Spain) (1984.11.20 – 1991.08.23)Bishop of Santander (Spain) (1991.08.23 – 2006.07.17)Bishop of Huelva (Spain) (2006.07.17 – 2020.06.15)Bishop Ignacio Noguer Carmona  (1993.10.27 – 2006.07.17)Born:1931.01.13 (Sevilla, Spain)Ordained Priest:1956.06.17Consecrated Bishop:1976.10.17Died:2019.10.03 (Huelva, Spain † 88)Bishop of Guadix (Spain) (1976.09.10 – 1990.10.19)Coadjutor Bishop of Huelva (Spain) (1990.10.19 – 1993.10.27)Bishop of Huelva (Spain) (1993.10.27 – 2006.07.17)Bishop Rafael González Moralejo  (1969.11.28 – 1993.10.27)Born:1918.05.19 (Valencia, Spain)Ordained Priest:1945.06.29Consecrated Bishop:1958.05.04Died:2004.05.29 (Huelva, Spain † 86)Titular Bishop of Dardanus (1958.02.25 – 1969.11.28)Auxiliary Bishop of Valencia (Spain) (1958.02.25 – 1969.11.28)Bishop of Huelva (Spain) (1969.11.28 – 1993.10.27)Bishop José María García Lahiguera (later Archbishop)  (1964.07.07 – 1969.07.01)Sacerdos et hostiaBorn:1903.03.09 (Fitero, Spain)Ordained Priest:1926.05.29Consecrated Bishop:1950.10.29Died:1989.07.14 († 86)Priest of Madrid y Alcalá de Henares (Spain) (1926.05.29 – 1950.05.17)Titular Bishop of Zela (1950.05.17 – 1964.07.07)Auxiliary Bishop of Madrid (Spain) (1950.05.17 – 1964.07.07)Bishop of Huelva (Spain) (1964.07.07 – 1969.07.01)Metropolitan Archbishop of Valencia (Spain) (1969.07.01 – 1978.05.25)Bishop Pedro Cantero Cuadrado (later Archbishop)  (1953.10.23 – 1964.05.20)Born:1902.02.23 (Carrión de los Condes, Spain)Ordained Priest:1926.03.22Consecrated Bishop:1952.04.27Died:1978.12.19 († 76)Bishop of Barbastro (Spain) (1951.12.19 – 1953.10.23)Bishop of Huelva (Spain) (1953.10.23 – 1964.05.20)Metropolitan Archbishop of Zaragoza (Spain) (1964.05.20 – 1977.06.03)Former PrelatesCoadjutor Bishop: Bishop Ignacio Noguer Carmona (1990.10.19 – 1993.10.27)Special ChurchesCathedral:  Catedral de Nuestra Señora de la Merced, Huelva, Huelva, Andalucía National Shrine:  Santuario Nacional de Nuestra Señora del Rocío, El Rocío, Huelva, Andalucía Jubilee Churches in the Holy Year 2025Show MapFaro (←), Beja (↖), Mérida–Badajoz (↑), Sevilla (→), Jerez de la Frontera (↘)Statistics (2022.12.31)Area: 10,127 km²Population: 502,325 Catholics (95.0% of 528,763 total)Pastoral Centres: 173 parishes, 64 missionsPersonnel: 134 priests (113 diocesan, 21 religious), 16 deacons, 261 religious (22 brothers, 239 sisters), 15 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "huel0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 528763,
+    "catholiques": 502325,
+    "pourcentage_catholiques": 95.0
+  },
+  "ressources": {
+    "pretres_diocesains": 113,
+    "pretres_religieux": null,
+    "total_pretres": 134,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 173
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

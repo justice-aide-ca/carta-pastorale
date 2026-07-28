@@ -1,0 +1,29 @@
+{
+  "id": "pe-luri0",
+  "nom": "Lurín",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Lurín / Lurinen(sis) (Latin)Ecclesiastical Province: LimaNeighbouring Dioceses: Callao (↖), Lima (↑)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1996.12.14: Established as Diocese of Lurín / Lurinen(sis) (Latin) (from Metropolitan Archdiocese of Lima and became suffragan of Lima)Present PrelatesBishop (2006.06.17 – ...):Bishop Carlos Enrique García Camader (71)President of Episcopal Conference of PeruOrdinariesBishops of Lurín (Roman Rite)Bishop Carlos Enrique García Camader (71)  (2006.06.17 – ...)Bishop of Lurín (Peru)President of Episcopal Conference of PeruNo temasBorn:1954.08.14 (Lima, Peru)Ordained Priest:1981.12.08Consecrated Bishop:2002.04.07Priest of Lima (Peru) (1981.12.08 – 2002.02.16)Titular Bishop of Villamagna in Proconsulari (2002.02.16 – 2006.06.17)Auxiliary Bishop of Lima (Peru) (2002.02.16 – 2006.06.17)Bishop of Lurín (Peru) (2006.06.17 – ...)Second Vice-President of Episcopal Conference of Peru (2023.08.23 – 2024.08.24)Vice-President of Episcopal Conference of Peru (2024.08.24 – 2025.01.22)President of Episcopal Conference of Peru (2025.01.22 – ...)Bishop José Ramón Gurruchaga Ezama, S.D.B.  (1996.12.14 – 2006.06.17)Born:1931.03.29 (Baracaldo, Spain)Ordained Priest:1961.02.11Consecrated Bishop:1987.02.28Died:2017.04.11 (Lima, Peru † 86)Bishop of Huaraz (Peru) (1987.01.03 – 1996.12.14)Bishop of Lurín (Peru) (1996.12.14 – 2006.06.17)Former PrelatesAuxiliary Bishop: Bishop Salvador Piñeiro García-Calderón (77) (later Archbishop) (2003.07.08 – 2006.07.17)Special ChurchesCathedral:  Catedral San Pedro, Lurín, Municipalidad Metropolitana de Lima Jubilee Churches in the Holy Year 2025Show MapCallao (↖), Lima (↑)Statistics (2022.12.31)Area: 808 km²Population: 1,314,700 Catholics (77.0% of 1,707,290 total)Pastoral Centres: 54 parishes, 2 missionsPersonnel: 90 priests (62 diocesan, 28 religious), 2 deacons, 183 religious (60 brothers, 123 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "luri0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1707290,
+    "catholiques": 1314700,
+    "pourcentage_catholiques": 77.0
+  },
+  "ressources": {
+    "pretres_diocesains": 62,
+    "pretres_religieux": null,
+    "total_pretres": 90,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 54
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

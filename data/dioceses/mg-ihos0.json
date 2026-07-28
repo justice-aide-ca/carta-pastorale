@@ -1,0 +1,29 @@
+{
+  "id": "mg-ihos0",
+  "nom": "Ihosy",
+  "pays": "mg",
+  "pays_nom": "Madagascar",
+  "continent": "unknown",
+  "type": "Diocese Name: Ihosy / Ihosien(sis) (Latin)Ecclesiastical Province: FianarantsoaNeighbouring Dioceses: Toliara (↙), Morombe (↖), Fianarantsoa (↑), Farafangana (→), Tôlagnaro (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1967.04.13: Established as Diocese of Ihosy / Ihosien(sis) (Latin) (from Diocese of Farafangana and Diocese of Fort-Dauphin and became suffragan of Fianarantsoa)Present PrelatesBishop (2011.07.16 – ...):Bishop Fulgence Razakarivony, M.S. (62)OrdinariesBishops of Ihosy (Roman Rite)Bishop Fulgence Razakarivony, M.S. (62)  (2011.07.16 – ...)Bishop of Ihosy (Madagascar)Born:1963.08.16 (Betsiholany, Madagascar)Ordained Priest:1993.08.08Consecrated Bishop:2011.11.06Bishop of Ihosy (Madagascar) (2011.07.16 – ...)Bishop Philippe Ranaivomanana  (1999.01.02 – 2009.11.14)Born:1949.05.12 (Sarobatra, Madagascar)Ordained Priest:1977.10.16Consecrated Bishop:1999.05.13Died:2022.09.06 (Antsirabé, Madagascar † 73)General Secretary of Episcopal Conference of Madagascar (? – 2012)Bishop of Ihosy (Madagascar) (1999.01.02 – 2009.11.14)Bishop of Antsirabé (Madagascar) (2009.11.14 – 2022.09.06)Bishop Jean-Guy Rakodondravahatra, M.S.  (1972.03.25 – 1996.09.21)Born:1934.02.02 (Tsarahonenana, Madagascar)Ordained Priest:1960.07.19Consecrated Bishop:1972.07.02Died:1996.09.21 († 62)Bishop of Ihosy (Madagascar) (1972.03.25 – 1996.09.21)President of Episcopal Conference of Madagascar (1992 – 1996)Bishop Luigi Dusio, C.M.  (1967.04.13 – 1970.11.02)Dispensatores mysterium DeiBorn:1920.05.02 (Casorzo, Italy)Ordained Priest:1946.12.21Consecrated Bishop:1967.10.22Died:1970.11.02 († 50)Bishop of Ihosy (Madagascar) (1967.04.13 – 1970.11.02)Special ChurchesCathedral:  Cathédrale Saint-Vincent de Paul, Ihosy, Fianarantsoa Show MapToliara (↙), Morombe (↖), Fianarantsoa (↑), Farafangana (→), Tôlagnaro (↓)Statistics (2022.12.31)Area: 40,900 km²Population: 168,870 Catholics (20.0% of 842,510 total)Pastoral Centres: 3 parishesPersonnel: 37 priests (22 diocesan, 15 religious), 200 religious (19 brothers, 181 sisters), 35 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ihos0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 842510,
+    "catholiques": 168870,
+    "pourcentage_catholiques": 20.0
+  },
+  "ressources": {
+    "pretres_diocesains": 22,
+    "pretres_religieux": null,
+    "total_pretres": 37,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 3
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

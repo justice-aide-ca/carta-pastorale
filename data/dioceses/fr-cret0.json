@@ -1,0 +1,29 @@
+{
+  "id": "fr-cret0",
+  "nom": "Créteil",
+  "pays": "fr",
+  "pays_nom": "France",
+  "continent": "unknown",
+  "type": "Diocese Name: Créteil / Christolien(sis) (Latin)Ecclesiastical Province: ParisNeighbouring Dioceses: Évry–Corbeil-Essonnes (↙), Nanterre (←), Paris (↖), Saint-Denis (↑), Meaux (↗)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Louis of France (August 25), Saint Denis de Paris (October 9), Saint Geneviève de Paris (January 3)Cathedral Dedication Anniversary: September 22 (2015)Liturgical Calendar 📅History1966.10.09: Established as Diocese of Créteil / Christolien(sis) (Latin) (from Metropolitan Archdiocese of Paris and Diocese of Versailles and became suffragan of Paris)Present PrelatesBishop (2021.01.09 – ...):Bishop Dominique Blanchet (60)Bishop-Prelate of Mission de France (France)Monsignors (3)OrdinariesBishops of Créteil (Roman Rite)Bishop Dominique Blanchet (60)  (2021.01.09 – ...)Bishop of Créteil (France)Bishop-Prelate of Mission de France (France)Mets ta joie dans le SeigneurBorn:1966.02.15 (Cholet, France)Ordained Priest:1999.06.27Consecrated Bishop:2015.07.12Priest of Angers (France) (1999.06.27 – 2015.05.21)Bishop of Belfort–Montbéliard (France) (2015.05.21 – 2021.01.09)Vice-President of Bishops’ Conference of France (2019.04.03 – 2025.04.02)Bishop of Créteil (France) (2021.01.09 – ...)Bishop-Prelate of Mission de France (France) (2025.05.21 – ...)Bishop Michel Léon Émile Santier (79)  (2007.09.04 – 2021.01.09)Bishop emeritus of Créteil (France)Que ma joie soit en vousBorn:1947.05.20 (Granville, France)Ordained Priest:1973.07.07Consecrated Bishop:2001.09.23Priest of Coutances (France) (1973.07.07 – 2001.06.19)Bishop of Luçon (France) (2001.06.19 – 2007.09.04)Bishop of Créteil (France) (2007.09.04 – 2021.01.09)Bishop Daniel Camille Victor Marie Labille  (1998.03.25 – 2007.09.04)Allez, il vous précède en GaliléeBorn:1932.10.15 (Nouvion-sur-Meuse, France)Ordained Priest:1956.04.15Consecrated Bishop:1978.09.17Died:2022.12.31 (Charleville-Meizères, France † 90)Titular Bishop of Fata (1978.06.26 – 1984.02.16)Auxiliary Bishop of Soissons (France) (1978.06.26 – 1984.02.16)Bishop of Soissons (France) (1984.02.16 – 1998.03.25)Bishop of Créteil (France) (1998.03.25 – 2007.09.04)Apostolic Administrator of Soissons (France) (2015.04.19 – 2015.10.30)Bishop François-Victor-Marie Frétellière, P.S.S.  (1981.08.13 – 1997.05.03)Born:1925.11.19 (Coron, France)Ordained Priest:1949.07.03Consecrated Bishop:1971.02.07Died:1997.05.03 († 71)Titular Bishop of Caudium (1971.01.02 – 1979.11.21)Auxiliary Bishop of Bordeaux (France) (1971.01.02 – 1979.11.21)Coadjutor Bishop of Créteil (France) (1979.11.21 – 1981.08.13)Bishop of Créteil (France) (1981.08.13 – 1997.05.03)Bishop Robert Marie-Joseph François de Provenchères  (1966.10.09 – 1981.08.13)Born:1907.03.10 (Moulins, France)Ordained Priest:1935.06.24Consecrated Bishop:1966.11.20Died:1992.03.17 (Thiais, France † 85)Priest of Paris (France) (1935.06.24 – 1966.10.09)Bishop of Créteil (France) (1966.10.09 – 1981.08.13)Former PrelatesCoadjutor Bishop: Bishop François-Victor-Marie Frétellière, P.S.S. (1979.11.21 – 1981.08.13)Special ChurchesCathedral:  Cathédrale Notre-Dame, Créteil, Val-de-Marne, Île-de-France Former Cathedral:  Église Saint-Louis et Saint-Nicolas, Choisy-le-Roi, Val-de-Marne, Île-de-France Churches by City (115)Show MapÉvry–Corbeil-Essonnes (↙), Nanterre (←), Paris (↖), Saint-Denis (↑), Meaux (↗)Statistics (2022.12.31)Area: 245 km²Population: 828,000 Catholics (58.6% of 1,414,100 total)Pastoral Centres: 385 parishesPersonnel: 121 priests (103 diocesan, 18 religious), 53 deacons, 387 religious (27 brothers, 360 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cret0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1414100,
+    "catholiques": 828000,
+    "pourcentage_catholiques": 58.6
+  },
+  "ressources": {
+    "pretres_diocesains": 103,
+    "pretres_religieux": null,
+    "total_pretres": 121,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 385
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

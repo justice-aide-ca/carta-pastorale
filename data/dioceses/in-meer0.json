@@ -1,0 +1,29 @@
+{
+  "id": "in-meer0",
+  "nom": "Meerut",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Meerut / Meeruten(sis) (Latin)Ecclesiastical Province: AgraNeighbouring Dioceses: Delhi (↙), Simla and Chandigarh (↑), Bijnor (↗), Bareilly (→), Agra (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Our Lady Mediatrix of all GracesLiturgical Calendar (National) 📅History1956.02.20: Established as Diocese of Meerut / Meeruten(sis) (Latin) (from Metropolitan Archdiocese of Agra and became suffragan of Agra)1972.03.23: Lost territory to establish Apostolic Exarchate of BijnorPresent PrelatesBishop (2024.01.13 – ...):Bishop Bhaskar Jesuraj (60)OrdinariesBishops of Meerut (Roman Rite)Bishop Bhaskar Jesuraj (60)  (2024.01.13 – ...)Bishop of Meerut (India)Born:1966.04.11 (Tanjore, India)Ordained Priest:1993.04.21Consecrated Bishop:2024.03.03Priest of Agra (India) (1993.04.21 – 2024.01.13)Bishop of Meerut (India) (2024.01.13 – ...)Bishop Francis Kalist (68) (later Archbishop)  (2008.12.03 – 2022.03.19)Metropolitan Archbishop of Pondicherry and Cuddalore (India)For life and serviceBorn:1957.11.23 (Ritapuram, India)Ordained Priest:1982.12.30Consecrated Bishop:2009.02.08Priest of Meerut (India) (1982.12.30 – 2008.12.03)Bishop of Meerut (India) (2008.12.03 – 2022.03.19)Metropolitan Archbishop of Pondicherry and Cuddalore (India) (2022.03.19 – ...)Bishop Patrick Nair  (1974.04.05 – 2008.12.03)Seva aur premBorn:1932.08.15 (Delhi, India)Ordained Priest:1959.10.03Consecrated Bishop:1974.10.02Died:2017.10.07 (Dehra Dun, India † 85)Bishop of Meerut (India) (1974.04.05 – 2008.12.03)Archbishop Joseph Bartholomew Evangelisti, O.F.M. Cap.  (1956.02.29 – 1973.08.03)Born:1908.04.08 (Casa Calistri, Italy)Ordained Priest:1932.07.17Consecrated Bishop:1952.10.28Died:1976.04.19 († 68)Titular Archbishop of Brysis (1952.07.10 – 1956.02.29)Coadjutor Archbishop of Agra (India) (1952.07.10 – 1956.02.29)Archbishop-Bishop of Meerut (India) (1956.02.29 – 1973.08.03)Former PrelatesCoadjutor Bishop: Bishop Oswald Joseph Lewis (81) (1997.11.21 – 2005.07.20)Special ChurchesCathedral:  St. Joseph’s Cathedral, Meerut, Uttar Pradesh Minor Basilica:  Basilica of Our Lady of Graces, Sardhana, Uttar Pradesh Show MapDelhi (↙), Simla and Chandigarh (↑), Bijnor (↗), Bareilly (→), Agra (↓)Statistics (2022.12.31)Area: 28,337 km²Population: 33,584 Catholics (0.1% of 38,954,780 total)Pastoral Centres: 68 parishes, 55 missionsPersonnel: 141 priests (62 diocesan, 79 religious), 814 religious (138 brothers, 676 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "meer0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 38954780,
+    "catholiques": 33584,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 62,
+    "pretres_religieux": null,
+    "total_pretres": 141,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 68
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

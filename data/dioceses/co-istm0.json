@@ -1,0 +1,29 @@
+{
+  "id": "co-istm0",
+  "nom": "Istmina–Tadó",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Istmina–Tadó / Istminan(us)–Taduan(us) (Latin)Ecclesiastical Province: Santa Fe de AntioquiaNeighbouring Dioceses: Darién (↖), Quibdó (↑), Pereira (↗), Cartago (→), Buga (↘), Palmira (↓), Buenaventura (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1952.11.14: Established as Apostolic Vicariate of Istmina / Istminan(us) (Latin) (from Apostolic Prefecture of Chocó)1990.04.30: Promoted as Diocese of Istmina–Tadó / Istminan(us)–Taduan(us) (Latin) (became suffragan of Santa Fe de Antioquia)Present PrelatesBishop (2018.02.03 – ...):Bishop Mario de Jesús Álvarez Gómez (66)Monsignors (4)OrdinariesBishops of Istmina–Tadó (Roman Rite)Bishop Mario de Jesús Álvarez Gómez (66)  (2018.02.03 – ...)Bishop of Istmina–Tadó (Colombia)Ad gentesBorn:1959.10.19 (Palmitas, Colombia)Ordained Priest:1985.11.19Consecrated Bishop:2018.03.03Priest of Santa Rosa de Osos (Colombia) (1985.11.19 – 2018.02.03)Bishop of Istmina–Tadó (Colombia) (2018.02.03 – ...)Apostolic Administrator of Quibdó (Colombia) (2022.06.29 – 2024.07.05)Bishop Julio Hernando García Peláez (67)  (2010.06.05 – 2017.06.15)Bishop of Garagoa (Colombia)Born:1958.07.26 (Anserma, Colombia)Ordained Priest:1985.06.02Consecrated Bishop:2005.04.02Priest of Pereira (Colombia) (1985.06.02 – 2005.02.11)Titular Bishop of Bida (2005.02.11 – 2010.06.05)Auxiliary Bishop of Cali (Colombia) (2005.02.11 – 2010.06.05)Bishop of Istmina–Tadó (Colombia) (2010.06.05 – 2017.06.15)Apostolic Administrator of Quibdó (Colombia) (2011.03 – 2013.01.30)Bishop of Garagoa (Colombia) (2017.06.15 – ...)Bishop Alonso Llano Ruiz  (1993.05.05 – 2010.06.05)Born:1931.06.19 (Marulanda, Colombia)Ordained Priest:1973.01.06Consecrated Bishop:1993.05.29Died:2015.03.26 († 83)Priest of Sonsón–Rionegro (Colombia) (1973.01.06 – 1993.05.05)Bishop of Istmina–Tadó (Colombia) (1993.05.05 – 2010.06.05)Bishop Gustavo Posada Peláez, M.X.Y.  (1990.04.30 – 1993.05.05)Born:1917.02.12 (Fredonia, Colombia)Ordained Priest:1939.11.12Consecrated Bishop:1953.05.24Died:1999.12.08 († 82)Titular Bishop of Zaliche (1953.03.24 – 1990.04.30)Vicar Apostolic of Istmina (Colombia) (1953.03.24 – 1990.04.30)Bishop of Istmina–Tadó (Colombia) (1990.04.30 – 1993.05.05)Vicars Apostolic of Istmina (Roman Rite)Bishop Gustavo Posada Peláez, M.X.Y.  (1953.03.24 – 1990.04.30)(see above)Special ChurchesCathedral:  Catedral de San Pablo Apóstol, Istmina, Chocó Co-Cathedral:  Catedral de San José, Tadó, Chocó Jubilee Churches in the Holy Year 2025Show MapDarién (↖), Quibdó (↑), Pereira (↗), Cartago (→), Buga (↘), Palmira (↓), Buenaventura (↓)Statistics (2022.12.31)Area: 22,240 km²Population: 265,260 Catholics (88.4% of 300,000 total)Pastoral Centres: 63 parishesPersonnel: 61 priests (58 diocesan, 3 religious), 3 deacons, 54 religious (7 brothers, 47 sisters), 18 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "istm0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 300000,
+    "catholiques": 265260,
+    "pourcentage_catholiques": 88.4
+  },
+  "ressources": {
+    "pretres_diocesains": 58,
+    "pretres_religieux": null,
+    "total_pretres": 61,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 63
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "us-birm1",
+  "nom": "Birmingham",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Birmingham / Birminghamien(sis) in Alabama (Latin)Ecclesiastical Province: MobileNeighbouring Dioceses: Jackson (←), Memphis (↖), Nashville (↑), Knoxville (↗), Atlanta (→), Mobile (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Francis de Sales (January 24)Cathedral Dedication Anniversary: December 1Liturgical Calendar (National) 📅History1969.06.28: Established as Diocese of Birmingham / Birminghamien(sis) in Alabama (Latin) (from Diocese of Mobile–Birmingham and became suffragan of New Orleans)1980.07.29: Became suffragan of MobileContact InfoAddress: 2121 3rd Ave. North, P.O. Box 12047, Birmingham, AL 35202-2047, USAPhone: +1 (205) 838-8322Present PrelatesBishop (2020.03.25 – ...):Bishop Steven John Raica (73)Monsignors (7)OrdinariesBishops of Birmingham (Roman Rite)Bishop Steven John Raica (73)  (2020.03.25 – ...)Bishop of Birmingham (USA)Sursum cordaBorn:1952.11.08 (Munising, MI, USA)Ordained Priest:1978.10.14Consecrated Bishop:2014.08.28Priest of Lansing (USA) (1978.10.14 – 2014.06.27)Prelate of Honour of His Holiness (1998.03.14 – 2014.06.27)Bishop of Gaylord (USA) (2014.06.27 – 2020.03.25)Bishop of Birmingham (USA) (2020.03.25 – ...)Bishop Robert Joseph Baker (82)  (2007.08.14 – 2020.03.25)Bishop emeritus of Birmingham (USA)Rejoicing in hopeBorn:1944.06.04 (Willard, OH, USA)Ordained Priest:1970.03.21Consecrated Bishop:1999.09.29Priest of Saint Augustine (USA) (1970.03.21 – 1999.07.12)Bishop of Charleston (USA) (1999.07.12 – 2007.08.14)Bishop of Birmingham (USA) (2007.08.14 – 2020.03.25)Bishop David Edward Foley  (Apostolic Administrator 2005.05.19 – 2007.08.14)Bishop David Edward Foley  (1994.03.22 – 2005.05.10)Sursum cordaBorn:1930.02.03 (Worcester, MA, USA)Ordained Priest:1952.05.26Consecrated Bishop:1986.06.27Died:2018.04.17 (Birmingham, AL, USA † 88)Priest of Washington (USA) (1952.05.26 – 1986.05.03)Titular Bishop of Octaba (1986.05.03 – 1994.03.22)Auxiliary Bishop of Richmond (USA) (1986.05.03 – 1994.03.22)Bishop of Birmingham (USA) (1994.03.22 – 2005.05.10)Apostolic Administrator of Birmingham (USA) (2005.05.19 – 2007.08.14)Bishop Raymond James Boland  (1988.02.02 – 1993.06.22)Euntes docete omnes gentesBorn:1932.02.08 (Tipperary, Ireland)Ordained Priest:1957.06.16Consecrated Bishop:1988.03.25Died:2014.02.27 (Cork, Ireland † 82)Priest of Washington (USA) (1957.06.16 – 1988.02.02)Prelate of Honour of His Holiness (1978.06.26 – 1988.02.02)Bishop of Birmingham (USA) (1988.02.02 – 1993.06.22)Bishop of Kansas City–Saint Joseph (USA) (1993.06.22 – 2005.05.24)Bishop Joseph Gregory Vath  (1969.09.29 – 1987.07.14)Born:1918.03.12 (New Orleans, LA, USA)Ordained Priest:1941.06.07Consecrated Bishop:1966.05.26Died:1987.07.14 (Birmingham, AL, USA † 69)Priest of New Orleans (USA) (1941.06.07 – 1966.03.04)Titular Bishop of Novaliciana (1966.03.04 – 1969.09.29)Auxiliary Bishop of Mobile (USA) (1966.03.04 – 1969.09.29)Bishop of Birmingham (USA) (1969.09.29 – 1987.07.14)Special ChurchesCathedral:  Cathedral of St. Paul, Birmingham, Alabama Shrine:  Shrine of the Most Blessed Sacrament, Hanceville, Alabama Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (82)Show MapJackson (←), Memphis (↖), Nashville (↑), Knoxville (↗), Atlanta (→), Mobile (↓)Statistics (2022.12.31)Area: 72,728 km²Population: 113,241 Catholics (3.6% of 3,187,797 total)Pastoral Centres: 71 parishesPersonnel: 113 priests (84 diocesan, 29 religious), 76 deacons, 158 religious (54 brothers, 104 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "birm1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3187797,
+    "catholiques": 113241,
+    "pourcentage_catholiques": 3.6
+  },
+  "ressources": {
+    "pretres_diocesains": 84,
+    "pretres_religieux": null,
+    "total_pretres": 113,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 71
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "in-raig1",
+  "nom": "Raigarh",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Raigarh / Raigarhen(sis) (Latin)Ecclesiastical Province: RaipurNeighbouring Dioceses: Raipur (↙), Ambikapur (↑), Jashpur (↗), Rourkela (→), Sambalpur (↘)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: St. Michael the Archangel (September 29)Liturgical Calendar (National) 📅History1951.12.13: Established as Diocese of Raigarh–Ambikapur / Raigarhen(sis)–Ambikapuren(sis) (Latin) (from Diocese of Nagpur and Diocese of Ranchi and became suffragan of Calcutta)1977.11.10: Renamed as Diocese of Raigarh / Raigarhen(sis) (Latin) (lost territory to establish Diocese of Ambikapur)2004.02.27: Became suffragan of Raipur2006.03.23: Lost territory to establish Diocese of JashpurPresent PrelatesBishop (2006.03.23 – ...):Bishop Paul Toppo (69)OrdinariesBishops of Raigarh (Roman Rite)Bishop Paul Toppo (69)  (2006.03.23 – ...)Bishop of Raigarh (India)Abba paterBorn:1957.06.30 (Garla, India)Ordained Priest:1988.05.24Consecrated Bishop:2006.05.24Priest of Raigarh (India) (1988.05.24 – 2006.03.23)Bishop of Raigarh (India) (2006.03.23 – ...)Bishop Victor Kindo  (1985.11.25 – 2006.03.23)Born:1947.05.12 (Saraitoli, India)Ordained Priest:1974.12.14Consecrated Bishop:1986.01.20Died:2008.06.12 († 61)Priest of Raigarh (India) (1974.12.14 – 1985.11.25)Bishop of Raigarh (India) (1985.11.25 – 2006.03.23)Bishop of Jashpur (India) (2006.03.23 – 2008.06.12)Bishop Francis Ekka  (1977.11.10 – 1984.03.15)Born:1909.05.25 (Ginabahar, India)Ordained Priest:1937.11.14Consecrated Bishop:1968.03.30Died:1984.03.15 († 74)Bishop of Jalpaiguri (India) (1967.11.29 – 1971.04.24)Bishop of Raigarh–Ambikapur (India) (1971.04.24 – 1977.11.10)Bishop of Raigarh (India) (1977.11.10 – 1984.03.15)Bishops of Raigarh–Ambikapur (Roman Rite)Bishop Francis Ekka  (1971.04.24 – 1977.11.10)(see above)Bishop Stanislaus Tigga  (1957.12.24 – 1970.07.09)Born:1898.01.26 (Katkahi, India)Ordained Priest:1924.11.19Consecrated Bishop:1956.03.11Died:1970.07.09 († 72)Titular Bishop of Achelous (1955.11.07 – 1957.12.24)Coadjutor Bishop of Raigarh–Ambikapur (India) (1955.11.07 – 1957.12.24)Bishop of Raigarh–Ambikapur (India) (1957.12.24 – 1970.07.09)Bishop Oscar Sevrin, S.J.  (1951.12.13 – 1957.11.08)Born:1884.11.22 (Neuville Wanne, Belgium)Ordained Priest:1919.07.01Consecrated Bishop:1934.07.25Died:1975.05.01 (Kunkuri, India † 90)Bishop of Ranchi (India) (1934.04.09 – 1951.12.13)Bishop of Raigarh–Ambikapur (India) (1951.12.13 – 1957.11.08)Titular Bishop of Mossyna (1957.11.08 – 1975.05.01)Former PrelatesCoadjutor Bishop: Bishop Stanislaus Tigga (1955.11.07 – 1957.12.24)Special ChurchesCathedral:  Cathedral of St. Michael, Raigarh, Chhattīsgarh Show MapRaipur (↙), Ambikapur (↑), Jashpur (↗), Rourkela (→), Sambalpur (↘)Statistics (2022.12.31)Area: 7,086 km²Population: 75,557 Catholics (4.4% of 1,727,935 total)Pastoral Centres: 25 parishesPersonnel: 73 priests (63 diocesan, 10 religious), 137 religious (10 brothers, 127 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "raig1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1727935,
+    "catholiques": 75557,
+    "pourcentage_catholiques": 4.4
+  },
+  "ressources": {
+    "pretres_diocesains": 63,
+    "pretres_religieux": null,
+    "total_pretres": 73,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

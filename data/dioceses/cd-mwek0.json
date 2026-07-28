@@ -1,0 +1,29 @@
+{
+  "id": "cd-mwek0",
+  "nom": "Mweka",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Mweka / Mvekaën(sis) (Latin)Ecclesiastical Province: KanangaNeighbouring Dioceses: Idiofa (←), Inongo (↖), Kole (↑), Tshumbe (→), Kananga (↘), Luebo (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1953.03.24: Established as Apostolic Prefecture of Mweka / Mvekaën(sis) (Latin) (from Apostolic Vicariate of Luluabourg)1964.09.29: Promoted as Diocese of Mweka / Mvekaën(sis) (Latin) (became suffragan of Luluabourg)1972.08.24: Lost territory to Metropolitan Archdiocese of KanangaPresent PrelatesBishop (2017.02.18 – ...):Bishop Oscar Nkolo Kanowa, C.I.C.M. (68)OrdinariesBishops of Mweka (Roman Rite)Bishop Oscar Nkolo Kanowa, C.I.C.M. (68)  (2017.02.18 – ...)Bishop of Mweka (Congo-Kinshasa)Ut omnes unum sintBorn:1957.09.08 (Mbuji-Mayi, Congo-Kinshasa)Ordained Priest:1987.07.19Consecrated Bishop:2017.05.28Bishop of Mweka (Congo-Kinshasa) (2017.02.18 – ...)Bishop Gérard Mulumba Kalemba  (1989.01.19 – 2017.02.18)Born:1937.07.08 (Kananga, Congo-Kinshasa)Ordained Priest:1967.08.20Consecrated Bishop:1989.07.09Died:2020.04.15 (Kinshasa, Congo-Kinshasa † 82)Bishop of Mweka (Congo-Kinshasa) (1989.01.19 – 2017.02.18)Died of COVID-19. Archbishop Emery Kabongo Kanundowi (85)  (Apostolic Administrator 1988 – 1989.01.19)Bishop Marcel Evariste van Rengen, C.I.  (1964.09.29 – 1988.03.15)Born:1914.02.23 (Mol, Belgium)Ordained Priest:1939.08.06Consecrated Bishop:1964.12.03Died:1988.03.15 († 74)Prefect Apostolic of Mweka (Congo-Kinshasa) (1957 – 1964.09.29)Bishop of Mweka (Congo-Kinshasa) (1964.09.29 – 1988.03.15)Prefects Apostolic of Mweka (Roman Rite)Fr. Marcel Evariste van Rengen, C.I. (later Bishop)  (1957 – 1964.09.29)(see above)Bishop Bernard Mels, C.I.C.M. (later Archbishop)  (Apostolic Administrator 1953 – 1957)Special ChurchesCathedral:  Cathédrale Saint-Martin, Mweka, Kasaï Show MapIdiofa (←), Inongo (↖), Kole (↑), Tshumbe (→), Kananga (↘), Luebo (↓)Statistics (2022.12.31)Area: 21,700 km²Population: 467,000 Catholics (41.1% of 1,137,000 total)Pastoral Centres: 15 parishes, 32 missionsPersonnel: 51 priests (39 diocesan, 12 religious), 31 religious (18 brothers, 13 sisters), 35 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mwek0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1137000,
+    "catholiques": 467000,
+    "pourcentage_catholiques": 41.1
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 51,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

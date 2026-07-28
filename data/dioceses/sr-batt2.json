@@ -1,0 +1,29 @@
+{
+  "id": "sr-batt2",
+  "nom": "Batticaloa",
+  "pays": "sr",
+  "pays_nom": "Sri Lanka",
+  "continent": "unknown",
+  "type": "Diocese Name: Batticaloa / Batticaloaën(sis) (Latin)Ecclesiastical Province: ColomboNeighbouring Dioceses: Badulla (↙), Kandy (←), Trincomalee (↑), Galle (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (Universal) 📅History2012.07.03: Established as Diocese of Batticaloa / Batticaloaën(sis) (Latin) (from Diocese of Trincomalee–Batticaloa and became suffragan of Colombo)Present PrelatesBishop:vacantApostolic Administrator (2024.08.19 – ...):Bishop Anton Ranjith Pillainayagam (59)Bishop of Jaffna (Sri Lanka)OrdinariesBishops of Batticaloa (Roman Rite)Bishop Anton Ranjith Pillainayagam (59)  (Apostolic Administrator 2024.08.19 – ...)Bishop Joseph Ponniah  (2012.07.03 – 2024.08.19)For we are the aroma of Christ for God among those who are being savedBorn:1952.10.12 (Thannamunai, Sri Lanka)Ordained Priest:1980.04.30Consecrated Bishop:2008.05.24Died:2025.05.19 (Batticaloa, Sri Lanka † 72)Priest of Trincomalee–Batticaloa (Sri Lanka) (1980.04.30 – 2008.02.19)Titular Bishop of Mons in Mauretania (2008.02.19 – 2012.07.03)Auxiliary Bishop of Trincomalee–Batticaloa (Sri Lanka) (2008.02.19 – 2012.07.03)Bishop of Batticaloa (Sri Lanka) (2012.07.03 – 2024.08.19)Special ChurchesCathedral:  St. Mary’s Cathedral, Batticaloa, Eastern Show MapBadulla (↙), Kandy (←), Trincomalee (↑), Galle (↓)Statistics (2022.12.31)Area: 7,269 km²Population: 44,250 Catholics (3.4% of 1,319,450 total)Pastoral Centres: 33 parishesPersonnel: 60 priests (38 diocesan, 22 religious), 118 religious (41 brothers, 77 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "batt2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1319450,
+    "catholiques": 44250,
+    "pourcentage_catholiques": 3.4
+  },
+  "ressources": {
+    "pretres_diocesains": 38,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

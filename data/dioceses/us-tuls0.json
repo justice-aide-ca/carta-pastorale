@@ -1,0 +1,29 @@
+{
+  "id": "us-tuls0",
+  "nom": "Tulsa",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Tulsa / Tulsen(sis) (Latin)Ecclesiastical Province: Oklahoma CityNeighbouring Dioceses: Dallas (↙), Oklahoma City (←), Wichita (↖), Springfield–Cape Girardeau (↗), Little Rock (→), Tyler (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Holy FamilyCathedral Dedication Anniversary: May 12Liturgical Calendar 📅History1972.12.13: Established as Diocese of Tulsa / Tulsen(sis) (Latin) (from Diocese of Oklahoma City–Tulsa and became suffragan of Oklahoma City)Contact InfoAddress: 12300 E 91st St. South, Broken Arrow, OK 74012, USAPhone: +1 (918) 294-1904Present PrelatesBishop (2016.05.13 – ...):Bishop David Austin Konderla (66)Monsignors (7)OrdinariesBishops of Tulsa (Roman Rite)Bishop David Austin Konderla (66)  (2016.05.13 – ...)Bishop of Tulsa (USA)Nisi Dominus ædificaveritBorn:1960.06.03 (Bryan, TX, USA)Ordained Priest:1995.06.03Consecrated Bishop:2016.06.29Priest of Austin (USA) (1995.06.03 – 2016.05.13)Bishop of Tulsa (USA) (2016.05.13 – ...)Bishop Edward James Slattery  (1993.11.11 – 2016.05.13)Tu solus sanctusBorn:1940.08.11 (Chicago, IL, USA)Ordained Priest:1966.04.26Consecrated Bishop:1994.01.06Died:2024.09.13 (Tulsa, OK, USA † 84)Priest of Chicago (USA) (1966.04.26 – 1993.11.11)Bishop of Tulsa (USA) (1993.11.11 – 2016.05.13)Bishop Eusebius Joseph Beltran (later Archbishop)  (1978.02.17 – 1992.11.24)We are one in ChristBorn:1934.08.31 (Ashley, PA, USA)Ordained Priest:1960.05.14Consecrated Bishop:1978.04.20Died:2025.09.12 (Oklahoma City, OK, USA † 91)Priest of Atlanta (USA) (1960.05.14 – 1978.02.17)Bishop of Tulsa (USA) (1978.02.17 – 1992.11.24)Metropolitan Archbishop of Oklahoma City (USA) (1992.11.24 – 2010.12.16)Bishop Bernard James Ganter  (1972.12.13 – 1977.10.18)Born:1928.07.17 (Galveston, TX, USA)Ordained Priest:1952.05.22Consecrated Bishop:1973.02.07Died:1993.10.09 († 65)Priest of Galveston–Houston (USA) (1952.05.22 – 1972.12.13)Prelate of Honour of His Holiness (1969.01.14 – 1972.12.13)Bishop of Tulsa (USA) (1972.12.13 – 1977.10.18)Bishop of Beaumont (USA) (1977.10.18 – 1993.10.09)Special ChurchesCathedral:  Cathedral of the Holy Family, Tulsa, Oklahoma Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (80)Show MapDallas (↙), Oklahoma City (←), Wichita (↖), Springfield–Cape Girardeau (↗), Little Rock (→), Tyler (↓)Statistics (2022.12.31)Area: 68,394 km²Population: 60,800 Catholics (3.5% of 1,745,057 total)Pastoral Centres: 78 parishesPersonnel: 122 priests (88 diocesan, 34 religious), 95 deacons, 122 religious (83 brothers, 39 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tuls0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1745057,
+    "catholiques": 60800,
+    "pourcentage_catholiques": 3.5
+  },
+  "ressources": {
+    "pretres_diocesains": 88,
+    "pretres_religieux": null,
+    "total_pretres": 122,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 78
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "in-koth0",
+  "nom": "Kothamangalam",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Kothamangalam / Kothamangalamen(sis) (Latin)Ecclesiastical Province: Ernakulam–AngamalyNeighbouring Dioceses: Ernakulam–Angamaly (←), Irinjalakuda (↖), Idukki (↘), Palai (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Immaculate Heart of MaryHistory1956.07.29: Established as Diocese of Kothamangalam / Kothamangalamen(sis) (Latin) (from Metropolitan Archdiocese of Ernakulam and became suffragan of Ernakulam)2002.12.19: Lost territory to establish Diocese of IdukkiPresent PrelatesBishop (2013.01.10 – ...):Bishop George Madathikandathil (70)Monsignors (4)OrdinariesBishops of Kothamangalam (Syro-Malabar Rite)Bishop George Madathikandathil (70)  (2013.01.10 – ...)Bishop of Kothamangalam of the Syro-Malabars (India)Love never endsBorn:1956.05.09 (Purapuzha, India)Ordained Priest:1980.12.23Consecrated Bishop:2013.02.09Priest of Kothamangalam of the Syro-Malabars (India) (1980.12.23 – 2013.01.10)Bishop of Kothamangalam of the Syro-Malabars (India) (2013.01.10 – ...)Bishop George Punnakottil (89)  (1977.02.26 – 2013.01.07)Bishop emeritus of Kothamangalam of the Syro-Malabars (India)former Second Vice-President of Catholic Bishops’ Conference of IndiaBy his graceBorn:1936.09.13 (Thazhuvamkunnu, India)Ordained Priest:1961.10.18Consecrated Bishop:1977.04.24Priest of Kothamangalam of the Syro-Malabars (India) (1961.10.18 – 1977.02.26)Bishop of Kothamangalam of the Syro-Malabars (India) (1977.02.26 – 2013.01.07)Second Vice-President of Catholic Bishops’ Conference of India (2010.03.01 – 2013.01.07)Bishop Matthew Pothanamuzhi  (1956.07.29 – 1977.02.26)Born:1903.12.22 (Arakuzha, India)Ordained Priest:1932.10.02Consecrated Bishop:1956.11.18Died:1982.02.06 († 78)Priest of Ernakulam of the Syro-Malabars (India) (1932.10.02 – 1956.07.29)Bishop of Kothamangalam of the Syro-Malabars (India) (1956.07.29 – 1977.02.26)Special ChurchesCathedral:  St George’s Cathedral, Kothamangalam, Kerala Show MapErnakulam–Angamaly (←), Irinjalakuda (↖), Idukki (↘), Palai (↓)Statistics (2022.12.31)Area: 1,840 km²Population: 217,745 Catholics (25.4% of 856,262 total)Pastoral Centres: 120 parishesPersonnel: 476 priests (354 diocesan, 122 religious), 2,434 religious (184 brothers, 2,250 sisters), 51 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "koth0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 856262,
+    "catholiques": 217745,
+    "pourcentage_catholiques": 25.4
+  },
+  "ressources": {
+    "pretres_diocesains": 354,
+    "pretres_religieux": null,
+    "total_pretres": 476,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 120
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

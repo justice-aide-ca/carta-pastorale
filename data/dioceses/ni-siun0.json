@@ -1,0 +1,29 @@
+{
+  "id": "ni-siun0",
+  "nom": "Siuna",
+  "pays": "ni",
+  "pays_nom": "Nicaragua",
+  "continent": "unknown",
+  "type": "Diocese Name: Siuna (español) / Siunaën(sis) (Latin)Ecclesiastical Province: ManaguaNeighbouring Dioceses: Matagalpa (↙), Jinotega (←), Juticalpa (↖), Trujillo (↑), Bluefields (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (Universal) 📅History2017.11.30: Established as Diocese of Siuna (español) / Siunaën(sis) (Latin) (from Apostolic Vicariate of Bluefields and became suffragan of Managua)Present PrelatesBishop (2021.04.08 – ...):Bishop Isidoro del Carmen Mora Ortega (56)OrdinariesBishops of Siuna (Roman Rite)Bishop Isidoro del Carmen Mora Ortega (56)  (2021.04.08 – ...)Bishop of Siuna (Nicaragua)Born:1970.03.05 (Matagalpa, Nicaragua)Ordained Priest:2003.09.20Consecrated Bishop:2021.06.26Priest of Matagalpa (Nicaragua) (2003.09.20 – 2021.04.08)Bishop of Siuna (Nicaragua) (2021.04.08 – ...)Bishop Pablo Ervin Schmitz Simon, O.F.M. Cap. (82)  (Apostolic Administrator 2020.01.09 – 2021.04.08)Bishop David Albin Zywiec Sidor, O.F.M. Cap.  (2017.11.30 – 2020.01.05)Born:1947.07.15 (East Chicago, IN, USA)Ordained Priest:1974.06.01Consecrated Bishop:2002.09.13Died:2020.01.05 (Managua, Nicaragua † 72)Titular Bishop of Giru Marcelli (2002.06.24 – 2017.11.30)Auxiliary Bishop of Bluefields (Nicaragua) (2002.06.24 – 2017.11.30)Bishop of Siuna (Nicaragua) (2017.11.30 – 2020.01.05)Special ChurchesCathedral:  Catedral Nuestra Señora de Guadalupe, Siuna, Atlántico Norte Pro-Cathedral:  Catedral Pro-Témpore Nuestro Señor de Esquipulas, Siuna, Atlántico Norte Show MapMatagalpa (↙), Jinotega (←), Juticalpa (↖), Trujillo (↑), Bluefields (↓)Statistics (2022.12.31)Area: 47,385 km²Population: 295,081 Catholics (45.4% of 649,244 total)Pastoral Centres: 18 parishesPersonnel: 19 priests (18 diocesan, 1 religious), 73 religious (39 brothers, 34 sisters), 41 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "siun0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 649244,
+    "catholiques": 295081,
+    "pourcentage_catholiques": 45.4
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 19,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

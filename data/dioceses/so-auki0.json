@@ -1,0 +1,29 @@
+{
+  "id": "so-auki0",
+  "nom": "Auki",
+  "pays": "so",
+  "pays_nom": "Solomon Islands",
+  "continent": "oceanie",
+  "type": "Diocese Name: Auki / Aukin(us) (Latin)Ecclesiastical Province: HoniaraNeighbouring Dioceses: Honiara (↙), Gizo (←), Tarawa and Nauru (↗), Port-Vila (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1982.12.17: Established as Diocese of Auki / Aukin(us) (Latin) (from Metropolitan Archdiocese of Honiara and became suffragan of Honiara)Present PrelatesBishop (2025.10.28 – ...):Bishop Jacob Aba, S.M. (50)OrdinariesBishops of Auki (Roman Rite)Bishop Jacob Aba, S.M. (50)  (2025.10.28 – ...)Bishop of Auki (Solomon Islands)Born:1976.01.06 (Matanganakafo, Solomon Islands)Ordained Priest:2009.12.10Consecrated Bishop:2026.01.24Bishop of Auki (Solomon Islands) (2025.10.28 – ...)Bishop Peter Houhou (59)  (2018.07.03 – 2023.06.16)Bishop of Gizo (Solomon Islands)I came not to be served but to serveBorn:1966.10.10 (Marau, Solomon Islands)Ordained Priest:1999.07.03Consecrated Bishop:2018.10.14Priest of Honiara (Solomon Islands) (1999.07.03 – 2018.07.03)Bishop of Auki (Solomon Islands) (2018.07.03 – 2023.06.16)Bishop of Gizo (Solomon Islands) (2023.06.16 – ...)Bishop Christopher Michael Cardone, O.P. (68) (later Archbishop)  (2004.10.19 – 2016.06.22)Metropolitan Archbishop of Honiara (Solomon Islands)Born:1957.12.20 (Long Island, NY, USA)Ordained Priest:1986.05.30Consecrated Bishop:2001.06.09Titular Bishop of Thuburnica (2001.03.27 – 2004.10.19)Auxiliary Bishop of Gizo (Solomon Islands) (2001.03.27 – 2004.10.19)Bishop of Auki (Solomon Islands) (2004.10.19 – 2016.06.22)Metropolitan Archbishop of Honiara (Solomon Islands) (2016.06.22 – ...)Bishop Gerard Francis Loft, S.M.  (1983.12.05 – 2004.10.19)Born:1933.04.06 (Wellington, New Zealand)Ordained Priest:1958.07.20Consecrated Bishop:1984.03.11Died:2007.02.04 († 73)Bishop of Auki (Solomon Islands) (1983.12.05 – 2004.10.19)Special ChurchesCathedral:  St. Augustine Cathedral, Auki, Malaita Churches by City (12)Show MapHoniara (↙), Gizo (←), Tarawa and Nauru (↗), Port-Vila (↘)Statistics (2022.12.31)Area: 4,234 km²Population: 51,836 Catholics (31.5% of 164,345 total)Pastoral Centres: 13 parishes, 1 missionPersonnel: 36 priests (34 diocesan, 2 religious), 20 religious (2 brothers, 18 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "auki0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 164345,
+    "catholiques": 51836,
+    "pourcentage_catholiques": 31.5
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 36,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

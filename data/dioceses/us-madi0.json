@@ -1,0 +1,29 @@
+{
+  "id": "us-madi0",
+  "nom": "Madison",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Madison / Madisonen(sis) (Latin)Ecclesiastical Province: MilwaukeeNeighbouring Dioceses: Dubuque (↙), La Crosse (↖), Green Bay (↗), Milwaukee (→), Rockford (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1945.12.22: Established as Diocese of Madison / Madisonen(sis) (Latin) (from Metropolitan Archdiocese of Milwaukee, Diocese of Green Bay and Diocese of La Crosse and became suffragan of Milwaukee)Contact InfoAddress: Catholic Pastoral Center, 702 South High Point Rd., P.O. Box 44983, Madison, WI 53719, USAPhone: +1 (608) 821-3000Present PrelatesBishop (2019.04.25 – ...):Bishop Donald Joseph Hying (62)Monsignors (37)OrdinariesBishops of Madison (Roman Rite)Bishop Donald Joseph Hying (62)  (2019.04.25 – ...)Bishop of Madison (USA)Caritas numquam exciditBorn:1963.08.18 (West Allis, WI, USA)Ordained Priest:1989.05.20Consecrated Bishop:2011.07.20Priest of Milwaukee (USA) (1989.05.20 – 2011.05.26)Titular Bishop of Regiæ (2011.05.26 – 2014.11.24)Auxiliary Bishop of Milwaukee (USA) (2011.05.26 – 2014.11.24)Bishop of Gary (USA) (2014.11.24 – 2019.04.25)Bishop of Madison (USA) (2019.04.25 – ...)Bishop Robert Charles Morlino  (2003.05.23 – 2018.11.24)Visus non mentieturBorn:1946.12.31 (Scranton, PA, USA)Ordained Priest:1974.06.01Consecrated Bishop:1999.09.21Died:2018.11.24 (Madison, WI, USA † 71)Priest of Society of Jesus (Jesuits) (1974.06.01 – 1983.10.26)Priest of Kalamazoo (USA) (1983.10.26 – 1999.07.06)Bishop of Helena (USA) (1999.07.06 – 2003.05.23)Bishop of Madison (USA) (2003.05.23 – 2018.11.24)Bishop William Henry Bullock  (1993.04.13 – 2003.05.23)Grace, mercy, peaceBorn:1927.04.13 (Maple Lake, MN, USA)Ordained Priest:1952.06.07Consecrated Bishop:1980.08.12Died:2011.04.03 (Madison, WI, USA † 83)Priest of Saint Paul and Minneapolis (USA) (1952.06.07 – 1980.06.03)Titular Bishop of Natchez (1980.06.03 – 1987.02.10)Auxiliary Bishop of Saint Paul and Minneapolis (USA) (1980.06.03 – 1987.02.10)Bishop of Des Moines (USA) (1987.02.10 – 1993.04.13)Bishop of Madison (USA) (1993.04.13 – 2003.05.23)Bishop Cletus Francis O’Donnell  (1967.02.18 – 1992.04.18)Born:1917.08.22 (Waukon, IA, USA)Ordained Priest:1941.05.03Consecrated Bishop:1960.12.21Died:1992.08.31 († 75)Priest of Chicago (USA) (1941.05.03 – 1960.10.26)Titular Bishop of Abrittum (1960.10.26 – 1967.02.18)Auxiliary Bishop of Chicago (USA) (1960.10.26 – 1967.02.18)Bishop of Madison (USA) (1967.02.18 – 1992.04.18)Bishop William Patrick O’Connor  (1946.02.22 – 1967.02.18)Born:1886.10.18 (Milwaukee, WI, USA)Ordained Priest:1912.03.10Consecrated Bishop:1942.03.07Died:1973.07.13 († 86)Priest of Milwaukee (USA) (1912.03.10 – 1941.12.27)Bishop of Superior (USA) (1941.12.27 – 1946.02.18)Bishop of Madison (USA) (1946.02.22 – 1967.02.18)Titular Bishop of Siccesi (1967.02.18 – 1970.12.31)Former PrelatesAuxiliary Bishop: Bishop George Otto Wirz (1977.12.10 – 2004.02.10)Auxiliary Bishop: Bishop Jerome Joseph Hastrich (1963.07.25 – 1969.08.25)Special ChurchesCathedral:  Cathedral of St. Bernard of Clairvaux, Madison, Wisconsin Former Cathedral (now ruined):  Former Cathedral of St. Raphael, Madison, Wisconsin Jubilee Churches in the Holy Year 2025Churches by City (137)Show MapDubuque (↙), La Crosse (↖), Green Bay (↗), Milwaukee (→), Rockford (↓)Statistics (2022.12.31)Area: 20,893 km²Population: 304,900 Catholics (27.2% of 1,122,750 total)Pastoral Centres: 102 parishes, 5 missionsPersonnel: 138 priests (129 diocesan, 9 religious), 29 deacons, 257 religious (15 brothers, 242 sisters), 19 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "madi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1122750,
+    "catholiques": 304900,
+    "pourcentage_catholiques": 27.2
+  },
+  "ressources": {
+    "pretres_diocesains": 129,
+    "pretres_religieux": null,
+    "total_pretres": 138,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 102
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

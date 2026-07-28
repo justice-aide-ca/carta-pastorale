@@ -1,0 +1,29 @@
+{
+  "id": "rw-byum0",
+  "nom": "Byumba",
+  "pays": "rw",
+  "pays_nom": "Rwanda",
+  "continent": "unknown",
+  "type": "Diocese Name: Byumba / Byumban(us) (Latin)Ecclesiastical Province: KigaliNeighbouring Dioceses: Ruhengeri (←), Kabale (↑), Mbarara (↗), Kibungo (↘), Kigali (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1981.11.05: Established as Diocese of Byumba / Byumban(us) (Latin) (from Diocese of Kabgayi, Diocese of Kibungo and Diocese of Ruhengeri and became suffragan of Kigali)Present PrelatesBishop (2022.02.28 – ...):Bishop Papias Musengamana (58)Monsignors (2)OrdinariesBishops of Byumba (Roman Rite)Bishop Papias Musengamana (58)  (2022.02.28 – ...)Bishop of Byumba (Rwanda)In caritate et misericordiæBorn:1967.08.21 (Byimana, Rwanda)Ordained Priest:1997.05.18Consecrated Bishop:2022.05.14Priest of Kabgayi (Rwanda) (1997.05.18 – 2022.02.28)Bishop of Byumba (Rwanda) (2022.02.28 – ...)Bishop Servilien Nzakamwita (83)  (1996.03.13 – 2022.02.28)Bishop emeritus of Byumba (Rwanda)Fiat voluntas tuaBorn:1943.04.20 (Rushaki, Rwanda)Ordained Priest:1971.07.11Consecrated Bishop:1996.06.02Priest of Kibungo (Rwanda) (1971.07.11 – 1996.03.13)Bishop of Byumba (Rwanda) (1996.03.13 – 2022.02.28)Bishop Frédéric Rubwejanga (94)  (Apostolic Administrator 1994.11.11 – 1996.03.13)Bishop Joseph Ruzindana  (1981.11.05 – 1994.06.07)SitioBorn:1943.06.03 (Rambura, Rwanda)Ordained Priest:1972.07.23Consecrated Bishop:1982.01.17Died:1994.06.07 († 51)Priest of Byumba (Rwanda) (1972.07.23 – 1981.11.05)Bishop of Byumba (Rwanda) (1981.11.05 – 1994.06.07)President of Episcopal Conference of Rwanda (1983 – 1991)Special ChurchesCathedral:  Cathédrale du Cœur Immaculé de Marie, Byumba, Nord Show MapRuhengeri (←), Kabale (↑), Mbarara (↗), Kibungo (↘), Kigali (↓)Statistics (2022.12.31)Area: 5,100 km²Population: 819,000 Catholics (47.5% of 1,723,000 total)Pastoral Centres: 25 parishesPersonnel: 114 priests (96 diocesan, 18 religious), 186 religious (35 brothers, 151 sisters), 46 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "byum0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1723000,
+    "catholiques": 819000,
+    "pourcentage_catholiques": 47.5
+  },
+  "ressources": {
+    "pretres_diocesains": 96,
+    "pretres_religieux": null,
+    "total_pretres": 114,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

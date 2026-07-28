@@ -1,0 +1,29 @@
+{
+  "id": "ng-kats1",
+  "nom": "Katsina",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Katsina / Katsinen(sis) (Latin)Ecclesiastical Province: KadunaNeighbouring Dioceses: Maradi (↑), Kano (↘), Zaria (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2023.10.16: Established as Diocese of Katsina / Katsinen(sis) (Latin) (from Diocese of Sokoto and became suffragan of Kaduna)Present PrelatesBishop (2023.10.16 – ...):Bishop Gerald Mamman Musa (55)Monsignors (1)OrdinariesBishops of Katsina (Roman Rite)Bishop Gerald Mamman Musa (55)  (2023.10.16 – ...)Bishop of Katsina (Nigeria)Ubangiji na tare da muBorn:1971.01.16 (Gusau, Nigeria)Ordained Priest:1996.06.01Consecrated Bishop:2023.12.12Priest of Sokoto (Nigeria) (1996.06.01 – 2023.10.16)Bishop of Katsina (Nigeria) (2023.10.16 – ...)Special ChurchesCathedral:  Cathedral of St. Martin de Porres, Katsina, Katsina Show MapMaradi (↑), Kano (↘), Zaria (↓)Statistics (2023.12.31)Area: 29,000 km²Population: 19,000 Catholics (0.2% of 9,669,439 total)Pastoral Centres: 72 missionsPersonnel: 15 priests (14 diocesan, 1 religious), 6 religious (1 brother, 5 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kats1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 9669439,
+    "catholiques": 19000,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 14,
+    "pretres_religieux": null,
+    "total_pretres": 15,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

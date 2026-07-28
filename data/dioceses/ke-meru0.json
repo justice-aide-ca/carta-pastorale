@@ -1,0 +1,29 @@
+{
+  "id": "ke-meru0",
+  "nom": "Meru",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Meru / Meruen(sis) (Latin)Ecclesiastical Province: NyeriNeighbouring Dioceses: Embu (↙), Nyeri (←), Isiolo (↑), Kitui (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1926.03.10: Established as Apostolic Prefecture of Meru / Meruen(sis) (Latin) (from Apostolic Vicariate of Kenya)1953.05.07: Promoted as Diocese of Meru / Meruen(sis) (Latin) (became suffragan of Nairobi)1956.02.20: Lost territory to establish Apostolic Prefecture of Kitui1976.12.09: Lost territory to establish Apostolic Prefecture of Garissa1986.06.09: Lost territory to establish Diocese of Embu1990.05.21: Became suffragan of Nyeri1995.12.15: Lost territory to establish Apostolic Vicariate of IsioloPresent PrelatesBishop (2026.01.01 – ...):Bishop Jackson Murugara, I.M.C. (56)OrdinariesBishops of Meru (Roman Rite)Bishop Jackson Murugara, I.M.C. (56)  (2026.01.01 – ...)Bishop of Meru (Kenya)Born:1970.04.07 (Kamanyaki, Kenya)Ordained Priest:2001.08.15Consecrated Bishop:2025.03.19Coadjutor Bishop of Meru (Kenya) (2025.01.16 – 2026.01.01)Bishop of Meru (Kenya) (2026.01.01 – ...)Bishop Salesius Mugambi (75)  (2004.03.18 – 2026.01.01)Bishop emeritus of Meru (Kenya)Rejoice in the Lord alwaysBorn:1951.01.01 (Egandene, Kenya)Ordained Priest:1977.12.10Consecrated Bishop:2002.03.19Priest of Meru (Kenya) (1977.12.10 – 2001.12.01)Coadjutor Bishop of Meru (Kenya) (2001.12.01 – 2004.03.18)Bishop of Meru (Kenya) (2004.03.18 – 2026.01.01)Bishop Silas Silvius Njiru  (1976.12.09 – 2004.03.18)Born:1928.10.10 (Kevote, Kenya)Ordained Priest:1955.12.17Consecrated Bishop:1976.01.01Died:2020.04.28 (Rivoli, Italy † 91)Priest of Meru (Kenya) (1955.12.17 – 1975.10.02)Titular Bishop of Maturba (1975.10.02 – 1976.12.09)Auxiliary Bishop of Meru (Kenya) (1975.10.02 – 1976.12.09)Bishop of Meru (Kenya) (1976.12.09 – 2004.03.18)Died of COVID-19. Bishop Lawrence Victor Bessone, I.M.C.  (1954.03.03 – 1976.04.07)Born:1904.08.03 (Vigone, Italy)Ordained Priest:1926.08.15Consecrated Bishop:1954.05.27Died:1976.04.07 († 71)Bishop of Meru (Kenya) (1954.03.03 – 1976.04.07)Prefects Apostolic of Meru (Roman Rite)Bishop Carlo Maria Cavallera, I.M.C.  (Apostolic Administrator 1947 – 1954.03.03)Fr. José Nepote-Fus, I.M.C. (later Bishop)  (1936.09.16 – 1948.08.07)Born:1893.04.25 (Mathe Canarese, Italy)Ordained Priest:1920.12.18Consecrated Bishop:1952.07.06Died:1966.08.09 († 73)Prefect Apostolic of Meru (Kenya) (1936.09.16 – 1948.08.07)Apostolic Administrator of Rio Branco (Brazil) (1948.08.07 – 1952.04.18)Bishop-Prelate of Roraima (Brazil) (1952.04.18 – 1965)Titular Bishop of Helos (1952.04.18 – 1966.08.09)Bishop Carlo Re, I.M.C.  (Apostolic Administrator 1932 – 1936.09.16)Fr. Giuseppe Balbo, I.M.C.  (1926 – 1929)Born:1884.10.22 (Torino, Italy)Ordained Priest:1907.06.29Prefect Apostolic of Meru (Kenya) (1926 – 1929)Former PrelatesCoadjutor Bishop: Bishop Jackson Murugara, I.M.C. (56) (2025.01.16 – 2026.01.01)Coadjutor Bishop: Bishop Salesius Mugambi (75) (2001.12.01 – 2004.03.18)Auxiliary Bishop: Bishop Silas Silvius Njiru (1975.10.02 – 1976.12.09)Special ChurchesCathedral:  St. Joseph Cathedral, Meru, Meru Show MapEmbu (↙), Nyeri (←), Isiolo (↑), Kitui (↘)Statistics (2022.12.31)Area: 9,546 km²Population: 1,085,500 Catholics (31.1% of 3,491,480 total)Pastoral Centres: 85 parishesPersonnel: 220 priests (175 diocesan, 45 religious), 504 religious (72 brothers, 432 sisters), 47 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "meru0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3491480,
+    "catholiques": 1085500,
+    "pourcentage_catholiques": 31.1
+  },
+  "ressources": {
+    "pretres_diocesains": 175,
+    "pretres_religieux": null,
+    "total_pretres": 220,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 85
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

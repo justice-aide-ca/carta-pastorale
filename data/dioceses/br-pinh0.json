@@ -1,0 +1,29 @@
+{
+  "id": "br-pinh0",
+  "nom": "Pinheiro",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Pinheiro / Pineren(sis) (Latin)Ecclesiastical Province: São Luís do MaranhãoNeighbouring Dioceses: Zé Doca (←), São Luís do Maranhão (→), Viana (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nossa Senhora do Sagrado Coração de JesusLiturgical Calendar (National) 📅History1939.07.22: Established as Territorial Prelature of Pinheiro / Pineren(sis) (Latin) (from Metropolitan Archdiocese of São Luís do Maranhão and Territorial Prelature of São José do Grajaú and became suffragan of São Luís do Maranhão)1958.02.04: Gained territory from Metropolitan Archdiocese of São Luís do Maranhão1961.10.16: Lost territory to establish Territorial Prelature of Cândido Mendes1979.10.16: Promoted as Diocese of Pinheiro / Pineren(sis) (Latin)1997.02.20: Gained territory from Diocese of Zé DocaPresent PrelatesBishop (2012.10.17 – ...):Bishop Elio Rama, I.M.C. (72)OrdinariesBishops of Pinheiro (Roman Rite)Bishop Elio Rama, I.M.C. (72)  (2012.10.17 – ...)Bishop of Pinheiro (Brazil)Eu sei em quem acreditoBorn:1953.10.28 (Tucunduva, RS, Brazil)Ordained Priest:1984.11.10Consecrated Bishop:2012.12.30Bishop of Pinheiro (Brazil) (2012.10.17 – ...)Bishop Ricardo Pedro Paglia, M.S.C. (89)  (1979.10.16 – 2012.10.17)Bishop emeritus of Pinheiro (Brazil)Veni ut ServiamBorn:1937.03.31 (Ponte Serrada, SC, Brazil)Ordained Priest:1963.06.29Consecrated Bishop:1979.09.07Bishop-Prelate of Pinheiro (Brazil) (1979.07.03 – 1979.10.16)Bishop of Pinheiro (Brazil) (1979.10.16 – 2012.10.17)Apostolic Administrator sede plena of Viana (Brazil) (1994 – 1995.05.24)Apostolic Administrator of Viana (Brazil) (1995.05.24 – 1998.02.18)Prelates of Pinheiro (Roman Rite)Bishop Ricardo Pedro Paglia, M.S.C. (89)  (1979.07.03 – 1979.10.16)(see above)Bishop Carmelo Cassati, M.S.C. (later Archbishop)  (1975.06.17 – 1979.02.12)Born:1924.04.06 (Eufemia-Tricase, Italy)Ordained Priest:1949.12.17Consecrated Bishop:1970.06.28Died:2017.02.03 (Tricase, Italy † 92)Auxiliary Bishop of Pinheiro (Brazil) (1970.04.27 – 1975.06.17)Titular Bishop of Nova Germania (1970.04.27 – 1978.05.26)Bishop-Prelate of Pinheiro (Brazil) (1975.06.17 – 1979.02.12)Bishop of Tricarico (Italy) (1979.02.12 – 1985.09.07)Bishop of Lucera (Italy) (1985.09.07 – 1986.09.30)Bishop of San Severo (Italy) (1985.09.07 – 1990.12.15)Archbishop of Trani–Barletta–Bisceglie (Italy) (1990.12.15 – 1999.11.13)Bishop Afonso Maria Ungarelli, M.S.C.  (1948.11.13 – 1975.03.01)Born:1897.05.02 (Marrara, Italy)Ordained Priest:1928.12.22Consecrated Bishop:1949.03.27Died:1988.05.23 († 91)Apostolic Administrator of Pinheiro (Brazil) (1946 – 1948.11.13)Bishop-Prelate of Pinheiro (Brazil) (1948.11.13 – 1975.03.01)Titular Bishop of Azura (1948.11.13 – 1988.05.23)Apostolic Administrator of Cândido Mendes (Brazil) (1963 – 1965.12.20)Fr. Afonso Maria Ungarelli, M.S.C. (later Bishop)  (Apostolic Administrator 1946 – 1948.11.13)Fr. José Maria Lemercier  (Apostolic Administrator 1944 – 1946)Archbishop Carlos Carmelo de Vasconcelos Motta (later Cardinal)  (Apostolic Administrator 1940 – 1944)Former PrelatesAuxiliary Bishop: Bishop Carmelo Cassati, M.S.C. (later Archbishop) (1970.04.27 – 1975.06.17)Auxiliary Bishop: Bishop Guido Maria Casullo (1963.02.11 – 1965.12.20)Special ChurchesCathedral:  Catedral Santo Inácio de Loiola, Pinheiro, Maranhão Jubilee Churches in the Holy Year 2025Churches by City (28)Show MapZé Doca (←), São Luís do Maranhão (→), Viana (↓)Statistics (2022.12.31)Area: 21,360 km²Population: 329,000 Catholics (64.8% of 508,000 total)Pastoral Centres: 25 parishesPersonnel: 38 priests (32 diocesan, 6 religious), 5 deacons, 30 religious (6 brothers, 24 sisters), 12 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pinh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 508000,
+    "catholiques": 329000,
+    "pourcentage_catholiques": 64.8
+  },
+  "ressources": {
+    "pretres_diocesains": 32,
+    "pretres_religieux": null,
+    "total_pretres": 38,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

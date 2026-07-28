@@ -1,0 +1,29 @@
+{
+  "id": "in-aiza0",
+  "nom": "Aizawl",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Aizawl / Aizavlen(sis) (Latin)Ecclesiastical Province: ShillongNeighbouring Dioceses: Chattogram (↙), Agartala (↙), Sylhet (←), Jowai (↖), Diphu (↑), Imphal (→), Hakha (↘), Mindat (↘)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint JosephLiturgical Calendar (National) 📅History1952.01.17: Established as Apostolic Prefecture of Haflong / Haflongen(sis) (Latin) (from Metropolitan Archdiocese of Dacca and Diocese of Chittagong)1969.06.26: Promoted as Diocese of Silchar / Silcharin(us) (Latin) (became suffragan of Gauhati–Shillong)1983.12.05: Lost territory to establish Diocese of Diphu1996.01.11: Renamed as Diocese of Aizawl / Aizavlen(sis) (Latin) (lost territory to establish Diocese of Agartala)Present PrelatesBishop (2001.10.02 – ...):Bishop Stephen Rotluanga, C.S.C. (74)Auxiliary Bishop (2023.03.30 – ...):Bishop Joachim Walder (70)Titular Bishop of LegiaOrdinariesBishops of Aizawl (Roman Rite)Bishop Stephen Rotluanga, C.S.C. (74)  (2001.10.02 – ...)Bishop of Aizawl (India)To serve in unityBorn:1952.06.08 (Aizawl, India)Ordained Priest:1981.12.13Consecrated Bishop:2002.02.02Bishop of Aizawl (India) (2001.10.02 – ...)Bishop Denzil Reginald D’Souza  (1996.01.11 – 2000.10.18)Born:1929.07.02 (Kolkata, India)Ordained Priest:1955.05.13Consecrated Bishop:1969.11.23Died:2002.10.25 († 73)Bishop of Silchar (India) (1969.06.26 – 1996.01.11)Bishop of Aizawl (India) (1996.01.11 – 2000.10.18)Bishops of Silchar (Roman Rite)Bishop Denzil Reginald D’Souza  (1969.06.26 – 1996.01.11)(see above)Prefects Apostolic of Haflong (Roman Rite)Fr. George Daniel Breen, C.S.C.  (1952.03.21 – 1969)Born:1897.11.10Ordained Priest:1924.01.20Died:1997.01.26 († 99)Prefect Apostolic of Haflong (India) (1952.03.21 – 1969)Special ChurchesCathedral:  Christ the King Cathedral, Aizawl, Mizoram Former Cathedral:  Church of the Holy Cross, Silchar, Assam Show MapChattogram (↙), Agartala (↙), Sylhet (←), Jowai (↖), Diphu (↑), Imphal (→), Hakha (↘), Mindat (↘)Statistics (2021.12.31)Area: 28,002 km²Population: 40,000 Catholics (0.8% of 4,951,000 total)Pastoral Centres: 31 parishes, 7 missionsPersonnel: 81 priests (34 diocesan, 47 religious), 286 religious (66 brothers, 220 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "aiza0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4951000,
+    "catholiques": 40000,
+    "pourcentage_catholiques": 0.8
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 81,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

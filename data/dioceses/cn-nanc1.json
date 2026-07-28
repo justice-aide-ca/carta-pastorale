@@ -1,0 +1,29 @@
+{
+  "id": "cn-nanc1",
+  "nom": "Nancheng 南城",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Nancheng 南城 (中文) / Nancheng / Nánchéng 南城 (简体中文) / Nancemen(sis) (Latin)Ecclesiastical Province: Nanchang 南昌Neighbouring Dioceses: Ganzhou 贛州 (↙), Ji’an 吉安 (←), Yujiang 餘江 (↑), Shaowu 邵武 (→)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Jiangxi 江西 CelebrationsLiturgical Calendar (Universal) 📅History1932.11.29: Established as Apostolic Prefecture of Jianchangfu 建昌府 (中文) / Kienchangfu / Jiànchāngfǔ 建昌府 (简体中文) (from Apostolic Vicariate of Yujiang 餘江)1938.12.13: Promoted as Apostolic Vicariate of Nancheng 南城 (中文) / Nancheng / Nánchéng 南城 (简体中文) / de Nancheng (Latin)1946.04.11: Promoted as Diocese of Nancheng 南城 (中文) / Nancheng / Nánchéng 南城 (简体中文) / Nancemen(sis) (Latin) (became suffragan of Nanchang 南昌)Present PrelatesBishop:vacantOrdinariesBishops of Nancheng 南城 (Roman Rite)Bishop Patrick Cleary (利伯高), S.S.C.M.E.  (1946.04.11 – 1970.10.23)Born:1886.03.03 (Kildvsart, Ireland)Ordained Priest:1911.06.18Consecrated Bishop:1939.04.16Died:1970.10.23 (Navan, Ireland † 84)Prefect Apostolic of Jianchangfu 建昌府 (China) (1933.07.21 – 1938.12.13)Titular Bishop of Amathus in Cypro (1938.12.13 – 1946.04.11)Vicar Apostolic of Nancheng 南城 (China) (1938.12.13 – 1946.04.11)Bishop of Nancheng 南城 (China) (1946.04.11 – 1970.10.23)Vicars Apostolic of Nancheng 南城 (Roman Rite)Bishop Patrick Cleary (利伯高), S.S.C.M.E.  (1938.12.13 – 1946.04.11)(see above)Prefects Apostolic of Jianchangfu 建昌府 (Roman Rite)Fr. Patrick Cleary (利伯高), S.S.C.M.E. (later Bishop)  (1933.07.21 – 1938.12.13)(see above)Special ChurchesCathedral:  Cathedral of Our Lady of the Rosary, Nancheng 南城, Jiangxi Show MapGanzhou 贛州 (↙), Ji’an 吉安 (←), Yujiang 餘江 (↑), Shaowu 邵武 (→)Statistics (1949.12.31)Area: 8,696 km²Population: 6,885 Catholics (1.5% of 450,000 total)Pastoral Centres: 13 parishes, 8 missionsPersonnel: 30 priests (4 diocesan, 26 religious), 7 religious (7 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nanc1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 450000,
+    "catholiques": 6885,
+    "pourcentage_catholiques": 1.5
+  },
+  "ressources": {
+    "pretres_diocesains": 4,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

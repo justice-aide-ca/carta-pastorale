@@ -1,0 +1,29 @@
+{
+  "id": "ba-sylh0",
+  "nom": "Sylhet",
+  "pays": "ba",
+  "pays_nom": "Bangladesh",
+  "continent": "unknown",
+  "type": "Diocese Name: Sylhet / Sylheten(sis) (Latin)Ecclesiastical Province: DhakaNeighbouring Dioceses: Dhaka (↙), Mymensingh (←), Nongstoin (↖), Shillong (↑), Jowai (↗), Aizawl (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2011.07.08: Established as Diocese of Sylhet / Sylheten(sis) (Latin) (from Metropolitan Archdiocese of Dhaka and became suffragan of Dhaka)Present PrelatesBishop (2021.05.12 – ...):Bishop Shorot Francis Gomes (60)OrdinariesBishops of Sylhet (Roman Rite)Bishop Shorot Francis Gomes (60)  (2021.05.12 – ...)Bishop of Sylhet (Bangladesh)Born:1965.12.15 (Hashnabad, Bangladesh)Ordained Priest:1990.05.31Consecrated Bishop:2016.04.22Priest of Dhaka (Bangladesh) (1990.05.31 – 2016.02.08)Titular Bishop of Forma (2016.02.08 – 2021.05.12)Auxiliary Bishop of Dhaka (Bangladesh) (2016.02.08 – 2021.05.12)Bishop of Sylhet (Bangladesh) (2021.05.12 – ...)Bishop Bejoy Nicephorus D’Cruze, O.M.I. (70) (later Archbishop)  (2011.07.08 – 2020.09.30)Metropolitan Archbishop of Dhaka (Bangladesh)President of Catholic Bishops’ Conference of BangladeshThe peace of the Lord be with youBorn:1956.02.09 (Tuital, Bangladesh)Ordained Priest:1987.02.20Consecrated Bishop:2005.05.06Bishop of Khulna (Bangladesh) (2005.02.19 – 2011.07.08)Bishop of Sylhet (Bangladesh) (2011.07.08 – 2020.09.30)Metropolitan Archbishop of Dhaka (Bangladesh) (2020.09.30 – ...)President of Catholic Bishops’ Conference of Bangladesh (2020.12 – ...)Special ChurchesPro-Cathedral:  Church of the Divine Mercy, Moulvibazar, Sylhet Show MapDhaka (↙), Mymensingh (←), Nongstoin (↖), Shillong (↑), Jowai (↗), Aizawl (→)Statistics (2022.12.31)Area: 12,298 km²Population: 19,836 Catholics (0.1% of 14,433,580 total)Pastoral Centres: 7 parishesPersonnel: 21 priests (8 diocesan, 13 religious), 69 religious (18 brothers, 51 sisters), 5 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sylh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 14433580,
+    "catholiques": 19836,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 8,
+    "pretres_religieux": null,
+    "total_pretres": 21,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

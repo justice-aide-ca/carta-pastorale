@@ -1,0 +1,29 @@
+{
+  "id": "ml-sego1",
+  "nom": "Ségou",
+  "pays": "ml",
+  "pays_nom": "Mali",
+  "continent": "unknown",
+  "type": "Diocese Name: Ségou / Seguen(sis) (Latin)Ecclesiastical Province: BamakoNeighbouring Dioceses: Bamako (↙), Kayes (↖), Nouakchott (↑), Mopti (↗), San (→), Sikasso (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1962.03.10: Established as Diocese of Ségou / Seguen(sis) (Latin) (from Metropolitan Archdiocese of Bamako and became suffragan of Bamako)Present PrelatesBishop (2003.10.30 – ...):Bishop Augustin Traoré (70)Vice-President of Episcopal Conference of MaliOrdinariesBishops of Ségou (Roman Rite)Bishop Augustin Traoré (70)  (2003.10.30 – ...)Bishop of Ségou (Mali)Vice-President of Episcopal Conference of MaliBorn:1955.11.15 (Banakouru, Mali)Ordained Priest:1985.07.06Consecrated Bishop:2004.03.14Priest of Ségou (Mali) (1985.07.06 – 2003.10.30)Bishop of Ségou (Mali) (2003.10.30 – ...)Vice-President of Episcopal Conference of Mali (2016.10? – ...)Bishop Mori Julien-Marie Sidibé  (1974.07.01 – 2003.03.25)Born:1927 (Goualala, Mali)Ordained Priest:1957.04.30Consecrated Bishop:1974.12.07Died:2003.03.25 († 75)Bishop of Ségou (Mali) (1974.07.01 – 2003.03.25)Archbishop Pierre Louis Leclerc, M. Afr.  (1962.03.10 – 1974.07.01)Born:1905.03.20 (Isbergues, France)Ordained Priest:1932.10.06Consecrated Bishop:1950.03.25Died:1983.11.23 († 78)Prefect Apostolic of Gao (Mali) (1947.10.17 – 1949.12.25)Titular Bishop of Sassura (1949.12.25 – 1955.09.14)Vicar Apostolic of Bamako (Mali) (1949.12.25 – 1955.09.14)Metropolitan Archbishop of Bamako (Mali) (1955.09.14 – 1962.03.10)Archbishop-Bishop of Ségou (Mali) (1962.03.10 – 1974.07.01)Special ChurchesCathedral:  Cathédrale de l’Immaculée Conception, Ségou, Ségou Churches by City (8)Show MapBamako (↙), Kayes (↖), Nouakchott (↑), Mopti (↗), San (→), Sikasso (↓)Statistics (2022.12.31)Area: 60,000 km²Population: 28,370 Catholics (1.0% of 2,710,435 total)Pastoral Centres: 6 parishes, 2 missionsPersonnel: 15 priests (diocesan), 32 religious (32 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sego1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2710435,
+    "catholiques": 28370,
+    "pourcentage_catholiques": 1.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

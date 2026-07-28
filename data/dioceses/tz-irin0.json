@@ -1,0 +1,29 @@
+{
+  "id": "tz-irin0",
+  "nom": "Iringa",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Iringa / Iringaën(sis) (Latin)Ecclesiastical Province: MbeyaNeighbouring Dioceses: Mbeya (↙), Dodoma (↑), Morogoro (↗), Ifakara (→), Mahenge (↘), Mafinga (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1922.03.03: Established as Apostolic Prefecture of Iringa / Iringaën(sis) (Latin) (from Apostolic Vicariate of Dar-es-Salaam)1935.01.28: Lost territory to establish Apostolic Prefecture of Dodoma1948.01.08: Promoted as Apostolic Vicariate of Iringa / Iringaën(sis) (Latin)1953.03.25: Promoted as Diocese of Iringa / Iringaën(sis) (Latin) (became suffragan of Dar-es-Salaam)1968.02.16: Lost territory to establish Diocese of Njombe1987.11.18: Became suffragan of Songea2018.12.21: Became suffragan of Mbeya2023.12.22: Lost territory to establish Diocese of MafingaPresent PrelatesBishop (2025.01.28 – ...):Bishop Romanus Elamu Mihaliè (57)Monsignors (2)OrdinariesBishops of Iringa (Roman Rite)Bishop Romanus Elamu Mihaliè (57)  (2025.01.28 – ...)Bishop of Iringa (Tanzania)Born:1969.06.10 (Itulituli, Tanzania)Ordained Priest:2000.07.13Consecrated Bishop:2025.04.27Priest of Iringa (Tanzania) (2000.07.13 – 2023.12.22)Priest of Mafinga (Tanzania) (2023.12.22 – 2025.01.28)Bishop of Iringa (Tanzania) (2025.01.28 – ...)Bishop Tarcisius J. M. Ngalalekumtwa (77)  (1992.11.21 – 2025.01.28)Bishop emeritus of Iringa (Tanzania)Born:1948.10.25 (Banawanu, Tanzania)Ordained Priest:1973.04.17Consecrated Bishop:1989.01.06Priest of Iringa (Tanzania) (1973.04.17 – 1988.11.14)Coadjutor Bishop of Sumbawanga (Tanzania) (1988.11.14 – 1992.11.21)Bishop of Iringa (Tanzania) (1992.11.21 – 2025.01.28)President of Tanzania Episcopal Conference (2012.07 – 2018.06.23)Apostolic Administrator of Songea (Tanzania) (2013.05.15 – 2014.03.14)Bishop Norbert Wendelin Mtega (80) (later Archbishop)  (1985.10.28 – 1992.07.06)Metropolitan Archbishop emeritus of Songea (Tanzania)Born:1945.08.17 (Kinyika, Tanzania)Ordained Priest:1973.11.14Consecrated Bishop:1986.01.06Priest of Njombe (Tanzania) (1973.11.14 – 1985.10.28)Bishop of Iringa (Tanzania) (1985.10.28 – 1992.07.06)Metropolitan Archbishop of Songea (Tanzania) (1992.07.06 – 2013.05.15)Bishop Mario Epifanio Abdallah Mgulunde (later Archbishop)  (1969.10.23 – 1985.03.09)Born:1931 (Kalenga, Tanzania)Ordained Priest:1962.04.08Consecrated Bishop:1970.02.15Died:2006.03.14 († 74)Priest of Iringa (Tanzania) (1962.04.08 – 1969.10.23)Bishop of Iringa (Tanzania) (1969.10.23 – 1985.03.09)President of Tanzania Episcopal Conference (1976 – 1982)Metropolitan Archbishop of Tabora (Tanzania) (1985.03.09 – 2006.03.14)Bishop Attilio Beltramino, I.M.C.  (1953.03.25 – 1965.10.03)Born:1901.03.19 (Volvera, Italy)Ordained Priest:1924.04.05Consecrated Bishop:1948.05.27Died:1965.10.03 († 64)Prefect Apostolic of Iringa (Tanzania) (1936.02.18 – 1948.01.08)Titular Bishop of Thuburnica (1948.01.08 – 1953.03.25)Vicar Apostolic of Iringa (Tanzania) (1948.01.08 – 1953.03.25)Bishop of Iringa (Tanzania) (1953.03.25 – 1965.10.03)Vicars Apostolic of Iringa (Roman Rite)Bishop Attilio Beltramino, I.M.C.  (1948.01.08 – 1953.03.25)(see above)Prefects Apostolic of Iringa (Roman Rite)Fr. Attilio Beltramino, I.M.C. (later Bishop)  (1936.02.18 – 1948.01.08)(see above)Fr. Francesco Cagliero, I.M.C.  (1922.05.10 – 1935)Died:1935Prefect Apostolic of Iringa (Tanzania) (1922.05.10 – 1935)Special ChurchesCathedral:  Kihesa Cathedral of the Sacred Heart, Iringa, Iringa Show MapMbeya (↙), Dodoma (↑), Morogoro (↗), Ifakara (→), Mahenge (↘), Mafinga (↓)Statistics (2023)Area: 32,202 km²Population: 530,094 Catholics (24.4% of 2,172,101 total)Pastoral Centres: 28 parishesPersonnel: 99 priests (81 diocesan, 18 religious), 735 religious (136 brothers, 599 sisters), 58 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "irin0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2172101,
+    "catholiques": 530094,
+    "pourcentage_catholiques": 24.4
+  },
+  "ressources": {
+    "pretres_diocesains": 81,
+    "pretres_religieux": null,
+    "total_pretres": 99,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

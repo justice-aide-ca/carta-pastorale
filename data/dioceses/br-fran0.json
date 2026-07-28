@@ -1,0 +1,29 @@
+{
+  "id": "br-fran0",
+  "nom": "Franca",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Franca / Francopolitan(us) (Latin)Ecclesiastical Province: Ribeirão PretoNeighbouring Dioceses: Barretos (←), Uberaba (↑), Guaxupé (↘), Ribeirão Preto (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Imaculada Conceição (December 8)Liturgical Calendar (National) 📅History1971.02.20: Established as Diocese of Franca / Francopolitan(us) (Latin) (from Metropolitan Archdiocese of Ribeirão Preto and became suffragan of Ribeirão Preto)Present PrelatesBishop (2013.10.23 – ...):Bishop Paulo Roberto Beloto (69)OrdinariesBishops of Franca (Roman Rite)Bishop Paulo Roberto Beloto (69)  (2013.10.23 – ...)Bishop of Franca (Brazil)Evangelii servusBorn:1957.04.09 (Adamantina, SP, Brazil)Ordained Priest:1986.06.29Consecrated Bishop:2006.02.04Priest of Marília (Brazil) (1986.06.29 – 2005.11.16)Bishop of Formosa (Brazil) (2005.11.16 – 2013.10.23)Bishop of Franca (Brazil) (2013.10.23 – ...)Bishop Pedro Luiz Stringhini (72)  (2009.12.30 – 2012.09.19)Bishop of Mogi das Cruzes (Brazil)Em tua palavraBorn:1953.08.17 (Laranjal Paulista, SP, Brazil)Ordained Priest:1980.08.09Consecrated Bishop:2001.03.10Priest of São Paulo (Brazil) (1980.08.09 – 2001.01.03)Titular Bishop of Ita (2001.01.03 – 2009.12.30)Auxiliary Bishop of São Paulo (Brazil) (2001.01.03 – 2009.12.30)Bishop of Franca (Brazil) (2009.12.30 – 2012.09.19)Bishop of Mogi das Cruzes (Brazil) (2012.09.19 – ...)Bishop Caetano Ferrari, O.F.M. (83)  (2006.11.29 – 2009.04.15)Bishop emeritus of Bauru (Brazil)Evangelizare omni creaturæBorn:1942.07.30 (Lins, SP, Brazil)Ordained Priest:1970.12.27Consecrated Bishop:2002.07.07Coadjutor Bishop of Franca (Brazil) (2002.04.24 – 2006.11.29)Bishop of Franca (Brazil) (2006.11.29 – 2009.04.15)Bishop of Bauru (Brazil) (2009.04.15 – 2018.03.28)Bishop Diógenes da Silva Matthes  (1971.03.11 – 2006.11.29)Amados no senhorBorn:1931.10.12 (Caconde, SP, Brazil)Ordained Priest:1957.06.29Consecrated Bishop:1971.06.11Died:2016.11.20 (Franca, SP, Brazil † 85)Priest of Ribeirão Preto (Brazil) (1957.06.29 – 1971.03.11)Bishop of Franca (Brazil) (1971.03.11 – 2006.11.29)Former PrelatesCoadjutor Bishop: Bishop Caetano Ferrari, O.F.M. (83) (2002.04.24 – 2006.11.29)Special ChurchesCathedral:  Catedral Nossa Senhora da Conceição, Franca, São Paulo Churches by City (41)Show MapBarretos (←), Uberaba (↑), Guaxupé (↘), Ribeirão Preto (↓)Statistics (2022.12.31)Area: 6,635 km²Population: 414,405 Catholics (64.5% of 642,018 total)Pastoral Centres: 45 parishes, 1 missionPersonnel: 83 priests (63 diocesan, 20 religious), 33 deacons, 124 religious (60 brothers, 64 sisters), 24 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "fran0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 642018,
+    "catholiques": 414405,
+    "pourcentage_catholiques": 64.5
+  },
+  "ressources": {
+    "pretres_diocesains": 63,
+    "pretres_religieux": null,
+    "total_pretres": 83,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 45
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

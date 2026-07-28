@@ -1,0 +1,29 @@
+{
+  "id": "za-rust0",
+  "nom": "Rustenburg",
+  "pays": "za",
+  "pays_nom": "South Africa",
+  "continent": "unknown",
+  "type": "Diocese Name: Rustenburg / Rustenburgen(sis) (Latin)Ecclesiastical Province: PretoriaNeighbouring Dioceses: Kimberley (←), Gaborone (↖), Francistown (↑), Polokwane (↗), Pretoria (→), Johannesburg (↘), Klerksdorp (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint Alphonsus LiguoriLiturgical Calendar (National) 📅History1971.06.28: Established as Apostolic Prefecture of Rustenburg / Rustenburgen(sis) (Latin) (from Metropolitan Archdiocese of Pretoria)1987.11.18: Promoted as Diocese of Rustenburg / Rustenburgen(sis) (Latin) (became suffragan of Pretoria)Contact InfoAddress: Bishop’s House, St. Joseph’s Mission, Phokeng 0335, South AfricaPhone: (014) 573 3403Present PrelatesBishop (2020.11.25 – ...):Bishop Robert Mogapi Mphiwe (54)OrdinariesBishops of Rustenburg (Roman Rite)Bishop Robert Mogapi Mphiwe (54)  (2020.11.25 – ...)Bishop of Rustenburg (South Africa)Born:1972.03.14 (Pretoria, South Africa)Ordained Priest:1997.11.01Consecrated Bishop:2021.02.27Priest of Pretoria (South Africa) (1997.11.01 – 2020.11.25)Bishop of Rustenburg (South Africa) (2020.11.25 – ...)Bishop Kevin Patrick Dowling, C.SS.R. (82)  (1990.12.02 – 2020.11.25)Bishop emeritus of Rustenburg (South Africa)Servus vester per JesumBorn:1944.02.14 (Pretoria, South Africa)Ordained Priest:1967.07.09Consecrated Bishop:1991.01.27Bishop of Rustenburg (South Africa) (1990.12.02 – 2020.11.25)Bishop Henry Lancelot Paxton Hallett, C.SS.R.  (1987.11.18 – 1990.01.30)Born:1916.03.09 (Pietermaritzburg, South Africa)Ordained Priest:1953.09.20Consecrated Bishop:1988.01.30Died:1990.01.30 († 73)Prefect Apostolic of Rustenburg (South Africa) (1971.09.29 – 1987.11.18)Bishop of Rustenburg (South Africa) (1987.11.18 – 1990.01.30)Prefects Apostolic of Rustenburg (Roman Rite)Fr. Henry Lancelot Paxton Hallett, C.SS.R. (later Bishop)  (1971.09.29 – 1987.11.18)(see above)Special ChurchesCathedral:  Cathedral of the Most Holy Redeemer, Rustenburg, North-West Pro-Cathedral:  Church of St. Joseph, Phokeng, North-West Show MapKimberley (←), Gaborone (↖), Francistown (↑), Polokwane (↗), Pretoria (→), Johannesburg (↘), Klerksdorp (↓)Statistics (2022.12.31)Area: 32,000 km²Population: 54,500 Catholics (4.6% of 1,196,000 total)Pastoral Centres: 15 parishesPersonnel: 15 priests (2 diocesan, 13 religious), 15 deacons, 23 religious (14 brothers, 9 sisters), 1 seminarianPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "rust0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1196000,
+    "catholiques": 54500,
+    "pourcentage_catholiques": 4.6
+  },
+  "ressources": {
+    "pretres_diocesains": 2,
+    "pretres_religieux": null,
+    "total_pretres": 15,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

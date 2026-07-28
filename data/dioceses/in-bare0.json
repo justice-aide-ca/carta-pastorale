@@ -1,0 +1,29 @@
+{
+  "id": "in-bare0",
+  "nom": "Bareilly",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Bareilly / Bareillen(sis) (Latin)Ecclesiastical Province: AgraNeighbouring Dioceses: Agra (↙), Meerut (←), Bijnor (↖), Kangding 康定 (↗), Nepal (→), Lucknow (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Our Lady of NativityLiturgical Calendar (National) 📅History1989.01.19: Established as Diocese of Bareilly / Bareillen(sis) (Latin) (from Diocese of Lucknow and became suffragan of Agra)Present PrelatesBishop (2014.07.11 – ...):Bishop Ignatius D’Souza (61)OrdinariesBishops of Bareilly (Roman Rite)Bishop Ignatius D’Souza (61)  (2014.07.11 – ...)Bishop of Bareilly (India)Serve the Lord with gladnessBorn:1964.08.04 (Basrikatte, India)Ordained Priest:1991.04.07Consecrated Bishop:2014.10.04Priest of Lucknow (India) (1991.04.07 – 2014.07.11)Bishop of Bareilly (India) (2014.07.11 – ...)Bishop Anthony Fernandes  (1989.01.19 – 2014.07.11)Born:1936.07.06 (Kalathur, India)Ordained Priest:1964.12.02Consecrated Bishop:1989.03.29Died:2023.02.03 (Delhi, India † 86)Priest of Varanasi (India) (1964.12.02 – 1989.01.19)Bishop of Bareilly (India) (1989.01.19 – 2014.07.11)Special ChurchesCathedral:  Cathedral of St. Alphonsus de Ligouri, Bareilly, Uttar Pradesh Show MapAgra (↙), Meerut (←), Bijnor (↖), Kangding 康定 (↗), Nepal (→), Lucknow (↘)Statistics (2022.12.31)Area: 32,860 km²Population: 7,895 Catholics (0.1% of 13,503,700 total)Pastoral Centres: 47 parishes, 1 missionPersonnel: 97 priests (57 diocesan, 40 religious), 379 religious (48 brothers, 331 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "bare0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 13503700,
+    "catholiques": 7895,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 57,
+    "pretres_religieux": null,
+    "total_pretres": 97,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

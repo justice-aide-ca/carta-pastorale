@@ -1,0 +1,29 @@
+{
+  "id": "in-ujja0",
+  "nom": "Ujjain",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese Name: Ujjain / Uiiainen(sis) (Latin)Suffragan Sees: Jagdalpur, Sagar, SatnaNeighbouring Dioceses: Jhabua (↙), Bhopal (→), Indore (↓)Depends on: Dicastery for the Eastern ChurchesCelebrationsPatron Saint: Saint Paul of TarsusHistory1968.07.29: Established as Apostolic Exarchate of Ujjain / Uiiainen(sis) (Latin) (from Diocese of Indore and became suffragan of Bhopal)1977.02.26: Promoted as Diocese of Ujjain / Uiiainen(sis) (Latin)2025.08.28: Promoted as Metropolitan Archdiocese of Ujjain / Uiiainen(sis) (Latin) (with suffragan sees Jagdalpur, Sagar and Satna and gained territory from Diocese of Shamshabad)Present PrelatesMetropolitan Archbishop (2025.08.28 – ...):Archbishop Sebastian Vadakel, M.S.T. (73)OrdinariesMetropolitan Archbishops of Ujjain (Syro-Malabar Rite)Archbishop Sebastian Vadakel, M.S.T. (73)  (2025.08.28 – ...)Metropolitan Archbishop of Ujjain of the Syro-Malabars (India)Born:1952.10.07 (Vilakumadam, India)Ordained Priest:1979.04.09Consecrated Bishop:1998.09.08Bishop of Ujjain of the Syro-Malabars (India) (1998.04.04 – 2025.08.28)Metropolitan Archbishop of Ujjain of the Syro-Malabars (India) (2025.08.28 – ...)Bishops of Ujjain (Syro-Malabar Rite)Bishop Sebastian Vadakel, M.S.T. (73) (later Archbishop)  (1998.04.04 – 2025.08.28)(see above)Bishop John Perumattam, M.S.T.  (1977.02.26 – 1998.04.04)Born:1921.11.03 (Kakkoor, India)Ordained Priest:1951.03.11Consecrated Bishop:1977.05.15Died:2011.06.18 († 89)Apostolic Exarch of Ujjain of the Syro-Malabars (India) (1968.07.29 – 1977.02.26)Bishop of Ujjain of the Syro-Malabars (India) (1977.02.26 – 1998.04.04)Apostolic Exarchs of Ujjain (Syro-Malabar Rite)Fr. John Perumattam, M.S.T. (later Bishop)  (1968.07.29 – 1977.02.26)(see above)Special ChurchesCathedral:  St. Mary’s Cathedral, Ujjain, Madhya Pradesh Show MapJhabua (↙), Bhopal (→), Indore (↓)Statistics (2022.12.31)Area: 18,441 km²Population: 4,550 Catholics (0.1% of 6,600,000 total)Pastoral Centres: 42 parishes, 3 missionsPersonnel: 96 priests (45 diocesan, 51 religious), 387 religious (108 brothers, 279 sisters), 15 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "ujja0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6600000,
+    "catholiques": 4550,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 96,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 42
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

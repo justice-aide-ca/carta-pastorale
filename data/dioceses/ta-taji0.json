@@ -1,0 +1,29 @@
+{
+  "id": "ta-taji0",
+  "nom": "Tajikistan",
+  "pays": "ta",
+  "pays_nom": "Tajikistan",
+  "continent": "unknown",
+  "type": "Mission sui juris Name: Tajikistan / Tadzikistanian(us) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Uzbekistan (↖), Kyrgyzstan (↗), Xinjiang 新疆 (→), Afghanistan (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1997.09.29: Established as Mission sui juris of Tajikistan / Tadzikistanian(us) (Latin) (from Apostolic Administration of Kazakhstan)Present PrelatesEcclesiastical Superior (2013.09.19 – ...):Fr. Pedro Ramiro López, I.V.E. (47)OrdinariesEcclesiastical Superiors of Tajikistan (Roman Rite)Fr. Pedro Ramiro López, I.V.E. (47)  (2013.09.19 – ...)Ecclesiastical Superior of Tajikistan (Tajikistan)Born:1978.09.12 (San Rafael, Argentina)Ordained Priest:2003.08.29Ecclesiastical Superior of Tajikistan (Tajikistan) (2013.09.19 – ...)Fr. Carlos Antonio Ávila Mártinez, O.P.  (1997.09.29 – 2013.09.19)Born:1964.08.12 (Comodoro Rivadavia, Argentina)Ordained Priest:1990.12.08Ecclesiastical Superior of Tajikistan (Tajikistan) (1997.09.29 – 2013.09.19)Formerly religious of Institute of the Incarnate Word. Special ChurchesPro-Cathedral:  Church of St. Joseph, Dushanbe Churches by City (3)Show MapUzbekistan (↖), Kyrgyzstan (↗), Xinjiang 新疆 (→), Afghanistan (↓)Statistics (2021.12.31)Area: 144,100 km²Population: 130 Catholics (0.0% of 9,624,000 total)Pastoral Centres: 2 parishesPersonnel: 4 priests (religious), 18 religious (4 brothers, 14 sisters)PopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "taji0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 9624000,
+    "catholiques": 130,
+    "pourcentage_catholiques": 0.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 2
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

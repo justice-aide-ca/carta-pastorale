@@ -1,0 +1,29 @@
+{
+  "id": "do-zped2",
+  "nom": "San Pedro de Macorís",
+  "pays": "do",
+  "pays_nom": "Dominican Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: San Pedro de Macorís / Sancti Petri de Macoris (Latin)Ecclesiastical Province: Santo DomingoNeighbouring Dioceses: Stella Maris (←), Santo Domingo (↖), San Francisco de Macorís (↖), Nuestra Señora de la Altagracia en Higüey (→)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (Universal) 📅History1997.02.01: Established as Diocese of San Pedro de Macorís / Sancti Petri de Macoris (Latin) (from Metropolitan Archdiocese of Santo Domingo and Diocese of Nuestra Señora de la Altagracia en Higüey and became suffragan of Santo Domingo)Present PrelatesBishop (2017.11.03 – ...):Bishop Santiago Rodríguez Rodríguez (58)OrdinariesBishops of San Pedro de Macorís (Roman Rite)Bishop Santiago Rodríguez Rodríguez (58)  (2017.11.03 – ...)Bishop of San Pedro de Macorís (Dominican Republic)In verbo tuo laxabo retiaBorn:1968.05.25 (Mamey, Puerto Plata, Dominican Republic)Ordained Priest:2000.06.24Consecrated Bishop:2017.12.30Priest of Puerto Plata (Dominican Republic) (2000.06.24 – 2017.11.03)Bishop of San Pedro de Macorís (Dominican Republic) (2017.11.03 – ...)Bishop Francisco Ozoria Acosta (74) (later Archbishop)  (1997.02.01 – 2016.07.04)Metropolitan Archbishop of Santo Domingo (Dominican Republic)Military Ordinary of Dominican Republic (Dominican Republic)Dios proveeráBorn:1951.10.10 (Nagua, María Trinidad Sánchez, Dominican Republic)Ordained Priest:1978.09.02Consecrated Bishop:1997.03.15Priest of San Francisco de Macorís (Dominican Republic) (1978.09.02 – 1997.02.01)Bishop of San Pedro de Macorís (Dominican Republic) (1997.02.01 – 2016.07.04)Metropolitan Archbishop of Santo Domingo (Dominican Republic) (2016.07.04 – ...)Military Ordinary of Dominican Republic (Dominican Republic) (2017.01.02 – ...)Special ChurchesCathedral:  Catedral San Pedro Apóstol, San Pedro de Macorís, San Pedro de Macorís, Higuamo Show MapStella Maris (←), Santo Domingo (↖), San Francisco de Macorís (↖), Nuestra Señora de la Altagracia en Higüey (→)Statistics (2022.12.31)Area: 2,588 km²Population: 611,900 Catholics (86.7% of 705,600 total)Pastoral Centres: 29 parishes, 5 missionsPersonnel: 32 priests (26 diocesan, 6 religious), 26 deacons, 84 religious (16 brothers, 68 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zped2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 705600,
+    "catholiques": 611900,
+    "pourcentage_catholiques": 86.7
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 32,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

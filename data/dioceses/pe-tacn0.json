@@ -1,0 +1,29 @@
+{
+  "id": "pe-tacn0",
+  "nom": "Tacna y Moquegua",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Tacna y Moquegua / Tacnen(sis) et Moqueguen(sis) (Latin)Ecclesiastical Province: ArequipaNeighbouring Dioceses: Arequipa (↖), Puno (↑), Juli (↗), Corocoro (→), San Marcos de Arica (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsCathedral Dedication Anniversary: August 25Liturgical Calendar 📅History1944.12.18: Established as Diocese of Tacna / Tacnen(sis) (Latin) (from Metropolitan Archdiocese of Arequipa and became suffragan of Arequipa)1992.07.11: Renamed as Diocese of Tacna y Moquegua / Tacnen(sis) et Moqueguen(sis) (Latin)Present PrelatesBishop (2006.09.01 – ...):Bishop Marco Antonio Cortez Lara (68)Monsignors (4)OrdinariesBishops of Tacna y Moquegua (Roman Rite)Bishop Marco Antonio Cortez Lara (68)  (2006.09.01 – ...)Bishop of Tacna y Moquegua (Peru)Elegi te meus es tuBorn:1957.12.10 (Chiclayo, Peru)Ordained Priest:1985.02.03Consecrated Bishop:2005.05.04Priest of Chiclayo (Peru) (1985.02.03 – 2005.03.18)Coadjutor Bishop of Tacna y Moquegua (Peru) (2005.03.18 – 2006.09.01)Bishop of Tacna y Moquegua (Peru) (2006.09.01 – ...)Bishop José Hugo Garaycoa Hawkins  (1992.07.11 – 2006.09.01)Born:1930.06.02 (Callao, Peru)Ordained Priest:1961.07.09Consecrated Bishop:1983.01.25Died:2018.03.27 (Lima, Peru † 87)Titular Bishop of Horæa (1982.12.16 – 1991.06.06)Auxiliary Bishop of Lima (Peru) (1982.12.16 – 1991.06.06)Bishop of Tacna (Peru) (1991.06.06 – 1992.07.11)Bishop of Tacna y Moquegua (Peru) (1992.07.11 – 2006.09.01)President of Episcopal Conference of Peru (2003.09 – 2006)Bishops of Tacna (Roman Rite)Bishop José Hugo Garaycoa Hawkins  (1991.06.06 – 1992.07.11)(see above)Bishop Oscar Julio Alzamora Revoredo, S.M.  (1982.12.16 – 1991.02.13)Born:1929.01.11 (Lima, Peru)Ordained Priest:1963.03.29Consecrated Bishop:1983.03.25Died:1999.05.19 († 70)Bishop of Tacna (Peru) (1982.12.16 – 1991.02.13)Auxiliary Bishop of Lima (Peru) (1991.02.13 – 1999.05.19)Bishop Oscar Rolando Cantuarias Pastor (later Archbishop)  (1973.10.05 – 1981.09.09)Born:1931.05.13 (Ascope, Peru)Ordained Priest:1955.12.17Consecrated Bishop:1973.12.02Died:2011.11.08 (Lima, Peru † 80)Bishop of Tacna (Peru) (1973.10.05 – 1981.09.09)Metropolitan Archbishop of Piura (Peru) (1981.09.09 – 2006.07.11)Bishop Alfonso Zaplana Bellizza  (1957.12.17 – 1973.04.28)Born:1912.01.20 (Moquegua, Peru)Ordained Priest:1938.03.12Consecrated Bishop:1952.09.14Died:1973.04.28 (Lima, Peru † 61)Priest of Tacna (Peru) (1938.03.12 – 1952.07.14)Titular Bishop of Agbia (1952.07.14 – 1957.12.17)Auxiliary Bishop of Trujillo (Honduras) (1952.07.14 – 1957.12.17)Bishop of Tacna (Peru) (1957.12.17 – 1973.04.28)Bishop Carlos Alberto Arce Masías  (1945.07.06 – 1956.12.17)Born:1903.11.24 (Simbale, Peru)Ordained Priest:1927.10.30Consecrated Bishop:1945.07.15Died:1963.01.06 (Lima, Peru † 59)Bishop of Tacna (Peru) (1945.07.06 – 1956.12.17)Bishop of Huánuco (Peru) (1956.12.17 – 1959.02.06)Bishop of Piura (Peru) (1959.02.06 – 1963.01.06)Former PrelatesCoadjutor Bishop: Bishop Marco Antonio Cortez Lara (68) (2005.03.18 – 2006.09.01)Coadjutor Bishop: Bishop José Eduardo Velásquez Tarazona (2000.07.01 – 2004.02.04)Auxiliary Bishop: Bishop Juan Carlos Asqui Pilco (53) (2022.03.26 – 2025.12.12)Special ChurchesCathedral:  Catedral Nuestra Señora del Rosario, Tacna, Tacna Co-Cathedral:  Concatedral Santo Domingo, Moquegua, Moquegua Jubilee Churches in the Holy Year 2025Show MapArequipa (↖), Puno (↑), Juli (↗), Corocoro (→), San Marcos de Arica (↓)Statistics (2022.12.31)Area: 31,810 km²Population: 573,000 Catholics (87.7% of 653,000 total)Pastoral Centres: 42 parishesPersonnel: 46 priests (34 diocesan, 12 religious), 2 deacons, 93 religious (13 brothers, 80 sisters), 8 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tacn0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 653000,
+    "catholiques": 573000,
+    "pourcentage_catholiques": 87.7
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 46,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 42
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ch-laiz0",
+  "nom": "Laï",
+  "pays": "ch",
+  "pays_nom": "Chad",
+  "continent": "unknown",
+  "type": "Diocese Name: Laï / Laien(sis) (Latin)Ecclesiastical Province: N’DjaménaNeighbouring Dioceses: Pala (←), N’Djaména (↑), Sarh (→), Koumra (→), Doba (↘), Moundou (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1998.11.28: Established as Diocese of Laï / Laien(sis) (Latin) (from Diocese of Doba and Diocese of Moundou and became suffragan of N’Djaména)Present PrelatesBishop (2019.12.14 – ...):Bishop Nicolas Nadji Bab (56)OrdinariesBishops of Laï (Roman Rite)Bishop Nicolas Nadji Bab (56)  (2019.12.14 – ...)Bishop of Laï (Chad)Born:1969.09.02 (Béré, Chad)Ordained Priest:2002.05.11Consecrated Bishop:2020.02.23Priest of Laï (Chad) (2002.05.11 – 2019.12.14)Bishop of Laï (Chad) (2019.12.14 – ...)Bishop Miguel Ángel Sebastián Martínez, M.C.C.J. (75)  (1998.11.28 – 2018.10.10)Bishop emeritus of Sarh (Chad)Dominus tecumBorn:1950.09.28 (Zaragoza, Spain)Ordained Priest:1975.06.07Consecrated Bishop:1999.02.14Bishop of Laï (Chad) (1998.11.28 – 2018.10.10)Apostolic Administrator of Doba (Chad) (2014.01.30 – 2016.12.10)Bishop of Sarh (Chad) (2018.10.10 – 2026.07.16)Special ChurchesCathedral:  Cathédrale de la Sainte-Famille, Laï, Tandjilé Show MapPala (←), N’Djaména (↑), Sarh (→), Koumra (→), Doba (↘), Moundou (↓)Statistics (2022.12.31)Area: 18,045 km²Population: 171,000 Catholics (16.1% of 1,063,000 total)Pastoral Centres: 17 parishes, 1 missionPersonnel: 34 priests (27 diocesan, 7 religious), 83 religious (52 brothers, 31 sisters), 35 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.16© 2026 GCatholic.org",
+  "code_gcatholic": "laiz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1063000,
+    "catholiques": 171000,
+    "pourcentage_catholiques": 16.1
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 34,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

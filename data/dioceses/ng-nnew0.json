@@ -1,0 +1,29 @@
+{
+  "id": "ng-nnew0",
+  "nom": "Nnewi",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Nnewi / Nnevien(sis) (Latin)Ecclesiastical Province: OnitshaNeighbouring Dioceses: Owerri (↙), Warri (←), Onitsha (↑), Ekwulobia (→), Orlu (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2001.11.09: Established as Diocese of Nnewi / Nnevien(sis) (Latin) (from Metropolitan Archdiocese of Onitsha and became suffragan of Onitsha)Present PrelatesBishop (2021.11.09 – ...):Bishop Jonas Benson Okoye (63)Monsignors (8)OrdinariesBishops of Nnewi (Roman Rite)Bishop Jonas Benson Okoye (63)  (2021.11.09 – ...)Bishop of Nnewi (Nigeria)Gaudium et spesBorn:1963.01.25 (Kaduna, Nigeria)Ordained Priest:1992.08.29Consecrated Bishop:2014.08.29Priest of Awka (Nigeria) (1992.08.29 – 2014.05.30)Titular Bishop of Masclianæ (2014.05.30 – 2021.11.09)Auxiliary Bishop of Awka (Nigeria) (2014.05.30 – 2021.11.09)Bishop of Nnewi (Nigeria) (2021.11.09 – ...)Bishop Hilary Paul Odili Okeke (79)  (2001.11.09 – 2021.11.09)Bishop emeritus of Nnewi (Nigeria)Gratia autem Dei sumBorn:1947.01.21 (Utuh, Nigeria)Ordained Priest:1974.04.20Consecrated Bishop:2002.02.10Priest of Onitsha (Nigeria) (1974.04.20 – 2001.11.09)Chaplain of His Holiness (1994.09.05 – 2001.11.09)Bishop of Nnewi (Nigeria) (2001.11.09 – 2021.11.09)Special ChurchesCathedral:  Cathedral of Our Lady of Assumption, Nnewi, Anambra Show MapOwerri (↙), Warri (←), Onitsha (↑), Ekwulobia (→), Orlu (↓)Statistics (2022.12.31)Area: 1,160 km²Population: 554,021 Catholics (51.3% of 1,080,350 total)Pastoral Centres: 121 parishes, 4 missionsPersonnel: 299 priests (273 diocesan, 26 religious), 353 religious (347 brothers, 6 sisters), 150 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nnew0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1080350,
+    "catholiques": 554021,
+    "pourcentage_catholiques": 51.3
+  },
+  "ressources": {
+    "pretres_diocesains": 273,
+    "pretres_religieux": null,
+    "total_pretres": 299,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 121
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

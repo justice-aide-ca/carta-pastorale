@@ -1,0 +1,29 @@
+{
+  "id": "br-pres0",
+  "nom": "Presidente Prudente",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Presidente Prudente / Prudentipolitan(us) (Latin)Ecclesiastical Province: BotucatuNeighbouring Dioceses: Paranavaí (↙), Naviraí (←), Três Lagoas (↑), Marília (↗), Assis (→), Londrina (↓), Apucarana (↓), Maringá (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Sebastian (January 20)Liturgical Calendar (National) 📅History1960.01.16: Established as Diocese of Presidente Prudente / Prudentipolitan(us) (Latin) (from Diocese of Assis and became suffragan of Botucatu)1983.04.11: Gained territory from Diocese of AssisPresent PrelatesBishop (2008.04.16 – ...):Bishop Benedito Gonçalves dos Santos (67)Monsignors (6)OrdinariesBishops of Presidente Prudente (Roman Rite)Bishop Benedito Gonçalves dos Santos (67)  (2008.04.16 – ...)Bishop of Presidente Prudente (Brazil)Fazei tudo o que Ele vos disserBorn:1958.07.19 (Paracatu, MG, Brazil)Ordained Priest:1990.12.08Consecrated Bishop:2008.07.05Priest of Paracatu (Brazil) (1990.12.08 – 2008.04.16)Chaplain of His Holiness (2007.03.05 – 2008.04.16)Bishop of Presidente Prudente (Brazil) (2008.04.16 – ...)Bishop José María Libório Camino Saracho  (2002.02.20 – 2008.04.16)Segregatus in Evangelium DeiBorn:1931.11.13 (Santurce, Spain)Ordained Priest:1958.07.06Consecrated Bishop:1999.09.29Died:2021.08.30 (São Paolo, SP, Brazil † 89)Priest of São Miguel Paulista (Brazil) (1958.07.06 – 1999.06.16)Chaplain of His Holiness (1992.06.28 – 1999.06.16)Titular Bishop of Urusi (1999.06.16 – 2002.02.20)Auxiliary Bishop of São Miguel Paulista (Brazil) (1999.06.16 – 2002.02.20)Bishop of Presidente Prudente (Brazil) (2002.02.20 – 2008.04.16)Bishop Antônio Agostinho Marochi  (1976.02.02 – 2002.02.20)Evangelizare divitias ChristiBorn:1925.08.28 (Campo Largo da Piedade, PR, Brazil)Ordained Priest:1953.12.06Consecrated Bishop:1973.12.06Died:2018.01.28 (Presidente Prudente, SP, Brazil † 92)Titular Bishop of Thabraca (1973.09.27 – 1976.02.02)Auxiliary Bishop of Londrina (Brazil) (1973.09.27 – 1976.02.02)Bishop of Presidente Prudente (Brazil) (1976.02.02 – 2002.02.20)Bishop José Gonçalves da Costa, C.SS.R. (later Archbishop)  (1969.11.24 – 1975.08.19)Amoris officium pascereBorn:1914.04.27 (Belo Horizonte, MG, Brazil)Ordained Priest:1938.12.18Consecrated Bishop:1962.08.19Died:2001.06.19 (Belo Horizonte, MG, Brazil † 87)Titular Bishop of Rhodopolis (1962.06.25 – 1969.11.24)Auxiliary Bishop of São Sebastião do Rio de Janeiro (Brazil) (1962.06.25 – 1969.11.24)General Secretary of National Conference of Bishops of Brazil (1964 – 1968)Bishop of Presidente Prudente (Brazil) (1969.11.24 – 1975.08.19)Titular Archbishop of Ulcinj (1975.08.19 – 1979.04.19)Coadjutor Archbishop of Niterói (Brazil) (1975.08.19 – 1979.04.19)Metropolitan Archbishop of Niterói (Brazil) (1979.04.19 – 1990.05.09)Bishop José de Aquino Pereira  (1960.03.26 – 1968.05.06)Oportet illum regnareBorn:1920.04.22 (Andrães, MG, Brazil)Ordained Priest:1944.12.03Consecrated Bishop:1958.04.13Died:2011.11.17 (São José do Rio Preto, SP, Brazil † 91)Priest of São Carlos (Brazil) (1944.12.03 – 1958.01.23)Bishop of Dourados (Brazil) (1958.01.23 – 1960.03.26)Bishop of Presidente Prudente (Brazil) (1960.03.26 – 1968.05.06)Bishop of Rio Preto (Brazil) (1968.05.06 – 1997.02.26)Special ChurchesCathedral:  Catedral São Sebastião, Presidente Prudente, São Paulo Jubilee Churches in the Holy Year 2025Churches by City (56)Show MapParanavaí (↙), Naviraí (←), Três Lagoas (↑), Marília (↗), Assis (→), Londrina (↓), Apucarana (↓), Maringá (↓)Statistics (2022.12.31)Area: 15,513 km²Population: 542,400 Catholics (93.1% of 582,700 total)Pastoral Centres: 55 parishesPersonnel: 70 priests (62 diocesan, 8 religious), 60 religious (17 brothers, 43 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pres0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 582700,
+    "catholiques": 542400,
+    "pourcentage_catholiques": 93.1
+  },
+  "ressources": {
+    "pretres_diocesains": 62,
+    "pretres_religieux": null,
+    "total_pretres": 70,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 55
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "br-alto3",
+  "nom": "Alto Xingu–Tucumã",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Territorial Prelature Name: Alto Xingu–Tucumã (Português) / Xinguen(sis) Superior(is)–Tucumanen(sis) in Brasilia (Latin)Ecclesiastical Province: SantarémNeighbouring Dioceses: Itaituba (←), Xingu–Altamira (↑), Marabá (→), Santíssima Conceição do Araguaia (↘), São Félix (↓), Sinop (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Nossa Senhora AparecidaLiturgical Calendar (National) 📅History2019.11.06: Established as Territorial Prelature of Alto Xingu–Tucumã (Português) / Xinguen(sis) Superior(is)–Tucumanen(sis) in Brasilia (Latin) (from Diocese of Marabá and Territorial Prelature of Xingu and became suffragan of Santarém)Present PrelatesBishop-Prelate (2019.11.06 – ...):Bishop Jesús María López Mauléon, O.A.R. (71)OrdinariesPrelates of Alto Xingu–Tucumã (Roman Rite)Bishop Jesús María López Mauléon, O.A.R. (71)  (2019.11.06 – ...)Bishop-Prelate of Alto Xingu–Tucumã (Brazil)Servus verbi tuiBorn:1955.03.05 (Mues, Saint Barthélemy)Ordained Priest:1981.07.18Consecrated Bishop:2019.12.29Bishop-Prelate of Alto Xingu–Tucumã (Brazil) (2019.11.06 – ...)Special ChurchesCathedral:  Catedral Nossa Senhora Aparecida, Tucumã, Pará Churches by City (10)Show MapItaituba (←), Xingu–Altamira (↑), Marabá (→), Santíssima Conceição do Araguaia (↘), São Félix (↓), Sinop (↓)Statistics (2022.12.31)Area: 139,418 km²Population: 166,000 Catholics (64.1% of 259,000 total)Pastoral Centres: 7 parishesPersonnel: 11 priests (4 diocesan, 7 religious), 12 religious (7 brothers, 5 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "alto3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 259000,
+    "catholiques": 166000,
+    "pourcentage_catholiques": 64.1
+  },
+  "ressources": {
+    "pretres_diocesains": 4,
+    "pretres_religieux": null,
+    "total_pretres": 11,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

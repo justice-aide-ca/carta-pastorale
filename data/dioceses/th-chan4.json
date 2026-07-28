@@ -1,0 +1,29 @@
+{
+  "id": "th-chan4",
+  "nom": "Chanthaburi",
+  "pays": "th",
+  "pays_nom": "Thailand",
+  "continent": "unknown",
+  "type": "Diocese Name: Chanthaburi / 庄他武里 (正體中文) / สังฆมณฑลจันทบุรี (ไทย) / Chanthaburi (Latin)Ecclesiastical Province: BangkokNeighbouring Dioceses: Bangkok (↖), Nakhon Sawan (↖), Nakhon Ratchasima (↑), Bătdâmbâng (→)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (National) 📅History1944.05.11: Established as Apostolic Vicariate of Chantaburi / Chantaburien(sis) (Latin) (from Apostolic Vicariate of Bangkok)1965.12.18: Promoted as Diocese of Chantaburi / Chantaburien(sis) (Latin) (became suffragan of Bangkok)1969.07.02: Renamed as Diocese of Chanthaburi / 庄他武里 (正體中文) / สังฆมณฑลจันทบุรี (ไทย) / Chanthaburi (Latin)Present PrelatesBishop (2024.11.11 – ...):Bishop Philip Adisak Phorn-Ngam (71)OrdinariesBishops of Chanthaburi (Roman Rite)Bishop Philip Adisak Phorn-Ngam (71)  (2024.11.11 – ...)Bishop of Chanthaburi (Thailand)Born:1954.11.19 (Hua Phai, Thailand)Ordained Priest:1986.09.13Consecrated Bishop:2025.02.08Priest of Chanthaburi (Thailand) (1986.09.13 – 2024.11.11)Bishop of Chanthaburi (Thailand) (2024.11.11 – ...)Bishop Silvio Siripong Charatsri (66)  (2009.04.04 – 2023.06.13)Bishop of Ratchaburi (Thailand)Pax et caritasBorn:1959.12.10 (Ban Nok Khwaek, Thailand)Ordained Priest:1987.05.19Consecrated Bishop:2009.07.04Priest of Ratchaburi (Thailand) (1987.05.19 – 2009.04.04)Bishop of Chanthaburi (Thailand) (2009.04.04 – 2023.06.13)Bishop of Ratchaburi (Thailand) (2023.06.13 – ...)Bishop Lawrence Thienchai Samanchit (94)  (1971.07.03 – 2009.04.04)Bishop emeritus of Chanthaburi (Thailand)Vox claraBorn:1931.11.28 (Huaphai, Thailand)Ordained Priest:1959.01.29Consecrated Bishop:1971.10.03Priest of Chanthaburi (Thailand) (1959.01.29 – 1971.07.03)Bishop of Chanthaburi (Thailand) (1971.07.03 – 2009.04.04)Apostolic Administrator of Ratchaburi (Thailand) (2003.06.20 – 2005.03.18)Bishop Francis Xavier Sanguon Souvannasri  (1969.07.02 – 1970.04.03)Born:1909.12.01 (Saowapha, Thailand)Ordained Priest:1936.02.09Consecrated Bishop:1953.04.22Died:1983.07.24 († 73)Priest of Bangkok (Thailand) (1936.02.09 – 1944.05.11)Priest of Chantaburi (Thailand) (1944.05.11 – 1953.01.08)Titular Bishop of Œnoanda (1953.01.08 – 1965.12.18)Vicar Apostolic of Chantaburi (Thailand) (1953.01.08 – 1965.12.18)Bishop of Chantaburi (Thailand) (1965.12.18 – 1969.07.02)Bishop of Chanthaburi (Thailand) (1969.07.02 – 1970.04.03)Titular Bishop of Urci (1970.04.03 – 1970.12.22)Bishops of Chantaburi (Roman Rite)Bishop Francis Xavier Sanguon Souvannasri  (1965.12.18 – 1969.07.02)(see above)Vicars Apostolic of Chantaburi (Roman Rite)Bishop Francis Xavier Sanguon Souvannasri  (1953.01.08 – 1965.12.18)(see above)Bishop Giacomo Luigi Cheng  (1944.05.11 – 1952.04.14)Born:1881.10.21 (Petriu, Thailand)Ordained Priest:1910.05.22Consecrated Bishop:1945.02.11Died:1952.04.14 († 70)Priest of Bangkok (Thailand) (1910.05.22 – 1944.05.11)Titular Bishop of Barcusus (1944.05.11 – 1952.04.14)Vicar Apostolic of Chantaburi (Thailand) (1944.05.11 – 1952.04.14)Special ChurchesCathedral:  Cathedral of the Immaculate Conception, Chanthaburi, Chanthaburi Jubilee Churches in the Holy Year 2025Show MapBangkok (↖), Nakhon Sawan (↖), Nakhon Ratchasima (↑), Bătdâmbâng (→)Statistics (2022.12.31)Area: 34,000 km²Population: 55,851 Catholics (1.1% of 5,165,783 total)Pastoral Centres: 41 parishes, 11 missionsPersonnel: 100 priests (80 diocesan, 20 religious), 280 religious (142 brothers, 138 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chan4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5165783,
+    "catholiques": 55851,
+    "pourcentage_catholiques": 1.1
+  },
+  "ressources": {
+    "pretres_diocesains": 80,
+    "pretres_religieux": null,
+    "total_pretres": 100,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 41
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

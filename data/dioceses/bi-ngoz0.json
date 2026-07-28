@@ -1,0 +1,29 @@
+{
+  "id": "bi-ngoz0",
+  "nom": "Ngozi",
+  "pays": "bi",
+  "pays_nom": "Burundi",
+  "continent": "unknown",
+  "type": "Diocese Name: Ngozi / Ngozien(sis) (Latin)Ecclesiastical Province: GitegaNeighbouring Dioceses: Bujumbura (↙), Bubanza (←), Butare (↑), Muyinga (→), Gitega (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1949.07.14: Established as Apostolic Vicariate of Ngozi / Ngozien(sis) (Latin) (from Apostolic Vicariate of Urundi)1959.06.11: Lost territory to establish Apostolic Vicariate of Usumbura1959.11.10: Promoted as Diocese of Ngozi / Ngozien(sis) (Latin) (became suffragan of Gitega)1968.09.05: Lost territory to establish Diocese of MuyingaPresent PrelatesBishop (2019.12.17 – ...):Bishop Georges Bizimana (61)OrdinariesBishops of Ngozi (Roman Rite)Bishop Georges Bizimana (61)  (2019.12.17 – ...)Bishop of Ngozi (Burundi)Born:1965.03.12 (Buraniro, Burundi)Ordained Priest:1994.08.20Consecrated Bishop:2014.03.01Priest of Ngozi (Burundi) (1994.08.20 – 2013.12.07)Coadjutor Bishop of Bubanza (Burundi) (2013.12.07 – 2019.12.17)Bishop of Ngozi (Burundi) (2019.12.17 – ...)Apostolic Administrator of Bubanza (Burundi) (2023.04.01 – 2025.02.15)Bishop Gervais Banshimiyubusa (73) (later Archbishop)  (2002.12.14 – 2018.03.24)Metropolitan Archbishop of Bujumbura (Burundi)Caritas Christi urget nosBorn:1952.09.09 (Gisuru, Burundi)Ordained Priest:1981.07.04Consecrated Bishop:2000.09.16Priest of Ruyigi (Burundi) (1981.07.04 – 2000.05.10)Coadjutor Bishop of Ngozi (Burundi) (2000.05.10 – 2002.12.14)Bishop of Ngozi (Burundi) (2002.12.14 – 2018.03.24)President of Catholic Bishops’ Conference of Burundi (2011 – 2017.03.10)Metropolitan Archbishop of Bujumbura (Burundi) (2018.03.24 – ...)Bishop Stanislas Kaburungu (90)  (1968.09.05 – 2002.12.14)Bishop emeritus of Ngozi (Burundi)Bon pour tousBorn:1935.10.07 (Gisanze, Burundi)Ordained Priest:1961.09.03Consecrated Bishop:1969.01.25Priest of Ngozi (Burundi) (1961.09.03 – 1968.09.05)Bishop of Ngozi (Burundi) (1968.09.05 – 2002.12.14)Bishop André Makarakiza, M. Afr. (later Archbishop)  (1961.08.21 – 1968.09.05)Born:1919.06.30 (Rudehe, Burundi)Ordained Priest:1951.08.16Consecrated Bishop:1961.12.08Died:2004.04.17 (Gitega, Burundi † 84)Bishop of Ngozi (Burundi) (1961.08.21 – 1968.09.05)Metropolitan Archbishop of Gitega (Burundi) (1968.09.05 – 1982.11.06)Bishop Joseph Martin, M. Afr.  (1959.11.10 – 1961.06.06)Cum fiduciaBorn:1903.04.29 (Saint-Rémy-les-Chimay, Belgium)Ordained Priest:1926.06.29Consecrated Bishop:1949.11.30Died:1982.06.13 (Verviers, Belgium † 79)Titular Bishop of Oliva (1949.07.14 – 1959.11.10)Vicar Apostolic of Ngozi (Burundi) (1949.07.14 – 1959.11.10)Bishop of Ngozi (Burundi) (1959.11.10 – 1961.06.06)Bishop of Bururi (Burundi) (1961.06.06 – 1973.09.17)Vicars Apostolic of Ngozi (Roman Rite)Bishop Joseph Martin, M. Afr.  (1949.07.14 – 1959.11.10)(see above)Former PrelatesCoadjutor Bishop: Bishop Gervais Banshimiyubusa (73) (later Archbishop) (2000.05.10 – 2002.12.14)Special ChurchesCathedral:  Cathédrale Notre Dame de Fatima, Ngozi, Ngozi Show MapBujumbura (↙), Bubanza (←), Butare (↑), Muyinga (→), Gitega (↓)Statistics (2022.12.31)Area: 2,707 km²Population: 1,324,241 Catholics (73.4% of 1,803,424 total)Pastoral Centres: 30 parishesPersonnel: 111 priests (99 diocesan, 12 religious), 388 religious (33 brothers, 355 sisters), 77 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ngoz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1803424,
+    "catholiques": 1324241,
+    "pourcentage_catholiques": 73.4
+  },
+  "ressources": {
+    "pretres_diocesains": 99,
+    "pretres_religieux": null,
+    "total_pretres": 111,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

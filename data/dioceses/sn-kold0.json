@@ -1,0 +1,29 @@
+{
+  "id": "sn-kold0",
+  "nom": "Kolda",
+  "pays": "sn",
+  "pays_nom": "Senegal",
+  "continent": "unknown",
+  "type": "Diocese Name: Kolda / Koldaën(sis) (Latin)Ecclesiastical Province: DakarNeighbouring Dioceses: Bissau (↙), Ziguinchor (←), Banjul (↖), Tambacounda (→), Bafatá (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1999.12.22: Established as Diocese of Kolda / Koldaën(sis) (Latin) (from Diocese of Ziguinchor and became suffragan of Dakar)Present PrelatesBishop (1999.12.22 – ...):Bishop Jean-Pierre Bassène (74)Coadjutor Bishop (2026.01.10 – ...):Bishop Joseph Francis Badji (60)OrdinariesBishops of Kolda (Roman Rite)Bishop Jean-Pierre Bassène (74)  (1999.12.22 – ...)Bishop of Kolda (Senegal)Born:1951.08.01 (Essyl, Senegal)Ordained Priest:1980.04.11Consecrated Bishop:2000.04.29Priest of Ziguinchor (Senegal) (1980.04.11 – 1999.12.22)Bishop of Kolda (Senegal) (1999.12.22 – ...)Apostolic Administrator of Tambacounda (Senegal) (2017.08.05 – 2021.11.04)Special ChurchesCathedral:  Cathédrale Notre-Dame des Victoires, Kolda, Kolda Show MapBissau (↙), Ziguinchor (←), Banjul (↖), Tambacounda (→), Bafatá (↓)Statistics (2022.12.31)Area: 21,011 km²Population: 35,930 Catholics (2.8% of 1,294,100 total)Pastoral Centres: 15 parishes, 2 missionsPersonnel: 39 priests (29 diocesan, 10 religious), 57 religious (16 brothers, 41 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kold0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1294100,
+    "catholiques": 35930,
+    "pourcentage_catholiques": 2.8
+  },
+  "ressources": {
+    "pretres_diocesains": 29,
+    "pretres_religieux": null,
+    "total_pretres": 39,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

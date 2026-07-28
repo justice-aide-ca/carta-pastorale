@@ -1,0 +1,29 @@
+{
+  "id": "en-hall0",
+  "nom": "Hallam",
+  "pays": "en",
+  "pays_nom": "England",
+  "continent": "unknown",
+  "type": "Diocese Name: Hallam / Hallamen(sis) (Latin)Ecclesiastical Province: LiverpoolNeighbouring Dioceses: Birmingham (↙), Shrewsbury (←), Leeds (↑), Middlesbrough (↗), Nottingham (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Our Lady of Perpetual Succour (June 27)Cathedral Dedication Anniversary: November 23 (2012)Liturgical Calendar (National) 📅History1980.05.30: Established as Diocese of Hallam / Hallamen(sis) (Latin) (from Diocese of Leeds and Diocese of Nottingham and became suffragan of Liverpool)Contact InfoAddress: Diocesan Centre, St. Charles’ St., Sheffield, Yorkshire S9 3WU, EnglandPhone: (0114)256.64.53Present PrelatesBishop:vacantApostolic Administrator (2026.03.20 – ...):Bishop Marcus Nigel Stock (64)Bishop of Leeds (England)Apostolic Administrator of Middlesbrough (England)Monsignors (9)OrdinariesBishops of Hallam (Roman Rite)Bishop Marcus Nigel Stock (64)  (Apostolic Administrator 2026.03.20 – ...)Bishop Ralph Heskett, C.SS.R. (73)  (2014.05.20 – 2026.03.20)Bishop emeritus of Hallam (England)Apud eum redemptioBorn:1953.03.03 (Sunderland, England)Ordained Priest:1976.07.10Consecrated Bishop:2010.07.10Bishop of Gibraltar (Gibraltar) (2010.03.18 – 2014.05.20)Bishop of Hallam (England) (2014.05.20 – 2026.03.20)Apostolic Administrator of Gibraltar (Gibraltar) (2014.07 – 2016.06.24)Bishop John Anthony Rawsthorne (89)  (1997.06.04 – 2014.05.20)Bishop emeritus of Hallam (England)Born:1936.11.12 (Crosby, Liverpool, England)Ordained Priest:1962.06.16Consecrated Bishop:1981.12.16Priest of Liverpool (England) (1962.06.16 – 1981.11.09)Titular Bishop of Rotdon (1981.11.09 – 1997.06.04)Auxiliary Bishop of Liverpool (England) (1981.11.09 – 1997.06.04)Bishop of Hallam (England) (1997.06.04 – 2014.05.20)Bishop Gerald Moverley  (1980.05.30 – 1996.07.09)Born:1922.04.09 (Bradford, England)Ordained Priest:1946.04.28Consecrated Bishop:1968.01.25Died:1996.12.14 (Sheffield, England † 74)Priest of Leeds (England) (1946.04.28 – 1967.12.06)Titular Bishop of Tinisa in Proconsulari (1967.12.06 – 1980.05.30)Auxiliary Bishop of Leeds (England) (1967.12.06 – 1980.05.30)Bishop of Hallam (England) (1980.05.30 – 1996.07.09)Special ChurchesCathedral:  Cathedral Church of St Marie, Sheffield, Sheffield Jubilee Churches in the Holy Year 2025Churches by City (72)Show MapBirmingham (↙), Shrewsbury (←), Leeds (↑), Middlesbrough (↗), Nottingham (↓)Statistics (2022.12.31)Area: 1,030 km²Population: 65,735 Catholics (4.0% of 1,625,660 total)Pastoral Centres: 52 parishesPersonnel: 56 priests (48 diocesan, 8 religious), 16 deacons, 38 religious (8 brothers, 30 sisters), 1 seminarianPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "hall0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1625660,
+    "catholiques": 65735,
+    "pourcentage_catholiques": 4.0
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 56,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 52
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

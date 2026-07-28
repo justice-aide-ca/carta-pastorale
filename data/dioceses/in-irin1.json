@@ -1,0 +1,29 @@
+{
+  "id": "in-irin1",
+  "nom": "Irinjalakuda",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Irinjalakuda / Irinialakuden(sis) (Latin)Ecclesiastical Province: TrichurNeighbouring Dioceses: Trichur (↑), Ramanathapuram (↗), Kothamangalam (↘), Ernakulam–Angamaly (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Sacred Heart of JesusHistory1978.06.22: Established as Diocese of Irinjalakuda / Irinialakuden(sis) (Latin) (from Diocese of Trichur and became suffragan of Ernakulam)1995.05.18: Became suffragan of TrichurPresent PrelatesBishop (2010.01.18 – ...):Bishop Pauly Kannookadan (64)Monsignors (5)OrdinariesBishops of Irinjalakuda (Syro-Malabar Rite)Bishop Pauly Kannookadan (64)  (2010.01.18 – ...)Bishop of Irinjalakuda of the Syro-Malabars (India)As you did it to the least one you did it to meBorn:1961.12.14 (Kuzhikattussery, India)Ordained Priest:1985.12.28Consecrated Bishop:2010.04.18Priest of Irinjalakuda of the Syro-Malabars (India) (1985.12.28 – 2010.01.18)Bishop of Irinjalakuda of the Syro-Malabars (India) (2010.01.18 – ...)Bishop James Pazhayattil  (1978.06.22 – 2010.01.18)Born:1934.07.26 (Puthenchira, India)Ordained Priest:1961.10.03Consecrated Bishop:1978.09.10Died:2016.07.10 († 81)Priest of Trichur of the Syro-Malabars (India) (1961.10.03 – 1978.06.22)Bishop of Irinjalakuda of the Syro-Malabars (India) (1978.06.22 – 2010.01.18)Special ChurchesCathedral:  St. Thomas Cathedral, Irinjalakuda, Kerala Former Cathedral:  St. Mary’s Forane Church, Puthenchira, Kerala Show MapTrichur (↑), Ramanathapuram (↗), Kothamangalam (↘), Ernakulam–Angamaly (↓)Statistics (2022.12.31)Area: 1,180 km²Population: 271,012 Catholics (19.0% of 1,424,100 total)Pastoral Centres: 141 parishes, 2 missionsPersonnel: 350 priests (218 diocesan, 132 religious), 2,206 religious (214 brothers, 1,992 sisters), 71 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "irin1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1424100,
+    "catholiques": 271012,
+    "pourcentage_catholiques": 19.0
+  },
+  "ressources": {
+    "pretres_diocesains": 218,
+    "pretres_religieux": null,
+    "total_pretres": 350,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 141
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

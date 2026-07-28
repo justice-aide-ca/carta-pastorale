@@ -1,0 +1,29 @@
+{
+  "id": "in-vell1",
+  "nom": "Vellore",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Vellore / Velloren(sis) (Latin)Ecclesiastical Province: Madras and MylaporeNeighbouring Dioceses: Dharmapuri (↙), Cuddapah (↑), Madras and Mylapore (→), Chingleput (→), Pondicherry and Cuddalore (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Mary Help of Christians, Saint Dominic Savio, Saint Maria GorettiLiturgical Calendar (National) 📅History1952.11.13: Established as Diocese of Vellore / Velloren(sis) (Latin) (from Metropolitan Archdiocese of Madras and became suffragan of Madras and Mylapore)1969.08.01: Lost territory to Metropolitan Archdiocese of Madras and Mylapore1969.09.01: Gained territory from Metropolitan Archdiocese of Pondicherry and CuddalorePresent PrelatesBishop (2024.11.09 – ...):Bishop Ambrose Pitchaimuthu (60)OrdinariesBishops of Vellore (Roman Rite)Bishop Ambrose Pitchaimuthu (60)  (2024.11.09 – ...)Bishop of Vellore (India)Born:1966.05.03 (Cheyyur, Tamil Nādu, India)Ordained Priest:1993.03.25Consecrated Bishop:2024.12.09Priest of Madras and Mylapore (India) (1993.03.25 – 2002.06.28)Priest of Chingleput (India) (2002.06.28 – 2024.11.09)Bishop of Vellore (India) (2024.11.09 – ...)Bishop Soundaraj Periyanayagam, S.D.B.  (2006.07.11 – 2020.03.21)Through you I liveBorn:1949.06.06 (Periya Kolappalur, India)Ordained Priest:1983.06.25Consecrated Bishop:2006.08.24Died:2020.03.21 (Chetpet, India † 70)Bishop of Vellore (India) (2006.07.11 – 2020.03.21)Bishop Malayappan Chinnappa, S.D.B. (88) (later Archbishop)  (1993.11.17 – 2005.04.01)Metropolitan Archbishop emeritus of Madras and Mylapore (India)To serve my life for manyBorn:1937.07.23 (Ayandur-Mugaiyur, India)Ordained Priest:1972.12.16Consecrated Bishop:1994.01.25Bishop of Vellore (India) (1993.11.17 – 2005.04.01)Metropolitan Archbishop of Madras and Mylapore (India) (2005.04.01 – 2012.11.21)Bishop Savarinathan Michael Augustine (later Archbishop)  (1981.06.19 – 1992.02.18)Life of a shepherdBorn:1933.06.12 (Kovilanur, India)Ordained Priest:1961.04.15Consecrated Bishop:1978.03.29Died:2017.11.04 (Pondicherry, India † 84)Priest of Pondicherry and Cuddalore (India) (1961.04.15 – 1978.01.30)Titular Bishop of Bararus (1978.01.30 – 1981.06.19)Auxiliary Bishop of Madras and Mylapore (India) (1978.01.30 – 1981.06.19)Bishop of Vellore (India) (1981.06.19 – 1992.02.18)Metropolitan Archbishop of Pondicherry and Cuddalore (India) (1992.02.18 – 2004.06.10)Bishop Royappan Antony Muthu  (1970.11.23 – 1980.12.19)Born:1912.04.07 (Vellicode, India)Ordained Priest:1936.03.28Consecrated Bishop:1971.04.21Died:1980.12.19 († 68)Bishop of Vellore (India) (1970.11.23 – 1980.12.19)Bishop David Maryanayagam Swamidoss Pillat, S.D.B.  (1956.07.04 – 1969.07.17)Born:1905.01.11 (Vallambury, India)Ordained Priest:1934.07.07Consecrated Bishop:1956.09.09Died:1969.07.17 († 64)Bishop of Vellore (India) (1956.07.04 – 1969.07.17)Bishop Pablo Mariaselvam, S.D.B.  (1953 – 1954.06.25)Born:1897.03.04 (Trichinopoly, India)Ordained Priest:1922Consecrated Bishop:1953.03.19Died:1954.06.25 († 57)Bishop of Vellore (India) (1953 – 1954.06.25)Special ChurchesCathedral:  Assumption Cathedral, Vellore, Tamil Nādu Show MapDharmapuri (↙), Cuddapah (↑), Madras and Mylapore (→), Chingleput (→), Pondicherry and Cuddalore (↘)Statistics (2020.12.31)Area: 12,268 km²Population: 197,000 Catholics (3.0% of 6,532,000 total)Pastoral Centres: 89 parishes, 1 missionPersonnel: 224 priests (131 diocesan, 93 religious), 1,010 religious (130 brothers, 880 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "vell1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6532000,
+    "catholiques": 197000,
+    "pourcentage_catholiques": 3.0
+  },
+  "ressources": {
+    "pretres_diocesains": 131,
+    "pretres_religieux": null,
+    "total_pretres": 224,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 89
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

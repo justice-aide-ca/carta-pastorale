@@ -1,0 +1,29 @@
+{
+  "id": "br-navi0",
+  "nom": "Naviraí",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Naviraí (Português) / Naviraien(sis) (Latin)Ecclesiastical Province: Campo GrandeNeighbouring Dioceses: Coronel Oviedo (↙), Dourados (↖), Campo Grande (↑), Três Lagoas (↗), Presidente Prudente (↗), Paranavaí (→), Umuarama (↘), Canindeyú (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2011.06.01: Established as Diocese of Naviraí (Português) / Naviraien(sis) (Latin) (from Diocese of Dourados and became suffragan of Campo Grande)Present PrelatesBishop (2011.06.01 – ...):Bishop Ettore Dotti, C.S.F. (65)OrdinariesBishops of Naviraí (Roman Rite)Bishop Ettore Dotti, C.S.F. (65)  (2011.06.01 – ...)Bishop of Naviraí (Brazil)Deus meus et omniaBorn:1961.01.01 (Palosco, Italy)Ordained Priest:1994.06.28Consecrated Bishop:2011.07.22Bishop of Naviraí (Brazil) (2011.06.01 – ...)Special ChurchesCathedral:  Catedral Nossa Senhora de Fátima, Naviraí, Mato Grosso do Sul Churches by City (20)Show MapCoronel Oviedo (↙), Dourados (↖), Campo Grande (↑), Três Lagoas (↗), Presidente Prudente (↗), Paranavaí (→), Umuarama (↘), Canindeyú (↓)Statistics (2022.12.31)Area: 35,138 km²Population: 213,000 Catholics (71.0% of 300,000 total)Pastoral Centres: 22 parishes, 1 missionPersonnel: 34 priests (18 diocesan, 16 religious), 8 deacons, 31 religious (17 brothers, 14 sisters), 13 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "navi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 300000,
+    "catholiques": 213000,
+    "pourcentage_catholiques": 71.0
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 34,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sv-sons0",
+  "nom": "Sonsonate",
+  "pays": "sv",
+  "pays_nom": "El Salvador",
+  "continent": "unknown",
+  "type": "Diocese Name: Sonsonate / Sonsonaten(sis) (Latin)Ecclesiastical Province: San SalvadorNeighbouring Dioceses: Santa Ana (↑), San Salvador (→)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1986.05.31: Established as Diocese of Sonsonate / Sonsonaten(sis) (Latin) (from Diocese of Santa Ana and became suffragan of San Salvador)Present PrelatesBishop (2012.06.11 – ...):Bishop Constantino Barrera Morales (62)OrdinariesBishops of Sonsonate (Roman Rite)Bishop Constantino Barrera Morales (62)  (2012.06.11 – ...)Bishop of Sonsonate (El Salvador)El Señor es mi Pastor, nada me faltaráBorn:1963.12.18 (Cantón Rojita, El Salvador)Ordained Priest:1990.12.08Consecrated Bishop:2012.08.04Priest of San Vicente (El Salvador) (1990.12.08 – 2012.06.11)Bishop of Sonsonate (El Salvador) (2012.06.11 – ...)Bishop Fabio Reynaldo Colindres Abarca (65)  (Apostolic Administrator 2011.10.08 – 2012.06.11)Bishop José Adolfo Mojica Morales  (1989.11.18 – 2011.10.08)Todo lo puedo en aquel que me confortaBorn:1936.09.25 (Cantón Nancintepeque, El Salvador)Ordained Priest:1964.10.25Consecrated Bishop:1990.01.20Died:2012.03.02 († 75)Bishop of Sonsonate (El Salvador) (1989.11.18 – 2011.10.08)Bishop José Carmen Di Pietro Pésolo, S.D.B.  (1986.06.02 – 1989.05.30)Al servicio de la iglesia de Cristo con la ayuda de MaríaBorn:1928.09.03 (Foggia, Italy)Ordained Priest:1957.09.21Consecrated Bishop:1986.08.16Died:1989.05.30 († 60)Bishop of Sonsonate (El Salvador) (1986.06.02 – 1989.05.30)Special ChurchesCathedral:  Catedral Santísima Trinidad, Sonsonate, Sonsonate Show MapSanta Ana (↑), San Salvador (→)Statistics (2022.12.31)Area: 1,225 km²Population: 475,200 Catholics (90.3% of 526,078 total)Pastoral Centres: 30 parishesPersonnel: 64 priests (60 diocesan, 4 religious), 1 deacon, 79 religious (4 brothers, 75 sisters), 8 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sons0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 526078,
+    "catholiques": 475200,
+    "pourcentage_catholiques": 90.3
+  },
+  "ressources": {
+    "pretres_diocesains": 60,
+    "pretres_religieux": null,
+    "total_pretres": 64,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

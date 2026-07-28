@@ -1,0 +1,29 @@
+{
+  "id": "ni-blue0",
+  "nom": "Bluefields",
+  "pays": "ni",
+  "pays_nom": "Nicaragua",
+  "continent": "unknown",
+  "type": "Diocese Name: Bluefields / Bluefielden(sis) (Latin)Ecclesiastical Province: ManaguaNeighbouring Dioceses: Juigalpa (←), Granada (←), Matagalpa (↖), Siuna (↑), San Andrés y Providencia (→)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1913.12.02: Established as Apostolic Vicariate of Bluefields / Bluefielden(sis) (Latin) (from Diocese of León and became suffragan of Managua)2017.11.30: Promoted as Diocese of Bluefields / Bluefielden(sis) (Latin) (lost territory to establish Diocese of Siuna)Present PrelatesBishop (2020.11.12 – ...):Bishop Francisco José Tigerino Dávila (62)OrdinariesBishops of Bluefields (Roman Rite)Bishop Francisco José Tigerino Dávila (62)  (2020.11.12 – ...)Bishop of Bluefields (Nicaragua)Born:1963.10.18 (Chinandega, Nicaragua)Ordained Priest:2002.01.05Consecrated Bishop:2021.01.23Priest of León (Nicaragua) (2002.01.05 – 2020.11.12)Bishop of Bluefields (Nicaragua) (2020.11.12 – ...)Bishop Pablo Ervin Schmitz Simon, O.F.M. Cap. (82)  (2017.11.30 – 2020.11.12)Bishop emeritus of Bluefields (Nicaragua)Born:1943.12.04 (Fond du Lac, WI, USA)Ordained Priest:1970.09.03Consecrated Bishop:1984.09.17Auxiliary Bishop of Bluefields (Nicaragua) (1984.06.22 – 1994.07.28)Titular Bishop of Elepla (1984.06.22 – 2017.11.30)Vicar Apostolic of Bluefields (Nicaragua) (1994.07.28 – 2017.11.30)Bishop of Bluefields (Nicaragua) (2017.11.30 – 2020.11.12)Apostolic Administrator of Siuna (Nicaragua) (2020.01.09 – 2021.04.08)Vicars Apostolic of Bluefields (Roman Rite)Bishop Pablo Ervin Schmitz Simon, O.F.M. Cap. (82)  (1994.07.28 – 2017.11.30)(see above)Bishop Salvador Albert Schlaefer Berg, O.F.M. Cap.  (1970.06.25 – 1993.10.22)Born:1920.07.27 (Campbellsport, WI, USA)Ordained Priest:1946.06.05Consecrated Bishop:1970.08.12Died:1993.10.22 (El Rama, Nicaragua † 73)Titular Bishop of Flumenpiscense (1970.06.25 – 1993.10.22)Vicar Apostolic of Bluefields (Nicaragua) (1970.06.25 – 1993.10.22)President of Episcopal Conference of Nicaragua (1989 – 1991)Bishop Matteo Aloisio Niedhammer y Yaeckle, O.F.M. Cap.  (1943.05.11 – 1970.06.25)Born:1901.09.11 (New York, NY, USA)Ordained Priest:1927.06.08Consecrated Bishop:1943.06.29Died:1970.06.26 (Puerto Cabezas, Nicaragua † 68)Vicar Apostolic of Bluefields (Nicaragua) (1943.05.11 – 1970.06.25)Titular Bishop of Calœ (1943.05.11 – 1970.06.26)Bishop Juan Solá y Farrell, O.F.M. Cap.  (1931.02.24 – 1942)Born:1884.08.11 (Sant Llorenç Savall, Spain)Ordained Priest:1909.03.25Consecrated Bishop:1931.04.22Died:1973.08.27 († 89)Vicar Apostolic of Bluefields (Nicaragua) (1931.02.24 – 1942)Titular Bishop of Colophon (1931.02.24 – 1973.08.27)Bishop Agustín José Bernaus y Serra, O.F.M. Cap.  (1913.12.10 – 1930.01.18)Born:1863.08.16 (Artesa de Segre, Spain)Ordained Priest:1889.04.06Consecrated Bishop:1913.09.08Died:1930.01.18 († 66)Vicar Apostolic of Guam (Guam) (1913.05.09 – 1913.12.10)Titular Bishop of Eleutherna (1913.05.09 – 1930.01.18)Vicar Apostolic of Bluefields (Nicaragua) (1913.12.10 – 1930.01.18)Former PrelatesAuxiliary Bishop: Bishop David Albin Zywiec Sidor, O.F.M. Cap. (2002.06.24 – 2017.11.30)Auxiliary Bishop: Bishop Pablo Ervin Schmitz Simon, O.F.M. Cap. (82) (1984.06.22 – 1994.07.28)Special ChurchesCathedral:  Catedral Nuestra Señora del Rosario, Bluefields, Atlántico Sur Show MapJuigalpa (←), Granada (←), Matagalpa (↖), Siuna (↑), San Andrés y Providencia (→)Statistics (2022.12.31)Area: 19,965 km²Population: 663,500 Catholics (59.0% of 1,124,800 total)Pastoral Centres: 14 parishesPersonnel: 12 priests (diocesan), 3 deacons, 17 religious (17 sisters), 21 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "blue0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1124800,
+    "catholiques": 663500,
+    "pourcentage_catholiques": 59.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

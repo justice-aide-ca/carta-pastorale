@@ -1,0 +1,29 @@
+{
+  "id": "ph-lega0",
+  "nom": "Legazpi",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Legazpi / Legazpien(sis) (Latin)Ecclesiastical Province: CaceresNeighbouring Dioceses: Caceres (↖), Virac (↗), Sorsogon (↘), Masbate (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Our Mother of Salvation, Saint Gregory ILiturgical Calendar (National) 📅History1951.06.29: Established as Diocese of Legazpi / Legazpien(sis) (Latin) (from Diocese of Nueva Caceres and became suffragan of Caceres)1974.05.27: Lost territory to establish Diocese of ViracPapal VisitsPope John Paul II (1981.02)Present PrelatesBishop (2009.10.01 – ...):Bishop Joel Zamudio Baylon (72)Monsignors (20)OrdinariesBishops of Legazpi (Roman Rite)Bishop Joel Zamudio Baylon (72)  (2009.10.01 – ...)Bishop of Legazpi (Philippines)Sub tuum præsidiumBorn:1954.01.28 (Milaor, Philippines)Ordained Priest:1978.10.08Consecrated Bishop:1998.03.25Priest of Legazpi (Philippines) (1978.10.08 – 1998.02.14)Chaplain of His Holiness (1994.05.16 – 1998.02.14)Bishop of Masbate (Philippines) (1998.02.14 – 2009.10.01)Bishop of Legazpi (Philippines) (2009.10.01 – ...)Bishop Nestor Celestial Cariño  (2005.04.01 – 2007.11.07)In luce eiusBorn:1938.09.08 (Malinao, Philippines)Ordained Priest:1961.12.31Consecrated Bishop:1978.05.31Died:2025.05.24 (San Juan City, Philippines † 86)Priest of Legazpi (Philippines) (1961.12.31 – 1978.03.09)Titular Bishop of Thibiuca (1978.03.09 – 1980.08.12)Auxiliary Bishop of Legazpi (Philippines) (1978.03.09 – 1980.08.12)Bishop of Borongan (Philippines) (1980.08.12 – 1986.01.31)Titular Bishop of Acholla (2003.06.11 – 2005.04.01)Auxiliary Bishop of Daet (Philippines) (2003.06.11 – 2005.04.01)Bishop of Legazpi (Philippines) (2005.04.01 – 2007.11.07)Bishop José Crisologo Sorra  (1993.03.01 – 2005.04.01)Christi impetus pacisBorn:1929.03.09 (Malinao, Philippines)Ordained Priest:1956.03.17Consecrated Bishop:1974.08.28Died:2021.01.21 (Legazpi City, Philippines † 91)Priest of Legazpi (Philippines) (1956.03.17 – 1974.05.27)Bishop of Virac (Philippines) (1974.05.27 – 1993.03.01)Bishop of Legazpi (Philippines) (1993.03.01 – 2005.04.01)Bishop Concordio Maria Sarte  (1980.08.12 – 1991.11.22)Born:1931.01.01 (Pili, Philippines)Ordained Priest:1956.03.17Consecrated Bishop:1973.07.22Died:1991.11.22 († 60)Priest of Caceres (Philippines) (1956.03.17 – 1973.04.25)Auxiliary Bishop of Caceres (Philippines) (1973.04.25 – 1977.08.30)Titular Bishop of Thunusuda (1973.04.25 – 1980.08.12)Auxiliary Bishop of Sorsogon (Philippines) (1977.08.30 – 1980.08.12)Bishop of Legazpi (Philippines) (1980.08.12 – 1991.11.22)Bishop Teotimo C. Pacis, C.M.  (1969.05.23 – 1980.06.04)Born:1913.04.20 (Tiwi, Philippines)Ordained Priest:1943.03.20Consecrated Bishop:1967.01.25Died:1984.07.08 († 71)Bishop of Palo (Philippines) (1966.11.18 – 1969.05.23)Bishop of Legazpi (Philippines) (1969.05.23 – 1980.06.04)Bishop Flaviano Ariola  (1952.05.15 – 1968.11.27)Born:1905.07.04 (Legazpi, Philippines)Ordained Priest:1931.03.21Consecrated Bishop:1952.08.06Died:1981.05.31 († 75)Priest of Caceres (Philippines) (1931.03.21 – 1952.05.15)Bishop of Legazpi (Philippines) (1952.05.15 – 1968.11.27)Titular Bishop of Guzabeta (1968.11.27 – 1970.12.04)Former PrelatesAuxiliary Bishop: Bishop Lucilo Barrameda Quiambao (93) (1982.03.23 – 2009.12.10)Auxiliary Bishop: Bishop Nestor Celestial Cariño (1978.03.09 – 1980.08.12)Special ChurchesCathedral:  Cathedral of St. Gregory the Great, Legazpi City, Albay, Bicol Jubilee Churches in the Holy Year 2025Churches by City (48)Show MapCaceres (↖), Virac (↗), Sorsogon (↘), Masbate (↓)Statistics (2022.12.31)Area: 2,575 km²Population: 1,389,658 Catholics (92.3% of 1,505,170 total)Pastoral Centres: 50 parishes, 5 missionsPersonnel: 152 priests (111 diocesan, 41 religious), 250 religious (125 brothers, 125 sisters), 45 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lega0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1505170,
+    "catholiques": 1389658,
+    "pourcentage_catholiques": 92.3
+  },
+  "ressources": {
+    "pretres_diocesains": 111,
+    "pretres_religieux": null,
+    "total_pretres": 152,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 50
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

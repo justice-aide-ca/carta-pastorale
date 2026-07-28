@@ -1,0 +1,29 @@
+{
+  "id": "br-para3",
+  "nom": "Paracatu",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Paracatu / Paracatuen(sis) (Latin)Ecclesiastical Province: Montes ClarosNeighbouring Dioceses: Ipameri (←), Luziânia (↖), Brasília (↖), Formosa (↑), Bom Jesus da Lapa (↗), Januária (↗), Montes Claros (→), Patos de Minas (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nossa Senhora do Carmo (July 16)Liturgical Calendar (National) 📅History1929.03.01: Established as Territorial Prelature of Paracatu / Paracatuen(sis) (Latin) (from Diocese of Montes Claros and Diocese of Uberaba and became suffragan of Diamantina)1957.06.15: Lost territory to establish Diocese of Januária1962.04.14: Promoted as Diocese of Paracatu / Paracatuen(sis) (Latin)1964.01.20: Gained territory from Diocese of Januária1966.10.11: Became suffragan of Brasília2001.04.25: Became suffragan of Montes ClarosPresent PrelatesBishop (2012.11.07 – ...):Bishop Jorge Alves Bezerra, S.S.S. (71)Monsignors (3)OrdinariesBishops of Paracatu (Roman Rite)Bishop Jorge Alves Bezerra, S.S.S. (71)  (2012.11.07 – ...)Bishop of Paracatu (Brazil)Totus DeiBorn:1955.04.23 (São João de Meriti, RJ, Brazil)Ordained Priest:1985.08.10Consecrated Bishop:2008.08.10Bishop of Jardim (Brazil) (2008.05.21 – 2012.11.07)Bishop of Paracatu (Brazil) (2012.11.07 – ...)Bishop Leonardo de Miranda Pereira (90)  (1986.05.06 – 2012.11.07)Bishop emeritus of Paracatu (Brazil)In viam pacisBorn:1936.05.31 (Diamantina, MG, Brazil)Ordained Priest:1959.12.08Consecrated Bishop:1986.08.09Priest of Diamantina (Brazil) (1959.12.08 – 1986.05.06)Bishop of Paracatu (Brazil) (1986.05.06 – 2012.11.07)Bishop José Cardoso Sobrinho, O. Carm. (93) (later Archbishop)  (1979.03.29 – 1985.04.02)Metropolitan Archbishop emeritus of Olinda e Recife (Brazil)In obsequio Jesu ChristiBorn:1933.06.30 (Caruaru, PE, Brazil)Ordained Priest:1957.04.28Consecrated Bishop:1979.05.27Bishop of Paracatu (Brazil) (1979.03.29 – 1985.04.02)Metropolitan Archbishop of Olinda e Recife (Brazil) (1985.04.02 – 2009.07.01)Bishop Raimundo Luí, O. Carm.  (1962.06.11 – 1977.07.20)Fiat voluntas tuaBorn:1912.07.22 (Itú, SP, Brazil)Ordained Priest:1939.12.08Consecrated Bishop:1962.07.29Died:1994.08.10 († 82)Bishop of Paracatu (Brazil) (1962.06.11 – 1977.07.20)Prelates of Paracatu (Roman Rite)Bishop Eliseu van der Weijer, O. Carm.  (1940.05.25 – 1962.04.14)Born:1880.12.29 (Harderwijk, Netherlands)Ordained Priest:1905.06.17Consecrated Bishop:1940.10.27Died:1966.01.25 († 85)Apostolic Administrator of Paracatu (Brazil) (1929 – 1940.05.25)Bishop-Prelate of Paracatu (Brazil) (1940.05.25 – 1962.04.14)Titular Bishop of Gor (1940.05.25 – 1966.01.25)Fr. Eliseu van der Weijer, O. Carm. (later Bishop)  (Apostolic Administrator 1929 – 1940.05.25)Special ChurchesCathedral:  Catedral Santo Antônio de Pádua, Paracatu, Minas Gerais Churches by City (28)Show MapIpameri (←), Luziânia (↖), Brasília (↖), Formosa (↑), Bom Jesus da Lapa (↗), Januária (↗), Montes Claros (→), Patos de Minas (↓)Statistics (2022.12.31)Area: 54,387 km²Population: 219,000 Catholics (63.5% of 344,941 total)Pastoral Centres: 32 parishes, 600 missionsPersonnel: 51 priests (46 diocesan, 5 religious), 25 deacons, 11 religious (5 brothers, 6 sisters), 12 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "para3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 344941,
+    "catholiques": 219000,
+    "pourcentage_catholiques": 63.5
+  },
+  "ressources": {
+    "pretres_diocesains": 46,
+    "pretres_religieux": null,
+    "total_pretres": 51,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

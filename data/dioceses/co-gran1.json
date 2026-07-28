@@ -1,0 +1,29 @@
+{
+  "id": "co-gran1",
+  "nom": "Granada",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Granada / Granada en Colombia / Granadien(sis) in Columbia (Latin)Ecclesiastical Province: VillavicencioNeighbouring Dioceses: San Vicente del Caguán (↙), Neiva (←), Bogotá (↖), Villavicencio (↑), San José del Guaviare (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1964.01.16: Established as Apostolic Prefecture of Ariari / Ariarien(sis) (Latin) (from Apostolic Vicariate of Villavicencio)1987.10.03: Promoted as Apostolic Vicariate of Ariari / Ariarien(sis) (Latin)1999.10.29: Promoted as Diocese of Granada / Granada en Colombia / Granadien(sis) in Columbia (Latin) (became suffragan of Bogotá)2004.07.03: Became suffragan of VillavicencioPresent PrelatesBishop (2025.05.31 – ...):Bishop Jorge Enrique Malpica Bejarano (58)OrdinariesBishops of Granada (Roman Rite)Bishop Jorge Enrique Malpica Bejarano (58)  (2025.05.31 – ...)Bishop of Granada (Colombia)Born:1967.08.02 (Gachetá, Colombia)Ordained Priest:1993.12.08Consecrated Bishop:2025.08.02Priest of Zipaquirá (Colombia) (1993.12.08 – 2025.05.31)Bishop of Granada (Colombia) (2025.05.31 – ...)Bishop José Figueroa Gómez (80)  (2002.08.08 – 2025.05.31)Bishop emeritus of Granada (Colombia)Born:1946.04.22 (Bucaramanga, Colombia)Ordained Priest:1972.09.09Consecrated Bishop:2002.10.12Priest of Barrancabermeja (Colombia) (1972.09.09 – 2002.08.08)Bishop of Granada (Colombia) (2002.08.08 – 2025.05.31)Apostolic Administrator of San José del Guaviare (Colombia) (2010.05 – 2011.02.02)Fr. Gonzalo Carreño Flórez, S.D.B.  (Apostolic Administrator 2001.09.08 – 2002.08.08)Bishop Héctor Julio López Hurtado, S.D.B. (84)  (1999.10.29 – 2001.06.15)Bishop emeritus of Girardot (Colombia)Born:1941.07.23 (Tunja, Colombia)Ordained Priest:1968.06.30Consecrated Bishop:1988.02.27Titular Bishop of Elicroca (1987.12.15 – 1999.10.29)Vicar Apostolic of Ariari (Colombia) (1987.12.15 – 1999.10.29)Bishop of Granada (Colombia) (1999.10.29 – 2001.06.15)Bishop of Girardot (Colombia) (2001.06.15 – 2018.07.11)Vicars Apostolic of Ariari (Roman Rite)Bishop Héctor Julio López Hurtado, S.D.B. (84)  (1987.12.15 – 1999.10.29)(see above)Prefects Apostolic of Ariari (Roman Rite)Fr. Mario Alberto Jiménez Rojas, S.D.B.  (Apostolic Administrator 1986.10.05 – 1987.12.15)Fr. Luís Carlos Riveros Lavado, S.D.B.  (1982.03.05 – 1986)Died:1986Prefect Apostolic of Ariari (Colombia) (1982.03.05 – 1986)Fr. Héctor Jaramillo Duque, S.D.B. (later Bishop)  (1973.09.14 – 1981.08.03)Born:1924.04.22 (Manizales, Colombia)Ordained Priest:1950.09.23Consecrated Bishop:1981.09.20Died:1990.09.16 († 66)Prefect Apostolic of Ariari (Colombia) (1973.09.14 – 1981.08.03)Bishop of Sincelejo (Colombia) (1981.08.03 – 1990.09.16)Fr. Jesús María Coronado Caro, S.D.B. (later Bishop)  (1964.01.16 – 1973.02.10)Opus justitiæ paxBorn:1918.01.18 (Ciénega, Colombia)Ordained Priest:1947.08.31Consecrated Bishop:1973.03.24Died:2010.12.31 († 92)Prefect Apostolic of Ariari (Colombia) (1964.01.16 – 1973.02.10)Bishop of Girardot (Colombia) (1973.02.10 – 1981.07.30)Bishop of Duitama (Colombia) (1981.07.30 – 1994.06.04)Bishop of Duitama–Sogamoso (Colombia) (1994.06.04 – 1994.06.21)Special ChurchesCathedral:  Catedral de Nuestra Señora del Carmen, Granada, Meta Jubilee Churches in the Holy Year 2025Show MapSan Vicente del Caguán (↙), Neiva (←), Bogotá (↖), Villavicencio (↑), San José del Guaviare (↘)Statistics (2022.12.31)Area: 35,000 km²Population: 182,457 Catholics (72.2% of 252,852 total)Pastoral Centres: 27 parishes, 5 missionsPersonnel: 60 priests (54 diocesan, 6 religious), 2 deacons, 23 religious (8 brothers, 15 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gran1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 252852,
+    "catholiques": 182457,
+    "pourcentage_catholiques": 72.2
+  },
+  "ressources": {
+    "pretres_diocesains": 54,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

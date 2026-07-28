@@ -1,0 +1,29 @@
+{
+  "id": "mg-pber0",
+  "nom": "Port-Bergé",
+  "pays": "mg",
+  "pays_nom": "Madagascar",
+  "continent": "unknown",
+  "type": "Diocese Name: Port-Bergé / Portus Bergen(sis) (Latin)Ecclesiastical Province: AntsirananaNeighbouring Dioceses: Mahajanga (←), Ambanja (↑), Fenoarivo Atsinanana (↘), Ambatondrazaka (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1993.10.18: Established as Diocese of Port-Bergé / Portus Bergen(sis) (Latin) (from Diocese of Mahajanga and became suffragan of Antsiranana)Present PrelatesBishop (2013.12.15 – ...):Bishop Georges Varkey Puthiyakulangara, M.E.P. (73)OrdinariesBishops of Port-Bergé (Roman Rite)Bishop Georges Varkey Puthiyakulangara, M.E.P. (73)  (2013.12.15 – ...)Bishop of Port-Bergé (Madagascar)Born:1953.01.26 (Endoor, India)Ordained Priest:1982.05.31Consecrated Bishop:2009.05.24Coadjutor Bishop of Port-Bergé (Madagascar) (2008.11.24 – 2013.12.15)Bishop of Port-Bergé (Madagascar) (2013.12.15 – ...)Bishop Armand Toasy (86)  (1993.10.18 – 2013.12.15)Bishop emeritus of Port-Bergé (Madagascar)Born:1939.11.14 (Ampondralava, Madagascar)Ordained Priest:1969.04.13Consecrated Bishop:1984.11.04Priest of Majunga (Madagascar) (1969.04.13 – 1984.06.22)Titular Bishop of Turuzi (1984.06.22 – 1987.07.03)Auxiliary Bishop of Majunga (Madagascar) (1984.06.22 – 1987.07.03)Bishop of Miarinarivo (Madagascar) (1987.07.03 – 1993.10.18)Bishop of Port-Bergé (Madagascar) (1993.10.18 – 2013.12.15)Former PrelatesCoadjutor Bishop: Bishop Georges Varkey Puthiyakulangara, M.E.P. (73) (2008.11.24 – 2013.12.15)Special ChurchesCathedral:  Cathédrale Notre-Dame-de-l’Assomption, Port-Bergé, Mahajanga Show MapMahajanga (←), Ambanja (↑), Fenoarivo Atsinanana (↘), Ambatondrazaka (↓)Statistics (2022.12.31)Area: 23,367 km²Population: 26,830 Catholics (2.7% of 984,200 total)Pastoral Centres: 14 parishesPersonnel: 27 priests (diocesan), 59 religious (4 brothers, 55 sisters), 24 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pber0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 984200,
+    "catholiques": 26830,
+    "pourcentage_catholiques": 2.7
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

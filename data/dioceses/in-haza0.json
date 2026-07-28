@@ -1,0 +1,29 @@
+{
+  "id": "in-haza0",
+  "nom": "Hazaribag",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Hazaribag / Hazaribagan(us) (Latin)Ecclesiastical Province: RanchiNeighbouring Dioceses: Daltonganj (←), Patna (↑), Bhagalpur (↗), Dumka (→), Ranchi (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady of Mines – Dhori MataLiturgical Calendar (National) 📅History1995.04.01: Established as Diocese of Hazaribag / Hazaribagan(us) (Latin) (from Diocese of Daltonganj and became suffragan of Ranchi)Present PrelatesBishop (2012.09.08 – ...):Bishop Anand Jojo (67)OrdinariesBishops of Hazaribag (Roman Rite)Bishop Anand Jojo (67)  (2012.09.08 – ...)Bishop of Hazaribag (India)Feed my sheepBorn:1959.05.17 (Minjiutgarha-Kutungia, India)Ordained Priest:1992.04.24Consecrated Bishop:2012.12.08Priest of Ranchi (India) (1992.04.24 – 1993.05.28)Priest of Simdega (India) (1993.05.28 – 2012.09.08)Bishop of Hazaribag (India) (2012.09.08 – ...)Apostolic Administrator of Daltonganj (India) (2016.07.07 – 2021.12.08)Bishop Charles Soreng, S.J.  (1995.04.01 – 2012.09.08)We need a merciful FatherBorn:1934.08.18 (Chirratoli, India)Ordained Priest:1969.03.24Consecrated Bishop:1990.02.09Died:2019.01.11 (Ranchi, India † 84)Bishop of Daltonganj (India) (1989.10.23 – 1995.04.01)Bishop of Hazaribag (India) (1995.04.01 – 2012.09.08)Special ChurchesCathedral:  Cathedral of the Resurrection, Hazaribag, Jhārkhand Show MapDaltonganj (←), Patna (↑), Bhagalpur (↗), Dumka (→), Ranchi (↓)Statistics (2021.12.31)Area: 16,918 km²Population: 44,400 Catholics (0.8% of 5,545,000 total)Pastoral Centres: 25 parishes, 8 missionsPersonnel: 167 priests (60 diocesan, 107 religious), 558 religious (139 brothers, 419 sisters), 22 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "haza0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5545000,
+    "catholiques": 44400,
+    "pourcentage_catholiques": 0.8
+  },
+  "ressources": {
+    "pretres_diocesains": 60,
+    "pretres_religieux": null,
+    "total_pretres": 167,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

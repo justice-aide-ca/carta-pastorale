@@ -1,0 +1,29 @@
+{
+  "id": "cm-edea0",
+  "nom": "Edéa",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Edéa / Edean(us) (Latin)Ecclesiastical Province: DoualaNeighbouring Dioceses: Douala (←), Eséka (→), Mbalmayo (→), Ebolowa (↘), Kribi (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1993.03.22: Established as Diocese of Edéa / Edean(us) (Latin) (from Metropolitan Archdiocese of Douala and became suffragan of Douala)Present PrelatesBishop:vacantApostolic Administrator (2026.06.04 – ...):Msgr. Paul Nyaga Nwaha (66)Priest of Douala (Cameroon)General Secretary of National Episcopal Conference of CameroonChaplain of His HolinessOrdinariesBishops of Edéa (Roman Rite)Msgr. Paul Nyaga Nwaha (66)  (Apostolic Administrator 2026.06.04 – ...)Bishop Jean-Bosco Ntep (75)  (2004.10.15 – 2026.06.04)Bishop emeritus of Edéa (Cameroon)Caritas et vitaBorn:1951.04.03 (Hikoamaen, Cameroon)Ordained Priest:1979.03.25Consecrated Bishop:1993.07.04Priest of Mbalmayo (Cameroon) (1979.03.25 – 1993.03.22)Bishop of Eséka (Cameroon) (1993.03.22 – 2004.10.15)Bishop of Edéa (Cameroon) (2004.10.15 – 2026.06.04)Apostolic Administrator of Kribi (Cameroon) (2014.06.06 – 2015.11.07)Archbishop Simon-Victor Tonyé Bakot (79)  (Apostolic Administrator 2003.10.18 – 2004.10.15)Bishop Simon-Victor Tonyé Bakot (79) (later Archbishop)  (1993.03.22 – 2003.10.18)Metropolitan Archbishop emeritus of Yaoundé (Cameroon)Par ses mots, nous sommes guérisBorn:1947.03.24 (Eséka, Cameroon)Ordained Priest:1973.07.15Consecrated Bishop:1987.04.26Priest of Douala (Cameroon) (1973.07.15 – 1987.01.26)Titular Bishop of Siminina (1987.01.26 – 1993.03.22)Auxiliary Bishop of Douala (Cameroon) (1987.01.26 – 1993.03.22)Bishop of Edéa (Cameroon) (1993.03.22 – 2003.10.18)Apostolic Administrator of Edéa (Cameroon) (2003.10.18 – 2004.10.15)Metropolitan Archbishop of Yaoundé (Cameroon) (2003.10.18 – 2013.07.29)President of National Episcopal Conference of Cameroon (2004.02 – 2008?)Special ChurchesCathedral:  Cathédrale Sacré-Cœur, Mbanda, Littoral Show MapDouala (←), Eséka (→), Mbalmayo (→), Ebolowa (↘), Kribi (↓)Statistics (2022.12.31)Area: 10,500 km²Population: 185,368 Catholics (60.8% of 305,000 total)Pastoral Centres: 40 parishes, 2 missionsPersonnel: 96 priests (93 diocesan, 3 religious), 49 religious (4 brothers, 45 sisters), 29 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "edea0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 305000,
+    "catholiques": 185368,
+    "pourcentage_catholiques": 60.8
+  },
+  "ressources": {
+    "pretres_diocesains": 93,
+    "pretres_religieux": null,
+    "total_pretres": 96,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

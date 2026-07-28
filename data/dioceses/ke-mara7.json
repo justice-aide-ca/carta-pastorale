@@ -1,0 +1,29 @@
+{
+  "id": "ke-mara7",
+  "nom": "Maralal",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Maralal / Maralalen(sis) (Latin)Ecclesiastical Province: NyeriNeighbouring Dioceses: Lodwar (↖), Marsabit (↗), Garissa (→), Isiolo (↘), Nyahururu (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (National) 📅History2001.06.30: Established as Diocese of Maralal / Maralalen(sis) (Latin) (from Diocese of Marsabit and became suffragan of Nyeri)Present PrelatesBishop (2022.07.20 – ...):Bishop Hieronymus Emusugut Joya, I.M.C. (61)OrdinariesBishops of Maralal (Roman Rite)Bishop Hieronymus Emusugut Joya, I.M.C. (61)  (2022.07.20 – ...)Bishop of Maralal (Kenya)Omnia vincit amorBorn:1965.04.17 (Asinge, Kenya)Ordained Priest:1998.09.05Consecrated Bishop:2022.10.22Bishop of Maralal (Kenya) (2022.07.20 – ...)Bishop Virgilio Pante, I.M.C. (80)  (2001.06.30 – 2022.07.20)Bishop emeritus of Maralal (Kenya)With the ministry of reconciliationBorn:1946.03.16 (Lamon, Italy)Ordained Priest:1970.12.26Consecrated Bishop:2001.10.06Bishop of Maralal (Kenya) (2001.06.30 – 2022.07.20)Special ChurchesCathedral:  Cathedral of Sts. Peter and Paul, Maralal, Samburu Churches by City (14)Show MapLodwar (↖), Marsabit (↗), Garissa (→), Isiolo (↘), Nyahururu (↓)Statistics (2022.12.31)Area: 20,809 km²Population: 144,870 Catholics (44.6% of 324,760 total)Pastoral Centres: 14 parishes, 1 missionPersonnel: 37 priests (24 diocesan, 13 religious), 62 religious (17 brothers, 45 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mara7",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 324760,
+    "catholiques": 144870,
+    "pourcentage_catholiques": 44.6
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 37,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

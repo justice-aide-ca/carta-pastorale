@@ -1,0 +1,29 @@
+{
+  "id": "in-guml0",
+  "nom": "Gumla",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Gumla / Gumlaën(sis) (Latin)Ecclesiastical Province: RanchiNeighbouring Dioceses: Jashpur (↙), Ambikapur (←), Daltonganj (↖), Ranchi (↗), Khunti (→), Simdega (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint PatrickLiturgical Calendar (National) 📅History1993.05.28: Established as Diocese of Gumla / Gumlaën(sis) (Latin) (from Metropolitan Archdiocese of Ranchi and became suffragan of Ranchi)Present PrelatesBishop (2023.11.30 – ...):Bishop Linus Pingal Ekka (64)OrdinariesBishops of Gumla (Roman Rite)Bishop Linus Pingal Ekka (64)  (2023.11.30 – ...)Bishop of Gumla (India)Born:1961.09.23 (Chainpur, India)Ordained Priest:1994.01.22Consecrated Bishop:2024.01.12Priest of Gumla (India) (1994.01.22 – 2023.11.30)Bishop of Gumla (India) (2023.11.30 – ...)Bishop Paul Alois Lakra  (2006.01.28 – 2021.06.15)Verbum dei vita nostraBorn:1955.07.11 (Naditoli, India)Ordained Priest:1988.05.06Consecrated Bishop:2006.04.05Died:2021.06.15 (Ranchi, India † 65)Priest of Ranchi (India) (1988.05.06 – 1993.05.28)Priest of Gumla (India) (1993.05.28 – 2006.01.28)Bishop of Gumla (India) (2006.01.28 – 2021.06.15)Died of COVID-19. Bishop Michael Minj, S.J.  (1993.05.28 – 2004.11.15)Born:1932.10.08 (Gholeng, India)Ordained Priest:1965.03.25Consecrated Bishop:1993.08.22Died:2004.11.15 († 72)Bishop of Gumla (India) (1993.05.28 – 2004.11.15)Special ChurchesCathedral:  St. Patrick Cathedral, Gumla, Jhārkhand Show MapJashpur (↙), Ambikapur (←), Daltonganj (↖), Ranchi (↗), Khunti (→), Simdega (↓)Statistics (2020.12.31)Area: 5,237 km²Population: 195,000 Catholics (15.0% of 1,299,000 total)Pastoral Centres: 38 parishes, 2 missionsPersonnel: 190 priests (139 diocesan, 51 religious), 463 religious (92 brothers, 371 sisters), 41 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "guml0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1299000,
+    "catholiques": 195000,
+    "pourcentage_catholiques": 15.0
+  },
+  "ressources": {
+    "pretres_diocesains": 139,
+    "pretres_religieux": null,
+    "total_pretres": 190,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 38
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

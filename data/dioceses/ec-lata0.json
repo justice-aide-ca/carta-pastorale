@@ -1,0 +1,29 @@
+{
+  "id": "ec-lata0",
+  "nom": "Latacunga",
+  "pays": "ec",
+  "pays_nom": "Ecuador",
+  "continent": "amerique",
+  "type": "Diocese Name: Latacunga / Latacungen(sis) (Latin)Ecclesiastical Province: QuitoNeighbouring Dioceses: Guaranda (↙), Babahoyo (↙), Santo Domingo (↖), Quito (↑), Napo (→), Ambato (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1963.12.05: Established as Diocese of Latacunga / Latacungen(sis) (Latin) (from Metropolitan Archdiocese of Quito and became suffragan of Quito)Papal VisitsPope John Paul II (1985.01)Present PrelatesBishop (2016.11.30 – ...):Bishop Geovanni Mauricio Paz Hurtado (63)Monsignors (2)OrdinariesBishops of Latacunga (Roman Rite)Bishop Geovanni Mauricio Paz Hurtado (63)  (2016.11.30 – ...)Bishop of Latacunga (Ecuador)Justitiæ fructus in paceBorn:1962.11.30 (Cotacachi, Ecuador)Ordained Priest:1988.06.29Consecrated Bishop:2017.01.20Priest of Ibarra (Ecuador) (1988.06.29 – 2016.11.30)Prelate of Honour of His Holiness (2012.12.04 – 2016.11.30)Bishop of Latacunga (Ecuador) (2016.11.30 – ...)Bishop José Victoriano Naranjo Tovar (85)  (2003.02.19 – 2016.11.30)Bishop emeritus of Latacunga (Ecuador)Born:1941.07.03 (Pujilí, Ecuador)Ordained Priest:1965.07.02Consecrated Bishop:2003.03.25Priest of Latacunga (Ecuador) (1965.07.02 – 2003.02.19)Bishop of Latacunga (Ecuador) (2003.02.19 – 2016.11.30)Bishop Raúl Holguer López Mayorga (99)  (1990.06.18 – 2003.02.19)Bishop emeritus of Latacunga (Ecuador)Born:1926.08.24 (Mocha, Ecuador)Ordained Priest:1951.06.29Consecrated Bishop:1973.04.29Auxiliary Bishop of Guaranda (Ecuador) (1973.03.30 – 1974.08.03)Titular Bishop of Casæ in Numidia (1973.03.30 – 1980.05.24)Coadjutor Bishop of Guaranda (Ecuador) (1974.08.03 – 1980.05.24)Bishop of Guaranda (Ecuador) (1980.05.24 – 1990.06.18)Bishop of Latacunga (Ecuador) (1990.06.18 – 2003.02.19)Bishop José Mario Ruiz Navas (later Archbishop)  (1968.12.05 – 1989.08.06)Born:1930.07.20 (Pujilí, Ecuador)Ordained Priest:1954.04.17Consecrated Bishop:1969.01.12Died:2020.12.09 (Pujilí, Ecuador † 90)Bishop of Latacunga (Ecuador) (1968.12.05 – 1989.08.06)Bishop of Portoviejo (Ecuador) (1989.08.06 – 1994.02.25)President of Episcopal Conference of Ecuador (1993 – 2002)Metropolitan Archbishop of Portoviejo (Ecuador) (1994.02.25 – 2007.08.06)Bishop Benigno Chiriboga, S.J.  (1963.12.05 – 1968.12.03)Born:1900.07.21 (Riobamba, Ecuador)Ordained Priest:1929.08.25Consecrated Bishop:1958.12.21Died:1981.10.09 (Quito, Ecuador † 81)Titular Bishop of Acalissus (1958.11.15 – 1963.12.05)Auxiliary Bishop of Quito (Ecuador) (1958.11.15 – 1963.12.05)Bishop of Latacunga (Ecuador) (1963.12.05 – 1968.12.03)Titular Bishop of Tasaccora (1968.12.03 – 1970.11.29)Special ChurchesCathedral:  Catedral San José, Latacunga, Cotopaxi Show MapGuaranda (↙), Babahoyo (↙), Santo Domingo (↖), Quito (↑), Napo (→), Ambato (↓)Statistics (2022.12.31)Area: 6,108 km²Population: 412,380 Catholics (82.3% of 500,977 total)Pastoral Centres: 40 parishesPersonnel: 47 priests (46 diocesan, 1 religious), 2 deacons, 113 religious (55 brothers, 58 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lata0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 500977,
+    "catholiques": 412380,
+    "pourcentage_catholiques": 82.3
+  },
+  "ressources": {
+    "pretres_diocesains": 46,
+    "pretres_religieux": null,
+    "total_pretres": 47,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

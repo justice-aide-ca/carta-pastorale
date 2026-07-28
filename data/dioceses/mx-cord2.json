@@ -1,0 +1,29 @@
+{
+  "id": "mx-cord2",
+  "nom": "Córdoba",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Córdoba / Corduben(sis) in Mexico (Latin)Ecclesiastical Province: JalapaNeighbouring Dioceses: Orizaba (←), Puebla de los Ángeles (↖), Jalapa (↑), Veracruz (→), Tuxtepec (↘), Huautla (↓), Tehuacán (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History2000.04.15: Established as Diocese of Córdoba / Corduben(sis) in Mexico (Latin) (from Metropolitan Archdiocese of Jalapa and became suffragan of Jalapa)Contact InfoAddress: Av. 3 #303 Esq. con Calle 5 Col. Centro, 94500 - Córdoba, Ver., MexicoPhone: (271) 7-14-91-56Present PrelatesBishop (2020.07.04 – ...):Bishop Eduardo Cirilo Carmona Ortega, C.O.R.C. (67)OrdinariesBishops of Córdoba (Roman Rite)Bishop Eduardo Cirilo Carmona Ortega, C.O.R.C. (67)  (2020.07.04 – ...)Bishop of Córdoba (Mexico)Según el corazón de CristoBorn:1959.03.18 (México, Mexico)Ordained Priest:1983.08.20Consecrated Bishop:2004.01.07Bishop of Puerto Escondido (Mexico) (2003.11.08 – 2012.06.27)Bishop of Parral (Mexico) (2012.06.27 – 2019.11.06)Coadjutor Bishop of Córdoba (Mexico) (2019.11.06 – 2020.07.04)Bishop of Córdoba (Mexico) (2020.07.04 – ...)Bishop Eduardo Porfirio Patiño Leal (76)  (2000.04.15 – 2020.07.04)Bishop emeritus of Córdoba (Mexico)In unitate SpiritusBorn:1949.11.22 (Monterrey, Mexico)Ordained Priest:1977.05.28Consecrated Bishop:2000.06.14Priest of Monterrey (Mexico) (1977.05.28 – 2000.04.15)Bishop of Córdoba (Mexico) (2000.04.15 – 2020.07.04)Former PrelatesCoadjutor Bishop: Bishop Eduardo Cirilo Carmona Ortega, C.O.R.C. (67) (2019.11.06 – 2020.07.04)Special ChurchesCathedral:  Catedral de la Inmaculada Concepción, Córdoba, Veracruz Show MapOrizaba (←), Puebla de los Ángeles (↖), Jalapa (↑), Veracruz (→), Tuxtepec (↘), Huautla (↓), Tehuacán (↓)Statistics (2022.12.31)Area: 4,214 km²Population: 769,700 Catholics (89.8% of 857,300 total)Pastoral Centres: 48 parishes, 8 missionsPersonnel: 84 priests (diocesan), 3 deacons, 150 religious (8 brothers, 142 sisters), 37 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cord2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 857300,
+    "catholiques": 769700,
+    "pourcentage_catholiques": 89.8
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 48
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "in-jalp0",
+  "nom": "Jalpaiguri",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Jalpaiguri / Ialpaigurien(sis) (Latin)Ecclesiastical Province: CalcuttaNeighbouring Dioceses: Raiganj (↙), Bagdogra (←), Darjeeling (↗), Bongaigaon (→), Dinajpur (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Chris the King, Our Lady of the Rosary, Saint Thérèse of the Child JesusLiturgical Calendar (National) 📅History1952.01.17: Established as Diocese of Jalpaiguri / Ialpaigurien(sis) (Latin) (from Diocese of Dinajpur and became suffragan of Calcutta)Present PrelatesBishop (2025.02.08 – ...):Bishop Fabian Toppo (65)OrdinariesBishops of Jalpaiguri (Roman Rite)Bishop Fabian Toppo (65)  (2025.02.08 – ...)Bishop of Jalpaiguri (India)Born:1960.12.21 (Darupisa, India)Ordained Priest:1994.12.03Consecrated Bishop:2025.05.01Priest of Jalpaiguri (India) (1994.12.03 – 2025.02.08)Bishop of Jalpaiguri (India) (2025.02.08 – ...)Bishop Clement Tirkey (78)  (2006.01.31 – 2025.02.08)Bishop emeritus of Jalpaiguri (India)Collaborator of God with joyBorn:1947.09.12 (Ranput, India)Ordained Priest:1978.03.21Consecrated Bishop:2006.04.23Priest of Darjeeling (India) (1978.03.21 – 1997.06.14)Priest of Bagdogra (India) (1997.06.14 – 2006.01.31)Bishop of Jalpaiguri (India) (2006.01.31 – 2025.02.08)Bishop James Anthony Toppo  (1971.04.24 – 2004.05.04)Born:1930.05.03 (Silphari, India)Ordained Priest:1960.08.10Consecrated Bishop:1971.10.17Died:2004.05.04 († 74)Bishop of Jalpaiguri (India) (1971.04.24 – 2004.05.04)Bishop Francis Ekka  (1967.11.29 – 1971.04.24)Born:1909.05.25 (Ginabahar, India)Ordained Priest:1937.11.14Consecrated Bishop:1968.03.30Died:1984.03.15 († 74)Bishop of Jalpaiguri (India) (1967.11.29 – 1971.04.24)Bishop of Raigarh–Ambikapur (India) (1971.04.24 – 1977.11.10)Bishop of Raigarh (India) (1977.11.10 – 1984.03.15)Bishop Amerigo Galbiati, P.I.M.E.  (1952.03.20 – 1967.03.22)Born:1889.11.03 (Monza, Italy)Ordained Priest:1913.07.06Consecrated Bishop:1952.07.13Died:1979.11.24 († 90)Bishop of Jalpaiguri (India) (1952.03.20 – 1967.03.22)Titular Bishop of Sereddeli (1967.03.22 – 1979.11.24)Special ChurchesCathedral:  Christ Redeemer Cathedral, Jalpaiguri, West Bengal Show MapRaiganj (↙), Bagdogra (←), Darjeeling (↗), Bongaigaon (→), Dinajpur (↓)Statistics (2022.12.31)Area: 9,632 km²Population: 141,758 Catholics (2.1% of 6,773,993 total)Pastoral Centres: 30 parishes, 329 missionsPersonnel: 109 priests (72 diocesan, 37 religious), 366 religious (76 brothers, 290 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "jalp0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6773993,
+    "catholiques": 141758,
+    "pourcentage_catholiques": 2.1
+  },
+  "ressources": {
+    "pretres_diocesains": 72,
+    "pretres_religieux": null,
+    "total_pretres": 109,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

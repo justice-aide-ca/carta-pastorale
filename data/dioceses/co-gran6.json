@@ -1,0 +1,29 @@
+{
+  "id": "co-gran6",
+  "nom": "Grand-Bassam",
+  "pays": "co",
+  "pays_nom": "Cote d’Ivoire",
+  "continent": "unknown",
+  "type": "Diocese Name: Grand-Bassam / Bassam Maioris (Latin)Ecclesiastical Province: AbidjanNeighbouring Dioceses: Abidjan (←), Abengourou (↑), Wiawso (↗), Sekondi–Takoradi (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1982.06.08: Established as Diocese of Grand-Bassam / Bassam Maioris (Latin) (from Metropolitan Archdiocese of Abidjan and became suffragan of Abidjan)Present PrelatesBishop (2010.03.27 – ...):Bishop Raymond Ahoua, F.D.P. (66)Monsignors (1)OrdinariesBishops of Grand-Bassam (Roman Rite)Bishop Raymond Ahoua, F.D.P. (66)  (2010.03.27 – ...)Bishop of Grand-Bassam (Cote d’Ivoire)Consacre-les dans la veritéBorn:1960.05.01 (Bonoua, Cote d’Ivoire)Ordained Priest:1990.07.14Consecrated Bishop:2010.07.04Bishop of Grand-Bassam (Cote d’Ivoire) (2010.03.27 – ...)Bishop Paul Dacoury-Tabley (91)  (1994.12.19 – 2010.03.27)Bishop emeritus of Grand-Bassam (Cote d’Ivoire)Born:1934.12.05 (Kpapékou, Cote d’Ivoire)Ordained Priest:1961.12.27Consecrated Bishop:1979.07.22Titular Bishop of Castra severiana (1979.04.09 – 1994.12.19)Auxiliary Bishop of Abidjan (Cote d’Ivoire) (1979.04.09 – 1994.12.19)Bishop of Grand-Bassam (Cote d’Ivoire) (1994.12.19 – 2010.03.27)Bishop Joseph Akichi  (1982.06.08 – 1993.04.05)Born:1933 (Memni, Cote d’Ivoire)Ordained Priest:1963.03.25Consecrated Bishop:1982.09.18Died:1993.04.05 († 59)Bishop of Grand-Bassam (Cote d’Ivoire) (1982.06.08 – 1993.04.05)Special ChurchesCathedral, World Heritage Site (Minor):  Cathédrale Sacré-Cœur, Grand-Bassam, Comoé Show MapAbidjan (←), Abengourou (↑), Wiawso (↗), Sekondi–Takoradi (→)Statistics (2022.12.31)Area: 8,354 km²Population: 429,713 Catholics (22.3% of 1,922,767 total)Pastoral Centres: 61 parishes, 26 missionsPersonnel: 168 priests (129 diocesan, 39 religious), 135 religious (65 brothers, 70 sisters), 64 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gran6",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1922767,
+    "catholiques": 429713,
+    "pourcentage_catholiques": 22.3
+  },
+  "ressources": {
+    "pretres_diocesains": 129,
+    "pretres_religieux": null,
+    "total_pretres": 168,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 61
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

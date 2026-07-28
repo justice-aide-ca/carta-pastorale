@@ -1,0 +1,29 @@
+{
+  "id": "in-gand0",
+  "nom": "Gandhinagar",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese Name: Gandhinagar / Gandhinagaren(sis) (Latin)Suffragan Sees: Ahmedabad, BarodaNeighbouring Dioceses: Rajkot (↙), Ajmer (↑), Udaipur (↗), Baroda (↘), Ahmedabad (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Sacred Heart of Jesus, Our Lady Queen of the WorldLiturgical Calendar (National) 📅History2002.10.11: Established as Metropolitan Archdiocese of Gandhinagar / Gandhinagaren(sis) (Latin) (from Diocese of Ahmedabad and with suffragan sees Ahmedabad, Baroda and Rajkot)2025.08.28: Lost suffragan see RajkotPresent PrelatesMetropolitan Archbishop (2015.06.12 – ...):Archbishop Thomas Ignatius Macwan (73)OrdinariesMetropolitan Archbishops of Gandhinagar (Roman Rite)Archbishop Thomas Ignatius Macwan (73)  (2015.06.12 – ...)Metropolitan Archbishop of Gandhinagar (India)Called to do goodBorn:1952.10.14 (Bhavnagar, India)Ordained Priest:1988.04.09Consecrated Bishop:2003.01.11Priest of Ahmedabad (India) (1988.04.09 – 2002.11.11)Bishop of Ahmedabad (India) (2002.11.11 – 2015.06.12)Metropolitan Archbishop of Gandhinagar (India) (2015.06.12 – ...)Archbishop Stanislaus Fernandes, S.J. (86)  (2002.10.11 – 2015.06.12)Metropolitan Archbishop emeritus of Gandhinagar (India)Mary, Mother of GodBorn:1939.10.08 (Ahmadabad, India)Ordained Priest:1968.03.23Consecrated Bishop:1990.08.24Bishop of Ahmedabad (India) (1990.05.21 – 2002.10.11)Metropolitan Archbishop of Gandhinagar (India) (2002.10.11 – 2015.06.12)Apostolic Administrator of Baroda (India) (2016.05.23 – 2022.12.31)Special ChurchesCathedral:  Premavatar Isu Mandir, Gandhinagar, Gujarāt Show MapRajkot (↙), Ajmer (↑), Udaipur (↗), Baroda (↘), Ahmedabad (↓)Statistics (2022.12.31)Area: 29,942 km²Population: 18,360 Catholics (0.2% of 11,567,940 total)Pastoral Centres: 20 parishes, 7 missionsPersonnel: 60 priests (34 diocesan, 26 religious), 148 religious (27 brothers, 121 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "gand0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 11567940,
+    "catholiques": 18360,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

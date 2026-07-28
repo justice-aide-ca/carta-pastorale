@@ -1,0 +1,29 @@
+{
+  "id": "in-rajk0",
+  "nom": "Rajkot",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Rajkot / Raikoten(sis) (Latin)Ecclesiastical Province: KalyanNeighbouring Dioceses: Hyderabad (↖), Ajmer (↑), Gandhinagar (↗), Ahmedabad (↗), Baroda (→)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Most Sacred Heart of JesusHistory1977.02.26: Established as Diocese of Rajkot / Raikoten(sis) (Latin) (from Diocese of Ahmedabad and became suffragan of Bombay)2002.10.11: Became suffragan of Gandhinagar2025.08.28: Gained territory from Diocese of Shamshabad and became suffragan of KalyanPresent PrelatesBishop (2010.07.16 – ...):Bishop José Chittooparambil, C.M.I. (71)OrdinariesBishops of Rajkot (Syro-Malabar Rite)Bishop José Chittooparambil, C.M.I. (71)  (2010.07.16 – ...)Bishop of Rajkot of the Syro-Malabars (India)To have life and have it in abundanceBorn:1954.12.10 (Neeleswaram, India)Ordained Priest:1985.05.08Consecrated Bishop:2010.09.11Bishop of Rajkot of the Syro-Malabars (India) (2010.07.16 – ...)Bishop Gregory Karotemprel, C.M.I.  (1983.01.22 – 2010.07.16)He went about doing goodBorn:1933.05.06 (Chemmalamattam, India)Ordained Priest:1963.05.17Consecrated Bishop:1983.04.24Died:2026.07.19 (Rajkot, India † 93)Bishop of Rajkot of the Syro-Malabars (India) (1983.01.22 – 2010.07.16)Bishop Jonas Thaliath, C.M.I.  (1977.02.26 – 1981.11.07)Born:1919.12.21 (Puthenpally, India)Ordained Priest:1946.12.21Consecrated Bishop:1977.05.11Died:1981.11.07 († 61)Bishop of Rajkot of the Syro-Malabars (India) (1977.02.26 – 1981.11.07)Special ChurchesCathedral:  Prem Mandir, Rajkot, Gujarāt Show MapHyderabad (↖), Ajmer (↑), Gandhinagar (↗), Ahmedabad (↗), Baroda (→)Statistics (2022.12.31)Area: 109,950 km²Population: 14,040 Catholics (0.1% of 18,890,000 total)Pastoral Centres: 15 parishes, 51 missionsPersonnel: 133 priests (39 diocesan, 94 religious), 564 religious (109 brothers, 455 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.20© 2026 GCatholic.org",
+  "code_gcatholic": "rajk0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 18890000,
+    "catholiques": 14040,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 133,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "br-pira0",
+  "nom": "Piracicaba",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Piracicaba / Piracicaben(sis) (Latin)Ecclesiastical Province: CampinasNeighbouring Dioceses: Botucatu (↙), Jaú (←), São Carlos (↖), Limeira (↗), Campinas (→), Sorocaba (↓), Itapetininga (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Santo António de Lisboa (June 13)Cathedral Dedication Anniversary: June 17 (1962)Liturgical Calendar (National) 📅History1944.02.26: Established as Diocese of Piracicaba / Piracicaben(sis) (Latin) (from Diocese of Campinas and became suffragan of São Paulo)1958.04.19: Became suffragan of Campinas1976.04.29: Lost territory to establish Diocese of LimeiraPresent PrelatesBishop (2020.11.11 – ...):Bishop Devair Araújo da Fonseca (58)Monsignors (10)OrdinariesBishops of Piracicaba (Roman Rite)Bishop Devair Araújo da Fonseca (58)  (2020.11.11 – ...)Bishop of Piracicaba (Brazil)Electi et sancti in ChristoBorn:1968.02.01 (Franca, SP, Brazil)Ordained Priest:1998.12.20Consecrated Bishop:2015.02.01Priest of Franca (Brazil) (1998.12.20 – 2014.12.10)Titular Bishop of Uzalis (2014.12.10 – 2020.11.11)Auxiliary Bishop of São Paulo (Brazil) (2014.12.10 – 2020.11.11)Bishop of Piracicaba (Brazil) (2020.11.11 – ...)Bishop Fernando Mason, O.F.M. Conv. (81)  (2005.05.25 – 2020.11.11)Bishop emeritus of Piracicaba (Brazil)Christus Factus ObediensBorn:1945.01.21 (Loreggia, Italy)Ordained Priest:1971.04.03Consecrated Bishop:1999.05.01Bishop of Caraguatatuba (Brazil) (1999.03.03 – 2005.05.25)Bishop of Piracicaba (Brazil) (2005.05.25 – 2020.11.11)Bishop Moacyr José Vitti, C.S.S. (later Archbishop)  (2002.05.15 – 2004.05.19)Um só coraçãoBorn:1940.11.30 (Piracicaba, SP, Brazil)Ordained Priest:1967.12.16Consecrated Bishop:1988.01.03Died:2014.06.26 (Curitiba, PR, Brazil † 73)Titular Bishop of Sita (1987.11.12 – 2002.05.15)Auxiliary Bishop of Curitiba (Brazil) (1987.11.12 – 2002.05.15)Bishop of Piracicaba (Brazil) (2002.05.15 – 2004.05.19)Metropolitan Archbishop of Curitiba (Brazil) (2004.05.19 – 2014.06.26)Bishop Eduardo Koaik  (1984.01.11 – 2002.05.15)Construir na CaridadeBorn:1926.08.21 (Manaus, AM, Brazil)Ordained Priest:1950.04.08Consecrated Bishop:1974.01.06Died:2012.08.25 (Piracicaba, SP, Brazil † 86)Titular Bishop of Noba (1973.10.22 – 1979.11.30)Auxiliary Bishop of São Sebastião do Rio de Janeiro (Brazil) (1973.10.22 – 1979.11.30)Coadjutor Bishop of Piracicaba (Brazil) (1979.11.30 – 1984.01.11)Bishop of Piracicaba (Brazil) (1984.01.11 – 2002.05.15)Bishop Aniger de Francisco de Maria Melillo  (1960.05.29 – 1984.01.11)Omnes unum sintBorn:1911.06.07 (Campinas, SP, Brazil)Ordained Priest:1933.12.31Consecrated Bishop:1960.06.29Died:1985.04.17 (São Paulo, SP, Brazil † 73)Bishop of Piracicaba (Brazil) (1960.05.29 – 1984.01.11)Bishop Ernesto de Paula  (1945.06.30 – 1960.01.09)Omnia per mariamBorn:1899.02.05 (São Paulo, SP, Brazil)Ordained Priest:1927.08.14Consecrated Bishop:1942.01.04Died:1994.12.31 (São Paulo, SP, Brazil † 95)Bishop of Jacarezinho (Brazil) (1941.11.22 – 1945.06.30)Bishop of Piracicaba (Brazil) (1945.06.30 – 1960.01.09)Titular Bishop of Hierocæsarea (1960.01.09 – 1994.12.31)Bishop Paulo de Tarso Campos (later Archbishop)  (Apostolic Administrator 1944 – 1945.06.30)Former PrelatesCoadjutor Bishop: Bishop Eduardo Koaik (1979.11.30 – 1984.01.11)Special ChurchesCathedral:  Catedral Santo Antônio de Pádua, Piracicaba, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (74)Show MapBotucatu (↙), Jaú (←), São Carlos (↖), Limeira (↗), Campinas (→), Sorocaba (↓), Itapetininga (↓)Statistics (2022.12.31)Area: 4,663 km²Population: 551,938 Catholics (53.7% of 1,028,202 total)Pastoral Centres: 68 parishes, 386 missionsPersonnel: 123 priests (67 diocesan, 56 religious), 44 deacons, 177 religious (78 brothers, 99 sisters), 28 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pira0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1028202,
+    "catholiques": 551938,
+    "pourcentage_catholiques": 53.7
+  },
+  "ressources": {
+    "pretres_diocesains": 67,
+    "pretres_religieux": null,
+    "total_pretres": 123,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 68
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

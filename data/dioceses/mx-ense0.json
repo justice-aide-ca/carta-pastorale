@@ -1,0 +1,29 @@
+{
+  "id": "mx-ense0",
+  "nom": "Ensenada",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Ensenada / Sinuen(sis) (Latin)Ecclesiastical Province: TijuanaNeighbouring Dioceses: Tijuana (↑), Mexicali (↗), La Paz (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2007.01.27: Established as Diocese of Ensenada / Sinuen(sis) (Latin) (from Metropolitan Archdiocese of Tijuana and Diocese of Mexicali and became suffragan of Tijuana)Contact InfoAddress: Catedral; Av. Guadalupe, No. 565 Col. Obrera 22850 - Ensenada, B.C., MexicoPhone: (646) 1-76-37-40Present PrelatesBishop (2013.05.21 – ...):Bishop Rafael Valdéz Torres (66)OrdinariesBishops of Ensenada (Roman Rite)Bishop Rafael Valdéz Torres (66)  (2013.05.21 – ...)Bishop of Ensenada (Mexico)In te confidoBorn:1959.11.04 (Santiago Tangamandapio, Mexico)Ordained Priest:1985.02.09Consecrated Bishop:2013.07.31Priest of Zamora (Mexico) (1985.02.09 – 2013.05.21)Bishop of Ensenada (Mexico) (2013.05.21 – ...)Bishop Sigifredo Noriega Barceló (74)  (2007.01.26 – 2012.08.02)Bishop of Zacatecas (Mexico)Ite in vineam meamBorn:1951.10.12 (Granados, Mexico)Ordained Priest:1976.10.07Consecrated Bishop:2007.04.25Priest of Ciudad Obregón (Mexico) (1976.10.07 – 2007.01.26)Bishop of Ensenada (Mexico) (2007.01.26 – 2012.08.02)Bishop of Zacatecas (Mexico) (2012.08.02 – ...)Special ChurchesCathedral:  Catedral de Nuestra Señora de Guadalupe, Ensenada, Baja California Churches by City (33)Show MapTijuana (↑), Mexicali (↗), La Paz (↓)Statistics (2022.12.31)Area: 52,482 km²Population: 355,364 Catholics (62.2% of 570,918 total)Pastoral Centres: 33 parishesPersonnel: 50 priests (39 diocesan, 11 religious), 78 religious (15 brothers, 63 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ense0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 570918,
+    "catholiques": 355364,
+    "pourcentage_catholiques": 62.2
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 50,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

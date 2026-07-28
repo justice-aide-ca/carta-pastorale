@@ -1,0 +1,29 @@
+{
+  "id": "so-yeiz0",
+  "nom": "Yei",
+  "pays": "so",
+  "pays_nom": "South Sudan",
+  "continent": "unknown",
+  "type": "Diocese Name: Yei / Yeien(sis) (Latin)Ecclesiastical Province: JubaNeighbouring Dioceses: Isiro–Niangara (↙), Dungu–Doruma (←), Tombura–Yambio (↖), Rumbek (↑), Juba (↗), Arua (↓), Mahagi–Nioka (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1986.03.21: Established as Diocese of Yei / Yeien(sis) (Latin) (from Diocese of Rumbek and became suffragan of Juba)Present PrelatesBishop (2022.02.11 – ...):Bishop Alex Lodiong Sakor Eyobo (55)OrdinariesBishops of Yei (Roman Rite)Bishop Alex Lodiong Sakor Eyobo (55)  (2022.02.11 – ...)Bishop of Yei (South Sudan)Born:1971.01.26 (Wudu, South Sudan)Ordained Priest:2001.06.24Consecrated Bishop:2022.05.15Priest of Yei (South Sudan) (2001.06.24 – 2022.02.11)Bishop of Yei (South Sudan) (2022.02.11 – ...)Bishop Erkolano Lodu Tombe (83)  (1986.03.21 – 2022.02.11)Bishop emeritus of Yei (South Sudan)Born:1943.04.25 (Bilinyang, Sudan)Ordained Priest:1970.05.17Consecrated Bishop:1986.11.28Bishop of Yei (South Sudan) (1986.03.21 – 2022.02.11)Special ChurchesCathedral:  Cathedral of Christ the King, Yei, Central Equatoria Show MapIsiro–Niangara (↙), Dungu–Doruma (←), Tombura–Yambio (↖), Rumbek (↑), Juba (↗), Arua (↓), Mahagi–Nioka (↓)Statistics (2020.12.31)Area: 46,000 km²Population: 247,000 Catholics (48.9% of 505,000 total)Pastoral Centres: 9 parishesPersonnel: 7 priests (diocesan), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "yeiz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 505000,
+    "catholiques": 247000,
+    "pourcentage_catholiques": 48.9
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 9
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

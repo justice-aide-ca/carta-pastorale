@@ -1,0 +1,35 @@
+{
+  "id": "rw-kibungo0",
+  "nom": "Kibungo",
+  "pays": "rw",
+  "continent": "afrique",
+  "type": "Diocese",
+  "annee_donnees": 2022,
+  "territoire": {
+    "superficie_km2": 2670,
+    "population_totale": 1063554,
+    "catholiques": 377022,
+    "pourcentage_catholiques": 35.4
+  },
+  "ressources": {
+    "pretres_diocesains": 71,
+    "pretres_religieux": null,
+    "total_pretres": 71,
+    "religieux_freres": 31,
+    "religieuses": 163,
+    "total_religieux": 194,
+    "seminarians": 28,
+    "diacres_permanents": null,
+    "paroisses": 22,
+    "missions": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org + Statistiques 2022",
+  "derniere_mise_a_jour": "2026-07-14",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Kibungo",
+    "conference_episcopale": "https://www.eglisecatholiquerwanda.org/"
+  }
+}

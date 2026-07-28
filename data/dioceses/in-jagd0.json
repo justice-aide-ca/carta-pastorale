@@ -1,0 +1,29 @@
+{
+  "id": "in-jagd0",
+  "nom": "Jagdalpur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Jagdalpur / Iagdalpuren(sis) (Latin)Ecclesiastical Province: UjjainNeighbouring Dioceses: Khammam (↙), Warangal (↙), Chanda (←), Raipur (↑), Rayagada (→)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint JosephHistory1972.03.23: Established as Apostolic Exarchate of Jagdalpur / Iagdalpuren(sis) (Latin) (from Apostolic Prefecture of Raipur)1977.02.26: Promoted as Diocese of Jagdalpur / Iagdalpuren(sis) (Latin) (became suffragan of Bhopal)2004.02.27: Became suffragan of Raipur2025.08.28: Gained territory from Diocese of Shamshabad and became suffragan of UjjainPresent PrelatesBishop (2013.07.16 – ...):Bishop Joseph Kollamparampil, C.M.I. (68)OrdinariesBishops of Jagdalpur (Syro-Malabar Rite)Bishop Joseph Kollamparampil, C.M.I. (68)  (2013.07.16 – ...)Bishop of Jagdalpur of the Syro-Malabars (India)Born:1958.04.18 (Cherpunkal, India)Ordained Priest:1985.05.06Consecrated Bishop:2013.09.17Bishop of Jagdalpur of the Syro-Malabars (India) (2013.07.16 – ...)Bishop Simon Stock Palathara, C.M.I.  (1992.12.16 – 2013.07.16)Born:1935.10.11 (Chethipuzha, India)Ordained Priest:1964.12.01Consecrated Bishop:1993.03.19Died:2022.11.19 (Jagdalpur, India † 87)Bishop of Jagdalpur of the Syro-Malabars (India) (1992.12.16 – 2013.07.16)Bishop Paulinus Jeerakath, C.M.I.  (1977.02.26 – 1990.08.07)Born:1919.03.17 (Kuruvinal, India)Ordained Priest:1946.02.18Consecrated Bishop:1977.05.11Died:1990.08.07 († 71)Apostolic Exarch of Jagdalpur of the Syro-Malabars (India) (1972.03.23 – 1977.02.26)Bishop of Jagdalpur of the Syro-Malabars (India) (1977.02.26 – 1990.08.07)Apostolic Exarchs of Jagdalpur (Syro-Malabar Rite)Fr. Paulinus Jeerakath, C.M.I. (later Bishop)  (1972.03.23 – 1977.02.26)(see above)Special ChurchesCathedral:  St. Joseph’s Cathedral, Jagdalpur, Chhattīsgarh Show MapKhammam (↙), Warangal (↙), Chanda (←), Raipur (↑), Rayagada (→)Statistics (2022.12.31)Area: 39,176 km²Population: 12,850 Catholics (0.4% of 3,554,250 total)Pastoral Centres: 24 parishes, 56 missionsPersonnel: 93 priests (39 diocesan, 54 religious), 429 religious (66 brothers, 363 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "jagd0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3554250,
+    "catholiques": 12850,
+    "pourcentage_catholiques": 0.4
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 93,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

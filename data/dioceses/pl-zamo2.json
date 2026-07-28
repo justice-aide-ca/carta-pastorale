@@ -1,0 +1,29 @@
+{
+  "id": "pl-zamo2",
+  "nom": "Zamość–Lubaczów",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Zamość–Lubaczów / Zamoscien(sis)–Lubaczovien(sis) (Latin)Ecclesiastical Province: PrzemyślNeighbouring Dioceses: Przemyśl (↙), Sandomierz (←), Lublin (↖), Lutsk (→), Lviv (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Świętej Bożej Rodzicielki Maryi, Matki Odkupiciela (January 1)Cathedral Dedication Anniversary: November 18Liturgical Calendar 📅History1991: Established as Apostolic Administration of Lubaczów / Lubaczovien(sis) (Latin) (from Metropolitan Archdiocese of Lviv)1992.03.25: Promoted as Diocese of Zamość–Lubaczów / Zamoscien(sis)–Lubaczovien(sis) (Latin) (gained territory from Diocese of Lublin and became suffragan of Przemyśl)Papal VisitsPope John Paul II (1991.06, 1999.06)Present PrelatesBishop (2012.06.30 – ...):Bishop Marian Rojek (71)Auxiliary Bishop (1998.06.10 – ...):Bishop Mariusz Leszczyński (69)Titular Bishop of BassianaMonsignors (37)OrdinariesBishops of Zamość–Lubaczów (Roman Rite)Bishop Marian Rojek (71)  (2012.06.30 – ...)Bishop of Zamość–Lubaczów (Poland)Eucharistia Panis VitæBorn:1955.04.09 (Rzeszów, Poland)Ordained Priest:1981.06.07Consecrated Bishop:2006.02.02Priest of Przemyśl (Poland) (1981.06.07 – 2005.12.21)Chaplain of His Holiness (2000.10.22 – 2005.12.21)Titular Bishop of Tisedi (2005.12.21 – 2012.06.30)Auxiliary Bishop of Przemyśl (Poland) (2005.12.21 – 2012.06.30)Bishop of Zamość–Lubaczów (Poland) (2012.06.30 – ...)Bishop Wacław Tomasz Depo (72) (later Archbishop)  (2006.08.05 – 2011.12.29)Metropolitan Archbishop of Częstochowa (Poland)Ad Christum Redemptorem hominisBorn:1953.09.27 (Szydłowiec, Poland)Ordained Priest:1978.06.03Consecrated Bishop:2006.09.09Priest of Sandomierz–Radom (Poland) (1978.06.03 – 1992.03.25)Priest of Radom (Poland) (1992.03.25 – 2006.08.05)Bishop of Zamość–Lubaczów (Poland) (2006.08.05 – 2011.12.29)Metropolitan Archbishop of Częstochowa (Poland) (2011.12.29 – ...)Bishop Jan Śrutwa (85)  (1992.03.25 – 2006.08.05)Bishop emeritus of Zamość–Lubaczów (Poland)Veritatem In caritateBorn:1940.12.01 (Majdan Górny, Poland)Ordained Priest:1964.05.31Consecrated Bishop:1984.09.01Priest of Lublin (Poland) (1964.05.31 – 1984.07.25)Titular Bishop of Liberalia (1984.07.25 – 1992.03.25)Auxiliary Bishop of Lublin (Poland) (1984.07.25 – 1992.03.25)Bishop of Zamość–Lubaczów (Poland) (1992.03.25 – 2006.08.05)Special ChurchesCathedral, World Heritage Site (Minor):  Katedra Zmartwychwstania Pańskiego i św. Tomasza Apostoła, Zamość, Lubelskie Co-Cathedral:  Konkatedra św. Stanisława, Lubaczów, Podkarpackie Minor Basilica:  Bazylika św. Antoniego z Padwy, Radecznica, Lubelskie World Heritage Site:  Cerkiew św. Paraskewy, Radruż, Podkarpackie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapPrzemyśl (↙), Sandomierz (←), Lublin (↖), Lutsk (→), Lviv (↘)Statistics (2022.12.31)Area: 8,144 km²Population: 455,130 Catholics (96.8% of 470,200 total)Pastoral Centres: 187 parishesPersonnel: 446 priests (419 diocesan, 27 religious), 122 religious (27 brothers, 95 sisters), 19 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zamo2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 470200,
+    "catholiques": 455130,
+    "pourcentage_catholiques": 96.8
+  },
+  "ressources": {
+    "pretres_diocesains": 419,
+    "pretres_religieux": null,
+    "total_pretres": 446,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 187
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

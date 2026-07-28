@@ -1,0 +1,29 @@
+{
+  "id": "in-adil0",
+  "nom": "Adilabad",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Adilabad / Adilabaden(sis) (Latin)Ecclesiastical Province: ShamshabadNeighbouring Dioceses: Aurangabad (←), Amravati (↖), Chanda (↗), Warangal (↘), Hyderabad (↓)Depends on: Dicastery for the Eastern ChurchesCelebrationsPatron Saint: Saint Kuriakose Elias ChavaraHistory1999.06.23: Established as Diocese of Adilabad / Adilabaden(sis) (Latin) (from Diocese of Chanda and became suffragan of Hyderabad)2025.08.28: Gained territory from Diocese of Shamshabad and became suffragan of ShamshabadPresent PrelatesBishop (2025.08.28 – ...):Bishop Joseph Thachaparambath, C.M.I. (57)OrdinariesBishops of Adilabad (Syro-Malabar Rite)Bishop Joseph Thachaparambath, C.M.I. (57)  (2025.08.28 – ...)Bishop of Adilabad of the Syro-Malabars (India)Born:1969.02.24 (Nalumukku, India)Ordained Priest:1997.01.04Consecrated Bishop:2025.10.25Bishop of Adilabad of the Syro-Malabars (India) (2025.08.28 – ...)Bishop Prince Panengadan Devassy (50) (later Archbishop)  (Archiepiscopal Administrator 2024.11.10 – 2025.08.28)Bishop Prince Panengadan Devassy (50) (later Archbishop)  (2015.08.06 – 2024.08.30)Metropolitan Archbishop of Shamshabad of the Syro-Malabars (India)Born:1976.05.13 (Arimpur, India)Ordained Priest:2007.04.25Consecrated Bishop:2015.10.29Priest of Adilabad of the Syro-Malabars (India) (2007.04.25 – 2015.08.06)Bishop of Adilabad of the Syro-Malabars (India) (2015.08.06 – 2024.08.30)Bishop of Shamshabad of the Syro-Malabars (India) (2024.08.30 – 2025.08.28)Archiepiscopal Administrator of Adilabad of the Syro-Malabars (India) (2024.11.10 – 2025.08.28)Metropolitan Archbishop of Shamshabad of the Syro-Malabars (India) (2025.08.28 – ...)Bishop Joseph Kunnath, C.M.I. (86)  (1999.06.23 – 2015.08.06)Bishop emeritus of Adilabad of the Syro-Malabars (India)Born:1939.09.08 (Kodancherry, India)Ordained Priest:1972.04.24Consecrated Bishop:1999.10.06Bishop of Adilabad of the Syro-Malabars (India) (1999.06.23 – 2015.08.06)Special ChurchesCathedral:  Cathedral of the Holy Family, Adilabad, Telangāna Show MapAurangabad (←), Amravati (↖), Chanda (↗), Warangal (↘), Hyderabad (↓)Statistics (2021.12.31)Area: 16,128 km²Population: 18,000 Catholics (0.6% of 2,996,000 total)Pastoral Centres: 50 parishes, 40 missionsPersonnel: 97 priests (35 diocesan, 62 religious), 305 religious (77 brothers, 228 sisters), 15 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "adil0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2996000,
+    "catholiques": 18000,
+    "pourcentage_catholiques": 0.6
+  },
+  "ressources": {
+    "pretres_diocesains": 35,
+    "pretres_religieux": null,
+    "total_pretres": 97,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 50
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

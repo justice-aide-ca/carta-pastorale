@@ -1,0 +1,29 @@
+{
+  "id": "cl-vill4",
+  "nom": "Villarrica",
+  "pays": "cl",
+  "pays_nom": "Chile",
+  "continent": "amerique",
+  "type": "Diocese Name: Villarrica / Villaricen(sis) (Latin)Ecclesiastical Province: ConcepciónNeighbouring Dioceses: Temuco (↑), Neuquén (→), Valdivia (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Sagrado CorazónLiturgical Calendar (National) 📅History1901.07.16: Established as Apostolic Prefecture of Araucanía / Araucanien(sis) (Latin) (from Diocese of Concepción and Diocese of San Carlos de Ancud)1928.03.28: Promoted as Apostolic Vicariate of Araucanía / Araucanien(sis) (Latin)1944.07.08: Lost territory to Diocese of Valdivia2002.01.05: Promoted as Diocese of Villarrica / Villaricen(sis) (Latin) (lost territory to Diocese of Valparaíso and became suffragan of Concepción)Contact InfoAddress: Gerónimo de Alderete 939, Villarrica, ChilePhone: 45-411189Present PrelatesBishop (2009.02.07 – ...):Bishop Francisco Javier Stegmeier Schmidlin (64)OrdinariesBishops of Villarrica (Roman Rite)Bishop Francisco Javier Stegmeier Schmidlin (64)  (2009.02.07 – ...)Bishop of Villarrica (Chile)Veritas in CaritateBorn:1962.05.19 (Los Ángeles, Chile)Ordained Priest:1988.12.03Consecrated Bishop:2009.04.19Priest of Los Ángeles (Chile) (1988.12.03 – 2009.02.07)Bishop of Villarrica (Chile) (2009.02.07 – ...)Bishop Sixto José Parzinger Foidl, O.F.M. Cap.  (2001.11.19 – 2009.02.07)Ad ædificationem fideiBorn:1931.12.21 (St. Johan in Tirol, Austria)Ordained Priest:1960.06.29Consecrated Bishop:1978.03.05Died:2023.02.25 (Lanco, Chile † 91)Titular Bishop of Gaguari (1977.12.17 – 2001.11.19)Vicar Apostolic of Araucanía (Chile) (1977.12.17 – 2001.11.19)Bishop of Villarrica (Chile) (2001.11.19 – 2009.02.07)Vicars Apostolic of Araucanía (Roman Rite)Bishop Sixto José Parzinger Foidl, O.F.M. Cap.  (1977.12.17 – 2001.11.19)(see above)Bishop Carlos Guillermo Hartl de Laufen, O.F.M. Cap.  (1958.03.05 – 1977.02.06)Deus omnia in omnibusBorn:1904.05.10 (Laufen, Germany)Ordained Priest:1928.07.15Consecrated Bishop:1957.03.17Died:1977.02.06 (Villarrica, Chile † 72)Coadjutor Vicar Apostolic of Araucanía (Chile) (1956.11.09 – 1958.03.05)Titular Bishop of Stratonicea in Caria (1956.11.09 – 1977.02.06)Vicar Apostolic of Araucanía (Chile) (1958.03.05 – 1977.02.06)Bishop Guido Benedetto Beck de Ramberga, O.F.M. Cap.  (1928.03.28 – 1958.03.05)Evangelizare pauperibus misit meBorn:1885.12.09 (Ramberg, Germany)Ordained Priest:1910.06.29Consecrated Bishop:1928.08.05Died:1958.03.05 († 72)Prefect Apostolic of Araucanía (Chile) (1925.01.20 – 1928.03.28)Titular Bishop of Mastaura in Asia (1928.03.28 – 1958.03.05)Vicar Apostolic of Araucanía (Chile) (1928.03.28 – 1958.03.05)Prefects Apostolic of Araucanía (Roman Rite)Fr. Guido Benedetto Beck de Ramberga, O.F.M. Cap. (later Bishop)  (1925.01.20 – 1928.03.28)(see above)Former PrelatesCoadjutor Vicar Apostolic: Bishop Carlos Guillermo Hartl de Laufen, O.F.M. Cap. (1956.11.09 – 1958.03.05)Special ChurchesCathedral:  Catedral Sagrado Corazón de Jesús, Villarrica, La Araucanía Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (34)Show MapTemuco (↑), Neuquén (→), Valdivia (↓)Statistics (2022.12.31)Area: 15,544 km²Population: 292,000 Catholics (64.5% of 452,700 total)Pastoral Centres: 30 parishes, 30 missionsPersonnel: 43 priests (33 diocesan, 10 religious), 19 deacons, 132 religious (12 brothers, 120 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vill4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 452700,
+    "catholiques": 292000,
+    "pourcentage_catholiques": 64.5
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

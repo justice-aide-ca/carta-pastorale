@@ -1,0 +1,29 @@
+{
+  "id": "sk-brat1",
+  "nom": "Bratislava",
+  "pays": "sk",
+  "pays_nom": "Slovakia",
+  "continent": "unknown",
+  "type": "Diocese Name: Bratislava / Bratislavien(sis) (Latin)Ecclesiastical Province: PrešovNeighbouring Dioceses: Czech Republic (↖), Przemyśl–Warszawa (↗), Prešov (↗), Košice (→), Miskolc (→), Hajdúdorog (↘)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint Peter and Saint Paul of TarsusHistory2008.01.30: Established as Diocese of Bratislava / Bratislavien(sis) (Latin) (from Diocese of Prešov and became suffragan of Prešov)Present PrelatesBishop (2026.03.06 – ...):Bishop Milan Lach, S.J. (52)OrdinariesBishops of Bratislava (Slovak Rite)Bishop Milan Lach, S.J. (52)  (2026.03.06 – ...)Bishop of Bratislava of the Slovaks (Slovakia)ServireBorn:1973.11.18 (Kežmarok, Slovakia)Ordained Priest:2001.07.01Consecrated Bishop:2013.06.01Auxiliary Bishop of Prešov of the Slovaks (Slovakia) (2013.04.19 – 2017.06.24)Titular Bishop of Ostracine (2013.04.19 – 2018.06.01)Apostolic Administrator of Parma of the Ruthenians (USA) (2017.06.24 – 2018.06.01)Bishop of Parma of the Ruthenians (USA) (2018.06.01 – 2023.01.23)Titular Bishop of Ostracine (2023.01.23 – 2026.03.06)Auxiliary Bishop of Bratislava of the Slovaks (Slovakia) (2023.01.23 – 2026.03.06)Apostolic Visitator in Western Europe of the Slovaks (2024.11.21 – 2026.03.13)Bishop of Bratislava of the Slovaks (Slovakia) (2026.03.06 – ...)Bishop Peter Rusnák (75)  (2008.01.30 – 2026.03.06)Bishop emeritus of Bratislava of the Slovaks (Slovakia)Marana thaBorn:1950.09.06 (Humenne, Slovakia)Ordained Priest:1987.06.16Consecrated Bishop:2008.02.16Priest of Prešov of the Slovaks (Slovakia) (1987.06.16 – 2008.01.30)Bishop of Bratislava of the Slovaks (Slovakia) (2008.01.30 – 2026.03.06)Apostolic Administrator of Prešov of the Slovaks (Slovakia) (2022.04.25 – 2023.10.26)Former PrelatesAuxiliary Bishop: Bishop Milan Lach, S.J. (52) (2023.01.23 – 2026.03.06)Special ChurchesCathedral:  Greckokatolícka katedrálny chrám Povýšenia sv. Kríža, Bratislava, Bratislava Jubilee Churches in the Holy Year 2025Churches by City (15)Show MapCzech Republic (↖), Przemyśl–Warszawa (↗), Prešov (↗), Košice (→), Miskolc (→), Hajdúdorog (↘)Statistics (2022.12.31)Population: 17,630 CatholicsPastoral Centres: 15 parishesPersonnel: 22 priests (21 diocesan, 1 religious), 3 deacons, 1 religious (1 brother)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "brat1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 21,
+    "pretres_religieux": null,
+    "total_pretres": 22,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

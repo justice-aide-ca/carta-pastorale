@@ -1,0 +1,29 @@
+{
+  "id": "gr-zgeo0",
+  "nom": "Saint George’s in Grenada",
+  "pays": "gr",
+  "pays_nom": "Grenada",
+  "continent": "unknown",
+  "type": "Diocese Name: Saint George’s in Grenada / Sancti Georgii (Latin)Ecclesiastical Province: CastriesNeighbouring Dioceses: Carúpano (↙), Kingstown (↗), Port of Spain (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1956.02.20: Established as Diocese of Saint George’s in Grenada / Sancti Georgii (Latin) (from Metropolitan Archdiocese of Port of Spain and became suffragan of Port of Spain)1970.03.07: Lost territory to establish Diocese of Bridgetown–Kingstown1974.11.18: Became suffragan of CastriesPresent PrelatesBishop:vacantApostolic Administrator (2026.06.09 – ...):Archbishop Gabriel Malzaire (68)Metropolitan Archbishop of Castries (Saint Lucia)Monsignors (1)OrdinariesBishops of Saint George’s in Grenada (Roman Rite)Archbishop Gabriel Malzaire (68)  (Apostolic Administrator 2026.06.09 – ...)Bishop Clyde Martin Harvey (77)  (2017.06.23 – 2026.06.09)Bishop emeritus of Saint George’s in Grenada (Grenada)Loving kindnessBorn:1948.11.09 (Port of Spain, Trinidad and Tobago)Ordained Priest:1976.06.27Consecrated Bishop:2017.07.29Priest of Port of Spain (Trinidad and Tobago) (1976.06.27 – 2017.06.23)Bishop of Saint George’s in Grenada (Grenada) (2017.06.23 – 2026.06.09)Bishop Vincent Matthew Darius, O.P.  (2002.07.10 – 2016.04.26)Proclaim the good newsBorn:1955.09.06 (Crochi, Grenada)Ordained Priest:1987.06.28Consecrated Bishop:2002.10.02Died:2016.04.26 (New York City, NY, USA † 60)Bishop of Saint George’s in Grenada (Grenada) (2002.07.10 – 2016.04.26)Bishop Sydney Anicetus Charles  (1974.11.18 – 2002.07.10)Born:1926.04.17 (St. Joseph, Trinidad and Tobago)Ordained Priest:1954.03.07Consecrated Bishop:1975.01.26Died:2018.09.04 (St. George’s, Grenada † 92)Priest of Port of Spain (Trinidad and Tobago) (1954.03.07 – 1974.11.18)Bishop of Saint George’s in Grenada (Grenada) (1974.11.18 – 2002.07.10)Bishop Patrick Webster, O.S.B. (later Archbishop)  (1970.03.07 – 1974.11.18)Born:1924.04.24 (Castries, Saint Lucia)Ordained Priest:1957.06.30Consecrated Bishop:1969.08.31Died:1989.07.24 († 65)Titular Bishop of Otočac (1969.06.26 – 1970.03.07)Auxiliary Bishop of Saint George’s in Grenada (Grenada) (1969.06.26 – 1970.03.07)Apostolic Administrator of Saint George’s in Grenada (Grenada) (1969.08.05 – 1970.03.07)Apostolic Administrator of Bridgetown–Kingstown (Barbados) (1970.03.07 – 1970.10.19)Bishop of Saint George’s in Grenada (Grenada) (1970.03.07 – 1974.11.18)Metropolitan Archbishop of Castries (Saint Lucia) (1974.11.18 – 1979.05.10)Bishop Patrick Webster, O.S.B. (later Archbishop)  (Apostolic Administrator 1969.08.05 – 1970.03.07)Bishop Justin James Field, O.P.  (1957.01.14 – 1969.08.04)Born:1899.07.06 (Gloucester, England)Ordained Priest:1926.09.18Consecrated Bishop:1957.03.25Died:1969.08.04 (St. George’s, Grenada † 70)Bishop of Saint George’s in Grenada (Grenada) (1957.01.14 – 1969.08.04)Former PrelatesAuxiliary Bishop: Bishop Patrick Webster, O.S.B. (later Archbishop) (1969.06.26 – 1970.03.07)Special ChurchesCathedral:  Cathedral of the Immaculate Conception, St. George’s, Saint George Churches by City (59)Show MapCarúpano (↙), Kingstown (↗), Port of Spain (↓)Statistics (2022.12.31)Area: 344 km²Population: 38,580 Catholics (36.1% of 106,890 total)Pastoral Centres: 20 parishesPersonnel: 16 priests (7 diocesan, 9 religious), 6 deacons, 37 religious (12 brothers, 25 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zgeo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 106890,
+    "catholiques": 38580,
+    "pourcentage_catholiques": 36.1
+  },
+  "ressources": {
+    "pretres_diocesains": 7,
+    "pretres_religieux": null,
+    "total_pretres": 16,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

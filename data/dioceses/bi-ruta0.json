@@ -1,0 +1,29 @@
+{
+  "id": "bi-ruta0",
+  "nom": "Rutana",
+  "pays": "bi",
+  "pays_nom": "Burundi",
+  "continent": "unknown",
+  "type": "Diocese Name: Rutana / Rutan(us) (Latin)Ecclesiastical Province: GitegaNeighbouring Dioceses: Bururi (←), Gitega (↑), Ruyigi (↗), Kigoma (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2009.01.17: Established as Diocese of Rutana / Rutan(us) (Latin) (from Diocese of Bururi and Diocese of Ruyigi and became suffragan of Gitega)Present PrelatesBishop (2025.02.15 – ...):Bishop Léonidas Nitereka (65)OrdinariesBishops of Rutana (Roman Rite)Bishop Léonidas Nitereka (65)  (2025.02.15 – ...)Bishop of Rutana (Burundi)Ut fructum multum afferatisBorn:1960.09.01 (Martyazo, Burundi)Ordained Priest:1986.08.17Consecrated Bishop:2025.04.12Priest of Bururi (Burundi) (1986.08.17 – 2025.02.15)Bishop of Rutana (Burundi) (2025.02.15 – ...)Archbishop Bonaventure Nahimana (67)  (Apostolic Administrator 2022.02.19 – 2025.02.15)Bishop Bonaventure Nahimana (67) (later Archbishop)  (2009.01.17 – 2022.02.19)Metropolitan Archbishop of Gitega (Burundi)President of Catholic Bishops’ Conference of BurundiSecond Vice-President of Association of Episcopal Conferences of Central AfricaPriez pour nousBorn:1959.06.03 (Gisebuzi, Burundi)Ordained Priest:1986.08.10Consecrated Bishop:2009.03.28Priest of Gitega (Burundi) (1986.08.10 – 2009.01.17)Bishop of Rutana (Burundi) (2009.01.17 – 2022.02.19)Second Vice-President of Association of Episcopal Conferences of Central Africa (2019.06.26 – ...)Vice-President of Catholic Bishops’ Conference of Burundi (2019.12.06 – 2022.12.15)Apostolic Administrator of Rutana (Burundi) (2022.02.19 – 2025.02.15)Metropolitan Archbishop of Gitega (Burundi) (2022.02.19 – ...)President of Catholic Bishops’ Conference of Burundi (2022.12.15 – ...)Special ChurchesCathedral:  Cathédrale Saint-Joseph, Rutana, Rutana Show MapBururi (←), Gitega (↑), Ruyigi (↗), Kigoma (→)Statistics (2022.12.31)Area: 2,180 km²Population: 259,036 Catholics (36.3% of 713,652 total)Pastoral Centres: 16 parishes, 151 missionsPersonnel: 58 priests (48 diocesan, 10 religious), 117 religious (12 brothers, 105 sisters), 84 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ruta0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 713652,
+    "catholiques": 259036,
+    "pourcentage_catholiques": 36.3
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 58,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

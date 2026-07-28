@@ -1,0 +1,29 @@
+{
+  "id": "ph-cata3",
+  "nom": "Catarman",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Catarman / Catarmanien(sis) (Latin)Ecclesiastical Province: PaloNeighbouring Dioceses: Sorsogon (↖), Calbayog (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Our Lady of the Annunciation (March 25)Cathedral Dedication Anniversary: March 11Liturgical Calendar (National) 📅History1974.12.05: Established as Diocese of Catarman / Catarmanien(sis) (Latin) (from Diocese of Borongan and Diocese of Calbayog and became suffragan of Cebu)1982.11.15: Became suffragan of PaloPresent PrelatesBishop (2024.10.18 – ...):Bishop Nolly Camingue Buco (62)Monsignors (4)OrdinariesBishops of Catarman (Roman Rite)Bishop Nolly Camingue Buco (62)  (2024.10.18 – ...)Bishop of Catarman (Philippines)Lex Dei vitæ lampasBorn:1963.11.27 (Baganga, Davao Oriental, Philippines)Ordained Priest:1993.10.18Consecrated Bishop:2018.09.08Priest of Antipolo (Philippines) (1993.10.18 – 2018.07.10)Titular Bishop of Gemellæ in Byzacena (2018.07.10 – 2024.10.18)Auxiliary Bishop of Antipolo (Philippines) (2018.07.10 – 2024.10.18)Apostolic Administrator of Catarman (Philippines) (2023.12.08 – 2024.10.18)Bishop of Catarman (Philippines) (2024.10.18 – ...)Bishop Nolly Camingue Buco (62)  (Apostolic Administrator 2023.12.08 – 2024.10.18)Bishop Emmanuel Celeste Trance (72)  (2005.03.10 – 2023.12.08)Bishop emeritus of Catarman (Philippines)Caritas justitiaque ChristiBorn:1953.08.18 (Calinog Iloilo, Philippines)Ordained Priest:1978.05.17Consecrated Bishop:2004.07.22Priest of Jaro (Philippines) (1978.05.17 – 2004.05.14)Chaplain of His Holiness (2003.06.27 – 2004.05.14)Coadjutor Bishop of Catarman (Philippines) (2004.05.14 – 2005.03.10)Bishop of Catarman (Philippines) (2005.03.10 – 2023.12.08)Bishop Angel Tec-i Hobayan  (1974.12.12 – 2005.03.10)Born:1929.12.11 (Taft, Philippines)Ordained Priest:1955.03.25Consecrated Bishop:1975.03.05Died:2023.03.11 (San Juan City, Philippines † 93)Bishop of Catarman (Philippines) (1974.12.12 – 2005.03.10)Former PrelatesCoadjutor Bishop: Bishop Emmanuel Celeste Trance (72) (2004.05.14 – 2005.03.10)Special ChurchesCathedral:  Cathedral of Our Lady of the Annunciation, Catarman, Northern Samar, Eastern Visayas Jubilee Churches in the Holy Year 2025Churches by City (29)Show MapSorsogon (↖), Calbayog (↓)Statistics (2022.12.31)Area: 3,693 km²Population: 639,679 Catholics (93.9% of 681,299 total)Pastoral Centres: 32 parishesPersonnel: 58 priests (53 diocesan, 5 religious), 44 religious (5 brothers, 39 sisters), 44 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cata3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 681299,
+    "catholiques": 639679,
+    "pourcentage_catholiques": 93.9
+  },
+  "ressources": {
+    "pretres_diocesains": 53,
+    "pretres_religieux": null,
+    "total_pretres": 58,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

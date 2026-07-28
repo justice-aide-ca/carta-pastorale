@@ -1,0 +1,29 @@
+{
+  "id": "mx-ecat0",
+  "nom": "Ecatepec",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Ecatepec / Ecatepecen(sis) (Latin)Ecclesiastical Province: TlalnepantlaNeighbouring Dioceses: México (↙), Cuautitlán (↖), Teotihuacan (↗), Texcoco (→)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1995.06.28: Established as Diocese of Ecatepec / Ecatepecen(sis) (Latin) (from Metropolitan Archdiocese of Tlalnepantla and Diocese of Texcoco and became suffragan of Tlalnepantla)Contact InfoAddress: Plaza Principal s/n San Cristóbal, Centro, 55000 - Ecatepec de Morelos, Mex., MexicoPhone: (55) 51-16-09-76Papal VisitsPope Francis (2016.02)Present PrelatesBishop (2026.05.13 – ...):Bishop José Guadalupe Torres Campos (66)Monsignors (10)OrdinariesBishops of Ecatepec (Roman Rite)Bishop José Guadalupe Torres Campos (66)  (2026.05.13 – ...)Bishop of Ecatepec (Mexico)Haced lo que Él les osBorn:1960.01.19 (León, Mexico)Ordained Priest:1984.07.02Consecrated Bishop:2006.02.22Priest of León (Mexico) (1984.07.02 – 2004.01.03)Priest of Irapuato (Mexico) (2004.01.03 – 2005.12.10)Titular Bishop of Quiza (2005.12.10 – 2008.11.25)Auxiliary Bishop of Ciudad Juárez (Mexico) (2005.12.10 – 2008.11.25)Bishop of Gómez Palacio (Mexico) (2008.11.25 – 2014.12.20)Bishop of Ciudad Juárez (Mexico) (2014.12.20 – 2026.05.13)Bishop of Ecatepec (Mexico) (2026.05.13 – ...)Bishop Oscar Roberto Domínguez Couttolenc, M.G. (70) (later Archbishop)  (2012.07.17 – 2024.07.03)Metropolitan Archbishop of Tulancingo (Mexico)Discípulo misioneroBorn:1956.05.13 (Puebla, Mexico)Ordained Priest:1983.08.11Consecrated Bishop:2007.06.11Bishop of Tlapa (Mexico) (2007.03.27 – 2012.07.17)Bishop of Ecatepec (Mexico) (2012.07.17 – 2024.07.03)Metropolitan Archbishop of Tulancingo (Mexico) (2024.07.03 – ...)Bishop Onésimo Cepeda Silva  (1995.06.28 – 2012.05.07)Scio enim cui credidiBorn:1937.03.25 (México, Mexico)Ordained Priest:1970.10.28Consecrated Bishop:1995.08.12Died:2022.01.31 (México, Mexico † 84)Priest of Cuernavaca (Mexico) (1970.10.28 – 1995.06.28)Protonotary Apostolic Supernumerary (1994.07.11 – 1995.06.28)Bishop of Ecatepec (Mexico) (1995.06.28 – 2012.05.07)Died of COVID-19. Special ChurchesCathedral:  Catedral dal Sagrado Corazón de Jesús, Ecatepec de Morelos, México Former Cathedral:  Templo Expiatorio de San Cristobal, Ecatepec de Morelos, México Show MapMéxico (↙), Cuautitlán (↖), Teotihuacan (↗), Texcoco (→)Statistics (2022.12.31)Area: 204 km²Population: 1,239,049 Catholics (75.4% of 1,643,283 total)Pastoral Centres: 100 parishes, 1 missionPersonnel: 156 priests (143 diocesan, 13 religious), 4 deacons, 141 religious (17 brothers, 124 sisters), 29 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ecat0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1643283,
+    "catholiques": 1239049,
+    "pourcentage_catholiques": 75.4
+  },
+  "ressources": {
+    "pretres_diocesains": 143,
+    "pretres_religieux": null,
+    "total_pretres": 156,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 100
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

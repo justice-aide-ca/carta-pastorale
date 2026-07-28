@@ -1,0 +1,29 @@
+{
+  "id": "pg-goro0",
+  "nom": "Goroka",
+  "pays": "pg",
+  "pays_nom": "Papua New Guinea",
+  "continent": "oceanie",
+  "type": "Diocese Name: Goroka / 戈羅卡 (正體中文) / Gorokan(us) (Latin)Ecclesiastical Province: Mount HagenNeighbouring Dioceses: Kundiawa (←), Madang (↑), Lae (→), Kerema (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1959.06.18: Established as Apostolic Vicariate of Goroka / 戈羅卡 (正體中文) / Gorokan(us) (Latin) (from Apostolic Vicariate of Alexishafen)1966.11.15: Promoted as Diocese of Goroka / 戈羅卡 (正體中文) / Gorokan(us) (Latin) (became suffragan of Madang)1982.03.18: Became suffragan of Mount Hagen1982.06.08: Lost territory to establish Diocese of KundiawaContact InfoAddress: Bishop’s House, P.O. Box 109, Goroka, E.H.P., Papua New GuineaPhone: 532.1525Present PrelatesBishop (2022.02.14 – ...):Bishop Walenty Gryk, S.V.D. (69)OrdinariesBishops of Goroka (Roman Rite)Bishop Walenty Gryk, S.V.D. (69)  (2022.02.14 – ...)Bishop of Goroka (Papua New Guinea)Tok bilong God, em i tok tru na laipBorn:1957.02.23 (Uzbiereż, Poland)Ordained Priest:1984.04.28Consecrated Bishop:2022.05.07Bishop of Goroka (Papua New Guinea) (2022.02.14 – ...)Bishop Dariusz Piotr Kałuża, M.S.F. (58)  (2016.06.09 – 2020.09.12)Bishop of Bougainville (Papua New Guinea)Lok tok tru na laikpasinBorn:1967.11.05 (Pszczyna, Poland)Ordained Priest:1993.05.05Consecrated Bishop:2016.08.20Bishop of Goroka (Papua New Guinea) (2016.06.09 – 2020.09.12)Bishop of Bougainville (Papua New Guinea) (2020.09.12 – ...)Bishop Francesco Sarego, S.V.D. (86)  (1995.12.06 – 2016.06.09)Bishop emeritus of Goroka (Papua New Guinea)Pax ut in insulis nuntiabuntBorn:1939.08.01 (Cologna Veneta, Italy)Ordained Priest:1986.08.20Consecrated Bishop:1996.04.27Bishop of Goroka (Papua New Guinea) (1995.12.06 – 2016.06.09)President of Bishops’ Conference of Papua New Guinea and Solomon Islands (2005.07 – 2008.04)Archbishop Michael Meier, S.V.D.  (Apostolic Administrator sede plena 1991 – 1995.12.06)Bishop Michael Marai  (1988.10.25 – 1994.11.15)Laikim gotBorn:1948 (Muschu Island, Papua New Guinea)Ordained Priest:1976.12.06Consecrated Bishop:1989.02.23Died:2021.11.03 (Wewak, Papua New Guinea † 72)Priest of Wewak (Papua New Guinea) (1976.12.06 – 1988.10.25)Bishop of Goroka (Papua New Guinea) (1988.10.25 – 1994.11.15)Bishop Raymond Rodly Caesar, S.V.D.  (1980.08.30 – 1987.06.18)Born:1932.02.14 (Eunice, LA, USA)Ordained Priest:1961.06.04Consecrated Bishop:1978.10.25Died:1987.06.18 (Brisbane, Queensland, Australia † 55)Coadjutor Bishop of Goroka (Papua New Guinea) (1978.07.13 – 1980.08.30)Bishop of Goroka (Papua New Guinea) (1980.08.30 – 1987.06.18)President of Bishops’ Conference of Papua New Guinea and Solomon Islands (1983 – 1984)Bishop John Edward Cohill, S.V.D.  (1966.11.15 – 1980.08.30)Born:1907.12.13 (Elizabeth, NJ, USA)Ordained Priest:1936.03.20Consecrated Bishop:1967.03.11Died:1994.06.13 (Bordenhill, NJ, USA † 86)Bishop of Goroka (Papua New Guinea) (1966.11.15 – 1980.08.30)Vicars Apostolic of Goroka (Roman Rite)Bishop Bernard Schilling, S.V.D.  (1959.12.19 – 1966.11.15)Born:1914.10.02 (Somborn, Germany)Ordained Priest:1947.09.14Consecrated Bishop:1960.03.19Died:1992.06.16 (Begendorf, Germany † 77)Vicar Apostolic of Goroka (Papua New Guinea) (1959.12.19 – 1966.11.15)Apostolic Administrator of Lae (Papua New Guinea) (1959.12.19 – 1966.11.15)Titular Bishop of Callipolis (1959.12.19 – 1992.06.16)Former PrelatesCoadjutor Bishop: Bishop Raymond Rodly Caesar, S.V.D. (1978.07.13 – 1980.08.30)Special ChurchesCathedral:  Mary Help of Christians Cathedral, Goroka, Eastern Highlands Show MapKundiawa (←), Madang (↑), Lae (→), Kerema (↓)Statistics (2022.12.31)Area: 11,157 km²Population: 15,420 Catholics (2.3% of 677,790 total)Pastoral Centres: 11 parishes, 1 missionPersonnel: 10 priests (2 diocesan, 8 religious), 22 religious (14 brothers, 8 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "goro0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 677790,
+    "catholiques": 15420,
+    "pourcentage_catholiques": 2.3
+  },
+  "ressources": {
+    "pretres_diocesains": 2,
+    "pretres_religieux": null,
+    "total_pretres": 10,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

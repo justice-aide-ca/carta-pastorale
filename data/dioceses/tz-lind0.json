@@ -1,0 +1,29 @@
+{
+  "id": "tz-lind0",
+  "nom": "Lindi",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Lindi / Lindien(sis)Ecclesiastical Province: SongeaNeighbouring Dioceses: Tunduru–Masasi (↙), Songea (←), Mahenge (↖), Ifakara (↖), Dar-es-Salaam (↑), Mtwara (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1986.10.17: Established as Diocese of Lindi / Lindien(sis) (from the suppressed Diocese of Nachingwea and became suffragan of Dar-es-Salaam)1987.11.18: Became suffragan of SongeaPresent PrelatesBishop (2022.04.09 – ...):Bishop Wolfgang Pisa, O.F.M. Cap. (61)President of Tanzania Episcopal ConferenceOrdinariesBishops of Lindi (Roman Rite)Bishop Wolfgang Pisa, O.F.M. Cap. (61)  (2022.04.09 – ...)Bishop of Lindi (Tanzania)President of Tanzania Episcopal ConferenceSitio / I thirstBorn:1965.07.06 (Karatu, Tanzania)Ordained Priest:1999.09.01Consecrated Bishop:2022.06.26Bishop of Lindi (Tanzania) (2022.04.09 – ...)President of Tanzania Episcopal Conference (2024.06 – ...)Bishop Bruno Pius Ngonyani (80)  (1990.10.06 – 2022.04.09)Bishop emeritus of Lindi (Tanzania)Born:1945.08.08 (Magaura, Tanzania)Ordained Priest:1974.11.08Consecrated Bishop:1991.01.06Bishop of Lindi (Tanzania) (1990.10.06 – 2022.04.09)Bishop Maurus Libaba  (1986.10.17 – 1988.03.03)Born:1928.02.03 (Nkowe, Tanzania)Ordained Priest:1962.09.19Consecrated Bishop:1973.03.19Died:1988.03.03 († 60)Priest of Ndanda (Tanzania) (1962.09.19 – 1972.12.18)Bishop of Mtwara (Tanzania) (1972.12.18 – 1986.10.17)Bishop of Lindi (Tanzania) (1986.10.17 – 1988.03.03)Special ChurchesCathedral:  Cathedral of St. Andrew Kaggwa, Lindi, Lindi Former Cathedral:  Former Cathedral, Nachingwea, Lindi Show MapTunduru–Masasi (↙), Songea (←), Mahenge (↖), Ifakara (↖), Dar-es-Salaam (↑), Mtwara (↓)Statistics (2022.12.31)Area: 67,000 km²Population: 147,580 Catholics (16.6% of 887,390 total)Pastoral Centres: 29 parishesPersonnel: 33 priests (diocesan), 80 religious (1 brother, 79 sisters), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lind0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 887390,
+    "catholiques": 147580,
+    "pourcentage_catholiques": 16.6
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

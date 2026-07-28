@@ -1,0 +1,29 @@
+{
+  "id": "kr-chon0",
+  "nom": "Cheongju 청주",
+  "pays": "kr",
+  "pays_nom": "South Korea",
+  "continent": "unknown",
+  "type": "Diocese Name: Cheongju 청주 / Ch’ŏngju / 清州 (正體中文) / Cheongiuen(sis) (Latin)Ecclesiastical Province: Daegu 대구Neighbouring Dioceses: Jeonju 전주 (↙), Daejeon 대전 (↙), Suwon 수원 (↖), Wonju 원주 (↗), Andong 안동 (→), Daegu 대구 (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1958.06.23: Established as Apostolic Vicariate of Cheongju 청주 / Ch’ŏngju / 清州 (正體中文) / Cheongiuen(sis) (Latin) (from Apostolic Vicariate of Seul 서울)1962.03.10: Promoted as Diocese of Cheongju 청주 / Ch’ŏngju / 清州 (正體中文) / Cheongiuen(sis) (Latin) (became suffragan of Daegu 대구)Present PrelatesBishop:vacantMonsignors (1)OrdinariesBishops of Cheongju 청주 (Roman Rite)Bishop Simon Kim Jong-Gang (김종강 시몬 / 金鍾岡) (61) (later Archbishop)  (2022.03.19 – 2026.05.26)Coadjutor Archbishop of Daegu 대구 (South Korea)Bishop emeritus of Cheongju 청주 (South Korea)Ego rogavi pro te, ut non deficiat fides tuaBorn:1965.01.02 (Cheongju, South Korea)Ordained Priest:1996.06.28Consecrated Bishop:2022.05.02Priest of Cheongju 청주 (South Korea) (1996.06.28 – 2022.03.19)Bishop of Cheongju 청주 (South Korea) (2022.03.19 – 2026.05.26)Coadjutor Archbishop of Daegu 대구 (South Korea) (2026.05.26 – ...)Bishop Gabriel Chang Bong-hun (장봉훈 가브리엘 / 張峰軒) (79)  (1999.06.03 – 2022.03.19)Bishop emeritus of Cheongju 청주 (South Korea)Non mea sed tua / 주님의 뜻대로Born:1947.01.04 (Umsong-gun, South Korea)Ordained Priest:1976.05.03Consecrated Bishop:1999.08.24Priest of Cheongju 청주 (South Korea) (1976.05.03 – 1999.06.03)Bishop of Cheongju 청주 (South Korea) (1999.06.03 – 2022.03.19)Vice-President of Catholic Bishops’ Conference of Korea (2014.10.30 – 2020.10.15)Bishop Nicholas Cheong Jin-suk (정진석 니콜라오 / 鄭鎮奭) (later Cardinal)  (1970.06.25 – 1998.04.03)Omnibus omnia / 모든 이에게 모든 것Born:1931.12.07 (Seoul, South Korea)Ordained Priest:1961.03.18Consecrated Bishop:1970.10.03Created Cardinal:2006.03.24Died:2021.04.27 (Seoul, South Korea † 89)Priest of Seoul 서울 (South Korea) (1961.03.18 – 1970.06.25)Bishop of Cheongju 청주 (South Korea) (1970.06.25 – 1998.04.03)President of Catholic Bishops’ Conference of Korea (1996 – 1999)Metropolitan Archbishop of Seoul 서울 (South Korea) (1998.04.03 – 2012.05.10)Apostolic Administrator sede plena of Pyong-yang 평양 (North Korea) (1998.06.06 – 2012.05.10)Cardinal-Priest of S. Maria Immacolata di Lourdes a Boccea (2006.03.24 [2006.11.19] – 2021.04.27)Member of Council of Cardinals for the Study of Organisational and Economic Problems of the Apostolic See (2007.02.03 – 2012.05.10)Bishop James Vincent Pardy (파 야고보), M.M.  (1962.03.10 – 1969.06.17)Born:1898.03.09 (Brooklyn, NY, USA)Ordained Priest:1930.01.26Consecrated Bishop:1958.09.16Died:1983.02.15 (Mountain View, CA, USA † 84)Titular Bishop of Irenopolis in Isauria (1958.07.04 – 1962.03.10)Vicar Apostolic of Cheongju 청주 (South Korea) (1958.07.04 – 1962.03.10)Bishop of Cheongju 청주 (South Korea) (1962.03.10 – 1969.06.17)Titular Bishop of Umbriatico (1969.06.17 – 1972.04.18)Vicars Apostolic of Cheongju 청주 (Roman Rite)Bishop James Vincent Pardy (파 야고보), M.M.  (1958.07.04 – 1962.03.10)(see above)Special ChurchesCathedral:  Naedeok-dong Cathedral of the Holy Family, Cheongju 청주시, Chungcheongbuk-do 충청북도 Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapJeonju 전주 (↙), Daejeon 대전 (↙), Suwon 수원 (↖), Wonju 원주 (↗), Andong 안동 (→), Daegu 대구 (↘)Statistics (2022.12.31)Area: 5,742 km²Population: 171,733 Catholics (11.6% of 1,475,099 total)Pastoral Centres: 82 parishes, 46 missionsPersonnel: 192 priests (169 diocesan, 23 religious), 604 religious (117 brothers, 487 sisters), 27 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chon0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1475099,
+    "catholiques": 171733,
+    "pourcentage_catholiques": 11.6
+  },
+  "ressources": {
+    "pretres_diocesains": 169,
+    "pretres_religieux": null,
+    "total_pretres": 192,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 82
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hn-grac0",
+  "nom": "Gracias",
+  "pays": "hn",
+  "pays_nom": "Honduras",
+  "continent": "unknown",
+  "type": "Diocese Name: Gracias (español) / Gratien(sis) (Latin)Ecclesiastical Province: San Pedro SulaNeighbouring Dioceses: Chalatenango (↙), Santa Rosa de Copán (↖), Comayagua (→), San Miguel (↘), Santiago de María (↘), San Vicente (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History2021.04.27: Established as Diocese of Gracias (español) / Gratien(sis) (Latin) (from Diocese of Santa Rosa de Copán and became suffragan of Tegucigalpa)2023.01.26: Became suffragan of San Pedro SulaPresent PrelatesBishop (2021.04.27 – ...):Bishop Walter Guillén Soto, S.D.B. (64)General Secretary of Episcopal Conference of HondurasOrdinariesBishops of Gracias (Roman Rite)Bishop Walter Guillén Soto, S.D.B. (64)  (2021.04.27 – ...)Bishop of Gracias (Honduras)General Secretary of Episcopal Conference of HondurasSub tuum præsidium confugimusBorn:1961.12.06 (San Pedro Sula, Honduras)Ordained Priest:1988.11.05Consecrated Bishop:2021.06.11Titular Bishop of Nasbinca (2020.11.14 – 2021.04.27 not possessed)Auxiliary Bishop of Tegucigalpa (Honduras) (2020.11.14 – 2021.04.27 not possessed)Bishop of Gracias (Honduras) (2021.04.27 – ...)General Secretary of Episcopal Conference of Honduras (2025.06.04 – ...)Special ChurchesCathedral:  Catedral de San Marcos, Gracias, Lempira Show MapChalatenango (↙), Santa Rosa de Copán (↖), Comayagua (→), San Miguel (↘), Santiago de María (↘), San Vicente (↓)Statistics (2022.12.31)Area: 7,351 km²Population: 477,755 Catholics (73.6% of 649,230 total)Pastoral Centres: 31 parishesPersonnel: 40 priests (30 diocesan, 10 religious), 51 religious (10 brothers, 41 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "grac0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 649230,
+    "catholiques": 477755,
+    "pourcentage_catholiques": 73.6
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 40,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

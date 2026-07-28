@@ -1,0 +1,29 @@
+{
+  "id": "ma-miri0",
+  "nom": "Miri",
+  "pays": "ma",
+  "pays_nom": "Malaysia",
+  "continent": "unknown",
+  "type": "Diocese Name: Miri / 美里 (正體中文) / Mirien(sis) (Latin)Ecclesiastical Province: KuchingNeighbouring Dioceses: Sibu (↙), Brunei (↗), Keningau (→)Depends on: Dicastery for EvangelisationWebsites: CelebrationsCathedral Dedication Anniversary: March 19Liturgical Calendar (National) 📅History1959.12.19: Established as Apostolic Vicariate of Miri / 美里 (正體中文) / Mirien(sis) (Latin) (from Apostolic Vicariate of Kuching)1976.05.31: Promoted as Diocese of Miri / 美里 (正體中文) / Mirien(sis) (Latin) (became suffragan of Kuching)1997.11.21: Lost territory to establish Apostolic Prefecture of BruneiPresent PrelatesBishop (2013.10.30 – ...):Bishop Richard Ng (吳對龍) (60)General Secretary of Catholic Bishops’ Conference of Malaysia, Singapore and BruneiOrdinariesBishops of Miri (Roman Rite)Bishop Richard Ng (吳對龍) (60)  (2013.10.30 – ...)Bishop of Miri (Malaysia)General Secretary of Catholic Bishops’ Conference of Malaysia, Singapore and BruneiProclaim the GospelBorn:1966.06.20 (Kuching, Malaysia)Ordained Priest:1995.02.18Consecrated Bishop:2014.01.25Priest of Kuching (Malaysia) (1995.02.18 – 2013.10.30)Bishop of Miri (Malaysia) (2013.10.30 – ...)General Secretary of Catholic Bishops’ Conference of Malaysia, Singapore and Brunei (2021 – ...)Bishop Anthony Lee Kok Hin (89)  (1977.05.30 – 2013.10.30)Bishop emeritus of Miri (Malaysia)Born:1937.03.20 (Miri, Malaysia)Ordained Priest:1966.01.02Consecrated Bishop:1977.11.20Priest of Miri (Malaysia) (1966.01.02 – 1977.05.30)Bishop of Miri (Malaysia) (1977.05.30 – 2013.10.30)Bishop Anthony Denis Galvin, M.H.M.  (1976.05.31 – 1976.09.05)Born:1919.02.04 (Middlesbrough, England)Ordained Priest:1944.06.29Consecrated Bishop:1960.05.08Died:1976.09.05 (Hartlepool, England † 57)Titular Bishop of Lete (1960.04.05 – 1976.05.31)Vicar Apostolic of Miri (Malaysia) (1960.04.05 – 1976.05.31)President of Catholic Bishops’ Conference of Malaysia, Singapore and Brunei (1969 – 1976)Bishop of Miri (Malaysia) (1976.05.31 – 1976.09.05)Vicars Apostolic of Miri (Roman Rite)Bishop Anthony Denis Galvin, M.H.M.  (1960.04.05 – 1976.05.31)(see above)Special ChurchesCathedral:  St. Joseph’s Cathedral, Miri, Sarawak Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (7)Show MapSibu (↙), Brunei (↗), Keningau (→)Statistics (2022.12.31)Area: 66,135 km²Population: 117,930 Catholics (12.4% of 947,600 total)Pastoral Centres: 15 parishesPersonnel: 28 priests (19 diocesan, 9 religious), 26 religious (9 brothers, 17 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "miri0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 947600,
+    "catholiques": 117930,
+    "pourcentage_catholiques": 12.4
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 28,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

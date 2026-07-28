@@ -1,0 +1,29 @@
+{
+  "id": "zm-kabw0",
+  "nom": "Kabwe",
+  "pays": "zm",
+  "pays_nom": "Zambia",
+  "continent": "unknown",
+  "type": "Diocese Name: Kabwe / Kabven(sis) (Latin)Ecclesiastical Province: NdolaNeighbouring Dioceses: Monze (↙), Solwezi (↖), Mpika (↗), Sakania–Kipushi (↗), Chipata (→), Lusaka (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History2011.10.29: Established as Diocese of Kabwe / Kabven(sis) (Latin) (from Metropolitan Archdiocese of Lusaka and Diocese of Mpika and became suffragan of Lusaka)2024.06.18: Became suffragan of NdolaPresent PrelatesBishop (2011.10.29 – ...):Bishop Clement Mulenga, S.D.B. (60)OrdinariesBishops of Kabwe (Roman Rite)Bishop Clement Mulenga, S.D.B. (60)  (2011.10.29 – ...)Bishop of Kabwe (Zambia)Amare et servireBorn:1965.08.15 (Dismashi, Zambia)Ordained Priest:1998.08.25Consecrated Bishop:2011.12.17Bishop of Kabwe (Zambia) (2011.10.29 – ...)Special ChurchesCathedral:  Cathedral of the Sacred Heart, Kabwe, Central Show MapMonze (↙), Solwezi (↖), Mpika (↗), Sakania–Kipushi (↗), Chipata (→), Lusaka (↓)Statistics (2022.12.31)Area: 63,574 km²Population: 191,060 Catholics (15.9% of 1,203,610 total)Pastoral Centres: 32 parishesPersonnel: 112 priests (32 diocesan, 80 religious), 208 religious (112 brothers, 96 sisters), 31 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kabw0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1203610,
+    "catholiques": 191060,
+    "pourcentage_catholiques": 15.9
+  },
+  "ressources": {
+    "pretres_diocesains": 32,
+    "pretres_religieux": null,
+    "total_pretres": 112,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

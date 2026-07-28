@@ -1,0 +1,29 @@
+{
+  "id": "cn-chih1",
+  "nom": "Chifeng 赤峰",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Chifeng 赤峰 (中文) / Chihfeng / Chìfēng 赤峰 (简体中文) / Cefomen(sis) (Latin)Ecclesiastical Province: Shenyang 瀋陽Neighbouring Dioceses: Jining 集寧 (←), Lindong 林東 (↑), Rehe 熱河 (↘), Chengde 承德 (↓)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Dioceses: Chifeng 赤峰 , Liaoning 遼寧 CelebrationsLiturgical Calendar (Universal) 📅History1922.01.21: Established as Apostolic Prefecture of Chifeng 赤峰 (中文) / Chihfeng / Chìfēng 赤峰 (简体中文) / de Chihfeng (Latin) (from Apostolic Vicariate of Eastern Mongolia 東蒙古)1949.04.21: Promoted as Diocese of Chifeng 赤峰 (中文) / Chihfeng / Chìfēng 赤峰 (简体中文) / Cefomen(sis) (Latin) (became suffragan of Shenyang 瀋陽)2018.09.08: Lost territory to establish Diocese of Chengde 承德Present PrelatesBishop:vacantOrdinariesBishops of Chifeng 赤峰 (Roman Rite)Bishop Andrew Zhu Wen-yu (朱問漁) ▼  (1990 – 2006.09.24▼)Born:1919.12.01 (Kulitu, China)Ordained Priest:1957.04.12Consecrated Bishop:1990.10.28 (no papal mandate)Died:2006.09.24 (Kulitu, China † 86)Bishop of Chifeng 赤峰 (China) (1990 – 2006.09.24▼)Prefects Apostolic of Chifeng 赤峰 (Roman Rite)Fr. Fabian Cheu  (Apostolic Administrator 1949.04.21 – 1982)Fr. Luke Zhao Qing-hua (趙慶化)  (1932.01.11 – 1949.04.21)Born:1874.05.13 (China)Ordained Priest:1899.10.15Died:1949? († 75)Prefect Apostolic of Chifeng 赤峰 (China) (1932.01.11 – 1949.04.21)Special ChurchesCathedral:  Chifeng Cathedral, Chifeng 赤峰, Inner Mongolia Show MapJining 集寧 (←), Lindong 林東 (↑), Rehe 熱河 (↘), Chengde 承德 (↓)Statistics (1949.12.31)Area: 75,087 km²Population: 29,528 Catholics (3.7% of 798,000 total)Pastoral Centres: 52 missionsPersonnel: 38 priests (34 diocesan, 4 religious), 101 religious (3 brothers, 98 sisters), 10 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chih1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 798000,
+    "catholiques": 29528,
+    "pourcentage_catholiques": 3.7
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 38,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

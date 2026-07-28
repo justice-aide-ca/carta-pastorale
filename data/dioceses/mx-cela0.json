@@ -1,0 +1,29 @@
+{
+  "id": "mx-cela0",
+  "nom": "Celaya",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Celaya / Celayen(sis) (Latin)Ecclesiastical Province: LeónNeighbouring Dioceses: Irapuato (←), León (↖), San Luis Potosí (↑), Querétaro (→), Morelia (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1973.10.13: Established as Diocese of Celaya / Celayen(sis) (Latin) (from Metropolitan Archdiocese of Morelia and Diocese of León and became suffragan of Morelia)1988.11.05: Became suffragan of San Luis Potosí2006.11.25: Became suffragan of LeónContact InfoAddress: Manuel Doblado # 110 Col. Centro, 38000 - Celaya, Gto., MexicoPhone: (461) 6-12-48-35Present PrelatesBishop (2021.06.12 – ...):Bishop Víctor Alejandro Aguilar Ledesma (61)Monsignors (13)OrdinariesBishops of Celaya (Roman Rite)Bishop Víctor Alejandro Aguilar Ledesma (61)  (2021.06.12 – ...)Bishop of Celaya (Mexico)FiatBorn:1965.04.05 (San Guillermo, Mexico)Ordained Priest:1989.12.10Consecrated Bishop:2016.02.25Priest of Morelia (Mexico) (1989.12.10 – 2015.12.01)Titular Bishop of Castulo (2015.12.01 – 2021.06.12)Auxiliary Bishop of Morelia (Mexico) (2015.12.01 – 2021.06.12)Bishop of Celaya (Mexico) (2021.06.12 – ...)Bishop José Benjamín Castillo Plascencia  (2010.04.29 – 2021.06.12)Pro eisBorn:1945.09.09 (Ixtlahuacán del Río, Mexico)Ordained Priest:1974.04.14Consecrated Bishop:2000.01.08Died:2026.04.13 (Celaya, Mexico † 80)Priest of Guadalajara (Mexico) (1974.04.14 – 1999.11.18)Titular Bishop of Sufasar (1999.11.18 – 2003.02.08)Auxiliary Bishop of Guadalajara (Mexico) (1999.11.18 – 2003.02.08)Bishop of Tabasco (Mexico) (2003.02.08 – 2010.04.29)Bishop of Celaya (Mexico) (2010.04.29 – 2021.06.12)Bishop Lázaro Pérez Jiménez  (2003.07.26 – 2009.10.25)Born:1943.09.09 (Tizimín, Mexico)Ordained Priest:1968.09.21Consecrated Bishop:1991.06.29Died:2009.10.25 (Ciudad de México, Mexico † 66)Priest of Yucatán (Mexico) (1968.09.21 – 1991.05.15)Bishop of Autlán (Mexico) (1991.05.15 – 2003.07.26)Bishop of Celaya (Mexico) (2003.07.26 – 2009.10.25)Bishop Jesús Humberto Velázquez Garay  (1988.04.28 – 2003.07.26)Born:1940.05.16 (Culiacán, Mexico)Ordained Priest:1964.03.12Consecrated Bishop:1983.05.04Died:2013.06.22 (Mexico † 73)Priest of Culiacán (Mexico) (1964.03.12 – 1983.02.10)Titular Bishop of Belesasa (1983.02.10 – 1988.04.28)Auxiliary Bishop of Culiacán (Mexico) (1983.02.10 – 1988.04.28)Bishop of Celaya (Mexico) (1988.04.28 – 2003.07.26)Bishop Victorino Alvarez Tena  (1974.02.14 – 1987.11.04)Born:1920.03.10 (Puruándiro, Mexico)Ordained Priest:1943.04.10Consecrated Bishop:1962.07.25Died:1987.11.04 († 67)Priest of Morelia (Mexico) (1943.04.10 – 1962.05.24)Bishop of Apatzingán (Mexico) (1962.05.24 – 1974.02.14)Bishop of Celaya (Mexico) (1974.02.14 – 1987.11.04)Special ChurchesCathedral:  Catedral de la Purísima Concepción, Celaya, Guanajuato World Heritage Site:  Iglesia San Miguel Arcángel, San Miguel de Allende, Guanajuato World Heritage Site:  Santuario de Jesús Nazareno, Atotonilco, Guanajuato World Heritage Site (Minor):  Iglesia de la Purísima Concepción, San Miguel de Allende, Guanajuato World Heritage Site (Minor):  Iglesia Nuestra Señora de la Salud, San Miguel de Allende, Guanajuato World Heritage Site (Minor):  Iglesia San Francisco, San Miguel de Allende, Guanajuato World Heritage Site (Minor):  Iglesia San Juan de Dios, San Miguel de Allende, Guanajuato World Heritage Site (Minor):  Iglesia Santa Ana, San Miguel de Allende, Guanajuato World Heritage Site (Minor):  Oratorio de San Felipe Neri, San Miguel de Allende, Guanajuato Show MapIrapuato (←), León (↖), San Luis Potosí (↑), Querétaro (→), Morelia (↓)Statistics (2022.12.31)Area: 8,768 km²Population: 1,692,400 Catholics (92.5% of 1,829,500 total)Pastoral Centres: 85 parishesPersonnel: 283 priests (206 diocesan, 77 religious), 1 deacon, 410 religious (101 brothers, 309 sisters), 50 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cela0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1829500,
+    "catholiques": 1692400,
+    "pourcentage_catholiques": 92.5
+  },
+  "ressources": {
+    "pretres_diocesains": 206,
+    "pretres_religieux": null,
+    "total_pretres": 283,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 85
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

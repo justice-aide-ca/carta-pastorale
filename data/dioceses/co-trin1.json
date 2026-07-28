@@ -1,0 +1,29 @@
+{
+  "id": "co-trin1",
+  "nom": "Trinidad",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Apostolic Vicariate Name: Trinidad / Triniten(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Villavicencio (↙), Yopal (←), Arauca (↗), Puerto Carreño (→), Puerto Gaitán (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1999.10.29: Established as Apostolic Vicariate of Trinidad / Triniten(sis) (Latin) (from Apostolic Vicariate of Casanare)Present PrelatesVicar Apostolic (2000.10.23 – ...):Bishop Héctor Javier Pizarro Acevedo, O.A.R. (75)Titular Bishop of CeramusOrdinariesVicars Apostolic of Trinidad (Roman Rite)Bishop Héctor Javier Pizarro Acevedo, O.A.R. (75)  (2000.10.23 – ...)Vicar Apostolic of Trinidad (Colombia)Titular Bishop of CeramusUbi amor ubi paxBorn:1951.01.11 (Medellin, Colombia)Ordained Priest:1977.01.08Consecrated Bishop:2001.01.27Titular Bishop of Ceramus (2000.10.23 – ...)Vicar Apostolic of Trinidad (Colombia) (2000.10.23 – ...)Special ChurchesCathedral:  Catedral de la Inmaculata Concepción, Trinidad, Casanare Jubilee Churches in the Holy Year 2025Show MapVillavicencio (↙), Yopal (←), Arauca (↗), Puerto Carreño (→), Puerto Gaitán (↓)Statistics (2021.12.31)Area: 27,075 km²Population: 45,400 Catholics (84.1% of 54,000 total)Pastoral Centres: 6 parishes, 6 missionsPersonnel: 12 priests (4 diocesan, 8 religious), 16 religious (10 brothers, 6 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "trin1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 54000,
+    "catholiques": 45400,
+    "pourcentage_catholiques": 84.1
+  },
+  "ressources": {
+    "pretres_diocesains": 4,
+    "pretres_religieux": null,
+    "total_pretres": 12,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

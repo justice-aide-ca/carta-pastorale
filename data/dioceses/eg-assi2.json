@@ -1,0 +1,29 @@
+{
+  "id": "eg-assi2",
+  "nom": "Assiut",
+  "pays": "eg",
+  "pays_nom": "Egypt",
+  "continent": "unknown",
+  "type": "Diocese Name: Assiut / Lycopolis / Assiout (français) / Asyut / Lycopolitan(us) (Latin)Ecclesiastical Province: AlexandriaNeighbouring Dioceses: Al Qusia (↖), Guizeh (→), Sohag (↓)Depends on: Dicastery for the Eastern ChurchesHistory1947.08.10: Established as Diocese of Assiut / Lycopolis / Assiout (français) / Asyut / Lycopolitan(us) (Latin) (from Diocese of Luqsor, from the suppressed Titular Episcopal See of Lycopolis and became suffragan of Alexandria)2022.09.23: Lost territory to establish Diocese of Al QusiaPresent PrelatesBishop (2022.09.23 – ...):Bishop Danial Lofty Khella Zahary (57)OrdinariesBishops of Assiut (Coptic Rite)Bishop Danial Lofty Khella Zahary (57)  (2022.09.23 – ...)Bishop of Assiut of the Copts (Egypt)Born:1969.05.04 (Naja Rezeeq, Egypt)Ordained Priest:1996.07.18Consecrated Bishop:2019.09.05Priest of Ismayliah of the Copts (Egypt) (1996.07.18 – 2019.06.29)Bishop of Ismayliah of the Copts (Egypt) (2019.06.29 – 2022.09.23)Patriarchal Administrator of Ismayliah of the Copts (Egypt) (2022.09.23 – 2023.03.31)Bishop of Assiut of the Copts (Egypt) (2022.09.23 – ...)Patriarch Ibrahim Isaac Sedrak (70)  (Patriarchal Administrator 2021.11.03 – 2022.09.23)Bishop Kyrillos Kamal William Samaan, O.F.M.  (1990.05.16 – 2021.11.03)Born:1946.10.01 (Shanaynah, Egypt)Ordained Priest:1974.06.10Consecrated Bishop:1990.06.03Died:2023.05.11 (Cairo, Egypt † 76)Bishop of Assiut of the Copts (Egypt) (1990.05.16 – 2021.11.03)Apostolic Visitator in the United States and Canada of the Copts (2022.09.30 – 2023.05.11)Bishop Youhanna Nueir, O.F.M.  (1965.03.26 – 1990.03.20)Born:1914.08.28 (Al Fayum, Egypt)Ordained Priest:1943.06.13Consecrated Bishop:1956.01.29Died:1995.08.13 († 80)Titular Bishop of Phatanus (1955.12.08 – 1965.03.26)Auxiliary Bishop of Luqsor of the Copts (Egypt) (1955.12.08 – 1965.03.26)Bishop of Assiut of the Copts (Egypt) (1965.03.26 – 1990.03.20)Bishop Alexandros Scandar  (1947.08.09 – 1964.12.29)Born:1895.03.13 (Cairo, Egypt)Ordained Priest:1922.06.11Consecrated Bishop:1947.12.14Died:1964.12.29 († 69)Bishop of Assiut of the Copts (Egypt) (1947.08.09 – 1964.12.29)Former PrelatesCoadjutor Bishop: Bishop Aghnatios Elias Yaacoub, S.J. (1983.05.19 – 1986.07.15)Special ChurchesCathedral:  Cathédrale Mère du Divin Amour, Asyut, Asyut Show MapAl Qusia (↖), Guizeh (→), Sohag (↓)Statistics (2021.12.31)Population: 26,670 CatholicsPastoral Centres: 28 parishes, 6 missionsPersonnel: 34 priests (31 diocesan, 3 religious), 65 religious (5 brothers, 60 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "assi2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 31,
+    "pretres_religieux": null,
+    "total_pretres": 34,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

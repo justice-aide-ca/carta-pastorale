@@ -1,0 +1,29 @@
+{
+  "id": "th-sura1",
+  "nom": "Surat Thani",
+  "pays": "th",
+  "pays_nom": "Thailand",
+  "continent": "unknown",
+  "type": "Diocese Name: Surat Thani / สังฆมณฑลสุราษฎร์ธานี) (ไทย) / 素叻他尼 (正體中文) / Suratthanen(sis) (Latin)Ecclesiastical Province: BangkokNeighbouring Dioceses: Mawlamyine (↑), Ratchaburi (↗), Penang (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1969.06.26: Established as Diocese of Surat Thani / สังฆมณฑลสุราษฎร์ธานี) (ไทย) / 素叻他尼 (正體中文) / Suratthanen(sis) (Latin) (from Diocese of Ratburi and became suffragan of Bangkok)Present PrelatesBishop (2024.07.08 – ...):Bishop Paul Trairong Multree (49)OrdinariesBishops of Surat Thani (Roman Rite)Bishop Paul Trairong Multree (49)  (2024.07.08 – ...)Bishop of Surat Thani (Thailand)Euntes docenteBorn:1976.09.07 (Khon Kaen, Thailand)Ordained Priest:2007.06.09Consecrated Bishop:2024.09.28Priest of Ratchaburi (Thailand) (2007.06.09 – 2024.07.08)Bishop of Surat Thani (Thailand) (2024.07.08 – ...)Bishop Joseph Prathan Sridarunsil, S.D.B. (80)  (2004.10.09 – 2024.07.08)Bishop emeritus of Surat Thani (Thailand)Fiat voluntas tuaBorn:1946.02.09 (Wat Phleng, Thailand)Ordained Priest:1975.06.29Consecrated Bishop:2004.11.28Bishop of Surat Thani (Thailand) (2004.10.09 – 2024.07.08)Vice-President of Catholic Bishops’ Conference of Thailand (2015 – 2021.10.01)Bishop Michael Praphon Chaicharoen, S.D.B.  (1988.06.21 – 2003.05.20)Born:1930.05.07 (Hua Phai, Thailand)Ordained Priest:1960.02.11Consecrated Bishop:1988.09.24Died:2003.05.20 († 73)Bishop of Surat Thani (Thailand) (1988.06.21 – 2003.05.20)Bishop Pietro Luigi Carretto, S.D.B.  (1969.06.26 – 1988.06.21)Born:1912.06.09 (Alessandria, Italy)Ordained Priest:1939.03.18Consecrated Bishop:1951.06.29Died:1994.11.16 († 82)Titular Bishop of Zenobias (1951.04.12 – 1965.12.18)Vicar Apostolic of Rajaburi (Thailand) (1951.04.12 – 1965.12.18)Bishop of Bangnokhuek (Thailand) (1965.12.18 – 1966.10.21)Bishop of Ratburi (Thailand) (1966.10.21 – 1969.06.26)Bishop of Surat Thani (Thailand) (1969.06.26 – 1988.06.21)Special ChurchesCathedral:  Cathedral of St. Raphael the Archangel, Surat Thani, Surat Thani Jubilee Churches in the Holy Year 2025Churches by City (41)Show MapMawlamyine (↑), Ratchaburi (↗), Penang (↓)Statistics (2022.12.31)Area: 77,083 km²Population: 8,000 Catholics (0.1% of 10,061,510 total)Pastoral Centres: 41 parishes, 1 missionPersonnel: 48 priests (16 diocesan, 32 religious), 165 religious (56 brothers, 109 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sura1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 10061510,
+    "catholiques": 8000,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 48,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 41
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

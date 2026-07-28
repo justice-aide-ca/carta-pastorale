@@ -1,0 +1,29 @@
+{
+  "id": "ht-lesg0",
+  "nom": "Les Gonaïves",
+  "pays": "ht",
+  "pays_nom": "Haiti",
+  "continent": "unknown",
+  "type": "Diocese Name: Les Gonaïves / Gonayvesen(sis) (Latin)Ecclesiastical Province: Cap-HaïtienNeighbouring Dioceses: Port-de-Paix (↖), Fort-Liberté (↗), Hinche (→), Port-au-Prince (↘)Depends on: Dicastery for BishopsCelebrationsCathedral Dedication Anniversary: October 28Liturgical Calendar 📅History1861.10.03: Established as Diocese of Les Gonaïves / Gonayvesen(sis) (Latin) (from Metropolitan Archdiocese of Santo Domingo and became suffragan of Port-au-Prince)1972.04.20: Lost territory to establish Diocese of Hinche1988.04.07: Became suffragan of Cap-HaïtienPresent PrelatesBishop (2003.07.30 – ...):Bishop Yves-Marie Péan, C.S.C. (72)Monsignors (1)OrdinariesBishops of Les Gonaïves (Roman Rite)Bishop Yves-Marie Péan, C.S.C. (72)  (2003.07.30 – ...)Bishop of Les Gonaïves (Haiti)Born:1954.05.25 (Pilate, Haiti)Ordained Priest:1983.10.16Consecrated Bishop:2002.10.13Coadjutor Bishop of Les Gonaïves (Haiti) (2002.05.21 – 2003.07.30)Bishop of Les Gonaïves (Haiti) (2003.07.30 – ...)Bishop Emmanuel Constant  (1966.08.20 – 2003.07.30)Born:1928.01.05 (Port-au-Prince, Haiti)Ordained Priest:1953.07.12Consecrated Bishop:1966.10.28Died:2009.06.16 († 81)Bishop of Les Gonaïves (Haiti) (1966.08.20 – 2003.07.30)President of Episcopal Conference of Haiti (1973 – 1976)Bishop Paul-Sanson-Jean-Marie Robert  (1936.01.14 – 1966.08.18)Born:1901.05.23 (Helléan, France)Ordained Priest:1923.09.30Consecrated Bishop:1936.03.29Died:1994.03.04 († 92)Bishop of Les Gonaïves (Haiti) (1936.01.14 – 1966.08.18)Titular Bishop of Castra Galbæ (1966.08.18 – 1994.03.04)Bishop Joseph-François-Marie Julliot  (1928.10.09 – 1936.01.13)Born:1874.07.21 (Availles-sur-Seiche, France)Ordained Priest:1899.06.29Consecrated Bishop:1928.12.16Died:1939.09.29 († 65)Bishop of Les Gonaïves (Haiti) (1928.10.09 – 1936.01.13)Titular Bishop of Axomis (1936.01.13 – 1939.09.29)Archbishop Julien-Jean-Guillaume Conan  (Apostolic Administrator 1903.10.22 – 1928.10.09)Archbishop Giulio Tonti (later Cardinal)  (Apostolic Administrator 1893.02.24 – 1902.08.23)Archbishop Constant-Mathurin Hillion  (Apostolic Administrator 1886.06.10 – 1890.02.21)Archbishop Alexis-Jean-Marie Guilloux  (Apostolic Administrator 1870.06.27 – 1885.10.24)Archbishop Martial-Guillaume-Marie Testard du Cosquer  (Apostolic Administrator 1863.10.01 – 1869.07.27)Former PrelatesCoadjutor Bishop: Bishop Yves-Marie Péan, C.S.C. (72) (2002.05.21 – 2003.07.30)Special ChurchesCathedral:  Cathédrale Saint-Charles-Borromée, Gonaïves, Artibonite Show MapPort-de-Paix (↖), Fort-Liberté (↗), Hinche (→), Port-au-Prince (↘)Statistics (2021.12.31)Area: 4,987 km²Population: 1,031,000 Catholics (56.4% of 1,829,000 total)Pastoral Centres: 65 parishes, 248 missionsPersonnel: 86 priests (diocesan), 1 deacon, 88 religious (9 brothers, 79 sisters), 40 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lesg0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1829000,
+    "catholiques": 1031000,
+    "pourcentage_catholiques": 56.4
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 65
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

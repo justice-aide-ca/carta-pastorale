@@ -1,0 +1,29 @@
+{
+  "id": "br-tian0",
+  "nom": "Tianguá",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Tianguá / Tianguen(sis) (Latin)Ecclesiastical Province: FortalezaNeighbouring Dioceses: Parnaíba (↖), Sobral (→), Crateús (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Anne (July 26)Cathedral Dedication Anniversary: August 21 (2011)Liturgical Calendar (National) 📅History1971.03.13: Established as Diocese of Tianguá / Tianguen(sis) (Latin) (from Diocese of Sobral and became suffragan of Fortaleza)Present PrelatesBishop (2017.02.15 – ...):Bishop Francisco Edimilson Neves Ferreira (56)Monsignors (2)OrdinariesBishops of Tianguá (Roman Rite)Bishop Francisco Edimilson Neves Ferreira (56)  (2017.02.15 – ...)Bishop of Tianguá (Brazil)Zelus Domus tuæ comedit meBorn:1969.10.03 (Jardim, MS, Brazil)Ordained Priest:1997.12.12Consecrated Bishop:2017.04.22Priest of Crato (Brazil) (1997.12.12 – 2017.02.15)Bishop of Tianguá (Brazil) (2017.02.15 – ...)Bishop Francisco Javier Hernández Arnedo, O.A.R. (85)  (1991.03.06 – 2017.02.15)Bishop emeritus of Tianguá (Brazil)Bonus eris ministerBorn:1941.01.13 (Cascante, Spain)Ordained Priest:1965.07.08Consecrated Bishop:1991.05.19Bishop of Tianguá (Brazil) (1991.03.06 – 2017.02.15)Bishop Timóteo Francisco Nemésio Pereira Cordeiro, O.F.M. Cap.  (1971.03.13 – 1990.03.20)Ecce adsumBorn:1928.03.20 (Canindé, CE, Brazil)Ordained Priest:1953.03.15Consecrated Bishop:1971.07.04Died:1990.03.20 (São Paulo, SP, Brazil † 62)Bishop of Tianguá (Brazil) (1971.03.13 – 1990.03.20)Special ChurchesCathedral:  Catedral Sant’Ana, Tianguá, Ceará Jubilee Churches in the Holy Year 2025Churches by City (29)Show MapParnaíba (↖), Sobral (→), Crateús (↓)Statistics (2022.12.31)Area: 9,680 km²Population: 409,000 Catholics (81.8% of 500,060 total)Pastoral Centres: 21 parishesPersonnel: 48 priests (43 diocesan, 5 religious), 9 deacons, 53 religious (13 brothers, 40 sisters), 15 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tian0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 500060,
+    "catholiques": 409000,
+    "pourcentage_catholiques": 81.8
+  },
+  "ressources": {
+    "pretres_diocesains": 43,
+    "pretres_religieux": null,
+    "total_pretres": 48,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

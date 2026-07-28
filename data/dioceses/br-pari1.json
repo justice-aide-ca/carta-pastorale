@@ -1,0 +1,29 @@
+{
+  "id": "br-pari1",
+  "nom": "Parintins",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Parintins / Parintinen(sis) (Latin)Ecclesiastical Province: ManausNeighbouring Dioceses: Borba (↙), Itacoatiara (←), Óbidos (↗), Itaituba (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nossa Senhora do Carmo (July 16)Liturgical Calendar (National) 📅History1955.07.12: Established as Territorial Prelature of Parintins / Parintinen(sis) (Latin) (from Metropolitan Archdiocese of Manaus and became suffragan of Manaus)1963.07.13: Lost territory to establish Territorial Prelature of Borba1980.10.30: Promoted as Diocese of Parintins / Parintinen(sis) (Latin)Present PrelatesBishop (2022.12.21 – ...):Bishop José Albuquerque de Araújo (57)OrdinariesBishops of Parintins (Roman Rite)Bishop José Albuquerque de Araújo (57)  (2022.12.21 – ...)Bishop of Parintins (Brazil)Born:1968.07.17 (Manaus, AM, Brazil)Ordained Priest:1996.08.04Consecrated Bishop:2016.06.19Priest of Manaus (Brazil) (1996.08.04 – 2016.03.16)Titular Bishop of Altava (2016.03.16 – 2022.12.21)Auxiliary Bishop of Manaus (Brazil) (2016.03.16 – 2022.12.21)Bishop of Parintins (Brazil) (2022.12.21 – ...)Bishop Giuliano Frigeni, P.I.M.E. (79)  (1999.01.20 – 2022.12.21)Bishop emeritus of Parintins (Brazil)Tam Pater nemoBorn:1947.07.01 (Bergamo, Italy)Ordained Priest:1975.05.10Consecrated Bishop:1999.03.19Bishop of Parintins (Brazil) (1999.01.20 – 2022.12.21)Bishop Gino Malvestio, P.I.M.E.  (1994.03.09 – 1997.09.07)Em nome de MariaBorn:1938.01.14 (Noale, Italy)Ordained Priest:1965.06.26Consecrated Bishop:1994.05.14Died:1997.09.07 (Treviso, Italy † 59)Bishop of Parintins (Brazil) (1994.03.09 – 1997.09.07)Bishop João Risatti (Giovanni), P.I.M.E.  (1989.07.15 – 1993.01.20)Born:1942.12.01 (Molina di Ledro, Italy)Ordained Priest:1968.06.23Consecrated Bishop:1988.02.21Died:2003.09.08 (Ledro, Italy † 60)Coadjutor Bishop of Parintins (Brazil) (1987.12.10 – 1989.07.15)Bishop of Parintins (Brazil) (1989.07.15 – 1993.01.20)Bishop of Macapá (Brazil) (1993.01.20 – 2003.09.08)Bishop Arcângelo Cerqua, P.I.M.E.  (1980.10.30 – 1989.07.15)Born:1917.01.02 (Giugliano di Campania, Italy)Ordained Priest:1940.06.29Consecrated Bishop:1961.05.14Died:1990.02.16 (Rancio di Lecco, Italy † 73)Apostolic Administrator of Parintins (Brazil) (1956.03.15 – 1961.02.04)Titular Bishop of Olbia (1961.02.04 – 1978.05.26)Bishop-Prelate of Parintins (Brazil) (1961.02.04 – 1980.10.30)Bishop of Parintins (Brazil) (1980.10.30 – 1989.07.15)Prelates of Parintins (Roman Rite)Bishop Arcângelo Cerqua, P.I.M.E.  (1961.02.04 – 1980.10.30)(see above)Fr. Arcângelo Cerqua, P.I.M.E. (later Bishop)  (Apostolic Administrator 1956.03.15 – 1961.02.04)Former PrelatesCoadjutor Bishop: Bishop João Risatti (Giovanni), P.I.M.E. (1987.12.10 – 1989.07.15)Special ChurchesCathedral:  Catedral Nossa Senhora do Carmo, Parintins, Amazonas Churches by City (14)Show MapBorba (↙), Itacoatiara (←), Óbidos (↗), Itaituba (↘)Statistics (2022.12.31)Area: 68,389 km²Population: 207,000 Catholics (80.5% of 257,000 total)Pastoral Centres: 11 parishesPersonnel: 21 priests (18 diocesan, 3 religious), 6 deacons, 26 religious (5 brothers, 21 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pari1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 257000,
+    "catholiques": 207000,
+    "pourcentage_catholiques": 80.5
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 21,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

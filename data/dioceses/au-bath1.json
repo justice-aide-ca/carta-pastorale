@@ -1,0 +1,29 @@
+{
+  "id": "au-bath1",
+  "nom": "Bathurst",
+  "pays": "au",
+  "pays_nom": "Australia",
+  "continent": "oceanie",
+  "type": "Diocese Name: Bathurst / Bathursten(sis) (Latin)Ecclesiastical Province: SydneyNeighbouring Dioceses: Canberra and Goulburn (↙), Wilcannia–Forbes (←), Armidale (↗), Maitland–Newcastle (→), Parramatta (↘), Wollongong (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1865.06.20: Established as Diocese of Bathurst / Bathursten(sis) (Latin) (from Metropolitan Archdiocese of Sydney and became suffragan of Sydney)1887.05.10: Lost territory to establish Diocese of Wilcannia1917.07.28: Lost territory to Diocese of Wilcannia–ForbesContact InfoAddress: 84 George Street, PO Box 246, Bathhurst, NSW 2795, AustraliaPhone: +61 2 6331 3611Present PrelatesBishop (2009.04.15 – ...):Bishop Michael Joseph McKenna (74)Monsignors (9)OrdinariesBishops of Bathurst (Roman Rite)Bishop Michael Joseph McKenna (74)  (2009.04.15 – ...)Bishop of Bathurst (Australia)Legato con amoreBorn:1951.12.08 (Bairnsdale, Victoria, Australia)Ordained Priest:1983.08.19Consecrated Bishop:2009.06.26Priest of Sale (Australia) (1983.08.19 – 2009.04.15)Bishop of Bathurst (Australia) (2009.04.15 – ...)Bishop Patrick Dougherty  (1983.09.01 – 2008.11.11)Juxta crucem discipulusBorn:1931.11.21 (Kensington, New South Wales, Australia)Ordained Priest:1954.12.07Consecrated Bishop:1976.12.08Died:2010.08.30 († 78)Priest of Sydney (Australia) (1954.12.07 – 1976.10.15)Titular Bishop of Lete (1976.10.15 – 1983.09.01)Auxiliary Bishop of Canberra and Goulburn (Australia) (1976.10.15 – 1983.09.01)Bishop of Bathurst (Australia) (1983.09.01 – 2008.11.11)Bishop Albert Reuben Edward Thomas  (1963.09.29 – 1983.04.12)Born:1908.10.26 (Farnborough, England)Ordained Priest:1931.11.30Consecrated Bishop:1963.10.20Died:1983.09.24 (Wollstoncraft, New South Wales, Australia † 74)Bishop of Bathurst (Australia) (1963.09.29 – 1983.04.12)Bishop John Francis Norton  (1928.04.09 – 1963.06.16)Born:1891.01.30 (Lucan, Ireland)Ordained Priest:1915.06.20Consecrated Bishop:1926.04.18Died:1963.06.16 († 72)Priest of Bathurst (Australia) (1915.06.20 – 1926.03.08)Titular Bishop of Lunda (1926.03.08 – 1928.04.09)Coadjutor Bishop of Bathurst (Australia) (1926.03.08 – 1928.04.09)Bishop of Bathurst (Australia) (1928.04.09 – 1963.06.16)Bishop Michael O’Farrell, O. de M.  (1920.06.16 – 1928.04.03)Prodesse non nocereBorn:1864.04.07 (Miltown, Ireland)Ordained Priest:1890.01.06Consecrated Bishop:1920.11.30Died:1928.04.03 († 63)Bishop of Bathurst (Australia) (1920.06.16 – 1928.04.03)Bishop John Mary Dunne  (1901.09.08 – 1919.08.22)Born:1843.01.02 (Kildorrery, Ireland)Ordained Priest:1870.06.24Consecrated Bishop:1901.09.08Died:1919.08.22 († 76)Priest of Bathurst (Australia) (1870.06.24 – 1901.09.08)Bishop of Bathurst (Australia) (1901.09.08 – 1919.08.22)Bishop Joseph Patrick Byrne  (1885.05.05 – 1901.01.12)Born:1840.01.05 (Dublin, Ireland)Ordained Priest:1865Consecrated Bishop:1885.08.09Died:1901.01.12 († 61)Priest of Bathurst (Australia) (1865 – 1885.05.05)Bishop of Bathurst (Australia) (1885.05.05 – 1901.01.12)Bishop Matthew Quinn  (1865.06.23 – 1885.01.16)Born:1821.05.29 (Eadestown, Ireland)Ordained Priest:1845.02.15Consecrated Bishop:1865.11.14Died:1885.01.16 (Bathurst, New South Wales, Australia † 63)Priest of Dublin (Ireland) (1845.02.15 – 1865.06.23)Bishop of Bathurst (Australia) (1865.06.23 – 1885.01.16)Former PrelatesCoadjutor Bishop: Bishop John Francis Norton (1926.03.08 – 1928.04.09)Special ChurchesCathedral:  St Michael and St John’s Cathedral, Bathurst, New South Wales Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (60)Show MapCanberra and Goulburn (↙), Wilcannia–Forbes (←), Armidale (↗), Maitland–Newcastle (→), Parramatta (↘), Wollongong (↘)Statistics (2022.12.31)Area: 103,560 km²Population: 62,141 Catholics (25.3% of 245,232 total)Pastoral Centres: 17 parishesPersonnel: 30 priests (24 diocesan, 6 religious), 4 deacons, 60 religious (6 brothers, 54 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bath1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 245232,
+    "catholiques": 62141,
+    "pourcentage_catholiques": 25.3
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

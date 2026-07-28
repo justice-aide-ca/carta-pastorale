@@ -1,0 +1,29 @@
+{
+  "id": "my-taun1",
+  "nom": "Taungngu",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Taungngu / Taungoo / Tunguen(sis) (Latin)Ecclesiastical Province: TaunggyiNeighbouring Dioceses: Pyay (←), Mandalay (↑), Pekhon (↗), Loikaw (→), Hpa-an (↘), Yangon (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1866.11.27: Established as Apostolic Vicariate of Eastern Burma / Birmania Orientale (Italiano) (from Apostolic Vicariate of Burma)1927.04.27: Renamed as Apostolic Vicariate of Toungoo (lost territory to establish Apostolic Prefecture of Kengtung)1955.01.01: Promoted as Diocese of Toungoo (became suffragan of Rangoon)1961.03.21: Lost territory to establish Diocese of Taunggyi1996.07.31: Renamed as Diocese of Taungngu / Taungoo / Tunguen(sis) (Latin)1998.01.17: Became suffragan of TaunggyiPapal VisitsPope Francis (2017.11)Present PrelatesBishop (2023.07.16 – ...):Bishop John Saw Gawdy (70)Coadjutor Bishop (2026.05.26 – ...):Bishop-elect Bernardino Ne Ne (56)OrdinariesBishops of Taungngu (Roman Rite)Bishop John Saw Gawdy (70)  (2023.07.16 – ...)Bishop of Taungngu (Myanmar)Born:1955.10.21 (Domapholi, Myanmar)Ordained Priest:1983.04.09Consecrated Bishop:2020.11.29Priest of Taungngu (Myanmar) (1983.04.09 – 2020.06.29)Coadjutor Bishop of Taungngu (Myanmar) (2020.06.29 – 2023.07.16)Bishop of Taungngu (Myanmar) (2023.07.16 – ...)Bishop Isaac Danu (78)  (1996.07.31 – 2023.07.16)Bishop emeritus of Taungngu (Myanmar)Disciple of GospelBorn:1948.03.09 (Preso, Myanmar)Ordained Priest:1975.04.06Consecrated Bishop:1985.01.17Priest of Toungoo (Myanmar) (1975.04.06 – 1984.06.04)Titular Bishop of Bonusta (1984.06.04 – 1989.09.01)Auxiliary Bishop of Toungoo (Myanmar) (1984.06.04 – 1989.09.01)Bishop of Toungoo (Myanmar) (1989.09.01 – 1996.07.31)Bishop of Taungngu (Myanmar) (1996.07.31 – 2023.07.16)Bishops of Toungoo (Roman Rite)Bishop Isaac Danu (78)  (1989.09.01 – 1996.07.31)(see above)Bishop Sebastian U Shwe Yauk  (1961.03.21 – 1988.07.13)Born:1918.01.18 (Dorokho, Myanmar)Ordained Priest:1946.12.22Consecrated Bishop:1961.05.21Died:1988.07.13 († 70)Bishop of Toungoo (Myanmar) (1961.03.21 – 1988.07.13)Bishop Alfredo Lanfranconi, P.I.M.E.  (1955.01.01 – 1959.11.26)Born:1888.12.14 (Mandello del Lario, Italy)Ordained Priest:1912.06.29Consecrated Bishop:1937.08.29Died:1959.11.26 († 70)Titular Bishop of Zerta (1937.07.01 – 1955.01.01)Vicar Apostolic of Toungoo (Myanmar) (1937.07.01 – 1955.01.01)Bishop of Toungoo (Myanmar) (1955.01.01 – 1959.11.26)Vicars Apostolic of Toungoo (Roman Rite)Bishop Alfredo Lanfranconi, P.I.M.E.  (1937.07.01 – 1955.01.01)(see above)Bishop Emmanuel Segrada, P.I.M.E.  (1908.05.10 – 1936)Born:1860.07.10 (Borghetto Lodigiano, Italy)Consecrated Bishop:1909.01.24Died:1939.02.10 († 78)Titular Bishop of Hirina (1908.05.10 – 1936)Vicar Apostolic of Toungoo (Myanmar) (1908.05.10 – 1936)Vicars Apostolic of Eastern Burma (Roman Rite)Bishop Rocco Tornatore, M.E.M.  (1889.11.18 – 1908.01.26)Born:1836.01.07 (Garessio Poggiolo, Italy)Consecrated Bishop:1890.12.08Died:1908.01.26 († 72)Titular Bishop of Castabala (1889.11.18 – 1908.01.26)Vicar Apostolic of Eastern Burma (Myanmar) (1889.11.18 – 1908.01.26)Fr. Tancredi Conti  (1882.02.12 – 1889?)Vicar Apostolic of Eastern Burma (Myanmar) (1882.02.12 – 1889?)Former PrelatesCoadjutor Bishop: Bishop John Saw Gawdy (70) (2020.06.29 – 2023.07.16)Auxiliary Bishop: Bishop Isaac Danu (78) (1984.06.04 – 1989.09.01)Special ChurchesCathedral:  Cathedral of the Sacred Heart, Taungoo, Bago Show MapPyay (←), Mandalay (↑), Pekhon (↗), Loikaw (→), Hpa-an (↘), Yangon (↓)Statistics (2022.12.31)Area: 49,600 km²Population: 43,885 Catholics (1.2% of 3,623,760 total)Pastoral Centres: 22 parishesPersonnel: 63 priests (diocesan), 131 religious (1 brother, 130 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "taun1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3623760,
+    "catholiques": 43885,
+    "pourcentage_catholiques": 1.2
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

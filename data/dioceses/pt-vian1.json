@@ -1,0 +1,29 @@
+{
+  "id": "pt-vian1",
+  "nom": "Viana do Castelo",
+  "pays": "pt",
+  "pays_nom": "Portugal",
+  "continent": "unknown",
+  "type": "Diocese Name: Viana do Castelo / Vianen(sis) Castelli (Latin)Ecclesiastical Province: BragaNeighbouring Dioceses: Tui–Vigo (↑), Ourense (↗), Braga (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Assunção da Virgem Santa Maria (August 15)Cathedral Dedication Anniversary: November 3Liturgical Calendar 📅History1977.11.03: Established as Diocese of Viana do Castelo / Vianen(sis) Castelli (Latin) (from Metropolitan Archdiocese of Braga and became suffragan of Braga)Present PrelatesBishop (2021.09.21 – ...):Bishop João Evangelista Pimentel Lavrador (70)Monsignors (10)OrdinariesBishops of Viana do Castelo (Roman Rite)Bishop João Evangelista Pimentel Lavrador (70)  (2021.09.21 – ...)Bishop of Viana do Castelo (Portugal)Tu segue meBorn:1956.02.18 (Mira, Portugal)Ordained Priest:1981.06.14Consecrated Bishop:2008.06.29Priest of Coimbra (Portugal) (1981.06.14 – 2008.05.07)Titular Bishop of Luperciana (2008.05.07 – 2015.09.29)Auxiliary Bishop of Porto (Portugal) (2008.05.07 – 2015.09.29)Coadjutor Bishop of Angra (Portugal) (2015.09.29 – 2016.03.15)Bishop of Angra (Portugal) (2016.03.15 – 2021.09.21)Bishop of Viana do Castelo (Portugal) (2021.09.21 – ...)Bishop Anacleto Cordeiro Gonçalves de Oliveira  (2010.06.11 – 2020.09.18)Servus omniumBorn:1946.07.17 (Cortes, Portugal)Ordained Priest:1970.08.15Consecrated Bishop:2005.04.24Died:2020.09.18 (Almodôvar, Portugal † 74)Priest of Leiria–Fátima (Portugal) (1970.08.15 – 2005.02.04)Titular Bishop of Aquæ flaviæ (2005.02.04 – 2010.06.11)Auxiliary Bishop of Lisboa (Portugal) (2005.02.04 – 2010.06.11)Bishop of Viana do Castelo (Portugal) (2010.06.11 – 2020.09.18)Bishop José Augusto Martins Fernandes Pedreira  (1997.10.29 – 2010.06.11)Born:1935.04.10 (Valença, Portugal)Ordained Priest:1959.07.12Consecrated Bishop:1983.03.19Died:2020.10.14 (Braga, Portugal † 85)Titular Bishop of Elvas (1982.12.28 – 1997.10.29)Auxiliary Bishop of Porto (Portugal) (1982.12.28 – 1997.10.29)Bishop of Viana do Castelo (Portugal) (1997.10.29 – 2010.06.11)Bishop Armindo Lopes Coelho  (1982.10.15 – 1997.06.13)Born:1931.02.16 (Regilde, Portugal)Ordained Priest:1954.08.01Consecrated Bishop:1979.03.25Died:2010.09.29 († 79)Priest of Porto (Portugal) (1954.08.01 – 1978.11.16)Titular Bishop of Elvas (1978.11.16 – 1982.10.15)Auxiliary Bishop of Porto (Portugal) (1978.11.16 – 1982.10.15)Bishop of Viana do Castelo (Portugal) (1982.10.15 – 1997.06.13)Bishop of Porto (Portugal) (1997.06.13 – 2007.02.22)Archbishop Júlio Tavares Rebimbas  (1977.11.03 – 1982.02.12)In verbo tuoBorn:1922.01.21 (Bunheiro, Portugal)Ordained Priest:1945.06.29Consecrated Bishop:1965.12.26Died:2010.12.06 († 88)Bishop of Faro (Portugal) (1965.09.27 – 1972.07.01)Titular Archbishop of Mitylene (1972.07.01 – 1977.11.03)Auxiliary Bishop of Lisboa (Portugal) (1972.07.01 – 1977.11.03)Archbishop-Bishop of Viana do Castelo (Portugal) (1977.11.03 – 1982.02.12)Archbishop-Bishop of Porto (Portugal) (1982.02.12 – 1997.06.13)Special ChurchesCathedral:  Sé Catedral de Santa Maria Maior, Viana do Castelo, Viana do Castelo Minor Basilica:  Basílica do Sagrado Coração de Jesus, Viana do Castelo, Viana do Castelo Jubilee Churches in the Holy Year 2025Churches by City (353)Show MapTui–Vigo (↑), Ourense (↗), Braga (↘)Statistics (2022.12.31)Area: 2,255 km²Population: 211,020 Catholics (91.1% of 231,510 total)Pastoral Centres: 291 parishesPersonnel: 142 priests (133 diocesan, 9 religious), 17 religious (11 brothers, 6 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vian1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 231510,
+    "catholiques": 211020,
+    "pourcentage_catholiques": 91.1
+  },
+  "ressources": {
+    "pretres_diocesains": 133,
+    "pretres_religieux": null,
+    "total_pretres": 142,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 291
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ph-suri0",
+  "nom": "Surigao",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Surigao / Surigen(sis) (Latin)Ecclesiastical Province: Cagayan de OroNeighbouring Dioceses: Maasin (↖), Borongan (↑), Tandag (↘), Butuan (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Nicholas of Tolentino (September 10)Liturgical Calendar (National) 📅History1939.06.03: Established as Diocese of Surigao / Surigen(sis) (Latin) (from Diocese of Cagayan de Oro and became suffragan of Cebu)1951.06.29: Became suffragan of Cagayan de Oro1967.03.20: Lost territory to establish Diocese of Butuan1978.12.09: Lost territory to establish Diocese of TandagPresent PrelatesBishop (2001.04.21 – ...):Bishop Antonieto Dumagan Cabajog (70)Monsignors (1)OrdinariesBishops of Surigao (Roman Rite)Bishop Antonieto Dumagan Cabajog (70)  (2001.04.21 – ...)Bishop of Surigao (Philippines)Cum infirmor potens sumBorn:1956.05.10 (Cebu, Philippines)Ordained Priest:1981.04.09Consecrated Bishop:1999.03.16Priest of Tagbilaran (Philippines) (1981.04.09 – 1999.01.13)Chaplain of His Holiness (1993.04.24 – 1999.01.13)Titular Bishop of Reperi (1999.01.13 – 2001.04.21)Auxiliary Bishop of Cebu (Philippines) (1999.01.13 – 2001.04.21)Bishop of Surigao (Philippines) (2001.04.21 – ...)Bishop Miguel Clarete Cinches, S.V.D.  (1973.01.10 – 2001.04.21)Opere et veritateBorn:1932.02.07 (Dauis, Philippines)Ordained Priest:1961.10.22Consecrated Bishop:1973.03.24Died:2010.04.12 († 78)Bishop of Surigao (Philippines) (1973.01.10 – 2001.04.21)Bishop Charles Van den Ouwelant, M.S.C.  (1955.03.23 – 1973.01.10)Born:1911.07.03 (Zundert, Netherlands)Ordained Priest:1936.08.10Consecrated Bishop:1955.06.21Died:2003.08.22 († 92)Bishop of Surigao (Philippines) (1955.03.23 – 1973.01.10)Bishop Giovanni Vrakking, M.S.C.  (1940.05.25 – 1953.12.12)Born:1886.12.27 (Naarden, Netherlands)Ordained Priest:1911.08.13Consecrated Bishop:1940.09.21Died:1961.01.29 († 74)Bishop of Surigao (Philippines) (1940.05.25 – 1953.12.12)Titular Bishop of Cedamusa (1953.12.12 – 1961.01.29)Special ChurchesCathedral:  Cathedral of San Nicolas de Tolentino, Surigao City, Surigao del Norte, Caraga Jubilee Churches in the Holy Year 2025Churches by City (32)Show MapMaasin (↖), Borongan (↑), Tandag (↘), Butuan (↓)Statistics (2022.12.31)Area: 3,739 km²Population: 453,963 Catholics (82.1% of 553,231 total)Pastoral Centres: 34 parishesPersonnel: 62 priests (48 diocesan, 14 religious), 72 religious (41 brothers, 31 sisters), 67 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "suri0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 553231,
+    "catholiques": 453963,
+    "pourcentage_catholiques": 82.1
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 62,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 34
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

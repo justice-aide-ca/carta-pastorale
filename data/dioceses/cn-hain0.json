@@ -1,0 +1,29 @@
+{
+  "id": "cn-hain0",
+  "nom": "Hainan 海南",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Apostolic Prefecture Name: Hainan 海南 (中文) / Hainan / Hǎinán 海南 (简体中文) / Hainanen(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Beihai 北海 (↑)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Hainan 海南 CelebrationsLiturgical Calendar (Universal) 📅History1929.04.15: Established as Mission sui juris of Hainan 海南 (中文) / Hainan / Hǎinán 海南 (简体中文) / de Hainan (Latin) (from Apostolic Vicariate of Beihai 北海)1936.05.25: Promoted as Apostolic Prefecture of Hainan 海南 (中文) / Hainan / Hǎinán 海南 (简体中文) / Hainanen(sis) (Latin)Present PrelatesPrefect Apostolic:vacantOrdinariesPrefects Apostolic of Hainan 海南 (Roman Rite)Fr. Dominic Desperben (德文彬), SS.CC.  (1939.03.24 – 1980.06.16)Born:1898.07.12 (France)Ordained Priest:1925.08.02Died:1980.06.16 († 81)Prefect Apostolic of Hainan 海南 (China) (1939.03.24 – 1980.06.16)Fr. Paul-Marie-Joseph Julliotte (余禮灼), SS.CC.  (1936.05.25 – 1939.02)Born:1867.04.27 (France)Ordained Priest:1893.06.29Died:1956.08.30 († 89)Ecclesiastical Superior of Hainan 海南 (China) (1929.11.20 – 1936.05.25)Prefect Apostolic of Hainan 海南 (China) (1936.05.25 – 1939.02)Ecclesiastical Superiors of Hainan 海南 (Roman Rite)Fr. Paul-Marie-Joseph Julliotte (余禮灼), SS.CC.  (1929.11.20 – 1936.05.25)(see above)Special ChurchesCathedral:  Cathedral of the Sacred Heart of Jesus, Haikou 海口, Hainan Show MapBeihai 北海 (↑)Statistics (1950.12.31)Area: 35,000 km²Population: 3,419 Catholics (0.1% of 2,500,000 total)Pastoral Centres: 9 parishes, 15 missionsPersonnel: 19 priests (5 diocesan, 14 religious), 20 religious (20 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "hain0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2500000,
+    "catholiques": 3419,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 5,
+    "pretres_religieux": null,
+    "total_pretres": 19,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 9
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ba-myme0",
+  "nom": "Mymensingh",
+  "pays": "ba",
+  "pays_nom": "Bangladesh",
+  "continent": "unknown",
+  "type": "Diocese Name: Mymensingh / Mymensinghen(sis) (Latin)Ecclesiastical Province: DhakaNeighbouring Dioceses: Khulna (↙), Rajshahi (←), Tura (↑), Nongstoin (↗), Sylhet (→), Dhaka (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint PatrickLiturgical Calendar (Universal) 📅History1987.05.15: Established as Diocese of Mymensingh / Mymensinghen(sis) (Latin) (from Metropolitan Archdiocese of Dhaka and became suffragan of Dhaka)Present PrelatesBishop (2006.07.15 – ...):Bishop Paul Ponen Kubi, C.S.C. (70)General Secretary of Catholic Bishops’ Conference of BangladeshMonsignors (2)OrdinariesBishops of Mymensingh (Roman Rite)Bishop Paul Ponen Kubi, C.S.C. (70)  (2006.07.15 – ...)Bishop of Mymensingh (Bangladesh)General Secretary of Catholic Bishops’ Conference of BangladeshServe with all your heartsBorn:1956.06.29 (Dewachala, Bangladesh)Ordained Priest:1986.11.19Consecrated Bishop:2004.02.13Titular Bishop of Turris Tamalleni (2003.12.24 – 2006.07.15)Auxiliary Bishop of Mymensingh (Bangladesh) (2003.12.24 – 2006.07.15)Bishop of Mymensingh (Bangladesh) (2006.07.15 – ...)General Secretary of Catholic Bishops’ Conference of Bangladesh (2020? – ...)Bishop Francis Anthony Gomes  (1987.05.15 – 2006.07.15)To serve is to giveBorn:1931.04.10 (Rangamatia, Bangladesh)Ordained Priest:1959.12.20Consecrated Bishop:1987.09.08Died:2011.02.17 († 79)Bishop of Mymensingh (Bangladesh) (1987.05.15 – 2006.07.15)Former PrelatesAuxiliary Bishop: Bishop Paul Ponen Kubi, C.S.C. (70) (2003.12.24 – 2006.07.15)Special ChurchesCathedral:  St. Patrick’s Cathedral, Mymensingh, Dhaka Show MapKhulna (↙), Rajshahi (←), Tura (↑), Nongstoin (↗), Sylhet (→), Dhaka (↓)Statistics (2022.12.31)Area: 16,448 km²Population: 83,896 Catholics (0.5% of 18,021,300 total)Pastoral Centres: 19 parishes, 2 missionsPersonnel: 46 priests (30 diocesan, 16 religious), 138 religious (27 brothers, 111 sisters), 41 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "myme0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 18021300,
+    "catholiques": 83896,
+    "pourcentage_catholiques": 0.5
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 46,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

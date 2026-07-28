@@ -1,0 +1,29 @@
+{
+  "id": "ng-kafa0",
+  "nom": "Kafanchan",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Kafanchan / Kafancan(us) (Latin)Ecclesiastical Province: KadunaNeighbouring Dioceses: Abuja (↙), Minna (←), Kaduna (↖), Jos (→), Lafia (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1995.07.10: Established as Diocese of Kafanchan / Kafancan(us) (Latin) (from Metropolitan Archdiocese of Jos and Metropolitan Archdiocese of Kaduna and became suffragan of Kaduna)Present PrelatesBishop (2019.12.12 – ...):Bishop Julius Yakubu Kundi (58)Monsignors (1)OrdinariesBishops of Kafanchan (Roman Rite)Bishop Julius Yakubu Kundi (58)  (2019.12.12 – ...)Bishop of Kafanchan (Nigeria)Gratias vobis et humilemBorn:1968.02.15 (Danladi, Nigeria)Ordained Priest:1997.06.14Consecrated Bishop:2020.02.20Priest of Kaduna (Nigeria) (1997.06.14 – 2000.12.05)Priest of Zaria (Nigeria) (2000.12.05 – 2019.12.12)Bishop of Kafanchan (Nigeria) (2019.12.12 – ...)Bishop Joseph Danlami Bagobiri  (1995.07.10 – 2018.02.27)Born:1957.11.08 (Fadan Kagoma, Nigeria)Ordained Priest:1983.06.11Consecrated Bishop:1995.10.21Died:2018.02.27 († 60)Priest of Kaduna (Nigeria) (1983.06.11 – 1995.07.10)Bishop of Kafanchan (Nigeria) (1995.07.10 – 2018.02.27)Special ChurchesCathedral:  St. Peter Claver’s Cathedral, Kafanchan, Kaduna Show MapAbuja (↙), Minna (←), Kaduna (↖), Jos (→), Lafia (↓)Statistics (2022.12.31)Area: 14,860 km²Population: 403,850 Catholics (20.7% of 1,946,475 total)Pastoral Centres: 58 parishes, 2 missionsPersonnel: 123 priests (120 diocesan, 3 religious), 249 religious (200 brothers, 49 sisters), 198 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kafa0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1946475,
+    "catholiques": 403850,
+    "pourcentage_catholiques": 20.7
+  },
+  "ressources": {
+    "pretres_diocesains": 120,
+    "pretres_religieux": null,
+    "total_pretres": 123,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 58
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

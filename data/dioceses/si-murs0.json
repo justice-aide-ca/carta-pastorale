@@ -1,0 +1,29 @@
+{
+  "id": "si-murs0",
+  "nom": "Murska Sobota",
+  "pays": "si",
+  "pays_nom": "Slovenia",
+  "continent": "unknown",
+  "type": "Diocese Name: Murska Sobota / Soboten(sis) (Latin)Ecclesiastical Province: MariborNeighbouring Dioceses: Maribor (←), Graz–Seckau (↖), Varaždin (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint MethodiusCathedral Dedication Anniversary: July 26 (1912)Liturgical Calendar (National) 📅History2006.04.07: Established as Diocese of Murska Sobota / Soboten(sis) (Latin) (from Diocese of Maribor and became suffragan of Maribor)Contact InfoAddress: Gregorčičeva ulica 2, 9000 Murska Sobota, SloveniaPresent PrelatesBishop (2025.06.18 – ...):Bishop Janez Kozinc (50)Monsignors (2)OrdinariesBishops of Murska Sobota (Roman Rite)Bishop Janez Kozinc (50)  (2025.06.18 – ...)Bishop of Murska Sobota (Slovenia)Kjer pa je Gospodov Duh, tam je svobodaBorn:1975.08.21 (Celje, Slovenia)Ordained Priest:2010.06.29Consecrated Bishop:2025.09.14Priest of Celje (Slovenia) (2010.06.29 – 2025.06.18)Bishop of Murska Sobota (Slovenia) (2025.06.18 – ...)Bishop Peter Štumpf, S.D.B. (64)  (Apostolic Administrator 2025.02.01 – 2025.06.18)Bishop Peter Štumpf, S.D.B. (64)  (2009.11.28 – 2024.11.29)Bishop of Koper (Slovenia)Vice-President of Episcopal Conference of SloveniaS teboj, Mati MarijaBorn:1962.06.28 (Beltinci, Slovenia)Ordained Priest:1990.06.29Consecrated Bishop:2006.09.10Titular Bishop of Musti in Numidia (2006.05.24 – 2009.11.28)Auxiliary Bishop of Maribor (Slovenia) (2006.05.24 – 2009.11.28)Bishop of Murska Sobota (Slovenia) (2009.11.28 – 2024.11.29)Vice-President of Episcopal Conference of Slovenia (2022.03.14 [2022.03.24] – ...)Bishop of Koper (Slovenia) (2024.11.29 – ...)Apostolic Administrator of Murska Sobota (Slovenia) (2025.02.01 – 2025.06.18)Bishop Marjan Turnšek (70) (later Archbishop)  (2006.04.07 – 2009.11.28)Metropolitan Archbishop emeritus of Maribor (Slovenia)Bog je ljubezenBorn:1955.07.25 (Celje, Slovenia)Ordained Priest:1981.06.28Consecrated Bishop:2006.06.25Priest of Maribor (Slovenia) (1981.06.28 – 2006.04.07)Prelate of Honour of His Holiness (1999.01.18 – 2006.04.07)Bishop of Murska Sobota (Slovenia) (2006.04.07 – 2009.11.28)Coadjutor Archbishop of Maribor (Slovenia) (2009.11.28 – 2011.02.03)Metropolitan Archbishop of Maribor (Slovenia) (2011.02.03 – 2013.07.31)Special ChurchesCathedral:  Stolnica sv. Nikolaja, Murska Sobota, Murska Sobota Churches by City (36)Show MapMaribor (←), Graz–Seckau (↖), Varaždin (↓)Statistics (2022.12.31)Area: 1,102 km²Population: 81,486 Catholics (70.7% of 115,319 total)Pastoral Centres: 36 parishesPersonnel: 55 priests (44 diocesan, 11 religious), 34 religious (13 brothers, 21 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "murs0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 115319,
+    "catholiques": 81486,
+    "pourcentage_catholiques": 70.7
+  },
+  "ressources": {
+    "pretres_diocesains": 44,
+    "pretres_religieux": null,
+    "total_pretres": 55,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

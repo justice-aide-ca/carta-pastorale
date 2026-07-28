@@ -1,0 +1,29 @@
+{
+  "id": "gu-boke0",
+  "nom": "Boké",
+  "pays": "gu",
+  "pays_nom": "Guinea",
+  "continent": "unknown",
+  "type": "Diocese Name: Boké / Boken(sis) (Latin)Ecclesiastical Province: ConakryNeighbouring Dioceses: Bafatá (↖), Conakry (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2024.02.22: Established as Diocese of Boké / Boken(sis) (Latin) (from Metropolitan Archdiocese of Conakry and became suffragan of Conakry)Present PrelatesBishop (2024.02.22 – ...):Bishop Moïse Tinguiano (48)Vice-President of Episcopal Conference of the GuineaOrdinariesBishops of Boké (Roman Rite)Bishop Moïse Tinguiano (48)  (2024.02.22 – ...)Bishop of Boké (Guinea)Vice-President of Episcopal Conference of the GuineaSimul pro missioneBorn:1977.12.11 (Benty, Guinea)Ordained Priest:2006.11.26Consecrated Bishop:2024.04.27Priest of Conakry (Guinea) (2006.11.26 – 2024.02.22)Bishop of Boké (Guinea) (2024.02.22 – ...)Vice-President of Episcopal Conference of the Guinea (2025.05.17 – ...)Special ChurchesCathedral:  Cathédrale du Sacré-Cœur de Jésus, Boké, Boké Churches by City (9)Show MapBafatá (↖), Conakry (↘)Statistics (2024)Area: 27,908 km²Population: 10,225 Catholics (0.9% of 1,153,909 total)Pastoral Centres: 6 parishesPersonnel: 12 priests (11 diocesan, 1 religious), 22 religious (10 brothers, 12 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "boke0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1153909,
+    "catholiques": 10225,
+    "pourcentage_catholiques": 0.9
+  },
+  "ressources": {
+    "pretres_diocesains": 11,
+    "pretres_religieux": null,
+    "total_pretres": 12,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

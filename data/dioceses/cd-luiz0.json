@@ -1,0 +1,29 @@
+{
+  "id": "cd-luiz0",
+  "nom": "Luiza",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Luiza / Lwiza / Ludovican(us) (Latin)Ecclesiastical Province: KanangaNeighbouring Dioceses: Dundo (←), Luebo (↖), Kananga (↑), Mbujimayi (↗), Tshilomba (→), Kolwezi (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1967.09.26: Established as Diocese of Luiza / Lwiza / Ludovican(us) (Latin) (from Metropolitan Archdiocese of Luluabourg and became suffragan of Luluabourg)2022.03.25: Lost territory to establish Diocese of TshilombaPresent PrelatesBishop (2014.01.03 – ...):Bishop Félicien Mwanama Galumbulula (65)Monsignors (3)OrdinariesBishops of Luiza (Roman Rite)Bishop Félicien Mwanama Galumbulula (65)  (2014.01.03 – ...)Bishop of Luiza (Congo-Kinshasa)Evangelii veritasBorn:1960.10.26 (Tshibala, Congo-Kinshasa)Ordained Priest:1987.08.09Consecrated Bishop:2014.03.23Priest of Luiza (Congo-Kinshasa) (1987.08.09 – 2014.01.03)Bishop of Luiza (Congo-Kinshasa) (2014.01.03 – ...)Bishop Léonard Kasanda Lumembu, C.I.C.M. (90)  (1998.04.03 – 2014.01.03)Bishop emeritus of Luiza (Congo-Kinshasa)Born:1936.04.12 (Mikalayi, Congo-Kinshasa)Ordained Priest:1964.08.02Consecrated Bishop:1998.07.26Bishop of Luiza (Congo-Kinshasa) (1998.04.03 – 2014.01.03)Bishop Godefroy Mukeng’a Kalond, C.I.C.M. (later Archbishop)  (1971.08.30 – 1997.03.03)Born:1930.08.31 (Tshibingu-Mukese, Congo-Kinshasa)Ordained Priest:1958.03.02Consecrated Bishop:1971.12.05Died:2026.05.14 (Kinshasa, Congo-Kinshasa † 95)Bishop of Luiza (Congo-Kinshasa) (1971.08.30 – 1997.03.03)Metropolitan Archbishop of Kananga (Congo-Kinshasa) (1997.03.03 – 2006.05.03)Fr. Charles De Wilde  (Apostolic Administrator 1970 – 1971.08.30)Archbishop Bernard Mels, C.I.C.M.  (1967.09.26 – 1970.10.03)Born:1908.11.28 (Lokeren, Belgium)Ordained Priest:1933.08.15Consecrated Bishop:1949.05.17Died:1992.11.01 († 83)Titular Bishop of Belali (1949.03.10 – 1959.11.10)Vicar Apostolic of Luluabourg (Congo-Kinshasa) (1949.03.10 – 1959.11.10)Apostolic Administrator of Mweka (Congo-Kinshasa) (1953 – 1957)Metropolitan Archbishop of Luluabourg (Congo-Kinshasa) (1959.11.10 – 1967.09.26)Archbishop-Bishop of Luiza (Congo-Kinshasa) (1967.09.26 – 1970.10.03)Titular Archbishop of Pulcheriopolis (1970.10.03 – 1986.05.17)Special ChurchesCathedral:  Cathédrale Saint-Vincent, Lwiza, Kasaï Central Show MapDundo (←), Luebo (↖), Kananga (↑), Mbujimayi (↗), Tshilomba (→), Kolwezi (↓)Statistics (2021.12.31)Area: 21,777 km²Population: 1,055,000 Catholics (69.5% of 1,518,000 total)Pastoral Centres: 27 parishes, 2 missionsPersonnel: 54 priests (45 diocesan, 9 religious), 265 religious (56 brothers, 209 sisters), 37 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "luiz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1518000,
+    "catholiques": 1055000,
+    "pourcentage_catholiques": 69.5
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 54,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

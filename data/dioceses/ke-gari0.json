@@ -1,0 +1,29 @@
+{
+  "id": "ke-gari0",
+  "nom": "Garissa",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Garissa / Garissaën(sis) (Latin)Ecclesiastical Province: MombasaNeighbouring Dioceses: Kitui (←), Isiolo (↖), Maralal (↖), Marsabit (↑), Awasa (↑), Mogadishu (→), Malindi (↓), Mombasa (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1976.12.09: Established as Apostolic Prefecture of Garissa / Garissaën(sis) (Latin) (from Diocese of Meru and Diocese of Mombasa)1984.02.03: Promoted as Diocese of Garissa / Garissaën(sis) (Latin) (became suffragan of Nairobi)1990.05.21: Became suffragan of Mombasa2000.06.02: Lost territory to establish Diocese of MalindiPresent PrelatesBishop (2022.02.17 – ...):Bishop George Muthaka, O.F.M. Cap. (51)OrdinariesBishops of Garissa (Roman Rite)Bishop George Muthaka, O.F.M. Cap. (51)  (2022.02.17 – ...)Bishop of Garissa (Kenya)Born:1974.12.28 (Ruiru, Kenya)Ordained Priest:2003.06.28Consecrated Bishop:2022.05.07Bishop of Garissa (Kenya) (2022.02.17 – ...)Bishop Joseph Alessandro, O.F.M. Cap. (81)  (2015.12.08 – 2022.02.17)Bishop emeritus of Garissa (Kenya)Lolote atakalowaambieni FanyeniBorn:1944.11.30 (Paola, Malta)Ordained Priest:1970.04.05Consecrated Bishop:2012.09.29Coadjutor Bishop of Garissa (Kenya) (2012.06.29 – 2015.12.08)Bishop of Garissa (Kenya) (2015.12.08 – 2022.02.17)Bishop Paul Darmanin, O.F.M. Cap.  (1984.02.03 – 2015.12.08)Born:1940.11.06 (Santa Venera, Malta)Ordained Priest:1966.03.26Consecrated Bishop:1984.06.03Died:2023.07.25 (Floriana, Malta † 82)Bishop of Garissa (Kenya) (1984.02.03 – 2015.12.08)Prefects Apostolic of Garissa (Roman Rite)Fr. Leo J. White, O.F.M. Cap.  (1976.12.09 – 1984)Born:1929.03.20 (Chatham, Malta)Ordained Priest:1956.07.29Died:2018.07.31 (London, England † 89)Prefect Apostolic of Garissa (Kenya) (1976.12.09 – 1984)Former PrelatesCoadjutor Bishop: Bishop Joseph Alessandro, O.F.M. Cap. (81) (2012.06.29 – 2015.12.08)Special ChurchesCathedral:  Our Lady of Consolation Cathedral, Garissa, Garissa Churches by City (7)Show MapKitui (←), Isiolo (↖), Maralal (↖), Marsabit (↑), Awasa (↑), Mogadishu (→), Malindi (↓), Mombasa (↓)Statistics (2022.12.31)Area: 142,702 km²Population: 7,451 Catholics (0.7% of 1,139,660 total)Pastoral Centres: 7 parishesPersonnel: 10 priests (4 diocesan, 6 religious), 29 religious (7 brothers, 22 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gari0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1139660,
+    "catholiques": 7451,
+    "pourcentage_catholiques": 0.7
+  },
+  "ressources": {
+    "pretres_diocesains": 4,
+    "pretres_religieux": null,
+    "total_pretres": 10,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

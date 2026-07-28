@@ -1,0 +1,31 @@
+{
+  "id": "ca-quebec",
+  "nom": "Québec",
+  "pays": "ca",
+  "continent": "Amérique",
+  "type": "Archidiocèse",
+  "annee_donnees": 2023,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": 1000000,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 267,
+    "pretres_religieux": 134,
+    "total_pretres": 401,
+    "religieuses": 1399,
+    "diacres_permanents": 78,
+    "paroisses": 42
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Québec",
+    "conference_episcopale": "https://www.cecc.ca/"
+  }
+}

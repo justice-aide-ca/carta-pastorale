@@ -1,0 +1,29 @@
+{
+  "id": "ng-soko1",
+  "nom": "Sokoto",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Sokoto / Sokotoën(sis) (Latin)Ecclesiastical Province: KadunaNeighbouring Dioceses: Kandi (↙), Niamey (↖), Maradi (↗), Zaria (↘), Kontagora (↓), Ilorin (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1953.06.29: Established as Apostolic Prefecture of Sokoto / Sokotoën(sis) (Latin) (from Apostolic Prefecture of Kaduna)1964.06.16: Promoted as Diocese of Sokoto / Sokotoën(sis) (Latin) (became suffragan of Kaduna)1995.12.15: Lost territory to establish Apostolic Prefecture of Kontagora2023.10.16: Lost territory to establish Diocese of KatsinaContact InfoAddress: Bishop’s House, 1 Aliyu Jodi Road, P.O. Box 2556, Sokoto State, NigeriaPhone: (060)23-22-28; (080)660.00.507Present PrelatesBishop (2011.06.10 – ...):Bishop Matthew Hassan Kukah (73)Monsignors (2)OrdinariesBishops of Sokoto (Roman Rite)Bishop Matthew Hassan Kukah (73)  (2011.06.10 – ...)Bishop of Sokoto (Nigeria)God is loveBorn:1952.08.31 (Kulu, Nigeria)Ordained Priest:1976.12.19Consecrated Bishop:2011.09.08Priest of Kaduna (Nigeria) (1976.12.19 – 2011.06.10)Prelate of Honour of His Holiness (2007.03.07 – 2011.06.10)Bishop of Sokoto (Nigeria) (2011.06.10 – ...)Bishop Kevin Joseph Aje  (1984.12.03 – 2011.06.10)Born:1934.04.25 (Amper, Nigeria)Ordained Priest:1966.06.12Consecrated Bishop:1983.01.06Died:2019.05.27 (Sokoto, Nigeria † 85)Priest of Jos (Nigeria) (1966.06.12 – 1982.10.15)Prelate of Honour of His Holiness (1981.03.13 – 1982.10.15)Coadjutor Bishop of Sokoto (Nigeria) (1982.10.15 – 1984.12.03)Bishop of Sokoto (Nigeria) (1984.12.03 – 2011.06.10)Bishop Michael James Dempsey, O.P.  (1967.07.13 – 1984.12.03)Born:1912.02.22 (Providence, RI, USA)Ordained Priest:1942.06.11Consecrated Bishop:1967.08.15Died:1996.03.19 (Denver, CO, USA † 84)Bishop of Sokoto (Nigeria) (1967.07.13 – 1984.12.03)Bishop Edward Thaddeus Lawton, O.P.  (1964.06.16 – 1966.12.19)Born:1913.10.12 (South Boston, MA, USA)Ordained Priest:1943.06.06Consecrated Bishop:1964.08.15Died:1966.12.19 (Sokoto, Nigeria † 53)Prefect Apostolic of Sokoto (Nigeria) (1954.01.15 – 1964.06.16)Bishop of Sokoto (Nigeria) (1964.06.16 – 1966.12.19)Prefects Apostolic of Sokoto (Roman Rite)Fr. Edward Thaddeus Lawton, O.P. (later Bishop)  (1954.01.15 – 1964.06.16)(see above)Former PrelatesCoadjutor Bishop: Bishop Kevin Joseph Aje (1982.10.15 – 1984.12.03)Special ChurchesCathedral:  Holy Family Cathedral, Sokoto, Sokoto Show MapKandi (↙), Niamey (↖), Maradi (↗), Zaria (↘), Kontagora (↓), Ilorin (↓)Statistics (2023)Area: 80,000 km²Population: 21,000 Catholics (0.1% of 15,930,561 total)Pastoral Centres: 17 parishes, 21 missionsPersonnel: 42 priests (39 diocesan, 3 religious), 65 religious (65 sisters), 41 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "soko1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 15930561,
+    "catholiques": 21000,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

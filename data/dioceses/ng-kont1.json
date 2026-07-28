@@ -1,0 +1,29 @@
+{
+  "id": "ng-kont1",
+  "nom": "Kontagora",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Kontagora / Kongtagoran(us) (Latin)Ecclesiastical Province: KadunaNeighbouring Dioceses: Ilorin (←), Sokoto (↑), Zaria (↗), Kaduna (→), Minna (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1995.12.15: Established as Apostolic Prefecture of Kontagora / Kongtagoran(us) (Latin) (from Diocese of Ilorin, Diocese of Minna and Diocese of Sokoto)2002.04.30: Promoted as Apostolic Vicariate of Kontagora / Kongtagoran(us) (Latin)2020.04.02: Promoted as Diocese of Kontagora / Kongtagoran(us) (Latin) (became suffragan of Kaduna)Present PrelatesBishop (2020.04.02 – ...):Bishop Bulus Dauwa Yohanna (55)OrdinariesBishops of Kontagora (Roman Rite)Bishop Bulus Dauwa Yohanna (55)  (2020.04.02 – ...)Bishop of Kontagora (Nigeria)For nothing will be impossible with God / Ba wada fadar Allah da zata kasa cikaBorn:1970.12.15 (Vuroro, Nigeria)Ordained Priest:1998.01.10Consecrated Bishop:2012.05.03Priest of Ilorin (Nigeria) (1998.01.10 – 2002.05.21)Priest of Kontagora (Nigeria) (2002.05.21 – 2012.02.02)Titular Bishop of Scebatiana (2012.02.02 – 2020.04.02)Vicar Apostolic of Kontagora (Nigeria) (2012.02.02 – 2020.04.02)Bishop of Kontagora (Nigeria) (2020.04.02 – ...)Vicars Apostolic of Kontagora (Roman Rite)Bishop Bulus Dauwa Yohanna (55)  (2012.02.02 – 2020.04.02)(see above)Bishop Timothy Joseph Carroll, S.M.A. (86)  (2002.04.30 – 2010.04.30)Titular Bishop of Tipasa in MauretaniaVicar Apostolic emeritus of Kontagora (Nigeria)Born:1940.04.23 (Millstreet, Ireland)Ordained Priest:1965.12.20Consecrated Bishop:2002.08.17Prefect Apostolic of Kontagora (Nigeria) (1995.12.15 – 2002.04.30)Vicar Apostolic of Kontagora (Nigeria) (2002.04.30 – 2010.04.30)Titular Bishop of Tipasa in Mauretania (2002.04.30 – ...)Prefects Apostolic of Kontagora (Roman Rite)Fr. Timothy Joseph Carroll, S.M.A. (86) (later Bishop)  (1995.12.15 – 2002.04.30)(see above)Special ChurchesCathedral:  St. Michael’s Cathedral, Kontagora, Niger Show MapIlorin (←), Sokoto (↑), Zaria (↗), Kaduna (→), Minna (↘)Statistics (2022.12.31)Area: 46,000 km²Population: 93,202 Catholics (3.0% of 3,083,202 total)Pastoral Centres: 22 parishes, 2 missionsPersonnel: 36 priests (26 diocesan, 10 religious), 37 religious (10 brothers, 27 sisters), 22 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kont1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3083202,
+    "catholiques": 93202,
+    "pourcentage_catholiques": 3.0
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 36,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

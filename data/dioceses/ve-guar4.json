@@ -1,0 +1,29 @@
+{
+  "id": "ve-guar4",
+  "nom": "Guarenas",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Guarenas / Guarenen(sis) (Latin)Ecclesiastical Province: CaracasNeighbouring Dioceses: Los Teques (←), La Guaira (↖), Barcelona (→), Valle de la Pascua (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Nuestra Señora de Copacabana (November 22)Cathedral Dedication Anniversary: November 21Liturgical Calendar (National) 📅History1996.11.30: Established as Diocese of Guarenas / Guarenen(sis) (Latin) (from Diocese of Los Teques and became suffragan of Caracas)Contact InfoAddress: Calle Comercio con Prolongación, Calle Miranda, Casa N° 14 Pueblo Arriba, Guarenas, Estado Miranda, VenezuelaPresent PrelatesBishop (2020.12.11 – ...):Bishop Tulio Luis Ramírez Padilla (66)Monsignors (1)OrdinariesBishops of Guarenas (Roman Rite)Bishop Tulio Luis Ramírez Padilla (66)  (2020.12.11 – ...)Bishop of Guarenas (Venezuela)Servire ecclesiæ ChristiBorn:1960.02.28 (Caracas, Venezuela)Ordained Priest:1984.08.05Consecrated Bishop:2012.07.08Priest of Valencia (Venezuela) (1984.08.05 – 2012.04.04)Titular Bishop of Ausuccura (2012.04.04 – 2020.12.11)Auxiliary Bishop of Caracas (Venezuela) (2012.04.04 – 2020.12.11)Bishop of Guarenas (Venezuela) (2020.12.11 – ...)Bishop Gustavo García Naranjo (82)  (1996.11.30 – 2020.12.11)Bishop emeritus of Guarenas (Venezuela)Born:1944.07.01 (Caracas, Venezuela)Ordained Priest:1975.06.29Consecrated Bishop:1997.01.11Bishop of Guarenas (Venezuela) (1996.11.30 – 2020.12.11)Special ChurchesCathedral:  Catedral Nuestra Señora de Copacabana, Guarenas, Miranda Show MapLos Teques (←), La Guaira (↖), Barcelona (→), Valle de la Pascua (↓)Statistics (2022.12.31)Area: 5,186 km²Population: 477,228 Catholics (76.0% of 627,932 total)Pastoral Centres: 24 parishes, 1 missionPersonnel: 21 priests (12 diocesan, 9 religious), 12 deacons, 19 religious (10 brothers, 9 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "guar4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 627932,
+    "catholiques": 477228,
+    "pourcentage_catholiques": 76.0
+  },
+  "ressources": {
+    "pretres_diocesains": 12,
+    "pretres_religieux": null,
+    "total_pretres": 21,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

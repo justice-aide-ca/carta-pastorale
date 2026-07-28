@@ -1,0 +1,29 @@
+{
+  "id": "ao-beng0",
+  "nom": "Benguela",
+  "pays": "ao",
+  "pays_nom": "Angola",
+  "continent": "unknown",
+  "type": "Diocese Name: Benguela / Benguelen(sis) (Latin)Ecclesiastical Province: HuamboNeighbouring Dioceses: Sumbe (↑), Huambo (→), Ganda (→), Namibe (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Nossa Senhora de FátimaLiturgical Calendar (National) 📅History1970.06.06: Established as Diocese of Benguela / Benguelen(sis) (Latin) (from Diocese of Nova Lisboa and became suffragan of Luanda)1977.02.03: Became suffragan of Huambo2024.08.01: Lost territory to establish Diocese of GandaPapal VisitsPope John Paul II (1992.06)Present PrelatesBishop (2018.03.26 – ...):Bishop António Francisco Jaca, S.V.D. (62)Monsignors (2)OrdinariesBishops of Benguela (Roman Rite)Bishop António Francisco Jaca, S.V.D. (62)  (2018.03.26 – ...)Bishop of Benguela (Angola)Deus, eu sou bomBorn:1963.11.03 (Quessua, Angola)Ordained Priest:1990.09.29Consecrated Bishop:2007.07.22Bishop of Caxito (Angola) (2007.06.06 – 2018.03.26)Bishop of Benguela (Angola) (2018.03.26 – ...)Bishop Eugenio Dal Corso, P.S.D.P. (later Cardinal)  (2008.02.18 – 2018.03.26)SapientiaBorn:1939.05.16 (Lugo di Valpantena di Grezzana, Italy)Ordained Priest:1963.07.07Consecrated Bishop:1996.03.03Created Cardinal:2019.10.05Died:2024.10.20 (Negrar, Italy † 85)Coadjutor Bishop of Saurimo (Angola) (1995.12.15 – 1997.01.15)Bishop of Saurimo (Angola) (1997.01.15 – 2008.02.18)Bishop of Benguela (Angola) (2008.02.18 – 2018.03.26)Cardinal-Priest of S. Anastasia (2019.10.05 [2019.11.17] – 2024.10.20)Bishop Oscar Lino Lopes Fernandes Braga  (1974.11.20 – 2008.02.18)SacrificioBorn:1931.09.30 (Malanje, Angola)Ordained Priest:1964.07.26Consecrated Bishop:1975.02.02Died:2020.05.26 (Benguela, Angola † 88)Bishop of Benguela (Angola) (1974.11.20 – 2008.02.18)Apostolic Administrator of Huambo (Angola) (2003.07.31 – 2004.05.03)Bishop Armando Amaral dos Santos  (1970.06.06 – 1973.10.14)Born:1929.03.04 (Chinguar, Angola)Ordained Priest:1956.12.22Consecrated Bishop:1970.08.02Died:1973.10.14 († 44)Bishop of Benguela (Angola) (1970.06.06 – 1973.10.14)Former PrelatesAuxiliary Bishop: Bishop Estêvão Binga (59) (2021.11.03 – 2024.08.01)Special ChurchesCathedral:  Sé Catedral de Nossa Senhora de Fátima, Benguela, Benguela Show MapSumbe (↑), Huambo (→), Ganda (→), Namibe (↓)Statistics (2024.12.31)Area: 20,780 km²Population: 1,540,364 Catholics (78.6% of 1,960,070 total)Pastoral Centres: 47 parishesPersonnel: 234 priests (199 diocesan, 35 religious), 286 religious (4 brothers, 282 sisters), 115 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "beng0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1960070,
+    "catholiques": 1540364,
+    "pourcentage_catholiques": 78.6
+  },
+  "ressources": {
+    "pretres_diocesains": 199,
+    "pretres_religieux": null,
+    "total_pretres": 234,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

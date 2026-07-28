@@ -1,0 +1,29 @@
+{
+  "id": "ph-laoa0",
+  "nom": "Laoag",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Laoag / Laoagen(sis) (Latin)Ecclesiastical Province: Nueva SegoviaNeighbouring Dioceses: Batanes (↗), Tabuk (↘), Bangued (↓), Nueva Segovia (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint William of Maleval (February 10), Our Lady, Cause of Our JoyLiturgical Calendar (National) 📅History1961.06.05: Established as Diocese of Laoag / Laoagen(sis) (Latin) (from Metropolitan Archdiocese of Nueva Segovia and became suffragan of Nueva Segovia)Present PrelatesBishop (2012.10.12 – ...):Bishop Renato Pine Mayugba (70)OrdinariesBishops of Laoag (Roman Rite)Bishop Renato Pine Mayugba (70)  (2012.10.12 – ...)Bishop of Laoag (Philippines)Linum fumigans non extinguetBorn:1955.12.04 (Sampaloc, Philippines)Ordained Priest:1981.04.25Consecrated Bishop:2005.12.27Priest of Lingayen–Dagupan (Philippines) (1981.04.25 – 2005.10.18)Titular Bishop of Centuriones (2005.10.18 – 2012.10.12)Auxiliary Bishop of Lingayen–Dagupan (Philippines) (2005.10.18 – 2012.10.12)Bishop of Laoag (Philippines) (2012.10.12 – ...)Bishop Sergio Lasam Utleg (82) (later Archbishop)  (2006.11.13 – 2011.06.15)Metropolitan Archbishop emeritus of Tuguegarao (Philippines)Veritas liberabit vosBorn:1943.09.11 (Solana, Philippines)Ordained Priest:1968.03.30Consecrated Bishop:1997.03.17Priest of Tuguegarao (Philippines) (1968.03.30 – 1997.02.10)Coadjutor Bishop of Ilagan (Philippines) (1997.02.10 – 1999.07.26)Bishop of Ilagan (Philippines) (1999.07.26 – 2006.11.13)Bishop of Laoag (Philippines) (2006.11.13 – 2011.06.15)Metropolitan Archbishop of Tuguegarao (Philippines) (2011.06.15 – 2019.10.18)Bishop Ernesto Antolin Salgado (89) (later Archbishop)  (2000.12.07 – 2005.02.12)Metropolitan Archbishop emeritus of Nueva Segovia (Philippines)Pro populo consecratusBorn:1936.11.22 (Santa Lucia, Philippines)Ordained Priest:1961.12.23Consecrated Bishop:1987.01.15Priest of Nueva Segovia (Philippines) (1961.12.23 – 1986.10.17)Coadjutor Vicar Apostolic of Mountain Provinces (Philippines) (1986.10.17 – 1987.12.18)Titular Bishop of Buruni (1986.10.17 – 2000.12.07)Vicar Apostolic of Baguio (Philippines) (1987.12.18 – 2000.12.07)Bishop of Laoag (Philippines) (2000.12.07 – 2005.02.12)Metropolitan Archbishop of Nueva Segovia (Philippines) (2005.02.12 – 2013.12.30)Bishop Edmundo Madarang Abaya (later Archbishop)  (1978.12.11 – 1999.05.22)PaxBorn:1929.01.19 (Candon, Philippines)Ordained Priest:1953.03.21Consecrated Bishop:1979.01.19Died:2018.09.20 (San Juan City, Philippines † 89)Priest of Nueva Segovia (Philippines) (1953.03.21 – 1978.12.11)Bishop of Laoag (Philippines) (1978.12.11 – 1999.05.22)Metropolitan Archbishop of Nueva Segovia (Philippines) (1999.05.22 – 2005.02.12)Bishop Rafael Montiano Lim  (1971.02.12 – 1978.01.26)Mihi vivere ChristusBorn:1931.02.14 (Boac, Philippines)Ordained Priest:1956.03.17Consecrated Bishop:1971.04.27Died:1998.09.10 († 67)Bishop of Laoag (Philippines) (1971.02.12 – 1978.01.26)Bishop of Boac (Philippines) (1978.01.26 – 1998.09.10)Bishop Antonio Lloren Mabutas (later Archbishop)  (1961.06.05 – 1970.07.25)Born:1921.06.13 (Agoo, Philippines)Ordained Priest:1946.04.06Consecrated Bishop:1961.07.27Died:1999.04.22 (Davao, Philippines † 77)Bishop of Laoag (Philippines) (1961.06.05 – 1970.07.25)Titular Archbishop of Valeria (1970.07.25 – 1972.12.09)Coadjutor Archbishop of Davao (Philippines) (1970.07.25 – 1972.12.09)Metropolitan Archbishop of Davao (Philippines) (1972.12.09 – 1996.11.06)President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.) (1981 – 1985)Special ChurchesCathedral:  Cathedral of St. William the Hermit, Laoag City, Ilocos Norte, Ilocos Minor Basilica:  Basilica of San Juan Bautista, Badoc, Ilocos Norte, Ilocos World Heritage Site:  Church of San Agustin, Paoay, Ilocos Norte, Ilocos Jubilee Churches in the Holy Year 2025Churches by City (31)Show MapBatanes (↗), Tabuk (↘), Bangued (↓), Nueva Segovia (↓)Statistics (2022.12.31)Area: 3,469 km²Population: 374,623 Catholics (59.0% of 635,283 total)Pastoral Centres: 29 parishes, 5 missionsPersonnel: 74 priests (56 diocesan, 18 religious), 83 religious (23 brothers, 60 sisters), 30 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "laoa0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 635283,
+    "catholiques": 374623,
+    "pourcentage_catholiques": 59.0
+  },
+  "ressources": {
+    "pretres_diocesains": 56,
+    "pretres_religieux": null,
+    "total_pretres": 74,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ng-phar0",
+  "nom": "Port Harcourt",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Port Harcourt / Portus Harcurten(sis) (Latin)Ecclesiastical Province: CalabarNeighbouring Dioceses: Bomadi (←), Warri (↖), Owerri (↑), Aba (↗), Ikot Ekpene (→), Uyo (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1961.05.16: Established as Diocese of Port Harcourt / Portus Harcurten(sis) (Latin) (from Diocese of Owerri and became suffragan of Onitsha)1991.03.17: Lost territory to establish Mission sui juris of Bomadi1994.03.26: Became suffragan of CalabarPresent PrelatesBishop:vacantApostolic Administrator (2025.04.09 – ...):Bishop Patrick Eluke (59)Titular Bishop of PhoticeAuxiliary Bishop (2019.02.12 – ...):Bishop Patrick Eluke (59)Titular Bishop of PhoticeMonsignors (12)OrdinariesBishops of Port Harcourt (Roman Rite)Bishop Patrick Eluke (59)  (Apostolic Administrator 2025.04.09 – ...)Bishop Camillus Archibong Etokudoh (76)  (2009.05.04 – 2025.04.09)Bishop emeritus of Port Harcourt (Nigeria)Ut omnes unum sintBorn:1949.08.03 (Ikot Uko Etor, Nigeria)Ordained Priest:1978.07.02Consecrated Bishop:1988.05.14Priest of Ikot Ekpene (Nigeria) (1978.07.02 – 1988.01.18)Chaplain of His Holiness (1985.09.09 – 1988.01.18)Titular Bishop of Capra (1988.01.18 – 1989.09.01)Auxiliary Bishop of Ikot Ekpene (Nigeria) (1988.01.18 – 1989.09.01)Bishop of Ikot Ekpene (Nigeria) (1989.09.01 – 2009.05.04)Bishop of Port Harcourt (Nigeria) (2009.05.04 – 2025.04.09)Bishop Alexius Obabu Makozi  (1991.08.31 – 2009.05.04)Born:1932.02.15 (Okene, Nigeria)Ordained Priest:1961.12.08Consecrated Bishop:1971.05.30Died:2016.01.16 († 83)Priest of Lokoja (Nigeria) (1961.12.08 – 1971.02.20)Titular Bishop of Fallaba (1971.02.20 – 1972.07.30)Auxiliary Bishop of Lokoja (Nigeria) (1971.02.20 – 1972.07.30)Bishop of Lokoja (Nigeria) (1972.07.30 – 1991.08.31)Apostolic Administrator of Lokoja (Nigeria) (1991.08.31 – 1992.03.06)Bishop of Port Harcourt (Nigeria) (1991.08.31 – 2009.05.04)Bishop Edmund Joseph Fitzgibbon, S.P.S.  (Apostolic Administrator 1973.09.17 – 1991.08.31)Bishop Dominic Ignatius Ekandem (later Cardinal)  (Apostolic Administrator 1970.04.21 – 1973)Bishop Godfrey Okoye, C.S.Sp.  (1961.05.16 – 1970.03.07)Born:1913.12.19 (Ifite Kkpo, Nigeria)Ordained Priest:1947.07.27Consecrated Bishop:1961.09.03Died:1977.03.17 (Enugu, Nigeria † 63)Bishop of Port Harcourt (Nigeria) (1961.05.16 – 1970.03.07)Bishop of Enugu (Nigeria) (1970.03.07 – 1977.03.17)Special ChurchesCathedral:  Corpus Christi Cathedral, Port Harcourt, Rivers International Shrine:  International Sanctuary of Jesus the Saviour and Mother Mary, Elele, Rivers Show MapBomadi (←), Warri (↖), Owerri (↑), Aba (↗), Ikot Ekpene (→), Uyo (↘)Statistics (2022.12.31)Area: 10,500 km²Population: 1,257,000 Catholics (19.1% of 6,567,892 total)Pastoral Centres: 188 parishesPersonnel: 197 priests (165 diocesan, 32 religious), 177 religious (54 brothers, 123 sisters), 96 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "phar0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6567892,
+    "catholiques": 1257000,
+    "pourcentage_catholiques": 19.1
+  },
+  "ressources": {
+    "pretres_diocesains": 165,
+    "pretres_religieux": null,
+    "total_pretres": 197,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 188
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

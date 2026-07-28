@@ -1,0 +1,29 @@
+{
+  "id": "cm-ngao0",
+  "nom": "Ngaoundéré",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Ngaoundéré / Ngaunderen(sis) (Latin)Ecclesiastical Province: GarouaNeighbouring Dioceses: Bafia (↙), Bafoussam (↙), Kumbo (←), Yola (←), Garoua (↑), Bouar (↘), Bertoua (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1982.11.19: Established as Diocese of Ngaoundéré / Ngaunderen(sis) (Latin) (from Metropolitan Archdiocese of Garoua and became suffragan of Garoua)Present PrelatesBishop (2016.03.15 – ...):Bishop Emmanuel Abbo (56)Monsignors (1)OrdinariesBishops of Ngaoundéré (Roman Rite)Bishop Emmanuel Abbo (56)  (2016.03.15 – ...)Bishop of Ngaoundéré (Cameroon)Servir à Dieu et à l’hommeBorn:1969.07.17 (Mbe, Cameroon)Ordained Priest:2000.06.14Consecrated Bishop:2016.04.30Priest of Ngaoundéré (Cameroon) (2000.06.14 – 2016.03.15)Apostolic Administrator of Ngaoundéré (Cameroon) (2015 – 2016.03.15)Bishop of Ngaoundéré (Cameroon) (2016.03.15 – ...)Msgr. Emmanuel Abbo (56) (later Bishop)  (Apostolic Administrator 2015 – 2016.03.15)Bishop Joseph Djida, O.M.I.  (2000.10.23 – 2015.01.06)Born:1945.04.08 (Mayo-Darlé, Cameroon)Ordained Priest:1976.12.05Consecrated Bishop:2001.02.25Died:2015.01.06 († 69)Bishop of Ngaoundéré (Cameroon) (2000.10.23 – 2015.01.06)Bishop Jean-Marie-Joseph-Augustin Pasquier, O.M.I.  (1982.11.19 – 2000.10.23)Born:1924.07.31 (Saint-Macaire-en-Mauges, France)Ordained Priest:1950.02.19Consecrated Bishop:1969.08.01Died:2004.03.07 († 79)Titular Bishop of Muzuca in Byzacena (1969.05.29 – 1982.11.19)Auxiliary Bishop of Garoua (Cameroon) (1969.05.29 – 1982.11.19)Bishop of Ngaoundéré (Cameroon) (1982.11.19 – 2000.10.23)Special ChurchesCathedral:  Cathédrale Notre-Dame des Apôtres, Ngaoundéré, Adamaoua Show MapBafia (↙), Bafoussam (↙), Kumbo (←), Yola (←), Garoua (↑), Bouar (↘), Bertoua (↓)Statistics (2021.12.31)Area: 63,701 km²Population: 59,000 Catholics (4.7% of 1,259,000 total)Pastoral Centres: 27 parishes, 2 missionsPersonnel: 38 priests (27 diocesan, 11 religious), 1 deacon, 68 religious (14 brothers, 54 sisters), 30 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ngao0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1259000,
+    "catholiques": 59000,
+    "pourcentage_catholiques": 4.7
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 38,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

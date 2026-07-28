@@ -1,0 +1,29 @@
+{
+  "id": "pl-sosn0",
+  "nom": "Sosnowiec",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Sosnowiec / Sosnovien(sis) (Latin)Ecclesiastical Province: CzęstochowaNeighbouring Dioceses: Katowice (↙), Gliwice (←), Częstochowa (↑), Kielce (↗), Kraków (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Albert Chmielowski (June 17), Saint Rafał od św. Józefa Kalinowski (November 20)Cathedral Dedication Anniversary: August 8Liturgical Calendar 📅History1992.03.25: Established as Diocese of Sosnowiec / Sosnovien(sis) (Latin) (from Metropolitan Archdiocese of Kraków, Diocese of Częstochowa and Diocese of Kielce and became suffragan of Częstochowa)Present PrelatesBishop (2024.04.23 – ...):Bishop Artur Ważny (59)Monsignors (23)OrdinariesBishops of Sosnowiec (Roman Rite)Bishop Artur Ważny (59)  (2024.04.23 – ...)Bishop of Sosnowiec (Poland)Patris cordeBorn:1966.10.12 (Rzeszów, Poland)Ordained Priest:1991.05.25Consecrated Bishop:2021.01.30Priest of Tarnów (Poland) (1991.05.25 – 2020.12.12)Titular Bishop of Mazaca (2020.12.12 – 2024.04.23)Auxiliary Bishop of Tarnów (Poland) (2020.12.12 – 2024.04.23)Bishop of Sosnowiec (Poland) (2024.04.23 – ...)Archbishop Adrian Józef Galbas, S.A.C. (58)  (Apostolic Administrator 2023.10.24 – 2024.04.23)Bishop Grzegorz Kaszak (62)  (2009.02.04 – 2023.10.24)Bishop emeritus of Sosnowiec (Poland)Facere voluntatem tuamBorn:1964.02.24 (Choszczno, Poland)Ordained Priest:1989.06.18Consecrated Bishop:2009.03.28Priest of Szczecin–Kamień (Poland) (1989.06.18 – 2009.02.04)Chaplain of His Holiness (1998.11.28 – 2009.02.04)Secretary of Pontifical Council for the Family (2007.11.10 – 2009.02.04)Bishop of Sosnowiec (Poland) (2009.02.04 – 2023.10.24)Bishop Adam Śmigielski  (1992.03.25 – 2008.10.07)Da mihi animasBorn:1933.12.24 (Przemyśl, Poland)Ordained Priest:1957.06.30Consecrated Bishop:1992.05.30Died:2008.10.07 (Sosnowiec, Poland † 74)Bishop of Sosnowiec (Poland) (1992.03.25 – 2008.10.07)Former PrelatesAuxiliary Bishop: Bishop Piotr Skucha (80) (1992.03.25 – 2021.06.27)Auxiliary Bishop: Bishop Tadeusz Pieronek (1992.03.25 – 1998.08.31)Special ChurchesCathedral, Minor Basilica:  Bazylika Katedralna Wniebowzięcia NMP, Sosnowiec, Śląskie Minor Basilica:  Bazylika Matki Boskiej Anielskiej, Dąbrowa Górnicza, Śląskie Minor Basilica:  Bazylika Najświętszego Serca Pana Jezusa, Dąbrowa Górnicza-Strzemieszyce Wielkie, Śląskie Minor Basilica:  Bazylika św. Andrzeja Apostoła, Olkusz, Małopolskie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (163)Show MapKatowice (↙), Gliwice (←), Częstochowa (↑), Kielce (↗), Kraków (↘)Statistics (2022.12.31)Area: 2,000 km²Population: 590,855 Catholics (91.7% of 644,000 total)Pastoral Centres: 162 parishesPersonnel: 391 priests (344 diocesan, 47 religious), 146 religious (50 brothers, 96 sisters), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sosn0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 644000,
+    "catholiques": 590855,
+    "pourcentage_catholiques": 91.7
+  },
+  "ressources": {
+    "pretres_diocesains": 344,
+    "pretres_religieux": null,
+    "total_pretres": 391,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 162
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "co-cart2",
+  "nom": "Cartago",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Cartago / Carthaden(sis) in Columbia (Latin)Ecclesiastical Province: CaliNeighbouring Dioceses: Istmina–Tadó (←), Pereira (↗), Armenia (→), Buga (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1962.03.16: Established as Diocese of Cartago / Carthaden(sis) in Columbia (Latin) (from Diocese of Cali and became suffragan of Popayán)1964.06.20: Became suffragan of CaliPresent PrelatesBishop (2021.10.18 – ...):Bishop César Alcides Balbín Tamayo (67)Monsignors (6)OrdinariesBishops of Cartago (Roman Rite)Bishop César Alcides Balbín Tamayo (67)  (2021.10.18 – ...)Bishop of Cartago (Colombia)Ecce ego mitte meBorn:1958.09.08 (Santa Rosa de Osos, Colombia)Ordained Priest:1985.11.19Consecrated Bishop:2015.03.07Priest of Santa Rosa de Osos (Colombia) (1985.11.19 – 2015.01.28)Bishop of Caldas (Colombia) (2015.01.28 – 2021.10.18)Bishop of Cartago (Colombia) (2021.10.18 – ...)Bishop José Roberto Ospina Leongómez (79)  (Apostolic Administrator 2020.10.31 – 2021.10.18)Bishop José Alejandro Castaño Arbeláez, O.A.R. (81)  (2010.10.21 – 2020.10.31)Bishop emeritus of Cartago (Colombia)Servi vestri sumusBorn:1945.04.01 (La Ceja, Colombia)Ordained Priest:1971.12.08Consecrated Bishop:2007.01.27Titular Bishop of Castellum Tatroportus (2006.11.13 – 2010.10.21)Auxiliary Bishop of Cali (Colombia) (2006.11.13 – 2010.10.21)Bishop of Cartago (Colombia) (2010.10.21 – 2020.10.31)Archbishop Alberto Giraldo Jaramillo, P.S.S.  (Apostolic Administrator 2010.05 – 2010.10.21)Bishop Luis Madrid Merlano (79) (later Archbishop)  (1995.04.19 – 2010.03.30)Metropolitan Archbishop emeritus of Nueva Pamplona (Colombia)Melior sapientia quam armaBorn:1946.10.27 (Cartagena, Colombia)Ordained Priest:1971.06.29Consecrated Bishop:1988.07.03Priest of Istmina (Colombia) (1971.06.29 – 1988.05.21)Bishop-Prelate of Tibú (Colombia) (1988.05.21 – 1995.04.19)Bishop of Cartago (Colombia) (1995.04.19 – 2010.03.30)Metropolitan Archbishop of Nueva Pamplona (Colombia) (2010.03.30 – 2018.06.06)Apostolic Administrator of Cúcuta (Colombia) (2010.09.01 – 2011.07.16)Bishop José Gabriel Calderón Contreras  (1962.04.26 – 1995.04.19)Born:1919.07.15 (Bogotá, Colombia)Ordained Priest:1942.11.08Consecrated Bishop:1959.01.06Died:2006.03.15 (Cartago, Colombia † 86)Priest of Bogotá (Colombia) (1942.11.08 – 1958.12.18)Titular Bishop of Victoriana (1958.12.18 – 1962.04.26)Auxiliary Bishop of Bogotá (Colombia) (1958.12.18 – 1962.04.26)Bishop of Cartago (Colombia) (1962.04.26 – 1995.04.19)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen, Cartago, Valle del Cauca Minor Basilica:  Basílica Nuestra Señora de la Pobreza, Cartago, Valle del Cauca Jubilee Churches in the Holy Year 2025Show MapIstmina–Tadó (←), Pereira (↗), Armenia (→), Buga (↓)Statistics (2022.12.31)Area: 4,500 km²Population: 438,720 Catholics (97.9% of 448,260 total)Pastoral Centres: 53 parishes, 9 missionsPersonnel: 85 priests (83 diocesan, 2 religious), 27 deacons, 220 religious (24 brothers, 196 sisters), 19 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cart2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 448260,
+    "catholiques": 438720,
+    "pourcentage_catholiques": 97.9
+  },
+  "ressources": {
+    "pretres_diocesains": 83,
+    "pretres_religieux": null,
+    "total_pretres": 85,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 53
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mo-chis0",
+  "nom": "Chişinău",
+  "pays": "mo",
+  "pays_nom": "Moldova",
+  "continent": "unknown",
+  "type": "Diocese Name: Chişinău / Chisinauen(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Iaşi (←), Lviv (↖), Kamyanets-Podilskyi (↑), Odessa–Simferopol (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Mary Mother of Good CounselLiturgical Calendar (Universal) 📅History1993.10.28: Established as Apostolic Administration of Moldova / Moldoven(sis) (Latin) (from Diocese of Iaşi and Diocese of Tiraspol)2001.10.27: Promoted as Diocese of Chişinău / Chisinauen(sis) (Latin) (without ecclesiastical province)Present PrelatesBishop (2001.10.27 – ...):Bishop Anton Coşa (64)OrdinariesBishops of Chişinău (Roman Rite)Bishop Anton Coşa (64)  (2001.10.27 – ...)Bishop of Chişinău (Moldova)Omnia in ChristoBorn:1961.11.23 (Valea Mare, Moldova)Ordained Priest:1989.06.25Consecrated Bishop:2000.01.06Priest of Iaşi (Romania) (1989.06.25 – 1999.10.30)Apostolic Administrator of Moldova (Moldova) (1993.10.28 – 2001.10.27)Titular Bishop of Pesto (1999.10.30 – 2001.10.27)Bishop of Chişinău (Moldova) (2001.10.27 – ...)Apostolic Administrators of Moldova (Roman Rite)Bishop Anton Coşa (64)  (1993.10.28 – 2001.10.27)(see above)Special ChurchesCathedral:  Catedrala Providenţa Divină, Chişinău, Chişinău Churches by City (17)Show MapIaşi (←), Lviv (↖), Kamyanets-Podilskyi (↑), Odessa–Simferopol (↘)Statistics (2022.12.31)Area: 33,000 km²Population: 19,920 Catholics (0.6% of 3,567,000 total)Pastoral Centres: 20 parishes, 2 missionsPersonnel: 24 priests (15 diocesan, 9 religious), 2 deacons, 37 religious (11 brothers, 26 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chis0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3567000,
+    "catholiques": 19920,
+    "pourcentage_catholiques": 0.6
+  },
+  "ressources": {
+    "pretres_diocesains": 15,
+    "pretres_religieux": null,
+    "total_pretres": 24,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "eg-alex2",
+  "nom": "Alexandria",
+  "pays": "eg",
+  "pays_nom": "Egypt",
+  "continent": "unknown",
+  "type": "Diocese , Proper eparchy of the Coptic PatriarchName: Alexandria / Alexandrin(us) Coptorum (Latin)Governed by: Patriarchal See of AlexandriaNeighbouring Dioceses: Ismayliah (→), Guizeh (↓)Depends on: Dicastery for the Eastern ChurchesHistory1741: Established as Apostolic Vicariate of Alexandria / Alexandrin(us) Coptorum (Latin)1895.11.26: Promoted as Diocese of Alexandria / Alexandrin(us) Coptorum (Latin) (lost territory to establish Diocese of Luqsor and Diocese of Minya and became suffragan of Alexandria)1982.12.17: Lost territory to establish Diocese of Ismayliah2003.03.21: Lost territory to establish Diocese of GuizehPapal VisitsPope John Paul II (2000.02)Pope Francis (2017.04)Present PrelatesPatriarch ([2013.01.15] 2013.01.18 – ...):Patriarch Ibrahim Isaac Sedrak (70)President of Synod of the Catholic Coptic ChurchPresident of Assembly of the Catholic Hierarchy of EgyptMonsignors (2)OrdinariesBishops of Alexandria (Coptic Rite)Bishop Cyrillus Macaire (later Patriarch)  (1895.03.18 – 1899.06.19)Born:1867.02.19 (Scenaineh, Egypt)Ordained Priest:1891Consecrated Bishop:1895.04.17Died:1921.05.18 († 54)Titular Bishop of Cæsarea Paneas (1895.03.15 – 1899.06.19)Bishop of Alexandria of the Copts (Egypt) (1895.03.18 – 1899.06.19)Patriarch of Alexandria of the Copts (Egypt) (1899.06.19 – 1908.05.18)Vicars Apostolic of Alexandria (Coptic Rite)Fr. Antoun Kabes  (1892.12 – 1895)Pro-Vicar Apostolic of Alexandria of the Copts (Egypt) (1892.12 – 1895)Fr. Simon Barraia  (1889.08 – 1892.12)Pro-Vicar Apostolic of Alexandria of the Copts (Egypt) (1889.08 – 1892.12)Fr. Antoun Nabad  (1887 – 1889)Pro-Vicar Apostolic of Alexandria of the Copts (Egypt) (1887 – 1889)Bishop Abraham Agabio Bsciai  (1866.02.27 – 1878)Born:1831.04.15 (Hammas, Egypt)Ordained Priest:1856.03.25Consecrated Bishop:1866.04.15Died:1887.02.20 († 55)Vicar Apostolic of Alexandria of the Copts (Egypt) (1866.02.27 – 1878)Titular Bishop of Cariopolis (1866.02.27 – 1887.02.20)Bishop Athanase Khouzan  (1855.10.02 – 1864.02.17)Ordained Priest:1836.10.23Consecrated Bishop:1855.12.23Died:1864.02.17Titular Bishop of Maronia (1855.10.02 – 1864.02.17)Vicar Apostolic of Alexandria of the Copts (Egypt) (1855.10.02 – 1864.02.17)Bishop Théodore Abou-Karim  (1832.06.22 – 1855.09.28)Born: (Girgeh, Egypt)Consecrated Bishop:1836.07.24Died:1855.09.28Titular Bishop of Alia (1832.06.22 – 1855.09.28)Vicar Apostolic of Alexandria of the Copts (Egypt) (1832.06.22 – 1855.09.28)Patriarch Maximus Givaid  (1824.08.15 – 1831.08.30)Born:1778.04.02 (Girgette, Egypt)Ordained Priest:1806Consecrated Bishop:1825.11.13Died:1831.08.30 († 53)Titular Bishop of Uthina (1824.03.09 – 1824.08.15)Patriarch of Alexandria of the Copts (1824.08.15 – 1831.08.30)Vicar Apostolic of Alexandria of the Copts (Egypt) (1824.08.15 – 1831.08.30)Fr. Mathieu Righet  (1788.04.21 – 1822)Died:1822Vicar Apostolic of Alexandria of the Copts (Egypt) (1788.04.21 – 1822)Titular Bishop of Utica (1815.03.20 – 1822 not possessed)Bishop Jean Farargi  (1781 – 1788)Died:1788Vicar Apostolic of Alexandria of the Copts (Egypt) (1781 – 1788)Bishop Athanasios  (1741 – 1744)Vicar Apostolic of Alexandria of the Copts (Egypt) (1741 – 1744)Former PrelatesAuxiliary Bishop: Bishop Youhanna Kabès (1958.06.07 – 1985.06.28)Special ChurchesCathedral:  Cathédrale Notre-Dame d’Egypte, Cairo, Cairo Cathedral:  Cathédrale de la Résurrection, Alexandria, Alexandria Show MapIsmayliah (→), Guizeh (↓)Statistics (2022.12.31)Population: 45,550 CatholicsPastoral Centres: 44 parishesPersonnel: 45 priests (diocesan), 2 deacons, 205 religious (43 brothers, 162 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "alex2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 44
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

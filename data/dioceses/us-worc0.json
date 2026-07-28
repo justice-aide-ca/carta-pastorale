@@ -1,0 +1,29 @@
+{
+  "id": "us-worc0",
+  "nom": "Worcester",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Worcester / Vigornien(sis) (Latin)Ecclesiastical Province: BostonNeighbouring Dioceses: Norwich (↙), Springfield in Massachusetts (←), Manchester (↑), Boston (→), Providence (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1950.01.14: Established as Diocese of Worcester / Vigornien(sis) (Latin) (from Diocese of Springfield in Massachusetts and became suffragan of Boston)Contact InfoAddress: 49 Elm St., Worcester, MA 01609, USAPhone: +1 (508) 791-7171Present PrelatesBishop (2004.03.09 – ...):Bishop Robert Joseph McManus (75)Monsignors (33)OrdinariesBishops of Worcester (Roman Rite)Bishop Robert Joseph McManus (75)  (2004.03.09 – ...)Bishop of Worcester (USA)Christus veritatis splendorBorn:1951.07.05 (Providence, RI, USA)Ordained Priest:1978.05.27Consecrated Bishop:1999.02.22Priest of Providence (USA) (1978.05.27 – 1998.12.01)Prelate of Honour of His Holiness (1997.02.28 – 1998.12.01)Titular Bishop of Allegheny (1998.12.01 – 2004.03.09)Auxiliary Bishop of Providence (USA) (1998.12.01 – 2004.03.09)Bishop of Worcester (USA) (2004.03.09 – ...)Apostolic Administrator of Springfield in Massachusetts (USA) (2020.08.25 – 2020.10.14)Bishop Daniel Patrick Reilly  (1994.10.27 – 2004.03.09)In kindness and in truthBorn:1928.05.12 (Providence, RI, USA)Ordained Priest:1953.05.30Consecrated Bishop:1975.08.06Died:2024.06.18 (Shrewsbury, MA, USA † 96)Priest of Providence (USA) (1953.05.30 – 1975.06.05)Bishop of Norwich (USA) (1975.06.05 – 1994.10.27)Bishop of Worcester (USA) (1994.10.27 – 2004.03.09)Bishop Timothy Joseph Harrington  (1983.09.01 – 1994.10.27)Born:1918.12.19 (Holyoke, MA, USA)Ordained Priest:1946.01.19Consecrated Bishop:1968.07.02Died:1997.03.23 (Worcester, MA, USA † 78)Priest of Springfield in Massachusetts (USA) (1946.01.19 – 1968.04.02)Titular Bishop of Rusuca (1968.04.02 – 1983.09.01)Auxiliary Bishop of Worcester (USA) (1968.04.02 – 1983.09.01)Bishop of Worcester (USA) (1983.09.01 – 1994.10.27)Bishop Bernard Joseph Flanagan  (1959.08.08 – 1983.03.31)Respice ad MariamBorn:1908.03.31 (Proctor, VT, USA)Ordained Priest:1931.12.08Consecrated Bishop:1953.11.30Died:1998.01.28 (Worcester, MA, USA † 89)Priest of Burlington (USA) (1931.12.08 – 1953.09.01)Bishop of Norwich (USA) (1953.09.01 – 1959.08.08)Bishop of Worcester (USA) (1959.08.08 – 1983.03.31)Bishop John Joseph Wright (later Cardinal)  (1950.01.28 – 1959.01.23)Resonare ChristumBorn:1909.07.18 (Boston, MA, USA)Ordained Priest:1935.12.08Consecrated Bishop:1947.06.30Created Cardinal:1969.04.28Died:1979.08.10 (Cambridge, MA, USA † 70)Priest of Boston (USA) (1935.12.08 – 1947.05.10)Privy Chamberlain Supernumerary (1944.12.17 – 1947.05.10)Titular Bishop of Ægeæ (1947.05.10 – 1950.01.28)Auxiliary Bishop of Boston (USA) (1947.05.10 – 1950.01.28)Bishop of Worcester (USA) (1950.01.28 – 1959.01.23)Bishop of Pittsburgh (USA) (1959.01.23 – 1969.04.23)Prefect of Sacred Congregation for Clergy (1969.04.23 – 1979.08.10)Cardinal-Priest of Gesù Divin Maestro alla Pineta Sacchetti (1969.04.30 – 1979.08.10)Former PrelatesAuxiliary Bishop: Bishop George Edward Rueger (1987.01.16 – 2005.01.25)Auxiliary Bishop: Bishop Timothy Joseph Harrington (1968.04.02 – 1983.09.01)Special ChurchesCathedral:  St. Paul’s Cathedral, Worcester, Massachusetts Minor Basilica:  St. Joseph Basilica, Webster, Massachusetts Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (86)Show MapNorwich (↙), Springfield in Massachusetts (←), Manchester (↑), Boston (→), Providence (↘)Statistics (2022.12.31)Area: 3,966 km²Population: 294,300 Catholics (34.1% of 863,000 total)Pastoral Centres: 91 parishes, 2 missionsPersonnel: 223 priests (165 diocesan, 58 religious), 107 deacons, 278 religious (112 brothers, 166 sisters), 20 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "worc0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 863000,
+    "catholiques": 294300,
+    "pourcentage_catholiques": 34.1
+  },
+  "ressources": {
+    "pretres_diocesains": 165,
+    "pretres_religieux": null,
+    "total_pretres": 223,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 91
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "us-colo2",
+  "nom": "Colorado Springs",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Colorado Springs / Coloratensium Fontium (Latin)Ecclesiastical Province: DenverNeighbouring Dioceses: Denver (↑), Salina (→), Dodge City (↘), Pueblo (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Our Lady of Guadalupe (December 12), Saint Francis of Assisi (October 4)Cathedral Dedication Anniversary: June 1Liturgical Calendar 📅History1983.11.10: Established as Diocese of Colorado Springs / Coloratensium Fontium (Latin) (from Metropolitan Archdiocese of Denver and Diocese of Pueblo and became suffragan of Denver)Contact InfoAddress: 228 N. Cascade Ave., Colorado Springs, CO 80903-1498, USAPhone: +1 (719) 636-2345Present PrelatesBishop:vacantMonsignors (3)OrdinariesBishops of Colorado Springs (Roman Rite)Bishop James Robert Golka (59) (later Archbishop)  (2021.04.30 – 2026.02.07)Metropolitan Archbishop of Denver (USA)Stewards of God’s mysteriesBorn:1966.09.22 (Grand Island, NE, USA)Ordained Priest:1994.06.03Consecrated Bishop:2021.06.29Priest of Grand Island (USA) (1994.06.03 – 2021.04.30)Bishop of Colorado Springs (USA) (2021.04.30 – 2026.02.07)Metropolitan Archbishop of Denver (USA) (2026.02.07 – ...)Bishop Michael John Sheridan  (2003.01.30 – 2021.04.30)Virtus in infirmitate perficiturBorn:1945.03.04 (St. Louis, MO, USA)Ordained Priest:1971.05.29Consecrated Bishop:1997.09.03Died:2022.09.27 (Colorado Springs, CO, USA † 77)Priest of Saint Louis (USA) (1971.05.29 – 1997.07.08)Titular Bishop of Thibiuca (1997.07.08 – 2001.12.04)Auxiliary Bishop of Saint Louis (USA) (1997.07.08 – 2001.12.04)Coadjutor Bishop of Colorado Springs (USA) (2001.12.04 – 2003.01.30)Bishop of Colorado Springs (USA) (2003.01.30 – 2021.04.30)Apostolic Administrator of Pueblo (USA) (2013.06.18 – 2014.01.15)Bishop Richard Charles Patrick Hanifen (95)  (1983.11.10 – 2003.01.30)Bishop emeritus of Colorado Springs (USA)Born:1931.06.15 (Denver, CO, USA)Ordained Priest:1959.06.06Consecrated Bishop:1974.09.20Priest of Denver (USA) (1959.06.06 – 1974.07.06)Titular Bishop of Abercorn (1974.07.06 – 1983.11.10)Auxiliary Bishop of Denver (USA) (1974.07.06 – 1983.11.10)Bishop of Colorado Springs (USA) (1983.11.10 – 2003.01.30)Former PrelatesCoadjutor Bishop: Bishop Michael John Sheridan (2001.12.04 – 2003.01.30)Special ChurchesCathedral:  St. Mary’s Cathedral, Colorado Springs, Colorado Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (44)Show MapDenver (↑), Salina (→), Dodge City (↘), Pueblo (↓)Statistics (2022.12.31)Area: 40,285 km²Population: 194,953 Catholics (16.0% of 1,218,457 total)Pastoral Centres: 39 parishes, 4 missionsPersonnel: 73 priests (50 diocesan, 23 religious), 88 deacons, 96 religious (36 brothers, 60 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "colo2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1218457,
+    "catholiques": 194953,
+    "pourcentage_catholiques": 16.0
+  },
+  "ressources": {
+    "pretres_diocesains": 50,
+    "pretres_religieux": null,
+    "total_pretres": 73,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 39
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ug-kase0",
+  "nom": "Kasese",
+  "pays": "ug",
+  "pays_nom": "Uganda",
+  "continent": "unknown",
+  "type": "Diocese Name: Kasese / Kasesen(sis) (Latin)Ecclesiastical Province: MbararaNeighbouring Dioceses: Butembo–Beni (←), Fort Portal (↗), Mbarara (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1989.03.06: Established as Diocese of Kasese / Kasesen(sis) (Latin) (from Diocese of Fort Portal and without ecclesiastical province)1999.01.02: Became suffragan of MbararaPapal VisitsPope John Paul II (1993.02)Present PrelatesBishop (2014.04.15 – ...):Bishop Francis Aquirinus Kibira (68)Monsignors (1)OrdinariesBishops of Kasese (Roman Rite)Bishop Francis Aquirinus Kibira (68)  (2014.04.15 – ...)Bishop of Kasese (Uganda)Fiat voluntas tuaBorn:1958.04.16 (Kigoto-Bulyansungwe, Uganda)Ordained Priest:1984.09.23Consecrated Bishop:2014.07.12Chaplain of His Holiness (1970.03.20 – 2014.04.15)Priest of Fort Portal (Uganda) (1984.09.23 – 2014.04.15)Bishop of Kasese (Uganda) (2014.04.15 – ...)Bishop Egidio Nkaijanabwo (90)  (1989.03.06 – 2014.04.15)Bishop emeritus of Kasese (Uganda)Yours is the kingdomBorn:1935.08.29 (Rugazi, Uganda)Ordained Priest:1961.05.28Consecrated Bishop:1989.06.17Bishop of Kasese (Uganda) (1989.03.06 – 2014.04.15)Special ChurchesCathedral:  Our Lady Mary of Assumption Cathedral, Kasese, Kasese, Western Show MapButembo–Beni (←), Fort Portal (↗), Mbarara (↘)Statistics (2022.12.31)Area: 3,205 km²Population: 720,223 Catholics (60.0% of 1,200,455 total)Pastoral Centres: 14 parishes, 1 missionPersonnel: 72 priests (70 diocesan, 2 religious), 63 religious (6 brothers, 57 sisters), 32 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kase0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1200455,
+    "catholiques": 720223,
+    "pourcentage_catholiques": 60.0
+  },
+  "ressources": {
+    "pretres_diocesains": 70,
+    "pretres_religieux": null,
+    "total_pretres": 72,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tz-shin0",
+  "nom": "Shinyanga",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Shinyanga / Shinyangaën(sis) (Latin)Ecclesiastical Province: MwanzaNeighbouring Dioceses: Kahama (←), Mwanza (↑), Bariadi (↗), Tabora (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1950.06.24: Established as Apostolic Vicariate of Maswa / Masvæn(sis) (Latin) (from Apostolic Vicariate of Musoma-Maswa)1953.03.25: Promoted as Diocese of Maswa / Masvæn(sis) (Latin) (became suffragan of Tabora)1956.08.09: Renamed as Diocese of Shinyanga / Shinyangaën(sis) (Latin)1987.11.18: Became suffragan of Mwanza2026.01.08: Lost territory to establish Diocese of BariadiPresent PrelatesBishop (2015.02.02 – ...):Bishop Liberatus Sangu (63)Monsignors (4)OrdinariesBishops of Shinyanga (Roman Rite)Bishop Liberatus Sangu (63)  (2015.02.02 – ...)Bishop of Shinyanga (Tanzania)Fructus spiritus caritasBorn:1963.02.19 (Mwazye, Tanzania)Ordained Priest:1994.07.09Consecrated Bishop:2015.04.12Priest of Moshi (Tanzania) (1994.07.09 – 2015.02.02)Bishop of Shinyanga (Tanzania) (2015.02.02 – ...)Archbishop Jude Thaddaeus Ruwa’ichi, O.F.M. Cap. (72)  (Apostolic Administrator 2013 – 2015.02.02)Bishop Aloysius Balina  (1997.08.08 – 2012.11.06)Born:1945.06.21 (Isoso, Tanzania)Ordained Priest:1971.06.27Consecrated Bishop:1985.01.06Died:2012.11.06 (Mwanza, Tanzania † 67)Priest of Shinyanga (Tanzania) (1971.06.27 – 1984.11.08)Bishop of Geita (Tanzania) (1984.11.08 – 1997.08.08)Bishop of Shinyanga (Tanzania) (1997.08.08 – 2012.11.06)Apostolic Administrator of Geita (Tanzania) (1997.09.23 – 2000.04.04)Bishop Castor Sekwa  (1975.01.30 – 1996.06.04)Born:1927.03.28 (Sayusayu, Tanzania)Ordained Priest:1959.08.15Consecrated Bishop:1975.05.18Died:1996.06.04 († 69)Priest of Shinyanga (Tanzania) (1959.08.15 – 1975.01.30)Bishop of Shinyanga (Tanzania) (1975.01.30 – 1996.06.04)Bishop Edward Aloysius McGurkin, M.M.  (1956.07.04 – 1975.01.30)Born:1905.06.22 (Hartford, CT, USA)Ordained Priest:1930.09.14Consecrated Bishop:1956.10.03Died:1983.08.28 (North Tarrytown, NY, USA † 78)Bishop of Shinyanga (Tanzania) (1956.07.04 – 1975.01.30)Bishop Joseph Blomjous, M. Afr.  (Apostolic Administrator 1950.06.27 – 1953.03.25)Special ChurchesCathedral:  Cathedral of Mater Misericordiae, Shinyanga, Shinyanga Show MapKahama (←), Mwanza (↑), Bariadi (↗), Tabora (↓)Statistics (2026)Area: 14,862 km²Population: 514,000 Catholics (16.0% of 3,221,539 total)Pastoral Centres: 24 parishesPersonnel: 63 priests (53 diocesan, 10 religious), 51 religious (7 brothers, 44 sisters), 56 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "shin0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3221539,
+    "catholiques": 514000,
+    "pourcentage_catholiques": 16.0
+  },
+  "ressources": {
+    "pretres_diocesains": 53,
+    "pretres_religieux": null,
+    "total_pretres": 63,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

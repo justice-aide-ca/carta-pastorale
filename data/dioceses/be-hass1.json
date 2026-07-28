@@ -1,0 +1,29 @@
+{
+  "id": "be-hass1",
+  "nom": "Hasselt",
+  "pays": "be",
+  "pays_nom": "Belgium",
+  "continent": "unknown",
+  "type": "Diocese Name: Hasselt / Hasseleten(sis) (Latin)Ecclesiastical Province: Mechelen–BrusselNeighbouring Dioceses: Mechelen–Brussel (←), Antwerpen (↖), ’s-Hertogenbosch (↑), Roermond (↗), Liège (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Maria, Oorzaak onze Blijdschap (September 8)Cathedral Dedication Anniversary: September 23Liturgical Calendar 📅History1967.05.31: Established as Diocese of Hasselt / Hasseleten(sis) (Latin) (from Diocese of Liège and became suffragan of Mechelen–Brussel)Contact InfoAddress: Bisdom, Vrijwilligersplein 14, B-3500 Hasselt, BelgiumPhone: (011) 28.84.40Present PrelatesBishop (2004.10.25 – ...):Bishop Patrick Hoogmartens (74)Vice-President of Episcopal Conference of BelgiumMonsignors (1)OrdinariesBishops of Hasselt (Roman Rite)Bishop Patrick Hoogmartens (74)  (2004.10.25 – ...)Bishop of Hasselt (Belgium)Vice-President of Episcopal Conference of BelgiumNiet om te oordelen, maar om te reddenBorn:1952.05.19 (Tongeren, Belgium)Ordained Priest:1982.07.04Consecrated Bishop:1997.10.26Priest of Hasselt (Belgium) (1982.07.04 – 1997.07.08)Coadjutor Bishop of Hasselt (Belgium) (1997.07.08 – 2004.10.25)Bishop of Hasselt (Belgium) (2004.10.25 – ...)Vice-President of Episcopal Conference of Belgium (2023.10.12 – ...)Bishop Paul Schruers  (1989.12.15 – 2004.10.25)In ons midden ChristusBorn:1929.10.25 (Hasselt, Belgium)Ordained Priest:1954.12.08Consecrated Bishop:1970.05.31Died:2008.08.24 († 78)Priest of Liège (Belgium) (1954.12.08 – 1967.05.31)Priest of Hasselt (Belgium) (1967.05.31 – 1970.04.25)Auxiliary Bishop of Hasselt (Belgium) (1970.04.25 – 1972.09.12)Titular Bishop of Slebte (1970.04.25 – 1989.12.15)Coadjutor Bishop of Hasselt (Belgium) (1972.09.12 – 1989.12.15)Bishop of Hasselt (Belgium) (1989.12.15 – 2004.10.25)Bishop Jozef-Maria Heuschen  (1967.06.13 – 1989.12.15)Credidimus caritatiBorn:1915.07.12 (Tongeren, Belgium)Ordained Priest:1939.09.11Consecrated Bishop:1962.09.21Died:2002.07.01 († 86)Titular Bishop of Druas (1962.07.25 – 1967.06.13)Auxiliary Bishop of Liège (Belgium) (1962.07.25 – 1967.06.13)Bishop of Hasselt (Belgium) (1967.06.13 – 1989.12.15)Former PrelatesCoadjutor Bishop: Bishop Patrick Hoogmartens (74) (1997.07.08 – 2004.10.25)Coadjutor Bishop: Bishop Paul Schruers (1972.09.12 – 1989.12.15)Auxiliary Bishop: Bishop Paul Schruers (1970.04.25 – 1972.09.12)Special ChurchesCathedral:  Kathedraal Sint-Quintinus, Hasselt, Limburg, Vlaanderen Former Cathedral, Minor Basilica, World Heritage Site:  Onze-Lieve-Vrouwe-Geboorte Basiliek, Tongeren, Limburg, Vlaanderen Minor Basilica:  Onze-Lieve-Vrouwe-Tenhemelopneming Basiliek, Kortenbos, Limburg, Vlaanderen Minor Basilica:  Virga-Jessebasiliek, Hasselt, Limburg, Vlaanderen Jubilee Churches in the Holy Year 2025Churches by City (319)Show MapMechelen–Brussel (←), Antwerpen (↖), ’s-Hertogenbosch (↑), Roermond (↗), Liège (↓)Statistics (2022.12.31)Area: 2,422 km²Population: 640,223 Catholics (72.0% of 889,199 total)Pastoral Centres: 296 parishesPersonnel: 232 priests (153 diocesan, 79 religious), 77 deacons, 393 religious (110 brothers, 283 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "hass1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 889199,
+    "catholiques": 640223,
+    "pourcentage_catholiques": 72.0
+  },
+  "ressources": {
+    "pretres_diocesains": 153,
+    "pretres_religieux": null,
+    "total_pretres": 232,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 296
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

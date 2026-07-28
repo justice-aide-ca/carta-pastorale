@@ -1,0 +1,29 @@
+{
+  "id": "br-fred0",
+  "nom": "Frederico Westphalen",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Frederico Westphalen / Vestphalenian(us) (Latin)Ecclesiastical Province: Passo FundoNeighbouring Dioceses: Santo Ângelo (↙), Oberá (←), Puerto Iguazú (↖), Chapecó (↗), Erexim (→), Passo Fundo (↘), Cruz Alta (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Blessed Emmanuel Gómez González, Blessed Adilio DaronchCathedral Dedication Anniversary: January 31 (1960)Liturgical Calendar (National) 📅History1961.05.22: Established as Diocese of Frederico Westphalen / Vestphalenian(us) (Latin) (from Diocese of Passo Fundo and Diocese of Santa Maria and became suffragan of Porto Alegre)2011.04.13: Became suffragan of Passo FundoPresent PrelatesBishop (2008.06.11 – ...):Bishop Antônio Carlos Rossi Keller (73)Monsignors (5)OrdinariesBishops of Frederico Westphalen (Roman Rite)Bishop Antônio Carlos Rossi Keller (73)  (2008.06.11 – ...)Bishop of Frederico Westphalen (Brazil)Illum oportet crescereBorn:1953.02.23 (São Paulo, SP, Brazil)Ordained Priest:1977.06.24Consecrated Bishop:2008.08.02Priest of São Paulo (Brazil) (1977.06.24 – 2008.06.11)Bishop of Frederico Westphalen (Brazil) (2008.06.11 – ...)Bishop Zeno Hastenteufel  (2001.12.12 – 2007.03.28)Nuntio Vobis GaudiumBorn:1946.06.14 (Linha Rodrigues da Rosa, RS, Brazil)Ordained Priest:1972.07.08Consecrated Bishop:2002.03.08Died:2025.04.30 (Porto Alegre, RS, Brazil † 78)Priest of Porto Alegre (Brazil) (1972.07.08 – 2001.12.12)Bishop of Frederico Westphalen (Brazil) (2001.12.12 – 2007.03.28)Bishop of Novo Hamburgo (Brazil) (2007.03.28 – 2022.01.19)Bishop Bruno Maldaner  (1971.05.27 – 2001.12.12)Sentire cum EcclesiaBorn:1924.08.04 (Pinhal Alto, RS, Brazil)Ordained Priest:1950.12.08Consecrated Bishop:1966.06.29Died:2008.11.16 (Ijuí, RS, Brazil † 84)Titular Bishop of Aquæ in Mauretania (1966.04.15 – 1971.05.27)Auxiliary Bishop of São Paulo (Brazil) (1966.04.15 – 1971.05.27)Bishop of Frederico Westphalen (Brazil) (1971.05.27 – 2001.12.12)Bishop João Aloysio Hoffmann  (1962.03.26 – 1971.05.27)Messis in semineBorn:1919.06.24 (São Leopoldo, RS, Brazil)Ordained Priest:1943.12.19Consecrated Bishop:1962.06.10Died:1998.06.27 (Erechim, RS, Brazil † 79)Bishop of Frederico Westphalen (Brazil) (1962.03.26 – 1971.05.27)Bishop of Erexim (Brazil) (1971.05.27 – 1994.01.26)Special ChurchesCathedral:  Catedral Santo Antônio, Frederico Westphalen, Rio Grande do Sul Churches by City (39)Show MapSanto Ângelo (↙), Oberá (←), Puerto Iguazú (↖), Chapecó (↗), Erexim (→), Passo Fundo (↘), Cruz Alta (↓)Statistics (2022.12.31)Area: 11,473 km²Population: 277,692 Catholics (75.0% of 370,143 total)Pastoral Centres: 40 parishes, 3 missionsPersonnel: 77 priests (62 diocesan, 15 religious), 4 deacons, 127 religious (48 brothers, 79 sisters), 35 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "fred0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 370143,
+    "catholiques": 277692,
+    "pourcentage_catholiques": 75.0
+  },
+  "ressources": {
+    "pretres_diocesains": 62,
+    "pretres_religieux": null,
+    "total_pretres": 77,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ng-ijeb0",
+  "nom": "Ijebu-Ode",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Ijebu-Ode / Iiebuoden(sis) (Latin)Ecclesiastical Province: LagosNeighbouring Dioceses: Lagos (↙), Abeokuta (↖), Ibadan (↑), Osogbo (↗), Ondo (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1969.05.29: Established as Diocese of Ijebu-Ode / Iiebuoden(sis) (Latin) (from Metropolitan Archdiocese of Lagos and became suffragan of Lagos)Present PrelatesBishop (2019.01.17 – ...):Bishop Francis Obafemi Adesina (62)Monsignors (4)OrdinariesBishops of Ijebu-Ode (Roman Rite)Bishop Francis Obafemi Adesina (62)  (2019.01.17 – ...)Bishop of Ijebu-Ode (Nigeria)Domine, fac me servum pacis tuæBorn:1964.01.28 (Wenchi, Ghana)Ordained Priest:1989.10.14Consecrated Bishop:2019.04.25Priest of Oyo (Nigeria) (1989.10.14 – 1995.03.03)Priest of Osogbo (Nigeria) (1995.03.03 – 2019.01.17)Bishop of Ijebu-Ode (Nigeria) (2019.01.17 – ...)Bishop Albert Ayinde Fasina  (1990.08.14 – 2019.01.17)Born:1939.07.08 (Odolewu, Nigeria)Ordained Priest:1980.03.03Consecrated Bishop:1988.09.10Died:2021.06.29 (Ijebu Ode, Nigeria † 81)Priest of Ijebu-Ode (Nigeria) (1980.03.03 – 1988.06.21)Coadjutor Bishop of Ijebu-Ode (Nigeria) (1988.06.21 – 1990.08.14)Bishop of Ijebu-Ode (Nigeria) (1990.08.14 – 2019.01.17)Bishop Anthony Saliu Sanusi  (1969.05.29 – 1990.08.14)Born:1911.01.02 (Iperu, Nigeria)Ordained Priest:1944.12.17Consecrated Bishop:1969.08.01Died:2009.12.08 († 98)Priest of Lagos (Nigeria) (1944.12.17 – 1969.05.29)Bishop of Ijebu-Ode (Nigeria) (1969.05.29 – 1990.08.14)Apostolic Administrator of Lagos (Nigeria) (1972.09.19 – 1973.04.13)Former PrelatesCoadjutor Bishop: Bishop Albert Ayinde Fasina (1988.06.21 – 1990.08.14)Special ChurchesCathedral:  Cathedral of St. Sebastian, Ijebu-Ode, Ogun Show MapLagos (↙), Abeokuta (↖), Ibadan (↑), Osogbo (↗), Ondo (→)Statistics (2022.12.31)Area: 5,690 km²Population: 84,774 Catholics (3.9% of 2,195,799 total)Pastoral Centres: 41 parishesPersonnel: 52 priests (48 diocesan, 4 religious), 200 religious (98 brothers, 102 sisters), 22 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ijeb0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2195799,
+    "catholiques": 84774,
+    "pourcentage_catholiques": 3.9
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 52,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 41
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

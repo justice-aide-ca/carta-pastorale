@@ -1,0 +1,29 @@
+{
+  "id": "gh-donk0",
+  "nom": "Donkorkrom",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Donkorkrom / Donkorkromen(sis) (Latin)Ecclesiastical Province: AccraNeighbouring Dioceses: Konongo–Mampong (←), Ho (→), Koforidua (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2007.06.12: Established as Apostolic Prefecture of Donkorkrom / Donkorkromen(sis) (Latin) (from Diocese of Koforidua)2010.01.19: Promoted as Apostolic Vicariate of Donkorkrom / Donkorkromen(sis) (Latin)2026.05.12: Promoted as Diocese of Donkorkrom / Donkorkromen(sis) (Latin) (became suffragan of Accra)Present PrelatesBishop (2026.05.12 – ...):Bishop John Alphonse Asiedu, S.V.D. (64)OrdinariesBishops of Donkorkrom (Roman Rite)Bishop John Alphonse Asiedu, S.V.D. (64)  (2026.05.12 – ...)Bishop of Donkorkrom (Ghana)Fidelity love serviceBorn:1962.05.12 (Adeemmra, Afram Plains, Ghana)Ordained Priest:1997.07.19Consecrated Bishop:2019.05.04Vicar Apostolic of Donkorkrom (Ghana) (2019.02.11 – 2026.05.12)Bishop of Donkorkrom (Ghana) (2026.05.12 – ...)Vicars Apostolic of Donkorkrom (Roman Rite)Bishop John Alphonse Asiedu, S.V.D. (64)  (2019.02.11 – 2026.05.12)(see above)Bishop Gabriel Edoe Kumordji, S.V.D. (70)  (2010.01.19 – 2017.03.16)Bishop of Keta–Akatsi (Ghana)Adveniat regnum tuumBorn:1956.03.24 (Accra, Ghana)Ordained Priest:1985.07.14Consecrated Bishop:2010.04.17Prefect Apostolic of Donkorkrom (Ghana) (2007.06.12 – 2010.01.19)Titular Bishop of Ita (2010.01.19 – 2017.03.16)Vicar Apostolic of Donkorkrom (Ghana) (2010.01.19 – 2017.03.16)Bishop of Keta–Akatsi (Ghana) (2017.03.16 – ...)Prefects Apostolic of Donkorkrom (Roman Rite)Fr. Gabriel Edoe Kumordji, S.V.D. (70) (later Bishop)  (2007.06.12 – 2010.01.19)(see above)Special ChurchesCathedral:  Cathedral of St. Francis Xavier, Donkorkrom, Eastern Show MapKonongo–Mampong (←), Ho (→), Koforidua (↓)Statistics (2022.12.31)Area: 5,040 km²Population: 37,253 Catholics (12.2% of 305,280 total)Pastoral Centres: 9 parishesPersonnel: 18 priests (9 diocesan, 9 religious), 30 religious (9 brothers, 21 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "donk0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 305280,
+    "catholiques": 37253,
+    "pourcentage_catholiques": 12.2
+  },
+  "ressources": {
+    "pretres_diocesains": 9,
+    "pretres_religieux": null,
+    "total_pretres": 18,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 9
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

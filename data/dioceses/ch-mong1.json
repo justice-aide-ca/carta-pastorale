@@ -1,0 +1,29 @@
+{
+  "id": "ch-mong1",
+  "nom": "Mongo",
+  "pays": "ch",
+  "pays_nom": "Chad",
+  "continent": "unknown",
+  "type": "Apostolic Vicariate Name: Mongo / Mongen(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: N’Djaména (←), Benghazi (↑), El Obeid (→), Bambari (↘), Kaga-Bandoro (↘), Sarh (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2001.12.01: Established as Apostolic Prefecture of Mongo / Mongen(sis) (Latin) (from Metropolitan Archdiocese of N’Djaména and Diocese of Sarh)2009.06.03: Promoted as Apostolic Vicariate of Mongo / Mongen(sis) (Latin)Present PrelatesVicar Apostolic (2020.12.14 – ...):Bishop Philippe Abbo Chen, N.D.V. (64)OrdinariesVicars Apostolic of Mongo (Roman Rite)Bishop Philippe Abbo Chen, N.D.V. (64)  (2020.12.14 – ...)Vicar Apostolic of Mongo (Chad)Born:1962.05.10 (Dadouar, Chad)Ordained Priest:1997.05.17Consecrated Bishop:2021.02.27Vicar Apostolic of Mongo (Chad) (2020.12.14 – ...)Bishop Henri Coudray, S.J. (84)  (2009.06.03 – 2020.12.14)Titular Bishop of SilliVicar Apostolic emeritus of Mongo (Chad)Désir de la sagesse de la foiBorn:1942.06.22 (Pont-de-Beauvoisin, France)Ordained Priest:1973.06.30Consecrated Bishop:2009.11.29Prefect Apostolic of Mongo (Chad) (2001.12.01 – 2009.06.03)Vicar Apostolic of Mongo (Chad) (2009.06.03 – 2020.12.14)Titular Bishop of Silli (2009.06.03 – ...)Prefects Apostolic of Mongo (Roman Rite)Fr. Henri Coudray, S.J. (84) (later Bishop)  (2001.12.01 – 2009.06.03)(see above)Special ChurchesCathedral:  Cathédrale Saint-Ignace, Mongo, Guéra Show MapN’Djaména (←), Benghazi (↑), El Obeid (→), Bambari (↘), Kaga-Bandoro (↘), Sarh (↓)Statistics (2022.12.31)Area: 540,000 km²Population: 10,400 Catholics (0.3% of 3,856,000 total)Pastoral Centres: 6 parishes, 1 missionPersonnel: 14 priests (4 diocesan, 10 religious), 21 religious (13 brothers, 8 sisters), 5 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mong1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3856000,
+    "catholiques": 10400,
+    "pourcentage_catholiques": 0.3
+  },
+  "ressources": {
+    "pretres_diocesains": 4,
+    "pretres_religieux": null,
+    "total_pretres": 14,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

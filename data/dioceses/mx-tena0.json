@@ -1,0 +1,29 @@
+{
+  "id": "mx-tena0",
+  "nom": "Tenancingo",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Tenancingo (español) / Tenancingana (Latin)Ecclesiastical Province: TolucaNeighbouring Dioceses: Ciudad Altamirano (←), Toluca (↑), Cuernavaca (→), Chilpancingo–Chilapa (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2009.11.26: Established as Diocese of Tenancingo (español) / Tenancingana (Latin) (from Diocese of Toluca and became suffragan of México)2019.09.28: Became suffragan of TolucaPresent PrelatesBishop (2024.04.03 – ...):Bishop Víctor Carabés Chávez, M.N.M. (63)OrdinariesBishops of Tenancingo (Roman Rite)Bishop Víctor Carabés Chávez, M.N.M. (63)  (2024.04.03 – ...)Bishop of Tenancingo (Mexico)Reinen en nuestros corazonesBorn:1963.07.10 (Ciudad de México, Mexico)Ordained Priest:1991.07.02Consecrated Bishop:2024.07.13Superior General of Missionaries of the Nativity of Mary (2009.06.26 – 2021.07)Bishop of Tenancingo (Mexico) (2024.04.03 – ...)Bishop Raúl Gómez González (72) (later Archbishop)  (2009.11.26 – 2022.03.19)Metropolitan Archbishop of Toluca (Mexico)In nomine DominiBorn:1954.02.17 (Capilla de Guadalupe, JAL, Mexico)Ordained Priest:1983.04.23Consecrated Bishop:2010.01.25Priest of San Juan de los Lagos (Mexico) (1983.04.23 – 2009.11.26)Bishop of Tenancingo (Mexico) (2009.11.26 – 2022.03.19)Metropolitan Archbishop of Toluca (Mexico) (2022.03.19 – ...)Special ChurchesCathedral:  Catedral de El Calvario, Tenancingo de Degollado, México Churches by City (41)Show MapCiudad Altamirano (←), Toluca (↑), Cuernavaca (→), Chilpancingo–Chilapa (↓)Statistics (2022.12.31)Area: 3,025 km²Population: 470,509 Catholics (92.2% of 510,362 total)Pastoral Centres: 33 parishesPersonnel: 58 priests (43 diocesan, 15 religious), 92 religious (17 brothers, 75 sisters), 23 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tena0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 510362,
+    "catholiques": 470509,
+    "pourcentage_catholiques": 92.2
+  },
+  "ressources": {
+    "pretres_diocesains": 43,
+    "pretres_religieux": null,
+    "total_pretres": 58,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

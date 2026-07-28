@@ -1,0 +1,29 @@
+{
+  "id": "le-beir5",
+  "nom": "Beirut",
+  "pays": "le",
+  "pays_nom": "Lebanon",
+  "continent": "unknown",
+  "type": "Diocese , Proper eparchy of the Syriac PatriarchName: Beirut / Beyrouth (français) / Bairut / Beryten(sis) Syrorum (Latin)Governed by: Patriarchal See of AntiochNeighbouring Dioceses: Homs (↗), Damascus (→), Jerusalem (Palestine and Jordan) (↓)Depends on: Dicastery for the Eastern ChurchesHistory1817: Established as Diocese of Beirut / Beyrouth (français) / Bairut / Beryten(sis) Syrorum (Latin) (became suffragan of Antioch)Papal VisitsPope Benedict XVI (2012.09)Present PrelatesPatriarch ([2009.01.20] 2009.01.22 – ...):Patriarch Ignace Youssif III Younan (81)President of Synod of the Syriac Catholic ChurchOrdinariesBishops of Beirut (Syriac Rite)Archbishop Théophile Georges Kassab  (Apostolic Administrator 2008.02.02 – 2009.01.20)Archbishop Efrem Rahmani (later Patriarch)  (1890.09.20 – 1894.05.01)Born:1848.10.09 (Mossul, Iraq)Ordained Priest:1873.04.12Consecrated Bishop:1887.10.02Died:1929.05.07 (Cairo, Egypt † 80)Titular Archbishop of Edessa in Osrhoëne of the Syriacs (1887.10.02 – 1890.09.20)Archbishop-Bishop of Beirut of the Syriacs (Lebanon) (1890.09.20 – 1894.05.01)Archbishop of Aleppo of the Syriacs (Syria) (1894.05.01 – 1898.10.09)Bishop of Mardin and Amida of the Syriacs (Turkiye) (1898.10.09 – 1929.05.07)Patriarch of Antioch of the Syriacs (Lebanon) ([1898.10.09] 1898.11.28 – 1929.05.07)Bishop Youssef Hayek  (1841.03.19 – 1866)Consecrated Bishop:1841.03.19Died:1866Bishop of Beirut of the Syriacs (Lebanon) (1841.03.19 – 1866)Patriarch Ignace Pierre VII Jaroûë (Pierre Jaroûë)  (1828.01.28 – 1841)Born:1777.07.09 (Aleppo, Syria)Ordained Priest:1802.06.12Consecrated Bishop:1810.09.14Died:1851.10.16 (Aleppo, Syria † 74)Archbishop of Jerusalem of the Syriacs (Israel) (1810 – 1820.02.25)Bishop of Beirut of the Syriacs (Lebanon) (1828.01.28 – 1841)Patriarch of Antioch of the Syriacs (Lebanon) ([1820.02.25] 1828.01.28 – 1851.10.16)Special ChurchesCathedral:  Cathedral of St. George, Beirut, Beirut Show MapHoms (↗), Damascus (→), Jerusalem (Palestine and Jordan) (↓)Statistics (2017.12.31)Population: 32,000 CatholicsPastoral Centres: 6 parishesPersonnel: 13 priests (11 diocesan, 2 religious), 6 deacons, 17 religious (7 brothers, 10 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "beir5",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 11,
+    "pretres_religieux": null,
+    "total_pretres": 13,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

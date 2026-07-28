@@ -1,0 +1,35 @@
+{
+  "id": "rw-cyangugu0",
+  "nom": "Cyangugu",
+  "pays": "rw",
+  "continent": "afrique",
+  "type": "Diocese",
+  "annee_donnees": 2022,
+  "territoire": {
+    "superficie_km2": 1125,
+    "population_totale": 804811,
+    "catholiques": 337461,
+    "pourcentage_catholiques": 41.9
+  },
+  "ressources": {
+    "pretres_diocesains": 80,
+    "pretres_religieux": 9,
+    "total_pretres": 89,
+    "religieux_freres": 37,
+    "religieuses": 189,
+    "total_religieux": 226,
+    "seminarians": 38,
+    "diacres_permanents": null,
+    "paroisses": 21,
+    "missions": 1
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org + Statistiques 2022",
+  "derniere_mise_a_jour": "2026-07-14",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Cyangugu",
+    "conference_episcopale": "https://www.eglisecatholiquerwanda.org/"
+  }
+}

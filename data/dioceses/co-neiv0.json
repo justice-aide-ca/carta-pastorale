@@ -1,0 +1,29 @@
+{
+  "id": "co-neiv0",
+  "nom": "Neiva",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Neiva / Neiven(sis) (Latin)Ecclesiastical Province: IbaguéNeighbouring Dioceses: Garzón (↙), Tierradentro (←), Espinal (↑), Granada (→), San Vicente del Caguán (↘), Florencia (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1894.08.30: Established as Diocese of Tolima (from Metropolitan Archdiocese of Santafé en Nueva Granada and Diocese of Popayán and became suffragan of Santafé en Nueva Granada)1900.05.20: Suppressed (to Diocese of Popayán and to establish Diocese of Garzón and Diocese of Ibagué)1972.07.24: Restored as Diocese of Neiva / Neiven(sis) (Latin) (from Diocese of Garzón–Neiva and became suffragan of Popayán)1974.12.14: Became suffragan of IbaguéPresent PrelatesBishop (2023.04.14 – ...):Bishop Marco Antonio Merchán Ladino (56)OrdinariesBishops of Neiva (Roman Rite)Bishop Marco Antonio Merchán Ladino (56)  (2023.04.14 – ...)Bishop of Neiva (Colombia)Tu scis quia amo teBorn:1970.04.28 (Monguí, Colombia)Ordained Priest:1996.11.23Consecrated Bishop:2016.12.03Priest of Duitama–Sogamoso (Colombia) (1996.11.23 – 2016.10.26)Bishop of Vélez (Colombia) (2016.10.26 – 2023.04.14)Bishop of Neiva (Colombia) (2023.04.14 – ...)Apostolic Administrator of Tierradentro (Colombia) (2024.07.29 – 2026.05.12)Bishop Froilán Tiberio Casas Ortíz (78)  (2012.02.04 – 2023.04.14)Bishop emeritus of Neiva (Colombia)Born:1948.05.21 (Chiquinquirá, Colombia)Ordained Priest:1972.12.09Consecrated Bishop:2012.03.24Priest of Tunja (Colombia) (1972.12.09 – 2012.02.04)Bishop of Neiva (Colombia) (2012.02.04 – 2023.04.14)Bishop Ramón Darío Molina Jaramillo, O.F.M.  (2001.01.19 – 2012.02.04)Born:1935.08.31 (Envigado, Colombia)Ordained Priest:1961.10.26Consecrated Bishop:1977.06.29Died:2018.10.14 (Medellín, Colombia † 83)Titular Bishop of Timici (1977.05.06 – 1984.03.23)Auxiliary Bishop of Bogotá (Colombia) (1977.05.06 – 1984.03.23)Bishop of Montería (Colombia) (1984.03.23 – 2001.01.19)Bishop of Neiva (Colombia) (2001.01.19 – 2012.02.04)Bishop Hernando Rojas Ramirez  (1985.07.01 – 2001.01.19)Born:1924.12.12 (Choconta, Colombia)Ordained Priest:1947.06.15Consecrated Bishop:1972.06.15Died:2002.02.14 († 77)Titular Bishop of Auca (1972.04.26 – 1974.12.12)Coadjutor Bishop of Espinal (Colombia) (1972.04.26 – 1974.12.12)Bishop of Espinal (Colombia) (1974.12.12 – 1985.07.01)Bishop of Neiva (Colombia) (1985.07.01 – 2001.01.19)Bishop Rafael Sarmiento Peralta (later Archbishop)  (1972.07.24 – 1985.01.12)Born:1914.11.30 (Bucaramanga, Colombia)Ordained Priest:1938.04.16Consecrated Bishop:1963.01.06Died:2000.04.25 (Bogotá, Colombia † 85)Priest of Nueva Pamplona (Colombia) (1938.04.16 – 1952.12.17)Priest of Bucaramanga (Colombia) (1952.12.17 – 1962.10.26)Bishop of Ocaña (Colombia) (1962.10.26 – 1972.07.24)Bishop of Neiva (Colombia) (1972.07.24 – 1985.01.12)Metropolitan Archbishop of Nueva Pamplona (Colombia) (1985.01.12 – 1994.06.21)Bishops of Tolima (Roman Rite)Bishop Esteban Rojas Tobar  (1895.03.18 – 1900.05.20)Ineffabilis DeusBorn:1859.01.15 (El Hato, Colombia)Ordained Priest:1883.03.24Consecrated Bishop:1895.04.21Died:1933.07.28 († 74)Bishop of Tolima (Colombia) (1895.03.18 – 1900.05.20)Bishop of Garzón (Colombia) (1900.05.20 – 1922.07.21)Titular Bishop of Modra (1922.07.21 – 1933.07.28)Special ChurchesCathedral:  Catedral de La Inmaculada Concepción, Neiva, Huila Former Cathedral:  Iglesia de la Inmaculada Concepción “la Colonial”, Neiva, Huila Jubilee Churches in the Holy Year 2025Show MapGarzón (↙), Tierradentro (←), Espinal (↑), Granada (→), San Vicente del Caguán (↘), Florencia (↓)Statistics (2022.12.31)Area: 10,523 km²Population: 522,170 Catholics (94.9% of 550,450 total)Pastoral Centres: 65 parishes, 8 missionsPersonnel: 87 priests (73 diocesan, 14 religious), 12 deacons, 89 religious (62 brothers, 27 sisters), 30 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "neiv0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 550450,
+    "catholiques": 522170,
+    "pourcentage_catholiques": 94.9
+  },
+  "ressources": {
+    "pretres_diocesains": 73,
+    "pretres_religieux": null,
+    "total_pretres": 87,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 65
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

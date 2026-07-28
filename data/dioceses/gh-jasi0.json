@@ -1,0 +1,29 @@
+{
+  "id": "gh-jasi0",
+  "nom": "Jasikan",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Jasikan / Iasikanen(sis) (Latin)Ecclesiastical Province: AccraNeighbouring Dioceses: Konongo–Mampong (←), Tamale (↖), Yendi (↑), Sokodé (↗), Atakpamé (→), Kpalimé (↘), Ho (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint Peter ClaverLiturgical Calendar (Universal) 📅History1994.12.19: Established as Diocese of Jasikan / Iasikanen(sis) (Latin) (from Diocese of Keta–Ho and became suffragan of Accra)Present PrelatesBishop (2025.12.23 – ...):Bishop Simon Kofi Appiah (62)Monsignors (2)OrdinariesBishops of Jasikan (Roman Rite)Bishop Simon Kofi Appiah (62)  (2025.12.23 – ...)Bishop of Jasikan (Ghana)Deus caritas estBorn:1964.07.01 (Teteman, Ghana)Ordained Priest:1990.07.21Consecrated Bishop:2026.04.11Priest of Ho (Ghana) (1990.07.21 – 1994.12.19)Priest of Jasikan (Ghana) (1994.12.19 – 2025.12.23)Bishop of Jasikan (Ghana) (2025.12.23 – ...)Bishop Gabriel Akwasi Abiabo Mante (78)  (1994.12.19 – 2025.12.23)Bishop emeritus of Jasikan (Ghana)Hope unity peaceBorn:1947.07.27 (Nkonya-Abenkro, Ghana)Ordained Priest:1977.07.02Consecrated Bishop:1995.05.28Priest of Jasikan (Ghana) (1977.07.02 – 1994.12.19)Bishop of Jasikan (Ghana) (1994.12.19 – 2025.12.23)Special ChurchesCathedral:  Cathedral of St. Peter Claver, Jasikan, Volta Show MapKonongo–Mampong (←), Tamale (↖), Yendi (↑), Sokodé (↗), Atakpamé (→), Kpalimé (↘), Ho (↓)Statistics (2022.12.31)Area: 10,902 km²Population: 58,100 Catholics (7.6% of 763,700 total)Pastoral Centres: 19 parishes, 1 missionPersonnel: 43 priests (40 diocesan, 3 religious), 15 religious (3 brothers, 12 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jasi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 763700,
+    "catholiques": 58100,
+    "pourcentage_catholiques": 7.6
+  },
+  "ressources": {
+    "pretres_diocesains": 40,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

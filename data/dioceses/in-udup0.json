@@ -1,0 +1,29 @@
+{
+  "id": "in-udup0",
+  "nom": "Udupi",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Udupi / Udupien(sis) (Latin)Ecclesiastical Province: BangaloreNeighbouring Dioceses: Karwar (↑), Shimoga (↗), Mangalore (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady of MiraclesLiturgical Calendar (National) 📅History2012.07.16: Established as Diocese of Udupi / Udupien(sis) (Latin) (from Diocese of Mangalore and became suffragan of Bangalore)Present PrelatesBishop (2026.01.31 – ...):Bishop Leslie Clifford D’Souza (63)OrdinariesBishops of Udupi (Roman Rite)Bishop Leslie Clifford D’Souza (63)  (2026.01.31 – ...)Bishop of Udupi (India)Born:1962.08.19 (Yermal, India)Ordained Priest:1990.05.10Consecrated Bishop:2026.04.20Priest of Mangalore (India) (1990.05.10 – 2012.07.16)Priest of Udupi (India) (2012.07.16 – 2026.01.31)Bishop of Udupi (India) (2026.01.31 – ...)Bishop Gerald Isaac Lobo (76)  (2012.07.16 – 2026.01.31)Bishop emeritus of Udupi (India)Service and faith, fullness in lifeBorn:1949.11.12 (Agrar, India)Ordained Priest:1977.05.05Consecrated Bishop:2000.03.20Priest of Mangalore (India) (1977.05.05 – 1999.12.03)Bishop of Shimoga (India) (1999.12.03 – 2012.07.16)Bishop of Udupi (India) (2012.07.16 – 2026.01.31)Special ChurchesCathedral:  Cathedral of Our Lady of the Miracles, Udupi, Karnātaka Minor Basilica:  Basilica of St. Lawrence, Attur-Karkala, Karnātaka Show MapKarwar (↑), Shimoga (↗), Mangalore (↓)Statistics (2022.12.31)Area: 3,880 km²Population: 62,455 Catholics (5.3% of 1,181,477 total)Pastoral Centres: 52 parishesPersonnel: 116 priests (73 diocesan, 43 religious), 312 religious (70 brothers, 242 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "udup0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1181477,
+    "catholiques": 62455,
+    "pourcentage_catholiques": 5.3
+  },
+  "ressources": {
+    "pretres_diocesains": 73,
+    "pretres_religieux": null,
+    "total_pretres": 116,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 52
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ng-gbok0",
+  "nom": "Gboko",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Gboko / Gboken(sis) (Latin)Ecclesiastical Province: AbujaNeighbouring Dioceses: Abakaliki (↙), Nsukka (↙), Otukpo (←), Makurdi (↖), Katsina-Ala (→), Ogoja (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2012.12.29: Established as Diocese of Gboko / Gboken(sis) (Latin) (from Diocese of Makurdi and became suffragan of Abuja)Present PrelatesBishop (2012.12.29 – ...):Bishop William Amove Avenya (71)Monsignors (4)OrdinariesBishops of Gboko (Roman Rite)Bishop William Amove Avenya (71)  (2012.12.29 – ...)Bishop of Gboko (Nigeria)Born:1955.06.21 (Ishangev Tiev, Nigeria)Ordained Priest:1981.05.30Consecrated Bishop:2009.01.24Priest of Makurdi (Nigeria) (1981.05.30 – 2008.11.28)Titular Bishop of Thucca in Mauretania (2008.11.28 – 2012.12.29)Auxiliary Bishop of Makurdi (Nigeria) (2008.11.28 – 2012.12.29)Bishop of Gboko (Nigeria) (2012.12.29 – ...)Apostolic Administrator of Katsina-Ala (Nigeria) (2020.02.17 – 2022.04.09)Special ChurchesCathedral:  Cathedral of St. John the Baptist, Gboko, Benue Show MapAbakaliki (↙), Nsukka (↙), Otukpo (←), Makurdi (↖), Katsina-Ala (→), Ogoja (↓)Statistics (2022.12.31)Area: 10,692 km²Population: 1,567,224 Catholics (69.1% of 2,267,015 total)Pastoral Centres: 89 parishesPersonnel: 180 priests (168 diocesan, 12 religious), 72 religious (16 brothers, 56 sisters), 72 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gbok0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2267015,
+    "catholiques": 1567224,
+    "pourcentage_catholiques": 69.1
+  },
+  "ressources": {
+    "pretres_diocesains": 168,
+    "pretres_religieux": null,
+    "total_pretres": 180,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 89
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "in-belt0",
+  "nom": "Belthangady",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Belthangady / Belthangadien(sis) (Latin)Ecclesiastical Province: TellicherryNeighbouring Dioceses: Bhadravathi (↗), Mandya (↘), Mananthavady (↘), Tellicherry (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint ThomasHistory1999.04.24: Established as Diocese of Belthangady / Belthangadien(sis) (Latin) (from Metropolitan Archdiocese of Tellicherry and became suffragan of Tellicherry)Present PrelatesBishop (2025.08.28 – ...):Bishop James Patteril, C.M.F. (63)OrdinariesBishops of Belthangady (Syro-Malabar Rite)Bishop James Patteril, C.M.F. (63)  (2025.08.28 – ...)Bishop of Belthangady of the Syro-Malabars (India)Born:1962.07.27 (Mangalore, India)Ordained Priest:1990.04.26Consecrated Bishop:2025.11.05Bishop of Belthangady of the Syro-Malabars (India) (2025.08.28 – ...)Bishop Lawrence Mukkuzhy (74)  (1999.04.24 – 2025.08.28)Bishop emeritus of Belthangady of the Syro-Malabars (India)To love and to serveBorn:1951.08.31 (Sullia, India)Ordained Priest:1978.12.27Consecrated Bishop:1999.08.04Priest of Tellicherry of the Syro-Malabars (India) (1978.12.27 – 1999.04.24)Bishop of Belthangady of the Syro-Malabars (India) (1999.04.24 – 2025.08.28)Special ChurchesCathedral:  Cathedral of St. Lawrence, Belthangady, Karnātaka Show MapBhadravathi (↗), Mandya (↘), Mananthavady (↘), Tellicherry (↓)Statistics (2022.12.31)Area: 12,543 km²Population: 22,520 Catholics (0.6% of 4,023,100 total)Pastoral Centres: 66 parishesPersonnel: 76 priests (48 diocesan, 28 religious), 237 religious (39 brothers, 198 sisters), 17 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "belt0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4023100,
+    "catholiques": 22520,
+    "pourcentage_catholiques": 0.6
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 76,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 66
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ni-juig0",
+  "nom": "Juigalpa",
+  "pays": "ni",
+  "pays_nom": "Nicaragua",
+  "continent": "unknown",
+  "type": "Diocese Name: Juigalpa / Iuigalpen(sis) (Latin)Ecclesiastical Province: ManaguaNeighbouring Dioceses: Granada (←), Bluefields (→), Limón (↘), Ciudad Quesada (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1962.07.21: Established as Territorial Prelature of Juigalpa / Iuigalpen(sis) (Latin) (from Diocese of Granada and became suffragan of Managua)1991.04.30: Promoted as Diocese of Juigalpa / Iuigalpen(sis) (Latin)Present PrelatesBishop (2020.09.24 – ...):Bishop Marcial Humberto Guzmán Saballos (61)OrdinariesBishops of Juigalpa (Roman Rite)Bishop Marcial Humberto Guzmán Saballos (61)  (2020.09.24 – ...)Bishop of Juigalpa (Nicaragua)Born:1965.02.15 (Tola, Nicaragua)Ordained Priest:1993.12.04Consecrated Bishop:2020.12.05Priest of Granada (Nicaragua) (1993.12.04 – 2020.09.24)Bishop of Juigalpa (Nicaragua) (2020.09.24 – ...)Bishop René Sócrates Sándigo Jirón (61)  (2004.10.28 – 2019.06.29)Bishop of León (Nicaragua)Born:1965.04.19 (Diria, Nicaragua)Ordained Priest:1992.07.11Consecrated Bishop:2005.01.22Priest of Granada (Nicaragua) (1992.07.11 – 2004.10.28)Bishop of Juigalpa (Nicaragua) (2004.10.28 – 2019.06.29)General Secretary of Episcopal Conference of Nicaragua (2008 – 2011.11)President of Episcopal Conference of Nicaragua (2011.11 – 2014.11.18)President of Episcopal Conference of Nicaragua (2017.11.15 – 2020.11)Bishop of León (Nicaragua) (2019.06.29 – ...)Bishop Bernardo Hombach Lütkermeier (92)  (1995.02.28 – 2003.12.15)Bishop emeritus of Granada (Nicaragua)Born:1933.09.12 (Krefeld, Germany)Ordained Priest:1961.06.28Consecrated Bishop:1995.04.22Priest of Essen (Germany) (1961.06.28 – 1995.02.28)Bishop of Juigalpa (Nicaragua) (1995.02.28 – 2003.12.15)Bishop of Granada (Nicaragua) (2003.12.15 – 2010.03.11)Bishop Pablo Antonio Vega Mantilla  (1991.04.30 – 1993.10.29)Born:1919.08.17 (Nagarote, Nicaragua)Ordained Priest:1945.05.26Consecrated Bishop:1973.05.06Died:2007.11.14 († 88)Bishop-Prelate of Juigalpa (Nicaragua) (1970.11.16 – 1991.04.30)Titular Bishop of Bononia (1973.01.30 – 1991.04.30)President of Episcopal Conference of Nicaragua (1983 – 1985)Bishop of Juigalpa (Nicaragua) (1991.04.30 – 1993.10.29)Prelates of Juigalpa (Roman Rite)Bishop Pablo Antonio Vega Mantilla  (1970.11.16 – 1991.04.30)(see above)Bishop Julián Luis Barni Spotti, O.F.M.  (1962.08.14 – 1970.06.22)Born:1914.11.02 (Monza, Italy)Ordained Priest:1941.04.27Consecrated Bishop:1962.09.16Died:1994.11.15 († 80)Titular Bishop of Coracesium (1962.08.14 – 1970.06.22)Bishop-Prelate of Juigalpa (Nicaragua) (1962.08.14 – 1970.06.22)Bishop of Matagalpa (Nicaragua) (1970.06.22 – 1982.06.18)Bishop of León (Nicaragua) (1982.06.18 – 1991.04.02)Special ChurchesCathedral:  Catedral Nuestra Señora de la Asunción, Juigalpa, Chontales National Shrine:  Santuario Nacional Nuestra Señora de Cuapa, San Francisco de Cuapa, Chontales Show MapGranada (←), Bluefields (→), Limón (↘), Ciudad Quesada (↓)Statistics (2021.12.31)Area: 14,022 km²Population: 321,000 Catholics (83.2% of 386,000 total)Pastoral Centres: 29 parishes, 2 missionsPersonnel: 40 priests (32 diocesan, 8 religious), 2 deacons, 41 religious (8 brothers, 33 sisters), 24 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "juig0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 386000,
+    "catholiques": 321000,
+    "pourcentage_catholiques": 83.2
+  },
+  "ressources": {
+    "pretres_diocesains": 32,
+    "pretres_religieux": null,
+    "total_pretres": 40,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

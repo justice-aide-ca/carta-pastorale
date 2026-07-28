@@ -1,0 +1,29 @@
+{
+  "id": "bj-djou0",
+  "nom": "Djougou",
+  "pays": "bj",
+  "pays_nom": "Benin",
+  "continent": "unknown",
+  "type": "Diocese Name: Djougou / Diuguen(sis) (Latin)Ecclesiastical Province: ParakouNeighbouring Dioceses: Sokodé (↙), Kara (←), Natitingou (↑), Parakou (→), Dassa-Zoumé (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1995.06.10: Established as Diocese of Djougou / Diuguen(sis) (Latin) (from Diocese of Natitingou and became suffragan of Cotonou)1997.10.16: Became suffragan of ParakouPresent PrelatesBishop (2022.02.12 – ...):Bishop Bernard de Clairvaux Toha Wontacien, O.S.F.S. (55)General Secretary of Episcopal Conference of BeninOrdinariesBishops of Djougou (Roman Rite)Bishop Bernard de Clairvaux Toha Wontacien, O.S.F.S. (55)  (2022.02.12 – ...)Bishop of Djougou (Benin)General Secretary of Episcopal Conference of BeninBorn:1970.08.20 (Abomey-Calavi, Benin)Ordained Priest:2006.07.22Consecrated Bishop:2022.04.02Bishop of Djougou (Benin) (2022.02.12 – ...)General Secretary of Episcopal Conference of Benin (2023.05.26 – ...)Archbishop Pascal N’Koué (67)  (Apostolic Administrator 2019.04.03 – 2022.02.12)Bishop Paul Kouassivi Vieira  (1995.10.01 – 2019.03.21)Léger à tousBorn:1949.07.14 (Agoué, Benin)Ordained Priest:1975.06.29Consecrated Bishop:1995.10.01Died:2019.03.21 (Roma, Italy † 69)Priest of Lokossa (Benin) (1975.06.29 – 1995.10.01)Bishop of Djougou (Benin) (1995.10.01 – 2019.03.21)Special ChurchesCathedral:  Cathédrale du Sacré-Cœur, Djougou, Donga Show MapSokodé (↙), Kara (←), Natitingou (↑), Parakou (→), Dassa-Zoumé (↓)Statistics (2022.12.31)Area: 11,126 km²Population: 74,294 Catholics (10.7% of 692,027 total)Pastoral Centres: 23 parishes, 5 missionsPersonnel: 52 priests (39 diocesan, 13 religious), 82 religious (18 brothers, 64 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "djou0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 692027,
+    "catholiques": 74294,
+    "pourcentage_catholiques": 10.7
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 52,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

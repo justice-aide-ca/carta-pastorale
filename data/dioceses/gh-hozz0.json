@@ -1,0 +1,29 @@
+{
+  "id": "gh-hozz0",
+  "nom": "Ho",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Ho / Hoën(sis) (Latin)Ecclesiastical Province: AccraNeighbouring Dioceses: Donkorkrom (←), Jasikan (↑), Kpalimé (→), Keta–Akatsi (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Sacred Heart of Jesus, Immaculate ConceptionLiturgical Calendar (Universal) 📅History1994.12.19: Established as Diocese of Ho / Hoën(sis) (Latin) (from Diocese of Keta–Ho and became suffragan of Accra)Present PrelatesBishop (2015.07.14 – ...):Bishop Emmanuel Kofi Fianu, S.V.D. (69)Vice-President of Ghana Bishops’ ConferenceMonsignors (10)OrdinariesBishops of Ho (Roman Rite)Bishop Emmanuel Kofi Fianu, S.V.D. (69)  (2015.07.14 – ...)Bishop of Ho (Ghana)Vice-President of Ghana Bishops’ ConferenceMane nobiscumBorn:1957.06.14 (Tegbi, Ghana)Ordained Priest:1985.07.14Consecrated Bishop:2015.10.03Bishop of Ho (Ghana) (2015.07.14 – ...)Apostolic Administrator of Keta–Akatsi (Ghana) (2016.04.07 – 2017.03.16)Vice-President of Ghana Bishops’ Conference (2022.11.10 – ...)Bishop Francis Anani Kofi Lodonu (88)  (1994.12.19 – 2015.07.14)Bishop emeritus of Ho (Ghana)Born:1937.11.19 (Hohoe, Ghana)Ordained Priest:1964.05.18Consecrated Bishop:1973.06.29Priest of Keta (Ghana) (1964.05.18 – 1973.05.17)Titular Bishop of Mascula (1973.05.17 – 1976.04.10)Auxiliary Bishop of Keta–Ho (Ghana) (1973.05.17 – 1976.04.10)Bishop of Keta–Ho (Ghana) (1976.04.10 – 1994.12.19)President of Ghana Bishops’ Conference (1991 – 1997)Bishop of Ho (Ghana) (1994.12.19 – 2015.07.14)Fr. Antoon Konings, S.M.A. (later Bishop)  (Apostolic Administrator 1953 – 1954.02.21)Special ChurchesCathedral:  Sacred Heart Cathedral, Ho, Volta Show MapDonkorkrom (←), Jasikan (↑), Kpalimé (→), Keta–Akatsi (↓)Statistics (2022.12.31)Area: 5,893 km²Population: 235,130 Catholics (29.0% of 811,738 total)Pastoral Centres: 33 parishes, 15 missionsPersonnel: 92 priests (80 diocesan, 12 religious), 67 religious (14 brothers, 53 sisters), 22 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "hozz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 811738,
+    "catholiques": 235130,
+    "pourcentage_catholiques": 29.0
+  },
+  "ressources": {
+    "pretres_diocesains": 80,
+    "pretres_religieux": null,
+    "total_pretres": 92,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

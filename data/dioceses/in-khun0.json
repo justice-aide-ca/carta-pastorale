@@ -1,0 +1,29 @@
+{
+  "id": "in-khun0",
+  "nom": "Khunti",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Khunti / Khuntien(sis) (Latin)Ecclesiastical Province: RanchiNeighbouring Dioceses: Simdega (↙), Gumla (←), Ranchi (↑), Jamshedpur (→)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: St. Michael the ArchangelLiturgical Calendar (National) 📅History1995.04.01: Established as Diocese of Khunti / Khuntien(sis) (Latin) (from Metropolitan Archdiocese of Ranchi and became suffragan of Ranchi)Present PrelatesBishop (2012.11.30 – ...):Bishop Binay Kandulna (62)Monsignors (1)OrdinariesBishops of Khunti (Roman Rite)Bishop Binay Kandulna (62)  (2012.11.30 – ...)Bishop of Khunti (India)Duc in altumBorn:1964.01.03 (Gondra, India)Ordained Priest:1994.04.23Consecrated Bishop:2009.05.01Priest of Khunti (India) (1994.04.23 – 2009.02.10)Chaplain of His Holiness (2007.03.20 – 2009.02.10)Titular Bishop of Auzegera (2009.02.10 – 2012.11.30)Auxiliary Bishop of Ranchi (India) (2009.02.10 – 2012.11.30)Bishop of Khunti (India) (2012.11.30 – ...)Bishop Stephen M. Tiru  (1995.04.01 – 2012.03.03)Because of Jesus, I liveBorn:1937.12.01 (Sardikal, India)Ordained Priest:1969.05.04Consecrated Bishop:1986.10.07Died:2012.03.03 († 74)Bishop of Dumka (India) (1986.04.18 – 1995.04.01)Bishop of Khunti (India) (1995.04.01 – 2012.03.03)Special ChurchesCathedral:  Cathedral of St. Michael, Khunti, Jhārkhand Show MapSimdega (↙), Gumla (←), Ranchi (↑), Jamshedpur (→)Statistics (2022.12.31)Area: 3,765 km²Population: 98,356 Catholics (10.2% of 961,040 total)Pastoral Centres: 22 parishes, 1 missionPersonnel: 106 priests (41 diocesan, 65 religious), 285 religious (107 brothers, 178 sisters), 25 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "khun0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 961040,
+    "catholiques": 98356,
+    "pourcentage_catholiques": 10.2
+  },
+  "ressources": {
+    "pretres_diocesains": 41,
+    "pretres_religieux": null,
+    "total_pretres": 106,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

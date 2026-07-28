@@ -1,0 +1,29 @@
+{
+  "id": "ng-enug0",
+  "nom": "Enugu",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Enugu / Enuguen(sis) (Latin)Ecclesiastical Province: OnitshaNeighbouring Dioceses: Ekwulobia (↙), Awka (←), Nsukka (↑), Abakaliki (→), Awgu (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1962.11.12: Established as Diocese of Enugu / Enuguen(sis) (Latin) (from Metropolitan Archdiocese of Onitsha and became suffragan of Onitsha)1990.11.19: Lost territory to establish Diocese of Nsukka2005.07.08: Lost territory to establish Diocese of AwguPapal VisitsPope John Paul II (1982.02)Present PrelatesBishop (2009.02.09 – ...):Bishop Callistus Valentine Chukwuma Onaga (67)Auxiliary Bishop (2018.05.25 – ...):Bishop Ernest Anaezichukwu Obodo (59)Titular Bishop of MedianaApostolic Administrator of Abakaliki (Nigeria)Monsignors (31)OrdinariesBishops of Enugu (Roman Rite)Bishop Callistus Valentine Chukwuma Onaga (67)  (2009.02.09 – ...)Bishop of Enugu (Nigeria)Quærens Dei voluntatemBorn:1958.09.29 (Agbudu, Nigeria)Ordained Priest:1987.08.08Consecrated Bishop:2009.05.02Priest of Enugu (Nigeria) (1987.08.08 – 2009.02.09)Bishop of Enugu (Nigeria) (2009.02.09 – ...)Bishop Anthony Okonkwo Gbuji (94)  (1996.11.08 – 2009.02.09)Bishop emeritus of Enugu (Nigeria)Born:1931.10.29 (Ubulu-Uku, Nigeria)Ordained Priest:1958.11.23Consecrated Bishop:1973.09.30Priest of Issele-Uku (Nigeria) (1958.11.23 – 1973.07.05)Bishop of Issele-Uku (Nigeria) (1973.07.05 – 1996.11.08)Bishop of Enugu (Nigeria) (1996.11.08 – 2009.02.09)Apostolic Administrator of Benin City (Nigeria) (2010.05.31 – 2011.03.18)Bishop Michael Ugwu Eneja  (1977.11.10 – 1996.11.08)Born:1919 (Ibagwa-Ani, Nigeria)Ordained Priest:1951.07.29Consecrated Bishop:1978.02.26Died:2008.11.14 († 88)Priest of Onitsha (Nigeria) (1951.07.29 – 1962.11.12)Priest of Enugu (Nigeria) (1962.11.12 – 1977.11.10)Bishop of Enugu (Nigeria) (1977.11.10 – 1996.11.08)Bishop Godfrey Okoye, C.S.Sp.  (1970.03.07 – 1977.03.17)Born:1913.12.19 (Ifite Kkpo, Nigeria)Ordained Priest:1947.07.27Consecrated Bishop:1961.09.03Died:1977.03.17 (Enugu, Nigeria † 63)Bishop of Port Harcourt (Nigeria) (1961.05.16 – 1970.03.07)Bishop of Enugu (Nigeria) (1970.03.07 – 1977.03.17)Bishop John of the Cross Anyogu  (1962.11.12 – 1967.07.05)Born:1898.05.02 (Onitsha, Nigeria)Ordained Priest:1930.12.08Consecrated Bishop:1957.06.09Died:1967.07.05 (Onitsha, Nigeria † 69)Priest of Onitsha (Nigeria) (1930.12.08 – 1957.02.15)Titular Bishop of Magnesia ad Mæandrum (1957.02.15 – 1962.11.12)Auxiliary Bishop of Onitsha (Nigeria) (1957.02.15 – 1962.11.12)Bishop of Enugu (Nigeria) (1962.11.12 – 1967.07.05)Special ChurchesCathedral:  Holy Ghost Cathedral, Enugu, Enugu Show MapEkwulobia (↙), Awka (←), Nsukka (↑), Abakaliki (→), Awgu (↓)Statistics (2022.12.31)Area: 2,738 km²Population: 1,396,970 Catholics (63.4% of 2,203,375 total)Pastoral Centres: 210 parishesPersonnel: 540 priests (437 diocesan, 103 religious), 964 religious (387 brothers, 577 sisters), 175 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "enug0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2203375,
+    "catholiques": 1396970,
+    "pourcentage_catholiques": 63.4
+  },
+  "ressources": {
+    "pretres_diocesains": 437,
+    "pretres_religieux": null,
+    "total_pretres": 540,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 210
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "be-grod0",
+  "nom": "Grodno",
+  "pays": "be",
+  "pays_nom": "Belarus",
+  "continent": "unknown",
+  "type": "Diocese Name: Grodno / Гродзенская (Беларуская) / Hrodna (Italiano) / Grodnen(sis) Latinorum (Latin)Ecclesiastical Province: Minsk–MohilevNeighbouring Dioceses: Białystok (↙), Ełk (←), Vilkaviškis (↖), Vilnius (↗), Minsk–Mohilev (→), Pinsk (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Our Lady of Ostrabrama, Saint Casimir, Saint Maximilian KolbeLiturgical Calendar (Universal) 📅History1991.04.13: Established as Diocese of Grodno / Гродзенская (Беларуская) / Hrodna (Italiano) / Grodnen(sis) Latinorum (Latin) (from Metropolitan Archdiocese of Vilnius, Diocese of Łomża and Diocese of Pinsk and became suffragan of Minsk–Mohilev)Present PrelatesBishop (2024.09.30 – ...):Bishop Uladzimir Huliai (51)Monsignors (9)OrdinariesBishops of Grodno (Roman Rite)Bishop Uladzimir Huliai (51)  (2024.09.30 – ...)Bishop of Grodno (Belarus)Born:1975.06.14 (Volkovysk, Belarus)Ordained Priest:1999.06.26Consecrated Bishop:2024.05.25Priest of Grodno (Belarus) (1999.06.26 – 2024.04.05)Coadjutor Bishop of Grodno (Belarus) (2024.04.05 – 2024.09.30)Bishop of Grodno (Belarus) (2024.09.30 – ...)Bishop Aleksander Kaszkiewicz (Аляксандр Кашкевіч) (76)  (1991.04.13 – 2024.09.30)Vice-President of Catholic Episcopal Conference of BelarusBishop emeritus of Grodno (Belarus)Jesu in te confidoBorn:1949.09.23 (Ejszyszki, Belarus)Ordained Priest:1976.05.30Consecrated Bishop:1991.05.23Priest of Panevėžys (Lithuania) (1976.05.30 – 1981.06)Priest of Kaunas (Lithuania) (1981.06 – 1991.04.13)Bishop of Grodno (Belarus) (1991.04.13 – 2024.09.30)President of Catholic Episcopal Conference of Belarus (2006 – 2015.06.03)Vice-President of Catholic Episcopal Conference of Belarus (2021.04.14 – ...)Former PrelatesCoadjutor Bishop: Bishop Uladzimir Huliai (51) (2024.04.05 – 2024.09.30)Auxiliary Bishop: Bishop Iosif Staneuski (57) (later Archbishop) (2013.11.29 – 2021.09.14)Auxiliary Bishop: Bishop Antoni Dziemianko (Антонi Дзям’янка) (66) (1998.07.04 – 2004.12.14)Special ChurchesCathedral, Minor Basilica:  Cathedral Basilica of St. Francis Xavier, Grodno, Grodno Former Cathedral (now Orthodox church):  Former Cathedral of the Assumption, Žyrovičy, Grodno Jubilee Churches in the Holy Year 2025Show MapBiałystok (↙), Ełk (←), Vilkaviškis (↖), Vilnius (↗), Minsk–Mohilev (→), Pinsk (↘)Statistics (2022.12.31)Area: 25,000 km²Population: 548,125 Catholics (54.5% of 1,006,614 total)Pastoral Centres: 200 parishes, 2 missionsPersonnel: 219 priests (161 diocesan, 58 religious), 174 religious (61 brothers, 113 sisters), 29 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "grod0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1006614,
+    "catholiques": 548125,
+    "pourcentage_catholiques": 54.5
+  },
+  "ressources": {
+    "pretres_diocesains": 161,
+    "pretres_religieux": null,
+    "total_pretres": 219,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 200
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "in-elur0",
+  "nom": "Eluru",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Eluru / Eluruen(sis) (Latin)Ecclesiastical Province: VisakhapatnamNeighbouring Dioceses: Vijayawada (↙), Khammam (↖), Visakhapatnam (↗)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Most Sacred Heart of JesusLiturgical Calendar (National) 📅History1976.12.09: Established as Diocese of Eluru / Eluruen(sis) (Latin) (from Diocese of Vijayawada and became suffragan of Hyderabad)2001.10.16: Became suffragan of VisakhapatnamPresent PrelatesBishop (2013.06.13 – ...):Bishop Jaya Rao Polimera (60)Monsignors (1)OrdinariesBishops of Eluru (Roman Rite)Bishop Jaya Rao Polimera (60)  (2013.06.13 – ...)Bishop of Eluru (India)Renew all things in ChristBorn:1965.08.27 (Dharmasagar, India)Ordained Priest:1992.04.02Consecrated Bishop:2013.07.25Priest of Warangal (India) (1992.04.02 – 2013.06.13)Bishop of Eluru (India) (2013.06.13 – ...)Apostolic Administrator of Visakhapatnam (India) (2024.02.17 – 2025.02.08)Archbishop Prakash Mallavarapu  (Apostolic Administrator 2009.08.25 – 2013.06.13)Bishop John Mulagada  (1976.12.09 – 2009.08.16)RenewBorn:1937.12.12 (Marriveedu, India)Ordained Priest:1965.01.04Consecrated Bishop:1977.05.05Died:2009.08.16 († 71)Bishop of Eluru (India) (1976.12.09 – 2009.08.16)Special ChurchesCathedral:  Amalodbhavi Matha Cathedral, Eluru, Andhra Pradesh Show MapVijayawada (↙), Khammam (↖), Visakhapatnam (↗)Statistics (2022.12.31)Area: 6,800 km²Population: 380,332 Catholics (6.7% of 5,639,734 total)Pastoral Centres: 124 parishes, 1 missionPersonnel: 295 priests (134 diocesan, 161 religious), 1,431 religious (751 brothers, 680 sisters), 56 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "elur0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5639734,
+    "catholiques": 380332,
+    "pourcentage_catholiques": 6.7
+  },
+  "ressources": {
+    "pretres_diocesains": 134,
+    "pretres_religieux": null,
+    "total_pretres": 295,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 124
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

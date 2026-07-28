@@ -1,0 +1,29 @@
+{
+  "id": "gh-tech0",
+  "nom": "Techiman",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Techiman / Techimanen(sis) (Latin)Ecclesiastical Province: KumasiNeighbouring Dioceses: Goaso (↙), Sunyani (←), Damongo (↑), Konongo–Mampong (↘), Kumasi (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2007.12.28: Established as Diocese of Techiman / Techimanen(sis) (Latin) (from Diocese of Konongo–Mampong and Diocese of Sunyani and became suffragan of Kumasi)Present PrelatesBishop (2007.12.28 – ...):Bishop Dominic Yeboah Nyarko (72)OrdinariesBishops of Techiman (Roman Rite)Bishop Dominic Yeboah Nyarko (72)  (2007.12.28 – ...)Bishop of Techiman (Ghana)God’s grace is enoughBorn:1953.12.19 (Nsuta, Ghana)Ordained Priest:1990.07.21Consecrated Bishop:2008.03.29Priest of Sunyani (Ghana) (1990.07.21 – 2007.12.28)Bishop of Techiman (Ghana) (2007.12.28 – ...)Special ChurchesCathedral:  Cathedral of St. Paul, Techiman, Bono East Show MapGoaso (↙), Sunyani (←), Damongo (↑), Konongo–Mampong (↘), Kumasi (↓)Statistics (2022.12.31)Area: 25,500 km²Population: 164,820 Catholics (17.7% of 930,770 total)Pastoral Centres: 28 parishesPersonnel: 42 priests (35 diocesan, 7 religious), 48 religious (17 brothers, 31 sisters), 79 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tech0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 930770,
+    "catholiques": 164820,
+    "pourcentage_catholiques": 17.7
+  },
+  "ressources": {
+    "pretres_diocesains": 35,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

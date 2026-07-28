@@ -1,0 +1,29 @@
+{
+  "id": "cm-mamf0",
+  "nom": "Mamfe",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Mamfe / Mamfen(sis) (Latin)Ecclesiastical Province: BamendaNeighbouring Dioceses: Calabar (↙), Ogoja (↖), Katsina-Ala (↑), Bamenda (→), Bafang (↘), Kumba (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1999.02.09: Established as Diocese of Mamfe / Mamfen(sis) (Latin) (from Diocese of Buéa and became suffragan of Bamenda)Present PrelatesBishop (2022.02.22 – ...):Bishop Aloysius Fondong Abangalo (53)Monsignors (1)OrdinariesBishops of Mamfe (Roman Rite)Bishop Aloysius Fondong Abangalo (53)  (2022.02.22 – ...)Bishop of Mamfe (Cameroon)Veritatem facientes in caritateBorn:1973.06.05 (Limbe, Cameroon)Ordained Priest:2006.04.20Consecrated Bishop:2022.05.05Priest of Buéa (Cameroon) (2006.04.20 – 2022.02.22)Bishop of Mamfe (Cameroon) (2022.02.22 – ...)Archbishop Andrew Nkea Fuanya (60)  (Apostolic Administrator 2019.12.30 – 2022.02.22)Bishop Andrew Nkea Fuanya (60) (later Archbishop)  (2014.01.25 – 2019.12.30)Metropolitan Archbishop of Bamenda (Cameroon)President of National Episcopal Conference of CameroonIn Spiritu et veritate / Comme quelqu’un qui sertBorn:1965.08.29 (Widikum, Cameroon)Ordained Priest:1992.04.22Consecrated Bishop:2013.08.23Priest of Buéa (Cameroon) (1992.04.22 – 2013.07.10)Coadjutor Bishop of Mamfe (Cameroon) (2013.07.10 – 2014.01.25)Bishop of Mamfe (Cameroon) (2014.01.25 – 2019.12.30)Vice-President of National Episcopal Conference of Cameroon (2019.05.03 – 2022.04.30)Apostolic Administrator of Mamfe (Cameroon) (2019.12.30 – 2022.02.22)Metropolitan Archbishop of Bamenda (Cameroon) (2019.12.30 – ...)President of National Episcopal Conference of Cameroon (2022.04.30 – ...)Bishop Francis Teke Lysinge (87)  (1999.02.09 – 2014.01.25)Bishop emeritus of Mamfe (Cameroon)Fortes in fideBorn:1938.12.28 (Muea, Cameroon)Ordained Priest:1966.04.17Consecrated Bishop:1999.04.21Priest of Buéa (Cameroon) (1966.04.17 – 1999.02.09)Bishop of Mamfe (Cameroon) (1999.02.09 – 2014.01.25)Former PrelatesCoadjutor Bishop: Bishop Andrew Nkea Fuanya (60) (later Archbishop) (2013.07.10 – 2014.01.25)Special ChurchesCathedral:  Cathédrale Saint-Joseph, Mamfe, South-West Show MapCalabar (↙), Ogoja (↖), Katsina-Ala (↑), Bamenda (→), Bafang (↘), Kumba (↓)Statistics (2020.12.31)Area: 10,500 km²Population: 176,000 Catholics (40.1% of 439,000 total)Pastoral Centres: 28 parishes, 4 missionsPersonnel: 82 priests (73 diocesan, 9 religious), 62 religious (14 brothers, 48 sisters), 76 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mamf0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 439000,
+    "catholiques": 176000,
+    "pourcentage_catholiques": 40.1
+  },
+  "ressources": {
+    "pretres_diocesains": 73,
+    "pretres_religieux": null,
+    "total_pretres": 82,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

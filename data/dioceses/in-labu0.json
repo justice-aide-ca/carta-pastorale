@@ -1,0 +1,29 @@
+{
+  "id": "in-labu0",
+  "nom": "Labuan Bajo",
+  "pays": "in",
+  "pays_nom": "Indonesia",
+  "continent": "unknown",
+  "type": "Diocese Name: Labuan Bajo / Labuanbaien(sis) (Latin)Ecclesiastical Province: EndeNeighbouring Dioceses: Denpasar (←), Ruteng (→), Weetebula (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2024.06.21: Established as Diocese of Labuan Bajo / Labuanbaien(sis) (Latin) (from Diocese of Ruteng and became suffragan of Ende)Present PrelatesBishop (2024.06.21 – ...):Bishop Maksimus Regus (52)OrdinariesBishops of Labuan Bajo (Roman Rite)Bishop Maksimus Regus (52)  (2024.06.21 – ...)Bishop of Labuan Bajo (Indonesia)Ut salvetur mundus per ipsumBorn:1973.09.23 (Woang, Nusa Tenggara Timur, Indonesia)Ordained Priest:2001.08.10Consecrated Bishop:2024.11.01Priest of Ruteng (Indonesia) (2001.08.10 – 2024.06.21)Bishop of Labuan Bajo (Indonesia) (2024.06.21 – ...)Special ChurchesCathedral:  Katedral Roh Kudus, Labuan Bajo, Nusa Tenggara Timur, Nusa Tenggara Jubilee Churches in the Holy Year 2025Churches by City (30)Show MapDenpasar (←), Ruteng (→), Weetebula (↓)Statistics (2024)Area: 3,141 km²Population: 215,270 Catholics (78.0% of 275,903 total)Pastoral Centres: 25 parishesPersonnel: 90 priests (67 diocesan, 23 religious), 97 religious (19 brothers, 78 sisters), 30 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "labu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 275903,
+    "catholiques": 215270,
+    "pourcentage_catholiques": 78.0
+  },
+  "ressources": {
+    "pretres_diocesains": 67,
+    "pretres_religieux": null,
+    "total_pretres": 90,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

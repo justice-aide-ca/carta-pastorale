@@ -1,0 +1,29 @@
+{
+  "id": "si-bozz0",
+  "nom": "Bo",
+  "pays": "si",
+  "pays_nom": "Sierra Leone",
+  "continent": "unknown",
+  "type": "Diocese Name: Bo / Boën(sis) (Latin)Ecclesiastical Province: FreetownNeighbouring Dioceses: Freetown (←), Makeni (↑), Kenema (→), Monrovia (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2011.01.15: Established as Diocese of Bo / Boën(sis) (Latin) (from Metropolitan Archdiocese of Freetown and Bo and became suffragan of Freetown)Present PrelatesBishop (2011.01.15 – ...):Bishop Charles Allieu Matthew Campbell (65)Monsignors (1)OrdinariesBishops of Bo (Roman Rite)Bishop Charles Allieu Matthew Campbell (65)  (2011.01.15 – ...)Bishop of Bo (Sierra Leone)Fiat voluntas tuaBorn:1961.01.25 (Njala, Sierra Leone)Ordained Priest:1986.04.09Consecrated Bishop:2011.05.07Priest of Freetown and Bo (Sierra Leone) (1986.04.09 – 2011.01.15)Bishop of Bo (Sierra Leone) (2011.01.15 – ...)President of Inter-territorial Catholic Bishops’ Conference of the Gambia and Sierra Leone / ITCABIC (2016.05 – 2022)Special ChurchesCathedral:  Cathedral of the Immaculate Heart of Mary, Bo Show MapFreetown (←), Makeni (↑), Kenema (→), Monrovia (↘)Statistics (2022.12.31)Area: 16,208 km²Population: 58,500 Catholics (3.8% of 1,519,950 total)Pastoral Centres: 18 parishes, 120 missionsPersonnel: 22 priests (diocesan), 14 religious (6 brothers, 8 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bozz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1519950,
+    "catholiques": 58500,
+    "pourcentage_catholiques": 3.8
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

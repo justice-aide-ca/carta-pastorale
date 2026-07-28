@@ -1,0 +1,29 @@
+{
+  "id": "in-sult0",
+  "nom": "Sultanpet",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Sultanpet (English) / Sultanpeten(sis) (Latin)Ecclesiastical Province: CalicutNeighbouring Dioceses: Kottapuram (↙), Calicut (↖), Coimbatore (↗)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (National) 📅History2013.12.28: Established as Diocese of Sultanpet (English) / Sultanpeten(sis) (Latin) (from Diocese of Calicut and Diocese of Coimbatore and became suffragan of Verapoly)2025.04.12: Became suffragan of CalicutPresent PrelatesBishop (2013.12.28 – ...):Bishop Peter Abir Antonysamy (74)OrdinariesBishops of Sultanpet (Roman Rite)Bishop Peter Abir Antonysamy (74)  (2013.12.28 – ...)Bishop of Sultanpet (India)Fractus ut ædificemBorn:1951.10.14 (Sathipattu, India)Ordained Priest:1979.05.01Consecrated Bishop:2014.02.16Priest of Pondicherry and Cuddalore (India) (1979.05.01 – 2013.12.28)Bishop of Sultanpet (India) (2013.12.28 – ...)Apostolic Administrator of Pondicherry and Cuddalore (India) (2021.01.27 – 2022.03.19)Special ChurchesCathedral:  Cathedral of St. Sebastian, Sultanpet, Kerala Churches by City (31)Show MapKottapuram (↙), Calicut (↖), Coimbatore (↗)Statistics (2021.12.31)Area: 4,482 km²Population: 34,800 Catholics (1.2% of 3,024,000 total)Pastoral Centres: 29 parishesPersonnel: 55 priests (24 diocesan, 31 religious), 140 religious (32 brothers, 108 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "sult0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3024000,
+    "catholiques": 34800,
+    "pourcentage_catholiques": 1.2
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 55,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

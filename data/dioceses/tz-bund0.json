@@ -1,0 +1,29 @@
+{
+  "id": "tz-bund0",
+  "nom": "Bunda",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Bunda / Bundan(us) (Latin)Ecclesiastical Province: MwanzaNeighbouring Dioceses: Mwanza (↙), Musoma (↑), Bariadi (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2010.11.27: Established as Diocese of Bunda / Bundan(us) (Latin) (from Metropolitan Archdiocese of Mwanza and Diocese of Musoma and became suffragan of Mwanza)Present PrelatesBishop (2021.04.06 – ...):Bishop Simon Chibuga Masondole (53)OrdinariesBishops of Bunda (Roman Rite)Bishop Simon Chibuga Masondole (53)  (2021.04.06 – ...)Bishop of Bunda (Tanzania)Ili tuwe watakatifu katika pendoBorn:1972.10.02 (Bukiko-Ukerewe, Tanzania)Ordained Priest:2006.07.02Consecrated Bishop:2021.07.04Priest of Mwanza (Tanzania) (2006.07.02 – 2010.11.27)Priest of Bunda (Tanzania) (2010.11.27 – 2021.04.06)Bishop of Bunda (Tanzania) (2021.04.06 – ...)Bishop Renatus Leonard Nkwande (60) (later Archbishop)  (2010.11.27 – 2019.02.11)Metropolitan Archbishop of Mwanza (Tanzania)Bwana ni funga la posho languBorn:1965.11.12 (Mantare, Tanzania)Ordained Priest:1995.07.02Consecrated Bishop:2011.02.20Priest of Mwanza (Tanzania) (1995.07.02 – 2010.11.27)Bishop of Bunda (Tanzania) (2010.11.27 – 2019.02.11)Apostolic Administrator of Geita (Tanzania) (2014.05.18 – 2016.04.28)Metropolitan Archbishop of Mwanza (Tanzania) (2019.02.11 – ...)Special ChurchesCathedral:  Cathedral of St. Paul, Bunda, Mara Show MapMwanza (↙), Musoma (↑), Bariadi (↓)Statistics (2022.12.31)Area: 5,530 km²Population: 380,000 Catholics (25.6% of 1,485,260 total)Pastoral Centres: 22 parishes, 10 missionsPersonnel: 24 priests (16 diocesan, 8 religious), 42 religious (8 brothers, 34 sisters), 31 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bund0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1485260,
+    "catholiques": 380000,
+    "pourcentage_catholiques": 25.6
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 24,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

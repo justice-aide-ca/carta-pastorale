@@ -1,0 +1,29 @@
+{
+  "id": "ht-anse0",
+  "nom": "Anse-à-Veau et Miragoâne",
+  "pays": "ht",
+  "pays_nom": "Haiti",
+  "continent": "unknown",
+  "type": "Diocese Name: Anse-à-Veau et Miragoâne / Sinuvitullens(sis)–Miragoanen(sis) (Latin)Ecclesiastical Province: Port-au-PrinceNeighbouring Dioceses: Les Cayes (↙), Jérémie (←), Jacmel (→)Depends on: Dicastery for BishopsCelebrationsCathedral Dedication Anniversary: November 1Liturgical Calendar (National) 📅History2008.07.13: Established as Diocese of Anse-à-Veau et Miragoâne / Sinuvitullens(sis)–Miragoanen(sis) (Latin) (from Diocese of Les Cayes and became suffragan of Port-au-Prince)Present PrelatesBishop (2008.07.13 – ...):Bishop Pierre-André Dumas (63)Vice-President of Episcopal Conference of HaitiOrdinariesBishops of Anse-à-Veau et Miragoâne (Roman Rite)Bishop Pierre-André Dumas (63)  (2008.07.13 – ...)Bishop of Anse-à-Veau et Miragoâne (Haiti)Vice-President of Episcopal Conference of HaitiBorn:1962.09.26 (Saint-Jean du Sud, Haiti)Ordained Priest:1991.05.26Consecrated Bishop:2003.02.22Priest of Port-au-Prince (Haiti) (1991.05.26 – 2002.12.10)Titular Bishop of Floriana (2002.12.10 – 2008.07.13)Auxiliary Bishop of Port-au-Prince (Haiti) (2002.12.10 – 2008.07.13)Bishop of Anse-à-Veau et Miragoâne (Haiti) (2008.07.13 – ...)Vice-President of Episcopal Conference of Haiti (2017.12.01 – 2021.04.14)Vice-President of Episcopal Conference of Haiti (2023.11.28 – ...)Special ChurchesCathedral:  Cathédrale Sainte-Anne, Anse-à-Veau, Nippes Co-Cathedral:  Co-cathédrale Saint Jean-Baptiste, Miragoâne, Nippes Show MapLes Cayes (↙), Jérémie (←), Jacmel (→)Statistics (2022.12.31)Area: 1,268 km²Population: 356,000 Catholics (70.6% of 504,100 total)Pastoral Centres: 42 parishes, 4 missionsPersonnel: 77 priests (69 diocesan, 8 religious), 2 deacons, 84 religious (39 brothers, 45 sisters), 22 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "anse0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 504100,
+    "catholiques": 356000,
+    "pourcentage_catholiques": 70.6
+  },
+  "ressources": {
+    "pretres_diocesains": 69,
+    "pretres_religieux": null,
+    "total_pretres": 77,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 42
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

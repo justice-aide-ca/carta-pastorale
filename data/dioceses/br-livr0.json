@@ -1,0 +1,29 @@
+{
+  "id": "br-livr0",
+  "nom": "Livramento de Nossa Senhora",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Livramento de Nossa Senhora / Liberationis Marianæ (Latin)Ecclesiastical Province: Vitória da ConquistaNeighbouring Dioceses: Caetité (↙), Barra (↖), Irecê (↑), Ruy Barbosa (↗), Jequié (→), Vitória da Conquista (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nossa Senhora da Assunção (August 15)Liturgical Calendar (National) 📅History1967.02.27: Established as Diocese of Livramento de Nossa Senhora / Liberationis Marianæ (Latin) (from Diocese of Caetité and became suffragan of São Salvador da Bahia)2002.01.16: Became suffragan of Vitória da ConquistaPresent PrelatesBishop (2023.02.01 – ...):Bishop Vicente de Paula Ferreira, C.SS.R. (55)Monsignors (1)OrdinariesBishops of Livramento de Nossa Senhora (Roman Rite)Bishop Vicente de Paula Ferreira, C.SS.R. (55)  (2023.02.01 – ...)Bishop of Livramento de Nossa Senhora (Brazil)Caritas numquam excidetBorn:1970.10.27 (Araraí, ES, Brazil)Ordained Priest:1996.11.16Consecrated Bishop:2017.05.27Titular Bishop of Castra nova (2017.03.08 – 2023.02.01)Auxiliary Bishop of Belo Horizonte (Brazil) (2017.03.08 – 2023.02.01)Bishop of Livramento de Nossa Senhora (Brazil) (2023.02.01 – ...)Bishop Armando Bucciol (80)  (2004.01.21 – 2023.02.01)Bishop emeritus of Livramento de Nossa Senhora (Brazil)Caritas Christi urget nosBorn:1946.07.03 (Motta di Livenza, Italy)Ordained Priest:1971.09.12Consecrated Bishop:2004.04.17Priest of Vittorio Veneto (Italy) (1971.09.12 – 2004.01.21)Bishop of Livramento de Nossa Senhora (Brazil) (2004.01.21 – 2023.02.01)Bishop Hélio Paschoal, C.S.S.  (1967.03.29 – 2004.01.21)Illuminabit nos ChristusBorn:1927.04.26 (Vargem Grande do Sul, SP, Brazil)Ordained Priest:1951.08.15Consecrated Bishop:1967.06.25Died:2005.11.22 (Campinas, SP, Brazil † 78)Bishop of Livramento de Nossa Senhora (Brazil) (1967.03.29 – 2004.01.21)Special ChurchesCathedral:  Catedral Nossa Senhora do Livramento, Livramento de Nossa Senhora, Bahia Churches by City (23)Show MapCaetité (↙), Barra (↖), Irecê (↑), Ruy Barbosa (↗), Jequié (→), Vitória da Conquista (↘)Statistics (2021.12.31)Area: 23,836 km²Population: 261,000 Catholics (82.3% of 317,000 total)Pastoral Centres: 21 parishesPersonnel: 26 priests (23 diocesan, 3 religious), 13 religious (3 brothers, 10 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "livr0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 317000,
+    "catholiques": 261000,
+    "pourcentage_catholiques": 82.3
+  },
+  "ressources": {
+    "pretres_diocesains": 23,
+    "pretres_religieux": null,
+    "total_pretres": 26,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

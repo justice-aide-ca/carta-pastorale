@@ -1,0 +1,35 @@
+{
+  "id": "rw-kigali0",
+  "nom": "Kigali",
+  "pays": "rw",
+  "continent": "afrique",
+  "type": "Metropolitan Archdiocese",
+  "annee_donnees": 2022,
+  "territoire": {
+    "superficie_km2": 3271,
+    "population_totale": 2022400,
+    "catholiques": 714982,
+    "pourcentage_catholiques": 35.4
+  },
+  "ressources": {
+    "pretres_diocesains": 119,
+    "pretres_religieux": 65,
+    "total_pretres": 184,
+    "religieux_freres": 230,
+    "religieuses": 741,
+    "total_religieux": 971,
+    "seminarians": 63,
+    "diacres_permanents": null,
+    "paroisses": 39,
+    "missions": 3
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org + Statistiques 2022",
+  "derniere_mise_a_jour": "2026-07-14",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Archidioc%C3%A8se_de_Kigali",
+    "conference_episcopale": "https://www.eglisecatholiquerwanda.org/"
+  }
+}

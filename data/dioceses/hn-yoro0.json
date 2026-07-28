@@ -1,0 +1,29 @@
+{
+  "id": "hn-yoro0",
+  "nom": "Yoro",
+  "pays": "hn",
+  "pays_nom": "Honduras",
+  "continent": "unknown",
+  "type": "Diocese Name: Yoro / Yoren(sis) (Latin)Ecclesiastical Province: San Pedro SulaNeighbouring Dioceses: San Pedro Sula (←), La Ceiba (↗), Trujillo (→), Juticalpa (↘), Tegucigalpa (↘), Comayagua (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History2005.09.19: Established as Diocese of Yoro / Yoren(sis) (Latin) (from Metropolitan Archdiocese of Tegucigalpa and became suffragan of Tegucigalpa)2023.01.26: Became suffragan of San Pedro SulaPresent PrelatesBishop:vacantApostolic Administrator (2025.09.30 – ...):Bishop Jenrry Johel Velásquez Hernández (48)Bishop of La Ceiba (Honduras)OrdinariesBishops of Yoro (Roman Rite)Bishop Jenrry Johel Velásquez Hernández (48)  (Apostolic Administrator 2025.09.30 – ...)Bishop Héctor David García Osorio (59)  (2014.07.03 – 2025.07.03)Bishop of Santa Rosa de Copán (Honduras)President of Episcopal Secretariat of Central America and PanamaAquí estoy señorBorn:1966.09.23 (Concepción de María, Honduras)Ordained Priest:1997.11.08Consecrated Bishop:2014.09.20Priest of Choluteca (Honduras) (1997.11.08 – 2014.07.03)Bishop of Yoro (Honduras) (2014.07.03 – 2025.07.03)General Secretary of Episcopal Conference of Honduras (2016.06.13 – 2019.06.06)President of Episcopal Secretariat of Central America and Panama (2023.11.29 – ...)Bishop of Santa Rosa de Copán (Honduras) (2025.07.03 – ...)Msgr. Francisco Martínez González  (Apostolic Administrator 2014.01.21 – 2014.07.03)Bishop Jean-Louis Giasson, P.M.E.  (2005.09.19 – 2014.01.21)Comunión y participaciónBorn:1939.12.07 (Islet-sur-Mer, QC, Canada)Ordained Priest:1965.12.18Consecrated Bishop:2005.12.12Died:2014.02.12 (Québec, QC, Canada † 74)Bishop of Yoro (Honduras) (2005.09.19 – 2014.01.21)Special ChurchesCathedral:  Catedral Las Mercedes, El Progreso, Yoro Show MapSan Pedro Sula (←), La Ceiba (↗), Trujillo (→), Juticalpa (↘), Tegucigalpa (↘), Comayagua (↓)Statistics (2022.12.31)Area: 7,781 km²Population: 546,000 Catholics (80.2% of 681,065 total)Pastoral Centres: 13 parishesPersonnel: 27 priests (12 diocesan, 15 religious), 38 religious (15 brothers, 23 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "yoro0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 681065,
+    "catholiques": 546000,
+    "pourcentage_catholiques": 80.2
+  },
+  "ressources": {
+    "pretres_diocesains": 12,
+    "pretres_religieux": null,
+    "total_pretres": 27,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

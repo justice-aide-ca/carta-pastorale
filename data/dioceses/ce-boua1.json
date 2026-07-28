@@ -1,0 +1,29 @@
+{
+  "id": "ce-boua1",
+  "nom": "Bouar",
+  "pays": "ce",
+  "pays_nom": "Central African Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: Bouar / Buaren(sis) (Latin)Ecclesiastical Province: BerbératiNeighbouring Dioceses: Bertoua (↙), Ngaoundéré (↖), Garoua (↑), Goré (↑), Bossangoa (→), Bangui (↘), Berbérati (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1978.02.27: Established as Diocese of Bouar / Buaren(sis) (Latin) (from Diocese of Berbérati and became suffragan of Bangui)2026.04.25: Became suffragan of BerbératiPresent PrelatesBishop (2017.12.02 – ...):Bishop Mirosław Gucwa (62)OrdinariesBishops of Bouar (Roman Rite)Bishop Mirosław Gucwa (62)  (2017.12.02 – ...)Bishop of Bouar (Central African Republic)Vivere mihi Christi estBorn:1963.11.21 (Pisarzowa, Poland)Ordained Priest:1988.06.12Consecrated Bishop:2018.02.11Priest of Tarnów (Poland) (1988.06.12 – 2017.12.02)Bishop of Bouar (Central African Republic) (2017.12.02 – ...)Bishop Armando Umberto Gianni, O.F.M. Cap. (86)  (1978.02.27 – 2017.12.02)Bishop emeritus of Bouar (Central African Republic)Benedictus sit DeusBorn:1939.09.23 (Gragnola, Italy)Ordained Priest:1963.09.21Consecrated Bishop:1978.11.19Bishop of Bouar (Central African Republic) (1978.02.27 – 2017.12.02)President of Central African Episcopal Conference (2009.07 – 2010.02)Special ChurchesCathedral:  Cathédrale Marie Mère de l’Église, Bouar, Nana-Mambéré Show MapBertoua (↙), Ngaoundéré (↖), Garoua (↑), Goré (↑), Bossangoa (→), Bangui (↘), Berbérati (↓)Statistics (2022.12.31)Area: 45,000 km²Population: 128,415 Catholics (17.7% of 725,350 total)Pastoral Centres: 15 parishesPersonnel: 49 priests (7 diocesan, 42 religious), 2 deacons, 189 religious (124 brothers, 65 sisters), 19 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "boua1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 725350,
+    "catholiques": 128415,
+    "pourcentage_catholiques": 17.7
+  },
+  "ressources": {
+    "pretres_diocesains": 7,
+    "pretres_religieux": null,
+    "total_pretres": 49,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ml-sika0",
+  "nom": "Sikasso",
+  "pays": "ml",
+  "pays_nom": "Mali",
+  "continent": "unknown",
+  "type": "Diocese Name: Sikasso / Sikassen(sis) (Latin)Ecclesiastical Province: BamakoNeighbouring Dioceses: Bamako (↖), Ségou (↑), San (↗), Nouna (↗), Bobo-Dioulasso (→), Banfora (↘), Korhogo (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1947.06.12: Established as Apostolic Prefecture of Sikasso / Sikassen(sis) (Latin) (from Apostolic Vicariate of Bobo-Dioulasso)1963.07.06: Promoted as Diocese of Sikasso / Sikassen(sis) (Latin) (became suffragan of Bamako)Present PrelatesBishop (2026.03.19 – ...):Bishop Noël Bernard Coulibaly (49)OrdinariesBishops of Sikasso (Roman Rite)Bishop Noël Bernard Coulibaly (49)  (2026.03.19 – ...)Bishop of Sikasso (Mali)Born:1976.12.17 (Niono, Mali)Ordained Priest:2002.07.06Consecrated Bishop:2026.07.04Priest of Sikasso (Mali) (2002.07.06 – 2026.03.19)Bishop of Sikasso (Mali) (2026.03.19 – ...)Bishop Robert Cissé (58) (later Archbishop)  (2022.12.14 – 2024.07.25)Metropolitan Archbishop of Bamako (Mali)Evangelii veritasBorn:1968.07.07 (Bamako, Mali)Ordained Priest:1993.07.10Consecrated Bishop:2023.02.11Priest of Sikasso (Mali) (1993.07.10 – 2022.12.14)Bishop of Sikasso (Mali) (2022.12.14 – 2024.07.25)Metropolitan Archbishop of Bamako (Mali) (2024.07.25 – ...)Bishop Jean-Baptiste Tiama (70)  (Apostolic Administrator 2020.03.27 – 2022.12.14)Bishop Jean-Baptiste Tiama (70)  (1998.11.05 – 2020.03.27)Bishop of Mopti (Mali)Born:1955 (Nazar, Mali)Ordained Priest:1984.01.07Consecrated Bishop:1999.02.13Priest of Mopti (Mali) (1984.01.07 – 1998.11.05)Bishop of Sikasso (Mali) (1998.11.05 – 2020.03.27)President of Episcopal Conference of Mali (2009.04 – 2017.03)Apostolic Administrator of Sikasso (Mali) (2020.03.27 – 2022.12.14)Bishop of Mopti (Mali) (2020.03.27 – ...)Bishop Jean-Baptiste Maria Cissé  (1976.07.08 – 1996.11.03)Born:1932.08.28 (Ségou, Mali)Ordained Priest:1959.04.04Consecrated Bishop:1977.01.08Died:1996.11.03 († 64)Bishop of Sikasso (Mali) (1976.07.08 – 1996.11.03)President of Episcopal Conference of Mali (1987 – 1996)Bishop Didier Pérouse de Montclos, M. Afr.  (1963.07.06 – 1976.07.08)Born:1910.04.13 (Amiens, France)Ordained Priest:1936.06.29Consecrated Bishop:1963.10.20Died:1980.12.19 (Bobo-Dioulasso, Burkina Faso † 70)Prefect Apostolic of Sikasso (Mali) (1947.10.17 – 1963.07.06)Bishop of Sikasso (Mali) (1963.07.06 – 1976.07.08)Prefects Apostolic of Sikasso (Roman Rite)Fr. Didier Pérouse de Montclos, M. Afr. (later Bishop)  (1947.10.17 – 1963.07.06)(see above)Special ChurchesCathedral:  Cathédrale Notre-Dame de Lourdes, Sikasso, Sikasso Churches by City (8)Show MapBamako (↖), Ségou (↑), San (↗), Nouna (↗), Bobo-Dioulasso (→), Banfora (↘), Korhogo (↓)Statistics (2021.12.31)Area: 47,950 km²Population: 44,600 Catholics (1.9% of 2,401,000 total)Pastoral Centres: 9 parishesPersonnel: 29 priests (21 diocesan, 8 religious), 29 religious (9 brothers, 20 sisters), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sika0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2401000,
+    "catholiques": 44600,
+    "pourcentage_catholiques": 1.9
+  },
+  "ressources": {
+    "pretres_diocesains": 21,
+    "pretres_religieux": null,
+    "total_pretres": 29,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 9
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

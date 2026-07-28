@@ -1,0 +1,29 @@
+{
+  "id": "cd-kind0",
+  "nom": "Kindu",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Kindu / Kinduen(sis) (Latin)Ecclesiastical Province: BukavuNeighbouring Dioceses: Kabinda (↙), Tshumbe (←), Kole (↖), Isangi (↖), Kisangani (↑), Goma (↗), Kasongo (→), Kongolo (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1956.04.23: Established as Apostolic Vicariate of Kindu / Kinduen(sis) (Latin) (from Apostolic Vicariate of Kongolo and Apostolic Vicariate of Stanleyville)1959.11.10: Promoted as Diocese of Kindu / Kinduen(sis) (Latin) (became suffragan of Bukavu)Present PrelatesBishop (2020.11.18 – ...):Bishop François Abeli Muhoya Mutchapaa (52)OrdinariesBishops of Kindu (Roman Rite)Bishop François Abeli Muhoya Mutchapaa (52)  (2020.11.18 – ...)Bishop of Kindu (Congo-Kinshasa)Born:1974.02.09 (Kindu, Congo-Kinshasa)Ordained Priest:2002.01.06Consecrated Bishop:2021.02.06Priest of Kindu (Congo-Kinshasa) (2002.01.06 – 2020.11.18)Bishop of Kindu (Congo-Kinshasa) (2020.11.18 – ...)Bishop Willy Ngumbi Ngengele, M. Afr. (61)  (2007.04.25 – 2019.04.23)Bishop of Goma (Congo-Kinshasa)Born:1965.02.13 (Bujumbura, Burundi)Ordained Priest:1993.08.01Consecrated Bishop:2007.07.22Bishop of Kindu (Congo-Kinshasa) (2007.04.25 – 2019.04.23)Bishop of Goma (Congo-Kinshasa) (2019.04.23 – ...)Bishop Théophile Kaboy Ruboneka (85)  (Apostolic Administrator 2004.02.03 – 2007.04.25)Bishop Paul Mambe Mukanga  (1979.03.15 – 2004.01.26)Born:1929.04.13 (Shopo, Congo-Kinshasa)Ordained Priest:1957.12.28Consecrated Bishop:1979.06.24Died:2004.01.26 († 74)Bishop of Kindu (Congo-Kinshasa) (1979.03.15 – 2004.01.26)Archbishop Aloys Mulindwa Mutabesha Mugoma Mweru  (Apostolic Administrator 1978.01.17 – 1979.03.15)Bishop Albert Onyembo Lomandjo, C.S.Sp.  (1966.05.17 – 1978.01.17)Born:1931.07.06 (Kindu, Congo-Kinshasa)Ordained Priest:1958.07.27Consecrated Bishop:1966.12.11Died:2016.01.11 († 84)Bishop of Kindu (Congo-Kinshasa) (1966.05.17 – 1978.01.17)Bishop Jean Fryns, C.S.Sp.  (1959.11.10 – 1965.07.02)Born:1910.07.05 (La Calamine, Belgium)Ordained Priest:1936.07.12Consecrated Bishop:1957.07.07Died:1965.07.02 (Kindu, Congo-Kinshasa † 54)Titular Bishop of Ariassus (1957.04.12 – 1959.11.10)Vicar Apostolic of Kindu (Congo-Kinshasa) (1957.04.12 – 1959.11.10)Bishop of Kindu (Congo-Kinshasa) (1959.11.10 – 1965.07.02)Vicars Apostolic of Kindu (Roman Rite)Bishop Jean Fryns, C.S.Sp.  (1957.04.12 – 1959.11.10)(see above)Special ChurchesCathedral:  Cathédrale Saint-Esprit, Kindu, Maniema Show MapKabinda (↙), Tshumbe (←), Kole (↖), Isangi (↖), Kisangani (↑), Goma (↗), Kasongo (→), Kongolo (↘)Statistics (2022.12.31)Area: 82,883 km²Population: 429,000 Catholics (32.9% of 1,304,000 total)Pastoral Centres: 20 parishes, 2 missionsPersonnel: 52 priests (43 diocesan, 9 religious), 90 religious (13 brothers, 77 sisters), 29 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kind0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1304000,
+    "catholiques": 429000,
+    "pourcentage_catholiques": 32.9
+  },
+  "ressources": {
+    "pretres_diocesains": 43,
+    "pretres_religieux": null,
+    "total_pretres": 52,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

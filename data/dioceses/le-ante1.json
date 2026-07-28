@@ -1,0 +1,29 @@
+{
+  "id": "le-ante1",
+  "nom": "Antélias",
+  "pays": "le",
+  "pays_nom": "Lebanon",
+  "continent": "unknown",
+  "type": "Archdiocese Name: Antélias (français) / Antelias (English) / Antelien(sis) Maronitarum (Latin)Subject to the PatriarchNeighbouring Dioceses: Jebbeh–Sarba–Jounieh (↑), Beirut (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: History1988.06.11: Established as Archdiocese of Antélias (français) / Antelias (English) / Antelien(sis) Maronitarum (Latin) (from Archdiocese of Cyprus and without ecclesiastical province)Present PrelatesArchbishop (2021.03.03 – ...):Archbishop Antoine Farès Bou Najm (58)OrdinariesArchbishops of Antélias (Maronite Rite)Archbishop Antoine Farès Bou Najm (58)  (2021.03.03 – ...)Archbishop of Antélias of the Maronites (Lebanon)Born:1967.08.10 (Harharaya-Kattine, Lebanon)Ordained Priest:1994.07.10Consecrated Bishop:2021.04.09Priest of Antélias of the Maronites (Lebanon) (1994.07.10 – 2021.03.03)Archbishop of Antélias of the Maronites (Lebanon) (2021.03.03 – ...)Archbishop Camille Zaidan  (2012.06.16 – 2019.10.21)Born:1944.03.09 (Qusayba-Metn, Lebanon)Ordained Priest:1971.10.23Consecrated Bishop:2011.09.23Died:2019.10.21 (Matn, Lebanon † 75)Priest of Antélias of the Maronites (Lebanon) (1971.10.23 – 2011.08.13)Titular Bishop of Ptolemais in Phœnicia of the Maronites (2011.08.13 – 2012.06.16)Bishop of Curia of the Maronites (2011.08.13 – 2012.06.16)Archbishop of Antélias of the Maronites (Lebanon) (2012.06.16 – 2019.10.21)Archbishop Joseph Mohsen Béchara  (1988.06.11 – 2012.06.16)Born:1935.03.19 (Arbet-Kozhaya, Lebanon)Ordained Priest:1963.04.19Consecrated Bishop:1986.05.18Died:2020.06.09 († 85)Archbishop of Cyprus of the Maronites (Cyprus) (1986.04.04 – 1988.06.11)Archbishop of Antélias of the Maronites (Lebanon) (1988.06.11 – 2012.06.16)Special ChurchesCathedral:  Cathedral of the Resurrection, Raboueh, Mount Lebanon Show MapJebbeh–Sarba–Jounieh (↑), Beirut (↓)Statistics (2022.12.31)Population: 269,000 CatholicsPastoral Centres: 98 parishesPersonnel: 180 priests (94 diocesan, 86 religious), 405 religious (98 brothers, 307 sisters), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ante1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 94,
+    "pretres_religieux": null,
+    "total_pretres": 180,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 98
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

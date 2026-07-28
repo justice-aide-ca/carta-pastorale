@@ -1,0 +1,29 @@
+{
+  "id": "ke-bung0",
+  "nom": "Bungoma",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Bungoma / Bungomaën(sis) (Latin)Ecclesiastical Province: KisumuNeighbouring Dioceses: Kisumu (↙), Tororo (←), Kitale (↗), Eldoret (→), Kakamega (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1987.04.27: Established as Diocese of Bungoma / Bungomaën(sis) (Latin) (from Diocese of Kakamega and became suffragan of Nairobi)1990.05.21: Became suffragan of KisumuPresent PrelatesBishop (2021.12.14 – ...):Bishop Mark Kadima (62)OrdinariesBishops of Bungoma (Roman Rite)Bishop Mark Kadima (62)  (2021.12.14 – ...)Bishop of Bungoma (Kenya)Born:1964.04.30 (Kakamega, Kenya)Ordained Priest:1993.10.02Consecrated Bishop:2022.02.19Priest of Kakamega (Kenya) (1993.10.02 – 2021.12.14)Chaplain of His Holiness (2005.08.08 – 2017.12.23)Prelate of Honour of His Holiness (2017.12.23 – 2021.12.14)Bishop of Bungoma (Kenya) (2021.12.14 – ...)Bishop Joseph Obanyi Sagwe (58)  (Apostolic Administrator 2018.06.23 – 2021.12.14)Bishop Norman King’oo Wambua (73)  (1998.06.27 – 2018.06.23)Bishop of Machakos (Kenya)Born:1952 (Kathiani, Kenya)Ordained Priest:1988.05.22Consecrated Bishop:1998.08.16Priest of Lodwar (Kenya) (1988.05.22 – 1998.06.27)Bishop of Bungoma (Kenya) (1998.06.27 – 2018.06.23)Bishop of Machakos (Kenya) (2018.06.23 – ...)Apostolic Administrator sede plena of Wote (Kenya) (2024.09.28 – 2025.09.21)Bishop Longinus Atundo  (1987.04.27 – 1996.11.15)Born:1936.01.04 (Lunganyiro, Kenya)Ordained Priest:1964.12.30Consecrated Bishop:1987.06.28Died:1996.11.15 (Bungoma, Kenya † 60)Bishop of Bungoma (Kenya) (1987.04.27 – 1996.11.15)Special ChurchesCathedral:  Cathedral of Christ the King, Bungoma, Bungoma Jubilee Churches in the Holy Year 2025Show MapKisumu (↙), Tororo (←), Kitale (↗), Eldoret (→), Kakamega (↓)Statistics (2022.12.31)Area: 4,550 km²Population: 889,763 Catholics (52.0% of 1,709,701 total)Pastoral Centres: 47 parishes, 1 missionPersonnel: 85 priests (diocesan), 165 religious (58 brothers, 107 sisters), 65 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bung0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1709701,
+    "catholiques": 889763,
+    "pourcentage_catholiques": 52.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

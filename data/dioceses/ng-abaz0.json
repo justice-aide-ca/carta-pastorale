@@ -1,0 +1,29 @@
+{
+  "id": "ng-abaz0",
+  "nom": "Aba",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Aba / Aban(us) (Latin)Ecclesiastical Province: OwerriNeighbouring Dioceses: Port Harcourt (↙), Owerri (↖), Ahiara (↑), Umuahia (↗), Ikot Ekpene (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1990.04.02: Established as Diocese of Aba / Aban(us) (Latin) (from Diocese of Umuahia and became suffragan of Onitsha)1994.03.26: Became suffragan of OwerriPresent PrelatesBishop (2019.12.28 – ...):Bishop Augustine Ndubueze Echema (67)Monsignors (6)OrdinariesBishops of Aba (Roman Rite)Bishop Augustine Ndubueze Echema (67)  (2019.12.28 – ...)Bishop of Aba (Nigeria)Non nobis DomineBorn:1958.12.28 (Ohuhu Nsulu, Nigeria)Ordained Priest:1986.08.16Consecrated Bishop:2020.02.13Priest of Owerri (Nigeria) (1986.08.16 – 2019.12.28)Bishop of Aba (Nigeria) (2019.12.28 – ...)Bishop Vincent Valentine Egwuchukwu Ezeonyia, C.S.Sp.  (1990.04.02 – 2015.02.08)Born:1941.04.05 (Uke, Nigeria)Ordained Priest:1968.08.03Consecrated Bishop:1990.07.01Died:2015.02.08 († 73)Bishop of Aba (Nigeria) (1990.04.02 – 2015.02.08)Special ChurchesCathedral:  Christ the King Cathedral, Aba, Abia Show MapPort Harcourt (↙), Owerri (↖), Ahiara (↑), Umuahia (↗), Ikot Ekpene (→)Statistics (2022.12.31)Area: 2,494 km²Population: 647,102 Catholics (48.1% of 1,345,630 total)Pastoral Centres: 96 parishes, 7 missionsPersonnel: 265 priests (179 diocesan, 86 religious), 1 deacon, 231 religious (99 brothers, 132 sisters), 93 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "abaz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1345630,
+    "catholiques": 647102,
+    "pourcentage_catholiques": 48.1
+  },
+  "ressources": {
+    "pretres_diocesains": 179,
+    "pretres_religieux": null,
+    "total_pretres": 265,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 96
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cm-kumb1",
+  "nom": "Kumbo",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Kumbo / Kumboën(sis) (Latin)Ecclesiastical Province: BamendaNeighbouring Dioceses: Bamenda (←), Wukari (↑), Yola (↗), Ngaoundéré (→), Bafoussam (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1982.03.18: Established as Diocese of Kumbo / Kumboën(sis) (Latin) (from Diocese of Bamenda and became suffragan of Bamenda)Present PrelatesBishop (2006.07.08 – ...):Bishop George Nkuo (73)OrdinariesBishops of Kumbo (Roman Rite)Bishop George Nkuo (73)  (2006.07.08 – ...)Bishop of Kumbo (Cameroon)Deus caritas estBorn:1953.02.27 (Njiniikom, Cameroon)Ordained Priest:1981.04.26Consecrated Bishop:2006.09.08Priest of Buéa (Cameroon) (1981.04.26 – 2006.07.08)Bishop of Kumbo (Cameroon) (2006.07.08 – ...)Bishop Cornelius Fontem Esua (83) (later Archbishop)  (1982.09.10 – 2004.12.07)Metropolitan Archbishop emeritus of Bamenda (Cameroon)Sermo tuus veritas estBorn:1943.07.02 (Mbetta, Cameroon)Ordained Priest:1971.12.29Consecrated Bishop:1982.12.08Priest of Buéa (Cameroon) (1971.12.29 – 1982.09.10)Bishop of Kumbo (Cameroon) (1982.09.10 – 2004.12.07)President of National Episcopal Conference of Cameroon (2000 – 2004)Coadjutor Archbishop of Bamenda (Cameroon) (2004.12.07 – 2006.01.23)Metropolitan Archbishop of Bamenda (Cameroon) (2006.01.23 – 2019.12.30)Archbishop Paul Verdzekov  (Apostolic Administrator 1982.03.18 – 1982.09.10)Special ChurchesCathedral:  Cathédrale Sainte-Thérèse, Kumbo, North-West Show MapBamenda (←), Wukari (↑), Yola (↗), Ngaoundéré (→), Bafoussam (↓)Statistics (2021.12.31)Area: 8,600 km²Population: 146,523 Catholics (15.0% of 977,080 total)Pastoral Centres: 40 parishesPersonnel: 113 priests (85 diocesan, 28 religious), 217 religious (74 brothers, 143 sisters), 130 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kumb1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 977080,
+    "catholiques": 146523,
+    "pourcentage_catholiques": 15.0
+  },
+  "ressources": {
+    "pretres_diocesains": 85,
+    "pretres_religieux": null,
+    "total_pretres": 113,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

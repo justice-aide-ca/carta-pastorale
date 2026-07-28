@@ -1,0 +1,29 @@
+{
+  "id": "ar-zfra1",
+  "nom": "San Francisco",
+  "pays": "ar",
+  "pays_nom": "Argentina",
+  "continent": "amerique",
+  "type": "Diocese Name: San Francisco / Franciscopoltan(us) (Latin)Ecclesiastical Province: CórdobaNeighbouring Dioceses: Córdoba (←), Deán Funes (↖), Rafaela (→), Santa Fe de la Vera Cruz (↘), Villa María (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nuestra Señora del Rosario de Fátima (May 13)Liturgical Calendar (National) 📅History1961.04.10: Established as Diocese of San Francisco / Franciscopoltan(us) (Latin) (from Metropolitan Archdiocese of Córdoba and became suffragan of Córdoba)Contact InfoAddress: Bv. Roque Sáenz Peña 1442, X2400BBO, San Francisco, ArgentinaPhone: (03564) 426114Present PrelatesBishop (2013.05.31 – ...):Bishop Sergio Osvaldo Buenanueva (62)Monsignors (4)OrdinariesBishops of San Francisco (Roman Rite)Bishop Sergio Osvaldo Buenanueva (62)  (2013.05.31 – ...)Bishop of San Francisco (Argentina)Evangelium gratiæBorn:1963.12.19 (San Martín, Argentina)Ordained Priest:1990.09.29Consecrated Bishop:2008.09.27Priest of Mendoza (Argentina) (1990.09.29 – 2008.07.16)Titular Bishop of Rusubbicari (2008.07.16 – 2013.05.31)Auxiliary Bishop of Mendoza (Argentina) (2008.07.16 – 2013.05.31)Bishop of San Francisco (Argentina) (2013.05.31 – ...)Bishop Carlos José Tissera (74)  (2004.11.16 – 2011.10.12)Bishop of Quilmes (Argentina)En tu palabra echaré las redesBorn:1951.09.10 (Rio Cuarto, Argentina)Ordained Priest:1978.04.07Consecrated Bishop:2005.02.06Priest of Río Cuarto (Argentina) (1978.04.07 – 2004.11.16)Bishop of San Francisco (Argentina) (2004.11.16 – 2011.10.12)Bishop of Quilmes (Argentina) (2011.10.12 – ...)Bishop Baldomero Carlos Martini (86)  (1988.12.02 – 2004.02.14)Bishop emeritus of San Justo (Argentina)Dios es amorBorn:1939.10.12 (Porteña, Argentina)Ordained Priest:1969.09.07Consecrated Bishop:1989.02.05Priest of San Francisco (Argentina) (1969.09.07 – 1988.12.02)Prelate of Honour of His Holiness (1987.06.20 – 1988.12.02)Bishop of San Francisco (Argentina) (1988.12.02 – 2004.02.14)Bishop of San Justo (Argentina) (2004.02.14 – 2014.11.06)Bishop Agustín Adolfo Herrera  (1965.09.08 – 1988.12.02)Veritatem facientes in caritateBorn:1912.08.28 (Tucumán, Argentina)Ordained Priest:1937.03.27Consecrated Bishop:1957.05.11Died:2000.07.18 (San Francisco, Argentina † 87)Bishop of Nueve de Julio (Argentina) (1957.03.13 – 1961.07.24)Titular Bishop of Tanais (1961.07.24 – 1965.09.08)Coadjutor Bishop of Jujuy (Argentina) (1961.07.24 – 1965.09.08)Bishop of San Francisco (Argentina) (1965.09.08 – 1988.12.02)Bishop Pedro Reginaldo Lira  (1961.06.12 – 1965.06.22)Born:1915.09.07 (Salta, Argentina)Ordained Priest:1938.09.21Consecrated Bishop:1958.09.07Died:2012.12.11 († 97)Priest of Salta (Argentina) (1938.09.21 – 1958.07.16)Titular Bishop of Tenedus (1958.07.16 – 1961.06.12)Auxiliary Bishop of Salta (Argentina) (1958.07.16 – 1961.06.12)Bishop of San Francisco (Argentina) (1961.06.12 – 1965.06.22)Titular Bishop of Castellum in Mauretania (1965.06.22 – 1978.05.15)Auxiliary Bishop of Salta (Argentina) (1967 – 1978.05.15)Special ChurchesCathedral:  Catedral San Francisco de Asís, San Francisco, Cordoba Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (31)Show MapCórdoba (←), Deán Funes (↖), Rafaela (→), Santa Fe de la Vera Cruz (↘), Villa María (↓)Statistics (2022.12.31)Area: 19,611 km²Population: 240,000 Catholics (95.9% of 250,300 total)Pastoral Centres: 30 parishes, 75 missionsPersonnel: 30 priests (27 diocesan, 3 religious), 18 religious (5 brothers, 13 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zfra1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 250300,
+    "catholiques": 240000,
+    "pourcentage_catholiques": 95.9
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

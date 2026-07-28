@@ -1,0 +1,29 @@
+{
+  "id": "br-zama0",
+  "nom": "Santo Amaro",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Santo Amaro / Sancti Mauri (Latin)Ecclesiastical Province: São PauloNeighbouring Dioceses: Campo Limpo (←), São Paulo (↑), Santo André (→), Santos (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1989.03.15: Established as Diocese of Santo Amaro / Sancti Mauri (Latin) (from Metropolitan Archdiocese of São Paulo and became suffragan of São Paulo)Present PrelatesBishop (2015.12.02 – ...):Bishop José Negri (Giuseppe), P.I.M.E. (66)Auxiliary Bishop (2023.02.15 – ...):Bishop Marcelo Antônio da Silva (54)Titular Bishop of TabaicaraMonsignors (6)OrdinariesBishops of Santo Amaro (Roman Rite)Bishop José Negri (Giuseppe), P.I.M.E. (66)  (2015.12.02 – ...)Bishop of Santo Amaro (Brazil)Basta-te a minha graçaBorn:1959.09.19 (Milano, Italy)Ordained Priest:1986.06.07Consecrated Bishop:2006.03.05Titular Bishop of Puppi (2005.12.14 – 2009.02.18)Auxiliary Bishop of Florianópolis (Brazil) (2005.12.14 – 2009.02.18)Bishop of Blumenau (Brazil) (2009.02.18 – 2014.10.29)Coadjutor Bishop of Santo Amaro (Brazil) (2014.10.29 – 2015.12.02)Bishop of Santo Amaro (Brazil) (2015.12.02 – ...)Bishop Fernando Antônio Figueiredo, O.F.M. (86)  (1989.03.15 – 2015.12.02)Bishop emeritus of Santo Amaro (Brazil)A serviço do EvangelhoBorn:1939.12.01 (Muzambinho, MG, Brazil)Ordained Priest:1967.12.16Consecrated Bishop:1984.03.10Titular Bishop of Ulcinj (1984.01.21 – 1984.11.12)Auxiliary Bishop of Teófilo Otoni (Brazil) (1984.01.21 – 1984.11.12)Coadjutor Bishop of Teófilo Otoni (Brazil) (1984.11.12 – 1985.08.03)Bishop of Teófilo Otoni (Brazil) (1985.08.03 – 1989.03.15)Bishop of Santo Amaro (Brazil) (1989.03.15 – 2015.12.02)Former PrelatesCoadjutor Bishop: Bishop José Negri (Giuseppe), P.I.M.E. (66) (2014.10.29 – 2015.12.02)Auxiliary Bishop: Bishop Luciano Bergamin, C.R.L. (82) (2000.04.05 – 2002.07.24)Special ChurchesCathedral:  Catedral Santo Amaro, São Paulo, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (103)Show MapCampo Limpo (←), São Paulo (↑), Santo André (→), Santos (↘)Statistics (2022.12.31)Area: 563 km²Population: 2,635,000 Catholics (82.4% of 3,198,000 total)Pastoral Centres: 111 parishesPersonnel: 185 priests (114 diocesan, 71 religious), 526 religious (200 brothers, 326 sisters), 22 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zama0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3198000,
+    "catholiques": 2635000,
+    "pourcentage_catholiques": 82.4
+  },
+  "ressources": {
+    "pretres_diocesains": 114,
+    "pretres_religieux": null,
+    "total_pretres": 185,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 111
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

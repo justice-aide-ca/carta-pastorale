@@ -1,0 +1,29 @@
+{
+  "id": "co-font0",
+  "nom": "Fontibón",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Fontibón / Fontibonen(sis) (Latin)Ecclesiastical Province: BogotáNeighbouring Dioceses: Soacha (↙), Facatativá (↖), Engativá (↑), Bogotá (→)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History2003.08.06: Established as Diocese of Fontibón / Fontibonen(sis) (Latin) (from Metropolitan Archdiocese of Bogotá and became suffragan of Bogotá)Present PrelatesBishop (2011.11.25 – ...):Bishop Juan Vicente Córdoba Villota, S.J. (74)Monsignors (4)OrdinariesBishops of Fontibón (Roman Rite)Bishop Juan Vicente Córdoba Villota, S.J. (74)  (2011.11.25 – ...)Bishop of Fontibón (Colombia)En todo amar y servirBorn:1951.07.23 (Quito, Ecuador)Ordained Priest:1979.10.19Consecrated Bishop:2004.08.28Titular Bishop of Ausuccura (2004.06.30 – 2011.11.25)Auxiliary Bishop of Bucaramanga (Colombia) (2004.06.30 – 2011.11.25)General Secretary of Episcopal Conference of Colombia (2009 – 2012)Bishop of Fontibón (Colombia) (2011.11.25 – ...)Bishop Enrique Sarmiento Angulo (92)  (2003.08.06 – 2011.11.25)Bishop emeritus of Fontibón (Colombia)Born:1934.06.01 (Santafé de Bogotá, Colombia)Ordained Priest:1958.10.24Consecrated Bishop:1986.06.13Priest of Bogotá (Colombia) (1958.10.24 – 1986.05.03)Prelate of Honour of His Holiness (1983.05.14 – 1986.05.03)Titular Bishop of Crepedula (1986.05.03 – 2003.08.06)Auxiliary Bishop of Bogotá (Colombia) (1986.05.03 – 2003.08.06)Bishop of Fontibón (Colombia) (2003.08.06 – 2011.11.25)Special ChurchesCathedral:  Catedral de Santiago Apóstol, Fontibón, Distrito Capital de Bogotá Jubilee Churches in the Holy Year 2025Churches by City (66)Show MapSoacha (↙), Facatativá (↖), Engativá (↑), Bogotá (→)Statistics (2021.12.31)Area: 80 km²Population: 1,167,000 Catholics (72.7% of 1,606,000 total)Pastoral Centres: 62 parishesPersonnel: 87 priests (66 diocesan, 21 religious), 28 deacons, 100 religious (35 brothers, 65 sisters), 24 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "font0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1606000,
+    "catholiques": 1167000,
+    "pourcentage_catholiques": 72.7
+  },
+  "ressources": {
+    "pretres_diocesains": 66,
+    "pretres_religieux": null,
+    "total_pretres": 87,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 62
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

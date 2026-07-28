@@ -1,0 +1,29 @@
+{
+  "id": "cn-kwei1",
+  "nom": "Guilin 桂林",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Apostolic Prefecture Name: Guilin 桂林 (中文) / Kweilin / Guìlín 桂林 (简体中文) / Kveilinen(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Nanning 南寧 (↙), Baoqing 寶慶 (↑), Yongzhou 永州 (↗), Shaoguan 韶關 (→), Wuzhou 梧州 (↘)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Guangxi 廣西 CelebrationsLiturgical Calendar (Universal) 📅History1938.02.09: Established as Apostolic Prefecture of Guilin 桂林 (中文) / Kweilin / Guìlín 桂林 (简体中文) / Kveilinen(sis) (Latin) (from Apostolic Prefecture of Wuzhou 梧州)Present PrelatesPrefect Apostolic:vacantOrdinariesPrefects Apostolic of Guilin 桂林 (Roman Rite)Bishop Benedict Cai Xiu-feng (蔡秀峰)  (1993 – 2007.08.20)Born:1917.01.02 (Pingnan, China)Ordained Priest:1948.12.03Consecrated Bishop:1993.12.03Died:2007.08.20 († 90)Prefect Apostolic of Guilin 桂林 (China) (1993 – 2007.08.20)Msgr. John Angel Romaniello (羅民勞), M.M.  (1938.06.10 – 1983)Born:1900.09.12 (USA)Ordained Priest:1928.06.17Died:1985.10.22 († 85)Prefect Apostolic of Guilin 桂林 (China) (1938.06.10 – 1983)Special ChurchesCathedral:  Cathedral of St. Therese of Lisieux, Guilin 桂林, Guangxi Show MapNanning 南寧 (↙), Baoqing 寶慶 (↑), Yongzhou 永州 (↗), Shaoguan 韶關 (→), Wuzhou 梧州 (↘)Statistics (1949.12.31)Area: 32,380 km²Population: 3,968 Catholics (0.2% of 2,500,000 total)Pastoral Centres: 6 parishes, 3 missionsPersonnel: 39 priests (20 diocesan, 19 religious), 13 religious (13 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kwei1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2500000,
+    "catholiques": 3968,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 39,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

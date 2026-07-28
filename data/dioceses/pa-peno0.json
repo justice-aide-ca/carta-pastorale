@@ -1,0 +1,29 @@
+{
+  "id": "pa-peno0",
+  "nom": "Penonomé",
+  "pays": "pa",
+  "pays_nom": "Panama",
+  "continent": "unknown",
+  "type": "Diocese Name: Penonomé / Pœnonomen(sis) (Latin)Ecclesiastical Province: PanamáNeighbouring Dioceses: Santiago de Veraguas (↙), Colón–Kuna Yala (↑), Panamá (→), Chitré (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1993.12.18: Established as Diocese of Penonomé / Pœnonomen(sis) (Latin) (from Metropolitan Archdiocese of Panamá and became suffragan of Panamá)Present PrelatesBishop (2015.10.15 – ...):Bishop Edgardo Cedeño Muñoz, S.V.D. (66)OrdinariesBishops of Penonomé (Roman Rite)Bishop Edgardo Cedeño Muñoz, S.V.D. (66)  (2015.10.15 – ...)Bishop of Penonomé (Panama)Servidor de la alegríaBorn:1960.01.18 (Panamá, Panama)Ordained Priest:1989.10.28Consecrated Bishop:2015.12.05Bishop of Penonomé (Panama) (2015.10.15 – ...)Bishop Uriah Adolphus Ashley Maclean  (1993.12.18 – 2015.06.25)Mi fuerza el SeñorBorn:1944.02.01 (Almirante, Panama)Ordained Priest:1979.08.15Consecrated Bishop:1994.01.06Died:2020.11.25 (Panamá, Panama † 76)Priest of Panamá (Panama) (1979.08.15 – 1993.12.18)Bishop of Penonomé (Panama) (1993.12.18 – 2015.06.25)Auxiliary Bishop of Panamá (Panama) (2015.06.25 – 2019.04.26)Titular Bishop of Agbia (2015.06.25 – 2020.11.25)Special ChurchesCathedral:  Catedral San Juan Bautista, Penonomé, Coclé Jubilee Churches in the Holy Year 2025Show MapSantiago de Veraguas (↙), Colón–Kuna Yala (↑), Panamá (→), Chitré (↓)Statistics (2022.12.31)Area: 4,947 km²Population: 239,000 Catholics (81.1% of 294,780 total)Pastoral Centres: 11 parishesPersonnel: 22 priests (15 diocesan, 7 religious), 21 religious (9 brothers, 12 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "peno0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 294780,
+    "catholiques": 239000,
+    "pourcentage_catholiques": 81.1
+  },
+  "ressources": {
+    "pretres_diocesains": 15,
+    "pretres_religieux": null,
+    "total_pretres": 22,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

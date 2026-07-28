@@ -1,0 +1,29 @@
+{
+  "id": "cm-ebol0",
+  "nom": "Ebolowa",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Ebolowa / Ebolouan(us) (Latin)Ecclesiastical Province: YaoundéNeighbouring Dioceses: Kribi (←), Edéa (↖), Mbalmayo (↗), Sangmélima (→), Oyem (↘), Ebebiyín (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1991.05.20: Established as Diocese of Ebolowa–Kribi / Ebolouan(us)–Kriben(sis) (Latin) (from Metropolitan Archdiocese of Douala and Diocese of Sangmélima and became suffragan of Yaoundé)2008.06.19: Renamed as Diocese of Ebolowa / Ebolouan(us) (Latin) (lost territory to establish Diocese of Kribi)Present PrelatesBishop (2016.10.22 – ...):Bishop Philippe Alain Mbarga (58)Vice-President of National Episcopal Conference of CameroonOrdinariesBishops of Ebolowa (Roman Rite)Bishop Philippe Alain Mbarga (58)  (2016.10.22 – ...)Bishop of Ebolowa (Cameroon)Vice-President of National Episcopal Conference of CameroonMysterium fideiBorn:1968.01.28 (Obout, Cameroon)Ordained Priest:1994.12.10Consecrated Bishop:2016.12.08Priest of Mbalmayo (Cameroon) (1994.12.10 – 2016.10.22)Bishop of Ebolowa (Cameroon) (2016.10.22 – ...)Vice-President of National Episcopal Conference of Cameroon (2022.04.30 – ...)Archbishop Jean Mbarga (70)  (Apostolic Administrator 2014.11.29 – 2016.10.22)Bishop Jean Mbarga (70) (later Archbishop)  (2008.06.19 – 2014.10.31)Metropolitan Archbishop of Yaoundé (Cameroon)J’aime le Christ et je bâtis son égliseBorn:1956.05.18 (Ebolmedzo, Cameroon)Ordained Priest:1981.12.05Consecrated Bishop:2004.12.05Priest of Yaoundé (Cameroon) (1981.12.05 – 2004.10.15)Bishop of Ebolowa–Kribi (Cameroon) (2004.10.15 – 2008.06.19)Bishop of Ebolowa (Cameroon) (2008.06.19 – 2014.10.31)Apostolic Administrator of Yaoundé (Cameroon) (2013.07.29 – 2014.10.31)Metropolitan Archbishop of Yaoundé (Cameroon) (2014.10.31 – ...)Apostolic Administrator of Ebolowa (Cameroon) (2014.11.29 – 2016.10.22)Bishops of Ebolowa–Kribi (Roman Rite)Bishop Jean Mbarga (70) (later Archbishop)  (2004.10.15 – 2008.06.19)(see above)Bishop Raphaël Marie Ze  (Apostolic Administrator 2002.03.15 – 2004.10.15)Bishop Jean-Baptiste Ama  (1991.05.20 – 2002.03.15)Born:1926.08.20 (Koundou, Cameroon)Ordained Priest:1955.06.04Consecrated Bishop:1975.02.02Died:2004.02.29 († 77)Titular Bishop of Accia (1974.12.12 – 1983.07.22)Auxiliary Bishop of Yaoundé (Cameroon) (1974.12.12 – 1983.07.22)Bishop of Sangmélima (Cameroon) (1983.07.22 – 1991.05.20)President of National Episcopal Conference of Cameroon (1991 – 1994)Bishop of Ebolowa–Kribi (Cameroon) (1991.05.20 – 2002.03.15)Special ChurchesCathedral:  Cathédrale Sainte-Anne et Saint-Joachim, Abang, South Show MapKribi (←), Edéa (↖), Mbalmayo (↗), Sangmélima (→), Oyem (↘), Ebebiyín (↓)Statistics (2020.12.31)Area: 9,970 km²Population: 153,000 Catholics (47.8% of 320,000 total)Pastoral Centres: 54 parishes, 2 missionsPersonnel: 62 priests (55 diocesan, 7 religious), 67 religious (20 brothers, 47 sisters), 70 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ebol0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 320000,
+    "catholiques": 153000,
+    "pourcentage_catholiques": 47.8
+  },
+  "ressources": {
+    "pretres_diocesains": 55,
+    "pretres_religieux": null,
+    "total_pretres": 62,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 54
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tg-soko0",
+  "nom": "Sokodé",
+  "pays": "tg",
+  "pays_nom": "Togo",
+  "continent": "unknown",
+  "type": "Diocese Name: Sokodé / Sokoden(sis) (Latin)Ecclesiastical Province: LoméNeighbouring Dioceses: Jasikan (↙), Yendi (↖), Kara (↑), Djougou (↗), Dassa-Zoumé (↘), Atakpamé (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (Universal) 📅History1937.05.18: Established as Apostolic Prefecture of Sokodé / Sokoden(sis) (Latin) (from Apostolic Vicariate of Togo)1955.09.14: Promoted as Diocese of Sokodé / Sokoden(sis) (Latin) (became suffragan of Lomé)1960.03.01: Lost territory to establish Apostolic Prefecture of Dapango1994.07.01: Lost territory to establish Diocese of KaraPresent PrelatesBishop (2016.01.03 – ...):Bishop Célestin-Marie Bawilima Gaoua (69)Monsignors (1)OrdinariesBishops of Sokodé (Roman Rite)Bishop Célestin-Marie Bawilima Gaoua (69)  (2016.01.03 – ...)Bishop of Sokodé (Togo)Ad misericordiæ servitiumBorn:1957.04.06 (Wahala, Gabon)Ordained Priest:1986.12.27Consecrated Bishop:2016.03.05Priest of Kara (Togo) (1986.12.27 – 2016.01.03)Bishop of Sokodé (Togo) (2016.01.03 – ...)Bishop Ambroise Kotamba Djoliba  (1993.04.05 – 2016.01.03)Born:1938 (Siou, Togo)Ordained Priest:1966.04.11Consecrated Bishop:1993.08.07Died:2024.03.15 (Sokodé, Togo † 85)Priest of Sokodé (Togo) (1966.04.11 – 1993.04.05)Bishop of Sokodé (Togo) (1993.04.05 – 2016.01.03)President of Episcopal Conference of Togo (2006 – 2012.06.21)Bishop Chrétien Matawo Bakpessi  (1965.08.09 – 1992.04.27)Born:1924 (Yadé, Togo)Ordained Priest:1952.12.21Consecrated Bishop:1965.12.05Died:1992.04.27 (Kara, Togo † 67)Priest of Sokodé (Togo) (1952.12.21 – 1965.08.09)Bishop of Sokodé (Togo) (1965.08.09 – 1992.04.27)Bishop Jérôme-Théodore Lingenheim, S.M.A.  (1955.09.14 – 1964.11.18)Born:1906.11.09 (Hochstett, France)Ordained Priest:1932.01.03Consecrated Bishop:1956.10.28Died:1985.05.03 (Sarrebourg, France † 78)Prefect Apostolic of Sokodé (Togo) (1946.06.07 – 1955.09.14)Bishop of Sokodé (Togo) (1955.09.14 – 1964.11.18)Titular Bishop of Thunudruma (1964.11.18 – 1985.05.03)Prefects Apostolic of Sokodé (Roman Rite)Fr. Jérôme-Théodore Lingenheim, S.M.A. (later Bishop)  (1946.06.07 – 1955.09.14)(see above)Fr. Joseph-Paul Strebler, S.M.A. (later Archbishop)  (1937.05 – 1945.11.08)Born:1892.09.12 (Mertzwiller, France)Ordained Priest:1921.07.10Consecrated Bishop:1946.06.29Died:1984.03.12 (Saint-Pierre, France † 91)Prefect Apostolic of Sokodé (Togo) (1937.05 – 1945.11.08)Titular Bishop of Curubis (1945.11.08 – 1955.09.14)Vicar Apostolic of Lomé (Togo) (1945.11.08 – 1955.09.14)Metropolitan Archbishop of Lomé (Togo) (1955.09.14 – 1961.06.16)Titular Archbishop of Nicopolis in Epiro (1961.06.16 – 1971.06.11)Special ChurchesCathedral:  Cathédrale Sainte-Thérèse de l’Enfant-Jésus, Sokodé, Centrale Show MapJasikan (↙), Yendi (↖), Kara (↑), Djougou (↗), Dassa-Zoumé (↘), Atakpamé (↓)Statistics (2022.12.31)Area: 12,610 km²Population: 206,140 Catholics (12.0% of 1,720,500 total)Pastoral Centres: 24 parishes, 87 missionsPersonnel: 79 priests (59 diocesan, 20 religious), 130 religious (31 brothers, 99 sisters), 31 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "soko0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1720500,
+    "catholiques": 206140,
+    "pourcentage_catholiques": 12.0
+  },
+  "ressources": {
+    "pretres_diocesains": 59,
+    "pretres_religieux": null,
+    "total_pretres": 79,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

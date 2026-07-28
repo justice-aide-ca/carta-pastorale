@@ -1,0 +1,29 @@
+{
+  "id": "pa-davi0",
+  "nom": "David",
+  "pays": "pa",
+  "pays_nom": "Panama",
+  "continent": "unknown",
+  "type": "Diocese Name: David / Daviden(sis) (Latin)Ecclesiastical Province: PanamáNeighbouring Dioceses: San Isidro de El General (←), Bocas del Toro (↑), Santiago de Veraguas (→)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1955.03.06: Established as Diocese of David / Daviden(sis) (Latin) (from Archdiocese of Panamá and became suffragan of Panamá)1962.10.17: Lost territory to establish Territorial Prelature of Bocas del ToroPresent PrelatesBishop (2024.02.15 – ...):Bishop Luis Enrique Saldaña Guerra, O.F.M. (60)OrdinariesBishops of David (Roman Rite)Bishop Luis Enrique Saldaña Guerra, O.F.M. (60)  (2024.02.15 – ...)Bishop of David (Panama)Serve cum caritateBorn:1966.02.24 (David, Panama)Ordained Priest:2006.04.29Consecrated Bishop:2024.04.27Bishop of David (Panama) (2024.02.15 – ...)Cardinal José Luis Lacunza Maestrojuán, O.A.R. (82)  (1999.07.02 – 2024.02.15)Cardinal-Priest of S. Giuseppe da CopertinoBishop emeritus of David (Panama)Præsumus si prosumusBorn:1944.02.24 (Pamplona, Spain)Ordained Priest:1969.07.13Consecrated Bishop:1986.01.18Created Cardinal:2015.02.14Titular Bishop of Parthenia (1985.12.30 – 1994.10.29)Auxiliary Bishop of Panamá (Panama) (1985.12.30 – 1994.10.29)General Secretary of Episcopal Secretariat of Central America and Panama (1992 – 1997)Bishop of Chitré (Panama) (1994.10.29 – 1999.07.02)Bishop of David (Panama) (1999.07.02 – 2024.02.15)President of Episcopal Conference of Panama (2000 – 2004)President of Episcopal Conference of Panama (2007.04 – 2013.01)Cardinal-Priest of S. Giuseppe da Copertino (2015.02.14 [2015.10.18] – ...)Bishop Daniel Enrique Núñez Núñez  (1964.06.04 – 1999.01.11)Born:1927.05.13 (Ocú, Panama)Ordained Priest:1953.07.19Consecrated Bishop:1964.08.02Died:1999.01.11 (David, Panama † 71)Bishop of David (Panama) (1964.06.04 – 1999.01.11)President of Episcopal Conference of Panama (1973 – 1977)Bishop Tomás Alberto Clavel Méndez (later Archbishop)  (1955.07.24 – 1964.03.03)Born:1921.12.21 (Cañazas, Panama)Ordained Priest:1947.12.07Consecrated Bishop:1955.09.25Died:1988.10.13 († 66)Priest of Panamá (Panama) (1947.12.07 – 1955.07.24)Bishop of David (Panama) (1955.07.24 – 1964.03.03)President of Episcopal Conference of Panama (1964 – 1967)President of Episcopal Secretariat of Central America and Panama (1964 – 1971)Metropolitan Archbishop of Panamá (Panama) (1964.03.03 – 1968.12.18)Titular Archbishop of Alessano (1968.12.18 – 1978.02.21)Former PrelatesCoadjutor Bishop: Bishop Carlos Ambrosio Lewis, S.V.D. (1986.05.22 – 1994.04.18)Special ChurchesCathedral:  Catedral de San José, David, Chiriquí Jubilee Churches in the Holy Year 2025Churches by City (26)Show MapSan Isidro de El General (←), Bocas del Toro (↑), Santiago de Veraguas (→)Statistics (2022.12.31)Area: 6,476 km²Population: 457,200 Catholics (88.0% of 519,530 total)Pastoral Centres: 26 parishes, 3 missionsPersonnel: 51 priests (16 diocesan, 35 religious), 11 deacons, 35 religious (35 brothers), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "davi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 519530,
+    "catholiques": 457200,
+    "pourcentage_catholiques": 88.0
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 51,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

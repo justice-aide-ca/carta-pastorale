@@ -1,0 +1,29 @@
+{
+  "id": "in-purn0",
+  "nom": "Purnea",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Purnea / Purneaën(sis) (Latin)Ecclesiastical Province: PatnaNeighbouring Dioceses: Bhagalpur (↙), Muzaffarpur (←), Nepal (↖), Bagdogra (↗), Raiganj (→), Dumka (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint PeterLiturgical Calendar (National) 📅History1998.06.27: Established as Diocese of Purnea / Purneaën(sis) (Latin) (from Diocese of Dumka and became suffragan of Ranchi)1999.03.16: Became suffragan of PatnaPresent PrelatesBishop (2024.02.17 – ...):Bishop Francis Tirkey (64)OrdinariesBishops of Purnea (Roman Rite)Bishop Francis Tirkey (64)  (2024.02.17 – ...)Bishop of Purnea (India)Born:1961.07.24 (Kolodiah, India)Ordained Priest:1993.05.17Consecrated Bishop:2024.04.04Priest of Dumka (India) (1993.05.17 – 1998.06.27)Priest of Purnea (India) (1998.06.27 – 2024.02.17)Bishop of Purnea (India) (2024.02.17 – ...)Bishop Angelus Kujur, S.J. (80)  (2007.01.20 – 2021.12.08)Bishop emeritus of Purnea (India)Feed my lambsBorn:1946.07.14 (Mundaltoli, India)Ordained Priest:1980.04.13Consecrated Bishop:2007.04.18Bishop of Purnea (India) (2007.01.20 – 2021.12.08)Bishop Vincent Barwa (72)  (1998.06.27 – 2004.09.29)Bishop of Simdega (India)Vis amoris DominiBorn:1953.10.18 (Rengarih, India)Ordained Priest:1984.05.02Consecrated Bishop:1998.11.08Priest of Ranchi (India) (1984.05.02 – 1998.06.27)Bishop of Purnea (India) (1998.06.27 – 2004.09.29)Titular Bishop of Acufida (2004.09.29 – 2008.02.11)Auxiliary Bishop of Ranchi (India) (2004.09.29 – 2008.02.11)Bishop of Simdega (India) (2008.02.11 – ...)Special ChurchesCathedral:  St. Peter’s Cathedral, Purnea, Bihār Show MapBhagalpur (↙), Muzaffarpur (←), Nepal (↖), Bagdogra (↗), Raiganj (→), Dumka (↓)Statistics (2021.12.31)Area: 15,733 km²Population: 30,900 Catholics (0.3% of 10,343,000 total)Pastoral Centres: 17 parishes, 2 missionsPersonnel: 54 priests (41 diocesan, 13 religious), 111 religious (19 brothers, 92 sisters), 18 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "purn0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 10343000,
+    "catholiques": 30900,
+    "pourcentage_catholiques": 0.3
+  },
+  "ressources": {
+    "pretres_diocesains": 41,
+    "pretres_religieux": null,
+    "total_pretres": 54,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

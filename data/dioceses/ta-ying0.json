@@ -1,0 +1,29 @@
+{
+  "id": "ta-ying0",
+  "nom": "Yingkou 營口",
+  "pays": "ta",
+  "pays_nom": "Taiwan",
+  "continent": "unknown",
+  "type": "Diocese Name: Yingkou 營口 (中文) / Yingkow / Yíngkǒu 营口 (简体中文) / Imcheuven(sis) (Latin)Ecclesiastical Province: Shenyang 瀋陽Neighbouring Dioceses: Rehe 熱河 (←), Shenyang 瀋陽 (↗), Fushun 撫順 (→)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Liaoning 遼寧 CelebrationsLiturgical Calendar (Universal) 📅History1949.07.14: Established as Diocese of Yingkou 營口 (中文) / Yingkow / Yíngkǒu 营口 (简体中文) / Imcheuven(sis) (Latin) (from Metropolitan Archdiocese of Shenyang 瀋陽 and became suffragan of Shenyang 瀋陽)Present PrelatesBishop:vacantOrdinariesBishops of Yingkou 營口 (Roman Rite)Bishop André-Jean Vérineux (費聲遠), M.E.P.  (1949.07.14 – 1983.01.10)Born:1897.11.04 (Reims, France)Ordained Priest:1922.12.23Consecrated Bishop:1949.10.16Died:1983.01.10 (Hwalien, Taiwan † 85)Bishop of Yingkou 營口 (China) (1949.07.14 – 1983.01.10)Apostolic Administrator of Hualien 花蓮 (Taiwan) (1952.08.07 – 1973.07.25)Show MapRehe 熱河 (←), Shenyang 瀋陽 (↗), Fushun 撫順 (→)Last updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ying0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

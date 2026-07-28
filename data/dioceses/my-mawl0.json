@@ -1,0 +1,29 @@
+{
+  "id": "my-mawl0",
+  "nom": "Mawlamyine",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Mawlamyine / Maulamyinen(sis) (Latin)Ecclesiastical Province: YangonNeighbouring Dioceses: Port Blair (↙), Hpa-an (↑), Nakhon Sawan (→), Ratchaburi (↘), Surat Thani (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1993.03.22: Established as Diocese of Mawlamyine / Maulamyinen(sis) (Latin) (from Metropolitan Archdiocese of Yangon and became suffragan of Yangon)Present PrelatesBishop (2023.05.31 – ...):Bishop Maurice Nyunt Wai (64)Monsignors (1)OrdinariesBishops of Mawlamyine (Roman Rite)Bishop Maurice Nyunt Wai (64)  (2023.05.31 – ...)Bishop of Mawlamyine (Myanmar)Born:1962.01.23 (Myaungmya, Myanmar)Ordained Priest:1989.03.11Consecrated Bishop:2022.04.24Priest of Pathein (Myanmar) (1989.03.11 – 2022.02.22)Coadjutor Bishop of Mawlamyine (Myanmar) (2022.02.22 – 2023.05.31)Bishop of Mawlamyine (Myanmar) (2023.05.31 – ...)Bishop Raymond Saw Po Ray  (1993.03.22 – 2023.05.31)To be holyBorn:1948.08.11 (Mergui, Myanmar)Ordained Priest:1975.04.13Consecrated Bishop:1987.12.08Died:2025.01.06 (Myanmar † 76)Priest of Rangoon (Myanmar) (1975.04.13 – 1987.07.03)Titular Bishop of Buffada (1987.07.03 – 1993.03.22)Auxiliary Bishop of Yangon (Myanmar) (1987.07.03 – 1993.03.22)Bishop of Mawlamyine (Myanmar) (1993.03.22 – 2023.05.31)Former PrelatesCoadjutor Bishop: Bishop Maurice Nyunt Wai (64) (2022.02.22 – 2023.05.31)Special ChurchesCathedral:  Holy Family Cathedral, Mawlamyine, Mon Show MapPort Blair (↙), Hpa-an (↑), Nakhon Sawan (→), Ratchaburi (↘), Surat Thani (↓)Statistics (2022.12.31)Area: 40,960 km²Population: 14,240 Catholics (1.0% of 1,383,340 total)Pastoral Centres: 28 parishesPersonnel: 26 priests (diocesan), 43 religious (2 brothers, 41 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mawl0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1383340,
+    "catholiques": 14240,
+    "pourcentage_catholiques": 1.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

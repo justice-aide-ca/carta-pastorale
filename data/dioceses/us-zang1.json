@@ -1,0 +1,29 @@
+{
+  "id": "us-zang1",
+  "nom": "San Angelo",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: San Angelo / Angelian(us) (Latin)Ecclesiastical Province: San AntonioNeighbouring Dioceses: El Paso (←), Las Cruces (↖), Lubbock (↑), Fort Worth (↗), Austin (→), San Antonio (↘), Piedras Negras (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: St. Michael (September 29), Saint Pius X (August 21)Cathedral Dedication Anniversary: December 21Liturgical Calendar (National) 📅History1961.10.16: Established as Diocese of San Angelo / Angelian(us) (Latin) (from Diocese of Amarillo, Diocese of Austin and Diocese of Dallas–Fort Worth and became suffragan of San Antonio)1983.03.25: Lost territory to establish Diocese of LubbockContact InfoAddress: 804 Ford St., P.O. Box 1829, San Angelo, TX 76902-1829, USAPhone: +1 (915) 651-7500Present PrelatesBishop (2013.12.12 – ...):Bishop Michael James Sis (66)Monsignors (14)OrdinariesBishops of San Angelo (Roman Rite)Bishop Michael James Sis (66)  (2013.12.12 – ...)Bishop of San Angelo (USA)Dei sumus adjutoresBorn:1960.01.09 (Mount Holly, NJ, USA)Ordained Priest:1986.07.19Consecrated Bishop:2014.01.27Priest of Austin (USA) (1986.07.19 – 2013.12.12)Bishop of San Angelo (USA) (2013.12.12 – ...)Bishop Michael David Pfeifer, O.M.I. (89)  (1985.05.31 – 2013.12.12)Bishop emeritus of San Angelo (USA)For Christ and his people through MaryBorn:1937.05.18 (Alamo, TX, USA)Ordained Priest:1964.12.21Consecrated Bishop:1985.07.26Bishop of San Angelo (USA) (1985.05.31 – 2013.12.12)Bishop Joseph Anthony Fiorenza (later Archbishop)  (1979.09.04 – 1984.12.06)Thy kingdom comeBorn:1931.01.25 (Beaumont, TX, USA)Ordained Priest:1954.05.29Consecrated Bishop:1979.10.25Died:2022.09.19 (Houston, TX, USA † 91)Priest of Galveston–Houston (USA) (1954.05.29 – 1979.09.04)Bishop of San Angelo (USA) (1979.09.04 – 1984.12.06)Bishop of Galveston–Houston (USA) (1984.12.06 – 2004.12.29)Vice-President of National Conference of Catholic Bishops (1995 – 1998)President of United States Conference of Catholic Bishops (1998 – 2001.11.13)Metropolitan Archbishop of Galveston–Houston (USA) (2004.12.29 – 2006.02.28)Bishop Stephen Aloysius Leven  (1969.10.20 – 1979.04.24)Born:1905.04.30 (Blackwell, OK, USA)Ordained Priest:1928.06.10Consecrated Bishop:1956.02.08Died:1983.06.28 (Oklahoma City, OK, USA † 78)Priest of Oklahoma City–Tulsa (USA) (1928.06.10 – 1955.12.03)Titular Bishop of Bure (1955.12.03 – 1969.10.20)Auxiliary Bishop of San Antonio (USA) (1955.12.03 – 1969.10.20)Bishop of San Angelo (USA) (1969.10.20 – 1979.04.24)Bishop Thomas Ambrose Tschoepe  (1966.01.12 – 1969.08.27)Paratum cor meumBorn:1915.12.17 (Pilot Point, TX, USA)Ordained Priest:1943.05.30Consecrated Bishop:1966.03.09Died:2009.01.24 (Dallas, TX, USA † 93)Priest of Dallas–Fort Worth (USA) (1943.05.30 – 1966.01.12)Bishop of San Angelo (USA) (1966.01.12 – 1969.08.27)Bishop of Dallas (USA) (1969.08.27 – 1990.07.14)Bishop Thomas Joseph Drury  (1961.10.30 – 1965.07.19)Deo servire regnareBorn:1908.01.04 (Ballynote, Ireland)Ordained Priest:1935.06.02Consecrated Bishop:1962.01.24Died:1992.07.22 (Neptune, NJ, USA † 84)Priest of Amarillo (USA) (1935.06.02 – 1961.10.30)Bishop of San Angelo (USA) (1961.10.30 – 1965.07.19)Bishop of Corpus Christi (USA) (1965.07.19 – 1983.05.19)Special ChurchesCathedral:  Sacred Heart Cathedral, San Angelo, Texas Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (70)Show MapEl Paso (←), Las Cruces (↖), Lubbock (↑), Fort Worth (↗), Austin (→), San Antonio (↘), Piedras Negras (↓)Statistics (2022.12.31)Area: 96,951 km²Population: 118,782 Catholics (14.8% of 803,169 total)Pastoral Centres: 45 parishes, 21 missionsPersonnel: 64 priests (56 diocesan, 8 religious), 82 deacons, 23 religious (11 brothers, 12 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zang1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 803169,
+    "catholiques": 118782,
+    "pourcentage_catholiques": 14.8
+  },
+  "ressources": {
+    "pretres_diocesains": 56,
+    "pretres_religieux": null,
+    "total_pretres": 64,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 45
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

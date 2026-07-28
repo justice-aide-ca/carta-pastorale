@@ -1,0 +1,29 @@
+{
+  "id": "ec-daul0",
+  "nom": "Daule",
+  "pays": "ec",
+  "pays_nom": "Ecuador",
+  "continent": "amerique",
+  "type": "Diocese Name: Daule (español) / Daulen(sis) (Latin)Ecclesiastical Province: GuayaquilNeighbouring Dioceses: Santa Elena (↙), Portoviejo (↖), Santo Domingo (↗), Babahoyo (→), Guayaquil (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2022.02.02: Established as Diocese of Daule (español) / Daulen(sis) (Latin) (from Metropolitan Archdiocese of Guayaquil and became suffragan of Guayaquil)Present PrelatesBishop (2022.04.22 – ...):Bishop Krzysztof Kudławiec (56)OrdinariesBishops of Daule (Roman Rite)Bishop Krzysztof Kudławiec (56)  (2022.04.22 – ...)Bishop of Daule (Ecuador)Iesu te confidoBorn:1969.09.19 (Glinik Mariampolski, Poland)Ordained Priest:1995.05.25Consecrated Bishop:2022.06.25Priest of Rzeszów (Poland) (1995.05.25 – 2022.04.22)Bishop of Daule (Ecuador) (2022.04.22 – ...)Archbishop Luis Gerardo Cabrera Herrera, O.F.M. (70) (later Cardinal)  (Apostolic Administrator 2022.03.17 – 2022.04.22)Bishop Giovanni Battista Piccioli (69)  (2022.02.02 – 2022.03.17 not possessed)Bishop emeritus of Daule (Ecuador)Noli timere pusillus grexBorn:1957.07.10 (Erbusco, Italy)Ordained Priest:1982.06.12Consecrated Bishop:2014.02.08Priest of Portoviejo (Ecuador) (1982.06.12 – 2013.10.26)Titular Bishop of Patara (2013.10.26 – 2022.02.02)Auxiliary Bishop of Guayaquil (Ecuador) (2013.10.26 – 2022.02.02)Bishop of Daule (Ecuador) (2022.02.02 – 2022.03.17 not possessed)Special ChurchesCathedral:  Catedral Santuario Señor de los Milagros, Daule, Guayas National Shrine:  Santuario Nacional Santa Narcisa de Jesús, Nobol, Guayas Jubilee Churches in the Holy Year 2025Churches by City (27)Show MapSanta Elena (↙), Portoviejo (↖), Santo Domingo (↗), Babahoyo (→), Guayaquil (↓)Statistics (2022.12.31)Area: 5,992 km²Population: 400,135 Catholics (83.8% of 477,340 total)Pastoral Centres: 30 parishes, 79 missionsPersonnel: 38 priests (33 diocesan, 5 religious), 65 religious (5 brothers, 60 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "daul0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 477340,
+    "catholiques": 400135,
+    "pourcentage_catholiques": 83.8
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 38,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

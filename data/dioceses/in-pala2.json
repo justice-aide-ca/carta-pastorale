@@ -1,0 +1,29 @@
+{
+  "id": "in-pala2",
+  "nom": "Palangkaraya",
+  "pays": "in",
+  "pays_nom": "Indonesia",
+  "continent": "unknown",
+  "type": "Diocese Name: Palangkaraya / Palangkaraien(sis) (Latin)Ecclesiastical Province: SamarindaNeighbouring Dioceses: Semarang (↙), Ketapang (←), Sintang (↖), Samarinda (↗), Banjarmasin (↘), Surabaya (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1993.04.05: Established as Diocese of Palangkaraya / Palangkaraien(sis) (Latin) (from Diocese of Banjarmasin and became suffragan of Pontianak)2003.01.29: Became suffragan of SamarindaPresent PrelatesBishop (2001.01.23 – ...):Bishop Aloysius Maryadi Sutrisnaatmaka, M.S.F. (73)OrdinariesBishops of Palangkaraya (Roman Rite)Bishop Aloysius Maryadi Sutrisnaatmaka, M.S.F. (73)  (2001.01.23 – ...)Bishop of Palangkaraya (Indonesia)Ut permanerent in gratia DeiBorn:1953.05.18 (Wedi, Jawa Timur, Indonesia)Ordained Priest:1981.09.24Consecrated Bishop:2001.05.07Bishop of Palangkaraya (Indonesia) (2001.01.23 – ...)Bishop Yulius Aloysius Husin, M.S.F.  (1993.04.05 – 1994.10.13)Atas nama TuhanBorn:1937.08.15 (Asa, Kalimantan Timur, Indonesia)Ordained Priest:1964.07.25Consecrated Bishop:1993.10.17Died:1994.10.13 (Palangkaraya, Kalimantan Tengah, Indonesia † 57)Bishop of Palangkaraya (Indonesia) (1993.04.05 – 1994.10.13)Special ChurchesCathedral:  Katedral Santa Maria, Palangkaraya, Kalimantan Tengah, Kalimantan Churches by City (26)Show MapSemarang (↙), Ketapang (←), Sintang (↖), Samarinda (↗), Banjarmasin (↘), Surabaya (↓)Statistics (2022.12.31)Area: 153,564 km²Population: 100,945 Catholics (3.7% of 2,717,609 total)Pastoral Centres: 27 parishes, 1 missionPersonnel: 69 priests (26 diocesan, 43 religious), 238 religious (60 brothers, 178 sisters), 36 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pala2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2717609,
+    "catholiques": 100945,
+    "pourcentage_catholiques": 3.7
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 69,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

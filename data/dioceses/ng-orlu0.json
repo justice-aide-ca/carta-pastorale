@@ -1,0 +1,29 @@
+{
+  "id": "ng-orlu0",
+  "nom": "Orlu",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Orlu / Orluan(us) (Latin)Ecclesiastical Province: OwerriNeighbouring Dioceses: Nnewi (↑), Okigwe (→), Owerri (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1980.11.29: Established as Diocese of Orlu / Orluan(us) (Latin) (from Diocese of Owerri and became suffragan of Onitsha)1994.03.26: Became suffragan of OwerriPresent PrelatesBishop (2008.03.25 – ...):Bishop Augustine Tochukwu Ukwuoma (72)Auxiliary Bishop (2024.01.05 – ...):Bishop Thomas Ifeanyichukwu Obiatuegwu (60)Titular Bishop of Horrea CœliaMonsignors (24)OrdinariesBishops of Orlu (Roman Rite)Bishop Augustine Tochukwu Ukwuoma (72)  (2008.03.25 – ...)Bishop of Orlu (Nigeria)Diligere sicut dilexit ChristusBorn:1953.08.29 (Amucha, Nigeria)Ordained Priest:1983.07.30Consecrated Bishop:2008.06.21Priest of Orlu (Nigeria) (1983.07.30 – 2008.03.25)Bishop of Orlu (Nigeria) (2008.03.25 – ...)Bishop Gregory Obinna Ochiagha  (1980.11.29 – 2008.03.25)Born:1931.08.31 (Ibeme, Nigeria)Ordained Priest:1960.07.31Consecrated Bishop:1981.01.06Died:2020.12.29 (Enugu, Nigeria † 89)Priest of Umuahia (Nigeria) (1960.07.31 – 1980.11.29)Bishop of Orlu (Nigeria) (1980.11.29 – 2008.03.25)Special ChurchesCathedral:  Holy Trinity Cathedral, Orlu, Imo Show MapNnewi (↑), Okigwe (→), Owerri (↓)Statistics (2022.12.31)Area: 929 km²Population: 1,268,950 Catholics (68.5% of 1,852,175 total)Pastoral Centres: 195 parishes, 1 missionPersonnel: 305 priests (291 diocesan, 14 religious), 181 religious (15 brothers, 166 sisters), 115 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "orlu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1852175,
+    "catholiques": 1268950,
+    "pourcentage_catholiques": 68.5
+  },
+  "ressources": {
+    "pretres_diocesains": 291,
+    "pretres_religieux": null,
+    "total_pretres": 305,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 195
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "co-zvic1",
+  "nom": "San Vicente del Caguán",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: San Vicente del Caguán (español) / Santi Vincentii de Caguan (Latin)Ecclesiastical Province: FlorenciaNeighbouring Dioceses: Florencia (←), Neiva (↖), Granada (↗), San José del Guaviare (→), Puerto Leguízamo–Solano (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1985.12.09: Established as Apostolic Vicariate of San Vicente–Puerto Leguízamo (español) / Sancti Vincentii–Portus Leguizamen(sis) (Latin) (from Apostolic Vicariate of Florencia)2013.02.21: Renamed as Apostolic Vicariate of San Vicente (español) / Sancti Vincentii (Latin) (lost territory to establish Apostolic Vicariate of Puerto Leguízamo–Solano)2013.11.26: Renamed as Apostolic Vicariate of San Vicente del Caguán (español) / Santi Vincentii de Caguan (Latin)2019.05.30: Promoted as Diocese of San Vicente del Caguán (español) / Santi Vincentii de Caguan (Latin) (became suffragan of Ibagué)2019.07.13: Became suffragan of FlorenciaPresent PrelatesBishop (2024.07.05 – ...):Bishop William Prieto Daza (51)OrdinariesBishops of San Vicente del Caguán (Roman Rite)Bishop William Prieto Daza (51)  (2024.07.05 – ...)Bishop of San Vicente del Caguán (Colombia)Misericordiam volo et non sacrificiumBorn:1974.12.26 (Bogotá, Colombia)Ordained Priest:2013.03.21Consecrated Bishop:2024.09.25Priest of Villavicencio (Colombia) (2013.03.21 – 2024.07.05)Bishop of San Vicente del Caguán (Colombia) (2024.07.05 – ...)Archbishop Omar de Jesús Mejía Giraldo (60)  (Apostolic Administrator 2021.05 – 2024.07.05)Bishop Francisco Javier Múnera Correa, I.M.C. (69) (later Archbishop)  (2019.05.30 – 2021.03.25)Metropolitan Archbishop of Cartagena (Colombia)President of Episcopal Conference of ColombiaA lo que me llamastes, a eso me voyBorn:1956.10.21 (Copacabana, Colombia)Ordained Priest:1982.08.08Consecrated Bishop:1999.02.11Vicar Apostolic of San Vicente–Puerto Leguízamo (Colombia) (1998.11.28 – 2013.02.21)Titular Bishop of Aquæ novæ in Numidia (1998.11.28 – 2019.05.30)Vicar Apostolic of San Vicente del Caguán (Colombia) (2013.02.21 – 2019.05.30)Bishop of San Vicente del Caguán (Colombia) (2019.05.30 – 2021.03.25)Metropolitan Archbishop of Cartagena (Colombia) (2021.03.25 – ...)President of Episcopal Conference of Colombia (2024.07.02 – ...)Vicars Apostolic of San Vicente del Caguán (Roman Rite)Bishop Francisco Javier Múnera Correa, I.M.C. (69) (later Archbishop)  (2013.02.21 – 2019.05.30)(see above)Vicars Apostolic of San Vicente–Puerto Leguízamo (Roman Rite)Bishop Francisco Javier Múnera Correa, I.M.C. (69) (later Archbishop)  (1998.11.28 – 2013.02.21)(see above)Bishop Luis Augusto Castro Quiroga, I.M.C. (later Archbishop)  (1986.10.17 – 1998.02.02)Born:1942.04.08 (Bogotá, Colombia)Ordained Priest:1967.12.24Consecrated Bishop:1986.11.29Died:2022.08.02 (Chía, Colombia † 80)Titular Bishop of Aquæ flaviæ (1986.10.17 – 1998.02.02)Vicar Apostolic of San Vicente–Puerto Leguízamo (Colombia) (1986.10.17 – 1998.02.02)Metropolitan Archbishop of Tunja (Colombia) (1998.02.02 – 2020.02.11)Vice-President of Episcopal Conference of Colombia (2002 – 2005)President of Episcopal Conference of Colombia (2005.07.05 – 2008.07.03)Apostolic Administrator of Duitama–Sogamoso (Colombia) (2012.10.15 – 2015.04.18)President of Episcopal Conference of Colombia (2014.07.09 – 2017.07.05)Special ChurchesCathedral:  Catedral Nuestra Señora de las Mercedes, San Vicente del Caguán, Caquetá Jubilee Churches in the Holy Year 2025Show MapFlorencia (←), Neiva (↖), Granada (↗), San José del Guaviare (→), Puerto Leguízamo–Solano (↓)Statistics (2019.12.31)Area: 37,000 km²Population: 99,000 Catholics (81.8% of 121,000 total)Pastoral Centres: 14 parishes, 30 missionsPersonnel: 23 priests (16 diocesan, 7 religious), 26 religious (11 brothers, 15 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zvic1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 121000,
+    "catholiques": 99000,
+    "pourcentage_catholiques": 81.8
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 23,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

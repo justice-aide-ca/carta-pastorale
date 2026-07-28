@@ -1,0 +1,29 @@
+{
+  "id": "es-terr0",
+  "nom": "Terrassa",
+  "pays": "es",
+  "pays_nom": "Spain",
+  "continent": "unknown",
+  "type": "Diocese Name: Terrassa / Terrassen(sis) (Latin)Ecclesiastical Province: BarcelonaNeighbouring Dioceses: Sant Feliu de Llobregat (↙), Vic (↑), Girona (↗), Barcelona (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsCathedral Dedication Anniversary: December 10Liturgical Calendar 📅History2004.06.15: Established as Diocese of Terrassa / Terrassen(sis) (Latin) (from Archdiocese of Barcelona and became suffragan of Barcelona)Present PrelatesBishop (2021.12.03 – ...):Bishop Salvador Cristau Coll (76)Monsignors (1)OrdinariesBishops of Terrassa (Roman Rite)Bishop Salvador Cristau Coll (76)  (2021.12.03 – ...)Bishop of Terrassa (Spain)Sé en quién he creídoBorn:1950.04.15 (Barcelona, Spain)Ordained Priest:1980.10.12Consecrated Bishop:2010.06.26Priest of Toledo (Spain) (1980.10.12 – 1985.01.14)Priest of Barcelona (Spain) (1985.01.14 – 2004.06.15)Priest of Terrassa (Spain) (2004.06.15 – 2010.05.18)Titular Bishop of Algeciras (2010.05.18 – 2021.12.03)Auxiliary Bishop of Terrassa (Spain) (2010.05.18 – 2021.12.03)Bishop of Terrassa (Spain) (2021.12.03 – ...)Bishop Josep Ángel Sáiz Meneses (69) (later Archbishop)  (2004.06.15 – 2021.04.17)Metropolitan Archbishop of Sevilla (Spain)Duc in altumBorn:1956.08.02 (Sisante, Spain)Ordained Priest:1984.07.05Consecrated Bishop:2001.12.15Priest of Toledo (Spain) (1984.07.05 – 1989)Priest of Barcelona (Spain) (1989 – 2001.10.30)Titular Bishop of Selemselæ (2001.10.30 – 2004.06.15)Auxiliary Bishop of Barcelona (Spain) (2001.10.30 – 2004.06.15)Bishop of Terrassa (Spain) (2004.06.15 – 2021.04.17)Metropolitan Archbishop of Sevilla (Spain) (2021.04.17 – ...)Former PrelatesAuxiliary Bishop: Bishop Salvador Cristau Coll (76) (2010.05.18 – 2021.12.03)Special ChurchesCathedral, Minor Basilica:  Catedral Basílica de Sant Esperit, Terrassa, Barcelona, Catalunya Former Cathedral:  Església de Santa Maria, Terrassa, Barcelona, Catalunya Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (127)Show MapSant Feliu de Llobregat (↙), Vic (↑), Girona (↗), Barcelona (↘)Statistics (2022.12.31)Area: 1,197 km²Population: 1,252,727 Catholics (94.7% of 1,323,079 total)Pastoral Centres: 120 parishes, 66 missionsPersonnel: 140 priests (89 diocesan, 51 religious), 21 deacons, 370 religious (72 brothers, 298 sisters), 18 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "terr0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1323079,
+    "catholiques": 1252727,
+    "pourcentage_catholiques": 94.7
+  },
+  "ressources": {
+    "pretres_diocesains": 89,
+    "pretres_religieux": null,
+    "total_pretres": 140,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 120
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

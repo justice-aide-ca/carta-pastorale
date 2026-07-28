@@ -1,0 +1,29 @@
+{
+  "id": "in-rama0",
+  "nom": "Ramanathapuram",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Ramanathapuram / Ramanathapuramen(sis) (Latin)Ecclesiastical Province: TrichurNeighbouring Dioceses: Irinjalakuda (↙)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint Thomas, Saint Alphonsa of the Immaculate Conception MuttathupadathuHistory2010.01.18: Established as Diocese of Ramanathapuram / Ramanathapuramen(sis) (Latin) (from Diocese of Palghat and became suffragan of Trichur)2017.10.09: Gained territory of 11 districts of Tamil NaduContact InfoAddress: Bishop’s House, Holy Trinity Cathedral, Ramanathapuram, Trichy Road, Coimbatore, 641045, Tarmil Nadu, IndiaPhone: (0422) 23.17.366Present PrelatesBishop (2010.01.18 – ...):Bishop Paul Alappatt (64)OrdinariesBishops of Ramanathapuram (Syro-Malabar Rite)Bishop Paul Alappatt (64)  (2010.01.18 – ...)Bishop of Ramanathapuram of the Syro-Malabars (India)My grace is sufficient for youBorn:1962.04.21 (Edathuruthy, India)Ordained Priest:1987.12.27Consecrated Bishop:2010.04.11Priest of Trichur of the Syro-Malabars (India) (1987.12.27 – 2010.01.18)Bishop of Ramanathapuram of the Syro-Malabars (India) (2010.01.18 – ...)Special ChurchesCathedral:  Holy Trinity Cathedral, Ramanathapuram, Tamil Nādu Show MapIrinjalakuda (↙)Statistics (2022.12.31)Area: 28,490 km²Population: 11,415 CatholicsPastoral Centres: 24 parishes, 15 missionsPersonnel: 64 priests (21 diocesan, 43 religious), 344 religious (72 brothers, 272 sisters), 34 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "rama0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 21,
+    "pretres_religieux": null,
+    "total_pretres": 64,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

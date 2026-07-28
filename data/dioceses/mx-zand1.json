@@ -1,0 +1,29 @@
+{
+  "id": "mx-zand1",
+  "nom": "San Andrés Tuxtla",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: San Andrés Tuxtla / Sancti Andreæ de Tuxtla (Latin)Ecclesiastical Province: JalapaNeighbouring Dioceses: Tuxtepec (↙), Veracruz (↖), Coatzacoalcos (→), Tehuantepec (↘), Mixes (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1959.05.23: Established as Diocese of San Andrés Tuxtla / Sancti Andreæ de Tuxtla (Latin) (from Metropolitan Archdiocese of Veracruz–Jalapa and Diocese of Tehuantepec and became suffragan of Veracruz–Jalapa)1962.06.09: Lost territory to establish Diocese of Veracruz1984.03.14: Lost territory to establish Diocese of CoatzacoalcosContact InfoAddress: Constitución y Morelos s/n, Centro, 95700 - San Andrés Tuxtla, Ver., MexicoPhone: (294) 9-42-12-45Present PrelatesBishop (2021.08.14 – ...):Bishop José Luis Canto Sosa (65)Monsignors (2)OrdinariesBishops of San Andrés Tuxtla (Roman Rite)Bishop José Luis Canto Sosa (65)  (2021.08.14 – ...)Bishop of San Andrés Tuxtla (Mexico)Dios proveeráBorn:1960.10.29 (Calkiní, Mexico)Ordained Priest:1996.12.27Consecrated Bishop:2021.10.27Priest of Campeche (Mexico) (1996.12.27 – 2021.08.14)Bishop of San Andrés Tuxtla (Mexico) (2021.08.14 – ...)Bishop Fidencio López Plaza (76)  (2015.03.02 – 2020.09.12)Bishop of Querétaro (Mexico)Quæ non assumpta non redempta suntBorn:1950.04.28 (La Estancia San José Iturbide, Mexico)Ordained Priest:1982.02.19Consecrated Bishop:2015.05.20Priest of Querétaro (Mexico) (1982.02.19 – 2015.03.02)Bishop of San Andrés Tuxtla (Mexico) (2015.03.02 – 2020.09.12)Bishop of Querétaro (Mexico) (2020.09.12 – ...)Bishop José Trinidad Zapata Ortíz (67)  (2004.06.12 – 2014.03.20)Bishop of Papantla (Mexico)Es el señorBorn:1959.05.24 (Zacatecas, Mexico)Ordained Priest:1990.05.09Consecrated Bishop:2004.07.31Priest of San Andrés Tuxtla (Mexico) (1990.05.09 – 2004.06.12)Bishop of San Andrés Tuxtla (Mexico) (2004.06.12 – 2014.03.20)Bishop of Papantla (Mexico) (2014.03.20 – ...)Apostolic Administrator of Jalapa (Mexico) (2021.08.13 – 2021.12.08)Bishop Guillermo Ranzahuer González  (1969.02.15 – 2004.06.12)Born:1928.03.12 (Huatusco, Mexico)Ordained Priest:1951.12.22Consecrated Bishop:1969.03.22Died:2008.08.05 († 80)Bishop of San Andrés Tuxtla (Mexico) (1969.02.15 – 2004.06.12)Bishop Arturo Antonio Szymanski Ramírez (later Archbishop)  (1965.03.21 – 1968.08.13)Born:1922.01.17 (Tampico, Mexico)Ordained Priest:1947.03.22Consecrated Bishop:1960.06.21Died:2018.05.29 (San Luis Potosí, Mexico † 96)Titular Bishop of Cerasus (1960.04.20 – 1965.03.21)Coadjutor Bishop of San Andrés Tuxtla (Mexico) (1960.04.20 – 1965.03.21)Bishop of San Andrés Tuxtla (Mexico) (1965.03.21 – 1968.08.13)Bishop of Tampico (Mexico) (1968.08.13 – 1987.01.27)Bishop of San Luis Potosí (Mexico) (1987.01.27 – 1988.11.05)Metropolitan Archbishop of San Luis Potosí (Mexico) (1988.11.05 – 1999.01.20)Bishop Jesús Villareal y Fierro  (1959.05.23 – 1965.02.20)Born:1884.04.26 (Durango, Mexico)Ordained Priest:1908.10.28Consecrated Bishop:1933.10.29Died:1965.02.20 († 80)Bishop of Tehuantepec (Mexico) (1933.09.12 – 1959.05.23)Bishop of San Andrés Tuxtla (Mexico) (1959.05.23 – 1965.02.20)Former PrelatesCoadjutor Bishop: Bishop Arturo Antonio Szymanski Ramírez (later Archbishop) (1960.04.20 – 1965.03.21)Special ChurchesCathedral:  Catedral de San José y San Andrés, San Andrés Tuxtla, Veracruz Minor Basilica:  Basílica de la Virgen del Carmen, Catemaco, Veracruz Churches by City (61)Show MapTuxtepec (↙), Veracruz (↖), Coatzacoalcos (→), Tehuantepec (↘), Mixes (↓)Statistics (2022.12.31)Area: 13,495 km²Population: 1,186,400 Catholics (74.1% of 1,601,700 total)Pastoral Centres: 66 parishesPersonnel: 110 priests (108 diocesan, 2 religious), 17 deacons, 95 religious (16 brothers, 79 sisters), 25 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zand1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1601700,
+    "catholiques": 1186400,
+    "pourcentage_catholiques": 74.1
+  },
+  "ressources": {
+    "pretres_diocesains": 108,
+    "pretres_religieux": null,
+    "total_pretres": 110,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 66
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

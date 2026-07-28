@@ -1,0 +1,29 @@
+{
+  "id": "in-sind0",
+  "nom": "Sindhudurg",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Sindhudurg / Sindhudurgien(sis) (Latin)Ecclesiastical Province: Goa and DamanNeighbouring Dioceses: Bombay (↑), Poona (↑), Belgaum (→), Goa and Daman (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Our Lady of MilagrisLiturgical Calendar (National) 📅History2005.07.05: Established as Diocese of Sindhudurg / Sindhudurgien(sis) (Latin) (from Diocese of Poona and became suffragan of Bombay)2006.11.25: Became suffragan of Goa and DamanPresent PrelatesBishop (2026.02.14 – ...):Bishop Francisco Antonio Agnelo Jacinto Pinheiro (54)OrdinariesBishops of Sindhudurg (Roman Rite)Bishop Francisco Antonio Agnelo Jacinto Pinheiro (54)  (2026.02.14 – ...)Bishop of Sindhudurg (India)Born:1972.07.06 (Raia, India)Ordained Priest:2000.10.28Consecrated Bishop:2026.04.16Priest of Goa and Daman (India) (2000.10.28 – 2026.02.14)Bishop of Sindhudurg (India) (2026.02.14 – ...)Bishop Anthony Alwyn Fernandes Barreto (73)  (2005.07.05 – 2024.10.08)Bishop emeritus of Sindhudurg (India)Grow into the fullness of ChristBorn:1952.12.22 (Goa, India)Ordained Priest:1979.10.13Consecrated Bishop:2005.10.05Priest of Poona (India) (1979.10.13 – 2005.07.05)Bishop of Sindhudurg (India) (2005.07.05 – 2024.10.08)Special ChurchesCathedral:  Cathedral of Our Lady of Milagris, Sawantwadi, Mahārāshtra Show MapBombay (↑), Poona (↑), Belgaum (→), Goa and Daman (↓)Statistics (2022.12.31)Area: 21,099 km²Population: 19,835 Catholics (0.3% of 5,791,485 total)Pastoral Centres: 21 parishes, 5 missionsPersonnel: 58 priests (26 diocesan, 32 religious), 146 religious (41 brothers, 105 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "sind0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5791485,
+    "catholiques": 19835,
+    "pourcentage_catholiques": 0.3
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 58,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

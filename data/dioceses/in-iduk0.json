@@ -1,0 +1,29 @@
+{
+  "id": "in-iduk0",
+  "nom": "Idukki",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Idukki / Idukken(sis) (Latin)Ecclesiastical Province: Ernakulam–AngamalyNeighbouring Dioceses: Kanjirapally (↙), Palai (↙), Kothamangalam (↖)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Holy CrossHistory2002.12.19: Established as Diocese of Idukki / Idukken(sis) (Latin) (from Diocese of Kothamangalam and became suffragan of Ernakulam–Angamaly)Present PrelatesBishop (2018.01.12 – ...):Bishop John Nellikunnel (53)OrdinariesBishops of Idukki (Syro-Malabar Rite)Bishop John Nellikunnel (53)  (2018.01.12 – ...)Bishop of Idukki of the Syro-Malabars (India)Love in deed and truthBorn:1973.03.22 (Kadaplamattom, India)Ordained Priest:1998.12.30Consecrated Bishop:2018.04.05Bishop of Idukki of the Syro-Malabars (India) (2018.01.12 – ...)Bishop Mathew Anikuzhikattil  (2003.01.15 – 2018.01.12)Divinization in ChristBorn:1942.09.23 (Kunchithanny, India)Ordained Priest:1971.03.15Consecrated Bishop:2003.03.02Died:2020.05.01 (Kolenchery, India † 77)Priest of Kothamangalam of the Syro-Malabars (India) (1971.03.15 – 2003.01.15)Bishop of Idukki of the Syro-Malabars (India) (2003.01.15 – 2018.01.12)Special ChurchesCathedral:  St George’s Cathedral, Vazhathope, Kerala Show MapKanjirapally (↙), Palai (↙), Kothamangalam (↖)Statistics (2022.12.31)Area: 3,000 km²Population: 245,000 Catholics (31.0% of 789,315 total)Pastoral Centres: 157 parishes, 5 missionsPersonnel: 684 priests (244 diocesan, 440 religious), 1,051 religious (44 brothers, 1,007 sisters), 69 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "iduk0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 789315,
+    "catholiques": 245000,
+    "pourcentage_catholiques": 31.0
+  },
+  "ressources": {
+    "pretres_diocesains": 244,
+    "pretres_religieux": null,
+    "total_pretres": 684,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 157
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

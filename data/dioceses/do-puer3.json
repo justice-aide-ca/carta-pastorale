@@ -1,0 +1,29 @@
+{
+  "id": "do-puer3",
+  "nom": "Puerto Plata",
+  "pays": "do",
+  "pays_nom": "Dominican Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: Puerto Plata / Portus Argentarii (Latin)Ecclesiastical Province: Santiago de los CaballerosNeighbouring Dioceses: Mao–Monte Cristi (↙), San Francisco de Macorís (↘), Santiago de los Caballeros (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1996.12.16: Established as Diocese of Puerto Plata / Portus Argentarii (Latin) (from Metropolitan Archdiocese of Santiago de los Caballeros and became suffragan of Santiago de los Caballeros)Present PrelatesBishop (2005.05.31 – ...):Bishop Julio César Corniel Amaro (67)OrdinariesBishops of Puerto Plata (Roman Rite)Bishop Julio César Corniel Amaro (67)  (2005.05.31 – ...)Bishop of Puerto Plata (Dominican Republic)Servire populo missusBorn:1958.09.28 (Bodita, María Trinidad Sánchez, Dominican Republic)Ordained Priest:1986.06.21Consecrated Bishop:2005.07.16Priest of San Francisco de Macorís (Dominican Republic) (1986.06.21 – 2005.05.31)Bishop of Puerto Plata (Dominican Republic) (2005.05.31 – ...)Bishop Gregorio Nicanor Peña Rodríguez (84)  (1996.12.16 – 2004.06.24)Bishop emeritus of Nuestra Señora de la Altagracia en Higüey (Dominican Republic)In unitate diversitasBorn:1942.03.12 (Baitoa, Santiago, Dominican Republic)Ordained Priest:1968.06.22Consecrated Bishop:1997.01.25Priest of Santiago de los Caballeros (Dominican Republic) (1968.06.22 – 1996.12.16)Bishop of Puerto Plata (Dominican Republic) (1996.12.16 – 2004.06.24)Bishop of Nuestra Señora de la Altagracia en Higüey (Dominican Republic) (2004.06.24 – 2020.05.30)Vice-President of Dominican Episcopal Conference (2008 – 2014.07.04)President of Dominican Episcopal Conference (2014.07.04 – 2017.07.07)Special ChurchesCathedral:  Catedral San Felipe Apóstol, Puerto Plata, Puerto Plata, Cibao Norte Show MapMao–Monte Cristi (↙), San Francisco de Macorís (↘), Santiago de los Caballeros (↓)Statistics (2022.12.31)Area: 2,383 km²Population: 436,500 Catholics (82.0% of 532,200 total)Pastoral Centres: 34 parishesPersonnel: 47 priests (42 diocesan, 5 religious), 34 deacons, 44 religious (5 brothers, 39 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "puer3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 532200,
+    "catholiques": 436500,
+    "pourcentage_catholiques": 82.0
+  },
+  "ressources": {
+    "pretres_diocesains": 42,
+    "pretres_religieux": null,
+    "total_pretres": 47,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 34
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

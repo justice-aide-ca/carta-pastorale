@@ -1,0 +1,29 @@
+{
+  "id": "cn-tunk0",
+  "nom": "Tunxi 屯溪",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Apostolic Prefecture Name: Tunxi 屯溪 (中文) / Tunki / Túnxī 屯溪 (简体中文) / Tunkien(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Yujiang 餘江 (↙), Anqing 安慶 (↖), Wuhu 蕪湖 (↑), Hangzhou 杭州 (→)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Anhui 安徽 CelebrationsLiturgical Calendar (Universal) 📅History1937.02.22: Established as Apostolic Prefecture of Tunxi 屯溪 (中文) / Tunki / Túnxī 屯溪 (简体中文) / Tunkien(sis) (Latin) (from Apostolic Vicariate of Wuhu 蕪湖)Present PrelatesPrefect Apostolic:vacantOrdinariesPrefects Apostolic of Tunxi 屯溪 (Roman Rite)Fr. José Fogued y Gil (扶植義), C.M.F.  (1937.04.24 – 1954.01.24)Born:1885.09.27 (Spain)Ordained Priest:1912.06.23Died:1954.01.24 († 68)Prefect Apostolic of Tunxi 屯溪 (China) (1937.04.24 – 1954.01.24)Special ChurchesCathedral:  Church of the Immaculate Heart of Mary, Huangshan 黄山, Anhui Show MapYujiang 餘江 (↙), Anqing 安慶 (↖), Wuhu 蕪湖 (↑), Hangzhou 杭州 (→)Statistics (1950.12.31)Area: 12,000 km²Population: 1,918 Catholics (0.2% of 1,000,000 total)Pastoral Centres: 7 parishes, 6 missionsPersonnel: 11 priests (religious)PopulationPastoral CentresPriestsLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tunk0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1000000,
+    "catholiques": 1918,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

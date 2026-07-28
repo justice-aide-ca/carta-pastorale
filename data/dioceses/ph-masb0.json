@@ -1,0 +1,29 @@
+{
+  "id": "ph-masb0",
+  "nom": "Masbate",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Masbate / Masbaten(sis) (Latin)Ecclesiastical Province: CaceresNeighbouring Dioceses: Capiz (↙), Romblon (←), Legazpi (↑), Sorsogon (↗), Naval (↘)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Anthony of Padua (June 13), Immaculate Conception (December 8)Cathedral Dedication Anniversary: September 25Liturgical Calendar (National) 📅History1968.03.23: Established as Diocese of Masbate / Masbaten(sis) (Latin) (from Diocese of Sorsogon and became suffragan of Caceres)Present PrelatesBishop:vacantMonsignors (9)OrdinariesBishops of Masbate (Roman Rite)Bishop José Salmorin Bantolo  (2011.06.15 – 2025.12.13)Pax in terraBorn:1960.11.12 (Guisijan, Philippines)Ordained Priest:1986.04.21Consecrated Bishop:2011.08.22Died:2025.12.13 (Philippines † 65)Priest of San Jose de Antique (Philippines) (1986.04.21 – 2011.06.15)Bishop of Masbate (Philippines) (2011.06.15 – 2025.12.13)Bishop Joel Zamudio Baylon (72)  (1998.02.14 – 2009.10.01)Bishop of Legazpi (Philippines)Sub tuum præsidiumBorn:1954.01.28 (Milaor, Philippines)Ordained Priest:1978.10.08Consecrated Bishop:1998.03.25Priest of Legazpi (Philippines) (1978.10.08 – 1998.02.14)Chaplain of His Holiness (1994.05.16 – 1998.02.14)Bishop of Masbate (Philippines) (1998.02.14 – 2009.10.01)Bishop of Legazpi (Philippines) (2009.10.01 – ...)Bishop Porfirio Rivera Iligan  (1968.06.17 – 1998.02.14)Born:1922.09.14 (Vinzons, Philippines)Ordained Priest:1949.04.02Consecrated Bishop:1968.09.03Died:2001.03.06 (Masbate, Philippines † 78)Bishop of Masbate (Philippines) (1968.06.17 – 1998.02.14)Special ChurchesCathedral:  St. Anthony of Padua Cathedral, Masbate City, Masbate, Bicol Jubilee Churches in the Holy Year 2025Churches by City (32)Show MapCapiz (↙), Romblon (←), Legazpi (↑), Sorsogon (↗), Naval (↘)Statistics (2022.12.31)Area: 7,000 km²Population: 930,324 Catholics (88.9% of 1,045,988 total)Pastoral Centres: 37 parishesPersonnel: 75 priests (72 diocesan, 3 religious), 38 religious (5 brothers, 33 sisters), 28 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "masb0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1045988,
+    "catholiques": 930324,
+    "pourcentage_catholiques": 88.9
+  },
+  "ressources": {
+    "pretres_diocesains": 72,
+    "pretres_religieux": null,
+    "total_pretres": 75,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 37
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

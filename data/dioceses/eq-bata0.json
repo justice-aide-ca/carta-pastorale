@@ -1,0 +1,29 @@
+{
+  "id": "eq-bata0",
+  "nom": "Bata",
+  "pays": "eq",
+  "pays_nom": "Equatorial Guinea",
+  "continent": "unknown",
+  "type": "Diocese Name: Bata / Bataën(sis) (Latin)Ecclesiastical Province: MalaboNeighbouring Dioceses: Malabo (↖), Kribi (↑), Evinayong (→), Libreville (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady of the AssumptionLiturgical Calendar (Universal) 📅History1965.08.09: Established as Apostolic Vicariate of Río Muni / Rivi Munien(sis) (Latin) (from Apostolic Vicariate of Fernando Poo)1966.05.03: Promoted as Diocese of Bata / Bataën(sis) (Latin) (without ecclesiastical province)1982.10.15: Lost territory to establish Diocese of Ebebiyín and became suffragan of Malabo2017.04.01: Lost territory to establish Diocese of EvinayongPapal VisitsPope John Paul II (1982.02)Pope Leo XIV (2026.04)Present PrelatesBishop (2026.05.14 – ...):Bishop Miguel Angel Nguema Bee, S.D.B. (57)Vice-President of Episcopal Conference of Equatorial GuineaOrdinariesBishops of Bata (Roman Rite)Bishop Miguel Angel Nguema Bee, S.D.B. (57)  (2026.05.14 – ...)Bishop of Bata (Equatorial Guinea)Vice-President of Episcopal Conference of Equatorial GuineaBorn:1969.07.13 (Bata, Equatorial Guinea)Ordained Priest:2000.07.24Consecrated Bishop:2017.05.20Vice-President of Episcopal Conference of Equatorial Guinea (2017? – ...)Bishop of Ebebiyín (Equatorial Guinea) (2017.04.01 – 2026.05.14)Apostolic Administrator of Bata (Equatorial Guinea) (2024.12.10 – 2026.05.14)Bishop of Bata (Equatorial Guinea) (2026.05.14 – ...)Bishop Miguel Angel Nguema Bee, S.D.B. (57)  (Apostolic Administrator 2024.12.10 – 2026.05.14)Bishop Juan Matogo Oyana, C.M.F. (77)  (2002.05.11 – 2024.12.10)Bishop emeritus of Bata (Equatorial Guinea)Born:1949.05.24 (Nkué-Esandon, Equatorial Guinea)Ordained Priest:1976.12.19Consecrated Bishop:1992.01.06Bishop of Ebebiyín (Equatorial Guinea) (1991.10.11 – 2002.05.11)Bishop of Bata (Equatorial Guinea) (2002.05.11 – 2024.12.10)Apostolic Administrator of Ebebiyín (Equatorial Guinea) (2006.08.30 – 2011.02.19)Bishop Anacleto Sima Ngua  (1982.11.19 – 2002.05.11)Born:1936.06.02 (Mitemleté, Equatorial Guinea)Ordained Priest:1963.06.24Consecrated Bishop:1983.01.06Died:2018.07.01 (Malabo, Equatorial Guinea † 82)Priest of Bata (Equatorial Guinea) (1963.06.24 – 1982.11.19)Bishop of Bata (Equatorial Guinea) (1982.11.19 – 2002.05.11)President of Episcopal Conference of Equatorial Guinea (1992 – 2000)President of Association of Episcopal Conferences of the Central Africa Region (2000 – 2002)Bishop Rafael María Nze Abuy, C.M.F. (later Archbishop)  (1980.06.26 – 1982.10.21)Born:1926.09.12 (Kogo, Equatorial Guinea)Ordained Priest:1954.05.02Consecrated Bishop:1965.12.12Died:1991.07.07 (Madrid, Spain † 64)Titular Bishop of Sutunurca (1965.08.09 – 1966.05.03)Vicar Apostolic of Río Muni (Equatorial Guinea) (1965.08.09 – 1966.05.03)Bishop of Bata (Equatorial Guinea) (1966.05.03 – 1974.05.09)Apostolic Administrator of Malabo (Equatorial Guinea) (1980 – 1982.10.21)Bishop of Bata (Equatorial Guinea) (1980.06.26 – 1982.10.21)Metropolitan Archbishop of Malabo (Equatorial Guinea) (1982.10.21 – 1991.07.07)President of Episcopal Conference of Equatorial Guinea (1983 – 1991.07.07)Bishop Vicente Bernikon  (Apostolic Administrator 1975 – 1976)Fr. Ildefonso Obama Obono (88) (later Archbishop)  (Apostolic Administrator 1971.05.04 – 1975)Bishop Rafael María Nze Abuy, C.M.F. (later Archbishop)  (1966.05.03 – 1974.05.09)(see above)Vicars Apostolic of Río Muni (Roman Rite)Bishop Rafael María Nze Abuy, C.M.F. (later Archbishop)  (1965.08.09 – 1966.05.03)(see above)Special ChurchesCathedral:  Catedral Santiago y Nuestra Señora del Pilar, Bata, Litoral, Región Continental Minor Basilica:  Basílica Santuário Preciosísima Sangre de Nuestro Señor, Bata, Litoral, Región Continental Show MapMalabo (↖), Kribi (↑), Evinayong (→), Libreville (↓)Statistics (2020.12.31)Area: 6,681 km²Population: 81,000 Catholics (69.2% of 117,000 total)Pastoral Centres: 26 parishesPersonnel: 74 priests (52 diocesan, 22 religious), 1 deacon, 95 religious (49 brothers, 46 sisters), 17 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bata0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 117000,
+    "catholiques": 81000,
+    "pourcentage_catholiques": 69.2
+  },
+  "ressources": {
+    "pretres_diocesains": 52,
+    "pretres_religieux": null,
+    "total_pretres": 74,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

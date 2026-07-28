@@ -1,0 +1,29 @@
+{
+  "id": "co-soac0",
+  "nom": "Soacha",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Soacha / Soachaën(sis) (Latin)Ecclesiastical Province: BogotáNeighbouring Dioceses: Girardot (←), Facatativá (↑), Fontibón (↗), Bogotá (→)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2003.08.06: Established as Diocese of Soacha / Soachaën(sis) (Latin) (from Metropolitan Archdiocese of Bogotá and became suffragan of Bogotá)Present PrelatesBishop (2022.04.25 – ...):Bishop Juan Carlos Barreto Barreto (57)OrdinariesBishops of Soacha (Roman Rite)Bishop Juan Carlos Barreto Barreto (57)  (2022.04.25 – ...)Bishop of Soacha (Colombia)Primum Regnum DeiBorn:1968.12.26 (El Guamo, Colombia)Ordained Priest:1993.01.30Consecrated Bishop:2013.03.09Priest of Espinal (Colombia) (1993.01.30 – 2013.01.30)Bishop of Quibdó (Colombia) (2013.01.30 – 2022.04.25)Bishop of Soacha (Colombia) (2022.04.25 – ...)Archbishop Luis José Rueda Aparicio (64) (later Cardinal)  (Apostolic Administrator 2021.05.13 – 2022.04.25)Bishop José Daniel Falla Robles  (2016.06.29 – 2021.05.01)Born:1956.10.07 (Bogotá, Colombia)Ordained Priest:1992.11.28Consecrated Bishop:2009.06.20Died:2021.05.01 (Soacha, Colombia † 64)Priest of Bogotá (Colombia) (1992.11.28 – 2009.04.15)Titular Bishop of Calama (2009.04.15 – 2016.06.29)Auxiliary Bishop of Cali (Colombia) (2009.04.15 – 2016.06.29)General Secretary of Episcopal Conference of Colombia (2012.07.15 – 2016.07.08)Bishop of Soacha (Colombia) (2016.06.29 – 2021.05.01)Bishop Daniel Caro Borda (86)  (2003.08.06 – 2016.06.29)Bishop emeritus of Soacha (Colombia)Born:1939.12.22 (Santafé de Bogotá, Colombia)Ordained Priest:1963.08.15Consecrated Bishop:2000.09.19Priest of Zipaquirá (Colombia) (1963.08.15 – 2000.07.21)Titular Bishop of Rusibisir (2000.07.21 – 2003.08.06)Auxiliary Bishop of Bogotá (Colombia) (2000.07.21 – 2003.08.06)Bishop of Soacha (Colombia) (2003.08.06 – 2016.06.29)Special ChurchesCathedral:  Catedral de Jesucristo Nuestra Paz, Soacha, Cundinamarca Jubilee Churches in the Holy Year 2025Show MapGirardot (←), Facatativá (↑), Fontibón (↗), Bogotá (→)Statistics (2022.12.31)Area: 425 km²Population: 1,390,000 Catholics (84.0% of 1,654,000 total)Pastoral Centres: 46 parishes, 67 missionsPersonnel: 86 priests (74 diocesan, 12 religious), 15 deacons, 206 religious (20 brothers, 186 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "soac0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1654000,
+    "catholiques": 1390000,
+    "pourcentage_catholiques": 84.0
+  },
+  "ressources": {
+    "pretres_diocesains": 74,
+    "pretres_religieux": null,
+    "total_pretres": 86,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

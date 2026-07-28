@@ -1,0 +1,35 @@
+{
+  "id": "rw-kabgayi0",
+  "nom": "Kabgayi",
+  "pays": "rw",
+  "continent": "afrique",
+  "type": "Diocese",
+  "annee_donnees": 2022,
+  "territoire": {
+    "superficie_km2": 2187,
+    "population_totale": 1120821,
+    "catholiques": 683452,
+    "pourcentage_catholiques": 61.0
+  },
+  "ressources": {
+    "pretres_diocesains": 85,
+    "pretres_religieux": 18,
+    "total_pretres": 103,
+    "religieux_freres": 62,
+    "religieuses": 324,
+    "total_religieux": 386,
+    "seminarians": 53,
+    "diacres_permanents": null,
+    "paroisses": 29,
+    "missions": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org + Statistiques 2022",
+  "derniere_mise_a_jour": "2026-07-14",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Kabgayi",
+    "conference_episcopale": "https://www.eglisecatholiquerwanda.org/"
+  }
+}

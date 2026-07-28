@@ -1,0 +1,29 @@
+{
+  "id": "mx-azca0",
+  "nom": "Azcapotzalco",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Azcapotzalco (español) / Azcapotzalcen(sis) (Latin)Ecclesiastical Province: MéxicoNeighbouring Dioceses: Tlalnepantla (↖), México (→)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2019.09.28: Established as Diocese of Azcapotzalco (español) / Azcapotzalcen(sis) (Latin) (from Metropolitan Archdiocese of México and became suffragan of México)Present PrelatesBishop:vacantApostolic Administrator (2026.04.13 – ...):Archbishop José Antonio Fernández Hurtado (73)Metropolitan Archbishop of Tlalnepantla (Mexico)OrdinariesBishops of Azcapotzalco (Roman Rite)Archbishop José Antonio Fernández Hurtado (73)  (Apostolic Administrator 2026.04.13 – ...)Bishop Adolfo Miguel Castaño Fonseca (63)  (2019.09.28 – 2026.02.11)Bishop of Atlacomulco (Mexico)Vayan y anuncienBorn:1962.09.27 (San Mateo Mozoquilpan, Mexico)Ordained Priest:1987.03.19Consecrated Bishop:2010.07.30Priest of Toluca (Mexico) (1987.03.19 – 2010.06.22)Titular Bishop of Vadesi (2010.06.22 – 2019.09.28)Auxiliary Bishop of México (Mexico) (2010.06.22 – 2019.09.28)Bishop of Azcapotzalco (Mexico) (2019.09.28 – 2026.02.11)Bishop of Atlacomulco (Mexico) (2026.02.11 – ...)Special ChurchesCathedral:  Catedral Santos Apóstoles Felipe y Santiago, Ciudad de México, Ciudad de México Jubilee Churches in the Holy Year 2025Churches by City (83)Show MapTlalnepantla (↖), México (→)Statistics (2022.12.31)Area: 75 km²Population: 819,145 Catholics (78.0% of 1,050,250 total)Pastoral Centres: 70 parishesPersonnel: 106 priests (59 diocesan, 47 religious), 9 deacons, 321 religious (51 brothers, 270 sisters), 19 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "azca0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1050250,
+    "catholiques": 819145,
+    "pourcentage_catholiques": 78.0
+  },
+  "ressources": {
+    "pretres_diocesains": 59,
+    "pretres_religieux": null,
+    "total_pretres": 106,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 70
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

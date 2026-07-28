@@ -1,0 +1,29 @@
+{
+  "id": "co-bond1",
+  "nom": "Bondoukou",
+  "pays": "co",
+  "pays_nom": "Cote d’Ivoire",
+  "continent": "unknown",
+  "type": "Diocese Name: Bondoukou / Bondukuen(sis) (Latin)Ecclesiastical Province: BouakéNeighbouring Dioceses: Bouaké (↙), Katiola (←), Banfora (↖), Gaoua (↑), Damongo (↗), Sunyani (↘), Abengourou (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1987.07.03: Established as Diocese of Bondoukou / Bondukuen(sis) (Latin) (from Diocese of Abengourou and became suffragan of Abidjan)1994.12.19: Became suffragan of BouakéPresent PrelatesBishop (2019.06.28 – ...):Bishop Bruno Essoh Yedoh (63)Vice-President of Catholic Bishops’ Conference of Côte d’IvoireMonsignors (1)OrdinariesBishops of Bondoukou (Roman Rite)Bishop Bruno Essoh Yedoh (63)  (2019.06.28 – ...)Bishop of Bondoukou (Cote d’Ivoire)Vice-President of Catholic Bishops’ Conference of Côte d’IvoireQuærite primum regnum DeiBorn:1963.02.17 (Orbaff, Cote d’Ivoire)Ordained Priest:1990.12.08Consecrated Bishop:2019.09.28Priest of Yopougon (Cote d’Ivoire) (1990.12.08 – 2019.06.28)Bishop of Bondoukou (Cote d’Ivoire) (2019.06.28 – ...)Vice-President of Catholic Bishops’ Conference of Côte d’Ivoire (2023.06.04 – ...)Bishop Félix Kouadjo  (1996.04.22 – 2012.05.06)Born:1939 (Binao, Cote d’Ivoire)Ordained Priest:1969.03.16Consecrated Bishop:1996.07.20Died:2012.05.06 (Bondoukou, Cote d’Ivoire † 72)Bishop of Bondoukou (Cote d’Ivoire) (1996.04.22 – 2012.05.06)Bishop Alexandre Kouassi  (1987.08.28 – 1994.12.16)Born:1934 (Tankessé, Cote d’Ivoire)Ordained Priest:1961.07.21Consecrated Bishop:1988.01.10Died:1994.12.16 († 59)Bishop of Bondoukou (Cote d’Ivoire) (1987.08.28 – 1994.12.16)Special ChurchesCathedral:  Cathédrale Sainte-Odile, Bondoukou, Zanzan Show MapBouaké (↙), Katiola (←), Banfora (↖), Gaoua (↑), Damongo (↗), Sunyani (↘), Abengourou (↓)Statistics (2022.12.31)Area: 34,530 km²Population: 328,739 Catholics (27.9% of 1,176,984 total)Pastoral Centres: 40 parishes, 2 missionsPersonnel: 79 priests (diocesan), 47 religious (47 sisters), 35 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bond1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1176984,
+    "catholiques": 328739,
+    "pourcentage_catholiques": 27.9
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

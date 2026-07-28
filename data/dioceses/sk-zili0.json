@@ -1,0 +1,29 @@
+{
+  "id": "sk-zili0",
+  "nom": "Žilina",
+  "pays": "sk",
+  "pays_nom": "Slovakia",
+  "continent": "unknown",
+  "type": "Diocese Name: Žilina / Žilinen(sis) (Latin)Ecclesiastical Province: BratislavaNeighbouring Dioceses: Trnava (↙), Olomouc (↖), Ostrava–Opava (↖), Bielsko–Żywiec (↑), Kraków (↗), Spiš (→), Banská Bystrica (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Cyril and Saint MethodiusLiturgical Calendar 📅History2008.02.14: Established as Diocese of Žilina / Žilinen(sis) (Latin) (from Diocese of Banská Bystrica and Diocese of Nitra and became suffragan of Bratislava)Present PrelatesBishop (2008.02.14 – ...):Bishop Tomáš Galis (75)Monsignors (15)OrdinariesBishops of Žilina (Roman Rite)Bishop Tomáš Galis (75)  (2008.02.14 – ...)Bishop of Žilina (Slovakia)Per Mariam ad JesumBorn:1950.12.22 (Selice, Slovakia)Ordained Priest:1976.06.06Consecrated Bishop:1999.09.25Priest of Banská Bystrica (Slovakia) (1976.06.06 – 1999.08.28)Chaplain of His Holiness (1994.01.11 – 1999.08.28)Titular Bishop of Bita (1999.08.28 – 2008.02.14)Auxiliary Bishop of Banská Bystrica (Slovakia) (1999.08.28 – 2008.02.14)Bishop of Žilina (Slovakia) (2008.02.14 – ...)Special ChurchesCathedral:  Katedrála Najsvätejšej Trojice, Žilina, Žilina Minor Basilica:  Bazilika Narodenia Preblahoslavenej Panny Márie, Rajecká Lesná, Žilina Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (187)Show MapTrnava (↙), Olomouc (↖), Ostrava–Opava (↖), Bielsko–Żywiec (↑), Kraków (↗), Spiš (→), Banská Bystrica (↓)Statistics (2022.12.31)Area: 3,487 km²Population: 405,640 Catholics (73.0% of 555,570 total)Pastoral Centres: 112 parishes, 12 missionsPersonnel: 234 priests (182 diocesan, 52 religious), 2 deacons, 189 religious (63 brothers, 126 sisters), 26 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zili0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 555570,
+    "catholiques": 405640,
+    "pourcentage_catholiques": 73.0
+  },
+  "ressources": {
+    "pretres_diocesains": 182,
+    "pretres_religieux": null,
+    "total_pretres": 234,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 112
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

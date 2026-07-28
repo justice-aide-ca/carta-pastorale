@@ -1,0 +1,29 @@
+{
+  "id": "ar-raws0",
+  "nom": "Rawson",
+  "pays": "ar",
+  "pays_nom": "Argentina",
+  "continent": "amerique",
+  "type": "Diocese Name: Rawson (español) / Rausonopolitan(us) (Latin)Ecclesiastical Province: Bahía BlancaNeighbouring Dioceses: Comodoro Rivadavia (↙), Esquel (←), San Carlos de Bariloche (↖), Viedma (↑)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History2023.10.19: Established as Diocese of Rawson (español) / Rausonopolitan(us) (Latin) (from Diocese of Comodoro Rivadavia and became suffragan of Bahía Blanca)Present PrelatesBishop (2023.10.19 – ...):Bishop Roberto Pio Álvarez (58)OrdinariesBishops of Rawson (Roman Rite)Bishop Roberto Pio Álvarez (58)  (2023.10.19 – ...)Bishop of Rawson (Argentina)Va delante de ustedes a Galilea, alli lo veranBorn:1968.05.05 (Córdoba, Argentina)Ordained Priest:1998.12.14Consecrated Bishop:2017.12.22Priest of Córdoba (Argentina) (1998.12.14 – 2017.11.28)Titular Bishop of Sozopolis in Hæmimonto (2017.11.28 – 2023.10.19)Auxiliary Bishop of Comodoro Rivadavia (Argentina) (2017.11.28 – 2023.10.19)Apostolic Administrator of Comodoro Rivadavia (Argentina) (2023.10.19 – 2024.02.22)Bishop of Rawson (Argentina) (2023.10.19 – ...)Special ChurchesCathedral:  Catedral María Auxiliadora, Trelew, Chubut Churches by City (14)Show MapComodoro Rivadavia (↙), Esquel (←), San Carlos de Bariloche (↖), Viedma (↑)Statistics (2023.12.31)Area: 95,606 km²Population: 162,173 Catholics (60.0% of 270,289 total)Pastoral Centres: 11 parishesPersonnel: 14 priests (10 diocesan, 4 religious), 10 deacons, 11 religious (4 brothers, 7 sisters), 1 seminarianPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "raws0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 270289,
+    "catholiques": 162173,
+    "pourcentage_catholiques": 60.0
+  },
+  "ressources": {
+    "pretres_diocesains": 10,
+    "pretres_religieux": null,
+    "total_pretres": 14,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

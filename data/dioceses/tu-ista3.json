@@ -1,0 +1,29 @@
+{
+  "id": "tu-ista3",
+  "nom": "Istanbul",
+  "pays": "tu",
+  "pays_nom": "Turkiye",
+  "continent": "unknown",
+  "type": "Patriarchal Exarchate Name: IstanbulSubject to the PatriarchDepends on: Dicastery for the Eastern ChurchesWebsite: HistoryEstablished as Patriarchal Exarchate of IstanbulContact InfoAddress: Papa Roncalli Sokak 83, 34373 Istanbul, TurkiyePhone: +90 212 249 71 04Present PrelatesPatriarchal Exarch:vacantPatriarchal Administrator (2021.09.14 – ...):Bishop Massimiliano Palinuro (52)Vicar Apostolic of Istanbul (Turkiye)Apostolic Administrator of Istanbul of the Greeks (Turkiye)OrdinariesPatriarchal Exarchs of Istanbul (Greek-Melkite Rite)Bishop Massimiliano Palinuro (52)  (Patriarchal Administrator 2021.09.14 – ...)Archbishop Lorenzo Piretto, O.P. (83)  (Patriarchal Administrator 2020.12.24 – 2021.09.14)Bishop Rubén Tierrablanca Gonzalez, O.F.M.  (Patriarchal Administrator 2016.04.16 – 2020.12.23)Bishop Louis-Armel Pelâtre, A.A. (86)  (Patriarchal Administrator 1996.11.25 – 2016.04.16)Archimandrite Maximos Mardelli  (1946 – 1955.09)Born:1913.02.11Died:2000.10.03 († 87)Patriarchal Exarch of Istanbul of the Greek-Melkites (Turkiye) (1946 – 1955.09)Last updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ista3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

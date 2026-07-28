@@ -1,0 +1,29 @@
+{
+  "id": "pe-call0",
+  "nom": "Callao",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Callao / Callaën(sis) (Latin)Ecclesiastical Province: LimaNeighbouring Dioceses: Carabayllo (↗), Lima (→), Lurín (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar 📅History1967.04.29: Established as Diocese of Callao / Callaën(sis) (Latin) (from Metropolitan Archdiocese of Lima and became suffragan of Lima)1970.03.10: Gained territory from Metropolitan Archdiocese of LimaPapal VisitsPope John Paul II (1985.02)Present PrelatesBishop (2021.04.17 – ...):Bishop Luis Alberto Barrera Pacheco, M.C.C.J. (59)Apostolic Administrator of Huacho (Peru)Second Vice-President of Episcopal Conference of PeruAuxiliary Bishop (2025.05.15 – ...):Bishop Miguel Ángel Contreras Llajaruna, S.M. (47)Titular Bishop of BabraMonsignors (4)OrdinariesBishops of Callao (Roman Rite)Bishop Luis Alberto Barrera Pacheco, M.C.C.J. (59)  (2021.04.17 – ...)Bishop of Callao (Peru)Apostolic Administrator of Huacho (Peru)Second Vice-President of Episcopal Conference of PeruLlamado por misericordia para servir y amarBorn:1966.11.16 (Gorgor, Cajatambo, Peru)Ordained Priest:1995.06.10Consecrated Bishop:2016.12.18Bishop of Tarma (Peru) (2016.10.25 – 2021.04.17)Apostolic Administrator of Tarma (Peru) (2021.04.17 – 2022.06.18)Bishop of Callao (Peru) (2021.04.17 – ...)Second Vice-President of Episcopal Conference of Peru (2024.08.24 – ...)Apostolic Administrator of Huacho (Peru) (2026.07.15 – ...)Bishop Robert Francis Prevost, O.S.A. (70) (later Pope Leo XIV)  (Apostolic Administrator 2020.04.15 – 2021.04.17)Bishop José Luis Del Palacio y Pérez-Medel (76)  (2011.12.12 – 2020.04.15)Bishop emeritus of Callao (Peru)Ama y haz lo que quierasBorn:1950.03.18 (Madrid, Spain)Ordained Priest:1985.02.03Consecrated Bishop:2012.01.07Priest of Madrid (Spain) (1985.02.03 – 2011.12.12)Bishop of Callao (Peru) (2011.12.12 – 2020.04.15)Bishop Miguel Irízar Campos, C.P.  (1995.08.17 – 2011.12.12)Born:1934.05.07 (Ormaiztegui, Spain)Ordained Priest:1957.03.16Consecrated Bishop:1972.07.25Died:2018.08.19 (Bilbao, Spain † 84)Titular Bishop of Helos (1972.03.25 – 1989.08.06)Vicar Apostolic of Yurimaguas (Peru) (1972.03.25 – 1989.08.06)Coadjutor Bishop of Callao (Peru) (1989.08.06 – 1995.08.17)Bishop of Callao (Peru) (1995.08.17 – 2011.12.12)Archbishop Ricardo Durand Flórez, S.J.  (1975.01.14 – 1995.08.17)Born:1917.04.16 (Ambo, Peru)Ordained Priest:1948.12.18Consecrated Bishop:1966.03.25Died:2004.03.19 († 86)Metropolitan Archbishop of Cusco (Peru) (1966.02.14 – 1975.01.14)Archbishop-Bishop of Callao (Peru) (1975.01.14 – 1995.08.17)President of Episcopal Conference of Peru (1988 – 1991)Bishop Luis Vallejos Santoni (later Archbishop)  (1971.09.20 – 1975.01.14)Born:1917.01.31 (Callao, Peru)Ordained Priest:1957.12.21Consecrated Bishop:1971.11.21Died:1982.06.08 († 65)Priest of Callao (Peru) (1957.12.21 – 1971.09.20)Bishop of Callao (Peru) (1971.09.20 – 1975.01.14)Metropolitan Archbishop of Cusco (Peru) (1975.01.14 – 1982.06.08)Bishop Eduardo Picher Peña (later Archbishop)  (1967.08.03 – 1971.05.31)Born:1920.08.12 (Lima, Peru)Ordained Priest:1944.09.23Consecrated Bishop:1967.09.08Died:2002.11.30 († 82)Bishop of Callao (Peru) (1967.08.03 – 1971.05.31)Metropolitan Archbishop of Huancayo (Peru) (1971.05.31 – 1984.06.14)Military Vicar of Peru (Peru) (1984.06.14 – 1986.07.21)Titular Archbishop of Abitinæ (1984.06.14 – 2002.11.30)Military Ordinary of Peru (Peru) (1986.07.21 – 1996.02.06)Former PrelatesCoadjutor Bishop: Bishop Miguel Irízar Campos, C.P. (1989.08.06 – 1995.08.17)Auxiliary Bishop: Bishop Javier Augusto del Río Alba (68) (later Archbishop) (2004.10.12 – 2006.07.11)Special ChurchesCathedral:  Catedral San José en Bellavista, Callao, El Callao Minor Basilica:  Basílica Santuario Virgen del Carmen de la Legua, Callao, El Callao Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (59)Show MapCarabayllo (↗), Lima (→), Lurín (↘)Statistics (2022.12.31)Area: 165 km²Population: 1,324,000 Catholics (82.4% of 1,606,460 total)Pastoral Centres: 58 parishes, 35 missionsPersonnel: 119 priests (101 diocesan, 18 religious), 6 deacons, 209 religious (27 brothers, 182 sisters), 48 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.16© 2026 GCatholic.org",
+  "code_gcatholic": "call0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1606460,
+    "catholiques": 1324000,
+    "pourcentage_catholiques": 82.4
+  },
+  "ressources": {
+    "pretres_diocesains": 101,
+    "pretres_religieux": null,
+    "total_pretres": 119,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 58
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

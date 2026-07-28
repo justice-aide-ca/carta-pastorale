@@ -1,0 +1,29 @@
+{
+  "id": "cn-siny0",
+  "nom": "Xinyang 信陽",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Xinyang 信陽 (中文) / Sínyang / Xìnyáng 信阳 (简体中文) / Siniamen(sis) (Latin)Ecclesiastical Province: Kaifeng 開封Neighbouring Dioceses: Suixian 隨縣 (↙), Zhumadian 駐馬店 (↖), Kaifeng 開封 (↑), Bengbu 蚌埠 (↗), Anqing 安慶 (↘), Qichun 蘄春 (↘), Hankou 漢口 (↓)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Zhumadian 駐馬店 CelebrationsLiturgical Calendar (Universal) 📅History1927.12.15: Established as Apostolic Prefecture of Xinyangzhou 信陽州 (中文) / Sinyangchow / Xìnyángzhōu 信阳州 (简体中文) / de Sinyangchow (Latin) (from Apostolic Vicariate of Kaifengfu 開封府)1933.03.02: Lost territory to establish Apostolic Prefecture of Zhumadian 駐馬店1933.04.25: Promoted as Apostolic Vicariate of Xinyangzhou 信陽州 (中文) / Sinyangchow / Xìnyángzhōu 信阳州 (简体中文) / de Sinyangchow (Latin)1946.04.11: Promoted as Diocese of Xinyang 信陽 (中文) / Sínyang / Xìnyáng 信阳 (简体中文) / Siniamen(sis) (Latin) (became suffragan of Kaifeng 開封)Present PrelatesBishop:vacantOrdinariesBishops of Xinyang 信陽 (Roman Rite)Fr. Anton Pott, S.V.D.  (1951.03.08 – 1953.02.06)Born:1903.09.01 (Germany)Ordained Priest:1932.09.30Died:1986.11.11 († 83)Bishop of Xinyang 信陽 (China) (1951.03.08 – 1953.02.06)Bishop Vitus Zhang Zuo-heng (Chang Tso-huan) (張作恆), S.V.D.  (1946.04.11 – 1949.11.13)Born:1903.08.22 (Tsingtao, China)Ordained Priest:1930.03.16Consecrated Bishop:1941.12.08Died:1982.11.01 (Köln, Germany † 79)Titular Bishop of Eguga (1941.07.08 – 1946.04.11)Vicar Apostolic of Xinyangzhou 信陽州 (China) (1941.07.08 – 1946.04.11)Bishop of Xinyang 信陽 (China) (1946.04.11 – 1949.11.13)Titular Bishop of Cyanæ (1949.11.13 – 1982.11.01)Vicars Apostolic of Xinyangzhou 信陽州 (Roman Rite)Bishop Vitus Zhang Zuo-heng (Chang Tso-huan) (張作恆), S.V.D.  (1941.07.08 – 1946.04.11)(see above)Bishop Hermann Schoppelrey (史赫曼), S.V.D.  (1933.12.13 – 1940.05.25)Born:1876.09.24 (Mönchengladbach, Germany)Ordained Priest:1900.01.28Consecrated Bishop:1934.01.06Died:1940.05.25 (Chumatien, China † 63)Titular Bishop of Calydon (1933.12.13 – 1940.05.25)Vicar Apostolic of Xinyangzhou 信陽州 (China) (1933.12.13 – 1940.05.25)Prefects Apostolic of Xinyangzhou 信陽州 (Roman Rite)Fr. Georg Fröwis (法樂維), S.V.D.  (1928.08.01 – 1933.04.25)Born:1865.01.30 (Italy)Ordained Priest:1893.12.03Died:1934.11.11 († 69)Prefect Apostolic of Xinyangzhou 信陽州 (China) (1928.08.01 – 1933.04.25)Show MapSuixian 隨縣 (↙), Zhumadian 駐馬店 (↖), Kaifeng 開封 (↑), Bengbu 蚌埠 (↗), Anqing 安慶 (↘), Qichun 蘄春 (↘), Hankou 漢口 (↓)Statistics (1950.12.31)Area: 30,000 km²Population: 13,654 Catholics (0.2% of 6,000,000 total)Pastoral Centres: 17 parishes, 46 missionsPersonnel: 34 priests (3 diocesan, 31 religious), 40 religious (12 brothers, 28 sisters)PopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "siny0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6000000,
+    "catholiques": 13654,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 3,
+    "pretres_religieux": null,
+    "total_pretres": 34,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ng-pank0",
+  "nom": "Pankshin",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Pankshin / Pankshinen(sis) (Latin)Ecclesiastical Province: JosNeighbouring Dioceses: Lafia (↙), Jos (↖), Jalingo (→), Shendam (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2014.03.18: Established as Diocese of Pankshin / Pankshinen(sis) (Latin) (from Metropolitan Archdiocese of Jos and Diocese of Shendam and became suffragan of Jos)Present PrelatesBishop (2014.03.18 – ...):Bishop Michael Gobal Gokum (62)OrdinariesBishops of Pankshin (Roman Rite)Bishop Michael Gobal Gokum (62)  (2014.03.18 – ...)Bishop of Pankshin (Nigeria)Born:1964.02.18 (Kadyis, Nigeria)Ordained Priest:1991.11.16Consecrated Bishop:2014.06.12Priest of Jos (Nigeria) (1991.11.16 – 2014.03.18)Bishop of Pankshin (Nigeria) (2014.03.18 – ...)Special ChurchesCathedral:  Cathedral of the Holy Cross, Pankshin, Plateau Show MapLafia (↙), Jos (↖), Jalingo (→), Shendam (↓)Statistics (2022.12.31)Area: 8,486 km²Population: 221,530 Catholics (18.0% of 1,233,590 total)Pastoral Centres: 36 parishesPersonnel: 49 priests (45 diocesan, 4 religious), 14 religious (4 brothers, 10 sisters), 46 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pank0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1233590,
+    "catholiques": 221530,
+    "pourcentage_catholiques": 18.0
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 49,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

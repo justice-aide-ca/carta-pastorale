@@ -1,0 +1,29 @@
+{
+  "id": "ng-auch1",
+  "nom": "Auchi",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Auchi / Auchian(us) (Latin)Ecclesiastical Province: Benin CityNeighbouring Dioceses: Benin City (↙), Ondo (←), Lokoja (↑), Idah (→), Uromi (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Immaculate Conception (December 8), Sts. Michael, Gabriel and Raphael (September 29), Saint John the Baptist (June 24)Liturgical Calendar (National) 📅History2002.11.06: Established as Diocese of Auchi / Auchian(us) (Latin) (from Metropolitan Archdiocese of Benin City and became suffragan of Benin City)Present PrelatesBishop (2002.11.06 – ...):Bishop Gabriel Ghiakhomo Dunia (68)Monsignors (3)OrdinariesBishops of Auchi (Roman Rite)Bishop Gabriel Ghiakhomo Dunia (68)  (2002.11.06 – ...)Bishop of Auchi (Nigeria)No erit imposible apud DeumBorn:1957.09.29 (Obobo, Nigeria)Ordained Priest:1989.09.09Consecrated Bishop:2003.02.22Priest of Benin City (Nigeria) (1989.09.09 – 2002.11.06)Bishop of Auchi (Nigeria) (2002.11.06 – ...)Special ChurchesCathedral:  Immaculate Conception Cathedral, Auchi, Edo Show MapBenin City (↙), Ondo (←), Lokoja (↑), Idah (→), Uromi (↓)Statistics (2022.12.31)Area: 6,116 km²Population: 124,256 Catholics (10.3% of 1,207,554 total)Pastoral Centres: 60 parishes, 8 missionsPersonnel: 84 priests (81 diocesan, 3 religious), 157 religious (18 brothers, 139 sisters), 86 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "auch1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1207554,
+    "catholiques": 124256,
+    "pourcentage_catholiques": 10.3
+  },
+  "ressources": {
+    "pretres_diocesains": 81,
+    "pretres_religieux": null,
+    "total_pretres": 84,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 60
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

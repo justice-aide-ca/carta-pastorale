@@ -1,0 +1,29 @@
+{
+  "id": "pt-sant1",
+  "nom": "Santarém",
+  "pays": "pt",
+  "pays_nom": "Portugal",
+  "continent": "unknown",
+  "type": "Diocese Name: Santarém (Português) / Santaremen(sis) in Lusitania (Latin)Ecclesiastical Province: LisboaNeighbouring Dioceses: Lisboa (↙), Leiria–Fátima (↑), Coimbra (↗), Portalegre–Castelo Branco (→), Évora (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Imaculada Conceição da Virgem Santa Maria (December 8)Cathedral Dedication Anniversary: July 16Liturgical Calendar 📅History1975.07.16: Established as Diocese of Santarém (Português) / Santaremen(sis) in Lusitania (Latin) (from Patriarchal See of Lisboa and became suffragan of Lisboa)Present PrelatesBishop (2017.10.07 – ...):Bishop José Augusto Traquina Maria (72)Monsignors (1)OrdinariesBishops of Santarém (Roman Rite)Bishop José Augusto Traquina Maria (72)  (2017.10.07 – ...)Bishop of Santarém (Portugal)Alegrai-vos sempre no senhorBorn:1954.01.21 (Alcobaça, Portugal)Ordained Priest:1985.06.30Consecrated Bishop:2014.06.01Priest of Lisboa (Portugal) (1985.06.30 – 2014.04.17)Titular Bishop of Lugura (2014.04.17 – 2017.10.07)Auxiliary Bishop of Lisboa (Portugal) (2014.04.17 – 2017.10.07)Bishop of Santarém (Portugal) (2017.10.07 – ...)Bishop Manuel Pelino Domingues (84)  (1998.01.27 – 2017.10.07)Bishop emeritus of Santarém (Portugal)O Senhor enviou-me a anuntiar a boa novaBorn:1941.10.07 (Lentisqueira, Portugal)Ordained Priest:1965.08.15Consecrated Bishop:1988.03.13Priest of Coimbra (Portugal) (1965.08.15 – 1987.12.19)Titular Bishop of Lemellefa (1987.12.19 – 1998.01.27)Auxiliary Bishop of Porto (Portugal) (1987.12.19 – 1998.01.27)Bishop of Santarém (Portugal) (1998.01.27 – 2017.10.07)Bishop António Francisco Marques, O.F.M.  (1975.07.16 – 1997.08.28)Born:1927.06.15 (Caldelas-Caranguejeira, Portugal)Ordained Priest:1952.07.20Consecrated Bishop:1975.10.04Died:1997.08.28 († 70)Bishop of Santarém (Portugal) (1975.07.16 – 1997.08.28)Special ChurchesCathedral:  Sé Catedral de Nossa Senhora da Conceição, Santarém, Santarém World Heritage Site:  Convento de Cristo, Tomar, Santarém Jubilee Churches in the Holy Year 2025Churches by City (121)Show MapLisboa (↙), Leiria–Fátima (↑), Coimbra (↗), Portalegre–Castelo Branco (→), Évora (↘)Statistics (2022.12.31)Area: 3,203 km²Population: 218,300 Catholics (80.1% of 272,500 total)Pastoral Centres: 113 parishes, 253 missionsPersonnel: 47 priests (42 diocesan, 5 religious), 16 deacons, 121 religious (7 brothers, 114 sisters), 4 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sant1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 272500,
+    "catholiques": 218300,
+    "pourcentage_catholiques": 80.1
+  },
+  "ressources": {
+    "pretres_diocesains": 42,
+    "pretres_religieux": null,
+    "total_pretres": 47,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 113
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

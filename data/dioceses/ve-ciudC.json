@@ -1,0 +1,29 @@
+{
+  "id": "ve-ciudC",
+  "nom": "Ciudad Guayana",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Ciudad Guayana / Civitatis Guayanen(sis) (Latin)Ecclesiastical Province: Ciudad BolívarNeighbouring Dioceses: Ciudad Bolívar (↖), El Tigre (↖), Maturín (↑), Tucupita (↗), Georgetown (→), Caroní (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Inmaculada Concepción (December 8)Liturgical Calendar (National) 📅History1979.08.20: Established as Diocese of Ciudad Guayana / Civitatis Guayanen(sis) (Latin) (from Metropolitan Archdiocese of Ciudad Bolívar and became suffragan of Ciudad Bolívar)1988.03.25: Gained territory from Metropolitan Archdiocese of Ciudad BolívarContact InfoAddress: Urbanización Villa Alianza, Senda Sula, N° 93, 38, Apdo. Postal 250, Puerto Ordaz, Estado Bolívar, VenezuelaPapal VisitsPope John Paul II (1985.01)Present PrelatesBishop (2022.12.08 – ...):Bishop Carlos Alfredo Cabezas Mendoza (60)Monsignors (1)OrdinariesBishops of Ciudad Guayana (Roman Rite)Bishop Carlos Alfredo Cabezas Mendoza (60)  (2022.12.08 – ...)Bishop of Ciudad Guayana (Venezuela)Born:1966.01.26 (Niquitao, Venezuela)Ordained Priest:1990.06.10Consecrated Bishop:2016.08.06Priest of Trujillo (Venezuela) (1990.06.10 – 2016.06.04)Bishop of Punto Fijo (Venezuela) (2016.06.04 – 2022.12.08)Bishop of Ciudad Guayana (Venezuela) (2022.12.08 – ...)Bishop Helizandro Emiro Terán Bermúdez, O.S.A. (61) (later Archbishop)  (2017.07.29 – 2022.03.19)Metropolitan Archbishop of Mérida (Venezuela)Born:1965.06.07 (Maracaibo, Venezuela)Ordained Priest:1995.09.09Consecrated Bishop:2017.09.23Bishop of Ciudad Guayana (Venezuela) (2017.07.29 – 2022.03.19)Coadjutor Archbishop of Mérida (Venezuela) (2022.03.19 – 2023.01.31)Metropolitan Archbishop of Mérida (Venezuela) (2023.01.31 – ...)Bishop Mariano José Parra Sandoval (79) (later Archbishop)  (2001.07.10 – 2016.10.25)Metropolitan Archbishop emeritus of Coro (Venezuela)No vine a ser servido sino a servirBorn:1947.04.25 (Maracaibo, Venezuela)Ordained Priest:1971.08.14Consecrated Bishop:1994.10.28Priest of Cumaná (Venezuela) (1971.08.14 – 1994.07.12)Chaplain of His Holiness (1985.01.15 – 1994.07.12)Bishop of San Fernando de Apure (Venezuela) (1994.07.12 – 2001.07.10)Bishop of Ciudad Guayana (Venezuela) (2001.07.10 – 2016.10.25)Metropolitan Archbishop of Coro (Venezuela) (2016.10.25 – 2023.10.31)Apostolic Administrator of Cumaná (Venezuela) (2024.09.08 – 2025.03.06)Bishop Ubaldo Ramón Santana Sequera, F.M.I. (85) (later Archbishop)  (1991.05.02 – 2000.11.11)Metropolitan Archbishop emeritus of Maracaibo (Venezuela)Born:1941.05.16 (Cagua, Venezuela)Ordained Priest:1968.10.12Consecrated Bishop:1990.05.27Titular Bishop of Cæciri (1990.04.04 – 1991.05.02)Auxiliary Bishop of Caracas (Venezuela) (1990.04.04 – 1991.05.02)Bishop of Ciudad Guayana (Venezuela) (1991.05.02 – 2000.11.11)Metropolitan Archbishop of Maracaibo (Venezuela) (2000.11.11 – 2018.05.24)President of Episcopal Conference of Venezuela (2006 – 2012.01.12)Bishop José de Jesús Nuñez Viloria  (1987.01.13 – 1990.07.21)Born:1938.01.02 (Betijoque, Venezuela)Ordained Priest:1962.08.12Consecrated Bishop:1982.03.19Died:2024.07.03 (Ciudad Bolivar, Venezuela † 86)Priest of Trujillo (Venezuela) (1962.08.12 – 1982.01.08)Titular Bishop of Cenæ (1982.01.08 – 1987.01.13)Auxiliary Bishop of Ciudad Bolívar (Venezuela) (1982.01.08 – 1987.01.13)Bishop of Ciudad Guayana (Venezuela) (1987.01.13 – 1990.07.21)Bishop Medardo Luis Luzardo Romero (later Archbishop)  (1979.08.20 – 1986.05.26)Born:1935.04.17 (Los Puertos de Altagracia, Venezuela)Ordained Priest:1960.01.06Consecrated Bishop:1972.07.25Died:2018.11.27 (Los Puertos de Altagracia, Venezuela † 83)Bishop of San Carlos de Venezuela (Venezuela) (1972.05.16 – 1979.08.20)Bishop of Ciudad Guayana (Venezuela) (1979.08.20 – 1986.05.26)Metropolitan Archbishop of Ciudad Bolívar (Venezuela) (1986.05.26 – 2011.08.27)Special ChurchesPro-Cathedral:  Pro-catedral Nuestra Señora de Fátima, Ciudad Guayana, Bolívar Future Cathedral:  Catedral San Juan Pablo II, Ciudad Guayana, Bolívar Show MapCiudad Bolívar (↖), El Tigre (↖), Maturín (↑), Tucupita (↗), Georgetown (→), Caroní (↓)Statistics (2022.12.31)Area: 53,596 km²Population: 997,409 Catholics (79.2% of 1,259,304 total)Pastoral Centres: 44 parishesPersonnel: 42 priests (31 diocesan, 11 religious), 6 deacons, 45 religious (11 brothers, 34 sisters), 8 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ciudC",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1259304,
+    "catholiques": 997409,
+    "pourcentage_catholiques": 79.2
+  },
+  "ressources": {
+    "pretres_diocesains": 31,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 44
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "in-nong0",
+  "nom": "Nongstoin",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Nongstoin / Nongstoinen(sis) (Latin)Ecclesiastical Province: ShillongNeighbouring Dioceses: Mymensingh (↙), Tura (←), Guwahati (↗), Sylhet (↘)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint PeterLiturgical Calendar (National) 📅History2006.01.28: Established as Diocese of Nongstoin / Nongstoinen(sis) (Latin) (from Metropolitan Archdiocese of Shillong and became suffragan of Shillong)Present PrelatesBishop (2023.02.04 – ...):Bishop Wilbert Marwein (56)OrdinariesBishops of Nongstoin (Roman Rite)Bishop Wilbert Marwein (56)  (2023.02.04 – ...)Bishop of Nongstoin (India)Born:1970.02.17 (Rangblang-Sohsyniang, India)Ordained Priest:2003.04.27Consecrated Bishop:2023.04.16Priest of Shillong (India) (2003.04.27 – 2006.01.28)Priest of Nongstoin (India) (2006.01.28 – 2023.02.04)Bishop of Nongstoin (India) (2023.02.04 – ...)Archbishop Dominic Jala, S.D.B.  (Apostolic Administrator 2016.10.15 – 2019.10.10)Bishop Victor Lyngdoh (70) (later Archbishop)  (2006.01.28 – 2016.10.15)Metropolitan Archbishop of Shillong (India)For life, I obey GodBorn:1956.01.14 (Wahlang, India)Ordained Priest:1987.01.25Consecrated Bishop:2006.04.02Priest of Shillong (India) (1987.01.25 – 2006.01.28)Bishop of Nongstoin (India) (2006.01.28 – 2016.10.15)Bishop of Jowai (India) (2016.10.15 – 2020.12.28)Metropolitan Archbishop of Shillong (India) (2020.12.28 – ...)Special ChurchesCathedral:  Cathedral of St. Peter the Apostle, Nongstoin, Meghālaya Show MapMymensingh (↙), Tura (←), Guwahati (↗), Sylhet (↘)Statistics (2022.12.31)Area: 5,247 km²Population: 174,072 Catholics (28.2% of 616,380 total)Pastoral Centres: 22 parishesPersonnel: 58 priests (23 diocesan, 35 religious), 35 religious (35 brothers), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "nong0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 616380,
+    "catholiques": 174072,
+    "pourcentage_catholiques": 28.2
+  },
+  "ressources": {
+    "pretres_diocesains": 23,
+    "pretres_religieux": null,
+    "total_pretres": 58,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

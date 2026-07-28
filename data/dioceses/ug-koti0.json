@@ -1,0 +1,29 @@
+{
+  "id": "ug-koti0",
+  "nom": "Kotido",
+  "pays": "ug",
+  "pays_nom": "Uganda",
+  "continent": "unknown",
+  "type": "Diocese Name: Kotido / Kotidoën(sis) (Latin)Ecclesiastical Province: TororoNeighbouring Dioceses: Gulu (←), Torit (↖), Lodwar (→), Moroto (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1991.05.20: Established as Diocese of Kotido / Kotidoën(sis) (Latin) (from Diocese of Moroto and became suffragan of Kampala)1999.01.02: Became suffragan of TororoPresent PrelatesBishop (2022.10.25 – ...):Bishop Dominic Eibu, M.C.C.J. (56)OrdinariesBishops of Kotido (Roman Rite)Bishop Dominic Eibu, M.C.C.J. (56)  (2022.10.25 – ...)Bishop of Kotido (Uganda)Console my peopleBorn:1970.04.30 (Lwala, Uganda)Ordained Priest:2002.08.15Consecrated Bishop:2023.01.14Bishop of Kotido (Uganda) (2022.10.25 – ...)Bishop Giuseppe Filippi, M.C.C.J. (81)  (2009.08.17 – 2022.10.25)Bishop emeritus of Kotido (Uganda)Your word is peaceBorn:1945.03.17 (Baselga del Bondone, Italy)Ordained Priest:1978.06.26Consecrated Bishop:2009.12.19Bishop of Kotido (Uganda) (2009.08.17 – 2022.10.25)Bishop Denis Kiwanuka Lote (later Archbishop)  (1991.05.20 – 2007.06.27)Conflabunt lanceas in falcesBorn:1938.03.25 (Pallisa, Uganda)Ordained Priest:1965.12.19Consecrated Bishop:1991.08.18Died:2022.04.24 (Kampala, Uganda † 84)Bishop of Kotido (Uganda) (1991.05.20 – 2007.06.27)Metropolitan Archbishop of Tororo (Uganda) (2007.06.27 – 2014.01.02)Special ChurchesCathedral:  Good Shepherd Cathedral, Kotido, Kotido, Northern Show MapGulu (←), Torit (↖), Lodwar (→), Moroto (↘)Statistics (2022.12.31)Area: 13,550 km²Population: 216,846 Catholics (39.2% of 553,779 total)Pastoral Centres: 10 parishesPersonnel: 30 priests (20 diocesan, 10 religious), 43 religious (11 brothers, 32 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "koti0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 553779,
+    "catholiques": 216846,
+    "pourcentage_catholiques": 39.2
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 10
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

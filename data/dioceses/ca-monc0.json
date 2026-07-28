@@ -1,0 +1,29 @@
+{
+  "id": "ca-monc0",
+  "nom": "Moncton",
+  "pays": "ca",
+  "pays_nom": "Canada",
+  "continent": "amerique",
+  "type": "Metropolitan Archdiocese Name: Moncton / Monctonen(sis) (Latin)Suffragan Sees: Bathurst, Edmundston, Saint John, New BrunswickNeighbouring Dioceses: Saint John, New Brunswick (←), Charlottetown (↗), Halifax–Yarmouth (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Assumption of Mary (August 15)Cathedral Dedication Anniversary: September 30 (1961)Liturgical Calendar 📅History1936.02.22: Established as Metropolitan Archdiocese of Moncton / Monctonen(sis) (Latin) (from Diocese of Chatham and Diocese of Saint John, New Brunswick and with suffragan sees Chatham and Saint John, New Brunswick)1944.12.16: Gained suffragan see EdmundstonContact InfoAddress: 224, rue St-George, Moncton, NB E1C 0V1, CanadaPhone: +1 (506) 857-9531Papal VisitsPope John Paul II (1984.09)Present PrelatesMetropolitan Archbishop (2023.07.08 – ...):Archbishop Guy Desrochers, C.SS.R. (70)OrdinariesMetropolitan Archbishops of Moncton (Roman Rite)Archbishop Guy Desrochers, C.SS.R. (70)  (2023.07.08 – ...)Metropolitan Archbishop of Moncton (Canada)Prædica verbumBorn:1956.05.23 (Hull, QC, Canada)Ordained Priest:1989.01.07Consecrated Bishop:2019.02.22Titular Bishop of Melzi (2018.12.12 – 2020.05.06)Auxiliary Bishop of Alexandria–Cornwall (Canada) (2018.12.12 – 2020.05.06)Bishop of Pembroke (Canada) (2020.05.06 – 2023.07.08)Metropolitan Archbishop of Moncton (Canada) (2023.07.08 – ...)Archbishop Valéry Vienneau (78)  (2012.06.15 – 2023.07.08)Metropolitan Archbishop emeritus of Moncton (Canada)Ut videntes JesumBorn:1947.10.13 (Cap-Pelé, QC, Canada)Ordained Priest:1982.08.29Consecrated Bishop:2002.10.08Priest of Moncton (Canada) (1982.08.29 – 2002.07.03)Bishop of Bathurst (Canada) (2002.07.03 – 2012.06.15)Metropolitan Archbishop of Moncton (Canada) (2012.06.15 – 2023.07.08)Archbishop André Richard, C.S.C. (89)  (2002.03.16 – 2012.06.15)Metropolitan Archbishop emeritus of Moncton (Canada)La Croix est mon unique espéranceBorn:1937.06.30 (Saint-Ignace, NB, Canada)Ordained Priest:1963.02.17Consecrated Bishop:1989.08.09Bishop of Bathurst (Canada) (1989.05.20 – 2002.03.16)Metropolitan Archbishop of Moncton (Canada) (2002.03.16 – 2012.06.15)Archbishop Ernest Léger (82)  (1996.11.27 – 2002.03.16)Metropolitan Archbishop emeritus of Moncton (Canada)Sufficit tibi gratia meaBorn:1944.02.27 (Haute-Aboujagane, NB, Canada)Ordained Priest:1968.03.11Consecrated Bishop:1997.01.29Priest of Moncton (Canada) (1968.03.11 – 1996.11.27)Metropolitan Archbishop of Moncton (Canada) (1996.11.27 – 2002.03.16)Archbishop Donat Chiasson  (1972.03.23 – 1995.09.21)Born:1930.01.02 (Paquetville, NB, Canada)Ordained Priest:1956.05.06Consecrated Bishop:1972.06.01Died:2003.10.08 (Rogersville, NB, Canada † 73)Priest of Bathurst (Canada) (1956.05.06 – 1972.03.23)Metropolitan Archbishop of Moncton (Canada) (1972.03.23 – 1995.09.21)Archbishop Norbert Robichaud  (1942.07.25 – 1972.03.23)Turris fortitudinisBorn:1905.04.01 (Saint-Charles-de-Kent, NB, Canada)Ordained Priest:1931.05.01Consecrated Bishop:1942.09.08Died:1979.10.21 († 74)Priest of Chatham (Canada) (1931.05.01 – 1936.02.22)Priest of Moncton (Canada) (1936.02.22 – 1942.07.25)Metropolitan Archbishop of Moncton (Canada) (1942.07.25 – 1972.03.23)Archbishop Louis-Joseph-Arthur Melanson  (1936.12.16 – 1941.10.23)Sentiant omnes tuum juvamenBorn:1879.03.25 (Trois-Rivières, QC, Canada)Ordained Priest:1905.07.09Consecrated Bishop:1933.02.22Died:1941.10.23 († 62)Priest of Chatham (Canada) (1905.07.09 – 1932.11.25)Bishop of Gravelbourg (Canada) (1932.11.25 – 1936.12.16)Metropolitan Archbishop of Moncton (Canada) (1936.12.16 – 1941.10.23)Special ChurchesCathedral:  Cathédrale Notre-Dame-de-l’Assomption, Moncton, New Brunswick Churches by City (60)Show MapSaint John, New Brunswick (←), Charlottetown (↗), Halifax–Yarmouth (↘)Statistics (2022.12.31)Area: 12,000 km²Population: 112,700 Catholics (50.2% of 224,300 total)Pastoral Centres: 46 parishesPersonnel: 40 priests (22 diocesan, 18 religious), 5 deacons, 170 religious (29 brothers, 141 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "monc0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 224300,
+    "catholiques": 112700,
+    "pourcentage_catholiques": 50.2
+  },
+  "ressources": {
+    "pretres_diocesains": 22,
+    "pretres_religieux": null,
+    "total_pretres": 40,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

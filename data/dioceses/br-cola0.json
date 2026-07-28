@@ -1,0 +1,29 @@
+{
+  "id": "br-cola0",
+  "nom": "Colatina",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Colatina / Colatinen(sis) (Latin)Ecclesiastical Province: VitóriaNeighbouring Dioceses: Governador Valadares (←), São Mateus (↗), Vitória (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nossa Senhora da Saúde (November 21)Liturgical Calendar (National) 📅History1990.04.23: Established as Diocese of Colatina / Colatinen(sis) (Latin) (from Metropolitan Archdiocese of Vitória and became suffragan of Vitória)1997.11.28: Lost territory to Diocese of São MateusPresent PrelatesBishop (2021.10.27 – ...):Bishop Lauro Sérgio Versiani Barbosa (67)OrdinariesBishops of Colatina (Roman Rite)Bishop Lauro Sérgio Versiani Barbosa (67)  (2021.10.27 – ...)Bishop of Colatina (Brazil)Caritas Christi urgetBorn:1959.04.29 (Ouro Preto, MG, Brazil)Ordained Priest:1995.09.02Consecrated Bishop:2022.01.25Priest of Mariana (Brazil) (1995.09.02 – 2021.10.27)Bishop of Colatina (Brazil) (2021.10.27 – ...)Bishop Joaquim Wladimir Lopes Dias (68)  (2015.03.04 – 2021.01.13)Bishop of Lorena (Brazil)Fiat mihi secundum verbum tuumBorn:1957.10.23 (Cafelândia, SP, Brazil)Ordained Priest:1997.12.12Consecrated Bishop:2012.03.04Priest of Jundiaí (Brazil) (1997.12.12 – 2011.12.21)Titular Bishop of Sita (2011.12.21 – 2015.03.04)Auxiliary Bishop of Vitória (Brazil) (2011.12.21 – 2015.03.04)Apostolic Administrator of Colatina (Brazil) (2014.05.14 – 2015.03.04)Bishop of Colatina (Brazil) (2015.03.04 – 2021.01.13)Bishop of Lorena (Brazil) (2021.01.13 – ...)Bishop Joaquim Wladimir Lopes Dias (68)  (Apostolic Administrator 2014.05.14 – 2015.03.04)Bishop Décio Sossai Zandonade, S.D.B. (83)  (2003.05.14 – 2014.05.14)Bishop emeritus of Colatina (Brazil)Domine, ut videamBorn:1942.12.02 (Venda Nova do Imigrante, ES, Brazil)Ordained Priest:1972.12.11Consecrated Bishop:1997.02.02Titular Bishop of Gemellæ in Byzacena (1996.12.11 – 2003.05.14)Auxiliary Bishop of Belo Horizonte (Brazil) (1996.12.11 – 2003.05.14)Bishop of Colatina (Brazil) (2003.05.14 – 2014.05.14)Bishop Geraldo Lyrio Rocha (later Archbishop)  (1990.04.23 – 2002.01.16)Opus Fac EvangelistæBorn:1942.03.14 (Fundão, ES, Brazil)Ordained Priest:1967.08.15Consecrated Bishop:1984.05.31Died:2023.07.26 (Altamira, PA, Brazil † 81)Priest of Vitória (Brazil) (1967.08.15 – 1984.03.14)Titular Bishop of Thelepte (1984.03.14 – 1990.04.23)Auxiliary Bishop of Vitória (Brazil) (1984.03.14 – 1990.04.23)Bishop of Colatina (Brazil) (1990.04.23 – 2002.01.16)Metropolitan Archbishop of Vitória da Conquista (Brazil) (2002.01.16 – 2007.04.11)Second Vice-President of Latin American Episcopal Council (2003 – 2007.07.12)Metropolitan Archbishop of Mariana (Brazil) (2007.04.11 – 2018.04.25)President of National Conference of Bishops of Brazil (2007.05 – 2011.05.10)Special ChurchesCathedral:  Catedral Sagrado Coração de Jesus, Colatina, Espírito Santo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (34)Show MapGovernador Valadares (←), São Mateus (↗), Vitória (↓)Statistics (2022.12.31)Area: 13,076 km²Population: 525,000 Catholics (80.2% of 654,400 total)Pastoral Centres: 31 parishes, 2 missionsPersonnel: 60 priests (45 diocesan, 15 religious), 12 deacons, 85 religious (19 brothers, 66 sisters), 8 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cola0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 654400,
+    "catholiques": 525000,
+    "pourcentage_catholiques": 80.2
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

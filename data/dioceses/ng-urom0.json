@@ -1,0 +1,29 @@
+{
+  "id": "ng-urom0",
+  "nom": "Uromi",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Uromi / Uromien(sis) (Latin)Ecclesiastical Province: Benin CityNeighbouring Dioceses: Benin City (↙), Auchi (↑), Idah (↗), Issele-Uku (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint Anthony of PaduaLiturgical Calendar (National) 📅History2005.12.14: Established as Diocese of Uromi / Uromien(sis) (Latin) (from Metropolitan Archdiocese of Benin City and became suffragan of Benin City)Present PrelatesBishop (2014.11.06 – ...):Bishop Donatus Aihmiosion Ogun, O.S.A. (59)Apostolic Administrator of Benin City (Nigeria)General Secretary of Catholic Bishops’ Conference of NigeriaOrdinariesBishops of Uromi (Roman Rite)Bishop Donatus Aihmiosion Ogun, O.S.A. (59)  (2014.11.06 – ...)Bishop of Uromi (Nigeria)Apostolic Administrator of Benin City (Nigeria)General Secretary of Catholic Bishops’ Conference of NigeriaBorn:1966.10.12 (Sapele, Nigeria)Ordained Priest:1993.07.31Consecrated Bishop:2015.01.31Bishop of Uromi (Nigeria) (2014.11.06 – ...)General Secretary of Catholic Bishops’ Conference of Nigeria (2022.03.09 – ...)Apostolic Administrator of Benin City (Nigeria) (2026.07.10 – ...)Bishop Augustine Obiora Akubeze (later Archbishop)  (2005.12.14 – 2011.03.18)Ut testimonium perhibeam veritatBorn:1956.08.25 (Kaduna, Nigeria)Ordained Priest:1987.10.03Consecrated Bishop:2006.02.25Died:2026.07.09 (Nigeria † 69)Priest of Issele-Uku (Nigeria) (1987.10.03 – 2005.12.14)Bishop of Uromi (Nigeria) (2005.12.14 – 2011.03.18)Metropolitan Archbishop of Benin City (Nigeria) (2011.03.18 – 2026.07.09)Vice-President of Catholic Bishops’ Conference of Nigeria (2012.04 – 2018.02.22)President of Catholic Bishops’ Conference of Nigeria (2018.02.22 – 2022.03.09)Apostolic Administrator of Warri (Nigeria) (2022.04.18 – 2022.12.28)Special ChurchesCathedral:  Cathedral of St. Anthony of Padua, Uromi, Edo Show MapBenin City (↙), Auchi (↑), Idah (↗), Issele-Uku (↓)Statistics (2022.12.31)Area: 2,938 km²Population: 181,000 Catholics (20.7% of 874,000 total)Pastoral Centres: 18 parishes, 34 missionsPersonnel: 107 priests (87 diocesan, 20 religious), 90 religious (30 brothers, 60 sisters), 53 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "urom0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 874000,
+    "catholiques": 181000,
+    "pourcentage_catholiques": 20.7
+  },
+  "ressources": {
+    "pretres_diocesains": 87,
+    "pretres_religieux": null,
+    "total_pretres": 107,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "br-regi1",
+  "nom": "Registro",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Registro / Registren(sis) (Latin)Ecclesiastical Province: SorocabaNeighbouring Dioceses: Paranaguá (↙), Itapeva (←), Itapetininga (↖), Sorocaba (↑), Osasco (↗), Campo Limpo (↗), Santos (→)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Francis Xavier (December 3)Liturgical Calendar (National) 📅History1974.01.19: Established as Diocese of Registro / Registren(sis) (Latin) (from Diocese of Itapeva and Diocese of Santos and became suffragan of São Paulo)1992.04.29: Became suffragan of SorocabaPresent PrelatesBishop (2018.05.16 – ...):Bishop Manoel Ferreira dos Santos Júnior, M.S.C. (59)OrdinariesBishops of Registro (Roman Rite)Bishop Manoel Ferreira dos Santos Júnior, M.S.C. (59)  (2018.05.16 – ...)Bishop of Registro (Brazil)Servi ao Senhor com alegriaBorn:1967.03.21 (Itapetininga, SP, Brazil)Ordained Priest:1995.01.07Consecrated Bishop:2018.07.21Bishop of Registro (Brazil) (2018.05.16 – ...)Bishop José Luíz Bertanha, S.V.D. (83)  (1998.05.26 – 2018.05.16)Bishop emeritus of Registro (Brazil)Lancem as redesBorn:1942.08.09 (Cordeirópolis, SP, Brazil)Ordained Priest:1971.12.18Consecrated Bishop:1998.07.26Bishop of Registro (Brazil) (1998.05.26 – 2018.05.16)Bishop Apparecido José Dias, S.V.D.  (1974.12.13 – 1996.06.26)Born:1931.12.28 (Itajobi, SP, Brazil)Ordained Priest:1958.08.03Consecrated Bishop:1975.02.16Died:2004.05.30 (Boa Vista, RO, Brazil † 72)Bishop of Registro (Brazil) (1974.12.13 – 1996.06.26)Bishop of Roraima (Brazil) (1996.06.26 – 2004.05.30)Special ChurchesCathedral:  Catedral São Francisco Xavier, Registro, São Paulo Minor Basilica:  Basílica Nossa Senhora das Neves, Iguape, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (18)Show MapParanaguá (↙), Itapeva (←), Itapetininga (↖), Sorocaba (↑), Osasco (↗), Campo Limpo (↗), Santos (→)Statistics (2022.12.31)Area: 13,293 km²Population: 190,000 Catholics (59.2% of 321,000 total)Pastoral Centres: 19 parishesPersonnel: 34 priests (22 diocesan, 12 religious), 6 deacons, 25 religious (13 brothers, 12 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "regi1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 321000,
+    "catholiques": 190000,
+    "pourcentage_catholiques": 59.2
+  },
+  "ressources": {
+    "pretres_diocesains": 22,
+    "pretres_religieux": null,
+    "total_pretres": 34,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

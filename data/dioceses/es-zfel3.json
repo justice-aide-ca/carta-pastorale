@@ -1,0 +1,29 @@
+{
+  "id": "es-zfel3",
+  "nom": "Sant Feliu de Llobregat",
+  "pays": "es",
+  "pays_nom": "Spain",
+  "continent": "unknown",
+  "type": "Diocese Name: Sant Feliu de Llobregat (català) / San Felipe Llobregat (español) / Sancti Felicis de Llobregat (Latin)Ecclesiastical Province: BarcelonaNeighbouring Dioceses: Tarragona (←), Vic (↑), Terrassa (↗), Barcelona (→)Depends on: Dicastery for BishopsWebsite: CelebrationsCathedral Dedication Anniversary: May 25Liturgical Calendar 📅History2004.06.15: Established as Diocese of Sant Feliu de Llobregat (català) / San Felipe Llobregat (español) / Sancti Felicis de Llobregat (Latin) (from Archdiocese of Barcelona and became suffragan of Barcelona)Contact InfoAddress: Carrer d’Armenteres 35, 08980 Sant Feliu de Llobregat, SpainPapal VisitsPope John Paul II (1982.11)Pope Leo XIV (2026.06)Present PrelatesBishop (2024.10.08 – ...):Bishop Xabier Gómez García, O.P. (56)OrdinariesBishops of Sant Feliu de Llobregat (Roman Rite)Bishop Xabier Gómez García, O.P. (56)  (2024.10.08 – ...)Bishop of Sant Feliu de Llobregat (Spain)Apacienta mis ovejasBorn:1970.04.11 (Azkoitia, Guipúzcoa, Spain)Ordained Priest:1994.06.12Consecrated Bishop:2024.11.30Priest of San Sebastián (Spain) (1994.06.12 – 2003)Priest of Order of Preachers (Dominicans) (2003 – 2024.10.08)Bishop of Sant Feliu de Llobregat (Spain) (2024.10.08 – ...)Bishop Agustín Cortés Soriano (78)  (2004.06.15 – 2024.10.08)Bishop emeritus of Sant Feliu de Llobregat (Spain)Benedixit fregit deditqueBorn:1947.10.23 (Valencia, Spain)Ordained Priest:1971.12.23Consecrated Bishop:1998.04.18Priest of Valencia (Spain) (1971.12.23 – 1998.02.20)Bishop of Ibiza (Spain) (1998.02.20 – 2004.06.15)Bishop of Sant Feliu de Llobregat (Spain) (2004.06.15 – 2024.10.08)Special ChurchesCathedral:  Catedral de Sant Llorenç, San Feliu de Llobregat, Barcelona, Catalunya Minor Basilica, National Shrine:  Basílica de Mare de Déu de Montserrat, Montserrat, Barcelona, Catalunya Minor Basilica:  Basílica de Santa Maria, Vilafranca del Penedès, Barcelona, Catalunya World Heritage Site:  Església del Sagrat Cor, Santa Coloma de Cervelló, Barcelona, Catalunya Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (134)Show MapTarragona (←), Vic (↑), Terrassa (↗), Barcelona (→)Statistics (2022.12.31)Area: 1,611 km²Population: 926,400 Catholics (88.4% of 1,047,756 total)Pastoral Centres: 123 parishes, 60 missionsPersonnel: 131 priests (83 diocesan, 48 religious), 19 deacons, 293 religious (81 brothers, 212 sisters), 4 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zfel3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1047756,
+    "catholiques": 926400,
+    "pourcentage_catholiques": 88.4
+  },
+  "ressources": {
+    "pretres_diocesains": 83,
+    "pretres_religieux": null,
+    "total_pretres": 131,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 123
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

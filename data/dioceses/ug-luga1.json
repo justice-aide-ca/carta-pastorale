@@ -1,0 +1,29 @@
+{
+  "id": "ug-luga1",
+  "nom": "Lugazi",
+  "pays": "ug",
+  "pays_nom": "Uganda",
+  "continent": "unknown",
+  "type": "Diocese Name: Lugazi / Lugasien(sis) (Latin)Ecclesiastical Province: KampalaNeighbouring Dioceses: Kampala (←), Kasana–Luweero (↖), Jinja (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1996.11.30: Established as Diocese of Lugazi / Lugasien(sis) (Latin) (from Metropolitan Archdiocese of Kampala and became suffragan of Kampala)Present PrelatesBishop (2014.11.04 – ...):Bishop Christopher Kakooza (73)Monsignors (2)OrdinariesBishops of Lugazi (Roman Rite)Bishop Christopher Kakooza (73)  (2014.11.04 – ...)Bishop of Lugazi (Uganda)Eritis mihi testesBorn:1952.11.15 (Lusaze, Uganda)Ordained Priest:1983.06.03Consecrated Bishop:1999.04.17Priest of Kampala (Uganda) (1983.06.03 – 1999.01.02)Titular Bishop of Casæ in Numidia (1999.01.02 – 2014.11.04)Auxiliary Bishop of Kampala (Uganda) (1999.01.02 – 2014.11.04)Bishop of Lugazi (Uganda) (2014.11.04 – ...)Bishop Matthias Ssekamanya (89)  (1996.11.30 – 2014.11.04)Bishop emeritus of Lugazi (Uganda)Send forth your SpiritBorn:1936.10.15 (Kasolo, Uganda)Ordained Priest:1965.12.19Consecrated Bishop:1985.06.02Priest of Kampala (Uganda) (1965.12.19 – 1985.03.09)Titular Bishop of Iziriana (1985.03.09 – 1996.11.30)Auxiliary Bishop of Kampala (Uganda) (1985.03.09 – 1996.11.30)Bishop of Lugazi (Uganda) (1996.11.30 – 2014.11.04)President of Uganda Episcopal Conference (2006 – 2010)Special ChurchesCathedral:  Our Lady Queen of Peace Cathedral, Lugazi, Mukono, Central Show MapKampala (←), Kasana–Luweero (↖), Jinja (→)Statistics (2022.12.31)Area: 4,595 km²Population: 980,984 Catholics (48.3% of 2,029,718 total)Pastoral Centres: 30 parishes, 1 missionPersonnel: 99 priests (84 diocesan, 15 religious), 227 religious (43 brothers, 184 sisters), 62 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "luga1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2029718,
+    "catholiques": 980984,
+    "pourcentage_catholiques": 48.3
+  },
+  "ressources": {
+    "pretres_diocesains": 84,
+    "pretres_religieux": null,
+    "total_pretres": 99,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

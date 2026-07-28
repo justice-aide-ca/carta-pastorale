@@ -1,0 +1,29 @@
+{
+  "id": "ir-alep4",
+  "nom": "Aleppo",
+  "pays": "ir",
+  "pays_nom": "Iraq",
+  "continent": "unknown",
+  "type": "Diocese Name: Aleppo (English) / Alep / Halab / Aleppe (français) / Beroea / Aleppen(sis) Chaldæorum (Latin)Subject to the PatriarchNeighbouring Dioceses: Beirut (↙), Diarbekir (↑), Mossul–Aqrā (→), Baghdad (↘), Jordan (↓), Jerusalem (↓)Depends on: Dicastery for the Eastern ChurchesHistory1901: Established as Diocese of Syria (English) (without ecclesiastical province)1957.07.03: Renamed as Diocese of Aleppo (English) / Alep / Halab / Aleppe (français) / Beroea / Aleppen(sis) Chaldæorum (Latin) (gained territory from the suppressed Apostolic Administration of Upper Gazireh)Present PrelatesBishop (1992.01.18 – ...):Bishop Antoine Audo, S.J. (80)OrdinariesBishops of Aleppo (Chaldean Rite)Bishop Antoine Audo, S.J. (80)  (1992.01.18 – ...)Bishop of Aleppo of the Chaldeans (Syria)Born:1946.01.03 (Aleppo, Syria)Ordained Priest:1979.08.05Consecrated Bishop:1992.10.11Bishop of Aleppo of the Chaldeans (Syria) (1992.01.18 – ...)Bishop Stéphane Bello  (1959.10.23 – 1989.11.26)Born:1910.09.05 (Alquosh, Syria)Ordained Priest:1934.10.14Consecrated Bishop:1960.01.10Died:1989.11.26 († 79)Bishop of Aleppo of the Chaldeans (Syria) (1959.10.23 – 1989.11.26)Bishop Paul Cheikho (later Patriarch)  (1957.06.28 – 1958.12.13)Born:1906.11.19 (Alquosh, Iraq)Ordained Priest:1930.02.16Consecrated Bishop:1947.05.04Died:1989.04.13 (Baghdad, Iraq † 82)Priest of Mossul of the Chaldeans (Iraq) (1930.02.16 – 1947.02.22)Bishop of Aqrā of the Chaldeans (Iraq) (1947.02.22 – 1957.06.20)Bishop of Aleppo of the Chaldeans (Syria) (1957.06.28 – 1958.12.13)Bishop of Mossul of the Chaldeans (Iraq) (1958.12.13 – 1960)Patriarch of Babylon of the Chaldeans (Iraq) ([1958.12.13] 1959.03.12 – 1989.04.13)President of Synod of the Chaldean Church (1969 – 1989.04.13)President of Assembly of the Catholic Bishops of Iraq (1976 – 1989.04.13)Bishop Gabriel Naamo  (Apostolic Administrator 1938.09.30 – 1957.06.27)Special ChurchesCathedral:  St. Joseph Chaldean Cathedral, Alep Show MapBeirut (↙), Diarbekir (↑), Mossul–Aqrā (→), Baghdad (↘), Jordan (↓), Jerusalem (↓)Statistics (2022.12.31)Population: 5,300 CatholicsPastoral Centres: 11 parishesPersonnel: 6 priests (diocesan), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "alep4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ec-tulc0",
+  "nom": "Tulcán",
+  "pays": "ec",
+  "pays_nom": "Ecuador",
+  "continent": "amerique",
+  "type": "Diocese Name: Tulcán / Tulcanen(sis) (Latin)Ecclesiastical Province: QuitoNeighbouring Dioceses: Ibarra (↙), Esmeraldas (←), Tumaco (↖), Pasto (↗), San Miguel de Sucumbíos (↘)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History1965.03.17: Established as Diocese of Tulcán / Tulcanen(sis) (Latin) (from Diocese of Ibarra and became suffragan of Quito)Present PrelatesBishop (2023.05.16 – ...):Bishop Carlos Washington Yépez Naranjo (53)Monsignors (3)OrdinariesBishops of Tulcán (Roman Rite)Bishop Carlos Washington Yépez Naranjo (53)  (2023.05.16 – ...)Bishop of Tulcán (Ecuador)Hagan lo que Él les digaBorn:1972.10.15 (Pallatanga, Ecuador)Ordained Priest:2003.03.26Consecrated Bishop:2023.07.22Priest of Riobamba (Ecuador) (2003.03.26 – 2023.05.16)Bishop of Tulcán (Ecuador) (2023.05.16 – ...)Bishop Vicente Danilo Echeverría Verdesoto (64)  (Apostolic Administrator 2021.08.06 – 2023.05.16)Fr. Luis Bernardino Núñez Villacís  (2021.07.05 – 2021.08.06 not possessed)Born:1963.05.27 (San Juan Bautista de Ambato, Ecuador)Ordained Priest:1990.06.29Bishop of Tulcán (Ecuador) (2021.07.05 – 2021.08.06 not possessed)Bishop Vicente Danilo Echeverría Verdesoto (64)  (Apostolic Administrator 2021.06.08 – 2021.07.05)Bishop Fausto Feliciano Gaibor García  (2011.05.03 – 2021.06.04)Tomado de entre los hombres y constituidi a su favorBorn:1952.01.24 (Guaranda, Ecuador)Ordained Priest:1981.01.24Consecrated Bishop:2006.12.02Died:2021.06.04 (Tulcán, Ecuador † 69)Priest of Guaranda (Ecuador) (1981.01.24 – 2006.10.31)Titular Bishop of Naraggara (2006.10.31 – 2011.05.03)Auxiliary Bishop of Riobamba (Ecuador) (2006.10.31 – 2011.05.03)Bishop of Tulcán (Ecuador) (2011.05.03 – 2021.06.04)Bishop Luis Antonio Sánchez Armijos, S.D.B. (82)  (2002.06.15 – 2010.02.22)Bishop emeritus of Machala (Ecuador)Apacienra mis ovejasBorn:1943.07.27 (Olmedo, Ecuador)Ordained Priest:1975.01.31Consecrated Bishop:2002.07.27Bishop of Tulcán (Ecuador) (2002.06.15 – 2010.02.22)General Secretary of Episcopal Conference of Ecuador (2005 – 2008)Bishop of Machala (Ecuador) (2010.02.22 – 2012.10.22)Bishop Germán Trajano Pavón Puente  (1989.01.28 – 2001.04.19)Born:1936.10.28 (Quito, Ecuador)Ordained Priest:1960.06.29Consecrated Bishop:1989.02.25Died:2025.02.22 (Quito, Ecuador † 88)Priest of Quito (Ecuador) (1960.06.29 – 1989.01.28)Bishop of Tulcán (Ecuador) (1989.01.28 – 2001.04.19)Bishop of Ambato (Ecuador) (2001.04.19 – 2015.01.20)Bishop Luis Clemente de la Vega Rodriguez  (1965.03.17 – 1987.05.04)Born:1921.08.29 (San Isidro, Ecuador)Ordained Priest:1946.06.29Consecrated Bishop:1965.05.26Died:1987.05.04 († 65)Priest of Tulcán (Ecuador) (1946.06.29 – 1965.03.17)Bishop of Tulcán (Ecuador) (1965.03.17 – 1987.05.04)Special ChurchesCathedral:  Catedral San Miguel, Tulcán, Carchi National Shrine:  Santuario Nacional de Nuestra Señora de la Gruta de La Paz, La Paz, Carchi Show MapIbarra (↙), Esmeraldas (←), Tumaco (↖), Pasto (↗), San Miguel de Sucumbíos (↘)Statistics (2022.12.31)Area: 3,784 km²Population: 145,034 Catholics (76.3% of 190,125 total)Pastoral Centres: 25 parishesPersonnel: 38 priests (35 diocesan, 3 religious), 62 religious (9 brothers, 53 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tulc0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 190125,
+    "catholiques": 145034,
+    "pourcentage_catholiques": 76.3
+  },
+  "ressources": {
+    "pretres_diocesains": 35,
+    "pretres_religieux": null,
+    "total_pretres": 38,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "py-conc2",
+  "nom": "Concepción",
+  "pays": "py",
+  "pays_nom": "Paraguay",
+  "continent": "amerique",
+  "type": "Diocese Name: Concepción (español) / Santísima Concepción (español) / Santissima Concezione (Italiano) / Sanctissimæ Conceptionis in Paraguay (Latin)Ecclesiastical Province: AsunciónNeighbouring Dioceses: Benjamín Aceval (↙), Chaco Paraguayo (↖), Jardim (↑), Dourados (↗), Canindeyú (↘), San Pedro (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1929.05.01: Established as Diocese of Concepción y Chaco (from Diocese of Paraguay and Apostolic Prefecture of Pilcomayo and became suffragan of Asunción)1948.03.11: Lost territory to establish Apostolic Vicariate of Chaco Paraguayo1949.07.16: Renamed as Diocese of Concepción (español) / Santísima Concepción (español) / Santissima Concezione (Italiano) / Sanctissimæ Conceptionis in Paraguay (Latin)1957.01.21: Lost territory to establish Territorial Prelature of Encarnación y Alto Paraná1960.08.02: Lost territory to establish Territorial Prelature of Caacupé1961.09.10: Lost territory to establish Territorial Prelature of Coronel Oviedo1978.06.05: Lost territory to establish Diocese of San Pedro1980.06.28: Lost territory to establish Diocese of Benjamín AcevalPresent PrelatesBishop (2026.05.08 – ...):Bishop Cristino Ramos González (50)OrdinariesBishops of Concepción (Roman Rite)Bishop Cristino Ramos González (50)  (2026.05.08 – ...)Bishop of Concepción (Paraguay)Busquen primero el ReinoBorn:1975.11.16 (Arroyos y Esteros, Cordillera, Paraguay)Ordained Priest:2002.09.07Consecrated Bishop:2026.07.04Priest of San Pedro (Paraguay) (2002.09.07 – 2026.05.08)Bishop of Concepción (Paraguay) (2026.05.08 – ...)Bishop Miguel Ángel Cabello Almada (60)  (2013.07.11 – 2024.12.05)Bishop of Villarrica (Paraguay)Amor en la verdadBorn:1965.09.04 (Piribebuy, Paraguay)Ordained Priest:1991.09.15Consecrated Bishop:2013.09.15Priest of Caacupé (Paraguay) (1991.09.15 – 2013.07.11)Bishop of Concepción (Paraguay) (2013.07.11 – 2024.12.05)Vice-President of Episcopal Conference of Paraguay (2024.11.06 – 2024.12.05)Bishop of Villarrica (Paraguay) (2024.12.05 – ...)Bishop Zacarías Ortiz Rolón, S.D.B.  (2003.07.12 – 2013.07.11)Born:1934.09.06 (Arroyos y Esteros, Paraguay)Ordained Priest:1965.08.14Consecrated Bishop:1988.06.26Died:2020.01.06 (Asunción, Paraguay † 85)Titular Bishop of Minori (1988.03.12 – 2003.07.12)Vicar Apostolic of Chaco Paraguayo (Paraguay) (1988.03.12 – 2003.07.12)Bishop of Concepción (Paraguay) (2003.07.12 – 2013.07.11)Bishop Juan Bautista Gavilán Velázquez (75)  (1994.03.05 – 2001.12.18)Bishop of Coronel Oviedo (Paraguay)En tu palabraBorn:1951.06.24 (Eusebio Ayala, Paraguay)Ordained Priest:1977.12.18Consecrated Bishop:1994.05.08Priest of Caacupé (Paraguay) (1977.12.18 – 1994.03.05)Bishop of Concepción (Paraguay) (1994.03.05 – 2001.12.18)Bishop of Coronel Oviedo (Paraguay) (2001.12.18 – ...)Bishop Aníbal Maricevich Fleitas  (1965.12.04 – 1993.04.30)Born:1917.12.16 (Yparacarai, Paraguay)Ordained Priest:1943.11.21Consecrated Bishop:1957.05.19Died:1996.08.02 (Asunción, Paraguay † 78)Priest of Asunción (Paraguay) (1943.11.21 – 1957.02.05)Titular Bishop of Diocletianopolis in Palæstina (1957.02.05 – 1965.12.04)Auxiliary Bishop of Asunción (Paraguay) (1957.02.05 – 1965.12.04)Bishop of Concepción (Paraguay) (1965.12.04 – 1993.04.30)Bishop Emilio Sosa Gaona, S.D.B.  (1931.04.30 – 1963.05.14)Born:1884.09.28 (Asunción, Paraguay)Ordained Priest:1912.01.28Consecrated Bishop:1932.05.15Died:1970.03.24 († 85)Bishop of Concepción (Paraguay) (1931.04.30 – 1963.05.14)Titular Bishop of Sergentza (1963.05.14 – 1970.03.24)Former PrelatesAuxiliary Bishop: Bishop Julio Benigno Laschi González (1955.03.23 – 1963)Special ChurchesCathedral:  Catedral Inmaculada Concepción de María, Concepción, Concepción Jubilee Churches in the Holy Year 2025Show MapBenjamín Aceval (↙), Chaco Paraguayo (↖), Jardim (↑), Dourados (↗), Canindeyú (↘), San Pedro (↓)Statistics (2022.12.31)Area: 30,084 km²Population: 470,000 Catholics (98.1% of 479,105 total)Pastoral Centres: 19 parishes, 6 missionsPersonnel: 49 priests (35 diocesan, 14 religious), 49 religious (18 brothers, 31 sisters), 10 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "conc2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 479105,
+    "catholiques": 470000,
+    "pourcentage_catholiques": 98.1
+  },
+  "ressources": {
+    "pretres_diocesains": 35,
+    "pretres_religieux": null,
+    "total_pretres": 49,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

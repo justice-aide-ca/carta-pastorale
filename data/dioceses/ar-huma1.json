@@ -1,0 +1,29 @@
+{
+  "id": "ar-huma1",
+  "nom": "Humahuaca",
+  "pays": "ar",
+  "pays_nom": "Argentina",
+  "continent": "amerique",
+  "type": "Territorial Prelature Name: Humahuaca / Humahuacen(sis) (Latin)Ecclesiastical Province: SaltaNeighbouring Dioceses: San Juan Bautista de Calama (←), Potosí (↑), Tarija (↗), Orán (→), Jujuy (↘), Salta (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Nuestra Señora de Candelaria (February 2), Saint Anthony of Padua (June 13)Liturgical Calendar (National) 📅History1969.09.08: Established as Territorial Prelature of Humahuaca / Humahuacen(sis) (Latin) (from Diocese of Jujuy and became suffragan of Salta)1972.01.21: Gained territory from Diocese of Orán and lost territory to Metropolitan Archdiocese of SaltaContact InfoAddress: Buenos Aires 383, Y4630BCG, Humahuaca, ArgentinaPhone: (03887) 421018Present PrelatesBishop-Prelate (2019.10.23 – ...):Bishop Florencio Félix Paredes Cruz, C.R.L. (64)OrdinariesPrelates of Humahuaca (Roman Rite)Bishop Florencio Félix Paredes Cruz, C.R.L. (64)  (2019.10.23 – ...)Bishop-Prelate of Humahuaca (Argentina)Born:1961.10.28 (Selochea, Bolivia)Ordained Priest:1995.02.01Consecrated Bishop:2018.04.28Coadjutor Bishop-Prelate of Humahuaca (Argentina) (2018.03.10 – 2019.10.23)Bishop-Prelate of Humahuaca (Argentina) (2019.10.23 – ...)Bishop Pedro María Olmedo Rivero, C.M.F. (81)  (1993.07.07 – 2019.10.23)Bishop-Prelate emeritus of Humahuaca (Argentina)Born:1944.10.21 (San Juan de Asnalfarache, Spain)Ordained Priest:1972.06.09Consecrated Bishop:1993.09.25Apostolic Administrator of Humahuaca (Argentina) (1991 – 1993.07.07)Bishop-Prelate of Humahuaca (Argentina) (1993.07.07 – 2019.10.23)Fr. Pedro María Olmedo Rivero, C.M.F. (81) (later Bishop)  (Apostolic Administrator 1991 – 1993.07.07)Bishop José María Márquez Bernal, C.M.F.  (1973.10.10 – 1991.02.20)Born:1915.09.08 (Buenavista de Valdavia, Spain)Ordained Priest:1941.03.29Consecrated Bishop:1973.11.25Died:1995.03.17 († 79)Titular Bishop of Capo della Foresta (1973.10.10 – 1977.11.03)Bishop-Prelate of Humahuaca (Argentina) (1973.10.10 – 1991.02.20)Former PrelatesCoadjutor Bishop-Prelate: Bishop Florencio Félix Paredes Cruz, C.R.L. (64) (2018.03.10 – 2019.10.23)Special ChurchesCathedral:  Catedral Nuestra Señora de la Candelaria y San Antonio, Humahuaca, Jujuy Churches by City (14)Show MapSan Juan Bautista de Calama (←), Potosí (↑), Tarija (↗), Orán (→), Jujuy (↘), Salta (↓)Statistics (2022.12.31)Area: 37,000 km²Population: 81,600 Catholics (66.4% of 122,900 total)Pastoral Centres: 12 parishes, 255 missionsPersonnel: 14 priests (7 diocesan, 7 religious), 1 deacon, 17 religious (8 brothers, 9 sisters), 1 seminarianPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "huma1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 122900,
+    "catholiques": 81600,
+    "pourcentage_catholiques": 66.4
+  },
+  "ressources": {
+    "pretres_diocesains": 7,
+    "pretres_religieux": null,
+    "total_pretres": 14,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

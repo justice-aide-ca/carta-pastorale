@@ -1,0 +1,29 @@
+{
+  "id": "eg-cair0",
+  "nom": "Cairo",
+  "pays": "eg",
+  "pays_nom": "Egypt",
+  "continent": "unknown",
+  "type": "Diocese Name: Cairo / Le Caire (français) / Cahiren(sis) Chaldæorum (Latin)Subject to the PatriarchNeighbouring Dioceses: Beirut (↗)Depends on: Dicastery for the Eastern ChurchesHistory1980.04.23: Established as Diocese of Cairo / Le Caire (français) / Cahiren(sis) Chaldæorum (Latin) (without ecclesiastical province)Present PrelatesBishop:vacantPatriarchal Administrator (2018.08.29 – ...):Fr. Paulus Sati, C.SS.R. (47)OrdinariesBishops of Cairo (Chaldean Rite)Fr. Paulus Sati, C.SS.R. (47)  (Patriarchal Administrator 2018.08.29 – ...)Msgr. Philip B. Najim  (Patriarchal Administrator 2013? – 2018.08.29)Bishop Youssef Ibrahim Sarraf  (1984.02.06 – 2009.12.31)Born:1940.10.05 (Cairo, Egypt)Ordained Priest:1964.12.19Consecrated Bishop:1984.05.13Died:2009.12.31 († 69)Priest of Cairo of the Chaldeans (Egypt) (1964.12.19 – 1984.02.06)Procurator at Rome of the Chaldeans (1977 – 1984.02.06)Bishop of Cairo of the Chaldeans (Egypt) (1984.02.06 – 2009.12.31)Bishop Ephrem Bédé  (1980.04.23 – 1984.01.18)Born:1916.06.20 (Alquoch, Iraq)Ordained Priest:1941.05.15Consecrated Bishop:1980.08.15Died:1984.01.18 († 67)Bishop of Cairo of the Chaldeans (Egypt) (1980.04.23 – 1984.01.18)Special ChurchesCathedral, Minor Basilica:  Basilique Notre Dame de Fatima d’Héliopolis, Cairo, Cairo Show MapBeirut (↗)Statistics (2022.12.31)Population: 2,000 CatholicsPastoral Centres: 2 parishes, 2 missionsPersonnel: 9 priests (4 diocesan, 5 religious), 13 religious (8 brothers, 5 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cair0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 4,
+    "pretres_religieux": null,
+    "total_pretres": 9,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 2
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

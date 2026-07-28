@@ -1,0 +1,29 @@
+{
+  "id": "in-berh0",
+  "nom": "Berhampur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Berhampur / Berhampuren(sis) (Latin)Ecclesiastical Province: Cuttack–BhubaneswarNeighbouring Dioceses: Srikakulam (↙), Rayagada (←), Cuttack–Bhubaneswar (↗)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint Vincent de PaulLiturgical Calendar (National) 📅History1974.01.24: Established as Diocese of Berhampur / Berhampuren(sis) (Latin) (from Diocese of Cuttack and Diocese of Visakhapatnam and became suffragan of Cuttack–Bhubaneswar)2016.04.11: Lost territory to establish Diocese of RayagadaPresent PrelatesBishop (2006.11.27 – ...):Bishop Sarat Chandra Nayak (69)OrdinariesBishops of Berhampur (Roman Rite)Bishop Sarat Chandra Nayak (69)  (2006.11.27 – ...)Bishop of Berhampur (India)To be a happy servantBorn:1957.07.01 (Kerubadi, India)Ordained Priest:1990.04.25Consecrated Bishop:2007.01.30Priest of Cuttack–Bhubaneswar (India) (1990.04.25 – 2006.11.27)Bishop of Berhampur (India) (2006.11.27 – ...)Bishop Joseph Das  (1993.05.03 – 2006.11.27)Born:1930.07.07 (Dantolinigi, India)Ordained Priest:1959.12.06Consecrated Bishop:1993.07.07Died:2008.08.05 († 78)Bishop of Berhampur (India) (1993.05.03 – 2006.11.27)Bishop Thomas Thiruthalil, C.M. (90)  (1974.01.24 – 1989.12.18)Bishop emeritus of Balasore (India)Transforming livesBorn:1936.01.17 (Vazhakulam, India)Ordained Priest:1963.04.14Consecrated Bishop:1974.05.05Bishop of Berhampur (India) (1974.01.24 – 1989.12.18)Bishop of Balasore (India) (1989.12.18 – 2013.12.09)Special ChurchesCathedral:  Queen of the Missions Cathedral, Berhampur, Odisha Show MapSrikakulam (↙), Rayagada (←), Cuttack–Bhubaneswar (↗)Statistics (2022.12.31)Area: 12,531 km²Population: 74,075 Catholics (1.5% of 4,835,650 total)Pastoral Centres: 26 parishes, 2 missionsPersonnel: 104 priests (38 diocesan, 66 religious), 296 religious (107 brothers, 189 sisters), 19 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "berh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4835650,
+    "catholiques": 74075,
+    "pourcentage_catholiques": 1.5
+  },
+  "ressources": {
+    "pretres_diocesains": 38,
+    "pretres_religieux": null,
+    "total_pretres": 104,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

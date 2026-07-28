@@ -1,0 +1,29 @@
+{
+  "id": "hu-misk0",
+  "nom": "Miskolc",
+  "pays": "hu",
+  "pays_nom": "Hungary",
+  "continent": "unknown",
+  "type": "Diocese Name: Miskolc / Miskolcen(sis) (Latin)Ecclesiastical Province: HajdúdorogNeighbouring Dioceses: Bratislava (←), Košice (↑), Nyíregyháza (→), Hajdúdorog (↘)Depends on: Dicastery for the Eastern ChurchesWebsites: History1924.06.04: Established as Apostolic Exarchate of Miskolc / Miskolcen(sis) (Latin)2011.03.05: Gained territory from Diocese of Hajdúdorog2015.03.20: Promoted as Diocese of Miskolc / Miskolcen(sis) (Latin) (became suffragan of Hajdúdorog)Present PrelatesBishop (2015.03.20 – ...):Bishop Atanáz Orosz (66)OrdinariesBishops of Miskolc (Hungarian Rite)Bishop Atanáz Orosz (66)  (2015.03.20 – ...)Bishop of Miskolc of the Hungarians (Hungary)Szeretlek téged, uramBorn:1960.05.11 (Nyíregyháza, Hungary)Ordained Priest:1985.08.04Consecrated Bishop:2011.05.21Priest of Hajdúdorog of the Hungarians (Hungary) (1985.08.04 – 2011.03.05)Titular Bishop of Panium (2011.03.05 – 2015.03.20)Apostolic Exarch of Miskolc of the Hungarians (Hungary) (2011.03.05 – 2015.03.20)Apostolic Administrator of Nyíregyháza of the Hungarians (Hungary) (2015.03.20 – 2015.10.31)Bishop of Miskolc of the Hungarians (Hungary) (2015.03.20 – ...)Apostolic Exarchs of Miskolc (Hungarian Rite)Bishop Atanáz Orosz (66)  (2011.03.05 – 2015.03.20)(see above)Bishop Peter Fülöp Kocsis (63) (later Archbishop)  (Apostolic Administrator 2008.05.02 – 2011.03.05)Bishop Szilárd Keresztes  (1988.06.30 – 2007.11.10)Born:1932.07.19 (Nyíracsád, Hungary)Ordained Priest:1955.08.07Consecrated Bishop:1975.02.08Died:2025.08.13 (Nyíregyháza, Hungary † 93)Priest of Hajdúdorog of the Hungarians (Hungary) (1955.08.07 – 1975.01.07)Titular Bishop of Chunavia (1975.01.07 – 1988.06.30)Auxiliary Bishop of Hajdúdorog of the Hungarians (Hungary) (1975.01.07 – 1988.06.30)Bishop of Hajdúdorog of the Hungarians (Hungary) (1988.06.30 – 2007.11.10)Apostolic Exarch of Miskolc of the Hungarians (Hungary) (1988.06.30 – 2007.11.10)Apostolic Administrator of Hajdúdorog of the Hungarians (Hungary) (2007.11.10 – 2008.05.02)Bishop Imre Timkó  (1975.01.07 – 1988.03.30)Born:1920.08.13 (Budapest, Hungary)Ordained Priest:1945.12.08Consecrated Bishop:1975.02.08Died:1988.03.30 (Nyíregyháza, Hungary † 67)Priest of Hajdúdorog of the Hungarians (Hungary) (1945.12.08 – 1975.01.07)Bishop of Hajdúdorog of the Hungarians (Hungary) (1975.01.07 – 1988.03.30)Apostolic Exarch of Miskolc of the Hungarians (Hungary) (1975.01.07 – 1988.03.30)Bishop Miklós Dudás, O.S.B.M.  (1946.10.14 – 1972.07.15)Born:1902.10.27 (Máriapócs, Hungary)Ordained Priest:1927.09.08Consecrated Bishop:1939.05.14Died:1972.07.15 (Nyíregyháza, Hungary † 69)Bishop of Hajdúdorog of the Hungarians (Hungary) (1939.03.25 – 1972.07.15)Apostolic Administrator of Mukačeve of the Ruthenians (Ukraine) (1944 – 1946)Apostolic Exarch of Miskolc of the Hungarians (Hungary) (1946.10.14 – 1972.07.15)Archbishop Antal Papp  (1924.07.14 – 1945.12.24)Born:1867.11.07 (Nagykallo, Ukraine)Ordained Priest:1893.12.24Consecrated Bishop:1912.10.14Died:1945.12.24 (Miskolc, Hungary † 78)Priest of Mukačeve of the Ruthenians (Ukraine) (1893.12.24 – 1912.04.29)Titular Bishop of Lyrba (1912.04.29 – 1912.06.02)Coadjutor Bishop of Mukačeve of the Ruthenians (Ukraine) (1912.04.29 – 1912.06.02)Bishop of Mukačeve of the Ruthenians (Ukraine) (1912.06.02 – 1924.07.14)Titular Archbishop of Cyzicus (1924.07.14 – 1945.12.24)Apostolic Exarch of Miskolc of the Hungarians (Hungary) (1924.07.14 – 1945.12.24)Special ChurchesCathedral:  Nagyboldogasszony püspöki székesegyház, Miskolc, Borsod-Abaúj-Zemplén Jubilee Churches in the Holy Year 2025Show MapBratislava (←), Košice (↑), Nyíregyháza (→), Hajdúdorog (↘)Statistics (2022.12.31)Population: 45,000 CatholicsPastoral Centres: 65 parishes, 13 missionsPersonnel: 67 priests (diocesan), 2 deacons, 1 religious (1 sister), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "misk0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 65
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

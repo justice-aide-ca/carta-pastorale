@@ -1,0 +1,29 @@
+{
+  "id": "sv-chal1",
+  "nom": "Chalatenango",
+  "pays": "sv",
+  "pays_nom": "El Salvador",
+  "continent": "unknown",
+  "type": "Diocese Name: Chalatenango / Chalatenangen(sis) (Latin)Ecclesiastical Province: San SalvadorNeighbouring Dioceses: Santa Ana (←), Santa Rosa de Copán (↑), Gracias (↗), San Vicente (↘), San Salvador (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1987.12.30: Established as Diocese of Chalatenango / Chalatenangen(sis) (Latin) (from Metropolitan Archdiocese of San Salvador and became suffragan of San Salvador)Present PrelatesBishop (2016.07.14 – ...):Bishop Oswaldo Estéfano Escobar Aguilar, O.C.D. (58)OrdinariesBishops of Chalatenango (Roman Rite)Bishop Oswaldo Estéfano Escobar Aguilar, O.C.D. (58)  (2016.07.14 – ...)Bishop of Chalatenango (El Salvador)Entañas de misericordiaBorn:1968.05.20 (Chiapas, El Salvador)Ordained Priest:1996.03.19Consecrated Bishop:2016.10.01Bishop of Chalatenango (El Salvador) (2016.07.14 – ...)Bishop Luis Morao Andreazza, O.F.M. (87)  (2007.04.21 – 2016.07.14)Bishop emeritus of Chalatenango (El Salvador)Born:1939.06.26 (Treviso, Italy)Ordained Priest:1966.06.29Consecrated Bishop:2004.01.17Apostolic Administrator of the Military Ordinariate of El Salvador (El Salvador) (1997.06.19 – 2003.11.12)Titular Bishop of Tullia (2003.11.12 – 2007.04.21)Auxiliary Bishop of Santa Ana (El Salvador) (2003.11.12 – 2007.04.21)Bishop of Chalatenango (El Salvador) (2007.04.21 – 2016.07.14)Bishop Eduardo Alas Alfaro  (1987.12.30 – 2007.04.21)Born:1930.07.02 (San Rafael, El Salvador)Ordained Priest:1960.10.30Consecrated Bishop:1988.02.27Died:2020.02.27 (Chalatenango, El Salvador † 89)Bishop of Chalatenango (El Salvador) (1987.12.30 – 2007.04.21)Special ChurchesCathedral:  Catedral San Juan Bautista, Chalatenango, Chalatenango Show MapSanta Ana (←), Santa Rosa de Copán (↑), Gracias (↗), San Vicente (↘), San Salvador (↓)Statistics (2022.12.31)Area: 2,017 km²Population: 227,732 Catholics (78.7% of 289,200 total)Pastoral Centres: 28 parishesPersonnel: 43 priests (diocesan), 1 deacon, 45 religious (45 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.19© 2026 GCatholic.org",
+  "code_gcatholic": "chal1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 289200,
+    "catholiques": 227732,
+    "pourcentage_catholiques": 78.7
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

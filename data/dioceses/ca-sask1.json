@@ -1,0 +1,29 @@
+{
+  "id": "ca-sask1",
+  "nom": "Saskatoon",
+  "pays": "ca",
+  "pays_nom": "Canada",
+  "continent": "amerique",
+  "type": "Diocese Name: Saskatoon / Saskatoonen(sis) Ucrainorum (Latin)Ecclesiastical Province: WinnipegNeighbouring Dioceses: Edmonton (←), Winnipeg (→), Saint Nicholas of Chicago (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: History1951.03.10: Established as Apostolic Exarchate of Saskatoon / Saskatoonen(sis) Ucrainorum (Latin) (from Apostolic Exarchate of Central Canada)1956.11.03: Promoted as Diocese of Saskatoon / Saskatoonen(sis) Ucrainorum (Latin) (became suffragan of Winnipeg)Contact InfoAddress: 214 Avenue M South, Saskatoon, SK S7M 2K4, CanadaPhone: +1 (306) 653-0138Present PrelatesBishop (2023.11.30 – ...):Bishop Michael Smolinsky (Михайло Смолінський), C.SS.R. (53)Monsignors (2)OrdinariesBishops of Saskatoon (Ukrainian Rite)Bishop Michael Smolinsky (Михайло Смолінський), C.SS.R. (53)  (2023.11.30 – ...)Bishop of Saskatoon of the Ukrainians (Canada)Born:1972.09.10 (Saskatoon, SK, Canada)Ordained Priest:2003.07.05Consecrated Bishop:2024.01.20Bishop of Saskatoon of the Ukrainians (Canada) (2023.11.30 – ...)Archbishop Lawrence Daniel Huculak, O.S.B.M. (75)  (Apostolic Administrator 2022.04.28 – 2023.11.30)Bishop Bryan Joseph Bayda, C.SS.R. (64)  (2008.05.02 – 2022.04.28)Bishop of Toronto of the Ukrainians (Canada)You will be my witnessesBorn:1961.08.21 (Saskatoon, SK, Canada)Ordained Priest:1987.05.30Consecrated Bishop:2008.06.27Bishop of Saskatoon of the Ukrainians (Canada) (2008.05.02 – 2022.04.28)Apostolic Administrator of Toronto of the Ukrainians (Canada) (2019.11.09 – 2022.04.28)Bishop of Toronto of the Ukrainians (Canada) (2022.04.28 – ...)Bishop Michael Wiwchar, C.SS.R. (94)  (2000.11.29 – 2008.05.02)Bishop emeritus of Saskatoon of the Ukrainians (Canada)Born:1932.05.09 (Komarno, MB, Canada)Ordained Priest:1959.06.28Consecrated Bishop:1993.09.28Bishop of Saint Nicholas of Chicago of the Ukrainians (USA) (1993.07.02 – 2000.11.29)Bishop of Saskatoon of the Ukrainians (Canada) (2000.11.29 – 2008.05.02)Apostolic Administrator of Saint Nicholas of Chicago of the Ukrainians (USA) (2000.12.01 – 2003.03.25)Bishop Cornelius John Pasichny, O.S.B.M.  (1995.11.06 – 1998.07.01)Born:1927.03.27 (Winnipeg, MB, Canada)Ordained Priest:1953.07.05Consecrated Bishop:1996.01.17Died:2014.01.30 († 86)Bishop of Saskatoon of the Ukrainians (Canada) (1995.11.06 – 1998.07.01)Bishop of Toronto of the Ukrainians (Canada) (1998.07.01 – 2003.05.03)Bishop Basil Filevich  (1983.12.05 – 1995.11.06)Born:1918.01.13 (Stryj, Ukraine)Ordained Priest:1942.04.17Consecrated Bishop:1984.02.27Died:2006.04.20 (Saskatoon, SK, Canada † 88)Priest of Canada of the Ukrainians (Canada) (1942.04.17 – 1948.01.19)Priest of Eastern Canada of the Ukrainians (Canada) (1948.01.19 – 1951.03.10)Priest of Edmonton of the Ukrainians (Canada) (1951.03.10 – 1983.12.05)Bishop of Saskatoon of the Ukrainians (Canada) (1983.12.05 – 1995.11.06)Bishop Andrew J. Roborecki  (1956.11.03 – 1982.10.24)Auxilium meum a DominoBorn:1910.12.12 (Mosty Welyki, Ukraine)Ordained Priest:1934.07.18Consecrated Bishop:1948.05.27Died:1982.10.24 († 71)Priest of Central Canada of the Ukrainians (Canada) (1934.07.18 – 1948.03.03)Auxiliary Bishop of Central Canada of the Ukrainians (Canada) (1948.03.03 – 1951.03.10)Titular Bishop of Tanais (1948.03.03 – 1956.11.03)Apostolic Exarch of Saskatoon of the Ukrainians (Canada) (1951.03.10 – 1956.11.03)Bishop of Saskatoon of the Ukrainians (Canada) (1956.11.03 – 1982.10.24)Apostolic Exarchs of Saskatoon (Ukrainian Rite)Bishop Andrew J. Roborecki  (1951.03.10 – 1956.11.03)(see above)Special ChurchesCathedral:  Ukrainian Catholic Cathedral of St. George, Saskatoon, Saskatchewan Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (129)Show MapEdmonton (←), Winnipeg (→), Saint Nicholas of Chicago (↓)Statistics (2022.12.31)Population: 5,381 CatholicsPastoral Centres: 81 parishesPersonnel: 19 priests (12 diocesan, 7 religious), 3 deacons, 22 religious (7 brothers, 15 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sask1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 12,
+    "pretres_religieux": null,
+    "total_pretres": 19,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 81
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

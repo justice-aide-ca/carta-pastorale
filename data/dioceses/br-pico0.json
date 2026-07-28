@@ -1,0 +1,29 @@
+{
+  "id": "br-pico0",
+  "nom": "Picos",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Picos / Picuen(sis) (Latin)Ecclesiastical Province: TeresinaNeighbouring Dioceses: São Raimundo Nonato (↙), Oeiras (←), Teresina (↖), Crateús (↗), Crato (→), Salgueiro (→), Petrolina (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nossa Senhora dos Remédios (August 15)Cathedral Dedication Anniversary: August 15 (1976)Liturgical Calendar (National) 📅History1974.10.28: Established as Diocese of Picos / Picuen(sis) (Latin) (from Diocese of Oeiras and became suffragan of Teresina)Present PrelatesBishop (2003.11.26 – ...):Bishop Plínio José Luz da Silva (70)OrdinariesBishops of Picos (Roman Rite)Bishop Plínio José Luz da Silva (70)  (2003.11.26 – ...)Bishop of Picos (Brazil)Euntes prædicate EvangeliumBorn:1955.10.18 (Pacoti, CE, Brazil)Ordained Priest:1984.12.16Consecrated Bishop:2001.08.24Priest of Fortaleza (Brazil) (1984.12.16 – 2001.06.13)Titular Bishop of Marazanæ (2001.06.13 – 2003.11.26)Auxiliary Bishop of Fortaleza (Brazil) (2001.06.13 – 2003.11.26)Bishop of Picos (Brazil) (2003.11.26 – ...)Bishop Augusto Alves da Rocha (92)  (1975.05.23 – 2001.10.24)Bishop emeritus of Floriano (Brazil)In fide fundatiBorn:1933.07.17 (Bertolinia, PI, Brazil)Ordained Priest:1960.02.21Consecrated Bishop:1975.08.23Bishop of Picos (Brazil) (1975.05.23 – 2001.10.24)Bishop of Oeiras–Floriano (Brazil) (2001.10.24 – 2008.02.27)Bishop of Floriano (Brazil) (2008.02.27 – 2010.03.17)Special ChurchesCathedral:  Catedral Nossa Senhora dos Remédios, Picos, Piauí Jubilee Churches in the Holy Year 2025Churches by City (25)Show MapSão Raimundo Nonato (↙), Oeiras (←), Teresina (↖), Crateús (↗), Crato (→), Salgueiro (→), Petrolina (↘)Statistics (2022.12.31)Area: 23,121 km²Population: 367,190 Catholics (87.5% of 419,820 total)Pastoral Centres: 27 parishes, 9 missionsPersonnel: 44 priests (diocesan), 10 religious (10 sisters), 9 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pico0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 419820,
+    "catholiques": 367190,
+    "pourcentage_catholiques": 87.5
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

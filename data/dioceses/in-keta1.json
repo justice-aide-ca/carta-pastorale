@@ -1,0 +1,29 @@
+{
+  "id": "in-keta1",
+  "nom": "Ketapang",
+  "pays": "in",
+  "pays_nom": "Indonesia",
+  "continent": "unknown",
+  "type": "Diocese Name: Ketapang / Ketapangen(sis) (Latin)Ecclesiastical Province: PontianakNeighbouring Dioceses: Pangkalpinang (←), Pontianak (↑), Sanggau (↑), Sintang (↗), Palangkaraya (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint Gemma Maria Umberta Galgani (May 16)Cathedral Dedication Anniversary: June 10Liturgical Calendar (National) 📅History1954.06.14: Established as Apostolic Prefecture of Ketapang / Ketapangen(sis) (Latin) (from Apostolic Vicariate of Pontianak)1961.01.03: Promoted as Diocese of Ketapang / Ketapangen(sis) (Latin) (became suffragan of Pontianak)1968.04.09: Lost territory to establish Apostolic Prefecture of SekadauPresent PrelatesBishop (2012.06.25 – ...):Bishop Pius Riana Prapdi (59)OrdinariesBishops of Ketapang (Roman Rite)Bishop Pius Riana Prapdi (59)  (2012.06.25 – ...)Bishop of Ketapang (Indonesia)Serviens in caritateBorn:1967.05.05 (Painiai, Papua, Indonesia)Ordained Priest:1995.07.08Consecrated Bishop:2012.09.09Priest of Semarang (Indonesia) (1995.07.08 – 2012.06.25)Bishop of Ketapang (Indonesia) (2012.06.25 – ...)Bishop Blasius Pujaraharja (91)  (1979.03.15 – 2012.06.25)Bishop emeritus of Ketapang (Indonesia)In fractione panisBorn:1935.06.12 (Gamping, Yogyakarta, Indonesia)Ordained Priest:1961.09.08Consecrated Bishop:1979.06.17Priest of Semarang (Indonesia) (1961.09.08 – 1979.03.15)Bishop of Ketapang (Indonesia) (1979.03.15 – 2012.06.25)Bishop Gabriel Willem Sillekens, C.P.  (1962.04.02 – 1979.03.15)AmenBorn:1911.07.06 (Roggel, Netherlands)Ordained Priest:1936.05.10Consecrated Bishop:1962.06.17Died:1981.05.09 (Netherlands † 69)Prefect Apostolic of Ketapang (Indonesia) (1954.08.25 – 1961.01.03)Apostolic Administrator of Ketapang (Indonesia) (1961.01.03 – 1962.04.02)Bishop of Ketapang (Indonesia) (1962.04.02 – 1979.03.15)Prefects Apostolic of Ketapang (Roman Rite)Fr. Gabriel Willem Sillekens, C.P. (later Bishop)  (Apostolic Administrator 1961.01.03 – 1962.04.02)Fr. Gabriel Willem Sillekens, C.P. (later Bishop)  (1954.08.25 – 1961.01.03)(see above)Special ChurchesCathedral:  Katedral Santa Gemma, Ketapang, Kalimantan Barat, Kalimantan Jubilee Churches in the Holy Year 2025Churches by City (27)Show MapPangkalpinang (←), Pontianak (↑), Sanggau (↑), Sintang (↗), Palangkaraya (→)Statistics (2020.12.31)Area: 35,809 km²Population: 136,800 Catholics (22.2% of 616,800 total)Pastoral Centres: 23 parishesPersonnel: 47 priests (33 diocesan, 14 religious), 166 religious (27 brothers, 139 sisters), 9 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "keta1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 616800,
+    "catholiques": 136800,
+    "pourcentage_catholiques": 22.2
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 47,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

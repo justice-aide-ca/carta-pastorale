@@ -1,0 +1,29 @@
+{
+  "id": "us-zjos2",
+  "nom": "San Jose",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: San Jose / San Jose in California / Sancti Iosephi in California (Latin)Ecclesiastical Province: San FranciscoNeighbouring Dioceses: San Francisco (↖), Oakland (↑), Stockton (↗), Fresno (↘), Monterey (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Joseph (March 19), Saint Clare of Assisi (August 11)Cathedral Dedication Anniversary: November 4 (1990)Liturgical Calendar 📅History1981.01.27: Established as Diocese of San Jose / San Jose in California / Sancti Iosephi in California (Latin) (from Metropolitan Archdiocese of San Francisco and became suffragan of San Francisco)Contact InfoAddress: Chancery Office, 1150 North First St., Suite 100, San Jose, CA 95112-4966, USAPhone: +1 (408) 983-0100Present PrelatesBishop (2019.05.01 – ...):Bishop Oscar Cantú (59)Auxiliary Bishop (2025.08.29 – ...):Bishop Andres Cantoria Ligot (60)Titular Bishop of CroæMonsignors (24)OrdinariesBishops of San Jose (Roman Rite)Bishop Oscar Cantú (59)  (2019.05.01 – ...)Bishop of San Jose (USA)Zelus Domus tuæ comedit meBorn:1966.12.05 (Houston, TX, USA)Ordained Priest:1994.05.21Consecrated Bishop:2008.06.02Priest of Galveston–Houston (USA) (1994.05.21 – 2008.04.10)Titular Bishop of Dardanus (2008.04.10 – 2013.01.10)Auxiliary Bishop of San Antonio (USA) (2008.04.10 – 2013.01.10)Bishop of Las Cruces (USA) (2013.01.10 – 2018.07.11)Coadjutor Bishop of San Jose (USA) (2018.07.11 – 2019.05.01)Bishop of San Jose (USA) (2019.05.01 – ...)Bishop Patrick Joseph McGrath  (1999.11.27 – 2019.05.01)Together in ChristBorn:1945.06.11 (Dublin, Ireland)Ordained Priest:1970.06.07Consecrated Bishop:1989.01.25Died:2023.05.07 (CA, USA † 77)Priest of San Francisco (USA) (1970.06.07 – 1988.12.06)Titular Bishop of Allegheny (1988.12.06 – 1998.06.30)Auxiliary Bishop of San Francisco (USA) (1988.12.06 – 1998.06.30)Coadjutor Bishop of San Jose (USA) (1998.06.30 – 1999.11.27)Bishop of San Jose (USA) (1999.11.27 – 2019.05.01)Bishop Roland Pierre DuMaine  (1981.01.27 – 1999.11.27)Gaudium et spesBorn:1931.08.02 (Paducah, KY, USA)Ordained Priest:1957.06.15Consecrated Bishop:1978.06.29Died:2019.06.13 (Sunnyvale, CA, USA † 87)Priest of San Francisco (USA) (1957.06.15 – 1978.04.24)Titular Bishop of Sarda (1978.04.24 – 1981.01.27)Auxiliary Bishop of San Francisco (USA) (1978.04.24 – 1981.01.27)Bishop of San Jose (USA) (1981.01.27 – 1999.11.27)Former PrelatesCoadjutor Bishop: Bishop Oscar Cantú (59) (2018.07.11 – 2019.05.01)Coadjutor Bishop: Bishop Patrick Joseph McGrath (1998.06.30 – 1999.11.27)Auxiliary Bishop: Bishop Thomas Anthony Daly (66) (2011.03.16 – 2015.03.12)Special ChurchesCathedral, Minor Basilica:  Cathedral Basilica of St. Joseph, San Jose, California Former Cathedral:  Church of Our Lady of La Vang, San Jose, California Church:  Mission Santa Clara de Asís, Santa Clara, California Shrine:  Shrine of Our Lady of Peace, Santa Clara, California Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (62)Show MapSan Francisco (↖), Oakland (↑), Stockton (↗), Fresno (↘), Monterey (↓)Statistics (2022.12.31)Area: 3,367 km²Population: 689,000 Catholics (36.5% of 1,885,508 total)Pastoral Centres: 49 parishes, 4 missionsPersonnel: 329 priests (146 diocesan, 183 religious), 29 deacons, 571 religious (342 brothers, 229 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zjos2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1885508,
+    "catholiques": 689000,
+    "pourcentage_catholiques": 36.5
+  },
+  "ressources": {
+    "pretres_diocesains": 146,
+    "pretres_religieux": null,
+    "total_pretres": 329,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 49
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

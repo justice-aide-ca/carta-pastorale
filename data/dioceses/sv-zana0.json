@@ -1,0 +1,29 @@
+{
+  "id": "sv-zana0",
+  "nom": "Santa Ana",
+  "pays": "sv",
+  "pays_nom": "El Salvador",
+  "continent": "unknown",
+  "type": "Diocese Name: Santa Ana / Sanctæ Annæ (Latin)Ecclesiastical Province: San SalvadorNeighbouring Dioceses: San Francisco de Asís de Jutiapa (↖), Santo Cristo de Esquipulas (↑), Chalatenango (↗), San Salvador (→), Sonsonate (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1913.02.11: Established as Diocese of Santa Ana / Sanctæ Annæ (Latin) (from Diocese of San Salvador and became suffragan of San Salvador)1986.05.31: Lost territory to establish Diocese of SonsonatePresent PrelatesBishop (2016.02.09 – ...):Bishop Miguel Angel Morán Aquino (71)Monsignors (2)OrdinariesBishops of Santa Ana (Roman Rite)Bishop Miguel Angel Morán Aquino (71)  (2016.02.09 – ...)Bishop of Santa Ana (El Salvador)Born:1955.05.25 (Esquipulas, El Salvador)Ordained Priest:1981.12.05Consecrated Bishop:2000.09.02Priest of Santa Ana (El Salvador) (1981.12.05 – 2000.07.19)Bishop of San Miguel (El Salvador) (2000.07.19 – 2016.02.09)Bishop of Santa Ana (El Salvador) (2016.02.09 – ...)Bishop Romeo Tovar Astorga, O.F.M. (86)  (1999.05.12 – 2016.02.09)Bishop emeritus of Santa Ana (El Salvador)former General Secretary of Episcopal Conference of El SalvadorBorn:1940.03.05 (Ciudad Delgado, El Salvador)Ordained Priest:1968.06.25Consecrated Bishop:1987.07.25General Secretary of Episcopal Conference of El Salvador (? – 2016.02.09)Bishop of Zacatecoluca (El Salvador) (1987.05.05 – 1996.12.17)President of Episcopal Conference of El Salvador (1988 – 1992)Coadjutor Bishop of San Miguel (El Salvador) (1996.12.17 – 1997.04.10)Bishop of San Miguel (El Salvador) (1997.04.10 – 1999.05.12)Bishop of Santa Ana (El Salvador) (1999.05.12 – 2016.02.09)Bishop Marco René Revelo Contreras  (1981.02.25 – 1998.10.19)Born:1923.07.14 (San Salvador, El Salvador)Ordained Priest:1948.10.17Consecrated Bishop:1973.09.08Died:2000.09.04 († 77)Auxiliary Bishop of Santa Ana (El Salvador) (1973.07.14 – 1978.01)Titular Bishop of Germaniciana (1973.07.14 – 1981.02.25)Auxiliary Bishop of San Salvador (El Salvador) (1978.01 – 1981.02.25)Bishop of Santa Ana (El Salvador) (1981.02.25 – 1998.10.19)President of Episcopal Conference of El Salvador (1983 – 1988)President of Episcopal Conference of El Salvador (1995 – 1998)Bishop Benjamin Barrera y Reyes, M.I.  (1954.03.01 – 1981.02.25)Born:1902.12.28 (Sensuntepeque, El Salvador)Ordained Priest:1934.07.29Consecrated Bishop:1942.11.15Died:1999.02.04 († 96)Titular Bishop of Sabadia (1942.09.25 – 1954.03.01)Auxiliary Bishop of Santa Ana (El Salvador) (1942.09.25 – 1954.03.01)Bishop of Santa Ana (El Salvador) (1954.03.01 – 1981.02.25)President of Episcopal Conference of El Salvador (1970 – 1975)Archbishop Santiago Ricardo Vilanova y Meléndez  (1914.07.03 – 1952.08.11)Born:1862.05.09 (Santa Tecla, El Salvador)Ordained Priest:1886.11.07Consecrated Bishop:1914.03.22Died:1953.01.17 († 90)Priest of San Salvador (El Salvador) (1886.11.07 – 1913.08.01)Auxiliary Bishop of San Salvador (El Salvador) (1913.08.01 – 1914.07.03)Coadjutor Archbishop of Mopsuestia (Turkiye) (1913.08.01 – 1914.07.03)Bishop of Santa Ana (El Salvador) (1914.07.03 – 1952.08.11)Titular Archbishop of Anchialus (1952.08.11 – 1953.01.17)Former PrelatesAuxiliary Bishop: Bishop José Elías Rauda Gutiérrez, O.F.M. (63) (2008.01.25 – 2009.12.12)Auxiliary Bishop: Bishop Luis Morao Andreazza, O.F.M. (87) (2003.11.12 – 2007.04.21)Auxiliary Bishop: Bishop Fernando Sáenz Lacalle, Opus Dei (later Archbishop) (1984.12.22 – 1995.04.22)Auxiliary Bishop: Bishop Marco René Revelo Contreras (1973.07.14 – 1978.01)Auxiliary Bishop: Bishop Lorenzo Michele Joseph Graziano, O.F.M. (1961.08.11 – 1965)Auxiliary Bishop: Bishop Benjamin Barrera y Reyes, M.I. (1942.09.25 – 1954.03.01)Special ChurchesCathedral:  Catedral de Nuestra Señora de Santa Ana, Santa Ana, Santa Ana Show MapSan Francisco de Asís de Jutiapa (↖), Santo Cristo de Esquipulas (↑), Chalatenango (↗), San Salvador (→), Sonsonate (↓)Statistics (2022.12.31)Area: 3,263 km²Population: 751,409 Catholics (65.3% of 1,151,284 total)Pastoral Centres: 63 parishesPersonnel: 146 priests (130 diocesan, 16 religious), 167 religious (28 brothers, 139 sisters), 25 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zana0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1151284,
+    "catholiques": 751409,
+    "pourcentage_catholiques": 65.3
+  },
+  "ressources": {
+    "pretres_diocesains": 130,
+    "pretres_religieux": null,
+    "total_pretres": 146,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 63
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

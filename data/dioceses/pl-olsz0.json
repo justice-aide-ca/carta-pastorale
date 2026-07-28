@@ -1,0 +1,29 @@
+{
+  "id": "pl-olsz0",
+  "nom": "Olsztyn–Gdańsk",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Olsztyn–Gdańsk (polski) / Varmien(sis)–Gedanen(sis) ritus byzantini ucraini (Latin)Ecclesiastical Province: Przemyśl–WarszawaNeighbouring Dioceses: Wrocław–Koszalin (↙), Przemyśl–Warszawa (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: History2020.11.25: Established as Diocese of Olsztyn–Gdańsk (polski) / Varmien(sis)–Gedanen(sis) ritus byzantini ucraini (Latin) (from Metropolitan Archdiocese of Przemyśl–Warszawa and Diocese of Wrocław–Gdańsk and became suffragan of Przemyśl–Warszawa)Present PrelatesBishop (2020.11.25 – ...):Bishop Arkadiusz Trochanowski (53)OrdinariesBishops of Olsztyn–Gdańsk (Ukrainian Rite)Bishop Arkadiusz Trochanowski (53)  (2020.11.25 – ...)Bishop of Olsztyn–Gdańsk of the Ukrainians (Poland)У спільноті з богомBorn:1973.01.06 (Szprotawa, Poland)Ordained Priest:2000.07.29Consecrated Bishop:2021.01.23Priest of Wrocław–Gdańsk of the Ukrainians (Poland) (2000.07.29 – 2020.11.25)Bishop of Olsztyn–Gdańsk of the Ukrainians (Poland) (2020.11.25 – ...)Special ChurchesCathedral:  Katedra Pokrowa Matki Bożej, Olsztyn, Warmińsko-Mazurskie Co-Cathedral:  Konkatedra św. Bartłomieja i Opieki Przenajświętszej Bogurodzicy, Gdańsk, Pomorskie Former Cathedral (now Orthodox church):  Monaster Zwiastowania Przenajświętszej Bogurodzicy i św. Jana Teologa, Supraśl, Podlaskie Jubilee Churches in the Holy Year 2025Show MapWrocław–Koszalin (↙), Przemyśl–Warszawa (↓)Statistics (2022.12.31)Population: 10,000 CatholicsPastoral Centres: 42 parishes, 7 missionsPersonnel: 32 priests (27 diocesan, 5 religious), 2 deacons, 10 religious (6 brothers, 4 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "olsz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 32,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 42
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

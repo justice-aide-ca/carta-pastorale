@@ -1,0 +1,29 @@
+{
+  "id": "ke-wote0",
+  "nom": "Wote",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Wote / Woten(sis) (Latin)Ecclesiastical Province: NairobiNeighbouring Dioceses: Ngong (←), Machakos (↖), Kitui (↗), Mombasa (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2023.07.22: Established as Diocese of Wote / Woten(sis) (Latin) (from Diocese of Machakos and became suffragan of Nairobi)Present PrelatesBishop (2026.05.13 – ...):Bishop Simon Peter Kamomoe (63)OrdinariesBishops of Wote (Roman Rite)Bishop Simon Peter Kamomoe (63)  (2026.05.13 – ...)Bishop of Wote (Kenya)Born:1962.11.26 (Gatundu, Kenya)Ordained Priest:1994.06.18Consecrated Bishop:2024.04.06Priest of Nairobi (Kenya) (1994.06.18 – 2024.02.13)Auxiliary Bishop of Nairobi (Kenya) (2024.02.13 – 2025.07.05)Titular Bishop of Thubunæ in Numidia (2024.02.13 – 2026.05.13)Auxiliary Bishop of Wote (Kenya) (2025.07.05 – 2026.05.13)Apostolic Administrator sede plena of Wote (Kenya) (2025.09.16 – 2026.03.25)Apostolic Administrator of Wote (Kenya) (2026.03.25 – 2026.05.13)Bishop of Wote (Kenya) (2026.05.13 – ...)Bishop Simon Peter Kamomoe (63)  (Apostolic Administrator 2026.03.25 – 2026.05.13)Bishop Simon Peter Kamomoe (63)  (Apostolic Administrator sede plena 2025.09.16 – 2026.03.25)Bishop Norman King’oo Wambua (73)  (Apostolic Administrator sede plena 2024.09.28 – 2025.09.21)Bishop Paul Kariuki Njiru (63)  (2023.07.22 – 2026.03.25)Bishop emeritus of Wote (Kenya)Ego sum bonus pastor tibi et omnibusBorn:1963.03.11 (Kathunguri, Kenya)Ordained Priest:1993.03.01Consecrated Bishop:2009.07.25Priest of Embu (Kenya) (1993.03.01 – 2009.05.09)Bishop of Embu (Kenya) (2009.05.09 – 2023.07.22)Bishop of Wote (Kenya) (2023.07.22 – 2026.03.25)Former PrelatesAuxiliary Bishop: Bishop Simon Peter Kamomoe (63) (2025.07.05 – 2026.05.13)Special ChurchesCathedral:  Cathedral of St. Joseph the Worker, Wote, Makueni Show MapNgong (←), Machakos (↖), Kitui (↗), Mombasa (↘)Statistics (2023.12.31)Area: 8,009 km²Population: 388,946 Catholics (39.4% of 987,653 total)Pastoral Centres: 31 parishesPersonnel: 99 priests (90 diocesan, 9 religious), 3 deacons, 21 religious (21 brothers), 36 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "wote0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 987653,
+    "catholiques": 388946,
+    "pourcentage_catholiques": 39.4
+  },
+  "ressources": {
+    "pretres_diocesains": 90,
+    "pretres_religieux": null,
+    "total_pretres": 99,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

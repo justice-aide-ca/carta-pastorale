@@ -1,0 +1,35 @@
+{
+  "id": "rw-ruhengeri0",
+  "nom": "Ruhengeri",
+  "pays": "rw",
+  "continent": "afrique",
+  "type": "Diocese",
+  "annee_donnees": 2022,
+  "territoire": {
+    "superficie_km2": 1665,
+    "population_totale": 1382600,
+    "catholiques": 482360,
+    "pourcentage_catholiques": 34.9
+  },
+  "ressources": {
+    "pretres_diocesains": 58,
+    "pretres_religieux": 15,
+    "total_pretres": 73,
+    "religieux_freres": 60,
+    "religieuses": 165,
+    "total_religieux": 225,
+    "seminarians": 64,
+    "diacres_permanents": null,
+    "paroisses": 16,
+    "missions": 1
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org + Statistiques 2022",
+  "derniere_mise_a_jour": "2026-07-14",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Ruhengeri",
+    "conference_episcopale": "https://www.eglisecatholiquerwanda.org/"
+  }
+}

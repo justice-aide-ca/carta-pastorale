@@ -1,0 +1,29 @@
+{
+  "id": "in-chin1",
+  "nom": "Chingleput",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Chingleput / Chengai / Chinhoyien(sis) (Latin)Ecclesiastical Province: Madras and MylaporeNeighbouring Dioceses: Vellore (←), Madras and Mylapore (↑), Pondicherry and Cuddalore (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint JosephLiturgical Calendar (National) 📅History2002.06.28: Established as Diocese of Chingleput / Chengai / Chinhoyien(sis) (Latin) (from Metropolitan Archdiocese of Madras and Mylapore and became suffragan of Madras and Mylapore)Papal VisitsPope John Paul II (1986.02)Present PrelatesBishop (2002.06.28 – ...):Bishop Neethinathan Anthonisamy (71)OrdinariesBishops of Chingleput (Roman Rite)Bishop Neethinathan Anthonisamy (71)  (2002.06.28 – ...)Bishop of Chingleput (India)Fullness of life through justiceBorn:1955.07.03 (Kakkanur, India)Ordained Priest:1987.05.09Consecrated Bishop:2002.09.29Priest of Madras and Mylapore (India) (1987.05.09 – 2002.06.28)Bishop of Chingleput (India) (2002.06.28 – ...)Special ChurchesCathedral:  Cathedral of St. Joseph, Chingleput, Tamil Nādu Minor Basilica, National Shrine:  St. Thomas Mount National Shrine Basilica, Chennai, Tamil Nādu Show MapVellore (←), Madras and Mylapore (↑), Pondicherry and Cuddalore (↓)Statistics (2022.12.31)Area: 1,711 km²Population: 215,360 Catholics (3.7% of 5,852,861 total)Pastoral Centres: 110 parishes, 2 missionsPersonnel: 242 priests (136 diocesan, 106 religious), 937 religious (173 brothers, 764 sisters), 28 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "chin1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5852861,
+    "catholiques": 215360,
+    "pourcentage_catholiques": 3.7
+  },
+  "ressources": {
+    "pretres_diocesains": 136,
+    "pretres_religieux": null,
+    "total_pretres": 242,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 110
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

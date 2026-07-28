@@ -1,0 +1,29 @@
+{
+  "id": "br-votu0",
+  "nom": "Votuporanga",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Votuporanga (Português) / Votuporangen(sis) (Latin)Ecclesiastical Province: São José do Rio PretoNeighbouring Dioceses: Jales (←), Ituiutaba (↑), São José do Rio Preto (→), Araçatuba (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2016.07.20: Established as Diocese of Votuporanga (Português) / Votuporangen(sis) (Latin) (from Diocese of Jales and Diocese of São José do Rio Preto and became suffragan of Ribeirão Preto)2025.05.22: Became suffragan of São José do Rio PretoPresent PrelatesBishop (2016.07.20 – ...):Bishop Moacir Aparecido de Freitas (63)OrdinariesBishops of Votuporanga (Roman Rite)Bishop Moacir Aparecido de Freitas (63)  (2016.07.20 – ...)Bishop of Votuporanga (Brazil)Verbum panis factum estBorn:1962.08.22 (Ibirá, SP, Brazil)Ordained Priest:1987.12.11Consecrated Bishop:2016.10.11Priest of São Carlos (Brazil) (1987.12.11 – 2016.07.20)Bishop of Votuporanga (Brazil) (2016.07.20 – ...)Special ChurchesCathedral:  Catedral Nossa Senhora Aparecida, Votuporanga, São Paulo Jubilee Churches in the Holy Year 2025Churches by City (32)Show MapJales (←), Ituiutaba (↑), São José do Rio Preto (→), Araçatuba (↓)Statistics (2022.12.31)Area: 7,695 km²Population: 164,246 Catholics (63.0% of 260,885 total)Pastoral Centres: 31 parishesPersonnel: 32 priests (30 diocesan, 2 religious), 6 deacons, 10 religious (2 brothers, 8 sisters), 4 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "votu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 260885,
+    "catholiques": 164246,
+    "pourcentage_catholiques": 63.0
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 32,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

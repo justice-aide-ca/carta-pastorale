@@ -1,0 +1,29 @@
+{
+  "id": "eg-alqu1",
+  "nom": "Al Qusia",
+  "pays": "eg",
+  "pays_nom": "Egypt",
+  "continent": "unknown",
+  "type": "Diocese Name: Al Qusia / Cusan(us) (Latin)Ecclesiastical Province: AlexandriaNeighbouring Dioceses: Minya (↑), Abu Qurqas (↗), Assiut (↘)Depends on: Dicastery for the Eastern ChurchesHistory2022.09.23: Established as Diocese of Al Qusia / Cusan(us) (Latin) (from Diocese of Assiut and became suffragan of Alexandria)Present PrelatesBishop (2023.03.31 – ...):Bishop Morqos Thomas Esam William Bolos Faragalla (59)OrdinariesBishops of Al Qusia (Coptic Rite)Bishop Morqos Thomas Esam William Bolos Faragalla (59)  (2023.03.31 – ...)Bishop of Al Qusia of the Copts (Egypt)Born:1967.04.15 (Al Qusia, Egypt)Ordained Priest:1995.01.04Consecrated Bishop:2023.05.25Priest of Assiut of the Copts (Egypt) (1995.01.04 – 2023.03.31)Bishop of Al Qusia of the Copts (Egypt) (2023.03.31 – ...)Bishop Basilios Fawzy Al-Dabe (69)  (Patriarchal Administrator 2022.09.23 – 2023.03.31)Special ChurchesCathedral:  Cathédrale du Sacré-Cœur, El Quseyya, Asyut Show MapMinya (↑), Abu Qurqas (↗), Assiut (↘)Statistics (2022.12.31)Population: 29,200 CatholicsPastoral Centres: 14 parishesPersonnel: 22 priests (17 diocesan, 5 religious), 25 religious (9 brothers, 16 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "alqu1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 17,
+    "pretres_religieux": null,
+    "total_pretres": 22,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "gh-goas0",
+  "nom": "Goaso",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Goaso / Goasonen(sis) (Latin)Ecclesiastical Province: KumasiNeighbouring Dioceses: Sunyani (↑), Techiman (↗), Kumasi (→), Wiawso (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint Anthony of PaduaLiturgical Calendar (Universal) 📅History1997.10.24: Established as Diocese of Goaso / Goasonen(sis) (Latin) (from Diocese of Sunyani and became suffragan of Cape Coast)2001.12.22: Became suffragan of KumasiPresent PrelatesBishop (1997.10.24 – ...):Bishop Peter Kwaku Atuahene (69)Monsignors (3)OrdinariesBishops of Goaso (Roman Rite)Bishop Peter Kwaku Atuahene (69)  (1997.10.24 – ...)Bishop of Goaso (Ghana)Non in robore sed in spiritu DeiBorn:1956.09.25 (Brosankro, Ghana)Ordained Priest:1986.07.12Consecrated Bishop:1998.01.06Priest of Sunyani (Ghana) (1986.07.12 – 1997.10.24)Bishop of Goaso (Ghana) (1997.10.24 – ...)Special ChurchesCathedral:  Cathedral of St. Anthony of Padua, Goaso, Ahafo Show MapSunyani (↑), Techiman (↗), Kumasi (→), Wiawso (↓)Statistics (2022.12.31)Area: 6,654 km²Population: 63,533 Catholics (7.9% of 805,180 total)Pastoral Centres: 33 parishes, 34 missionsPersonnel: 65 priests (57 diocesan, 8 religious), 83 religious (8 brothers, 75 sisters), 35 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "goas0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 805180,
+    "catholiques": 63533,
+    "pourcentage_catholiques": 7.9
+  },
+  "ressources": {
+    "pretres_diocesains": 57,
+    "pretres_religieux": null,
+    "total_pretres": 65,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

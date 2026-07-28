@@ -1,0 +1,29 @@
+{
+  "id": "ph-nava0",
+  "nom": "Naval",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Naval / Navalien(sis) (Latin)Ecclesiastical Province: PaloNeighbouring Dioceses: Masbate (↖), Calbayog (↗), Palo (↘)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Our Lady of the Most Holy Rosary, Saint Francis of Assisi (October 4)Liturgical Calendar (National) 📅History1988.11.29: Established as Diocese of Naval / Navalien(sis) (Latin) (from Metropolitan Archdiocese of Palo and became suffragan of Palo)Present PrelatesBishop (2017.10.13 – ...):Bishop Rex Cullingham Ramirez (58)Monsignors (3)OrdinariesBishops of Naval (Roman Rite)Bishop Rex Cullingham Ramirez (58)  (2017.10.13 – ...)Bishop of Naval (Philippines)In spiritu et veritateBorn:1967.12.15 (Balangiga, Philippines)Ordained Priest:1995.03.27Consecrated Bishop:2018.01.09Priest of Palo (Philippines) (1995.03.27 – 2017.10.13)Bishop of Naval (Philippines) (2017.10.13 – ...)Bishop Filomeno Gonzales Bactol (86)  (1988.11.29 – 2017.10.13)Bishop emeritus of Naval (Philippines)Ad JesumBorn:1939.11.29 (Carigara, Philippines)Ordained Priest:1968.04.06Consecrated Bishop:1981.10.15Priest of Palo (Philippines) (1968.04.06 – 1981.07.29)Titular Bishop of Germaniciana (1981.07.29 – 1988.11.29)Auxiliary Bishop of Palo (Philippines) (1981.07.29 – 1988.11.29)Bishop of Naval (Philippines) (1988.11.29 – 2017.10.13)Special ChurchesCathedral:  Cathedral of Our Lady of the Most Holy Rosary, Naval, Biliran, Eastern Visayas Jubilee Churches in the Holy Year 2025Churches by City (16)Show MapMasbate (↖), Calbayog (↗), Palo (↘)Statistics (2022.12.31)Area: 1,162 km²Population: 336,713 Catholics (86.3% of 390,228 total)Pastoral Centres: 15 parishesPersonnel: 35 priests (28 diocesan, 7 religious), 60 religious (14 brothers, 46 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nava0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 390228,
+    "catholiques": 336713,
+    "pourcentage_catholiques": 86.3
+  },
+  "ressources": {
+    "pretres_diocesains": 28,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

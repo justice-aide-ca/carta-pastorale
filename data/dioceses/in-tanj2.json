@@ -1,0 +1,29 @@
+{
+  "id": "in-tanj2",
+  "nom": "Tanjung Selor",
+  "pays": "in",
+  "pays_nom": "Indonesia",
+  "continent": "unknown",
+  "type": "Diocese Name: Tanjung Selor / Tanjungseloren(sis) (Latin)Ecclesiastical Province: SamarindaNeighbouring Dioceses: Sibu (←), Keningau (↖), Kota Kinabalu (↖), Sandakan (↑), Samarinda (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2001.12.22: Established as Diocese of Tanjung Selor / Tanjungseloren(sis) (Latin) (from Diocese of Samarinda and became suffragan of Pontianak)2003.01.29: Became suffragan of SamarindaPresent PrelatesBishop (2018.02.22 – ...):Bishop Paulinus Yan Olla, M.S.F. (63)OrdinariesBishops of Tanjung Selor (Roman Rite)Bishop Paulinus Yan Olla, M.S.F. (63)  (2018.02.22 – ...)Bishop of Tanjung Selor (Indonesia)Servus veritatisBorn:1963.06.22 (Seom-Eban, Timor-Leste)Ordained Priest:1992.08.28Consecrated Bishop:2018.05.05Bishop of Tanjung Selor (Indonesia) (2018.02.22 – ...)Bishop Justinus Harjosusanto, M.S.F. (72) (later Archbishop)  (2001.12.22 – 2015.02.16)Metropolitan Archbishop of Samarinda (Indonesia)Fiat voluntas tuaBorn:1953.09.05 (Muntilan, Jawa Tengah, Indonesia)Ordained Priest:1982.01.06Consecrated Bishop:2002.04.14Bishop of Tanjung Selor (Indonesia) (2001.12.22 – 2015.02.16)Second Vice-President of Episcopal Conference of Indonesia (2015 – 2018.11.13)Metropolitan Archbishop of Samarinda (Indonesia) (2015.02.16 – ...)Vice-President of Episcopal Conference of Indonesia (2018.11.13 – 2022.11.17)Special ChurchesCathedral:  Katedral Santa Maria Assumpta, Tanjung Selor, Kalimantan Utara, Kalimantan Churches by City (16)Show MapSibu (←), Keningau (↖), Kota Kinabalu (↖), Sandakan (↑), Samarinda (↓)Statistics (2022.12.31)Area: 96,630 km²Population: 54,479 Catholics (5.6% of 969,650 total)Pastoral Centres: 15 parishes, 1 missionPersonnel: 39 priests (10 diocesan, 29 religious), 82 religious (42 brothers, 40 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tanj2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 969650,
+    "catholiques": 54479,
+    "pourcentage_catholiques": 5.6
+  },
+  "ressources": {
+    "pretres_diocesains": 10,
+    "pretres_religieux": null,
+    "total_pretres": 39,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

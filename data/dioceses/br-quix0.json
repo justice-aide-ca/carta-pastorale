@@ -1,0 +1,29 @@
+{
+  "id": "br-quix0",
+  "nom": "Quixadá",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Quixadá / Quixaden(sis) (Latin)Ecclesiastical Province: FortalezaNeighbouring Dioceses: Crateús (←), Sobral (↖), Baturité (↑), Fortaleza (↗), Limoeiro do Norte (→), Iguatu (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1971.03.13: Established as Diocese of Quixadá / Quixaden(sis) (Latin) (from Metropolitan Archdiocese of Fortaleza and became suffragan of Fortaleza)Present PrelatesBishop (2023.05.10 – ...):Bishop Aurélio Pinto de Sousa (51)Monsignors (1)OrdinariesBishops of Quixadá (Roman Rite)Bishop Aurélio Pinto de Sousa (51)  (2023.05.10 – ...)Bishop of Quixadá (Brazil)Pascite gregem DeiBorn:1974.11.12 (Guaraciaba do Norte, CE, Brazil)Ordained Priest:2007.07.12Consecrated Bishop:2023.07.15Priest of Tianguá (Brazil) (2007.07.12 – 2023.05.10)Bishop of Quixadá (Brazil) (2023.05.10 – ...)Bishop Ângelo Pignoli (79)  (2007.01.03 – 2021.12.15)Bishop emeritus of Quixadá (Brazil)Veritas liberabit vosBorn:1946.12.04 (Cappella Picenardi, Italy)Ordained Priest:1976.03.19Consecrated Bishop:2007.03.11Priest of Franca (Brazil) (1976.03.19 – 2007.01.03)Bishop of Quixadá (Brazil) (2007.01.03 – 2021.12.15)Bishop Adélio Giuseppe Tomasin, P.S.D.P.  (1988.03.16 – 2007.01.03)Quærite Primum Regnum DeiBorn:1930.04.27 (Montegaldella, Italy)Ordained Priest:1955.03.26Consecrated Bishop:1988.03.26Died:2024.09.30 (Quixadá, CE, Brazil † 94)Superior General of Poor Servants of Divine Providence (1972 – 1984)Bishop of Quixadá (Brazil) (1988.03.16 – 2007.01.03)Bishop Joaquim Rufino do Rêgo  (1971.04.21 – 1986.03.25)In caritate ChristiBorn:1926.01.14 (Picos, PI, Brazil)Ordained Priest:1952.10.05Consecrated Bishop:1971.07.04Died:2013.08.10 (Teresina, PI, Brazil † 87)Bishop of Quixadá (Brazil) (1971.04.21 – 1986.03.25)Bishop of Parnaíba (Brazil) (1986.03.25 – 2001.02.21)Special ChurchesCathedral:  Catedral Jesus, Maria, José, Quixadá, Ceará Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (26)Show MapCrateús (←), Sobral (↖), Baturité (↑), Fortaleza (↗), Limoeiro do Norte (→), Iguatu (↓)Statistics (2022.12.31)Area: 13,874 km²Population: 344,000 Catholics (97.2% of 354,000 total)Pastoral Centres: 22 parishes, 2 missionsPersonnel: 44 priests (40 diocesan, 4 religious), 48 religious (10 brothers, 38 sisters), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "quix0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 354000,
+    "catholiques": 344000,
+    "pourcentage_catholiques": 97.2
+  },
+  "ressources": {
+    "pretres_diocesains": 40,
+    "pretres_religieux": null,
+    "total_pretres": 44,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

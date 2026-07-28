@@ -1,0 +1,29 @@
+{
+  "id": "va-pvil0",
+  "nom": "Port-Vila",
+  "pays": "va",
+  "pays_nom": "Vanuatu",
+  "continent": "oceanie",
+  "type": "Diocese Name: Port-Vila / Portus Vilen(sis) (Latin)Ecclesiastical Province: NouméaNeighbouring Dioceses: Honiara (↖), Auki (↖), Suva (→), Nouméa (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1901.02.09: Established as Apostolic Prefecture of New Hebrides / Isole Nouve Ebridi (Italiano) (from Apostolic Vicariate of Nouvelle-Calédonie)1904.03.22: Promoted as Apostolic Vicariate of New Hebrides / Isole Nouve Ebridi (Italiano)1966.06.21: Promoted as Diocese of Port-Vila / Portus Vilen(sis) (Latin) (became suffragan of Nouméa)Present PrelatesBishop (2009.11.18 – ...):Bishop Jean Bosco Baremes, S.M. (65)OrdinariesBishops of Port-Vila (Roman Rite)Bishop Jean Bosco Baremes, S.M. (65)  (2009.11.18 – ...)Bishop of Port-Vila (Vanuatu)Chemin vers le PèreBorn:1960.08.30 (Han, Isola Carteret, Papua New Guinea)Ordained Priest:1987.12.04Consecrated Bishop:2010.02.14Bishop of Port-Vila (Vanuatu) (2009.11.18 – ...)Bishop Michel Visi  (1996.11.30 – 2007.05.19)Born:1954.10.24 (Ningfire, Vanuatu)Ordained Priest:1982.12.15Consecrated Bishop:1997.04.12Died:2007.05.19 (Port-Vila, Vanuatu † 52)Priest of Port-Vila (Vanuatu) (1982.12.15 – 1996.11.30)Bishop of Port-Vila (Vanuatu) (1996.11.30 – 2007.05.19)Bishop Francis-Roland Lambert, S.M.  (1976.12.31 – 1996.11.30)Born:1921.02.07 (Lawrence, MA, USA)Ordained Priest:1946.06.29Consecrated Bishop:1977.03.20Died:1997.10.22 (Tampa, FL, USA † 76)Bishop of Port-Vila (Vanuatu) (1976.12.31 – 1996.11.30)President of Episcopal Conference of the Pacific (1987 – 1991)Archbishop Pierre-Paul-Émile Martin, S.M.  (Apostolic Administrator 1976.05.21 – 1976.12.31)Bishop Louis-Jean-Baptiste-Joseph Julliard, S.M.  (1966.06.21 – 1976.05.21)Born:1912.03.13 (Coubon, France)Ordained Priest:1930.03.28Consecrated Bishop:1955.08.07Died:1984.02.13 († 71)Titular Bishop of Vulturia (1955.01.01 – 1966.06.21)Vicar Apostolic of New Hebrides (Vanuatu) (1955.01.01 – 1966.06.21)Bishop of Port-Vila (Vanuatu) (1966.06.21 – 1976.05.21)Vicars Apostolic of New Hebrides (Roman Rite)Bishop Louis-Jean-Baptiste-Joseph Julliard, S.M.  (1955.01.01 – 1966.06.21)(see above)Bishop Jules Halbert, S.M.  (1939.07.11 – 1954.12)Born:1886.02.07 (Landreau, France)Ordained Priest:1911.06.29Consecrated Bishop:1939.12.10Died:1955.02.04 († 68)Vicar Apostolic of New Hebrides (Vanuatu) (1939.07.11 – 1954.12)Titular Bishop of Archelaïs (1939.07.11 – 1955.02.04)Bishop Isidore-Marie-Victor Douceré, S.M.  (1904.03.22 – 1939.05.12)Born:1857.04.03 (Evran, France)Ordained Priest:1881Consecrated Bishop:1904.07.10Died:1939.05.12 († 82)Prefect Apostolic of New Hebrides (Vanuatu) (1901.02.09 – 1904.03.22)Titular Bishop of Terenuthis (1904.03.22 – 1939.05.12)Vicar Apostolic of New Hebrides (Vanuatu) (1904.03.22 – 1939.05.12)Prefects Apostolic of New Hebrides (Roman Rite)Fr. Isidore-Marie-Victor Douceré, S.M. (later Bishop)  (1901.02.09 – 1904.03.22)(see above)Special ChurchesCathedral:  Cathédrale du Sacré-Cœur, Port-Vila Churches by City (19)Show MapHoniara (↖), Auki (↖), Suva (→), Nouméa (↓)Statistics (2022.12.31)Area: 11,870 km²Population: 48,600 Catholics (15.2% of 319,000 total)Pastoral Centres: 20 parishes, 35 missionsPersonnel: 29 priests (20 diocesan, 9 religious), 100 religious (48 brothers, 52 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pvil0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 319000,
+    "catholiques": 48600,
+    "pourcentage_catholiques": 15.2
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 29,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

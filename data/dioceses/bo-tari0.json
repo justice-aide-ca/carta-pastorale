@@ -1,0 +1,29 @@
+{
+  "id": "bo-tari0",
+  "nom": "Tarija",
+  "pays": "bo",
+  "pays_nom": "Bolivia",
+  "continent": "amerique",
+  "type": "Diocese Name: Tarija / Tariien(sis) (Latin)Ecclesiastical Province: SucreNeighbouring Dioceses: Humahuaca (↙), Potosí (↖), Sucre (↑), Camiri (↗), Orán (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsCathedral Dedication Anniversary: July 24Liturgical Calendar (National) 📅History1924.11.11: Established as Diocese of Tarija / Tariien(sis) (Latin) (from Metropolitan Archdiocese of La Plata and became suffragan of Sucre)Present PrelatesBishop (2019.10.11 – ...):Bishop Jorge Ángel Saldías Pedraza, O.P. (57)Monsignors (3)OrdinariesBishops of Tarija (Roman Rite)Bishop Jorge Ángel Saldías Pedraza, O.P. (57)  (2019.10.11 – ...)Bishop of Tarija (Bolivia)Respice stellam voca MariamBorn:1968.08.13 (Buena Vista-La Arboleda, Bolivia)Ordained Priest:2001.05.25Consecrated Bishop:2014.06.05Titular Bishop of Phelbes (2014.03.25 – 2019.10.11)Auxiliary Bishop of La Paz (Bolivia) (2014.03.25 – 2019.10.11)Bishop of Tarija (Bolivia) (2019.10.11 – ...)Bishop Francisco Javier del Río Sendino (84)  (2006.01.10 – 2019.10.11)Bishop emeritus of Tarija (Bolivia)Gloria Dei homo vivensBorn:1942.01.22 (Palencia, Spain)Ordained Priest:1965.06.29Consecrated Bishop:2006.03.30Priest of Palencia (Spain) (1965.06.29 – 2006.01.10)Bishop of Tarija (Bolivia) (2006.01.10 – 2019.10.11)Bishop Adhemar Esquivel Kohenque  (1995.10.20 – 2004.06.02)Born:1929.04.22 (Campolican, Bolivia)Ordained Priest:1960.10.30Consecrated Bishop:1969.01.06Died:2013.07.17 († 84)Titular Bishop of Cerveteri (1968.11.11 – 1992.11.10)Auxiliary Bishop of La Paz (Bolivia) (1968.11.11 – 1992.11.10)Coadjutor Bishop of Tarija (Bolivia) (1992.11.10 – 1995.10.20)Bishop of Tarija (Bolivia) (1995.10.20 – 2004.06.02)Bishop Abel Costas Montaño  (1974.12.11 – 1995.10.20)Born:1920.05.25 (Pocona, Bolivia)Ordained Priest:1945.09.22Consecrated Bishop:1969.01.06Died:2015.02.11 († 94)Titular Bishop of Novi (1968.11.11 – 1974.12.11)Auxiliary Bishop of Cochabamba (Bolivia) (1968.11.11 – 1974.12.11)Bishop of Tarija (Bolivia) (1974.12.11 – 1995.10.20)Bishop Juan Niccolai, O.F.M.  (1947.08.16 – 1974)Born:1898.03.16 (Chiazzano, Italy)Ordained Priest:1922.08.13Consecrated Bishop:1944.05.28Died:1976.08.18 († 78)Titular Bishop of Rhandus (1944.02.20 – 1947.08.16)Coadjutor Bishop of Tarija (Bolivia) (1944.02.20 – 1947.08.16)Bishop of Tarija (Bolivia) (1947.08.16 – 1974)Bishop Ramón Font y Farrés, C.M.F.  (1924.11.17 – 1947.08.16)Born:1874.02.20 (Rupit, Spain)Ordained Priest:1901.09.21Consecrated Bishop:1925.03.15Died:1947.08.16 († 73)Bishop of Tarija (Bolivia) (1924.11.17 – 1947.08.16)Former PrelatesCoadjutor Bishop: Bishop Adhemar Esquivel Kohenque (1992.11.10 – 1995.10.20)Coadjutor Bishop: Bishop Juan Niccolai, O.F.M. (1944.02.20 – 1947.08.16)Special ChurchesCathedral:  Catedral de San Bernardo, Tarija, Tarija Show MapHumahuaca (↙), Potosí (↖), Sucre (↑), Camiri (↗), Orán (↓)Statistics (2022.12.31)Area: 20,192 km²Population: 490,290 Catholics (93.4% of 524,730 total)Pastoral Centres: 22 parishes, 14 missionsPersonnel: 44 priests (27 diocesan, 17 religious), 90 religious (18 brothers, 72 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tari0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 524730,
+    "catholiques": 490290,
+    "pourcentage_catholiques": 93.4
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 44,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

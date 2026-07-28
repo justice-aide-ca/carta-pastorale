@@ -1,0 +1,29 @@
+{
+  "id": "br-jale0",
+  "nom": "Jales",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Jales / Ialespolitan(us) (Latin)Ecclesiastical Province: São José do Rio PretoNeighbouring Dioceses: Três Lagoas (↙), Ituiutaba (↗), Votuporanga (→), Araçatuba (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1959.12.12: Established as Diocese of Jales / Ialespolitan(us) (Latin) (from Diocese of Rio Preto and became suffragan of Ribeirão Preto)2016.07.20: Lost territory to establish Diocese of Votuporanga2025.05.22: Became suffragan of São José do Rio PretoPresent PrelatesBishop (2015.10.21 – ...):Bishop José Reginaldo Andrietta (69)OrdinariesBishops of Jales (Roman Rite)Bishop José Reginaldo Andrietta (69)  (2015.10.21 – ...)Bishop of Jales (Brazil)A serviço do bem comumBorn:1957.03.07 (Pirassununga, SP, Brazil)Ordained Priest:1983.03.18Consecrated Bishop:2015.12.27Priest of Limeira (Brazil) (1983.03.18 – 2015.10.21)Bishop of Jales (Brazil) (2015.10.21 – ...)Bishop Luiz Demétrio Valentini (86)  (1982.06.08 – 2015.10.21)Bishop emeritus of Jales (Brazil)Venho para ServirBorn:1940.01.31 (São Valentim, RS, Brazil)Ordained Priest:1965.02.06Consecrated Bishop:1982.07.31Bishop of Jales (Brazil) (1982.06.08 – 2015.10.21)Bishop Luíz Eugênio Pérez  (1970.03.09 – 1981.06.07)Todos Sois IrmãosBorn:1928.05.05 (Orlandia, SP, Brazil)Ordained Priest:1954.12.08Consecrated Bishop:1970.06.11Died:2012.11.14 (Cavite, Philippines † 84)Bishop of Jales (Brazil) (1970.03.09 – 1981.06.07)Bishop of Jaboticabal (Brazil) (1981.06.07 – 2003.06.25)Bishop Arturo Gerrit João Hermanus Maria Horsthuis, A.A.  (1960.02.13 – 1968.11.07)Born:1912.07.17 (Diepenveen, Netherlands)Ordained Priest:1939.02.26Consecrated Bishop:1960.06.29Died:1979.04.11 (Boxtel, Netherlands † 66)Bishop of Jales (Brazil) (1960.02.13 – 1968.11.07)Titular Bishop of Hippo Diarrhytus (1968.11.07 – 1971.03.16)Special ChurchesCathedral:  Catedral Nossa Senhora da Assunção, Jales, São Paulo Jubilee Churches in the Holy Year 2025Churches by City (51)Show MapTrês Lagoas (↙), Ituiutaba (↗), Votuporanga (→), Araçatuba (↓)Statistics (2022.12.31)Area: 12,788 km²Population: 305,000 Catholics (80.7% of 377,830 total)Pastoral Centres: 29 parishes, 25 missionsPersonnel: 45 priests (43 diocesan, 2 religious), 1 deacon, 13 religious (6 brothers, 7 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jale0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 377830,
+    "catholiques": 305000,
+    "pourcentage_catholiques": 80.7
+  },
+  "ressources": {
+    "pretres_diocesains": 43,
+    "pretres_religieux": null,
+    "total_pretres": 45,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

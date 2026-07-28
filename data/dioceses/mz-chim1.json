@@ -1,0 +1,29 @@
+{
+  "id": "mz-chim1",
+  "nom": "Chimoio",
+  "pays": "mz",
+  "pays_nom": "Mozambique",
+  "continent": "unknown",
+  "type": "Diocese Name: Chimoio / Cimoian(us) (Latin)Ecclesiastical Province: BeiraNeighbouring Dioceses: Mutare (←), Caia (↗), Beira (→), Inhambane (↘), Xai-Xai (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Maria ImaculadaCathedral Dedication Anniversary: December 8Liturgical Calendar (Universal) 📅History1990.11.19: Established as Diocese of Chimoio / Cimoian(us) (Latin) (from Metropolitan Archdiocese of Beira and became suffragan of Beira)2025.12.23: Lost territory to establish Diocese of CaiaPresent PrelatesBishop (2025.12.17 – ...):Bishop Lucio Andrice Muandula (66)First Vice-President of Symposium of Episcopal Conferences of Africa and MadagascarOrdinariesBishops of Chimoio (Roman Rite)Bishop Lucio Andrice Muandula (66)  (2025.12.17 – ...)Bishop of Chimoio (Mozambique)First Vice-President of Symposium of Episcopal Conferences of Africa and MadagascarBorn:1959.10.09 (Maputo, Mozambique)Ordained Priest:1989.05.14Consecrated Bishop:2004.10.24Priest of Maputo (Mozambique) (1989.05.14 – 2004.06.24)Bishop of Xai-Xai (Mozambique) (2004.06.24 – 2025.12.17)President of Episcopal Conference of Mozambique (2009 – 2015.11.10)President of Inter-Regional Meeting of Bishops of Southern Africa (2016.11 – 2022.09.26)President of Episcopal Conference of Mozambique (2018.11.11 – 2021.11.12)Second Vice-President of Symposium of Episcopal Conferences of Africa and Madagascar (2019.07.19 – 2023.02.15)First Vice-President of Symposium of Episcopal Conferences of Africa and Madagascar (2023.02.15 – ...)Bishop of Chimoio (Mozambique) (2025.12.17 – ...)Bishop João Carlos Hatoa Nunes (58) (later Archbishop)  (2017.01.02 – 2022.11.15)Metropolitan Archbishop of Maputo (Mozambique)Vice-President of Episcopal Conference of MozambiqueBorn:1968.03.08 (Beira, Mozambique)Ordained Priest:1995.07.17Consecrated Bishop:2011.07.10Priest of Maputo (Mozambique) (1995.07.17 – 2011.05.25)Titular Bishop of Amudarsa (2011.05.25 – 2017.01.02)Auxiliary Bishop of Maputo (Mozambique) (2011.05.25 – 2017.01.02)General Secretary of Episcopal Conference of Mozambique (2012 – 2015)Apostolic Administrator of Beira (Mozambique) (2012.01.14 – 2012.06.29)General Secretary of Episcopal Conference of Mozambique (2015.11.10 – 2018.11.11)Bishop of Chimoio (Mozambique) (2017.01.02 – 2022.11.15)Vice-President of Episcopal Conference of Mozambique (2021.11.12 – ...)Coadjutor Archbishop of Maputo (Mozambique) (2022.11.15 – 2023.05.05)Metropolitan Archbishop of Maputo (Mozambique) (2023.05.05 – ...)Bishop Francisco João Silota, M. Afr. (85)  (1990.11.19 – 2017.01.02)Bishop emeritus of Chimoio (Mozambique)Born:1941.06.17 (Zuoya, Mozambique)Ordained Priest:1974.08.11Consecrated Bishop:1988.06.26Titular Bishop of Musti (1988.01.18 – 1990.11.19)Auxiliary Bishop of Beira (Mozambique) (1988.01.18 – 1990.11.19)Bishop of Chimoio (Mozambique) (1990.11.19 – 2017.01.02)President of Episcopal Conference of Mozambique (1993 – 2002)President of Inter-Regional Meeting of Bishops of Southern Africa (1995 – 2001)Special ChurchesCathedral:  Catedral de Maria Imaculada, Chimoio, Manica Show MapMutare (←), Caia (↗), Beira (→), Inhambane (↘), Xai-Xai (↓)Statistics (2025)Area: 57,989 km²Population: 89,702 Catholics (4.1% of 2,204,868 total)Pastoral Centres: 20 parishesPersonnel: 51 priests (20 diocesan, 31 religious), 60 religious (7 brothers, 53 sisters), 29 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chim1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2204868,
+    "catholiques": 89702,
+    "pourcentage_catholiques": 4.1
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 51,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

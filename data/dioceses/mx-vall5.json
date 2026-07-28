@@ -1,0 +1,29 @@
+{
+  "id": "mx-vall5",
+  "nom": "Valle de Chalco",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Valle de Chalco / Vallis Chalcen(sis) (Latin)Ecclesiastical Province: TlalnepantlaNeighbouring Dioceses: Xochimilco (←), Nezahualcóyotl (↑), Puebla de los Ángeles (→), Cuernavaca (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2003.07.08: Established as Diocese of Valle de Chalco / Vallis Chalcen(sis) (Latin) (from Diocese of Nezahualcóyotl and became suffragan of Tlalnepantla)Contact InfoAddress: Alzate #10, Col. Centro, 56600 - Chalco, Mex., MexicoPhone: (55) 59-73-13-79Present PrelatesBishop (2012.10.25 – ...):Bishop Víctor René Rodríguez Gómez (75)Monsignors (1)OrdinariesBishops of Valle de Chalco (Roman Rite)Bishop Víctor René Rodríguez Gómez (75)  (2012.10.25 – ...)Bishop of Valle de Chalco (Mexico)Verbum caroBorn:1950.11.17 (San Martín de las Pirámides, Mexico)Ordained Priest:1976.11.21Consecrated Bishop:2006.07.25Priest of Texcoco (Mexico) (1976.11.21 – 2006.05.13)Titular Bishop of Tiburnia (2006.05.13 – 2012.10.25)Auxiliary Bishop of Texcoco (Mexico) (2006.05.13 – 2012.10.25)General Secretary of Conferencia del Episcopado Mexicano (C.E.M.) (2009 – 2012)Bishop of Valle de Chalco (Mexico) (2012.10.25 – ...)Bishop Luis Artemio Flores Calzada (77)  (2003.07.08 – 2012.03.30)Bishop emeritus of Tepic (Mexico)Urge que Cristo reineBorn:1949.04.28 (San Antonio Tultitlán, Mexico)Ordained Priest:1974.10.17Consecrated Bishop:2003.09.08Priest of Texcoco (Mexico) (1974.10.17 – 2003.07.08)Bishop of Valle de Chalco (Mexico) (2003.07.08 – 2012.03.30)Bishop of Tepic (Mexico) (2012.03.30 – 2025.08.28)Special ChurchesCathedral:  Catedral de San Juan Diego, Chalco de Díaz Covarrubias, México Show MapXochimilco (←), Nezahualcóyotl (↑), Puebla de los Ángeles (→), Cuernavaca (↓)Statistics (2022.12.31)Area: 1,237 km²Population: 2,592,000 Catholics (88.1% of 2,942,000 total)Pastoral Centres: 57 parishes, 12 missionsPersonnel: 90 priests (74 diocesan, 16 religious), 5 deacons, 144 religious (17 brothers, 127 sisters), 13 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vall5",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2942000,
+    "catholiques": 2592000,
+    "pourcentage_catholiques": 88.1
+  },
+  "ressources": {
+    "pretres_diocesains": 74,
+    "pretres_religieux": null,
+    "total_pretres": 90,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 57
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "et-emde0",
+  "nom": "Emdeber",
+  "pays": "et",
+  "pays_nom": "Ethiopia",
+  "continent": "unknown",
+  "type": "Diocese Name: Emdeber / Emdibir / Indibir / Emdeberen(sis) (Latin)Ecclesiastical Province: Addis AbebaNeighbouring Dioceses: Jimma–Bonga (↙), Nekemte (↖), Addis Abeba (↗), Meki (→), Hosanna (↓)Depends on: Dicastery for the Eastern ChurchesHistory2003.11.25: Established as Diocese of Emdeber / Emdibir / Indibir / Emdeberen(sis) (Latin) (from Metropolitanate sui juris of Addis Abeba and became suffragan of Addis Abeba)Present PrelatesBishop (2024.08.23 – ...):Bishop Lukas Teshome Fikre Woldetensae (54)OrdinariesBishops of Emdeber (Ethiopic Rite)Bishop Lukas Teshome Fikre Woldetensae (54)  (2024.08.23 – ...)Bishop of Emdeber of the Ethiopics (Ethiopia)Born:1972.06.06 (Guraghe, Ethiopia)Ordained Priest:1998.01.11Consecrated Bishop:2024.02.11Priest of Addis Abeba of the Ethiopics (Ethiopia) (1998.01.11 – 2003.11.25)Priest of Emdeber of the Ethiopics (Ethiopia) (2003.11.25 – 2023.12.16)General Secretary of Interritual Episcopal Conference of Ethiopia (2019.06.11 – 2024.06)Coadjutor Bishop of Emdeber of the Ethiopics (Ethiopia) (2023.12.16 – 2024.08.23)Bishop of Emdeber of the Ethiopics (Ethiopia) (2024.08.23 – ...)Bishop Musiè Ghebreghiorghis, O.F.M. Cap. (76)  (2003.11.25 – 2024.08.23)Bishop emeritus of Emdeber of the Ethiopics (Ethiopia)Born:1949.07.26 (Aderho, Eritrea)Ordained Priest:1976.06.13Consecrated Bishop:2004.02.08Bishop of Emdeber of the Ethiopics (Ethiopia) (2003.11.25 – 2024.08.23)Former PrelatesCoadjutor Bishop: Bishop Lukas Teshome Fikre Woldetensae (54) (2023.12.16 – 2024.08.23)Special ChurchesCathedral:  St. Anthony Cathedral, Emdibir Show MapJimma–Bonga (↙), Nekemte (↖), Addis Abeba (↗), Meki (→), Hosanna (↓)Statistics (2022.12.31)Area: 12,000 km²Population: 27,020 Catholics (0.6% of 4,159,278 total)Pastoral Centres: 25 parishesPersonnel: 29 priests (18 diocesan, 11 religious), 71 religious (11 brothers, 60 sisters), 9 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "emde0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4159278,
+    "catholiques": 27020,
+    "pourcentage_catholiques": 0.6
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 29,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

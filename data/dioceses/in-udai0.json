@@ -1,0 +1,29 @@
+{
+  "id": "in-udai0",
+  "nom": "Udaipur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Udaipur / Udaipuren(sis) (Latin)Ecclesiastical Province: AgraNeighbouring Dioceses: Gandhinagar (↙), Ajmer (↑), Jhabua (↘), Baroda (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady Queen of Apostles, Saint Paul of TarsusLiturgical Calendar (National) 📅History1984.12.03: Established as Diocese of Udaipur / Udaipuren(sis) (Latin) (from Diocese of Ajmer–Jaipur and became suffragan of Agra)2002.03.01: Lost territory to establish Diocese of JhabuaPresent PrelatesBishop (2012.12.21 – ...):Bishop Devprasad John Ganawa, S.V.D. (74)OrdinariesBishops of Udaipur (Roman Rite)Bishop Devprasad John Ganawa, S.V.D. (74)  (2012.12.21 – ...)Bishop of Udaipur (India)The joy of hopeBorn:1951.12.08 (Panchkui, India)Ordained Priest:1982.10.27Consecrated Bishop:2009.06.16Bishop of Jhabua (India) (2009.05.11 – 2012.12.21)Apostolic Administrator of Jhabua (India) (2012.12.21 – 2015.07.18)Bishop of Udaipur (India) (2012.12.21 – ...)Bishop Joseph Pathalil  (1984.12.03 – 2012.12.21)Deus adjuva meBorn:1937.01.26 (Nedumkunnam, India)Ordained Priest:1963.09.21Consecrated Bishop:1985.02.14Died:2022.04.14 (Udaipur, India † 85)Priest of Ajmer–Jaipur (India) (1963.09.21 – 1984.12.03)Bishop of Udaipur (India) (1984.12.03 – 2012.12.21)Special ChurchesCathedral:  Our Lady of Fatima Cathedral, Udaipur, Rājasthān Show MapGandhinagar (↙), Ajmer (↑), Jhabua (↘), Baroda (↓)Statistics (2022.12.31)Area: 47,397 km²Population: 27,957 Catholics (0.2% of 14,186,399 total)Pastoral Centres: 64 parishesPersonnel: 82 priests (57 diocesan, 25 religious), 261 religious (28 brothers, 233 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "udai0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 14186399,
+    "catholiques": 27957,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 57,
+    "pretres_religieux": null,
+    "total_pretres": 82,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 64
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

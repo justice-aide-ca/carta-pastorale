@@ -1,0 +1,29 @@
+{
+  "id": "cd-tshu0",
+  "nom": "Tshumbe",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Tshumbe / Tshumbeen(sis) (Latin)Ecclesiastical Province: KanangaNeighbouring Dioceses: Kananga (↙), Mweka (←), Kole (←), Kindu (→), Kabinda (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1936.05.18: Established as Apostolic Prefecture of Tshumbe / Tshumbeen(sis) (Latin) (from Apostolic Vicariate of Kasaï Supérieur)1947.03.13: Promoted as Apostolic Vicariate of Tshumbe / Tshumbeen(sis) (Latin)1951.06.14: Lost territory to establish Apostolic Prefecture of Kole1959.11.10: Promoted as Diocese of Tshumbe / Tshumbeen(sis) (Latin) (became suffragan of Luluabourg)Present PrelatesBishop (2022.06.11 – ...):Bishop Vincent Tshomba Shamba Kotsho (63)Monsignors (2)OrdinariesBishops of Tshumbe (Roman Rite)Bishop Vincent Tshomba Shamba Kotsho (63)  (2022.06.11 – ...)Bishop of Tshumbe (Congo-Kinshasa)Born:1963.01.22 (Kinshasa, Congo-Kinshasa)Ordained Priest:1990.08.01Consecrated Bishop:2020.10.10Priest of Kinshasa (Congo-Kinshasa) (1990.08.01 – 2020.06.29)Titular Bishop of Œscus (2020.06.29 – 2022.06.11)Auxiliary Bishop of Kinshasa (Congo-Kinshasa) (2020.06.29 – 2022.06.11)Bishop of Tshumbe (Congo-Kinshasa) (2022.06.11 – ...)Bishop Nicolas Djomo Lola (82)  (1997.05.20 – 2022.06.11)Bishop emeritus of Tshumbe (Congo-Kinshasa)Ut unum sintBorn:1944.07.03 (Lushimapenge, Congo-Kinshasa)Ordained Priest:1972.08.20Consecrated Bishop:1997.11.09Priest of Tshumbe (Congo-Kinshasa) (1972.08.20 – 1997.05.20)Bishop of Tshumbe (Congo-Kinshasa) (1997.05.20 – 2022.06.11)President of Association of Episcopal Conferences of Central Africa (2002 – 2007.07)President of National Episcopal Conference of Congo (2008 – 2016.06.24)Bishop Albert Tshomba Yungu  (1968.04.09 – 1995.07.22)Ut vitam habeantBorn:1928.08.12 (Lodja, Congo-Kinshasa)Ordained Priest:1957.12.20Consecrated Bishop:1968.09.15Died:1997.01.09 († 68)Priest of Tshumbe (Congo-Kinshasa) (1957.12.20 – 1968.04.09)Bishop of Tshumbe (Congo-Kinshasa) (1968.04.09 – 1995.07.22)President of National Episcopal Conference of Congo (1975 – 1979)Bishop Joseph Augustin Hagendorens, C.P.  (1959.11.10 – 1968.04.09)Crucifixus salvetBorn:1894.04.15 (Mariekerke sur Escaut, Belgium)Ordained Priest:1921.01.02Consecrated Bishop:1947.05.01Died:1976.04.20 († 82)Prefect Apostolic of Tshumbe (Congo-Kinshasa) (1936 – 1947.03.13)Vicar Apostolic of Tshumbe (Congo-Kinshasa) (1947.03.13 – 1959.11.10)Titular Bishop of Caffa (1947.03.23 – 1959.11.10)Bishop of Tshumbe (Congo-Kinshasa) (1959.11.10 – 1968.04.09)Titular Bishop of Sicca Veneria (1968.04.09 – 1976.04.20)Vicars Apostolic of Tshumbe (Roman Rite)Bishop Joseph Augustin Hagendorens, C.P.  (1947.03.13 – 1959.11.10)(see above)Prefects Apostolic of Tshumbe (Roman Rite)Fr. Joseph Augustin Hagendorens, C.P. (later Bishop)  (1936 – 1947.03.13)(see above)Special ChurchesCathedral:  Cathédrale Sainte-Marie, Tshumbe, Sankuru Former Cathedral:  Ancienne cathédrale Sainte-Marie, Tshumbe, Sankuru Show MapKananga (↙), Mweka (←), Kole (←), Kindu (→), Kabinda (↓)Statistics (2022.12.31)Area: 60,000 km²Population: 494,000 Catholics (29.0% of 1,702,000 total)Pastoral Centres: 23 parishes, 4 missionsPersonnel: 99 priests (95 diocesan, 4 religious), 291 religious (27 brothers, 264 sisters), 62 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tshu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1702000,
+    "catholiques": 494000,
+    "pourcentage_catholiques": 29.0
+  },
+  "ressources": {
+    "pretres_diocesains": 95,
+    "pretres_religieux": null,
+    "total_pretres": 99,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

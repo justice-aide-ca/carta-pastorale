@@ -1,0 +1,29 @@
+{
+  "id": "ce-alin0",
+  "nom": "Alindao",
+  "pays": "ce",
+  "pays_nom": "Central African Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: Alindao / Alindaöen(sis) (Latin)Ecclesiastical Province: BanguiNeighbouring Dioceses: Bambari (↖), Bangassou (→), Molegbe (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2004.12.18: Established as Diocese of Alindao / Alindaöen(sis) (Latin) (from Diocese of Bangassou and became suffragan of Bangui)Present PrelatesBishop (2014.03.19 – ...):Bishop Cyr-Nestor Yapaupa (56)OrdinariesBishops of Alindao (Roman Rite)Bishop Cyr-Nestor Yapaupa (56)  (2014.03.19 – ...)Bishop of Alindao (Central African Republic)Christus ad gentesBorn:1970.02.26 (Bangassou, Central African Republic)Ordained Priest:2001.03.18Consecrated Bishop:2012.07.22Priest of Bangassou (Central African Republic) (2001.03.18 – 2004.12.18)Priest of Alindao (Central African Republic) (2004.12.18 – 2012.05.14)Coadjutor Bishop of Alindao (Central African Republic) (2012.05.14 – 2014.03.19)Bishop of Alindao (Central African Republic) (2014.03.19 – ...)Bishop Peter Marzinkowski, C.S.Sp.  (2004.12.18 – 2014.03.19)Omnes unumBorn:1939.03.19 (Leipzig, Germany)Ordained Priest:1966.07.21Consecrated Bishop:2005.04.03Died:2024.10.21 (Knechtsteden, Germany † 85)Bishop of Alindao (Central African Republic) (2004.12.18 – 2014.03.19)Former PrelatesCoadjutor Bishop: Bishop Cyr-Nestor Yapaupa (56) (2012.05.14 – 2014.03.19)Special ChurchesCathedral:  Cathédrale Sacré-Cœur, Alindao, Basse-Kotto Show MapBambari (↖), Bangassou (→), Molegbe (↓)Statistics (2022.12.31)Area: 17,604 km²Population: 90,252 Catholics (32.9% of 274,080 total)Pastoral Centres: 5 parishesPersonnel: 15 priests (13 diocesan, 2 religious), 5 religious (2 brothers, 3 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "alin0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 274080,
+    "catholiques": 90252,
+    "pourcentage_catholiques": 32.9
+  },
+  "ressources": {
+    "pretres_diocesains": 13,
+    "pretres_religieux": null,
+    "total_pretres": 15,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 5
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

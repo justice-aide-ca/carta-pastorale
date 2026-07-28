@@ -1,0 +1,29 @@
+{
+  "id": "co-dalo0",
+  "nom": "Daloa",
+  "pays": "co",
+  "pays_nom": "Cote d’Ivoire",
+  "continent": "unknown",
+  "type": "Diocese Name: Daloa / Dalaoaën(sis) (Latin)Ecclesiastical Province: GagnoaNeighbouring Dioceses: Man (←), Odienné (↖), Korhogo (↑), Katiola (↗), Bouaké (↗), Yamoussoukro (→), Gagnoa (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1940.04.09: Established as Apostolic Vicariate of Sassandra / Sassandren(sis) (Latin) (from Apostolic Vicariate of Costa d’Avorio)1955.09.14: Promoted as Diocese of Daloa / Dalaoaën(sis) (Latin) (became suffragan of Abidjan)1956.06.25: Lost territory to establish Diocese of Gagnoa1968.06.08: Lost territory to establish Diocese of Man1994.12.19: Lost territory to establish Diocese of Odienné and became suffragan of GagnoaPresent PrelatesBishop (2018.04.25 – ...):Bishop Marcellin Kouadio Yao (66)President of Catholic Bishops’ Conference of Côte d’IvoireOrdinariesBishops of Daloa (Roman Rite)Bishop Marcellin Kouadio Yao (66)  (2018.04.25 – ...)Bishop of Daloa (Cote d’Ivoire)President of Catholic Bishops’ Conference of Côte d’IvoireVeritas liberabit vosBorn:1960.01.10 (Vavoua, Cote d’Ivoire)Ordained Priest:1990.12.29Consecrated Bishop:2009.08.22Priest of Daloa (Cote d’Ivoire) (1990.12.29 – 2009.07.01)Bishop of Yamoussoukro (Cote d’Ivoire) (2009.07.01 – 2018.04.25)Bishop of Daloa (Cote d’Ivoire) (2018.04.25 – ...)President of Catholic Bishops’ Conference of Côte d’Ivoire (2023.06.04 – ...)Bishop Maurice Konan Kouassi (87)  (2005.03.22 – 2018.04.25)Bishop emeritus of Daloa (Cote d’Ivoire)In virtute spiritusBorn:1938 (Adjékro, Cote d’Ivoire)Ordained Priest:1965.06.05Consecrated Bishop:1995.04.23Bishop of Odienné (Cote d’Ivoire) (1994.12.19 – 2005.03.22)Bishop of Daloa (Cote d’Ivoire) (2005.03.22 – 2018.04.25)Bishop Pierre-Marie Coty  (1975.11.20 – 2005.03.22)Born:1927.11.22 (Anyama, Cote d’Ivoire)Ordained Priest:1955.07.19Consecrated Bishop:1976.01.04Died:2020.07.17 (Abidjan, Cote d’Ivoire † 92)Bishop of Daloa (Cote d’Ivoire) (1975.11.20 – 2005.03.22)Bishop Pierre-Eugène Rouanet, S.M.A.  (1956.07.04 – 1975.11.20)Born:1917.11.16 (Mazamet, France)Ordained Priest:1948.07.04Consecrated Bishop:1956.11.29Died:2012.02.04 (Montpellier, France † 94)Bishop of Daloa (Cote d’Ivoire) (1956.07.04 – 1975.11.20)Bishop Jean Marie Etrillard, S.M.A.  (1956.02.29 – 1956.07.04)Born:1900.08.06 (Temple, France)Ordained Priest:1925.06.29Consecrated Bishop:1956.05.31Died:1976.05.16 (Saint-Jacut-les-Pins, France † 75)Bishop of Daloa (Cote d’Ivoire) (1956.02.29 – 1956.07.04)Bishop of Gagnoa (Cote d’Ivoire) (1956.07.04 – 1971.03.11)Vicars Apostolic of Sassandra (Roman Rite)Bishop Alphonse Charles Kirmann, S.M.A.  (1940.04.09 – 1955.03.25)Born:1887.08.15 (Bischoffsheim, France)Ordained Priest:1910.07.10Consecrated Bishop:1940.09.22Died:1955.03.25 (Daloa, Cote d’Ivoire † 67)Titular Bishop of Assuras (1940.04.09 – 1955.03.25)Vicar Apostolic of Sassandra (Cote d’Ivoire) (1940.04.09 – 1955.03.25)Special ChurchesCathedral:  Cathédrale du Christ-Roi, Daloa, Sassandra-Marahoué Show MapMan (←), Odienné (↖), Korhogo (↑), Katiola (↗), Bouaké (↗), Yamoussoukro (→), Gagnoa (↘)Statistics (2022.12.31)Area: 22,637 km²Population: 859,000 Catholics (31.3% of 2,745,000 total)Pastoral Centres: 48 parishes, 7 missionsPersonnel: 103 priests (90 diocesan, 13 religious), 1 deacon, 66 religious (30 brothers, 36 sisters), 17 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "dalo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2745000,
+    "catholiques": 859000,
+    "pourcentage_catholiques": 31.3
+  },
+  "ressources": {
+    "pretres_diocesains": 90,
+    "pretres_religieux": null,
+    "total_pretres": 103,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 48
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

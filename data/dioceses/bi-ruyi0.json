@@ -1,0 +1,29 @@
+{
+  "id": "bi-ruyi0",
+  "nom": "Ruyigi",
+  "pays": "bi",
+  "pays_nom": "Burundi",
+  "continent": "unknown",
+  "type": "Diocese Name: Ruyigi / Ruyigen(sis) (Latin)Ecclesiastical Province: GitegaNeighbouring Dioceses: Rutana (↙), Gitega (←), Muyinga (↑), Rulenge–Ngara (↗), Kigoma (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1973.04.13: Established as Diocese of Ruyigi / Ruyigen(sis) (Latin) (from Metropolitan Archdiocese of Gitega and Diocese of Bururi and became suffragan of Gitega)2009.01.17: Lost territory to establish Diocese of RutanaPresent PrelatesBishop (2010.10.30 – ...):Bishop Blaise Nzeyimana (72)OrdinariesBishops of Ruyigi (Roman Rite)Bishop Blaise Nzeyimana (72)  (2010.10.30 – ...)Bishop of Ruyigi (Burundi)Esprit et véritéBorn:1954.06.02 (Butare, Burundi)Ordained Priest:1981.07.25Consecrated Bishop:2011.01.15Priest of Gitega (Burundi) (1981.07.25 – 2010.10.30)Bishop of Ruyigi (Burundi) (2010.10.30 – ...)Bishop Joseph Nduhirubusa  (1980.04.19 – 2010.10.30)Born:1938.04.24 (Kigarika, Burundi)Ordained Priest:1964.07.21Consecrated Bishop:1980.05.04Died:2012.07.16 († 74)Priest of Ruyigi (Burundi) (1964.07.21 – 1980.04.19)Bishop of Ruyigi (Burundi) (1980.04.19 – 2010.10.30)Bishop Joachim Ruhuna (later Archbishop)  (1973.04.13 – 1980.03.28)Born:1933.10.27 (Nyabikere, Burundi)Ordained Priest:1962.09.18Consecrated Bishop:1973.07.25Died:1996.09.09 († 62)Priest of Gitega (Burundi) (1962.09.18 – 1973.04.13)Bishop of Ruyigi (Burundi) (1973.04.13 – 1980.03.28)President of Catholic Bishops’ Conference of Burundi (1980 – 1986)Coadjutor Archbishop of Gitega (Burundi) (1980.03.28 – 1982.11.06)Metropolitan Archbishop of Gitega (Burundi) (1982.11.06 – 1996.09.09)Special ChurchesCathedral:  Cathédrale des Martyrs de l’Uganda, Ruyigi, Ruyigi Show MapRutana (↙), Gitega (←), Muyinga (↑), Rulenge–Ngara (↗), Kigoma (↘)Statistics (2022.12.31)Area: 4,303 km²Population: 566,389 Catholics (64.5% of 878,367 total)Pastoral Centres: 19 parishesPersonnel: 80 priests (77 diocesan, 3 religious), 129 religious (10 brothers, 119 sisters), 80 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ruyi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 878367,
+    "catholiques": 566389,
+    "pourcentage_catholiques": 64.5
+  },
+  "ressources": {
+    "pretres_diocesains": 77,
+    "pretres_religieux": null,
+    "total_pretres": 80,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

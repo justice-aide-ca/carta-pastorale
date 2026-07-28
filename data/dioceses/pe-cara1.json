@@ -1,0 +1,29 @@
+{
+  "id": "pe-cara1",
+  "nom": "Carabayllo",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Carabayllo / Carabaillen(sis) (Latin)Ecclesiastical Province: LimaNeighbouring Dioceses: Callao (↙), Huacho (↑), Chosica (→), Lima (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1996.12.14: Established as Diocese of Carabayllo / Carabaillen(sis) (Latin) (from Metropolitan Archdiocese of Lima and became suffragan of Lima)Present PrelatesBishop (2022.04.20 – ...):Bishop Neri Menor Vargas, O.F.M. (66)OrdinariesBishops of Carabayllo (Roman Rite)Bishop Neri Menor Vargas, O.F.M. (66)  (2022.04.20 – ...)Bishop of Carabayllo (Peru)Born:1960.05.30 (Pacopampa, Peru)Ordained Priest:2000.03.20Consecrated Bishop:2016.07.17Bishop of Huánuco (Peru) (2016.05.12 – 2022.04.20)Bishop of Carabayllo (Peru) (2022.04.20 – ...)Apostolic Administrator of Huánuco (Peru) (2022.09.21 – 2024.06.01)Bishop Lino Mario Panizza Richero, O.F.M. Cap. (82)  (1996.12.14 – 2022.04.20)Bishop emeritus of Carabayllo (Peru)Seamos uno para que el mundo creaBorn:1944.01.14 (Balestrino, Italy)Ordained Priest:1969.03.01Consecrated Bishop:1997.02.02Bishop of Carabayllo (Peru) (1996.12.14 – 2022.04.20)General Secretary of Episcopal Conference of Peru (2008 – 2011)Special ChurchesCathedral:  Catedral San Pedro, Carabayllo, Municipalidad Metropolitana de Lima Pro-Cathedral:  Pro Catedral del Buen Pastor, Sol De Oro, Municipalidad Metropolitana de Lima Jubilee Churches in the Holy Year 2025Show MapCallao (↙), Huacho (↑), Chosica (→), Lima (↓)Statistics (2022.12.31)Area: 1,504 km²Population: 2,659,840 Catholics (80.5% of 3,305,600 total)Pastoral Centres: 55 parishesPersonnel: 133 priests (93 diocesan, 40 religious), 5 deacons, 210 religious (64 brothers, 146 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cara1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3305600,
+    "catholiques": 2659840,
+    "pourcentage_catholiques": 80.5
+  },
+  "ressources": {
+    "pretres_diocesains": 93,
+    "pretres_religieux": null,
+    "total_pretres": 133,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 55
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

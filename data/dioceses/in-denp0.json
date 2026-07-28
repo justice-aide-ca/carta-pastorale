@@ -1,0 +1,29 @@
+{
+  "id": "in-denp0",
+  "nom": "Denpasar",
+  "pays": "in",
+  "pays_nom": "Indonesia",
+  "continent": "unknown",
+  "type": "Diocese Name: Denpasar / Denpasaren(sis) (Latin)Ecclesiastical Province: EndeNeighbouring Dioceses: Malang (←), Surabaya (↖), Labuan Bajo (→), Weetebula (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsCathedral Dedication Anniversary: December 9Liturgical Calendar (National) 📅History1950.07.10: Established as Apostolic Prefecture of Denpasar / Denpasaren(sis) (Latin) (from Apostolic Vicariate of Lesser Sunda Islands)1961.01.03: Promoted as Diocese of Denpasar / Denpasaren(sis) (Latin) (became suffragan of Endeh)Present PrelatesBishop (2008.11.22 – ...):Bishop Silvester Tung Kiem San (64)OrdinariesBishops of Denpasar (Roman Rite)Bishop Silvester Tung Kiem San (64)  (2008.11.22 – ...)Bishop of Denpasar (Indonesia)Deus incrementum deditBorn:1961.08.14 (Maupongo, Nusa Tenggara Timur, Indonesia)Ordained Priest:1988.07.29Consecrated Bishop:2009.02.19Priest of Ende (Indonesia) (1988.07.29 – 2008.11.22)Bishop of Denpasar (Indonesia) (2008.11.22 – ...)Apostolic Administrator of Ruteng (Indonesia) (2017.10.11 – 2019.11.13)Bishop Benyamin Yosef Bria  (2000.04.14 – 2007.09.18)Fiat voluntas tuaBorn:1956.08.07 (Oekabiti, Nusa Tenggara Timur, Indonesia)Ordained Priest:1985.06.29Consecrated Bishop:2000.08.06Died:2007.09.18 (Singapore † 51)Priest of Atambua (Indonesia) (1985.06.29 – 2000.04.14)Bishop of Denpasar (Indonesia) (2000.04.14 – 2007.09.18)Bishop Vitalis Djebarus, S.V.D.  (1980.09.04 – 1998.09.22)Domine ut videamBorn:1929.02.26 (Wangkung, Nusa Tenggara Timur, Indonesia)Ordained Priest:1959.01.14Consecrated Bishop:1973.05.05Died:1998.09.22 (Paseban, Jakarta Raya, Indonesia † 69)Apostolic Administrator of Ruteng (Indonesia) (1972.03.10 – 1973.03.17)Bishop of Ruteng (Indonesia) (1973.03.17 – 1980.09.04)Bishop of Denpasar (Indonesia) (1980.09.04 – 1998.09.22)Bishop Antonius Hubertus Thijssen, S.V.D.  (Apostolic Administrator 1973.02.23 – 1980.09.04)Bishop Paul Sani Kleden, S.V.D.  (1961.07.04 – 1972.11.17)Sola virtus manetBorn:1924.06.26 (Waebalun, Nusa Tenggara Timur, Indonesia)Ordained Priest:1950.08.20Consecrated Bishop:1961.10.03Died:1972.11.17 (Jakarta, Jakarta Raya, Indonesia † 48)Bishop of Denpasar (Indonesia) (1961.07.04 – 1972.11.17)Prefects Apostolic of Denpasar (Roman Rite)Fr. Hubert Hermens, S.V.D.  (1950.07.19 – 1961.01.02)Born:1904.03.19 (Belanda, Netherlands)Ordained Priest:1934Died:1987.02.13 (Lela, Nusa Tenggara Timur, Indonesia † 82)Prefect Apostolic of Denpasar (Indonesia) (1950.07.19 – 1961.01.02)Special ChurchesCathedral:  Katedral Roh Kudus, Denpasar, Bali, Nusa Tenggara Pro-Cathedral:  Gereja Santo Yoseph, Denpasar, Bali, Nusa Tenggara Jubilee Churches in the Holy Year 2025Churches by City (29)Show MapMalang (←), Surabaya (↖), Labuan Bajo (→), Weetebula (↘)Statistics (2022.12.31)Area: 25,953 km²Population: 52,229 Catholics (0.6% of 9,425,352 total)Pastoral Centres: 23 parishes, 9 missionsPersonnel: 56 priests (37 diocesan, 19 religious), 136 religious (19 brothers, 117 sisters), 32 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "denp0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 9425352,
+    "catholiques": 52229,
+    "pourcentage_catholiques": 0.6
+  },
+  "ressources": {
+    "pretres_diocesains": 37,
+    "pretres_religieux": null,
+    "total_pretres": 56,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

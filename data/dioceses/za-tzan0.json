@@ -1,0 +1,29 @@
+{
+  "id": "za-tzan0",
+  "nom": "Tzaneen",
+  "pays": "za",
+  "pays_nom": "South Africa",
+  "continent": "unknown",
+  "type": "Diocese Name: Tzaneen / Tzaneen(sis) (Latin)Ecclesiastical Province: PretoriaNeighbouring Dioceses: Polokwane (←), Francistown (↖), Bulawayo (↖), Masvingo (↑), Xai-Xai (→), Witbank (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Our Lady of the Sacred Heart, Saint JosephLiturgical Calendar (National) 📅History1962.12.27: Established as Apostolic Prefecture of Louis Trichardt / de Louis Trichardt (Latin) (from Territorial Abbacy of Pietersburg)1972.11.16: Promoted as Diocese of Louis Trichardt–Tzaneen / de Louis Trichardt–Tzaneen (Latin) (became suffragan of Pretoria)1987.07.18: Renamed as Diocese of Tzaneen / Tzaneen(sis) (Latin)Contact InfoAddress: 31 Draai Road, PO Box 261, Tzaneen 0850, South AfricaPhone: (015) 307) 5244Present PrelatesBishop (2010.01.28 – ...):Bishop João Noé Rodrigues (71)OrdinariesBishops of Tzaneen (Roman Rite)Bishop João Noé Rodrigues (71)  (2010.01.28 – ...)Bishop of Tzaneen (South Africa)Caritas numquam exciditBorn:1955.03.08 (Cape Town, South Africa)Ordained Priest:1982.07.04Consecrated Bishop:2010.04.18Priest of Witbank (South Africa) (1982.07.04 – 2010.01.28)Bishop of Tzaneen (South Africa) (2010.01.28 – ...)Bishop Hugh Patrick Slattery, M.S.C.  (1987.07.18 – 2010.01.28)Born:1934.03.10 (Nenagh, Ireland)Ordained Priest:1958.07.16Consecrated Bishop:1984.09.30Died:2024.10.06 (Pretoria, South Africa † 90)Bishop of Louis Trichardt–Tzaneen (South Africa) (1984.06.22 – 1987.07.18)Bishop of Tzaneen (South Africa) (1987.07.18 – 2010.01.28)Bishops of Louis Trichardt–Tzaneen (Roman Rite)Bishop Hugh Patrick Slattery, M.S.C.  (1984.06.22 – 1987.07.18)(see above)Bishop John Thomas Durkin, M.S.C.  (1972.11.16 – 1984.06.22)Born:1913.02.10 (Ascare, Ireland)Ordained Priest:1937.07.19Consecrated Bishop:1973.03.04Died:1990.09.27 († 77)Prefect Apostolic of Louis Trichardt (South Africa) (1963.02.15 – 1972.11.16)Bishop of Louis Trichardt–Tzaneen (South Africa) (1972.11.16 – 1984.06.22)Prefects Apostolic of Louis Trichardt (Roman Rite)Fr. John Thomas Durkin, M.S.C. (later Bishop)  (1963.02.15 – 1972.11.16)(see above)Special ChurchesCathedral:  Cathedral of the Most Holy Trinity, Tzaneen, Limpopo Former Cathedral:  Former Cathedral of Our Lady of Peace, Louis Trichardt, Limpopo Show MapPolokwane (←), Francistown (↖), Bulawayo (↖), Masvingo (↑), Xai-Xai (→), Witbank (↓)Statistics (2022.12.31)Area: 49,500 km²Population: 51,000 Catholics (1.9% of 2,750,000 total)Pastoral Centres: 14 parishes, 1 missionPersonnel: 25 priests (8 diocesan, 17 religious), 3 deacons, 46 religious (17 brothers, 29 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tzan0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2750000,
+    "catholiques": 51000,
+    "pourcentage_catholiques": 1.9
+  },
+  "ressources": {
+    "pretres_diocesains": 8,
+    "pretres_religieux": null,
+    "total_pretres": 25,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

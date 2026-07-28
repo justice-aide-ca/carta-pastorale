@@ -1,0 +1,29 @@
+{
+  "id": "in-puth0",
+  "nom": "Puthur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Puthur / Puttur / Puthuren(sis) (Latin)Ecclesiastical Province: TiruvallaNeighbouring Dioceses: Saint Ephrem of Khadki (↑), Bathery (↘), Tiruvalla (↘)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint JosephHistory2010.01.25: Established as Diocese of Puthur / Puttur / Puthuren(sis) (Latin) (from Diocese of Bathery and became suffragan of Tiruvalla)2020.09.21: Gained territory from Diocese of Saint Ephrem of KhadkiContact InfoAddress: Catholic Bishop’s House, Parladka, P.O. Puttur, 574203, Karnataka, IndiaPresent PrelatesBishop (2017.08.05 – ...):Bishop Geevarghese Makarios Kalayil (68)OrdinariesBishops of Puthur (Syro-Malankara Rite)Bishop Geevarghese Makarios Kalayil (68)  (2017.08.05 – ...)Bishop of Puthur of the Syro-Malankara (India)Born:1958.07.16 (Renjalady, India)Ordained Priest:1986.05.01Consecrated Bishop:2017.09.21Priest of Puthur of the Syro-Malankara (India) (1986.05.01 – 2017.08.05)Bishop of Puthur of the Syro-Malankara (India) (2017.08.05 – ...)Bishop Geevarghese Divannasios Ottathengil  (2010.01.25 – 2017.01.24)Born:1950.11.01 (Kunnanthanam, India)Ordained Priest:1978.04.20Consecrated Bishop:1997.02.05Died:2018.01.16 (Tiruvalla, India † 67)Bishop of Bathery of the Syro-Malankara (India) (1996.11.11 – 2010.01.25)Bishop of Puthur of the Syro-Malankara (India) (2010.01.25 – 2017.01.24)Special ChurchesCathedral:  St. Mary’s Malankara Cathedral, Noojibalthila, Karnātaka Show MapSaint Ephrem of Khadki (↑), Bathery (↘), Tiruvalla (↘)Statistics (2021.12.31)Population: 5,760 CatholicsPastoral Centres: 33 parishesPersonnel: 33 priests (25 diocesan, 8 religious), 52 religious (8 brothers, 44 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "puth0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 25,
+    "pretres_religieux": null,
+    "total_pretres": 33,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

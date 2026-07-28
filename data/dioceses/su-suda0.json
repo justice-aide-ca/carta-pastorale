@@ -1,0 +1,29 @@
+{
+  "id": "su-suda0",
+  "nom": "Sudan and South Sudan",
+  "pays": "su",
+  "pays_nom": "Sudan",
+  "continent": "unknown",
+  "type": "Territory Dependent on the Patriarch Name: Sudan and South Sudan (English)Subject to the PatriarchNeighbouring Dioceses: Cairo (↑)Depends on: Dicastery for the Eastern ChurchesHistory1997: Established as Territory Dependent on the Patriarch of Sudan2013: Renamed as Territory Dependent on the Patriarch of Sudan and South Sudan (English)Present PrelatesPatriarchal Vicar (2022.05.12 – ...):Bishop Élie Joseph Warde (48)Bishop of Cairo of the Syriacs (Egypt)OrdinariesProtosyncelli of Sudan and South Sudan (Syriac Rite)Bishop Élie Joseph Warde (48)  (2022.05.12 – ...)Bishop of Cairo of the Syriacs (Egypt)Patriarchal Vicar of Sudan and South Sudan of the Syriacs (Sudan)Born:1977.09.28 (Haddad-Beirut, Lebanon)Ordained Priest:2004.05.28Consecrated Bishop:2022.06.18Bishop of Cairo of the Syriacs (Egypt) (2022.05.12 – ...)Patriarchal Vicar of Sudan and South Sudan of the Syriacs (Sudan) (2022.05.12 – ...)Bishop Yacoub Camil Afram Antoine Semaan (46)  (Patriarchal Administrator 2020.04.15 – 2022.05.12)Bishop Clément-Joseph Hannouche  (1997 – 2020.04.09)Born:1950.03.27 (Cairo, Egypt)Ordained Priest:1976.06.13Consecrated Bishop:1996.03.19Died:2020.04.09 (Cairo, Egypt † 70)Priest of Cairo of the Syriacs (Egypt) (1976.06.13 – 1995.06.24)Bishop of Cairo of the Syriacs (Egypt) (1995.06.24 – 2020.04.09)Protosyncellus of Sudan and South Sudan of the Syriacs (Sudan) (1997 – 2020.04.09)Statistics (2017.12.31)Population: 40 CatholicsPopulationLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "suda0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

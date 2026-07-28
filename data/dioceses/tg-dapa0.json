@@ -1,0 +1,29 @@
+{
+  "id": "tg-dapa0",
+  "nom": "Dapaong",
+  "pays": "tg",
+  "pays_nom": "Togo",
+  "continent": "unknown",
+  "type": "Diocese Name: Dapaong / Dapaongan(us) (Latin)Ecclesiastical Province: LoméNeighbouring Dioceses: Yendi (↙), Navrongo–Bolgatanga (←), Tenkodogo (↑), Fada N’Gourma (↗), Natitingou (→), Kara (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1960.03.01: Established as Apostolic Prefecture of Dapango (from Diocese of Sokodé)1965.07.06: Promoted as Diocese of Dapango (became suffragan of Lomé)1990.12.03: Renamed as Diocese of Dapaong / Dapaongan(us) (Latin)Present PrelatesBishop (2016.11.15 – ...):Bishop Dominique Banlène Guigbile (63)OrdinariesBishops of Dapaong (Roman Rite)Bishop Dominique Banlène Guigbile (63)  (2016.11.15 – ...)Bishop of Dapaong (Togo)Donne-moi la sagesseBorn:1962.12.30 (Kpandéntangue-B, Togo)Ordained Priest:1992.12.30Consecrated Bishop:2017.02.04Priest of Dapaong (Togo) (1992.12.30 – 2016.11.15)Bishop of Dapaong (Togo) (2016.11.15 – ...)Bishop Jacques Tukumbé Nyimbusède Anyilunda (79)  (1990.12.03 – 2016.11.15)Bishop emeritus of Dapaong (Togo)Qu’ils te connaissentBorn:1946 (Kandé, Togo)Ordained Priest:1973.07.05Consecrated Bishop:1991.04.13Bishop of Dapaong (Togo) (1990.12.03 – 2016.11.15)Bishops of Dapango (Roman Rite)Fr. Pierre Reinhard, O.F.M.  (Apostolic Administrator 1984.09.18 – 1990.12.03)Bishop Barthélemy-Pierre-Joseph Hanrion, O.F.M.  (1965.07.06 – 1984.09.18)Born:1914.01.10 (Grenay, France)Ordained Priest:1943.06.29Consecrated Bishop:1966.01.09Died:2000.04.26 (Orsay, France † 86)Prefect Apostolic of Dapango (Togo) (1960.03.29 – 1965.07.06)Bishop of Dapango (Togo) (1965.07.06 – 1984.09.18)Prefects Apostolic of Dapango (Roman Rite)Fr. Barthélemy-Pierre-Joseph Hanrion, O.F.M. (later Bishop)  (1960.03.29 – 1965.07.06)(see above)Special ChurchesCathedral:  Cathédrale Saint Charles Lwanga, Dapaong, Savanes Show MapYendi (↙), Navrongo–Bolgatanga (←), Tenkodogo (↑), Fada N’Gourma (↗), Natitingou (→), Kara (↘)Statistics (2022.12.31)Area: 8,534 km²Population: 122,488 Catholics (11.9% of 1,028,282 total)Pastoral Centres: 20 parishesPersonnel: 68 priests (39 diocesan, 29 religious), 126 religious (51 brothers, 75 sisters), 25 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "dapa0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1028282,
+    "catholiques": 122488,
+    "pourcentage_catholiques": 11.9
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 68,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

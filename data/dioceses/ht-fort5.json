@@ -1,0 +1,29 @@
+{
+  "id": "ht-fort5",
+  "nom": "Fort-Liberté",
+  "pays": "ht",
+  "pays_nom": "Haiti",
+  "continent": "unknown",
+  "type": "Diocese Name: Fort-Liberté / Castelli Libertatis (Latin)Ecclesiastical Province: Cap-HaïtienNeighbouring Dioceses: Les Gonaïves (↙), Port-de-Paix (←), Cap-Haïtien (→)Depends on: Dicastery for BishopsCelebrationsCathedral Dedication Anniversary: March 18Liturgical Calendar 📅History1991.01.31: Established as Diocese of Fort-Liberté / Castelli Libertatis (Latin) (from Metropolitan Archdiocese of Cap-Haïtien and Diocese of Hinche and became suffragan of Cap-Haïtien)Present PrelatesBishop (2014.10.25 – ...):Bishop Quesnel Alphonse, S.M.M. (76)OrdinariesBishops of Fort-Liberté (Roman Rite)Bishop Quesnel Alphonse, S.M.M. (76)  (2014.10.25 – ...)Bishop of Fort-Liberté (Haiti)Born:1949.12.01 (Port-au-Prince, Haiti)Ordained Priest:1977.07.16Consecrated Bishop:2012.12.22Titular Bishop of Dionysiana (2012.11.10 – 2014.10.25)Auxiliary Bishop of Port-au-Prince (Haiti) (2012.11.10 – 2014.10.25)Bishop of Fort-Liberté (Haiti) (2014.10.25 – ...)Archbishop Max Leroy Mésidor (64)  (Apostolic Administrator 2013.12 – 2014.10.25)Bishop Max Leroy Mésidor (64) (later Archbishop)  (2012.06.09 – 2013.11.01)Metropolitan Archbishop of Port-au-Prince (Haiti)President of Episcopal Conference of HaitiBorn:1962.01.06 (Saint-Marc, Haiti)Ordained Priest:1988.01.10Consecrated Bishop:2012.07.28Priest of Les Gonaïves (Haiti) (1988.01.10 – 2012.06.09)Bishop of Fort-Liberté (Haiti) (2012.06.09 – 2013.11.01)Coadjutor Archbishop of Cap-Haïtien (Haiti) (2013.11.01 – 2014.11.22)Apostolic Administrator of Fort-Liberté (Haiti) (2013.12 – 2014.10.25)Metropolitan Archbishop of Cap-Haïtien (Haiti) (2014.11.22 – 2017.10.07)Metropolitan Archbishop of Port-au-Prince (Haiti) (2017.10.07 – ...)Vice-President of Episcopal Conference of Haiti (2021.04.14 – 2023.11.28)President of Episcopal Conference of Haiti (2023.11.28 – ...)Bishop Chibly Langlois (67) (later Cardinal)  (Apostolic Administrator 2011.10 – 2012.06.09)Bishop Chibly Langlois (67) (later Cardinal)  (2004.04.08 – 2011.08.15)Cardinal-Priest of S. Giacomo in AugustaBishop of Les Cayes (Haiti)Servire cum caritateBorn:1958.11.29 (La Vallée, Haiti)Ordained Priest:1991.09.22Consecrated Bishop:2004.06.06Created Cardinal:2014.02.22Priest of Jacmel (Haiti) (1991.09.22 – 2004.04.08)Bishop of Fort-Liberté (Haiti) (2004.04.08 – 2011.08.15)Bishop of Les Cayes (Haiti) (2011.08.15 – ...)Apostolic Administrator of Fort-Liberté (Haiti) (2011.10 – 2012.06.09)President of Episcopal Conference of Haiti (2011.12 – 2017.12.01)Cardinal-Priest of S. Giacomo in Augusta (2014.02.22 [2014.06.07] – ...)Bishop Hubert Constant, O.M.I. (later Archbishop)  (1991.01.31 – 2003.11.05)Born:1931.09.18 (Camp-Perrin, Haiti)Ordained Priest:1958.09.15Consecrated Bishop:1991.04.07Died:2011.09.23 (Haiti † 80)Bishop of Fort-Liberté (Haiti) (1991.01.31 – 2003.11.05)President of Episcopal Conference of Haiti (1998 – 2005)Metropolitan Archbishop of Cap-Haïtien (Haiti) (2003.11.05 – 2008.03.01)Special ChurchesCathedral:  Cathédrale Saint-Joseph, Fort-Liberté, Nord-Est Show MapLes Gonaïves (↙), Port-de-Paix (←), Cap-Haïtien (→)Statistics (2022.12.31)Area: 163 km²Population: 352,000 Catholics (58.7% of 600,005 total)Pastoral Centres: 37 parishes, 63 missionsPersonnel: 78 priests (48 diocesan, 30 religious), 104 religious (42 brothers, 62 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "fort5",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 600005,
+    "catholiques": 352000,
+    "pourcentage_catholiques": 58.7
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 78,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 37
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

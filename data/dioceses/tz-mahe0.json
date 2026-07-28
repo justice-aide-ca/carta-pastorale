@@ -1,0 +1,29 @@
+{
+  "id": "tz-mahe0",
+  "nom": "Mahenge",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Mahenge / Mahengen(sis) (Latin)Ecclesiastical Province: Dar-es-SalaamNeighbouring Dioceses: Mafinga (←), Iringa (↖), Ifakara (↑), Lindi (→), Songea (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1964.04.21: Established as Diocese of Mahenge / Mahengen(sis) (Latin) (from Metropolitan Archdiocese of Dar-es-Salaam and became suffragan of Dar-es-Salaam)2012.01.14: Lost territory to establish Diocese of IfakaraPresent PrelatesBishop (1995.03.03 – ...):Bishop Agapiti Ndorobo (71)Monsignors (3)OrdinariesBishops of Mahenge (Roman Rite)Bishop Agapiti Ndorobo (71)  (1995.03.03 – ...)Bishop of Mahenge (Tanzania)Born:1954.08.14 (Kidulo, Tanzania)Ordained Priest:1980.12.06Consecrated Bishop:1995.06.16Priest of Dodoma (Tanzania) (1980.12.06 – 1995.03.03)Bishop of Mahenge (Tanzania) (1995.03.03 – ...)Bishop Patrick Iteka  (1973.06.14 – 1993.08.22)Born:1938.05.23 (Uponera, Tanzania)Ordained Priest:1965.08.14Consecrated Bishop:1973.09.05Died:1993.08.22 († 55)Priest of Mahenge (Tanzania) (1965.08.14 – 1973.06.14)Bishop of Mahenge (Tanzania) (1973.06.14 – 1993.08.22)Bishop Nikasius Kipengele  (1970.06.25 – 1971.12.07)Born:1923 (Kipatimu, Tanzania)Ordained Priest:1958.08.24Consecrated Bishop:1970.09.22Died:1971.12.07 († 47)Bishop of Mahenge (Tanzania) (1970.06.25 – 1971.12.07)Bishop Elias Mchonde  (1964.04.21 – 1969.06.13)Born:1912.09 (Sofi, Tanzania)Ordained Priest:1948.08.24Consecrated Bishop:1956.09.21Died:1969.06.13 († 56)Priest of Dar-es-Salaam (Tanzania) (1948.08.24 – 1956.03.24)Titular Bishop of Adraa (1956.03.24 – 1964.04.21)Auxiliary Bishop of Dar-es-Salaam (Tanzania) (1956.03.24 – 1964.04.21)Bishop of Mahenge (Tanzania) (1964.04.21 – 1969.06.13)Special ChurchesCathedral:  Cathedral of Christ the King, Mahenge, Morogoro Show MapMafinga (←), Iringa (↖), Ifakara (↑), Lindi (→), Songea (↓)Statistics (2022.12.31)Area: 25,253 km²Population: 187,095 Catholics (64.9% of 288,377 total)Pastoral Centres: 34 parishes, 2 missionsPersonnel: 53 priests (45 diocesan, 8 religious), 98 religious (18 brothers, 80 sisters), 39 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mahe0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 288377,
+    "catholiques": 187095,
+    "pourcentage_catholiques": 64.9
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 34
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

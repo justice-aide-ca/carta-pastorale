@@ -1,0 +1,29 @@
+{
+  "id": "br-apuc0",
+  "nom": "Apucarana",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Apucarana / Apucaranen(sis) (Latin)Ecclesiastical Province: LondrinaNeighbouring Dioceses: Campo Mourão (↙), Maringá (←), Presidente Prudente (↑), Londrina (↗), Ponta Grossa (↘), Guarapuava (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nossa Senhora de LourdesLiturgical Calendar (National) 📅History1964.11.28: Established as Diocese of Apucarana / Apucaranen(sis) (Latin) (from Diocese of Campo Mourão and Diocese of Londrina and became suffragan of Curitiba)1970.10.31: Became suffragan of LondrinaPresent PrelatesBishop (2018.12.12 – ...):Bishop Carlos José de Oliveira (58)Monsignors (3)OrdinariesBishops of Apucarana (Roman Rite)Bishop Carlos José de Oliveira (58)  (2018.12.12 – ...)Bishop of Apucarana (Brazil)Cum Maria matre JesuBorn:1967.10.17 (Botucatu, SP, Brazil)Ordained Priest:1992.10.04Consecrated Bishop:2019.03.19Priest of Mogi das Cruzes (Brazil) (1992.10.04 – 1996)Priest of Botucatu (Brazil) (1996 – 2018.12.12)Chaplain of His Holiness (2007.10.04 – 2018.12.12)Bishop of Apucarana (Brazil) (2018.12.12 – ...)Bishop Celso Antônio Marchiori (67)  (2009.07.08 – 2017.12.13)Bishop of São José dos Pinhais (Brazil)In cruce DominiBorn:1958.08.14 (Campo Largo, PR, Brazil)Ordained Priest:1988.03.06Consecrated Bishop:2009.08.28Priest of Curitiba (Brazil) (1988.03.06 – 2009.07.08)Bishop of Apucarana (Brazil) (2009.07.08 – 2017.12.13)Bishop of São José dos Pinhais (Brazil) (2017.12.13 – ...)Bishop Luiz Vicente Bernetti, O.A.D.  (2005.02.02 – 2009.07.08)Euntes prædicateBorn:1934.03.24 (Ponzano, SP, Brazil)Ordained Priest:1958.06.01Consecrated Bishop:1996.08.25Died:2017.08.11 (Rio de Janeiro, RJ, Brazil † 83)Titular Bishop of Rufiniana (1996.06.12 – 2005.02.02)Auxiliary Bishop of Palmas–Francisco Beltrão (Brazil) (1996.06.12 – 2005.02.02)Bishop of Apucarana (Brazil) (2005.02.02 – 2009.07.08)Bishop Domingos Gabriel Wisniewski, C.M.  (1983.05.17 – 2005.02.02)Tudo para TodosBorn:1928.03.02 (Guarani das Missões, RS, Brazil)Ordained Priest:1955.06.29Consecrated Bishop:1975.08.28Died:2010.07.21 (Londrina, PR, Brazil † 82)Titular Bishop of Tela (1975.06.27 – 1979.04.19)Auxiliary Bishop of Curitiba (Brazil) (1975.06.27 – 1979.04.19)Bishop of Cornélio Procópio (Brazil) (1979.04.19 – 1983.05.17)Bishop of Apucarana (Brazil) (1983.05.17 – 2005.02.02)Bishop Romeu Alberti (later Archbishop)  (1965.02.22 – 1982.06.03)Ut unum sintBorn:1927.04.21 (São Paulo, SP, Brazil)Ordained Priest:1951.10.07Consecrated Bishop:1964.05.24Died:1988.08.06 († 61)Priest of São Paulo (Brazil) (1951.10.07 – 1964.03.25)Titular Bishop of Belali (1964.03.25 – 1965.02.22)Auxiliary Bishop of São Paulo (Brazil) (1964.03.25 – 1965.02.22)Bishop of Apucarana (Brazil) (1965.02.22 – 1982.06.03)Metropolitan Archbishop of Ribeirão Preto (Brazil) (1982.06.03 – 1988.08.06)Special ChurchesCathedral, Minor Basilica:  Catedral Basílica de Nossa Senhora de Lourdes, Apucarana, Paraná Churches by City (63)Show MapCampo Mourão (↙), Maringá (←), Presidente Prudente (↑), Londrina (↗), Ponta Grossa (↘), Guarapuava (↓)Statistics (2022.12.31)Area: 9,326 km²Population: 383,000 Catholics (76.1% of 503,000 total)Pastoral Centres: 64 parishesPersonnel: 84 priests (75 diocesan, 9 religious), 111 deacons, 46 religious (16 brothers, 30 sisters), 31 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "apuc0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 503000,
+    "catholiques": 383000,
+    "pourcentage_catholiques": 76.1
+  },
+  "ressources": {
+    "pretres_diocesains": 75,
+    "pretres_religieux": null,
+    "total_pretres": 84,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 64
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

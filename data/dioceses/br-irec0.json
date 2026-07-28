@@ -1,0 +1,29 @@
+{
+  "id": "br-irec0",
+  "nom": "Irecê",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Irecê / Irecen(sis) (Latin)Ecclesiastical Province: Feira de SantanaNeighbouring Dioceses: Barra (←), Juazeiro (↑), Bonfim (→), Ruy Barbosa (↘), Livramento de Nossa Senhora (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Bom Pastor (4th Sunday of Easter)Liturgical Calendar (National) 📅History1979.04.28: Established as Diocese of Irecê / Irecen(sis) (Latin) (from Diocese of Barra and Diocese of Ruy Barbosa and became suffragan of São Salvador da Bahia)2002.01.16: Became suffragan of Feira de SantanaPresent PrelatesBishop (2023.09.23 – ...):Bishop Antônio Ederaldo de Santana (51)OrdinariesBishops of Irecê (Roman Rite)Bishop Antônio Ederaldo de Santana (51)  (2023.09.23 – ...)Bishop of Irecê (Brazil)Caritas est anima fideiBorn:1975.04.16 (Olindina, BA, Brazil)Ordained Priest:2002.12.22Consecrated Bishop:2023.11.25Priest of Alagoinhas (Brazil) (2002.12.22 – 2023.09.23)Bishop of Irecê (Brazil) (2023.09.23 – ...)Bishop Tommaso Cascianelli, C.P. (78)  (2000.07.05 – 2023.09.23)Bishop emeritus of Irecê (Brazil)Amare et ServireBorn:1948.03.09 (Capodimonte, Italy)Ordained Priest:1973.04.07Consecrated Bishop:2000.09.23Bishop of Irecê (Brazil) (2000.07.05 – 2023.09.23)Bishop João Maria Messi, O.S.M. (91)  (1995.03.22 – 1999.11.17)Bishop emeritus of Barra do Piraí–Volta Redonda (Brazil)Ave gratia plenaBorn:1934.10.05 (Recanati, Italy)Ordained Priest:1958.04.07Consecrated Bishop:1988.08.14Titular Bishop of Zucchabar (1988.06.15 – 1995.03.22)Auxiliary Bishop of Aracaju (Brazil) (1988.06.15 – 1995.03.22)Bishop of Irecê (Brazil) (1995.03.22 – 1999.11.17)Bishop of Barra do Piraí–Volta Redonda (Brazil) (1999.11.17 – 2011.06.08)Bishop Edgar Carício de Gouvêa  (1983.06.13 – 1994.03.02)Pro mundi vitaBorn:1921.07.01 (Belém de Maria, PE, Brazil)Ordained Priest:1944.01.23Consecrated Bishop:1983.09.08Died:2000.04.12 (Bom Conselho, PE, Brazil † 78)Bishop of Irecê (Brazil) (1983.06.13 – 1994.03.02)Bishop Homero Leite Meira  (1980.09.24 – 1983.06.13)Lumen CordiumBorn:1931.12.02 (Brumado, BA, Brazil)Ordained Priest:1955.12.08Consecrated Bishop:1978.12.27Died:2014.05.08 (Caetité, BA, Brazil † 82)Bishop of Itabuna (Brazil) (1978.11.07 – 1980.09.24)Bishop of Irecê (Brazil) (1980.09.24 – 1983.06.13)Special ChurchesCathedral:  Catedral do Bom Pastor, Irecê, Bahia Churches by City (31)Show MapBarra (←), Juazeiro (↑), Bonfim (→), Ruy Barbosa (↘), Livramento de Nossa Senhora (↓)Statistics (2022.12.31)Area: 24,557 km²Population: 623,000 Catholics (77.9% of 800,000 total)Pastoral Centres: 28 parishes, 421 missionsPersonnel: 34 priests (30 diocesan, 4 religious), 1 deacon, 20 religious (7 brothers, 13 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "irec0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 800000,
+    "catholiques": 623000,
+    "pourcentage_catholiques": 77.9
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 34,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

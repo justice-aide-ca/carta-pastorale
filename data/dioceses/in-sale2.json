@@ -1,0 +1,29 @@
+{
+  "id": "in-sale2",
+  "nom": "Salem",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Salem / Salemen(sis) (Latin)Ecclesiastical Province: Pondicherry and CuddaloreNeighbouring Dioceses: Coimbatore (↙), Ootacamund (←), Dharmapuri (↑), Pondicherry and Cuddalore (→), Kumbakonam (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Infant Jesus, Our Lady of VictoriesLiturgical Calendar (National) 📅History1930.05.26: Established as Diocese of Salem / Salemen(sis) (Latin) (from Metropolitan Archdiocese of Pondicherry, Diocese of Kumbakonam and Diocese of Mysore and became suffragan of Pondicherry)1997.01.24: Lost territory to establish Diocese of DharmapuriPresent PrelatesBishop (2021.05.31 – ...):Bishop Arulselvam Rayappan (65)OrdinariesBishops of Salem (Roman Rite)Bishop Arulselvam Rayappan (65)  (2021.05.31 – ...)Bishop of Salem (India)Audire illumBorn:1960.11.18 (Sathipattu, India)Ordained Priest:1986.05.20Consecrated Bishop:2021.08.04Priest of Pondicherry and Cuddalore (India) (1986.05.20 – 2021.05.31)Bishop of Salem (India) (2021.05.31 – ...)Bishop Lawrence Pius Dorairaj (72)  (Apostolic Administrator 2020.03.09 – 2021.05.31)Bishop Singaroyan Sebastianappan (74)  (2000.07.05 – 2020.03.09)Bishop emeritus of Salem (India)All who believe in him may have eternal lifeBorn:1952.04.13 (Mel Kathadikuppam, India)Ordained Priest:1978.05.27Consecrated Bishop:2000.10.18Priest of Salem (India) (1978.05.27 – 2000.07.05)Bishop of Salem (India) (2000.07.05 – 2020.03.09)Bishop Michael Bosco Duraisamy  (1974.02.28 – 1999.06.09)Born:1929.04.29 (Gingee, India)Ordained Priest:1955.12.17Consecrated Bishop:1974.06.10Died:1999.06.09 († 70)Bishop of Salem (India) (1974.02.28 – 1999.06.09)Bishop Venmani S. Selvanather (later Archbishop)  (1949.03.03 – 1973.03.17)Born:1913.07.06 (Tiruchengode, India)Ordained Priest:1941.10.26Consecrated Bishop:1949.05.01Died:1993.10.14 († 80)Priest of Salem (India) (1941.10.26 – 1949.03.03)Bishop of Salem (India) (1949.03.03 – 1973.03.17)Metropolitan Archbishop of Pondicherry and Cuddalore (India) (1973.03.17 – 1992.02.18)Bishop Henri-Aimé-Anatole Prunier, M.E.P.  (1930.05.26 – 1947.11.20)Born:1889.02.28 (Saint-Sever, France)Ordained Priest:1914.03.07Consecrated Bishop:1930.09.14Died:1957.03.10 († 68)Bishop of Salem (India) (1930.05.26 – 1947.11.20)Titular Bishop of Tanagra (1947.11.20 – 1957.03.10)Special ChurchesCathedral:  Cathedral of the Infant Jesus, Salem, Tamil Nādu Co-Cathedral:  St. Mary’s Co-Cathedral, Shevapet, Tamil Nādu Show MapCoimbatore (↙), Ootacamund (←), Dharmapuri (↑), Pondicherry and Cuddalore (→), Kumbakonam (↘)Statistics (2022.12.31)Area: 9,624 km²Population: 88,050 Catholics (1.6% of 5,409,560 total)Pastoral Centres: 60 parishes, 1 missionPersonnel: 141 priests (80 diocesan, 61 religious), 1 deacon, 663 religious (145 brothers, 518 sisters), 31 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "sale2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5409560,
+    "catholiques": 88050,
+    "pourcentage_catholiques": 1.6
+  },
+  "ressources": {
+    "pretres_diocesains": 80,
+    "pretres_religieux": null,
+    "total_pretres": 141,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 60
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

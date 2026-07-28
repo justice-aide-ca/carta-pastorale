@@ -1,0 +1,29 @@
+{
+  "id": "ng-kats0",
+  "nom": "Katsina-Ala",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Katsina-Ala / Katsinen(sis)-Alen(sis) (Latin)Ecclesiastical Province: AbujaNeighbouring Dioceses: Ogoja (↙), Gboko (←), Wukari (↗), Bamenda (↘), Mamfe (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2012.12.29: Established as Diocese of Katsina-Ala / Katsinen(sis)-Alen(sis) (Latin) (from Diocese of Makurdi and became suffragan of Abuja)Present PrelatesBishop (2022.04.09 – ...):Bishop Isaac Bunde Dugu (55)OrdinariesBishops of Katsina-Ala (Roman Rite)Bishop Isaac Bunde Dugu (55)  (2022.04.09 – ...)Bishop of Katsina-Ala (Nigeria)In amore Dei / Ken dooshima u AôndoBorn:1971.04.14 (Gboko, Nigeria)Ordained Priest:2000.10.21Consecrated Bishop:2022.07.01Priest of Makurdi (Nigeria) (2000.10.21 – 2012.12.29)Priest of Gboko (Nigeria) (2012.12.29 – 2022.04.09)Bishop of Katsina-Ala (Nigeria) (2022.04.09 – ...)Bishop William Amove Avenya (71)  (Apostolic Administrator 2020.02.17 – 2022.04.09)Bishop Peter Iornzuul Adoboh  (2012.12.29 – 2020.02.14)Born:1958.04.14 (Tse-Kucha, Nigeria)Ordained Priest:1984.06.30Consecrated Bishop:2013.02.23Died:2020.02.14 (Abuja, Nigeria † 61)Priest of Makurdi (Nigeria) (1984.06.30 – 2012.12.29)Bishop of Katsina-Ala (Nigeria) (2012.12.29 – 2020.02.14)Special ChurchesCathedral:  Cathedral of St. Gerard Majella, Katsina-Ala, Benue Show MapOgoja (↙), Gboko (←), Wukari (↗), Bamenda (↘), Mamfe (↓)Statistics (2022.12.31)Area: 6,465 km²Population: 217,300 Catholics (72.1% of 301,350 total)Pastoral Centres: 40 parishes, 3 missionsPersonnel: 36 priests (30 diocesan, 6 religious), 17 religious (6 brothers, 11 sisters), 51 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kats0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 301350,
+    "catholiques": 217300,
+    "pourcentage_catholiques": 72.1
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 36,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

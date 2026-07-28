@@ -1,0 +1,29 @@
+{
+  "id": "in-itan0",
+  "nom": "Itanagar",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Itanagar / Itanagaren(sis) (Latin)Ecclesiastical Province: GuwahatiNeighbouring Dioceses: Tezpur (↙), Darjeeling (←), Kangding 康定 (↑), Miao (↗), Dibrugarh (→)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint JosephLiturgical Calendar (National) 📅History2005.12.07: Established as Diocese of Itanagar / Itanagaren(sis) (Latin) (from Diocese of Tezpur and became suffragan of Guwahati)Present PrelatesBishop (2023.06.29 – ...):Bishop Benny Varghese Edathattel (56)OrdinariesBishops of Itanagar (Roman Rite)Bishop Benny Varghese Edathattel (56)  (2023.06.29 – ...)Bishop of Itanagar (India)Born:1970.04.22 (Njayappilly, India)Ordained Priest:1999.04.19Consecrated Bishop:2023.10.15Priest of Kohima (India) (1999.04.19 – 2023.06.29)Bishop of Itanagar (India) (2023.06.29 – ...)Bishop John Thomas Kattrukudiyil (78)  (2005.12.07 – 2023.06.29)Bishop emeritus of Itanagar (India)He must increase and I must decreaseBorn:1948.01.18 (Kothamangalam, India)Ordained Priest:1975.02.03Consecrated Bishop:1994.09.08Bishop of Diphu (India) (1994.06.10 – 2005.12.07)Bishop of Itanagar (India) (2005.12.07 – 2023.06.29)Apostolic Administrator of Diphu (India) (2006.03.12 – 2007.02.14)Special ChurchesCathedral:  Cathedral of St. Joseph, Itanagar, Arunāchal Pradesh Show MapTezpur (↙), Darjeeling (←), Kangding 康定 (↑), Miao (↗), Dibrugarh (→)Statistics (2021.12.31)Area: 52,283 km²Population: 86,800 Catholics (11.1% of 782,900 total)Pastoral Centres: 50 parishesPersonnel: 127 priests (29 diocesan, 98 religious), 273 religious (107 brothers, 166 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "itan0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 782900,
+    "catholiques": 86800,
+    "pourcentage_catholiques": 11.1
+  },
+  "ressources": {
+    "pretres_diocesains": 29,
+    "pretres_religieux": null,
+    "total_pretres": 127,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 50
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

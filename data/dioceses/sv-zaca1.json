@@ -1,0 +1,29 @@
+{
+  "id": "sv-zaca1",
+  "nom": "Zacatecoluca",
+  "pays": "sv",
+  "pays_nom": "El Salvador",
+  "continent": "unknown",
+  "type": "Diocese Name: Zacatecoluca / Zacatecolucan(us) (Latin)Ecclesiastical Province: San SalvadorNeighbouring Dioceses: San Salvador (←), San Vicente (↑), Santiago de María (→)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1987.05.05: Established as Diocese of Zacatecoluca / Zacatecolucan(us) (Latin) (from Diocese of San Vicente and became suffragan of San Salvador)Present PrelatesBishop (2026.07.06 – ...):Bishop-elect Ramiro Ernesto Landaverde Orellana (50)OrdinariesBishops of Zacatecoluca (Roman Rite)Bishop-elect Ramiro Ernesto Landaverde Orellana (50)  (2026.07.06 – ...)Bishop of Zacatecoluca (El Salvador)Born:1976.05.18 (Chalatenango, El Salvador)Ordained Priest:2003.02.01Consecrated Bishop:2026.08.15Priest of Chalatenango (El Salvador) (2003.02.01 – 2026.07.06)Bishop of Zacatecoluca (El Salvador) (2026.07.06 – ...)Bishop Elías Samuel Bolaños Avelar, S.D.B. (75)  (1998.02.27 – 2026.07.06)Vice-President of Episcopal Conference of El SalvadorBishop emeritus of Zacatecoluca (El Salvador)Born:1951.02.16 (Cutumay, El Salvador)Ordained Priest:1979.10.27Consecrated Bishop:1998.03.25Bishop of Zacatecoluca (El Salvador) (1998.02.27 – 2026.07.06)Vice-President of Episcopal Conference of El Salvador (2020.03? – ...)Bishop Romeo Tovar Astorga, O.F.M. (86)  (1987.05.05 – 1996.12.17)Bishop emeritus of Santa Ana (El Salvador)former General Secretary of Episcopal Conference of El SalvadorBorn:1940.03.05 (Ciudad Delgado, El Salvador)Ordained Priest:1968.06.25Consecrated Bishop:1987.07.25General Secretary of Episcopal Conference of El Salvador (? – 2016.02.09)Bishop of Zacatecoluca (El Salvador) (1987.05.05 – 1996.12.17)President of Episcopal Conference of El Salvador (1988 – 1992)Coadjutor Bishop of San Miguel (El Salvador) (1996.12.17 – 1997.04.10)Bishop of San Miguel (El Salvador) (1997.04.10 – 1999.05.12)Bishop of Santa Ana (El Salvador) (1999.05.12 – 2016.02.09)Special ChurchesCathedral:  Catedral de Nuestra Señora de los Pobres, Zacatecoluca, La Paz Show MapSan Salvador (←), San Vicente (↑), Santiago de María (→)Statistics (2022.12.31)Area: 1,536 km²Population: 235,426 Catholics (70.0% of 336,405 total)Pastoral Centres: 40 parishesPersonnel: 62 priests (58 diocesan, 4 religious), 2 deacons, 67 religious (6 brothers, 61 sisters), 29 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.19© 2026 GCatholic.org",
+  "code_gcatholic": "zaca1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 336405,
+    "catholiques": 235426,
+    "pourcentage_catholiques": 70.0
+  },
+  "ressources": {
+    "pretres_diocesains": 58,
+    "pretres_religieux": null,
+    "total_pretres": 62,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

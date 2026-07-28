@@ -1,0 +1,29 @@
+{
+  "id": "cm-esek0",
+  "nom": "Eséka",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Eséka / Esekanen(sis) (Latin)Ecclesiastical Province: DoualaNeighbouring Dioceses: Edéa (←), Bafia (↑), Obala (↗), Yaoundé (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1993.03.22: Established as Diocese of Eséka / Esekanen(sis) (Latin) (from Metropolitan Archdiocese of Douala and became suffragan of Douala)Present PrelatesBishop (2020.11.14 – ...):Bishop François Achille Eyabi (64)Monsignors (1)OrdinariesBishops of Eséka (Roman Rite)Bishop François Achille Eyabi (64)  (2020.11.14 – ...)Bishop of Eséka (Cameroon)Sufficit tibi gratia meaBorn:1961.09.30 (Ngambe, Cameroon)Ordained Priest:1988.07.30Consecrated Bishop:2021.01.08Priest of Douala (Cameroon) (1988.07.30 – 1993.03.22)Priest of Edéa (Cameroon) (1993.03.22 – 2020.11.14)Bishop of Eséka (Cameroon) (2020.11.14 – ...)Bishop Dieudonné Bogmis  (2004.10.15 – 2018.08.25)Christo regnat / Voici que je viens pour faire ta volonteBorn:1955.01.12 (Nyanon, Cameroon)Ordained Priest:1983.06.30Consecrated Bishop:1999.04.10Died:2018.08.25 (Eséka, Cameroon † 63)Titular Bishop of Gadiaufala (1999.02.09 – 2004.10.15)Auxiliary Bishop of Douala (Cameroon) (1999.02.09 – 2004.10.15)Bishop of Eséka (Cameroon) (2004.10.15 – 2018.08.25)Bishop Jean-Bosco Ntep (75)  (1993.03.22 – 2004.10.15)Bishop emeritus of Edéa (Cameroon)Caritas et vitaBorn:1951.04.03 (Hikoamaen, Cameroon)Ordained Priest:1979.03.25Consecrated Bishop:1993.07.04Priest of Mbalmayo (Cameroon) (1979.03.25 – 1993.03.22)Bishop of Eséka (Cameroon) (1993.03.22 – 2004.10.15)Bishop of Edéa (Cameroon) (2004.10.15 – 2026.06.04)Apostolic Administrator of Kribi (Cameroon) (2014.06.06 – 2015.11.07)Special ChurchesCathedral:  Cathédrale Notre Dame de Fatima, Eseka, Centre Show MapEdéa (←), Bafia (↑), Obala (↗), Yaoundé (→)Statistics (2022.12.31)Area: 6,500 km²Population: 143,360 Catholics (53.8% of 266,240 total)Pastoral Centres: 35 parishes, 1 missionPersonnel: 71 priests (67 diocesan, 4 religious), 1 deacon, 21 religious (5 brothers, 16 sisters), 37 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "esek0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 266240,
+    "catholiques": 143360,
+    "pourcentage_catholiques": 53.8
+  },
+  "ressources": {
+    "pretres_diocesains": 67,
+    "pretres_religieux": null,
+    "total_pretres": 71,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 35
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

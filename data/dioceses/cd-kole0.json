@@ -1,0 +1,29 @@
+{
+  "id": "cd-kole0",
+  "nom": "Kole",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Kole / Kolen(sis) (Latin)Ecclesiastical Province: KanangaNeighbouring Dioceses: Inongo (←), Mbandaka–Bikoro (↖), Bokungu–Ikela (↑), Kindu (↗), Tshumbe (→), Mweka (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1951.06.14: Established as Apostolic Prefecture of Kole / Kolen(sis) (Latin) (from Apostolic Vicariate of Léopoldville and Apostolic Vicariate of Tshumbe)1967.09.16: Promoted as Diocese of Kole / Kolen(sis) (Latin) (became suffragan of Luluabourg)Present PrelatesBishop (2015.05.06 – ...):Bishop Emery Kibal Mansong’loo, C.P. (57)OrdinariesBishops of Kole (Roman Rite)Bishop Emery Kibal Mansong’loo, C.P. (57)  (2015.05.06 – ...)Bishop of Kole (Congo-Kinshasa)Fiat voluntas tuaBorn:1969.06.28 (Kimputu, Congo-Kinshasa)Ordained Priest:1998.08.02Consecrated Bishop:2015.08.09Bishop of Kole (Congo-Kinshasa) (2015.05.06 – ...)Bishop Fridolin Ambongo Besungu, O.F.M. Cap. (66) (later Cardinal)  (Apostolic Administrator 2008.10.30 – 2015.05.06)Bishop Stanislas Lukumwena Lumbala, O.F.M. (76)  (1998.02.14 – 2008.10.30)Bishop emeritus of Kole (Congo-Kinshasa)Born:1949.07.24 (Tshikapa, Congo-Kinshasa)Ordained Priest:1979.03.31Consecrated Bishop:1998.06.21Bishop of Kole (Congo-Kinshasa) (1998.02.14 – 2008.10.30)Bishop Louis Nkinga Bondala, C.I.C.M. (89)  (1980.01.28 – 1996.03.13)Bishop emeritus of Lisala (Congo-Kinshasa)In caritate unitasBorn:1937.06.20 (Mankanza, Congo-Kinshasa)Ordained Priest:1966.08.07Consecrated Bishop:1980.05.04Bishop of Kole (Congo-Kinshasa) (1980.01.28 – 1996.03.13)Coadjutor Bishop of Lisala (Congo-Kinshasa) (1996.03.13 – 1997.07.06)Bishop of Lisala (Congo-Kinshasa) (1997.07.06 – 2015.02.11)Apostolic Administrator of Molegbe (Congo-Kinshasa) (2007.05.23 – 2009.11.14)Bishop Victor Van Beurden, SS.CC.  (1967.09.16 – 1980.01.28)Born:1908.01.07 (Poppel, Belgium)Ordained Priest:1934.07.25Consecrated Bishop:1968.02.11Died:1991.04.22 († 83)Prefect Apostolic of Kole (Congo-Kinshasa) (1951.06.22 – 1967.09.16)Bishop of Kole (Congo-Kinshasa) (1967.09.16 – 1980.01.28)Prefects Apostolic of Kole (Roman Rite)Fr. Victor Van Beurden, SS.CC. (later Bishop)  (1951.06.22 – 1967.09.16)(see above)Special ChurchesCathedral:  Cathédrale Regina Pacis, Kole, Sankuru Show MapInongo (←), Mbandaka–Bikoro (↖), Bokungu–Ikela (↑), Kindu (↗), Tshumbe (→), Mweka (↓)Statistics (2022.12.31)Area: 66,000 km²Population: 184,000 Catholics (23.7% of 778,000 total)Pastoral Centres: 14 parishes, 1 missionPersonnel: 37 priests (diocesan), 103 religious (7 brothers, 96 sisters), 28 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kole0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 778000,
+    "catholiques": 184000,
+    "pourcentage_catholiques": 23.7
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

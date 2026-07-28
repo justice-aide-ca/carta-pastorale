@@ -1,0 +1,29 @@
+{
+  "id": "in-bett0",
+  "nom": "Bettiah",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Bettiah / Bettiahen(sis) (Latin)Ecclesiastical Province: PatnaNeighbouring Dioceses: Varanasi (↙), Gorakhpur (←), Nepal (↗), Muzaffarpur (↘), Patna (↘), Buxar (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady of the RosaryLiturgical Calendar (National) 📅History1892.04.20: Established as Apostolic Prefecture of Bettiah / Bettiahen(sis) (Latin) (from Diocese of Allahabad)1893.05.19: Gained territory from Metropolitan Archdiocese of Agra1919.09.10: Suppressed (to establish Diocese of Patna)1998.06.27: Restored as Diocese of Bettiah / Bettiahen(sis) (Latin) (from Diocese of Muzaffarpur and became suffragan of Ranchi)1999.03.16: Became suffragan of PatnaPresent PrelatesBishop (2017.07.22 – ...):Bishop Peter Sebastian Goveas (71)OrdinariesBishops of Bettiah (Roman Rite)Bishop Peter Sebastian Goveas (71)  (2017.07.22 – ...)Bishop of Bettiah (India)Born:1955.02.08 (Hosabettu, India)Ordained Priest:1983.12.09Consecrated Bishop:2017.10.19Priest of Bhagalpur (India) (1983.12.09 – 2017.07.22)Bishop of Bettiah (India) (2017.07.22 – ...)Bishop Victor Henry Thakur (72) (later Archbishop)  (1998.06.27 – 2013.07.03)Metropolitan Archbishop of Raipur (India)I do it for youBorn:1954.07.01 (Chakhni, India)Ordained Priest:1984.05.03Consecrated Bishop:1998.11.11Priest of Muzaffarpur (India) (1984.05.03 – 1998.06.27)Bishop of Bettiah (India) (1998.06.27 – 2013.07.03)Metropolitan Archbishop of Raipur (India) (2013.07.03 – ...)Prefects Apostolic of Bettiah (Roman Rite)Fr. Eugen Remigius Schwarz, O.F.M. Cap.  (1892 – 1918.02)Born:1873.03.11 (Germany)Ordained Priest:1895Died:1918.02 († 44)Prefect Apostolic of Bettiah (India) (1892 – 1918.02)Special ChurchesCathedral:  Cathedral of the Nativity of the Blessed Virgin Mary, Bettiah, Bihār Show MapVaranasi (↙), Gorakhpur (←), Nepal (↗), Muzaffarpur (↘), Patna (↘), Buxar (↓)Statistics (2022.12.31)Area: 10,699 km²Population: 6,207 Catholics (0.0% of 18,896,770 total)Pastoral Centres: 17 parishes, 12 missionsPersonnel: 57 priests (33 diocesan, 24 religious), 169 religious (29 brothers, 140 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "bett0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 18896770,
+    "catholiques": 6207,
+    "pourcentage_catholiques": 0.0
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 57,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

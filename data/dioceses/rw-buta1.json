@@ -1,0 +1,29 @@
+{
+  "id": "rw-buta1",
+  "nom": "Butare",
+  "pays": "rw",
+  "pays_nom": "Rwanda",
+  "continent": "unknown",
+  "type": "Diocese Name: Butare / Butaren(sis) (Latin)Ecclesiastical Province: KigaliNeighbouring Dioceses: Gikongoro (↖), Kabgayi (↑), Kigali (↗), Muyinga (→), Ngozi (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1961.09.11: Established as Diocese of Astrida / Astridæn(sis) (Latin) (from Metropolitan Archdiocese of Kabgayi and became suffragan of Kabgayi)1963.11.12: Renamed as Diocese of Butare / Butaren(sis) (Latin)1976.04.10: Became suffragan of Kigali1992.03.30: Lost territory to establish Diocese of GikongoroPresent PrelatesBishop (2024.08.12 – ...):Bishop Jean Bosco Ntagungira (62)Monsignors (6)OrdinariesBishops of Butare (Roman Rite)Bishop Jean Bosco Ntagungira (62)  (2024.08.12 – ...)Bishop of Butare (Rwanda)Born:1964.04.03 (Kigali, Rwanda)Ordained Priest:1993.08.01Consecrated Bishop:2024.10.05Priest of Kigali (Rwanda) (1993.08.01 – 2024.08.12)Bishop of Butare (Rwanda) (2024.08.12 – ...)Bishop Philippe Rukamba (78)  (1997.01.02 – 2024.08.12)Bishop emeritus of Butare (Rwanda)Considerate JesumBorn:1948.05.26 (Kabarondo, Rwanda)Ordained Priest:1974.07.25Consecrated Bishop:1997.04.12Priest of Kibungo (Rwanda) (1974.07.25 – 1997.01.02)Bishop of Butare (Rwanda) (1997.01.02 – 2024.08.12)Apostolic Administrator of Gikongoro (Rwanda) (2012.05.28 – 2014.11.26)President of Episcopal Conference of Rwanda (2015.12 – 2022.12.02)Bishop Jean-Baptiste Gahamanyi  (1963.11.12 – 1997.01.02)In caritate et paceBorn:1920 (Kaduha, Burundi)Ordained Priest:1951.08.15Consecrated Bishop:1962.01.06Died:1999.06.19 († 78)Priest of Kabgayi (Rwanda) (1951.08.15 – 1961.09.11)Bishop of Astrida (Rwanda) (1961.09.11 – 1963.11.12)Bishop of Butare (Rwanda) (1963.11.12 – 1997.01.02)Apostolic Administrator sede plena of Gikongoro (Rwanda) (1994.11.11 – 1995?)Bishops of Astrida (Roman Rite)Bishop Jean-Baptiste Gahamanyi  (1961.09.11 – 1963.11.12)(see above)Special ChurchesCathedral:  Cathédrale Notre-Dame de la Sagesse, Butare, Sud Show MapGikongoro (↖), Kabgayi (↑), Kigali (↗), Muyinga (→), Ngozi (↓)Statistics (2022.12.31)Area: 1,958 km²Population: 707,000 Catholics (54.5% of 1,297,470 total)Pastoral Centres: 26 parishesPersonnel: 131 priests (82 diocesan, 49 religious), 830 religious (215 brothers, 615 sisters), 38 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "buta1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1297470,
+    "catholiques": 707000,
+    "pourcentage_catholiques": 54.5
+  },
+  "ressources": {
+    "pretres_diocesains": 82,
+    "pretres_religieux": null,
+    "total_pretres": 131,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ke-nyah0",
+  "nom": "Nyahururu",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Nyahururu / Nyahururen(sis) (Latin)Ecclesiastical Province: NyeriNeighbouring Dioceses: Nakuru (←), Maralal (↑), Isiolo (↗), Nyeri (→), Murang’a (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2002.12.05: Established as Diocese of Nyahururu / Nyahururen(sis) (Latin) (from Metropolitan Archdiocese of Nyeri and became suffragan of Nyeri)Present PrelatesBishop (2011.12.24 – ...):Bishop Joseph Ndembu Mbatia (65)OrdinariesBishops of Nyahururu (Roman Rite)Bishop Joseph Ndembu Mbatia (65)  (2011.12.24 – ...)Bishop of Nyahururu (Kenya)Diligite invicem sicut dilexi vosBorn:1961.05.10 (Itabua, Kenya)Ordained Priest:1989.02.18Consecrated Bishop:2012.03.24Priest of Nyeri (Kenya) (1989.02.18 – 2003.03)Priest of Nyahururu (Kenya) (2003.03 – 2011.12.24)Bishop of Nyahururu (Kenya) (2011.12.24 – ...)Bishop Luigi Paiaro (91)  (2003.01.04 – 2011.12.24)Bishop emeritus of Nyahururu (Kenya)Born:1934.09.08 (Voltabarozza, Italy)Ordained Priest:1959.07.12Consecrated Bishop:2003.03.25Priest of Padova (Italy) (1959.07.12 – 2003.01.04)Bishop of Nyahururu (Kenya) (2003.01.04 – 2011.12.24)Special ChurchesCathedral:  Cathedral of Mary Immaculate, Nyahururu, Nyeri Show MapNakuru (←), Maralal (↑), Isiolo (↗), Nyeri (→), Murang’a (↘)Statistics (2022.12.31)Area: 10,000 km²Population: 317,000 Catholics (33.8% of 938,256 total)Pastoral Centres: 36 parishesPersonnel: 108 priests (105 diocesan, 3 religious), 76 religious (3 brothers, 73 sisters), 68 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nyah0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 938256,
+    "catholiques": 317000,
+    "pourcentage_catholiques": 33.8
+  },
+  "ressources": {
+    "pretres_diocesains": 105,
+    "pretres_religieux": null,
+    "total_pretres": 108,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

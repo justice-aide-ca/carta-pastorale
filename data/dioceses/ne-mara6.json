@@ -1,0 +1,29 @@
+{
+  "id": "ne-mara6",
+  "nom": "Maradi",
+  "pays": "ne",
+  "pays_nom": "Niger",
+  "continent": "unknown",
+  "type": "Diocese Name: Maradi / Maraden(sis) (Latin)Ecclesiastical Province: NiameyNeighbouring Dioceses: Sokoto (↙), Niamey (←), Mopti (↖), Laghouat (↑), Tripoli (↗), N’Djaména (→), Maiduguri (→), Kano (↘), Katsina (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2001.03.13: Established as Diocese of Maradi / Maraden(sis) (Latin) (from Diocese of Niamey and without ecclesiastical province)2007.06.25: Became suffragan of NiameyPresent PrelatesBishop (2025.02.22 – ...):Bishop Ignatius Anipu, M. Afr. (66)OrdinariesBishops of Maradi (Roman Rite)Bishop Ignatius Anipu, M. Afr. (66)  (2025.02.22 – ...)Bishop of Maradi (Niger)Born:1959.11.07 (Wiagha, Ghana)Ordained Priest:1991.07.20Consecrated Bishop:2025.05.31Bishop of Maradi (Niger) (2025.02.22 – ...)Bishop Ambroise Ouédraogo (77)  (2001.03.13 – 2025.02.22)Bishop emeritus of Maradi (Niger)Tout est grâceBorn:1948.12.15 (Kossodo, Niger)Ordained Priest:1979.06.29Consecrated Bishop:1999.09.26Priest of Ouagadougou (Burkina Faso) (1979.06.29 – 1999.05.18)Titular Bishop of Severiana (1999.05.18 – 2001.03.13)Auxiliary Bishop of Niamey (Niger) (1999.05.18 – 2001.03.13)Bishop of Maradi (Niger) (2001.03.13 – 2025.02.22)Special ChurchesCathedral:  Cathédrale Notre-Dame de Lourdes, Maradi Show MapSokoto (↙), Niamey (←), Mopti (↖), Laghouat (↑), Tripoli (↗), N’Djaména (→), Maiduguri (→), Kano (↘), Katsina (↓)Statistics (2022.12.31)Area: 1,065,560 km²Population: 2,039 Catholics (0.0% of 8,830,000 total)Pastoral Centres: 7 parishesPersonnel: 12 priests (4 diocesan, 8 religious), 45 religious (11 brothers, 34 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mara6",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 8830000,
+    "catholiques": 2039,
+    "pourcentage_catholiques": 0.0
+  },
+  "ressources": {
+    "pretres_diocesains": 4,
+    "pretres_religieux": null,
+    "total_pretres": 12,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

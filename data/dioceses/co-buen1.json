@@ -1,0 +1,29 @@
+{
+  "id": "co-buen1",
+  "nom": "Buenaventura",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Buenaventura / Bonaventuren(sis) (Latin)Ecclesiastical Province: CaliNeighbouring Dioceses: Istmina–Tadó (↑), Palmira (↗), Cali (→), Guapi (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1952.11.14: Established as Apostolic Vicariate of Buenaventura / Bonaventuren(sis) (Latin) (from Diocese of Cali and Apostolic Prefecture of Tumaco)1996.11.30: Promoted as Diocese of Buenaventura / Bonaventuren(sis) (Latin) (became suffragan of Cali)Present PrelatesBishop:vacantApostolic Administrator (2026.04.04 – ...):Bishop Alexander Matiz Atencio (65)Bishop of Buga (Colombia)OrdinariesBishops of Buenaventura (Roman Rite)Bishop Alexander Matiz Atencio (65)  (Apostolic Administrator 2026.04.04 – ...)Bishop Rubén Darío Jaramillo Montoya (59)  (2017.06.30 – 2026.02.14)Bishop of Montería (Colombia)Born:1966.08.15 (Santa Rosa de Cabal, Colombia)Ordained Priest:1992.10.04Consecrated Bishop:2017.07.29Priest of Pereira (Colombia) (1992.10.04 – 2017.06.30)Bishop of Buenaventura (Colombia) (2017.06.30 – 2026.02.14)Bishop of Montería (Colombia) (2026.02.14 – ...)Bishop Héctor Epalza Quintero, P.S.S.  (2004.04.29 – 2017.06.30)Born:1940.06.14 (Convención, Colombia)Ordained Priest:1965.07.14Consecrated Bishop:2004.07.16Died:2021.02.02 (Pereira, Colombia † 80)Bishop of Buenaventura (Colombia) (2004.04.29 – 2017.06.30)Archbishop Juan Francisco Sarasti Jaramillo, C.I.M.  (Apostolic Administrator 2004.02.21 – 2004.04.29)Bishop Rigoberto Corredor Bermúdez (77)  (1996.11.30 – 2003.12.19)Bishop emeritus of Pereira (Colombia)Humilde siervo del SeñorBorn:1948.08.05 (Arabia, Colombia)Ordained Priest:1973.11.18Consecrated Bishop:1988.03.26Priest of Pereira (Colombia) (1973.11.18 – 1988.02.26)Titular Bishop of Rusguniæ (1988.02.26 – 1996.11.30)Auxiliary Bishop of Pereira (Colombia) (1988.02.26 – 1996.11.30)Bishop of Buenaventura (Colombia) (1996.11.30 – 2003.12.19)Bishop of Garzón (Colombia) (2003.12.19 – 2011.07.15)Bishop of Pereira (Colombia) (2011.07.15 – 2024.10.04)Vicars Apostolic of Buenaventura (Roman Rite)Bishop Heriberto Correa Yepes, M.X.Y.  (1973.01.29 – 1996.11.30)Born:1916.08.06 (Cedeño, Colombia)Ordained Priest:1939.11.12Consecrated Bishop:1973.03.27Died:2010.09.09 (Medellín, Colombia † 94)Prefect Apostolic of Mitú (Colombia) (1953.03.27 – 1967)Vicar Apostolic of Buenaventura (Colombia) (1973.01.29 – 1996.11.30)Titular Bishop of Casæ nigræ (1973.01.29 – 2010.09.09)Fr. Antonio Jesús Ruiz, M.X.Y.  (Apostolic Administrator 1972.03.03 – 1973.01.29)Bishop Gerardo Valencia Cano, M.X.Y.  (1953.03.24 – 1972.01.21)Born:1917.08.26 (Santo Domingo, Colombia)Ordained Priest:1942.11.29Consecrated Bishop:1953.05.24Died:1972.01.21 (Ciudad Bolívar, Colombia † 54)Prefect Apostolic of Mitú (Colombia) (1949.07.19 – 1953.03.24)Titular Bishop of Rhesaina (1953.03.24 – 1972.01.21)Vicar Apostolic of Buenaventura (Colombia) (1953.03.24 – 1972.01.21)Special ChurchesCathedral:  Catedral de San Buenaventura, Buenaventura, Valle del Cauca Jubilee Churches in the Holy Year 2025Show MapIstmina–Tadó (↑), Palmira (↗), Cali (→), Guapi (↓)Statistics (2022.12.31)Area: 6,078 km²Population: 229,003 Catholics (72.6% of 315,403 total)Pastoral Centres: 24 parishes, 10 missionsPersonnel: 37 priests (31 diocesan, 6 religious), 2 deacons, 41 religious (9 brothers, 32 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "buen1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 315403,
+    "catholiques": 229003,
+    "pourcentage_catholiques": 72.6
+  },
+  "ressources": {
+    "pretres_diocesains": 31,
+    "pretres_religieux": null,
+    "total_pretres": 37,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

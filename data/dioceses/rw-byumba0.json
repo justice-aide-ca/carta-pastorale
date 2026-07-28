@@ -1,0 +1,35 @@
+{
+  "id": "rw-byumba0",
+  "nom": "Byumba",
+  "pays": "rw",
+  "continent": "afrique",
+  "type": "Diocese",
+  "annee_donnees": 2022,
+  "territoire": {
+    "superficie_km2": 5100,
+    "population_totale": 1723000,
+    "catholiques": 819000,
+    "pourcentage_catholiques": 47.5
+  },
+  "ressources": {
+    "pretres_diocesains": 96,
+    "pretres_religieux": 18,
+    "total_pretres": 114,
+    "religieux_freres": 35,
+    "religieuses": 151,
+    "total_religieux": 186,
+    "seminarians": 46,
+    "diacres_permanents": null,
+    "paroisses": 25,
+    "missions": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org + Statistiques 2022",
+  "derniere_mise_a_jour": "2026-07-14",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Byumba",
+    "conference_episcopale": "https://www.eglisecatholiquerwanda.org/"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mg-ambo1",
+  "nom": "Ambositra",
+  "pays": "mg",
+  "pays_nom": "Madagascar",
+  "continent": "unknown",
+  "type": "Diocese Name: Ambositra / Ambositrens(sis) (Latin)Ecclesiastical Province: FianarantsoaNeighbouring Dioceses: Morombe (↙), Morondava (←), Antsirabé (↑), Toamasina (↗), Mananjary (↘), Fianarantsoa (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1999.06.03: Established as Diocese of Ambositra / Ambositrens(sis) (Latin) (from Metropolitan Archdiocese of Fianarantsoa and became suffragan of Fianarantsoa)Present PrelatesBishop (2005.06.24 – ...):Bishop Fidelis Rakotonarivo, S.J. (69)OrdinariesBishops of Ambositra (Roman Rite)Bishop Fidelis Rakotonarivo, S.J. (69)  (2005.06.24 – ...)Bishop of Ambositra (Madagascar)Born:1956.08.28 (Ambohimahazo, Madagascar)Ordained Priest:1992.08.15Consecrated Bishop:2005.09.04Bishop of Ambositra (Madagascar) (2005.06.24 – ...)Archbishop Fulgence Rabemahafaly (75)  (Apostolic Administrator 2002.12.01 – 2005.06.24)Bishop Fulgence Rabemahafaly (75) (later Archbishop)  (1999.06.03 – 2002.10.01)Metropolitan Archbishop of Fianarantsoa (Madagascar)Born:1951.05.23 (Miarinavaratra, Madagascar)Ordained Priest:1980.08.14Consecrated Bishop:1999.10.31Priest of Fianarantsoa (Madagascar) (1980.08.14 – 1999.06.03)Bishop of Ambositra (Madagascar) (1999.06.03 – 2002.10.01)Metropolitan Archbishop of Fianarantsoa (Madagascar) (2002.10.01 – ...)Apostolic Administrator of Ambositra (Madagascar) (2002.12.01 – 2005.06.24)President of Episcopal Conference of Madagascar (2006 – 2012.11)Vice-President of Episcopal Conference of Madagascar (2021.11.11 – 2024.11.13)Special ChurchesCathedral:  Cathédrale du Cœur-Immaculé de Marie, Ambositra, Fianarantsoa Show MapMorombe (↙), Morondava (←), Antsirabé (↑), Toamasina (↗), Mananjary (↘), Fianarantsoa (↓)Statistics (2020.12.31)Area: 24,000 km²Population: 532,024 Catholics (53.4% of 997,225 total)Pastoral Centres: 32 parishes, 18 missionsPersonnel: 76 priests (61 diocesan, 15 religious), 241 religious (40 brothers, 201 sisters), 77 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ambo1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 997225,
+    "catholiques": 532024,
+    "pourcentage_catholiques": 53.4
+  },
+  "ressources": {
+    "pretres_diocesains": 61,
+    "pretres_religieux": null,
+    "total_pretres": 76,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

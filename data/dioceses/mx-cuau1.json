@@ -1,0 +1,29 @@
+{
+  "id": "mx-cuau1",
+  "nom": "Cuautitlán",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Cuautitlán / Cuautitlanen(sis) (Latin)Ecclesiastical Province: TlalnepantlaNeighbouring Dioceses: Izcalli (←), Tula (↑), Tulancingo (↗), Teotihuacan (→), Ecatepec (↘), México (↓), Tlalnepantla (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Bonaventure (July 15)Cathedral Dedication Anniversary: July 14Liturgical Calendar (National) 📅History1979.02.05: Established as Diocese of Cuautitlán / Cuautitlanen(sis) (Latin) (from Diocese of Texcoco and Diocese of Tlalnepantla and became suffragan of México)1984.11.03: Lost territory to establish Diocese of Atlacomulco1989.06.17: Became suffragan of Tlalnepantla2014.06.09: Lost territory to establish Diocese of IzcalliContact InfoAddress: Sor Juana Inés de la Cruz # 208 Anexo a Catedral, Barrio del Huerto, 54800 - Cuautitlán, Mex., MexicoPhone: (55) 58-72-19-96Present PrelatesBishop (2022.11.09 – ...):Bishop Efraín Mendoza Cruz (66)OrdinariesBishops of Cuautitlán (Roman Rite)Bishop Efraín Mendoza Cruz (66)  (2022.11.09 – ...)Bishop of Cuautitlán (Mexico)Sirviendo con alegríaBorn:1959.11.24 (Tlalnepantla, Mexico)Ordained Priest:1988.10.18Consecrated Bishop:2011.07.27Priest of Tlalnepantla (Mexico) (1988.10.18 – 2011.06.04)Titular Bishop of Cubda (2011.06.04 – 2022.11.09)Auxiliary Bishop of Tlalnepantla (Mexico) (2011.06.04 – 2022.11.09)Bishop of Cuautitlán (Mexico) (2022.11.09 – ...)Archbishop José Antonio Fernández Hurtado (73)  (Apostolic Administrator 2021.09.14 – 2022.11.09)Bishop Guillermo Rodrigo Teodoro Ortiz Mondragón  (2005.10.19 – 2021.09.14)Born:1947.03.13 (Toluca, Mexico)Ordained Priest:1976.06.05Consecrated Bishop:2000.03.04Died:2021.09.14 (Cuautitlán Izcalli, Mexico † 74)Priest of México (Mexico) (1976.06.05 – 2000.01.29)Titular Bishop of Nova barbara (2000.01.29 – 2005.10.19)Auxiliary Bishop of México (Mexico) (2000.01.29 – 2005.10.19)Bishop of Cuautitlán (Mexico) (2005.10.19 – 2021.09.14)Bishop Manuel Samaniego Barriga  (1979.02.05 – 2005.06.26)Born:1930.10.10 (Angamacatiro, Mexico)Ordained Priest:1953.12.19Consecrated Bishop:1969.08.06Died:2005.06.26 (Ciudad de México, Mexico † 74)Titular Bishop of Passo Corese (1969.04.30 – 1971.01.11)Auxiliary Bishop of Saltillo (Mexico) (1969.04.30 – 1971.01.11)Bishop of Ciudad Altamirano (Mexico) (1971.01.11 – 1979.02.05)Bishop of Cuautitlán (Mexico) (1979.02.05 – 2005.06.26)Special ChurchesCathedral:  Catedral de San Buenaventura, Cuautitlán, México Show MapIzcalli (←), Tula (↑), Tulancingo (↗), Teotihuacan (→), Ecatepec (↘), México (↓), Tlalnepantla (↓)Statistics (2022.12.31)Area: 1,119 km²Population: 1,306,400 Catholics (74.9% of 1,743,800 total)Pastoral Centres: 83 parishes, 1 missionPersonnel: 136 priests (122 diocesan, 14 religious), 106 religious (29 brothers, 77 sisters), 46 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cuau1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1743800,
+    "catholiques": 1306400,
+    "pourcentage_catholiques": 74.9
+  },
+  "ressources": {
+    "pretres_diocesains": 122,
+    "pretres_religieux": null,
+    "total_pretres": 136,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 83
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

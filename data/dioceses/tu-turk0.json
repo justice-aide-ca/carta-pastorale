@@ -1,0 +1,29 @@
+{
+  "id": "tu-turk0",
+  "nom": "Turkiye",
+  "pays": "tu",
+  "pays_nom": "Turkiye",
+  "continent": "unknown",
+  "type": "Patriarchal Exarchate Name: Turkiye / TurkeySubject to the PatriarchNeighbouring Dioceses: Adiabene (↘), Hassaké–Nisibi (↘), Aleppo (↘)Depends on: Dicastery for the Eastern ChurchesHistory1991: Established as Patriarchal Exarchate of Turkiye / TurkeyPresent PrelatesPatriarchal Exarch (2017.07.02 – ...):Msgr. Orhan Abdulahad ÇanliOrdinariesPatriarchal Exarchs of Turkiye (Syriac Rite)Msgr. Orhan Abdulahad Çanli  (2017.07.02 – ...)Patriarchal Exarch of Turkiye of the Syriacs (Turkiye)Patriarchal Exarch of Turkiye of the Syriacs (Turkiye) (2017.07.02 – ...)Msgr. Yusuf Sağ  (1991 – 2017.07.02)Born:1934 (İdil, Turkiye)Ordained Priest:1964.02.14Patriarchal Vicar of Turkiye of the Syriacs (Turkiye) (1985 – 1991)Patriarchal Exarch of Turkiye of the Syriacs (Turkiye) (1991 – 2017.07.02)Former PrelatesPatriarchal Vicar: Msgr. Yusuf Sağ (1985 – 1991)Special ChurchesCathedral:  Church of the Sacred Heart, Istanbul Show MapAdiabene (↘), Hassaké–Nisibi (↘), Aleppo (↘)Statistics (2022.12.31)Population: 2,000 CatholicsPersonnel: 2 priests (diocesan)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "turk0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "br-serr0",
+  "nom": "Serrinha",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Serrinha / Serrignen(sis) (Latin)Ecclesiastical Province: Feira de SantanaNeighbouring Dioceses: Ruy Barbosa (←), Bonfim (↖), Paulo Afonso (↑), Alagoinhas (↘), Feira de Santana (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Anne (July 26)Liturgical Calendar (National) 📅History2005.09.21: Established as Diocese of Serrinha / Serrignen(sis) (Latin) (from Metropolitan Archdiocese of Feira de Santana and Diocese of Paulo Afonso and became suffragan of Feira de Santana)Present PrelatesBishop (2021.02.03 – ...):Bishop Hélio Pereira dos Santos (58)OrdinariesBishops of Serrinha (Roman Rite)Bishop Hélio Pereira dos Santos (58)  (2021.02.03 – ...)Bishop of Serrinha (Brazil)Ide e fazei meus discípulosBorn:1967.11.18 (Pão de Açúcar, AL, Brazil)Ordained Priest:1996.12.19Consecrated Bishop:2016.07.22Priest of Palmeira dos Índios (Brazil) (1996.12.19 – 2016.04.27)Titular Bishop of Thiava (2016.04.27 – 2020.10.16)Auxiliary Bishop of São Salvador da Bahia (Brazil) (2016.04.27 – 2020.10.16)Coadjutor Bishop of Serrinha (Brazil) (2020.10.16 – 2021.02.03)Bishop of Serrinha (Brazil) (2021.02.03 – ...)Bishop Ottorino Assolari, C.S.F. (80)  (2005.09.21 – 2021.02.03)Bishop emeritus of Serrinha (Brazil)Christi Crux in cordibus nostrisBorn:1946.01.30 (Scanzorosciate, Italy)Ordained Priest:1973.09.08Consecrated Bishop:2005.11.25Bishop of Serrinha (Brazil) (2005.09.21 – 2021.02.03)Former PrelatesCoadjutor Bishop: Bishop Hélio Pereira dos Santos (58) (2020.10.16 – 2021.02.03)Special ChurchesCathedral:  Catedral de Senhora Sant’Ana, Serrinha, Bahia Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (20)Show MapRuy Barbosa (←), Bonfim (↖), Paulo Afonso (↑), Alagoinhas (↘), Feira de Santana (↓)Statistics (2022.12.31)Area: 17,169 km²Population: 419,800 Catholics (72.7% of 577,600 total)Pastoral Centres: 25 parishes, 3 missionsPersonnel: 39 priests (28 diocesan, 11 religious), 10 deacons, 38 religious (11 brothers, 27 sisters), 11 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "serr0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 577600,
+    "catholiques": 419800,
+    "pourcentage_catholiques": 72.7
+  },
+  "ressources": {
+    "pretres_diocesains": 28,
+    "pretres_religieux": null,
+    "total_pretres": 39,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

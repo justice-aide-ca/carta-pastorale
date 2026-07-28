@@ -1,0 +1,29 @@
+{
+  "id": "pe-ayav0",
+  "nom": "Ayaviri",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Territorial Prelature Name: Ayaviri / Ayavirien(sis) (Latin)Ecclesiastical Province: ArequipaNeighbouring Dioceses: Sicuani (←), Cusco (↖), Puerto Maldonado (↑), Santiago Apóstol de Huancané (→), Puno (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsCathedral Dedication Anniversary: May 9Liturgical Calendar 📅History1958.07.30: Established as Territorial Prelature of Ayaviri / Ayavirien(sis) (Latin) (from Diocese of Puno and became suffragan of Arequipa)2019.04.03: Lost territory to establish Territorial Prelature of Santiago Apóstol de HuancanéContact InfoAddress: Curia Prelaticia, Jr. Jorge Chávez 489, Ayaviri, Puno, PeruPhone: (51)563.123Present PrelatesBishop-Prelate (2024.10.04 – ...):Bishop Benigno Condori Chuchi, O.F.M. (55)OrdinariesPrelates of Ayaviri (Roman Rite)Bishop Benigno Condori Chuchi, O.F.M. (55)  (2024.10.04 – ...)Bishop-Prelate of Ayaviri (Peru)Born:1971.03.22 (Cucero, Peru)Ordained Priest:2000.09.09Consecrated Bishop:2025.01.06Bishop-Prelate of Ayaviri (Peru) (2024.10.04 – ...)Bishop Pedro Alberto Bustamante López (61)  (Apostolic Administrator 2021.04.07 – 2024.10.04)Bishop Kay Martin Schmalhausen Panizo, S.C.V. (61)  (2006.02.18 – 2021.04.07)Bishop-Prelate emeritus of Ayaviri (Peru)Mihi enim vivere Christus estBorn:1964.07.27 (Lima, Peru)Ordained Priest:1989.12.16Consecrated Bishop:2006.04.23Bishop-Prelate of Ayaviri (Peru) (2006.02.18 – 2021.04.07)Bishop Juan Godayol Colom, S.D.B. (82)  (1991.12.04 – 2006.02.18)Bishop-Prelate emeritus of Ayaviri (Peru)Born:1943.09.04 (Mataró, Spain)Ordained Priest:1972.08.13Consecrated Bishop:1992.01.04Bishop-Prelate of Ayaviri (Peru) (1991.12.04 – 2006.02.18)Bishop José Juan Luciano Carlos Metzinger Greff, SS.CC.  (1958.07.30 – 1971.01.31)Born:1910.12.27 (Oeting, France)Ordained Priest:1933.10.01Consecrated Bishop:1964.05.09Died:1992.10.23 (Lima, Peru † 81)Bishop-Prelate of Ayaviri (Peru) (1958.07.30 – 1971.01.31)Titular Bishop of Autenti (1964.04.04 – 1992.10.23)Special ChurchesCathedral:  Catedral San Francisco de Asís, Ayaviri, Puno Jubilee Churches in the Holy Year 2025Churches by City (21)Show MapSicuani (←), Cusco (↖), Puerto Maldonado (↑), Santiago Apóstol de Huancané (→), Puno (↓)Statistics (2022.12.31)Area: 20,712 km²Population: 165,000 Catholics (85.5% of 193,000 total)Pastoral Centres: 23 parishesPersonnel: 20 priests (diocesan), 21 religious (2 brothers, 19 sisters)PopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ayav0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 193000,
+    "catholiques": 165000,
+    "pourcentage_catholiques": 85.5
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

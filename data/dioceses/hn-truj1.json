@@ -1,0 +1,29 @@
+{
+  "id": "hn-truj1",
+  "nom": "Trujillo",
+  "pays": "hn",
+  "pays_nom": "Honduras",
+  "continent": "unknown",
+  "type": "Diocese Name: Trujillo / Truxillen(sis) in Honduria (Latin)Ecclesiastical Province: San Pedro SulaNeighbouring Dioceses: Yoro (↙), La Ceiba (←), Siuna (↘), Juticalpa (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1527: Established as Diocese of Honduras (from Diocese of Santo Domingo and became suffragan of Sevilla)1531.09.06: Renamed as Diocese of Trujillo / Truxillen(sis) in Honduria (Latin)1546.02.12: Became suffragan of Santo Domingo1561: Suppressed (to establish Diocese of Comayagua)1987.07.03: Restored as Diocese of Trujillo / Truxillen(sis) in Honduria (Latin) (from Diocese of San Pedro Sula and became suffragan of Tegucigalpa)2023.01.26: Became suffragan of San Pedro SulaPresent PrelatesBishop (2023.03.10 – ...):Bishop Henry Orlando Ruiz Mora (53)OrdinariesBishops of Trujillo (Roman Rite)Bishop Henry Orlando Ruiz Mora (53)  (2023.03.10 – ...)Bishop of Trujillo (Honduras)Junto a la Cruz de JesúsBorn:1973.01.25 (Santa Cruz del Potrero, Honduras)Ordained Priest:1998.05.30Consecrated Bishop:2023.05.06Priest of Juticalpa (Honduras) (1998.05.30 – 2023.03.10)Bishop of Trujillo (Honduras) (2023.03.10 – ...)Bishop Luis Felipe Solé Fa, C.M. (79)  (2005.03.18 – 2023.03.10)Bishop emeritus of Trujillo (Honduras)Born:1946.07.23 (Tarragona, Spain)Ordained Priest:1973.12.29Consecrated Bishop:2005.06.29Bishop of Trujillo (Honduras) (2005.03.18 – 2023.03.10)General Secretary of Episcopal Conference of Honduras (2007? – 2016.06.13)Bishop Virgilio López Irías, O.F.M.  (1987.07.03 – 2004.06.22)Born:1937.09.29 (La Ceiba, Honduras)Ordained Priest:1973.07.14Consecrated Bishop:1987.10.07Died:2004.06.22 († 66)Bishop of Trujillo (Honduras) (1987.07.03 – 2004.06.22)Bishop-elect Jerónimo de Corella, O.S.H.  (1556.06.12 – 1561)Born: (Spain)Consecrated Bishop:1563.03.31Died:1575.07.31Bishop of Trujillo (Honduras) (1556.06.12 – 1561)Bishop of Comayagua (Honduras) (1561 – 1575.07.31)Bishop Cristóbal de Pedraza  (1541.02.11 – 1553)Born:1485 (Spain)Consecrated Bishop:1541.02.04Died:1553 († 68)Bishop of Trujillo (Honduras) (1541.02.11 – 1553)Former PrelatesAuxiliary Bishop: Bishop Alfonso Zaplana Bellizza (1952.07.14 – 1957.12.17)Special ChurchesCathedral:  Catedral San Juan Bautista, Trujillo, Colón Show MapYoro (↙), La Ceiba (←), Siuna (↘), Juticalpa (↓)Statistics (2022.12.31)Area: 25,296 km²Population: 228,000 Catholics (52.8% of 431,455 total)Pastoral Centres: 11 parishes, 1 missionPersonnel: 29 priests (10 diocesan, 19 religious), 46 religious (20 brothers, 26 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "truj1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 431455,
+    "catholiques": 228000,
+    "pourcentage_catholiques": 52.8
+  },
+  "ressources": {
+    "pretres_diocesains": 10,
+    "pretres_religieux": null,
+    "total_pretres": 29,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

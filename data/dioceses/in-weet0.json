@@ -1,0 +1,29 @@
+{
+  "id": "in-weet0",
+  "nom": "Weetebula",
+  "pays": "in",
+  "pays_nom": "Indonesia",
+  "continent": "unknown",
+  "type": "Diocese Name: Weetebula / Veetebulaën(sis) (Latin)Ecclesiastical Province: KupangNeighbouring Dioceses: Denpasar (←), Labuan Bajo (↑), Ruteng (↗), Ende (↗), Kupang (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1959.10.20: Established as Apostolic Prefecture of Weetebula / Veetebulaën(sis) (Latin) (from Apostolic Vicariate of Endeh)1969.02.06: Promoted as Diocese of Weetebula / Veetebulaën(sis) (Latin) (became suffragan of Endeh)1989.10.23: Became suffragan of KupangPresent PrelatesBishop (2009.04.04 – ...):Bishop Edmund Woga, C.SS.R. (75)OrdinariesBishops of Weetebula (Roman Rite)Bishop Edmund Woga, C.SS.R. (75)  (2009.04.04 – ...)Bishop of Weetebula (Indonesia)Prædicare redemptionemBorn:1950.11.17 (Hewokloang, Nusa Tenggara Timur, Indonesia)Ordained Priest:1977.11.29Consecrated Bishop:2009.07.16Bishop of Weetebula (Indonesia) (2009.04.04 – ...)Bishop Gerulfus Kherubim Pareira, S.V.D.  (1985.12.21 – 2008.01.19)Ut omnes unum sintBorn:1941.09.26 (Lela, Nusa Tenggara Timur, Indonesia)Ordained Priest:1971.08.16Consecrated Bishop:1986.04.25Died:2024.10.08 (Maumere, Nusa Tenggara Timur, Indonesia † 83)Bishop of Weetebula (Indonesia) (1985.12.21 – 2008.01.19)Bishop of Maumere (Indonesia) (2008.01.19 – 2018.07.14)Prefects Apostolic of Weetebula (Roman Rite)Fr. Berthold Neij, C.SS.R.  (Apostolic Administrator 1980 – 1985)Fr. Henricus Haripranata, S.J.  (Apostolic Administrator 1975.10.08 – 1980.02.21)Fr. Wilhelm Wagener, C.SS.R.  (Apostolic Administrator 1970.08.05 – 1975)Fr. Gerard J. Legeland, C.SS.R.  (1960.03.15 – 1969)Born:1909.03.09 (Germany)Ordained Priest:1937.12.18Died:1989.04.04 (Köln, Germany † 80)Prefect Apostolic of Weetebula (Indonesia) (1960.03.15 – 1969)Special ChurchesCathedral:  Katedral Roh Kudus, Weetebula, Nusa Tenggara Timur, Nusa Tenggara Churches by City (29)Show MapDenpasar (←), Labuan Bajo (↑), Ruteng (↗), Ende (↗), Kupang (→)Statistics (2017.12.31)Area: 12,297 km²Population: 215,300 Catholics (23.6% of 913,000 total)Pastoral Centres: 26 parishes, 1 missionPersonnel: 123 priests (63 diocesan, 60 religious), 209 religious (122 brothers, 87 sisters), 44 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "weet0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 913000,
+    "catholiques": 215300,
+    "pourcentage_catholiques": 23.6
+  },
+  "ressources": {
+    "pretres_diocesains": 63,
+    "pretres_religieux": null,
+    "total_pretres": 123,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "th-chia2",
+  "nom": "Chiang Rai",
+  "pays": "th",
+  "pays_nom": "Thailand",
+  "continent": "unknown",
+  "type": "Diocese Name: Chiang Rai / 清萊 (正體中文) / เมืองเชียงราย (ไทย) / Chiangraien(sis) (Latin)Ecclesiastical Province: BangkokNeighbouring Dioceses: Chiang Mai (↙), Kengtung (↑), Luang Prabang (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2018.04.25: Established as Diocese of Chiang Rai / 清萊 (正體中文) / เมืองเชียงราย (ไทย) / Chiangraien(sis) (Latin) (from Diocese of Chiang Mai and became suffragan of Bangkok)Present PrelatesBishop (2018.04.25 – ...):Bishop Joseph Vuthilert Haelom (74)OrdinariesBishops of Chiang Rai (Roman Rite)Bishop Joseph Vuthilert Haelom (74)  (2018.04.25 – ...)Bishop of Chiang Rai (Thailand)Tolle crucem tuam et sequere meBorn:1951.12.17 (Lamsai, Thailand)Ordained Priest:1980.08.03Consecrated Bishop:2018.07.07Priest of Bangkok (Thailand) (1980.08.03 – 2018.04.25)Bishop of Chiang Rai (Thailand) (2018.04.25 – ...)Special ChurchesCathedral:  Cathedral of the Nativity of Our Lady, Chiang Rai, Chiang Rai Jubilee Churches in the Holy Year 2025Show MapChiang Mai (↙), Kengtung (↑), Luang Prabang (→)Statistics (2022.12.31)Area: 37,839 km²Population: 25,220 Catholics (0.9% of 2,768,978 total)Pastoral Centres: 23 parishesPersonnel: 44 priests (6 diocesan, 38 religious), 96 religious (46 brothers, 50 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chia2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2768978,
+    "catholiques": 25220,
+    "pourcentage_catholiques": 0.9
+  },
+  "ressources": {
+    "pretres_diocesains": 6,
+    "pretres_religieux": null,
+    "total_pretres": 44,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

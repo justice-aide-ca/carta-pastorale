@@ -1,0 +1,29 @@
+{
+  "id": "sv-zvic0",
+  "nom": "San Vicente",
+  "pays": "sv",
+  "pays_nom": "El Salvador",
+  "continent": "unknown",
+  "type": "Diocese Name: San Vicente (español) / Sancti Vincentii (Latin)Ecclesiastical Province: San SalvadorNeighbouring Dioceses: San Salvador (←), Chalatenango (↖), Gracias (↑), Santiago de María (↘), Zacatecoluca (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Vicente de León (December 26)Liturgical Calendar (Universal) 📅History1943.12.18: Established as Diocese of San Vicente (español) / Sancti Vincentii (Latin) (from Metropolitan Archdiocese of San Salvador and became suffragan of San Salvador)1987.05.05: Lost territory to establish Diocese of ZacatecolucaContact InfoAddress: Obispado, 2ª Avenida Norte 10, San Vicente, El SalvadorPhone: 2393-0004Present PrelatesBishop (2009.12.12 – ...):Bishop José Elías Rauda Gutiérrez, O.F.M. (63)Monsignors (3)OrdinariesBishops of San Vicente (Roman Rite)Bishop José Elías Rauda Gutiérrez, O.F.M. (63)  (2009.12.12 – ...)Bishop of San Vicente (El Salvador)Born:1962.07.20 (Agua Caliente, El Salvador)Ordained Priest:1989.04.01Consecrated Bishop:2008.04.19Titular Bishop of Foratiana (2008.01.25 – 2009.12.12)Auxiliary Bishop of Santa Ana (El Salvador) (2008.01.25 – 2009.12.12)Bishop of San Vicente (El Salvador) (2009.12.12 – ...)Vice-President of Episcopal Conference of El Salvador (2016? – 2020.03?)Bishop José Luis Escobar Alas (67) (later Archbishop)  (2005.06.04 – 2008.12.27)Metropolitan Archbishop of San Salvador (El Salvador)President of Episcopal Conference of El SalvadorTomad y comed todos de elBorn:1959.03.10 (San Salvador, El Salvador)Ordained Priest:1982.08.15Consecrated Bishop:2002.03.23Priest of San Vicente (El Salvador) (1982.08.15 – 2002.01.19)Titular Bishop of Thibica (2002.01.19 – 2005.06.04)Auxiliary Bishop of San Vicente (El Salvador) (2002.01.19 – 2005.06.04)Bishop of San Vicente (El Salvador) (2005.06.04 – 2008.12.27)Metropolitan Archbishop of San Salvador (El Salvador) (2008.12.27 – ...)President of Episcopal Conference of El Salvador (2009.03 – ...)President of Episcopal Secretariat of Central America and Panama (2016.11.26 – 2022.10.23)Bishop José Oscar Barahona Castillo  (1983.06.06 – 2005.06.04)Born:1938.11.29 (Mercedes La Ceiba, El Salvador)Ordained Priest:1963.01.20Consecrated Bishop:1982.10.09Died:2016.10.22 († 77)Priest of San Vicente (El Salvador) (1963.01.20 – 1982.07.16)Chaplain of His Holiness (1972.01.12 – 1982.07.16)Titular Bishop of Mibiarca (1982.07.16 – 1983.06.06)Auxiliary Bishop of San Vicente (El Salvador) (1982.07.16 – 1983.06.06)Bishop of San Vicente (El Salvador) (1983.06.06 – 2005.06.04)Bishop Pedro Arnoldo Aparicio y Quintanilla, S.D.B.  (1948.11.27 – 1983.06.06)Born:1908.04.29 (Chinameca, El Salvador)Ordained Priest:1937.02.20Consecrated Bishop:1946.06.29Died:1992.09.07 († 84)Titular Bishop of Æzani (1946.02.22 – 1948.11.27)Auxiliary Bishop of San Salvador (El Salvador) (1946.02.22 – 1948.11.27)Bishop of San Vicente (El Salvador) (1948.11.27 – 1983.06.06)President of Episcopal Conference of El Salvador (1967 – 1970)President of Episcopal Conference of El Salvador (1977 – 1980)Archbishop Luis Chávez y González  (Apostolic Administrator 1944 – 1948.11.27)Former PrelatesAuxiliary Bishop: Bishop José Luis Escobar Alas (67) (later Archbishop) (2002.01.19 – 2005.06.04)Auxiliary Bishop: Bishop José Oscar Barahona Castillo (1982.07.16 – 1983.06.06)Special ChurchesCathedral:  Catedral de San Vicente Abad, San Vicente, San Vicente Minor Basilica:  Basílica de Nuestra Señora del Pilar, San Vicente, San Vicente Show MapSan Salvador (←), Chalatenango (↖), Gracias (↑), Santiago de María (↘), Zacatecoluca (↓)Statistics (2022.12.31)Area: 2,056 km²Population: 485,942 Catholics (90.9% of 534,642 total)Pastoral Centres: 41 parishesPersonnel: 80 priests (diocesan), 198 religious (198 sisters), 24 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zvic0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 534642,
+    "catholiques": 485942,
+    "pourcentage_catholiques": 90.9
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 41
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

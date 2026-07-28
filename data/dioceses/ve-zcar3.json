@@ -1,0 +1,29 @@
+{
+  "id": "ve-zcar3",
+  "nom": "San Carlos de Venezuela",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: San Carlos de Venezuela / Sancti Caroli in Venetiola (Latin)Ecclesiastical Province: ValenciaNeighbouring Dioceses: Guanare (↙), Acarigua–Araure (←), Barquisimeto (↖), San Felipe (↖), Puerto Cabello (↑), Valencia (↗), Calabozo (→), Barinas (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: San Carlos Borromeo (November 4)Cathedral Dedication Anniversary: December 9Liturgical Calendar (National) 📅History1972.05.16: Established as Diocese of San Carlos de Venezuela / Sancti Caroli in Venetiola (Latin) (from Diocese of Valencia and became suffragan of Caracas)1974.11.12: Became suffragan of ValenciaContact InfoAddress: Calle Carabobo, N° 11-10, San Carlos, Estado Cojedes, VenezuelaPresent PrelatesBishop (2025.05.27 – ...):Bishop Alexander Rivera Vielma (52)OrdinariesBishops of San Carlos de Venezuela (Roman Rite)Bishop Alexander Rivera Vielma (52)  (2025.05.27 – ...)Bishop of San Carlos de Venezuela (Venezuela)Lo miró con amorBorn:1974.03.06 (Mérida, Venezuela)Ordained Priest:1998.09.19Consecrated Bishop:2025.08.23Priest of Mérida (Venezuela) (1998.09.19 – 2025.05.27)Bishop of San Carlos de Venezuela (Venezuela) (2025.05.27 – ...)Bishop Polito Rodríguez Méndez (58) (later Archbishop)  (2016.04.08 – 2024.06.28)Metropolitan Archbishop of Barquisimeto (Venezuela)Born:1967.08.13 (Santa Bárbara, Venezuela)Ordained Priest:1999.07.31Consecrated Bishop:2016.06.18Priest of Barinas (Venezuela) (1999.07.31 – 2016.04.08)Bishop of San Carlos de Venezuela (Venezuela) (2016.04.08 – 2024.06.28)Metropolitan Archbishop of Barquisimeto (Venezuela) (2024.06.28 – ...)Archbishop Reinaldo Del Prette Lissot  (Apostolic Administrator 2014.03.05 – 2016.04.08)Bishop Jesús Tomás Zárraga Colmenares (68)  (2002.12.27 – 2014.11.10)Bishop emeritus of San Carlos de Venezuela (Venezuela)Born:1957.09.22 (Caserio Azaro, Venezuela)Ordained Priest:1985.09.14Consecrated Bishop:2003.03.15Priest of Coro (Venezuela) (1985.09.14 – 1997.07.12)Priest of Punto Fijo (Venezuela) (1997.07.12 – 2002.12.27)Bishop of San Carlos de Venezuela (Venezuela) (2002.12.27 – 2014.11.10)Apostolic Administrator of La Guaira (Venezuela) (2011.11 – 2013.11.30)Bishop Antonio Arellano Durán  (1980.06.03 – 2002.12.27)Born:1927.06.13 (Colon, Venezuela)Ordained Priest:1955.11.01Consecrated Bishop:1980.08.24Died:2003.03.02 († 75)Priest of San Carlos de Venezuela (Venezuela) (1955.11.01 – 1980.06.03)Bishop of San Carlos de Venezuela (Venezuela) (1980.06.03 – 2002.12.27)Bishop-elect Ramón Antonio Linares Sandoval (89)  (1972.05.16 – 1994.07.05)Bishop emeritus of Barinas (Venezuela)Born:1936.12.26 (San Carlos, Venezuela)Ordained Priest:1963.07.28Consecrated Bishop:1994.10.15Priest of Valencia (Venezuela) (1963.07.28 – 1972.05.16)Bishop of San Carlos de Venezuela (Venezuela) (1972.05.16 – 1994.07.05)Prelate of Honour of His Holiness (1988.07.11 – 1994.07.05)Bishop of Puerto Cabello (Venezuela) (1994.07.05 – 2002.07.16)Bishop of Barinas (Venezuela) (2002.07.16 – 2013.08.30)Apostolic Administrator of Acarigua–Araure (Venezuela) (2013.12 – 2015.08.10)Bishop Medardo Luis Luzardo Romero (later Archbishop)  (1972.05.16 – 1979.08.20)Born:1935.04.17 (Los Puertos de Altagracia, Venezuela)Ordained Priest:1960.01.06Consecrated Bishop:1972.07.25Died:2018.11.27 (Los Puertos de Altagracia, Venezuela † 83)Bishop of San Carlos de Venezuela (Venezuela) (1972.05.16 – 1979.08.20)Bishop of Ciudad Guayana (Venezuela) (1979.08.20 – 1986.05.26)Metropolitan Archbishop of Ciudad Bolívar (Venezuela) (1986.05.26 – 2011.08.27)Special ChurchesCathedral:  Catedral de la Inmaculada Concepción, San Carlos, Cojedes Show MapGuanare (↙), Acarigua–Araure (←), Barquisimeto (↖), San Felipe (↖), Puerto Cabello (↑), Valencia (↗), Calabozo (→), Barinas (↓)Statistics (2022.12.31)Area: 14,800 km²Population: 646,000 Catholics (88.5% of 730,000 total)Pastoral Centres: 23 parishes, 3 missionsPersonnel: 31 priests (22 diocesan, 9 religious), 6 deacons, 19 religious (9 brothers, 10 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zcar3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 730000,
+    "catholiques": 646000,
+    "pourcentage_catholiques": 88.5
+  },
+  "ressources": {
+    "pretres_diocesains": 22,
+    "pretres_religieux": null,
+    "total_pretres": 31,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

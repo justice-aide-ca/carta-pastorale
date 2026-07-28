@@ -1,0 +1,29 @@
+{
+  "id": "pe-chim0",
+  "nom": "Chimbote",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Chimbote / Cimbotien(sis) (Latin)Ecclesiastical Province: TrujilloNeighbouring Dioceses: Trujillo (↑), Huaraz (→), Huacho (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: San Pedro (June 29), Santísima Virgen del Carmen (July 16)Liturgical Calendar 📅History1962.11.26: Established as Territorial Prelature of Chimbote / Cimbotien(sis) (Latin) (from Diocese of Huaraz and became suffragan of Trujillo)1983.04.06: Promoted as Diocese of Chimbote / Cimbotien(sis) (Latin) (gained territory from Diocese of Huaraz)Present PrelatesBishop (2022.05.18 – ...):Bishop Ángel Ernesto Zapata Bances, O.C.D. (66)Monsignors (1)OrdinariesBishops of Chimbote (Roman Rite)Bishop Ángel Ernesto Zapata Bances, O.C.D. (66)  (2022.05.18 – ...)Bishop of Chimbote (Peru)Born:1959.08.03 (Lima, Peru)Ordained Priest:1987.03.22Consecrated Bishop:2022.07.16Bishop of Chimbote (Peru) (2022.05.18 – ...)Bishop Ángel Francisco Simón Piorno (80)  (2004.02.04 – 2022.05.18)Bishop emeritus of Chimbote (Peru)Born:1945.12.03 (Corbellino di Sayago, Spain)Ordained Priest:1973.04.22Consecrated Bishop:1991.07.05Priest of Jaén en Perú (Peru) (1973.04.22 – 1991.05.18)Bishop of Chachapoyas (Peru) (1991.05.18 – 1995.03.18)Bishop of Cajamarca (Peru) (1995.03.18 – 2004.02.04)Bishop of Chimbote (Peru) (2004.02.04 – 2022.05.18)Bishop Luis Armando Bambarén Gastelumendi, S.J.  (1983.04.06 – 2004.02.04)Born:1928.01.14 (Yungay, Peru)Ordained Priest:1958.07.15Consecrated Bishop:1968.01.07Died:2021.03.19 (Lima, Peru † 93)Titular Bishop of Sertei (1967.12.01 – 1978.06.02)Auxiliary Bishop of Lima (Peru) (1967.12.01 – 1978.06.02)Bishop-Prelate of Chimbote (Peru) (1978.06.02 – 1983.04.06)Bishop of Chimbote (Peru) (1983.04.06 – 2004.02.04)General Secretary of Episcopal Conference of Peru (1996 – 1997)President of Episcopal Conference of Peru (1999 – 2003)Prelates of Chimbote (Roman Rite)Bishop Luis Armando Bambarén Gastelumendi, S.J.  (1978.06.02 – 1983.04.06)(see above)Bishop James Edward Charles Burke, O.P.  (1965.03.08 – 1978.06.02)Born:1926.11.30 (Philadelphia, PA, USA)Ordained Priest:1956.06.08Consecrated Bishop:1967.05.25Died:1994.05.28 (Newark, DE, USA † 67)Bishop-Prelate of Chimbote (Peru) (1965.03.08 – 1978.06.02)Titular Bishop of Lamiggiga (1967.04.08 – 1994.05.28)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen y San Pedro, Chimbote, Ancash Jubilee Churches in the Holy Year 2025Churches by City (43)Show MapTrujillo (↑), Huaraz (→), Huacho (↘)Statistics (2022.12.31)Area: 23,500 km²Population: 649,000 Catholics (87.8% of 739,000 total)Pastoral Centres: 52 parishes, 520 missionsPersonnel: 67 priests (56 diocesan, 11 religious), 1 deacon, 92 religious (13 brothers, 79 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chim0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 739000,
+    "catholiques": 649000,
+    "pourcentage_catholiques": 87.8
+  },
+  "ressources": {
+    "pretres_diocesains": 56,
+    "pretres_religieux": null,
+    "total_pretres": 67,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 52
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

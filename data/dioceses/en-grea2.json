@@ -1,0 +1,29 @@
+{
+  "id": "en-grea2",
+  "nom": "Great Britain",
+  "pays": "en",
+  "pays_nom": "England",
+  "continent": "unknown",
+  "type": "Diocese Name: Great Britain (English) / Gran Bretagna (Italiano) / Magnæ Britanniæ Syro-Malabarensium (Latin)Subject to the Major ArchbishopDepends on: Dicastery for the Eastern ChurchesWebsites: CelebrationsPatron Saint: Saint Alphonsa of the Immaculate Conception MuttathupadathuHistory2016.07.28: Established as Diocese of Great Britain (English) / Gran Bretagna (Italiano) / Magnæ Britanniæ Syro-Malabarensium (Latin) (without ecclesiastical province)Present PrelatesBishop (2016.07.28 – ...):Bishop Joseph Srampickal (Benny Mathew) (59)OrdinariesBishops of Great Britain (Syro-Malabar Rite)Bishop Joseph Srampickal (Benny Mathew) (59)  (2016.07.28 – ...)Bishop of Great Britain of the Syro-Malabars (England)Do the work of an evangelistBorn:1967.05.30 (Poovarany, India)Ordained Priest:2000.08.12Consecrated Bishop:2016.10.09Priest of Palai of the Syro-Malabars (India) (2000.08.12 – 2016.07.28)Bishop of Great Britain of the Syro-Malabars (England) (2016.07.28 – ...)Special ChurchesCathedral:  Syro-Malabar Cathedral of St Alphonsa, Preston, Lancashire, England Churches by City (5)Show MapStatistics (2022.12.31)Population: 49,000 CatholicsPastoral Centres: 4 parishes, 77 missionsPersonnel: 62 priests (44 diocesan, 18 religious), 25 religious (18 brothers, 7 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "grea2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 44,
+    "pretres_religieux": null,
+    "total_pretres": 62,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 4
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

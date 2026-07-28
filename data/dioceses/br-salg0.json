@@ -1,0 +1,29 @@
+{
+  "id": "br-salg0",
+  "nom": "Salgueiro",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Salgueiro (Português) / Salicen(sis) (Latin)Ecclesiastical Province: Olinda e RecifeNeighbouring Dioceses: Petrolina (↙), Picos (←), Crato (↑), Afogados da Ingazeira (→), Floresta (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Anthony of PaduaLiturgical Calendar (National) 📅History2010.06.16: Established as Diocese of Salgueiro (Português) / Salicen(sis) (Latin) (from Diocese of Floresta and Diocese of Petrolina and became suffragan of Olinda e Recife)Present PrelatesBishop (2023.03.29 – ...):Bishop José Vicente Pinto del Alencar da Silva (68)OrdinariesBishops of Salgueiro (Roman Rite)Bishop José Vicente Pinto del Alencar da Silva (68)  (2023.03.29 – ...)Bishop of Salgueiro (Brazil)Propter gratiam suamBorn:1958.01.02 (Crato, CE, Brazil)Ordained Priest:1994.01.22Consecrated Bishop:2023.06.03Priest of Crato (Brazil) (1994.01.22 – 2023.03.29)Bishop of Salgueiro (Brazil) (2023.03.29 – ...)Bishop Magnus Henrique Lopes, O.F.M. Cap. (60)  (2010.06.16 – 2022.01.12)Bishop of Crato (Brazil)Omnia possum in eoBorn:1965.07.31 (Açu, RN, Brazil)Ordained Priest:1996.12.21Consecrated Bishop:2010.09.17Bishop of Salgueiro (Brazil) (2010.06.16 – 2022.01.12)Bishop of Crato (Brazil) (2022.01.12 – ...)Special ChurchesCathedral:  Catedral de Santo Antônio, Salgueiro, Pernambuco Future Cathedral:  Catedral de Nossa Senhora Aparecida, Salgueiro, Pernambuco Churches by City (28)Show MapPetrolina (↙), Picos (←), Crato (↑), Afogados da Ingazeira (→), Floresta (↘)Statistics (2022.12.31)Area: 17,932 km²Population: 383,000 Catholics (79.8% of 480,000 total)Pastoral Centres: 25 parishesPersonnel: 43 priests (38 diocesan, 5 religious), 31 religious (5 brothers, 26 sisters), 15 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "salg0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 480000,
+    "catholiques": 383000,
+    "pourcentage_catholiques": 79.8
+  },
+  "ressources": {
+    "pretres_diocesains": 38,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

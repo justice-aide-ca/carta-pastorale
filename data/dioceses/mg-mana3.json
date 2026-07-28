@@ -1,0 +1,29 @@
+{
+  "id": "mg-mana3",
+  "nom": "Mananjary",
+  "pays": "mg",
+  "pays_nom": "Madagascar",
+  "continent": "unknown",
+  "type": "Diocese Name: Mananjary / Mananiarien(sis) (Latin)Ecclesiastical Province: FianarantsoaNeighbouring Dioceses: Fianarantsoa (↙), Ambositra (↖), Toamasina (↑)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1968.04.09: Established as Diocese of Mananjary / Mananiarien(sis) (Latin) (from Metropolitan Archdiocese of Fianarantsoa and Diocese of Tamatave and became suffragan of Fianarantsoa)Present PrelatesBishop (2000.10.30 – ...):Bishop José Alfredo Caires de Nobrega, S.C.I. (75)OrdinariesBishops of Mananjary (Roman Rite)Bishop José Alfredo Caires de Nobrega, S.C.I. (75)  (2000.10.30 – ...)Bishop of Mananjary (Madagascar)Born:1951.04.12 (Caniço, Portugal)Ordained Priest:1980.12.28Consecrated Bishop:2001.03.18Bishop of Mananjary (Madagascar) (2000.10.30 – ...)Apostolic Administrator of Farafangana (Madagascar) (2014.01.16 – 2018.03.03)Bishop François Xavier Tabao Manjarimanana, S.J.  (1975.11.20 – 1999.05.24)Born:1927.12.03 (Ankatafana, Madagascar)Ordained Priest:1960.06.29Consecrated Bishop:1976.03.21Died:1999.05.24 († 71)Bishop of Mananjary (Madagascar) (1975.11.20 – 1999.05.24)Bishop Robert Lucien Chapuis, M.E.P.  (1968.04.09 – 1973.12.29)Born:1935.04.04 (Vescemont, France)Ordained Priest:1962.12.22Consecrated Bishop:1968.06.23Died:2009.03.08 (Caen, France † 73)Bishop of Mananjary (Madagascar) (1968.04.09 – 1973.12.29)Special ChurchesCathedral:  Cathédrale Saint-Augustin, Mananjary, Fianarantsoa Show MapFianarantsoa (↙), Ambositra (↖), Toamasina (↑)Statistics (2022.12.31)Area: 14,270 km²Population: 195,237 Catholics (9.8% of 1,991,721 total)Pastoral Centres: 18 parishesPersonnel: 40 priests (13 diocesan, 27 religious), 128 religious (29 brothers, 99 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mana3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1991721,
+    "catholiques": 195237,
+    "pourcentage_catholiques": 9.8
+  },
+  "ressources": {
+    "pretres_diocesains": 13,
+    "pretres_religieux": null,
+    "total_pretres": 40,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

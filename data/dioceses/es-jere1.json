@@ -1,0 +1,29 @@
+{
+  "id": "es-jere1",
+  "nom": "Jerez de la Frontera",
+  "pays": "es",
+  "pays_nom": "Spain",
+  "continent": "unknown",
+  "type": "Diocese Name: Jerez de la Frontera / Assidonen(sis)–Ierezen(sis) (Latin)Ecclesiastical Province: SevillaNeighbouring Dioceses: Huelva (↖), Sevilla (↑), Málaga (→), Cádiz y Ceuta (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Juan Grande RománCathedral Dedication Anniversary: December 10Liturgical Calendar 📅History1980.03.03: Established as Diocese of Jerez de la Frontera / Assidonen(sis)–Ierezen(sis) (Latin) (from Metropolitan Archdiocese of Sevilla and Diocese of Cádiz y Ceuta, from the suppressed Titular Episcopal See of Asidonia and became suffragan of Sevilla)Present PrelatesBishop (2021.06.09 – ...):Bishop José Rico Pavés (59)Monsignors (8)OrdinariesBishops of Jerez de la Frontera (Roman Rite)Bishop José Rico Pavés (59)  (2021.06.09 – ...)Bishop of Jerez de la Frontera (Spain)Ut gaudium meum in vobisBorn:1966.10.09 (Granada, Spain)Ordained Priest:1992.10.11Consecrated Bishop:2012.09.21Priest of Toledo (Spain) (1992.10.11 – 2012.07.06)Titular Bishop of Mentesa (2012.07.06 – 2021.06.09)Auxiliary Bishop of Getafe (Spain) (2012.07.06 – 2021.06.09)Bishop of Jerez de la Frontera (Spain) (2021.06.09 – ...)Bishop José Mazuelos Pérez (65)  (2009.03.19 – 2020.07.06)Bishop of Islas Canarias (Spain)Redemptor hominis Jesus ChristusBorn:1960.10.09 (Osuna, Spain)Ordained Priest:1990.03.17Consecrated Bishop:2009.06.06Priest of Sevilla (Spain) (1990.03.17 – 2009.03.19)Bishop of Jerez de la Frontera (Spain) (2009.03.19 – 2020.07.06)Bishop of Islas Canarias (Spain) (2020.07.06 – ...)Archbishop Juan del Río Martín  (Apostolic Administrator 2008.06.30 – 2009.03.19)Bishop Juan del Río Martín (later Archbishop)  (2000.06.29 – 2008.06.30)Opus justitiæ paxBorn:1947.10.14 (Ayamonte, Spain)Ordained Priest:1974.02.02Consecrated Bishop:2000.09.23Died:2021.01.28 (Madrid, Spain † 73)Priest of Sevilla (Spain) (1974.02.02 – 2000.06.29)Bishop of Jerez de la Frontera (Spain) (2000.06.29 – 2008.06.30)Apostolic Administrator of Jerez de la Frontera (Spain) (2008.06.30 – 2009.03.19)Archbishop Military Ordinary of Spain (Spain) (2008.06.30 – 2021.01.28)Bishop Rafael Bellido Caro  (1980.03.03 – 2000.06.29)Servir al señor con alegríaBorn:1924.03.10 (Arcos de la Frontera, Spain)Ordained Priest:1948.11.07Consecrated Bishop:1973.12.30Died:2004.03.16 († 80)Priest of Sevilla (Spain) (1948.11.07 – 1973.11.29)Titular Bishop of Mutia (1973.11.29 – 1980.03.03)Auxiliary Bishop of Sevilla (Spain) (1973.11.29 – 1980.03.03)Bishop of Jerez de la Frontera (Spain) (1980.03.03 – 2000.06.29)Special ChurchesCathedral:  Catedral de Nuestro Señor San Salvador, Jerez de la Frontera, Cádiz, Andalucía Minor Basilica:  Basílica de Nuestra Señora de la Caridad, Sanlúcar de Barrameda, Cádiz, Andalucía Minor Basilica:  Basílica de Nuestra Señora de la Merced, Jerez de la Frontera, Cádiz, Andalucía Minor Basilica:  Basílica de Nuestra Señora de los Milagros Prioral, El Puerto de Santa María, Cádiz, Andalucía Minor Basilica:  Basílica de Nuestra Señora del Carmen, Jerez de la Frontera, Cádiz, Andalucía Minor Basilica:  Basílica de Santa María de la Asunción, Arcos de la Frontera, Cádiz, Andalucía Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (94)Show MapHuelva (↖), Sevilla (↑), Málaga (→), Cádiz y Ceuta (↓)Statistics (2022.12.31)Area: 3,677 km²Population: 462,400 Catholics (85.1% of 543,273 total)Pastoral Centres: 85 parishesPersonnel: 160 priests (97 diocesan, 63 religious), 21 deacons, 350 religious (93 brothers, 257 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jere1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 543273,
+    "catholiques": 462400,
+    "pourcentage_catholiques": 85.1
+  },
+  "ressources": {
+    "pretres_diocesains": 97,
+    "pretres_religieux": null,
+    "total_pretres": 160,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 85
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

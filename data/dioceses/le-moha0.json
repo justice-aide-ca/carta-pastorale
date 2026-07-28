@@ -1,0 +1,29 @@
+{
+  "id": "le-moha0",
+  "nom": "Mohale’s Hoek",
+  "pays": "le",
+  "pays_nom": "Lesotho",
+  "continent": "unknown",
+  "type": "Diocese Name: Mohale’s Hoek / Mohaleshœken(sis) (Latin)Ecclesiastical Province: MaseruNeighbouring Dioceses: Aliwal (↙), Bloemfontein (↖), Maseru (↑), Qacha’s Nek (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1977.11.10: Established as Diocese of Mohale’s Hoek / Mohaleshœken(sis) (Latin) (from Metropolitan Archdiocese of Maseru and became suffragan of Maseru)Present PrelatesBishop (2014.02.11 – ...):Bishop John Joale Tlhomola, S.C.P. (60)Vice-President of Lesotho Catholic Bishops’ ConferenceOrdinariesBishops of Mohale’s Hoek (Roman Rite)Bishop John Joale Tlhomola, S.C.P. (60)  (2014.02.11 – ...)Bishop of Mohale’s Hoek (Lesotho)Vice-President of Lesotho Catholic Bishops’ ConferenceBorn:1966.03.12 (Pulane Ha Mosiuoa, Lesotho)Ordained Priest:1998.03.28Consecrated Bishop:2014.05.10Superior General of Servants of Christ the Priest (2011 – 2014.02.11)Bishop of Mohale’s Hoek (Lesotho) (2014.02.11 – ...)Vice-President of Lesotho Catholic Bishops’ Conference (2024? – ...)Bishop Sebastian Koto Khoarai, O.M.I. (later Cardinal)  (1977.11.10 – 2014.02.11)In matrem semper habeuntBorn:1929.09.11 (Koaling, Lesotho)Ordained Priest:1956.12.21Consecrated Bishop:1978.04.02Created Cardinal:2016.11.19Died:2021.04.17 (Mazenod, Lesotho † 91)Bishop of Mohale’s Hoek (Lesotho) (1977.11.10 – 2014.02.11)President of Lesotho Catholic Bishops’ Conference (1982 – 1987)Cardinal-Priest of S. Leonardo da Porto Maurizio (2016.11.19 – 2021.04.17)Special ChurchesCathedral:  Cathedral of St. Patrick, Old Mohale’s Hoek, Mohale’s Hoek Show MapAliwal (↙), Bloemfontein (↖), Maseru (↑), Qacha’s Nek (→)Statistics (2021.12.31)Area: 5,799 km²Population: 443,000 Catholics (59.9% of 739,000 total)Pastoral Centres: 19 parishesPersonnel: 19 priests (13 diocesan, 6 religious), 67 religious (13 brothers, 54 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "moha0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 739000,
+    "catholiques": 443000,
+    "pourcentage_catholiques": 59.9
+  },
+  "ressources": {
+    "pretres_diocesains": 13,
+    "pretres_religieux": null,
+    "total_pretres": 19,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

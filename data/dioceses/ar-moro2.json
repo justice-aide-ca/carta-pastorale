@@ -1,0 +1,29 @@
+{
+  "id": "ar-moro2",
+  "nom": "Morón",
+  "pays": "ar",
+  "pays_nom": "Argentina",
+  "continent": "amerique",
+  "type": "Diocese Name: Morón / Moronen(sis) (Latin)Ecclesiastical Province: Buenos AiresNeighbouring Dioceses: Merlo–Moreno (←), San Miguel (↖), San Martín (↗), San Justo (↘), Gregorio de Laferrere (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Inmaculada Concepción del Buen Viaje (October 5)Liturgical Calendar (National) 📅History1957.02.11: Established as Diocese of Morón / Moronen(sis) (Latin) (from Metropolitan Archdiocese of La Plata and became suffragan of Buenos Aires)1961.04.10: Lost territory to establish Diocese of San Martín1969.07.18: Lost territory to establish Diocese of San Justo1997.05.13: Lost territory to establish Diocese of Merlo–MorenoContact InfoAddress: Nuestra Señora del Buen Viaje 936, B1708ECR, Morón, ArgentinaPhone: (011) 4629-3143Present PrelatesBishop (2025.05.28 – ...):Bishop Alejandro Pablo Benna (66)Monsignors (7)OrdinariesBishops of Morón (Roman Rite)Bishop Alejandro Pablo Benna (66)  (2025.05.28 – ...)Bishop of Morón (Argentina)Para mi la vida es cristoBorn:1959.11.12 (Buenos Aires, Argentina)Ordained Priest:1987.11.14Consecrated Bishop:2017.12.23Priest of Buenos Aires (Argentina) (1987.11.14 – 2017.11.28)Titular Bishop of Vardimissa (2017.11.28 – 2021.07.09)Auxiliary Bishop of Comodoro Rivadavia (Argentina) (2017.11.28 – 2021.07.09)Apostolic Administrator of Alto Valle del Río Negro (Argentina) (2021.03.19 – 2021.07.09)Bishop of Alto Valle del Río Negro (Argentina) (2021.07.09 – 2025.05.28)Bishop of Morón (Argentina) (2025.05.28 – ...)Bishop Jorge Vázquez (76)  (2017.06.30 – 2025.05.28)Bishop emeritus of Morón (Argentina)Discipulo de Jesus Pastor de su puebloBorn:1950.03.13 (Lomas de Zamora, Argentina)Ordained Priest:1983.03.31Consecrated Bishop:2013.12.29Priest of Lomas de Zamora (Argentina) (1983.03.31 – 2013.12.03)Titular Bishop of Castra nova (2013.12.03 – 2017.02.03)Auxiliary Bishop of Lomas de Zamora (Argentina) (2013.12.03 – 2017.02.03)Coadjutor Bishop of Morón (Argentina) (2017.02.03 – 2017.06.30)Bishop of Morón (Argentina) (2017.06.30 – 2025.05.28)Bishop Luis Guillermo Eichhorn  (2004.11.30 – 2017.06.30)Que seamos todos unoBorn:1942.06.26 (Gilbert, Argentina)Ordained Priest:1968.12.21Consecrated Bishop:1997.03.19Died:2022.05.25 (Gualeguaychú, Argentina † 79)Priest of Gualeguaychú (Argentina) (1968.12.21 – 1996.12.05)Prelate of Honour of His Holiness (1993.12.26 – 1996.12.05)Bishop of Gualeguaychú (Argentina) (1996.12.05 – 2004.11.30)Bishop of Morón (Argentina) (2004.11.30 – 2017.06.30)Bishop Justo Oscar Laguna  (1980.01.22 – 2004.11.30)In verbo tuo laxabo reteBorn:1929.09.25 (Buenos Aires, Argentina)Ordained Priest:1954.09.18Consecrated Bishop:1975.03.08Died:2011.11.03 († 82)Titular Bishop of Lares (1975.02.01 – 1980.01.22)Auxiliary Bishop of San Isidro (Argentina) (1975.02.01 – 1980.01.22)Bishop of Morón (Argentina) (1980.01.22 – 2004.11.30)Bishop Miguel Raspanti, S.D.B.  (1957.03.13 – 1980.01.22)Caritas Christi urget nosBorn:1904.05.31 (Córdoba, Argentina)Ordained Priest:1928.07.08Consecrated Bishop:1957.05.12Died:1991.02.18 († 86)Bishop of Morón (Argentina) (1957.03.13 – 1980.01.22)Former PrelatesCoadjutor Bishop: Bishop Jorge Vázquez (76) (2017.02.03 – 2017.06.30)Auxiliary Bishop: Bishop Fernando María Bargalló (71) (1994.04.27 – 1997.05.13)Auxiliary Bishop: Bishop Carlos Walter Galán Barry (later Archbishop) (1981.02.11 – 1991.05.08)Special ChurchesCathedral, Minor Basilica:  Catedral Basílica Inmaculada Concepción del Buen Viaje, Morón, Buenos Aires Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (94)Show MapMerlo–Moreno (←), San Miguel (↖), San Martín (↗), San Justo (↘), Gregorio de Laferrere (↓)Statistics (2022.12.31)Area: 130 km²Population: 552,004 Catholics (81.0% of 681,487 total)Pastoral Centres: 54 parishes, 39 missionsPersonnel: 59 priests (43 diocesan, 16 religious), 36 deacons, 88 religious (20 brothers, 68 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "moro2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 681487,
+    "catholiques": 552004,
+    "pourcentage_catholiques": 81.0
+  },
+  "ressources": {
+    "pretres_diocesains": 43,
+    "pretres_religieux": null,
+    "total_pretres": 59,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 54
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

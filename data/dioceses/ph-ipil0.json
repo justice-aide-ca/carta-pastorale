@@ -1,0 +1,29 @@
+{
+  "id": "ph-ipil0",
+  "nom": "Ipil",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Ipil / Ipilen(sis) (Latin)Ecclesiastical Province: ZamboangaNeighbouring Dioceses: Zamboanga (↙), Dipolog (↗), Pagadian (→)Depends on: Dicastery for BishopsCelebrationsPatron Saint: St. Joseph the Worker (May 1)Cathedral Dedication Anniversary: August 31Liturgical Calendar (National) 📅History1979.12.24: Established as Territorial Prelature of Ipil / Ipilen(sis) (Latin) (from Metropolitan Archdiocese of Zamboanga and became suffragan of Zamboanga)1995.01.01: Lost territory to Diocese of Pagadian2010.05.01: Promoted as Diocese of Ipil / Ipilen(sis) (Latin)Present PrelatesBishop (2025.04.14 – ...):Bishop Glenn Montebon Corsiga (61)OrdinariesBishops of Ipil (Roman Rite)Bishop Glenn Montebon Corsiga (61)  (2025.04.14 – ...)Bishop of Ipil (Philippines)Amare et servireBorn:1965.01.21 (Dumaguete City, Philippines)Ordained Priest:1993.12.14Consecrated Bishop:2025.07.29Priest of Dumaguete (Philippines) (1993.12.14 – 2025.04.14)Chaplain of His Holiness (2011.09.16 – 2025.04.14)Bishop of Ipil (Philippines) (2025.04.14 – ...)Bishop Julius Sullan Tonel (69) (later Archbishop)  (2010.05.01 – 2023.04.25)Metropolitan Archbishop of Zamboanga (Philippines)Vice-President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.)Habeant omnia communiaBorn:1956.08.31 (Davao, Philippines)Ordained Priest:1980.04.12Consecrated Bishop:2007.08.20Priest of Davao (Philippines) (1980.04.12 – 2007.06.30)Bishop-Prelate of Ipil (Philippines) (2007.06.30 – 2010.05.01)Bishop of Ipil (Philippines) (2010.05.01 – 2023.04.25)Metropolitan Archbishop of Zamboanga (Philippines) (2023.04.25 – ...)Vice-President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.) (2025.12.01 – ...)Prelates of Ipil (Roman Rite)Bishop Julius Sullan Tonel (69) (later Archbishop)  (2007.06.30 – 2010.05.01)(see above)Bishop Antonio Javellana Ledesma, S.J. (83) (later Archbishop)  (1997.06.28 – 2006.03.04)Metropolitan Archbishop emeritus of Cagayan de Oro (Philippines)Opus solidarietatis paxBorn:1943.03.28 (Iloilo, Philippines)Ordained Priest:1973.04.16Consecrated Bishop:1996.08.31Coadjutor Bishop-Prelate of Ipil (Philippines) (1996.06.13 – 1997.06.28)Bishop-Prelate of Ipil (Philippines) (1997.06.28 – 2006.03.04)Metropolitan Archbishop of Cagayan de Oro (Philippines) (2006.03.04 – 2020.06.23)Apostolic Administrator of Butuan (Philippines) (2017.10.23 – 2019.03.25)Bishop Federico Ocampo Escaler, S.J.  (1980.02.23 – 1997.06.28)Per fratres ad PatriamBorn:1922.06.28 (Manila, Philippines)Ordained Priest:1954.06.19Consecrated Bishop:1976.07.31Died:2015.11.28 (San Miguel, Philippines † 93)Titular Bishop of Girus Tarasii (1976.06.12 – 1978.02.18)Bishop-Prelate of Kidapawan (Philippines) (1976.06.12 – 1980.02.23)Bishop-Prelate of Ipil (Philippines) (1980.02.23 – 1997.06.28)Former PrelatesCoadjutor Bishop-Prelate: Bishop Antonio Javellana Ledesma, S.J. (83) (later Archbishop) (1996.06.13 – 1997.06.28)Special ChurchesCathedral:  Cathedral of St. Joseph the Worker, Ipil, Zamboanga Sibugay, Zamboanga Peninsula Jubilee Churches in the Holy Year 2025Churches by City (23)Show MapZamboanga (↙), Dipolog (↗), Pagadian (→)Statistics (2022.12.31)Area: 4,850 km²Population: 582,608 Catholics (75.0% of 776,811 total)Pastoral Centres: 26 parishesPersonnel: 48 priests (32 diocesan, 16 religious), 2 deacons, 46 religious (16 brothers, 30 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ipil0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 776811,
+    "catholiques": 582608,
+    "pourcentage_catholiques": 75.0
+  },
+  "ressources": {
+    "pretres_diocesains": 32,
+    "pretres_religieux": null,
+    "total_pretres": 48,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

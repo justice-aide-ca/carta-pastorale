@@ -1,0 +1,29 @@
+{
+  "id": "pl-elbl0",
+  "nom": "Elbląg",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Elbląg / Elbingen(sis) (Latin)Ecclesiastical Province: WarmiaNeighbouring Dioceses: Pelplin (↙), Gdańsk (↖), Warmia (→), Toruń (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Adalbert (April 23), Saint Maximilian Kolbe (August 14), Blessed Dorothea of Montau (June 25)Cathedral Dedication Anniversary: May 17Liturgical Calendar 📅History1992.03.25: Established as Diocese of Elbląg / Elbingen(sis) (Latin) (from Diocese of Chełmno, Diocese of Gdańsk and Diocese of Warmia and became suffragan of Warmia)Papal VisitsPope John Paul II (1999.06)Present PrelatesBishop (2025.09.13 – ...):Bishop Wojciech Skibicki (56)Monsignors (27)OrdinariesBishops of Elbląg (Roman Rite)Bishop Wojciech Skibicki (56)  (2025.09.13 – ...)Bishop of Elbląg (Poland)Ewangelia źródłem radościBorn:1970.05.23 (Skrwilno, Poland)Ordained Priest:1995.06.10Consecrated Bishop:2019.04.06Priest of Elbląg (Poland) (1995.06.10 – 2019.02.14)Titular Bishop of Casæ nigræ (2019.02.14 – 2025.09.13)Auxiliary Bishop of Elbląg (Poland) (2019.02.14 – 2025.09.13)Bishop of Elbląg (Poland) (2025.09.13 – ...)Bishop Jacek Jezierski (76)  (2014.05.10 – 2025.09.13)Bishop emeritus of Elbląg (Poland)Veritas Christi liberatBorn:1949.12.23 (Olsztyn, Poland)Ordained Priest:1974.06.16Consecrated Bishop:1994.03.05Priest of Warmia (Poland) (1974.06.16 – 1994.02.19)Titular Bishop of Liberalia (1994.02.19 – 2014.05.10)Auxiliary Bishop of Warmia (Poland) (1994.02.19 – 2014.05.10)Bishop of Elbląg (Poland) (2014.05.10 – 2025.09.13)Apostolic Administrator of Gdańsk (Poland) (2020.08.13 – 2021.03.02)Bishop Jan Styrna  (2003.08.02 – 2014.05.10)In nomine DominiBorn:1941.01.25 (Szczepanów, Poland)Ordained Priest:1965.06.27Consecrated Bishop:1991.07.28Died:2022.09.28 (Elbląg, Poland † 81)Priest of Tarnów (Poland) (1965.06.27 – 1991.06.22)Titular Bishop of Acquapendente (1991.06.22 – 2003.08.02)Auxiliary Bishop of Tarnów (Poland) (1991.06.22 – 2003.08.02)Bishop of Elbląg (Poland) (2003.08.02 – 2014.05.10)Bishop Andrzej Józef Śliwiński  (1992.03.25 – 2003.08.02)Illum oportet crescereBorn:1939.01.06 (Werblinia, Poland)Ordained Priest:1961.12.17Consecrated Bishop:1986.06.15Died:2009.09.09 (Elbląg, Poland † 70)Priest of Chełmno (Poland) (1961.12.17 – 1986.05.09)Titular Bishop of Arindela (1986.05.09 – 1992.03.25)Auxiliary Bishop of Chełmno (Poland) (1986.05.09 – 1992.03.25)Bishop of Elbląg (Poland) (1992.03.25 – 2003.08.02)Former PrelatesAuxiliary Bishop: Bishop Wojciech Skibicki (56) (2019.02.14 – 2025.09.13)Auxiliary Bishop: Bishop Józef Wysocki (85) (1992.03.25 – 2015.10.31)Special ChurchesCathedral:  Katedra św. Mikołaja, Elbląg, Warmińsko-Mazurskie Co-Cathedral:  Konkatedra św. Jana Ewangelisty, Kwidzyn, Pomorskie Co-Cathedral:  Konkatedra św. Wojciecha, Prabuty, Pomorskie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapPelplin (↙), Gdańsk (↖), Warmia (→), Toruń (↓)Statistics (2022.12.31)Area: 9,495 km²Population: 439,000 Catholics (89.7% of 489,400 total)Pastoral Centres: 158 parishes, 31 missionsPersonnel: 317 priests (242 diocesan, 75 religious), 11 deacons, 169 religious (79 brothers, 90 sisters), 23 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "elbl0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 489400,
+    "catholiques": 439000,
+    "pourcentage_catholiques": 89.7
+  },
+  "ressources": {
+    "pretres_diocesains": 242,
+    "pretres_religieux": null,
+    "total_pretres": 317,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 158
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

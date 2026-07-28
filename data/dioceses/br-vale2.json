@@ -1,0 +1,29 @@
+{
+  "id": "br-vale2",
+  "nom": "Valença",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Valença / Valentin(us) in Brasilia (Latin)Ecclesiastical Province: São Sebastião do Rio de JaneiroNeighbouring Dioceses: Barra do Piraí–Volta Redonda (↙), Juiz de Fora (↗), Petrópolis (→), Nova Iguaçu (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Sebastian (January 20)Liturgical Calendar (National) 📅History1925.03.27: Established as Diocese of Valença / Valentin(us) in Brasilia (Latin) (from Diocese of Barra do Piraí and became suffragan of São Sebastião do Rio de Janeiro)1960.03.26: Lost territory to establish Diocese of Nova FriburgoPresent PrelatesBishop (2014.02.12 – ...):Bishop Nelson Francelino Ferreira (61)OrdinariesBishops of Valença (Roman Rite)Bishop Nelson Francelino Ferreira (61)  (2014.02.12 – ...)Bishop of Valença (Brazil)Sentire cum ecclesiaBorn:1965.02.26 (Sapé, PB, Brazil)Ordained Priest:1990.08.04Consecrated Bishop:2011.02.05Priest of São Sebastião do Rio de Janeiro (Brazil) (1990.08.04 – 2010.11.24)Titular Bishop of Álava (2010.11.24 – 2014.02.12)Auxiliary Bishop of São Sebastião do Rio de Janeiro (Brazil) (2010.11.24 – 2014.02.12)Bishop of Valença (Brazil) (2014.02.12 – ...)Bishop Elias James Manning, O.F.M. Conv.  (1990.03.14 – 2014.02.12)Tu summum bonum esBorn:1938.04.14 (Troy, NY, USA)Ordained Priest:1965.10.30Consecrated Bishop:1990.05.13Died:2019.10.13 (Vassouras, RJ, Brazil † 81)Bishop of Valença (Brazil) (1990.03.14 – 2014.02.12)Bishop Amaury Castanho  (1979.11.30 – 1989.05.03)Fundamentum Christus JesusBorn:1927.09.19 (Sousas, SP, Brazil)Ordained Priest:1951.10.07Consecrated Bishop:1976.10.07Died:2006.05.31 (Jundiaí, SP, Brazil † 78)Titular Bishop of Balecium (1976.07.19 – 1979.11.30)Auxiliary Bishop of Sorocaba (Brazil) (1976.07.19 – 1979.11.30)Bishop of Valença (Brazil) (1979.11.30 – 1989.05.03)Coadjutor Bishop of Jundiaí (Brazil) (1989.05.03 – 1996.10.02)Bishop of Jundiaí (Brazil) (1996.10.02 – 2004.01.07)Bishop José Costa Campos  (1960.12.09 – 1979.03.26)Born:1918.08.23 (Três Pontas, MG, Brazil)Ordained Priest:1941.03.29Consecrated Bishop:1961.02.24Died:1997.07.10 († 78)Priest of Campanha (Brazil) (1941.03.29 – 1960.12.09)Bishop of Valença (Brazil) (1960.12.09 – 1979.03.26)Bishop of Divinópolis (Brazil) (1979.03.26 – 1989.02.27)Bishop Rodolfo das Mercés de Oliveira Pena  (1942.01.03 – 1960.12.09)Born:1890.09.24 (Congonhas do Campo, MG, Brazil)Ordained Priest:1914.04.14Consecrated Bishop:1935.09.08Died:1975.01.24 († 84)Bishop of Barra (Brazil) (1935.06.08 – 1942.01.03)Bishop of Valença (Brazil) (1942.01.03 – 1960.12.09)Titular Bishop of Apollonis (1962.02.10 – 1970.12.14)Bishop René de Pontes  (1938.10.13 – 1940.04.02)Born:1902.07.28 (Rio de Janeiro, RJ, Brazil)Ordained Priest:1928.08.24Consecrated Bishop:1938.11.30Died:1940.04.02 († 37)Bishop of Valença (Brazil) (1938.10.13 – 1940.04.02)Bishop André Arcoverde de Albuquerque Cavalcanti  (1925.05.01 – 1936.08.08)Sinite parvulos venireBorn:1878.12.15 (Pesqueira, PE, Brazil)Ordained Priest:1904.10.28Consecrated Bishop:1925.10.28Died:1955.06.20 (Taubaté, SP, Brazil † 76)Bishop of Valença (Brazil) (1925.05.01 – 1936.08.08)Bishop of Taubaté (Brazil) (1936.08.08 – 1941.11.08)Titular Bishop of Limnæ (1941.11.08 – 1955.06.20)Special ChurchesCathedral:  Catedral Nossa Senhora da Glória, Valença, Rio de Janeiro Churches by City (25)Show MapBarra do Piraí–Volta Redonda (↙), Juiz de Fora (↗), Petrópolis (→), Nova Iguaçu (↘)Statistics (2022.12.31)Area: 3,996 km²Population: 260,000 Catholics (64.0% of 406,000 total)Pastoral Centres: 28 parishes, 1 missionPersonnel: 30 priests (21 diocesan, 9 religious), 56 religious (14 brothers, 42 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vale2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 406000,
+    "catholiques": 260000,
+    "pourcentage_catholiques": 64.0
+  },
+  "ressources": {
+    "pretres_diocesains": 21,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

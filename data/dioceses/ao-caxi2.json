@@ -1,0 +1,29 @@
+{
+  "id": "ao-caxi2",
+  "nom": "Caxito",
+  "pays": "ao",
+  "pays_nom": "Angola",
+  "continent": "unknown",
+  "type": "Diocese Name: Caxito / Caxiton(sis) (Latin)Ecclesiastical Province: LuandaNeighbouring Dioceses: Viana (↙), Mbanza Congo (↑), Uíje (↗), Ndalatando (→)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint AnneLiturgical Calendar (National) 📅History2007.06.06: Established as Diocese of Caxito / Caxiton(sis) (Latin) (from Metropolitan Archdiocese of Luanda and became suffragan of Luanda)Present PrelatesBishop (2020.06.15 – ...):Bishop Maurício Agostinho Camuto, C.S.Sp. (62)General Secretary of Episcopal Conference of Angola and São ToméOrdinariesBishops of Caxito (Roman Rite)Bishop Maurício Agostinho Camuto, C.S.Sp. (62)  (2020.06.15 – ...)Bishop of Caxito (Angola)General Secretary of Episcopal Conference of Angola and São ToméAma tudo o que Deus amaBorn:1963.12.26 (Colungo Alto, Angola)Ordained Priest:1991.07.28Consecrated Bishop:2020.08.16Bishop of Caxito (Angola) (2020.06.15 – ...)General Secretary of Episcopal Conference of Angola and São Tomé (2021.10.11 – ...)Bishop António Francisco Jaca, S.V.D. (62)  (2007.06.06 – 2018.03.26)Bishop of Benguela (Angola)Deus, eu sou bomBorn:1963.11.03 (Quessua, Angola)Ordained Priest:1990.09.29Consecrated Bishop:2007.07.22Bishop of Caxito (Angola) (2007.06.06 – 2018.03.26)Bishop of Benguela (Angola) (2018.03.26 – ...)Special ChurchesCathedral:  Sé Catedral de Sant’Ana, Caxito, Bengo Show MapViana (↙), Mbanza Congo (↑), Uíje (↗), Ndalatando (→)Statistics (2022.12.31)Area: 18,916 km²Population: 516,000 Catholics (33.7% of 1,531,000 total)Pastoral Centres: 19 parishes, 266 missionsPersonnel: 48 priests (24 diocesan, 24 religious), 1 deacon, 78 religious (58 brothers, 20 sisters), 96 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "caxi2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1531000,
+    "catholiques": 516000,
+    "pourcentage_catholiques": 33.7
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 48,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

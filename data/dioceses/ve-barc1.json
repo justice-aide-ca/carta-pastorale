@@ -1,0 +1,29 @@
+{
+  "id": "ve-barc1",
+  "nom": "Barcelona",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Barcelona / Barcinonen(sis) in Venetiola (Latin)Ecclesiastical Province: CumanáNeighbouring Dioceses: Valle de la Pascua (↙), Guarenas (↖), Cumaná (↗), Maturín (→), El Tigre (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nuestra Señora de la Candelaria (February 2)Cathedral Dedication Anniversary: October 10Liturgical Calendar (National) 📅History1954.06.07: Established as Diocese of Barcelona / Barcinonen(sis) in Venetiola (Latin) (from Diocese of Ciudad Bolívar and became suffragan of Caracas)1958.06.21: Became suffragan of Ciudad Bolívar1992.05.16: Became suffragan of Cumaná2018.05.31: Lost territory to establish Diocese of El TigreContact InfoAddress: Avenida Country Club con Calle San Carlos, Urbanización Urdaneta, Barcelona 6001-A, Apartado 67, Estado Anzoátegui, VenezuelaPresent PrelatesBishop (2014.07.11 – ...):Bishop Jorge Anibal Quintero Chacón (69)Monsignors (17)OrdinariesBishops of Barcelona (Roman Rite)Bishop Jorge Anibal Quintero Chacón (69)  (2014.07.11 – ...)Bishop of Barcelona (Venezuela)Pastor y naveganteBorn:1956.07.23 (Queniquea, Venezuela)Ordained Priest:1981.06.27Consecrated Bishop:2009.03.07Priest of San Cristóbal de Venezuela (Venezuela) (1981.06.27 – 2008.12.19)Bishop of Margarita (Venezuela) (2008.12.19 – 2014.07.11)Bishop of Barcelona (Venezuela) (2014.07.11 – ...)Archbishop Diego Rafael Padrón Sánchez (87) (later Cardinal)  (Apostolic Administrator 2014.01.25 – 2014.07.11)Bishop César Ramón Ortega Herrera  (1998.07.15 – 2014.01.20)Born:1938.07.16 (Salom, Venezuela)Ordained Priest:1963.06.30Consecrated Bishop:1983.10.28Died:2021.04.09 (Valencia, Venezuela † 82)Priest of Ciudad Bolívar (Venezuela) (1963.06.30 – 1983.08.25)Chaplain of His Holiness (1974.02.22 – 1983.08.25)Bishop of Margarita (Venezuela) (1983.08.25 – 1998.07.15)Apostolic Administrator of Barcelona (Venezuela) (1997.06.21 – 1998.07.15)Bishop of Barcelona (Venezuela) (1998.07.15 – 2014.01.20)Bishop César Ramón Ortega Herrera  (Apostolic Administrator 1997.06.21 – 1998.07.15)Bishop Miguel Delgado Avila, S.D.B.  (1991.11.16 – 1997.06.21)Born:1929.05.23 (Caracas, Venezuela)Ordained Priest:1955.12.17Consecrated Bishop:1979.09.11Died:2008.11.18 († 79)Titular Bishop of Scebatiana (1979.07.13 – 1991.11.16)Auxiliary Bishop of Caracas (Venezuela) (1979.07.13 – 1991.11.16)Bishop of Barcelona (Venezuela) (1991.11.16 – 1997.06.21)Bishop Constantino Maradei Donato  (1969.11.18 – 1991.11.16)Born:1915.12.09 (Ciudad Bolívar, Venezuela)Ordained Priest:1939.04.08Consecrated Bishop:1965.08.29Died:1992.01.09 (Caracas, Venezuela † 76)Bishop of Cabimas (Venezuela) (1965.07.23 – 1969.11.18)Bishop of Barcelona (Venezuela) (1969.11.18 – 1991.11.16)Bishop Angel Pérez Cisneros (later Archbishop)  (1960.05.23 – 1969.07.25)Born:1911.09.30 (Turmero, Venezuela)Ordained Priest:1937.07.01Consecrated Bishop:1960.07.25Died:1987.11.26 († 76)Bishop of Barcelona (Venezuela) (1960.05.23 – 1969.07.25)Titular Archbishop of Castello (1969.07.25 – 1972.08.30)Coadjutor Archbishop of Mérida (Venezuela) (1969.07.25 – 1972.08.30)Metropolitan Archbishop of Mérida (Venezuela) (1972.08.30 – 1979.08.20)Bishop José Humberto Paparoni  (1954.10.04 – 1959.10.01)Born:1920.09.03 (Santa Cruz de Mora, Venezuela)Ordained Priest:1944.04.08Consecrated Bishop:1954.12.08Died:1959.10.01 († 39)Priest of Mérida (Venezuela) (1944.04.08 – 1954.10.04)Bishop of Barcelona (Venezuela) (1954.10.04 – 1959.10.01)Former PrelatesAuxiliary Bishop: Bishop José Manuel Romero Barrios (71) (2012.02.02 – 2018.05.31)Special ChurchesCathedral:  Catedral de San Cristóbal, Barcelona, Anzoátegui Show MapValle de la Pascua (↙), Guarenas (↖), Cumaná (↗), Maturín (→), El Tigre (↓)Statistics (2022.12.31)Area: 20,332 km²Population: 980,000 Catholics (72.1% of 1,360,000 total)Pastoral Centres: 70 parishes, 4 missionsPersonnel: 44 priests (38 diocesan, 6 religious), 2 deacons, 24 religious (6 brothers, 18 sisters), 12 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "barc1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1360000,
+    "catholiques": 980000,
+    "pourcentage_catholiques": 72.1
+  },
+  "ressources": {
+    "pretres_diocesains": 38,
+    "pretres_religieux": null,
+    "total_pretres": 44,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 70
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

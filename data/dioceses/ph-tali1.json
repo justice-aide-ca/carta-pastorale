@@ -1,0 +1,29 @@
+{
+  "id": "ph-tali1",
+  "nom": "Talibon",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Talibon / Talibonen(sis) (Latin)Ecclesiastical Province: CebuNeighbouring Dioceses: Tagbilaran (↙), Cebu (←), Maasin (→)Depends on: Dicastery for BishopsCelebrationsPatron Saint: The Most Holy TrinityCathedral Dedication Anniversary: December 4Liturgical Calendar (National) 📅History1986.01.09: Established as Diocese of Talibon / Talibonen(sis) (Latin) (from Diocese of Tagbilaran and became suffragan of Cebu)Present PrelatesBishop (2014.06.03 – ...):Bishop Daniel Patrick Yee Parcon (63)Monsignors (3)OrdinariesBishops of Talibon (Roman Rite)Bishop Daniel Patrick Yee Parcon (63)  (2014.06.03 – ...)Bishop of Talibon (Philippines)Christus fortitudo meaBorn:1962.11.24 (Vallehermoso, Philippines)Ordained Priest:1994.04.29Consecrated Bishop:2014.08.22Priest of San Carlos (Philippines) (1994.04.29 – 2014.06.03)Bishop of Talibon (Philippines) (2014.06.03 – ...)Bishop Christian Vicente Fernandez Noel  (1986.09.06 – 2014.06.03)Ora et laboraBorn:1937.11.17 (Asturias, Philippines)Ordained Priest:1961.03.19Consecrated Bishop:1981.11.30Died:2017.11.26 (Cebu City, Philippines † 80)Titular Bishop of Thuccabora (1981.10.01 – 1986.09.06)Auxiliary Bishop of Cagayan de Oro (Philippines) (1981.10.01 – 1986.09.06)Bishop of Talibon (Philippines) (1986.09.06 – 2014.06.03)Special ChurchesCathedral:  Most Holy Trinity Cathedral, Talibon, Bohol, Central Visayas Jubilee Churches in the Holy Year 2025Churches by City (46)Show MapTagbilaran (↙), Cebu (←), Maasin (→)Statistics (2022.12.31)Area: 2,243 km²Population: 604,548 Catholics (78.3% of 771,795 total)Pastoral Centres: 49 parishes, 2 missionsPersonnel: 87 priests (84 diocesan, 3 religious), 97 religious (38 brothers, 59 sisters), 62 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tali1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 771795,
+    "catholiques": 604548,
+    "pourcentage_catholiques": 78.3
+  },
+  "ressources": {
+    "pretres_diocesains": 84,
+    "pretres_religieux": null,
+    "total_pretres": 87,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 49
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

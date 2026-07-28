@@ -1,0 +1,29 @@
+{
+  "id": "gt-jala1",
+  "nom": "Jalapa",
+  "pays": "gt",
+  "pays_nom": "Guatemala",
+  "continent": "unknown",
+  "type": "Diocese Name: Jalapa / Jalapa en Guatemala / Ialapen(sis) in Guatimala (Latin)Ecclesiastical Province: Santiago de GuatemalaNeighbouring Dioceses: Santa Rosa de Lima (↙), Santiago de Guatemala (←), Vera Paz (↖), Zacapa (→), San Francisco de Asís de Jutiapa (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Santa CruzLiturgical Calendar (National) 📅History1951.03.10: Established as Diocese of Jalapa / Jalapa en Guatemala / Ialapen(sis) in Guatimala (Latin) (from Metropolitan Archdiocese of Guatemala and became suffragan of Guatemala)2016.01.25: Lost territory to establish Diocese of San Francisco de Asís de JutiapaPresent PrelatesBishop (2020.03.30 – ...):Bishop José Benedicto Moscoso Miranda (67)OrdinariesBishops of Jalapa (Roman Rite)Bishop José Benedicto Moscoso Miranda (67)  (2020.03.30 – ...)Bishop of Jalapa (Guatemala)Sentir con la IglesiaBorn:1959.07.07 (San Luis Jilotepeque, Jalapa, Guatemala)Ordained Priest:1987.01.03Consecrated Bishop:2020.06.29Priest of Jalapa (Guatemala) (1987.01.03 – 2020.03.30)Bishop of Jalapa (Guatemala) (2020.03.30 – ...)Bishop Julio Edgar Cabrera Ovalle (86)  (2001.12.05 – 2020.03.30)Bishop emeritus of Jalapa (Guatemala)Consuela a mi pueblo / Ay de mí si no evangelizoBorn:1939.08.22 (San Juan Camalapa, Chimaltenango, Guatemala)Ordained Priest:1963.12.01Consecrated Bishop:1987.01.06Priest of Guatemala (Guatemala) (1963.12.01 – 1986.10.31)Bishop of Quiché (Guatemala) (1986.10.31 – 2001.12.05)Bishop of Jalapa (Guatemala) (2001.12.05 – 2020.03.30)Bishop Jorge Mario Ávila del Águila, C.M.  (1987.01.29 – 2001.12.05)Spiritus Domini unxit me evangelizare pauperibusBorn:1924.04.19 (Ciudad de Guatemala, Guatemala)Ordained Priest:1948.11.07Consecrated Bishop:1983.01.15Died:2008.05.03 (Ciudad de Guatemala, Guatemala † 84)Apostolic Administrator of El Petén (Guatemala) (1978.02.03 – 1984.02.03)Titular Bishop of Nasai (1982.12.03 – 1987.01.29)Vicar Apostolic of El Petén (Guatemala) (1984.02.03 – 1987.01.29)Bishop of Jalapa (Guatemala) (1987.01.29 – 2001.12.05)General Secretary of Episcopal Secretariat of Central America and Panama (1988 – 1992)President of Episcopal Conference of Guatemala (1994 – 1998)Bishop Miguel Ángel García y Aráuz  (1951.04.11 – 1987.01.29)Spes mea in Deo estBorn:1911.10.08 (Ciudad de Guatemala, Guatemala)Ordained Priest:1939.01.06Consecrated Bishop:1944.09.03Died:2003.12.28 (Jalapa, Guatemala † 92)Priest of Guatemala (Guatemala) (1939.01.06 – 1944.05.16)Titular Bishop of Sophene (1944.05.16 – 1951.04.11)Auxiliary Bishop of Guatemala (Guatemala) (1944.05.16 – 1951.04.11)Apostolic Administrator of Zacapa (Guatemala) (1951 – 1955.11.30)Bishop of Jalapa (Guatemala) (1951.04.11 – 1987.01.29)Special ChurchesCathedral:  Catedral Nuestra Señora de la Expectación, Jalapa, Jalapa Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Show MapSanta Rosa de Lima (↙), Santiago de Guatemala (←), Vera Paz (↖), Zacapa (→), San Francisco de Asís de Jutiapa (↓)Statistics (2022.12.31)Area: 3,985 km²Population: 439,170 Catholics (85.0% of 516,683 total)Pastoral Centres: 21 parishes, 1 missionPersonnel: 32 priests (29 diocesan, 3 religious), 1 deacon, 55 religious (3 brothers, 52 sisters), 18 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jala1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 516683,
+    "catholiques": 439170,
+    "pourcentage_catholiques": 85.0
+  },
+  "ressources": {
+    "pretres_diocesains": 29,
+    "pretres_religieux": null,
+    "total_pretres": 32,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

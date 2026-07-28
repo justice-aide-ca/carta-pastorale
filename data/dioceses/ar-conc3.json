@@ -1,0 +1,29 @@
+{
+  "id": "ar-conc3",
+  "nom": "Concordia",
+  "pays": "ar",
+  "pays_nom": "Argentina",
+  "continent": "amerique",
+  "type": "Diocese Name: Concordia / Foroconcordian(us) (Latin)Ecclesiastical Province: ParanáNeighbouring Dioceses: Paraná (↙), Goya (↖), Salto (→), Gualeguaychú (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: María Inmaculada de la Concordia (December 8)Liturgical Calendar (National) 📅History1961.04.10: Established as Diocese of Concordia / Foroconcordian(us) (Latin) (from Metropolitan Archdiocese of Paraná and became suffragan of Paraná)Contact InfoAddress: Pellegrini 800, E3200AMN, Concordia, ArgentinaPhone: (0345) 4211253Present PrelatesBishop (2023.06.21 – ...):Bishop Gustavo Gabriel Zurbriggen (62)Monsignors (2)OrdinariesBishops of Concordia (Roman Rite)Bishop Gustavo Gabriel Zurbriggen (62)  (2023.06.21 – ...)Bishop of Concordia (Argentina)SiguemeBorn:1963.11.26 (Curupaity, Argentina)Ordained Priest:1990.10.26Consecrated Bishop:2011.12.09Priest of Rafaela (Argentina) (1990.10.26 – 2011.10.12)Coadjutor Bishop-Prelate of Deán Funes (Argentina) (2011.10.12 – 2013.12.21)Bishop-Prelate of Deán Funes (Argentina) (2013.12.21 – 2023.06.21)Bishop of Concordia (Argentina) (2023.06.21 – ...)Bishop Luis Armando Collazuol (78)  (2004.07.21 – 2023.06.21)Bishop emeritus of Concordia (Argentina)Gloria a Dios y paz a los hombresBorn:1948.02.10 (Rosario, Argentina)Ordained Priest:1974.09.29Consecrated Bishop:1998.03.27Priest of Rosario (Argentina) (1974.09.29 – 1997.12.31)Titular Bishop of Elo (1997.12.31 – 2004.07.21)Auxiliary Bishop of Rosario (Argentina) (1997.12.31 – 2004.07.21)Bishop of Concordia (Argentina) (2004.07.21 – 2023.06.21)Bishop Héctor Sabatino Cardelli  (1998.05.02 – 2004.02.21)Ay de mi si no evangelizaraBorn:1941.08.30 (Godoy, Argentina)Ordained Priest:1968.09.21Consecrated Bishop:1995.07.14Died:2022.11.07 (Rosario, Argentina † 81)Priest of Rosario (Argentina) (1968.09.21 – 1995.05.13)Titular Bishop of Furnos maior (1995.05.13 – 1998.05.02)Auxiliary Bishop of Rosario (Argentina) (1995.05.13 – 1998.05.02)Bishop of Concordia (Argentina) (1998.05.02 – 2004.02.21)Bishop of San Nicolás de los Arroyos (Argentina) (2004.02.21 – 2016.09.21)Bishop Adolfo Gerstner  (1977.01.24 – 1998.05.02)Born:1921.10.28 (Diamante, Argentina)Ordained Priest:1947.04.21Consecrated Bishop:1977.03.26Died:2002.12.04 († 81)Bishop of Concordia (Argentina) (1977.01.24 – 1998.05.02)Bishop Ricardo Rösch  (1961.06.12 – 1976.08.21)Born:1911.10.12 (Marktredwitz, Germany)Ordained Priest:1939.04.08Consecrated Bishop:1961.10.29Died:1976.08.21 († 64)Priest of Goya (Argentina) (1939.04.08 – 1961.06.12)Bishop of Concordia (Argentina) (1961.06.12 – 1976.08.21)Special ChurchesCathedral:  Catedral San Antonio de Padua, Concordia, Entre Rios Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (30)Show MapParaná (↙), Goya (↖), Salto (→), Gualeguaychú (↓)Statistics (2022.12.31)Area: 15,000 km²Population: 296,500 Catholics (90.2% of 328,700 total)Pastoral Centres: 30 parishes, 130 missionsPersonnel: 46 priests (45 diocesan, 1 religious), 4 deacons, 27 religious (1 brother, 26 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "conc3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 328700,
+    "catholiques": 296500,
+    "pourcentage_catholiques": 90.2
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 46,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

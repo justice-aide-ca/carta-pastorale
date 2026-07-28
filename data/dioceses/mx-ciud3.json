@@ -1,0 +1,29 @@
+{
+  "id": "mx-ciud3",
+  "nom": "Ciudad Juárez",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Ciudad Juárez / Civitatis Iuarezen(sis) (Latin)Ecclesiastical Province: ChihuahuaNeighbouring Dioceses: Nuevo Casas Grandes (←), Las Cruces (↑), El Paso (↗), Chihuahua (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1957.04.10: Established as Diocese of Ciudad Juárez / Civitatis Iuarezen(sis) (Latin) (from Diocese of Chihuahua and became suffragan of Durango)1958.11.22: Became suffragan of Chihuahua1963.10.15: Lost territory to Metropolitan Archdiocese of Chihuahua1966.04.25: Lost territory to establish Territorial Prelature of Madera1977.04.13: Lost territory to establish Territorial Prelature of Nuevo Casas GrandesContact InfoAddress: Mejía y Perú s/n Col. Partido Romero, 32000- Cd. Juárez, Chih., MexicoPhone: (656) 6-15-09-22Papal VisitsPope Francis (2016.02)Present PrelatesBishop:vacantMonsignors (6)OrdinariesBishops of Ciudad Juárez (Roman Rite)Bishop José Guadalupe Torres Campos (66)  (2014.12.20 – 2026.05.13)Bishop of Ecatepec (Mexico)Haced lo que Él les osBorn:1960.01.19 (León, Mexico)Ordained Priest:1984.07.02Consecrated Bishop:2006.02.22Priest of León (Mexico) (1984.07.02 – 2004.01.03)Priest of Irapuato (Mexico) (2004.01.03 – 2005.12.10)Titular Bishop of Quiza (2005.12.10 – 2008.11.25)Auxiliary Bishop of Ciudad Juárez (Mexico) (2005.12.10 – 2008.11.25)Bishop of Gómez Palacio (Mexico) (2008.11.25 – 2014.12.20)Bishop of Ciudad Juárez (Mexico) (2014.12.20 – 2026.05.13)Bishop of Ecatepec (Mexico) (2026.05.13 – ...)Bishop Renato Ascencio León  (1994.10.07 – 2014.12.20)In nomine DominiBorn:1939.05.11 (León, Mexico)Ordained Priest:1965.06.12Consecrated Bishop:1988.08.30Died:2022.06.27 (León, Mexico † 83)Bishop-Prelate of Madera (Mexico) (1988.07.19 – 1994.10.07)Bishop of Ciudad Juárez (Mexico) (1994.10.07 – 2014.12.20)Bishop Juan Sandoval Íñiguez (93) (later Cardinal)  (1992.07.11 – 1994.04.21)Cardinal-Priest of Nostra Signora di Guadalupe e S. Filippo Martire in Via AureliaMetropolitan Archbishop emeritus of Guadalajara (Mexico)ServusBorn:1933.03.28 (Yahualica, Mexico)Ordained Priest:1957.10.27Consecrated Bishop:1988.04.30Created Cardinal:1994.11.26Priest of Guadalajara (Mexico) (1957.10.27 – 1988.03.03)Coadjutor Bishop of Ciudad Juárez (Mexico) (1988.03.03 – 1992.07.11)Bishop of Ciudad Juárez (Mexico) (1992.07.11 – 1994.04.21)Metropolitan Archbishop of Guadalajara (Mexico) (1994.04.21 – 2011.12.07)Cardinal-Priest of Nostra Signora di Guadalupe e S. Filippo Martire in Via Aurelia (1994.11.26 – ...)Bishop Manuel Talamás Camandari  (1957.05.21 – 1992.07.11)Born:1917.06.16 (Chihuahua, Mexico)Ordained Priest:1943.05.16Consecrated Bishop:1957.09.08Died:2005.05.10 (Ciudad Juárez, Mexico † 87)Priest of Chihuahua (Mexico) (1943.05.16 – 1957.05.21)Bishop of Ciudad Juárez (Mexico) (1957.05.21 – 1992.07.11)Former PrelatesCoadjutor Bishop: Bishop Juan Sandoval Íñiguez (93) (later Cardinal) (1988.03.03 – 1992.07.11)Auxiliary Bishop: Bishop José Guadalupe Torres Campos (66) (2005.12.10 – 2008.11.25)Special ChurchesCathedral:  Catedral de Nuestra Señora de Guadalupe, Ciudad Juárez, Chihuahua Jubilee Churches in the Holy Year 2025Churches by City (76)Show MapNuevo Casas Grandes (←), Las Cruces (↑), El Paso (↗), Chihuahua (↓)Statistics (2022.12.31)Area: 29,639 km²Population: 1,353,700 Catholics (79.6% of 1,701,500 total)Pastoral Centres: 77 parishes, 3 missionsPersonnel: 124 priests (104 diocesan, 20 religious), 19 deacons, 161 religious (25 brothers, 136 sisters), 37 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ciud3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1701500,
+    "catholiques": 1353700,
+    "pourcentage_catholiques": 79.6
+  },
+  "ressources": {
+    "pretres_diocesains": 104,
+    "pretres_religieux": null,
+    "total_pretres": 124,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 77
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

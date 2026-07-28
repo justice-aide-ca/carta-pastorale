@@ -1,0 +1,29 @@
+{
+  "id": "ug-jinj0",
+  "nom": "Jinja",
+  "pays": "ug",
+  "pays_nom": "Uganda",
+  "continent": "unknown",
+  "type": "Diocese Name: Jinja / Gingian(us) (Latin)Ecclesiastical Province: TororoNeighbouring Dioceses: Lugazi (←), Tororo (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1966.08.05: Established as Diocese of Jinja / Gingian(us) (Latin) (from the suppressed Metropolitan Archdiocese of Rubaga and became suffragan of Kinshasa)1999.01.02: Became suffragan of TororoPresent PrelatesBishop:vacantApostolic Administrator (2025.10.29 – ...):Archbishop Emmanuel Obbo, A.J. (73)Metropolitan Archbishop of Tororo (Uganda)Monsignors (2)OrdinariesBishops of Jinja (Roman Rite)Archbishop Emmanuel Obbo, A.J. (73)  (Apostolic Administrator 2025.10.29 – ...)Bishop Charles Martin Wamika  (2010.03.02 – 2025.10.22)May they be oneBorn:1953.08.12 (Budaka, Uganda)Ordained Priest:1979.09.22Consecrated Bishop:1994.02.19Died:2025.10.22 (Lubaga, Uganda † 72)Priest of Tororo (Uganda) (1979.09.22 – 1993.10.18)Titular Bishop of Tacapæ (1993.10.18 – 2010.03.02)Auxiliary Bishop of Tororo (Uganda) (1993.10.18 – 2010.03.02)Bishop of Jinja (Uganda) (2010.03.02 – 2025.10.22)Bishop Joseph Benard Willigers, M.H.M.  (1967.07.13 – 2010.03.02)De petra melleBorn:1930.10.26 (Gronsveld, Netherlands)Ordained Priest:1955.07.10Consecrated Bishop:1967.12.03Died:2012.09.30 († 81)Bishop of Jinja (Uganda) (1967.07.13 – 2010.03.02)Special ChurchesCathedral:  Cathedral of St. Joseph, Jinja, Jinja, Eastern Show MapLugazi (←), Tororo (→)Statistics (2022.12.31)Area: 8,917 km²Population: 960,100 Catholics (20.2% of 4,750,000 total)Pastoral Centres: 33 parishes, 2 missionsPersonnel: 149 priests (87 diocesan, 62 religious), 719 religious (364 brothers, 355 sisters), 107 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jinj0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4750000,
+    "catholiques": 960100,
+    "pourcentage_catholiques": 20.2
+  },
+  "ressources": {
+    "pretres_diocesains": 87,
+    "pretres_religieux": null,
+    "total_pretres": 149,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

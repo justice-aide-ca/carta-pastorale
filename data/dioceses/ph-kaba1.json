@@ -1,0 +1,29 @@
+{
+  "id": "ph-kaba1",
+  "nom": "Kabankalan",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Kabankalan / Cabancalen(sis) (Latin)Ecclesiastical Province: JaroNeighbouring Dioceses: Bacolod (↑), San Carlos (↗), Dumaguete (↘)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Francis Xavier (December 3)Cathedral Dedication Anniversary: March 30Liturgical Calendar (National) 📅History1987.03.30: Established as Diocese of Kabankalan / Cabancalen(sis) (Latin) (from Diocese of Bacolod and became suffragan of Jaro)Present PrelatesBishop:vacantMonsignors (3)OrdinariesBishops of Kabankalan (Roman Rite)Bishop Louie Patalinghug Galbines (59)  (2018.03.12 – 2026.05.14)Bishop of Bacolod (Philippines)ConfidoBorn:1966.11.18 (Aliwanag, Sagay, Philippines)Ordained Priest:1994.04.29Consecrated Bishop:2018.05.28Priest of Bacolod (Philippines) (1994.04.29 – 2018.03.12)Bishop of Kabankalan (Philippines) (2018.03.12 – 2026.05.14)Bishop of Bacolod (Philippines) (2026.05.14 – ...)Bishop Patricio Abella Buzon, S.D.B. (76)  (2002.12.27 – 2016.05.24)Bishop emeritus of Bacolod (Philippines)Adveniat regnum tuumBorn:1950.03.14 (San Nicolas, Philippines)Ordained Priest:1976.12.08Consecrated Bishop:2003.02.19Bishop of Kabankalan (Philippines) (2002.12.27 – 2016.05.24)Bishop of Bacolod (Philippines) (2016.05.24 – 2026.05.14)Bishop Vicente Macanan Navarra (87)  (1987.11.21 – 2001.05.24)Bishop emeritus of Bacolod (Philippines)Adsum meam DominiBorn:1939.01.22 (Mambusao, Philippines)Ordained Priest:1962.04.07Consecrated Bishop:1979.06.26Priest of Capiz (Philippines) (1962.04.07 – 1979.04.23)Chaplain of His Holiness (1975.04.19 – 1979.04.23)Titular Bishop of Velefi (1979.04.23 – 1987.11.21)Auxiliary Bishop of Capiz (Philippines) (1979.04.23 – 1987.11.21)Bishop of Kabankalan (Philippines) (1987.11.21 – 2001.05.24)Bishop of Bacolod (Philippines) (2001.05.24 – 2016.05.24)Special ChurchesCathedral:  Cathedral of St. Francis Xavier, Kabankalan City, Negros Occidental, Negros Island Jubilee Churches in the Holy Year 2025Churches by City (27)Show MapBacolod (↑), San Carlos (↗), Dumaguete (↘)Statistics (2022.12.31)Area: 3,924 km²Population: 785,657 Catholics (80.0% of 982,071 total)Pastoral Centres: 31 parishesPersonnel: 67 priests (66 diocesan, 1 religious), 17 religious (1 brother, 16 sisters), 27 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kaba1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 982071,
+    "catholiques": 785657,
+    "pourcentage_catholiques": 80.0
+  },
+  "ressources": {
+    "pretres_diocesains": 66,
+    "pretres_religieux": null,
+    "total_pretres": 67,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

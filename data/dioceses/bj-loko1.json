@@ -1,0 +1,29 @@
+{
+  "id": "bj-loko1",
+  "nom": "Lokossa",
+  "pays": "bj",
+  "pays_nom": "Benin",
+  "continent": "unknown",
+  "type": "Diocese Name: Lokossa / Lokossaën(sis) (Latin)Ecclesiastical Province: CotonouNeighbouring Dioceses: Aného (↙), Kpalimé (←), Atakpamé (↖), Abomey (↗), Cotonou (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1968.03.11: Established as Diocese of Lokossa / Lokossaën(sis) (Latin) (from Metropolitan Archdiocese of Cotonou and became suffragan of Cotonou)Present PrelatesBishop (2023.03.04 – ...):Bishop Coffi Roger Anoumou (53)Monsignors (1)OrdinariesBishops of Lokossa (Roman Rite)Bishop Coffi Roger Anoumou (53)  (2023.03.04 – ...)Bishop of Lokossa (Benin)Qu’ils soient unBorn:1972.07.30 (Dogbo, Benin)Ordained Priest:2003.12.27Consecrated Bishop:2023.05.13Priest of Lokossa (Benin) (2003.12.27 – 2023.03.04)Bishop of Lokossa (Benin) (2023.03.04 – ...)Bishop Victor Agbanou (80)  (2000.07.05 – 2023.03.04)Bishop emeritus of Lokossa (Benin)Donne-moi pitiéBorn:1945.12.23 (Lokossa, Benin)Ordained Priest:1974.08.10Consecrated Bishop:2000.11.04Priest of Lokossa (Benin) (1974.08.10 – 2000.07.05)Bishop of Lokossa (Benin) (2000.07.05 – 2023.03.04)President of Episcopal Conference of Benin (2016.10.26 – 2023.05.26)Bishop Robert Sastre  (1972.03.02 – 2000.01.16)Born:1926.06.07 (Grand-Popo, Benin)Ordained Priest:1952.12.21Consecrated Bishop:1972.08.06Died:2000.01.16 († 73)Priest of Lokossa (Benin) (1952.12.21 – 1972.03.02)Bishop of Lokossa (Benin) (1972.03.02 – 2000.01.16)Bishop Christophe Adimou (later Archbishop)  (1968.03.11 – 1971.06.28)Born:1916.01.12 (Cana, Benin)Ordained Priest:1951.01.14Consecrated Bishop:1968.07.25Died:1998.07.08 († 82)Bishop of Lokossa (Benin) (1968.03.11 – 1971.06.28)Metropolitan Archbishop of Cotonou (Benin) (1971.06.28 – 1990.12.27)President of Episcopal Conference of Benin (1972 – 1991)Special ChurchesCathedral:  Cathédrale Saint-Pierre-Claver, Lokossa, Mono Show MapAného (↙), Kpalimé (←), Atakpamé (↖), Abomey (↗), Cotonou (→)Statistics (2022.12.31)Area: 4,009 km²Population: 200,180 Catholics (12.2% of 1,645,320 total)Pastoral Centres: 60 parishes, 1 missionPersonnel: 117 priests (115 diocesan, 2 religious), 160 religious (26 brothers, 134 sisters), 39 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "loko1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1645320,
+    "catholiques": 200180,
+    "pourcentage_catholiques": 12.2
+  },
+  "ressources": {
+    "pretres_diocesains": 115,
+    "pretres_religieux": null,
+    "total_pretres": 117,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 60
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mx-izta0",
+  "nom": "Iztapalapa",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Iztapalapa (español) / Iztapalapan(us) (Latin)Ecclesiastical Province: MéxicoNeighbouring Dioceses: México (↖), Nezahualcóyotl (→), Xochimilco (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2019.09.28: Established as Diocese of Iztapalapa (español) / Iztapalapan(us) (Latin) (from Metropolitan Archdiocese of México and became suffragan of México)Present PrelatesBishop (2021.08.14 – ...):Bishop Jorge Cuapio Bautista (59)OrdinariesBishops of Iztapalapa (Roman Rite)Bishop Jorge Cuapio Bautista (59)  (2021.08.14 – ...)Bishop of Iztapalapa (Mexico)Comunión don del SeñorBorn:1967.04.06 (Santa Ana Chiauhteman, Mexico)Ordained Priest:1992.08.15Consecrated Bishop:2015.05.27Priest of Texcoco (Mexico) (1992.08.15 – 2015.03.04)Titular Bishop of Bisarcio (2015.03.04 – 2021.08.14)Auxiliary Bishop of Tlalnepantla (Mexico) (2015.03.04 – 2021.08.14)Bishop of Iztapalapa (Mexico) (2021.08.14 – ...)Bishop Jesús Antonio Lerma Nolasco  (2019.09.28 – 2021.08.14)Born:1945.07.04 (Xalisco, Mexico)Ordained Priest:1971.12.24Consecrated Bishop:2009.07.10Died:2025.03.10 (Tepic, Mexico † 79)Priest of Tepic (Mexico) (1971.12.24 – 2009.05.07)Titular Bishop of Aulon (2009.05.07 – 2019.09.28)Auxiliary Bishop of México (Mexico) (2009.05.07 – 2019.09.28)Bishop of Iztapalapa (Mexico) (2019.09.28 – 2021.08.14)Special ChurchesCathedral:  Catedral del Señor del Santo Sepulcro, Ciudad de México, Ciudad de México Churches by City (113)Show MapMéxico (↖), Nezahualcóyotl (→), Xochimilco (↓)Statistics (2022.12.31)Area: 117 km²Population: 1,650,000 Catholics (89.9% of 1,835,486 total)Pastoral Centres: 107 parishes, 110 missionsPersonnel: 117 priests (76 diocesan, 41 religious), 22 deacons, 222 religious (50 brothers, 172 sisters), 13 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "izta0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1835486,
+    "catholiques": 1650000,
+    "pourcentage_catholiques": 89.9
+  },
+  "ressources": {
+    "pretres_diocesains": 76,
+    "pretres_religieux": null,
+    "total_pretres": 117,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 107
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

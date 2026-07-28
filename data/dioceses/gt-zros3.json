@@ -1,0 +1,29 @@
+{
+  "id": "gt-zros3",
+  "nom": "Santa Rosa de Lima",
+  "pays": "gt",
+  "pays_nom": "Guatemala",
+  "continent": "unknown",
+  "type": "Diocese Name: Santa Rosa de Lima / Sanctæ Rosæ de Lima (Latin)Ecclesiastical Province: Santiago de GuatemalaNeighbouring Dioceses: Escuintla (←), Santiago de Guatemala (↖), Jalapa (↗), San Francisco de Asís de Jutiapa (→)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Rose of LimaLiturgical Calendar (National) 📅History1996.04.27: Established as Diocese of Santa Rosa de Lima / Sanctæ Rosæ de Lima (Latin) (from Metropolitan Archdiocese of Guatemala and became suffragan of Guatemala)Present PrelatesBishop (2021.07.16 – ...):Bishop José Cayetano Parra Novo, O.P. (75)OrdinariesBishops of Santa Rosa de Lima (Roman Rite)Bishop José Cayetano Parra Novo, O.P. (75)  (2021.07.16 – ...)Bishop of Santa Rosa de Lima (Guatemala)Evangelizar a los pobresBorn:1950.09.05 (Otívar, Granada, Spain)Ordained Priest:1979.10.28Consecrated Bishop:2017.01.21Titular Bishop of Tubia (2016.11.11 – 2021.07.16)Auxiliary Bishop of Santiago de Guatemala (Guatemala) (2016.11.11 – 2021.07.16)Bishop of Santa Rosa de Lima (Guatemala) (2021.07.16 – ...)Bishop Bernabé de Jesús Sagastume Lemus, O.F.M. Cap. (65)  (2007.07.28 – 2021.01.11)Bishop of San Marcos (Guatemala)President of Episcopal Conference of GuatemalaUt omnes unum sintBorn:1961.05.20 (Aldea San Esteban, Chiquimula, Guatemala)Ordained Priest:1987.01.31Consecrated Bishop:2007.10.06General Secretary of Episcopal Conference of Guatemala (? – 2014)Bishop of Santa Rosa de Lima (Guatemala) (2007.07.28 – 2021.01.11)Bishop of San Marcos (Guatemala) (2021.01.11 – ...)Vice-President of Episcopal Conference of Guatemala (2023.01.27 – 2026.01.30)President of Episcopal Conference of Guatemala (2026.01.30 – ...)Bishop Julio Amílcar Bethancourt Fioravanti  (1996.04.27 – 2006.07.04)Diligentibus Deum omnia cooperantur in bonumBorn:1937.04.09 (Quetzaltenango, Guatemala)Ordained Priest:1963.12.29Consecrated Bishop:1983.01.31Died:2006.07.04 (Aldea Montecillos, Santa Rosa, Guatemala † 69)Priest of Quetzaltenango, Los Altos (Guatemala) (1963.12.29 – 1982.12.03)Titular Bishop of Pomaria (1982.12.03 – 1984.04.04)Auxiliary Bishop of Guatemala (Guatemala) (1982.12.03 – 1984.04.04)Bishop of San Marcos (Guatemala) (1984.04.04 – 1988.03.10)Bishop of Huehuetenango (Guatemala) (1988.03.10 – 1996.04.27)Bishop of Santa Rosa de Lima (Guatemala) (1996.04.27 – 2006.07.04)Special ChurchesCathedral:  Catedral del Niño Dios de Cuilapa, Santa Rosa de Lima, Santa Rosa Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Show MapEscuintla (←), Santiago de Guatemala (↖), Jalapa (↗), San Francisco de Asís de Jutiapa (→)Statistics (2022.12.31)Area: 2,955 km²Population: 304,296 Catholics (69.2% of 439,759 total)Pastoral Centres: 24 parishesPersonnel: 82 priests (40 diocesan, 42 religious), 3 deacons, 80 religious (42 brothers, 38 sisters), 15 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zros3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 439759,
+    "catholiques": 304296,
+    "pourcentage_catholiques": 69.2
+  },
+  "ressources": {
+    "pretres_diocesains": 40,
+    "pretres_religieux": null,
+    "total_pretres": 82,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "co-palm6",
+  "nom": "Palmira",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Palmira / Palmiran(us) (Latin)Ecclesiastical Province: CaliNeighbouring Dioceses: Cali (←), Buenaventura (↖), Istmina–Tadó (↖), Buga (↑), Espinal (→)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History1952.12.17: Established as Diocese of Palmira / Palmiran(us) (Latin) (from Metropolitan Archdiocese of Popayán and Diocese of Cali and became suffragan of Popayán)1964.06.20: Became suffragan of Cali1966.06.29: Lost territory to establish Diocese of BugaPresent PrelatesBishop (2024.05.31 – ...):Bishop Rodrigo Gallego Trujillo (52)Monsignors (4)OrdinariesBishops of Palmira (Roman Rite)Bishop Rodrigo Gallego Trujillo (52)  (2024.05.31 – ...)Bishop of Palmira (Colombia)Mihi enim vivere Christus estBorn:1974.03.13 (Sevilla, Colombia)Ordained Priest:1998.12.05Consecrated Bishop:2024.08.10Priest of Buga (Colombia) (1998.12.05 – 2024.05.31)Bishop of Palmira (Colombia) (2024.05.31 – ...)Bishop Edgar de Jesús García Gil (79)  (2010.05.24 – 2024.05.31)Bishop emeritus of Palmira (Colombia)Born:1946.10.13 (Roldanillo, Colombia)Ordained Priest:1971.08.28Consecrated Bishop:1992.09.08Priest of Cartago (Colombia) (1971.08.28 – 1992.07.08)Titular Bishop of Fordongianus (1992.07.08 – 2002.10.28)Auxiliary Bishop of Cali (Colombia) (1992.07.08 – 2002.10.28)Bishop of Montelíbano (Colombia) (2002.10.28 – 2010.05.24)Bishop of Palmira (Colombia) (2010.05.24 – 2024.05.31)Bishop Abraham Escudero Montoya  (2007.02.02 – 2009.11.06)Born:1940.01.24 (Urrao, Colombia)Ordained Priest:1968.06.08Consecrated Bishop:1986.06.21Died:2009.11.06 (Cali, Colombia † 69)Priest of Medellín (Colombia) (1968.06.08 – 1986.05.22)Titular Bishop of Risinium (1986.05.22 – 1990.04.30)Auxiliary Bishop of Medellín (Colombia) (1986.05.22 – 1990.04.30)Bishop of Espinal (Colombia) (1990.04.30 – 2007.02.02)Bishop of Palmira (Colombia) (2007.02.02 – 2009.11.06)Bishop Orlando Antonio Corrales García (79) (later Archbishop)  (2001.04.09 – 2007.01.12)Metropolitan Archbishop emeritus of Santa Fe de Antioquia (Colombia)Hágase tu voluntadBorn:1947.01.26 (Abejorral, Colombia)Ordained Priest:1971.12.05Consecrated Bishop:1998.03.25Priest of Medellín (Colombia) (1971.12.05 – 1998.01.28)Titular Bishop of Thuccabora (1998.01.28 – 2001.04.09)Auxiliary Bishop of Medellín (Colombia) (1998.01.28 – 2001.04.09)Bishop of Palmira (Colombia) (2001.04.09 – 2007.01.12)Metropolitan Archbishop of Santa Fe de Antioquia (Colombia) (2007.01.12 – 2022.05.03)Apostolic Administrator of Sincelejo (Colombia) (2014.03.16 – 2015.02.19)Bishop José Mario Escobar Serna  (1983.08.20 – 2000.10.13)Born:1927.11.21 (Santa Bárbara, Colombia)Ordained Priest:1953.11.01Consecrated Bishop:1974.07.29Died:2005.06.10 († 77)Titular Bishop of Urbisaglia (1974.06.20 – 1982.05.03)Auxiliary Bishop of the Military Vicariate of Colombia (Colombia) (1974.06.20 – 1982.05.03)Coadjutor Bishop of Palmira (Colombia) (1982.05.03 – 1983.08.20)Bishop of Palmira (Colombia) (1983.08.20 – 2000.10.13)Bishop Jesús Antonio Castro Becerra  (1952.12.18 – 1983.08.20)Born:1908.06.26 (Palmira, Colombia)Ordained Priest:1933.12.23Consecrated Bishop:1948.10.31Died:1991.04.01 (Palmira, Colombia † 82)Bishop of Barranquilla (Colombia) (1948.08.19 – 1952.12.18)Bishop of Palmira (Colombia) (1952.12.18 – 1983.08.20)Former PrelatesCoadjutor Bishop: Bishop José Mario Escobar Serna (1982.05.03 – 1983.08.20)Special ChurchesCathedral:  Catedral de Nuestra Señora del Rosario del Palmar, Palmira, Valle del Cauca Jubilee Churches in the Holy Year 2025Show MapCali (←), Buenaventura (↖), Istmina–Tadó (↖), Buga (↑), Espinal (→)Statistics (2022.12.31)Area: 4,976 km²Population: 813,390 Catholics (89.8% of 906,000 total)Pastoral Centres: 51 parishes, 3 missionsPersonnel: 88 priests (79 diocesan, 9 religious), 7 deacons, 204 religious (12 brothers, 192 sisters), 19 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "palm6",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 906000,
+    "catholiques": 813390,
+    "pourcentage_catholiques": 89.8
+  },
+  "ressources": {
+    "pretres_diocesains": 79,
+    "pretres_religieux": null,
+    "total_pretres": 88,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 51
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ng-lafi0",
+  "nom": "Lafia",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Lafia / Lafien(sis) (Latin)Ecclesiastical Province: AbujaNeighbouring Dioceses: Idah (↙), Lokoja (←), Abuja (↖), Kafanchan (↑), Jos (↑), Pankshin (↗), Shendam (→), Makurdi (↓), Otukpo (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2000.12.05: Established as Diocese of Lafia / Lafien(sis) (Latin) (from Metropolitan Archdiocese of Jos and Diocese of Makurdi and became suffragan of Abuja)Present PrelatesBishop (2021.03.31 – ...):Bishop David Ajang (56)OrdinariesBishops of Lafia (Roman Rite)Bishop David Ajang (56)  (2021.03.31 – ...)Bishop of Lafia (Nigeria)Thesaurum in vasis fictilibusBorn:1970.03.31 (Zaria, Nigeria)Ordained Priest:1994.12.03Consecrated Bishop:2021.06.24Priest of Jos (Nigeria) (1994.12.03 – 2021.03.31)Bishop of Lafia (Nigeria) (2021.03.31 – ...)Bishop Matthew Ishaya Audu (67) (later Archbishop)  (2000.12.05 – 2020.01.06)Metropolitan Archbishop of Jos (Nigeria)Ikon AllahBorn:1959.06.07 (Rafin-Pa, Nigeria)Ordained Priest:1984.06.23Consecrated Bishop:2001.03.31Priest of Makurdi (Nigeria) (1984.06.23 – 2000.12.05)Bishop of Lafia (Nigeria) (2000.12.05 – 2020.01.06)Metropolitan Archbishop of Jos (Nigeria) (2020.01.06 – ...)Special ChurchesCathedral:  Cathedral of St. William, Lafia, Nasarawa Show MapIdah (↙), Lokoja (←), Abuja (↖), Kafanchan (↑), Jos (↑), Pankshin (↗), Shendam (→), Makurdi (↓), Otukpo (↓)Statistics (2022.12.31)Area: 28,000 km²Population: 330,135 Catholics (11.4% of 2,886,000 total)Pastoral Centres: 23 parishes, 36 missionsPersonnel: 91 priests (75 diocesan, 16 religious), 104 religious (16 brothers, 88 sisters), 36 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lafi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2886000,
+    "catholiques": 330135,
+    "pourcentage_catholiques": 11.4
+  },
+  "ressources": {
+    "pretres_diocesains": 75,
+    "pretres_religieux": null,
+    "total_pretres": 91,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ao-mban1",
+  "nom": "Mbanza Congo",
+  "pays": "ao",
+  "pays_nom": "Angola",
+  "continent": "unknown",
+  "type": "Diocese Name: Mbanza Congo / Mbanzacongen(sis) (Latin)Ecclesiastical Province: LuandaNeighbouring Dioceses: Boma (↖), Matadi (↑), Uíje (↘), Caxito (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Nossa Senhora da Conceição (December 8)Liturgical Calendar (National) 📅History1596.05.20: Established as Diocese of São Salvador da Congo (Português) / Congo in Angola (English) (from Diocese of Tomé and became suffragan of Lisboa)1609: Suppressed (to establish Diocese of São Paulo de Loanda)1623: Restored as Diocese of São Salvador da Congo (Português) / Congo in Angola (English) (from the suppressed Diocese of São Paulo de Loanda and became suffragan of Lisboa)1628: Suppressed (to establish Diocese of São Paulo de Loanda)1984.11.07: Restored as Diocese of Mbanza Congo / Mbanzacongen(sis) (Latin) (from Diocese of Uíje and became suffragan of Luanda)Papal VisitsPope John Paul II (1992.06)Present PrelatesBishop (2009.01.05 – ...):Bishop Vicente Carlos Kiaziku, O.F.M. Cap. (68)OrdinariesBishops of Mbanza Congo (Roman Rite)Bishop Vicente Carlos Kiaziku, O.F.M. Cap. (68)  (2009.01.05 – ...)Bishop of Mbanza Congo (Angola)Humilitas et caritasBorn:1957.08.28 (Kimacaka-Bamba, Angola)Ordained Priest:1985.06.02Consecrated Bishop:2009.03.08Bishop of Mbanza Congo (Angola) (2009.01.05 – ...)Bishop Serafim Shyngo-Ya-Hombo, O.F.M. Cap.  (1992.05.29 – 2008.07.17)Dominus vobiscumBorn:1945.02.06 (Kibala, Angola)Ordained Priest:1971.08.01Consecrated Bishop:1990.06.24Died:2026.01.01 (Windhoek, Namibia † 80)Titular Bishop of Aquæ in Dacia (1990.03.26 – 1992.05.29)Auxiliary Bishop of Luanda (Angola) (1990.03.26 – 1992.05.29)Bishop of Mbanza Congo (Angola) (1992.05.29 – 2008.07.17)Bishop Afonso Nteka, O.F.M. Cap.  (1984.11.08 – 1991.08.10)Born:1940.03.13 (Cazumbi, Angola)Ordained Priest:1971.09.05Consecrated Bishop:1985.01.06Died:1991.08.10 († 51)Bishop of Mbanza Congo (Angola) (1984.11.08 – 1991.08.10)Bishops of São Salvador da Congo (Roman Rite)Bishop Francisco do Soveral, O.E.S.A.  (1627.02.08 – 1628)Born: (Servancelha, Portugal)Consecrated Bishop:1624.04Died:1642.01.05Bishop of Tomé (São Tomé and Príncipe) (1623.10.05 – 1627.02.08)Bishop of São Salvador da Congo (Angola) (1627.02.08 – 1628)Bishop of São Paulo de Loanda (Angola) (1628 – 1642.01.05)Bishop Simon Mascarenhas, O.F.M.  (1623 – 1624.10.13)Born:1571 (Alcacovas, Portugal)Consecrated Bishop:1623.04.16Died:1624.10.13 († 52)Bishop of São Paulo de Loanda (Angola) (1621.02.15 – 1623)Bishop of São Salvador da Congo (Angola) (1623 – 1624.10.13)Bishop Antonio de Santo Estevão, O.P.  (1604.07.15 – 1608.04)Born:1548? (Lisboa, Portugal)Died:1608.04 († 59)Bishop of São Salvador da Congo (Angola) (1604.07.15 – 1608.04)Bishop Miguel Rangel, O.F.M. Cap.  (1596.05.20 – 1602.08.16)Born:1541? (Coimbra, Portugal)Ordained Priest:1581?Died:1602.08.16 (Luanda, Angola † 60)Bishop of São Salvador da Congo (Angola) (1596.05.20 – 1602.08.16)Special ChurchesCathedral, World Heritage Site:  Sé Catedral de Nossa Senhora da Conceição, M’Banza Kongo, Zaire Former Cathedral, World Heritage Site (now ruined):  Sé Catedral de São Salvador de Congo, M’Banza Kongo, Zaire Show MapBoma (↖), Matadi (↑), Uíje (↘), Caxito (↓)Statistics (2022.12.31)Area: 39,459 km²Population: 383,005 Catholics (44.1% of 869,320 total)Pastoral Centres: 10 parishes, 10 missionsPersonnel: 33 priests (20 diocesan, 13 religious), 44 religious (14 brothers, 30 sisters), 38 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mban1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 869320,
+    "catholiques": 383005,
+    "pourcentage_catholiques": 44.1
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 33,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 10
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

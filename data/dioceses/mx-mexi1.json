@@ -1,0 +1,29 @@
+{
+  "id": "mx-mexi1",
+  "nom": "Mexicali",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Mexicali / Mexicalen(sis) (Latin)Ecclesiastical Province: TijuanaNeighbouring Dioceses: Ensenada (↙), Tijuana (←), San Diego (↑), Tucson (↗), Nogales (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1966.03.25: Established as Diocese of Mexicali / Mexicalen(sis) (Latin) (from Diocese of Tijuana and became suffragan of Hermosillo)2006.11.25: Became suffragan of Tijuana2007.01.27: Lost territory to establish Diocese of EnsenadaContact InfoAddress: Morelos #192, Centro, 21100 - Mexicali, B.C., MexicoPhone: (686) 5-52-40-09Present PrelatesBishop (2023.09.11 – ...):Bishop Enrique Sánchez Martínez (65)OrdinariesBishops of Mexicali (Roman Rite)Bishop Enrique Sánchez Martínez (65)  (2023.09.11 – ...)Bishop of Mexicali (Mexico)Videns eum misericordia motus estBorn:1960.12.02 (Cuencamé, Mexico)Ordained Priest:1986.06.29Consecrated Bishop:2008.10.10Priest of Durango (Mexico) (1986.06.29 – 2008.07.21)Titular Bishop of Thamugadi (2008.07.21 – 2015.11.16)Auxiliary Bishop of Durango (Mexico) (2008.07.21 – 2015.11.16)Bishop of Nuevo Laredo (Mexico) (2015.11.16 – 2023.09.11)Bishop of Mexicali (Mexico) (2023.09.11 – ...)Archbishop Francisco Moreno Barrón  (Apostolic Administrator 2022.02.25 – 2023.09.11)Bishop José Isidro Guerrero Macías  (1997.05.31 – 2022.02.23)Omnia in ChristoBorn:1951.05.31 (Iraguato, Mexico)Ordained Priest:1973.04.22Consecrated Bishop:1997.09.17Died:2022.02.23 (Mexicali, Mexico † 70)Bishop of Mexicali (Mexico) (1997.05.31 – 2022.02.23)Bishop José Ulises Macías Salcedo (later Archbishop)  (1984.06.14 – 1996.08.20)Vinculum amoris et unitatisBorn:1940.10.29 (León, Mexico)Ordained Priest:1966.04.10Consecrated Bishop:1984.07.29Died:2026.04.22 (Hermosillo, Mexico † 85)Priest of León (Mexico) (1966.04.10 – 1984.06.14)Bishop of Mexicali (Mexico) (1984.06.14 – 1996.08.20)Metropolitan Archbishop of Hermosillo (Mexico) (1996.08.20 – 2016.04.26)Bishop Manuel Pérez-Gil y González (later Archbishop)  (1966.07.18 – 1984.03.30)Born:1921.01.13 (Morelia, Mexico)Ordained Priest:1943.04.10Consecrated Bishop:1966.10.18Died:1996.02.14 († 75)Bishop of Mexicali (Mexico) (1966.07.18 – 1984.03.30)Bishop of Tlalnepantla (Mexico) (1984.03.30 – 1989.06.17)Metropolitan Archbishop of Tlalnepantla (Mexico) (1989.06.17 – 1996.02.14)Special ChurchesCathedral:  Catedral de Nuestra Señora de Guadalupe, Mexicali, Baja California Churches by City (94)Show MapEnsenada (↙), Tijuana (←), San Diego (↑), Tucson (↗), Nogales (↘)Statistics (2022.12.31)Area: 50,616 km²Population: 1,141,100 Catholics (67.6% of 1,687,400 total)Pastoral Centres: 60 parishes, 49 missionsPersonnel: 183 priests (169 diocesan, 14 religious), 3 deacons, 131 religious (35 brothers, 96 sisters), 39 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mexi1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1687400,
+    "catholiques": 1141100,
+    "pourcentage_catholiques": 67.6
+  },
+  "ressources": {
+    "pretres_diocesains": 169,
+    "pretres_religieux": null,
+    "total_pretres": 183,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 60
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

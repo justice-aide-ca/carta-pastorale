@@ -1,0 +1,29 @@
+{
+  "id": "ru-sapp0",
+  "nom": "Sapporo 札幌",
+  "pays": "ru",
+  "pays_nom": "Russia",
+  "continent": "unknown",
+  "type": "Diocese Name: Sapporo 札幌 / Sapporen(sis) (Latin)Ecclesiastical Province: Tokyo 東京Neighbouring Dioceses: Yuzhno Sakhalinsk (↑), Sendai 仙台 (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsCathedral Dedication Anniversary: December 11Liturgical Calendar (National) 📅History1915.02.12: Established as Apostolic Prefecture of Sapporo 札幌 / Sapporen(sis) (Latin) (from Diocese of Hakodate 函館 and became suffragan of Tokyo 東京)1929.03.30: Promoted as Apostolic Vicariate of Sapporo 札幌 / Sapporen(sis) (Latin)1932.07.18: Lost territory to establish Mission sui juris of Karafuto1952.12.11: Promoted as Diocese of Sapporo 札幌 / Sapporen(sis) (Latin) (gained territory from Diocese of Sendai 仙台)Present PrelatesBishop (2013.06.22 – ...):Bishop Bernard Taiji Katsuya (ベルナルド 勝谷太治) (70)Monsignors (1)OrdinariesBishops of Sapporo 札幌 (Roman Rite)Bishop Bernard Taiji Katsuya (ベルナルド 勝谷太治) (70)  (2013.06.22 – ...)Bishop of Sapporo 札幌 (Japan)Virtus in infirmitate perficiturBorn:1955.12.02 (Muroran, 北海道, Japan)Ordained Priest:1986.04.29Consecrated Bishop:2013.10.14Priest of Sapporo 札幌 (Japan) (1986.04.29 – 2013.06.22)Bishop of Sapporo 札幌 (Japan) (2013.06.22 – ...)Bishop Tarcisius Isao Kikuchi (タルチシオ 菊地 功), S.V.D. (67) (later Cardinal)  (Apostolic Administrator 2009.11.17 – 2013.06.22)Bishop Peter Toshio Jinushi (ペトロ 地主敏夫)  (1987.10.03 – 2009.11.17)Fiat voluntas tuaBorn:1930.09.20 (Sapporo, 北海道, Japan)Ordained Priest:1960.03.20Consecrated Bishop:1988.01.15Died:2021.05.04 (Sapporo, 北海道, Japan † 90)Priest of Sapporo 札幌 (Japan) (1960.03.20 – 1987.10.03)Apostolic Administrator of Karafuto (Russia) (1987.10.03 – 2000)Bishop of Sapporo 札幌 (Japan) (1987.10.03 – 2009.11.17)Bishop Benedict Takahiko Tomizawa (ベネディクト 冨澤孝彦)  (1952.12.11 – 1987.10.03)Born:1911.02.12 (Kyōto, 京都府, Japan)Ordained Priest:1937.03.27Consecrated Bishop:1953.03.19Died:1989.03.26 († 78)Priest of Kyoto 京都 (Japan) (1937.03.27 – 1952.12.11)Bishop of Sapporo 札幌 (Japan) (1952.12.11 – 1987.10.03)Apostolic Administrator of Karafuto (Russia) (1953.01.30 – 1987.10.03)Vicars Apostolic of Sapporo 札幌 (Roman Rite)Msgr. Augustine Isamu Seno (アウグスチヌス 瀬野勇)  (Apostolic Administrator 1944 – 1952)Msgr. Lawrence Tatewaki Toda (ラウレンチオ 戸田帯刀)  (Apostolic Administrator 1941 – 1944)Bishop Wenceslaus Kinold (ヴェンチェスラオ・キノルド), O.F.M.  (1929.03.18 – 1941)Born:1871.07.07 (Giershagen, Germany)Ordained Priest:1897.07.01Consecrated Bishop:1929.06.09Died:1952.05.22 († 80)Prefect Apostolic of Sapporo 札幌 (Japan) (1915 – 1929.03.18)Vicar Apostolic of Sapporo 札幌 (Japan) (1929.03.18 – 1941)Titular Bishop of Panemotichus (1929.03.18 – 1952.05.22)Apostolic Administrator of Karafuto (Russia) (1934 – 1938)Prefects Apostolic of Sapporo 札幌 (Roman Rite)Fr. Wenceslaus Kinold (ヴェンチェスラオ・キノルド), O.F.M. (later Bishop)  (1915 – 1929.03.18)(see above)Special ChurchesCathedral:  Cathedral of the Guardian Angels (Kitaiciho Church), 札幌 (Sapporo), 北海道, 北海道 Former Cathedral:  Church of Our Lady of the Immaculate Conception (Motomachi Church), 函館 (Hakodate), 北海道, 北海道 Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (68)Show MapYuzhno Sakhalinsk (↑), Sendai 仙台 (↓)Statistics (2022.12.31)Area: 78,421 km²Population: 14,958 Catholics (0.3% of 5,140,388 total)Pastoral Centres: 56 parishesPersonnel: 46 priests (19 diocesan, 27 religious), 273 religious (43 brothers, 230 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sapp0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5140388,
+    "catholiques": 14958,
+    "pourcentage_catholiques": 0.3
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 46,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 56
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

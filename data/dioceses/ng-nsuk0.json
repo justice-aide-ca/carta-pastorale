@@ -1,0 +1,29 @@
+{
+  "id": "ng-nsuk0",
+  "nom": "Nsukka",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Nsukka / Nsukkan(us) (Latin)Ecclesiastical Province: OnitshaNeighbouring Dioceses: Aguleri (↙), Idah (↖), Otukpo (↗), Gboko (→), Abakaliki (↘), Enugu (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1990.11.19: Established as Diocese of Nsukka / Nsukkan(us) (Latin) (from Diocese of Enugu and became suffragan of Onitsha)Present PrelatesBishop (2013.04.13 – ...):Bishop Godfrey Igwebuike Onah (69)Monsignors (10)OrdinariesBishops of Nsukka (Roman Rite)Bishop Godfrey Igwebuike Onah (69)  (2013.04.13 – ...)Bishop of Nsukka (Nigeria)Volumus Jesum videreBorn:1956.08.18 (Imilike Ani, Nigeria)Ordained Priest:1984.07.28Consecrated Bishop:2013.07.04Priest of Enugu (Nigeria) (1984.07.28 – 1990.11.19)Priest of Nsukka (Nigeria) (1990.11.19 – 2013.04.13)Chaplain of His Holiness (2012.05.09 – 2013.04.13)Bishop of Nsukka (Nigeria) (2013.04.13 – ...)Bishop Francis Emmanuel Ogbonna Okobo  (1990.11.19 – 2013.04.13)Surgite eamus hincBorn:1936.11.04 (Lejja, Nigeria)Ordained Priest:1966.06.04Consecrated Bishop:1991.01.06Died:2025.08.29 (Enugu, Nigeria † 88)Priest of Enugu (Nigeria) (1966.06.04 – 1990.11.19)Chaplain of His Holiness (1987.11.10 – 1990.11.19)Bishop of Nsukka (Nigeria) (1990.11.19 – 2013.04.13)Special ChurchesCathedral:  St. Theresa’s Cathedral, Nsukka, Enugu Show MapAguleri (↙), Idah (↖), Otukpo (↗), Gboko (→), Abakaliki (↘), Enugu (↓)Statistics (2022.12.31)Area: 3,180 km²Population: 1,103,961 Catholics (69.3% of 1,593,655 total)Pastoral Centres: 220 parishes, 4 missionsPersonnel: 345 priests (320 diocesan, 25 religious), 300 religious (204 brothers, 96 sisters), 177 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nsuk0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1593655,
+    "catholiques": 1103961,
+    "pourcentage_catholiques": 69.3
+  },
+  "ressources": {
+    "pretres_diocesains": 320,
+    "pretres_religieux": null,
+    "total_pretres": 345,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 220
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

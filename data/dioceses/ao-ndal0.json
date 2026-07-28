@@ -1,0 +1,29 @@
+{
+  "id": "ao-ndal0",
+  "nom": "Ndalatando",
+  "pays": "ao",
+  "pays_nom": "Angola",
+  "continent": "unknown",
+  "type": "Diocese Name: Ndalatando / N’dalatando / Ndalatanden(sis) (Latin)Ecclesiastical Province: MalanjeNeighbouring Dioceses: Sumbe (↙), Caxito (←), Uíje (↑), Malanje (→)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint John the Baptist (June 24)Liturgical Calendar (National) 📅History1990.03.26: Established as Diocese of Ndalatando / N’dalatando / Ndalatanden(sis) (Latin) (from Metropolitan Archdiocese of Luanda and became suffragan of Luanda)2011.04.12: Became suffragan of MalanjePresent PrelatesBishop (2005.07.23 – ...):Bishop Almeida Kanda (67)OrdinariesBishops of Ndalatando (Roman Rite)Bishop Almeida Kanda (67)  (2005.07.23 – ...)Bishop of Ndalatando (Angola)UnitasBorn:1959.05.10 (Cangola, Angola)Ordained Priest:1986.07.06Consecrated Bishop:2005.10.23Priest of Uíje (Angola) (1986.07.06 – 2005.07.23)Bishop of Ndalatando (Angola) (2005.07.23 – ...)Bishop Pedro Luís Guido Scarpa, O.F.M. Cap.  (1990.03.26 – 2005.07.23)Deus e bomBorn:1925.02.07 (Venezia, Italy)Ordained Priest:1950.03.26Consecrated Bishop:1983.10.16Died:2018.10.20 (Luanda, Angola † 93)Titular Bishop of Korčula (1983.07.22 – 1990.03.26)Auxiliary Bishop of Luanda (Angola) (1983.07.22 – 1990.03.26)Bishop of Ndalatando (Angola) (1990.03.26 – 2005.07.23)Special ChurchesCathedral:  Sé Catedral de São João Baptista, N’dalatando, Cuanza Norte Show MapSumbe (↙), Caxito (←), Uíje (↑), Malanje (→)Statistics (2022.12.31)Area: 19,357 km²Population: 265,000 Catholics (48.3% of 548,485 total)Pastoral Centres: 13 parishes, 109 missionsPersonnel: 40 priests (21 diocesan, 19 religious), 90 religious (28 brothers, 62 sisters), 17 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ndal0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 548485,
+    "catholiques": 265000,
+    "pourcentage_catholiques": 48.3
+  },
+  "ressources": {
+    "pretres_diocesains": 21,
+    "pretres_religieux": null,
+    "total_pretres": 40,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

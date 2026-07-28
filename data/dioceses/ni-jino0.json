@@ -1,0 +1,29 @@
+{
+  "id": "ni-jino0",
+  "nom": "Jinotega",
+  "pays": "ni",
+  "pays_nom": "Nicaragua",
+  "continent": "unknown",
+  "type": "Diocese Name: Jinotega / Xinotegan(us) (Latin)Ecclesiastical Province: ManaguaNeighbouring Dioceses: Estelí (←), Danlí (↖), Juticalpa (↑), Siuna (↗), Matagalpa (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1982.06.18: Established as Territorial Prelature of Jinotega / Xinotegan(us) (Latin) (from Diocese of Matagalpa and became suffragan of Managua)1991.04.30: Promoted as Diocese of Jinotega / Xinotegan(us) (Latin)Present PrelatesBishop (2005.05.10 – ...):Bishop Carlos Enrique Herrera Gutiérrez, O.F.M. (77)President of Episcopal Conference of NicaraguaOrdinariesBishops of Jinotega (Roman Rite)Bishop Carlos Enrique Herrera Gutiérrez, O.F.M. (77)  (2005.05.10 – ...)Bishop of Jinotega (Nicaragua)President of Episcopal Conference of NicaraguaJesús in te confíoBorn:1948.12.21 (Managua, Spain)Ordained Priest:1982.01.10Consecrated Bishop:2005.06.24Bishop of Jinotega (Nicaragua) (2005.05.10 – ...)President of Episcopal Conference of Nicaragua (2021.11.18 – ...)Bishop Pedro Lisímaco de Jesús Vílchez Vílchez  (1991.04.30 – 2005.05.10)Born:1929.05.19 (Jinotega, Nicaragua)Ordained Priest:1955.02.06Consecrated Bishop:1984.09.08Died:2013.02.19 († 83)Priest of Matagalpa (Nicaragua) (1955.02.06 – 1982.06.18)Bishop-Prelate of Jinotega (Nicaragua) (1982.06.18 – 1991.04.30)Bishop of Jinotega (Nicaragua) (1991.04.30 – 2005.05.10)Prelates of Jinotega (Roman Rite)Bishop Pedro Lisímaco de Jesús Vílchez Vílchez  (1982.06.18 – 1991.04.30)(see above)Special ChurchesCathedral:  Catedral San Juan, Jinotega, Jinotega Show MapEstelí (←), Danlí (↖), Juticalpa (↑), Siuna (↗), Matagalpa (↓)Statistics (2022.12.31)Area: 9,755 km²Population: 326,230 Catholics (67.7% of 482,000 total)Pastoral Centres: 36 parishesPersonnel: 35 priests (30 diocesan, 5 religious), 32 religious (5 brothers, 27 sisters), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jino0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 482000,
+    "catholiques": 326230,
+    "pourcentage_catholiques": 67.7
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "rw-butare0",
+  "nom": "Butare",
+  "pays": "rw",
+  "continent": "afrique",
+  "type": "Diocese",
+  "annee_donnees": 2022,
+  "territoire": {
+    "superficie_km2": 1958,
+    "population_totale": 1297470,
+    "catholiques": 707000,
+    "pourcentage_catholiques": 54.5
+  },
+  "ressources": {
+    "pretres_diocesains": 82,
+    "pretres_religieux": 49,
+    "total_pretres": 131,
+    "religieux_freres": 215,
+    "religieuses": 615,
+    "total_religieux": 830,
+    "seminarians": 38,
+    "diacres_permanents": null,
+    "paroisses": 26,
+    "missions": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "evolution_population": [
+    { "annee": 2013, "catholiques": 570000, "non_catholiques": 474000 },
+    { "annee": 2015, "catholiques": 603000, "non_catholiques": 502000 },
+    { "annee": 2017, "catholiques": 631680, "non_catholiques": 526230 },
+    { "annee": 2018, "catholiques": 646700, "non_catholiques": 538760 },
+    { "annee": 2020, "catholiques": 676300, "non_catholiques": 564700 },
+    { "annee": 2021, "catholiques": 691850, "non_catholiques": 577690 },
+    { "annee": 2022, "catholiques": 707000, "non_catholiques": 590470 }
+  ],
+  "communautes": {},
+  "source": "GCatholic.org + Statistiques 2022",
+  "derniere_mise_a_jour": "2026-07-14",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Butare",
+    "conference_episcopale": "https://www.eglisecatholiquerwanda.org/"
+  }
+}

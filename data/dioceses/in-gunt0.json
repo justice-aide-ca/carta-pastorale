@@ -1,0 +1,29 @@
+{
+  "id": "in-gunt0",
+  "nom": "Guntur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Guntur / Gunturen(sis) (Latin)Ecclesiastical Province: VisakhapatnamNeighbouring Dioceses: Nalgonda (↖), Vijayawada (↗), Nellore (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint Thérèse of the Child JesusLiturgical Calendar (National) 📅History1940.02.13: Established as Diocese of Guntur / Gunturen(sis) (Latin) (from Diocese of Nellore and became suffragan of Madras)1953.09.19: Became suffragan of Hyderabad1977.03.12: Lost territory to Diocese of Nellore2001.10.16: Became suffragan of VisakhapatnamPresent PrelatesBishop (2016.06.25 – ...):Bishop Bhagyaiah Chinnabathini (69)OrdinariesBishops of Guntur (Roman Rite)Bishop Bhagyaiah Chinnabathini (69)  (2016.06.25 – ...)Bishop of Guntur (India)Wisdom and fortitudeBorn:1956.09.19 (Motakondur-Yadagirigutta Mandal, India)Ordained Priest:1983.05.03Consecrated Bishop:2016.09.08Priest of Nalgonda (India) (1983.05.03 – 2016.06.25)Bishop of Guntur (India) (2016.06.25 – ...)Bishop Bali Gali (87)  (1984.07.02 – 2016.06.25)Bishop emeritus of Guntur (India)Christ is my passionBorn:1939.04.29 (Patibandla, India)Ordained Priest:1964.12.19Consecrated Bishop:1984.10.23Priest of Guntur (India) (1964.12.19 – 1984.07.02)Bishop of Guntur (India) (1984.07.02 – 2016.06.25)Apostolic Administrator of Cuddapah (India) (2018.12.10 – 2025.03.08)Bishop Mariadas Kagithapu, M.S.F.S. (later Archbishop)  (1974.12.19 – 1982.09.10)To Christ for the worldBorn:1936.09.07 (Visakhapatnam, India)Ordained Priest:1961.06.10Consecrated Bishop:1977.05.05Died:2018.02.26 (Visakhapatnam, India † 81)Bishop of Guntur (India) (1974.12.19 – 1982.09.10)Bishop of Visakhapatnam (India) (1982.09.10 – 2001.10.16)Metropolitan Archbishop of Visakhapatnam (India) (2001.10.16 – 2012.07.03)Bishop Balashoury Thanugundla  (1973.11.26 – 1974.09.25)Born:1928.04.19 (Reddipalem, India)Ordained Priest:1957.12.07Consecrated Bishop:1974.03.12Died:1974.09.25 († 46)Bishop of Guntur (India) (1973.11.26 – 1974.09.25)Bishop Ignatius Mummadi  (1943.07.13 – 1973.11.26)Born:1899.03.11 (Nagarajupalle, India)Ordained Priest:1925.12.03Consecrated Bishop:1943.10.28Died:1983.04.02 († 84)Bishop of Guntur (India) (1943.07.13 – 1973.11.26)Bishop Thomas Pothacamury (later Archbishop)  (1940.04.09 – 1942.10.15)Born:1889.09.02 (Ravipadu, India)Ordained Priest:1916.12.17Consecrated Bishop:1940.06.29Died:1968.05.18 († 78)Bishop of Guntur (India) (1940.04.09 – 1942.10.15)Bishop of Bangalore (India) (1942.10.15 – 1953.09.19)Metropolitan Archbishop of Bangalore (India) (1953.09.19 – 1968.01.11)Titular Archbishop of Thimida regia (1968.01.11 – 1968.05.18)Special ChurchesCathedral:  Bala Yesu Cathedral, Phirangipuram, Andhra Pradesh Show MapNalgonda (↖), Vijayawada (↗), Nellore (↓)Statistics (2021.12.31)Area: 12,803 km²Population: 539,000 Catholics (8.1% of 6,645,000 total)Pastoral Centres: 107 parishesPersonnel: 196 priests (122 diocesan, 74 religious), 812 religious (89 brothers, 723 sisters), 30 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "gunt0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6645000,
+    "catholiques": 539000,
+    "pourcentage_catholiques": 8.1
+  },
+  "ressources": {
+    "pretres_diocesains": 122,
+    "pretres_religieux": null,
+    "total_pretres": 196,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 107
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

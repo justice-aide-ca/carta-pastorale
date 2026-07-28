@@ -1,0 +1,29 @@
+{
+  "id": "in-kohi0",
+  "nom": "Kohima",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Kohima / Kohimaën(sis) (Latin)Ecclesiastical Province: ImphalNeighbouring Dioceses: Diphu (←), Dibrugarh (↑), Miao (↗), Myitkyina (→), Imphal (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Mary Help of ChristiansLiturgical Calendar (National) 📅History1973.01.29: Established as Diocese of Kohima–Imphal / Kohimæn(sis)–Imphalen(sis) (Latin) (from Diocese of Dibrugarh and became suffragan of Shillong–Gauhati)1980.03.28: Renamed as Diocese of Kohima / Kohimaën(sis) (Latin) (lost territory to establish Diocese of Imphal)1995.07.10: Became suffragan of ImphalPresent PrelatesBishop (2011.06.16 – ...):Bishop James Thoppil (67)OrdinariesBishops of Kohima (Roman Rite)Bishop James Thoppil (67)  (2011.06.16 – ...)Bishop of Kohima (India)Doing everything for the GospelBorn:1959.05.08 (Kottayam, India)Ordained Priest:1986.01.12Consecrated Bishop:2011.09.08Priest of Kohima (India) (1986.01.12 – 2011.06.16)Bishop of Kohima (India) (2011.06.16 – ...)Archbishop Dominic Lumon (78)  (Apostolic Administrator 2009.11.06 – 2011.06.16)Bishop Jose Mukala (77)  (1997.10.24 – 2009.10.30)Bishop emeritus of Kohima (India)To build up the Body of ChristBorn:1948.08.18 (Kaveekunnu, India)Ordained Priest:1978.04.10Consecrated Bishop:1998.03.15Bishop of Kohima (India) (1997.10.24 – 2009.10.30)Bishop Abraham Alangimattathil, S.D.B.  (1980.03.28 – 1996.07.11)A loving service to God and manBorn:1933.07.11 (Paika, India)Ordained Priest:1964.12.02Consecrated Bishop:1973.10.14Died:1997.11.18 († 64)Bishop of Kohima–Imphal (India) (1973.01.29 – 1980.03.28)Bishop of Kohima (India) (1980.03.28 – 1996.07.11)Bishops of Kohima–Imphal (Roman Rite)Bishop Abraham Alangimattathil, S.D.B.  (1973.01.29 – 1980.03.28)(see above)Special ChurchesCathedral:  Mary Help of Christians Cathedral, Kohima, Nāgāland Show MapDiphu (←), Dibrugarh (↑), Miao (↗), Myitkyina (→), Imphal (↓)Statistics (2022.12.31)Area: 16,579 km²Population: 62,329 Catholics (2.5% of 2,503,790 total)Pastoral Centres: 57 parishes, 1 missionPersonnel: 192 priests (91 diocesan, 101 religious), 661 religious (160 brothers, 501 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "kohi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2503790,
+    "catholiques": 62329,
+    "pourcentage_catholiques": 2.5
+  },
+  "ressources": {
+    "pretres_diocesains": 91,
+    "pretres_religieux": null,
+    "total_pretres": 192,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 57
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

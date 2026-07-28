@@ -1,0 +1,29 @@
+{
+  "id": "ve-caro2",
+  "nom": "Carora",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Carora / Caroren(sis) (Latin)Ecclesiastical Province: BarquisimetoNeighbouring Dioceses: Trujillo (↙), Cabimas (←), Coro (↑), Barquisimeto (→), Guanare (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nuestra Señora del Rosario de Chiquinquirá de Aregue (October 4)Cathedral Dedication Anniversary: April 26Liturgical Calendar (National) 📅History1992.07.25: Established as Diocese of Carora / Caroren(sis) (Latin) (from Metropolitan Archdiocese of Barquisimeto and became suffragan of Barquisimeto)Contact InfoAddress: Calle Lara N° 3 - 12, Carora, Estado Lara, VenezuelaPresent PrelatesBishop (2021.03.30 – ...):Bishop Carlos Enrique Curiel Herrera, Sch. P. (66)Second Vice-President of Episcopal Conference of VenezuelaMonsignors (2)OrdinariesBishops of Carora (Roman Rite)Bishop Carlos Enrique Curiel Herrera, Sch. P. (66)  (2021.03.30 – ...)Bishop of Carora (Venezuela)Second Vice-President of Episcopal Conference of VenezuelaSer para los demásBorn:1960.07.04 (Carora, Venezuela)Ordained Priest:1997.12.27Consecrated Bishop:2019.03.19Titular Bishop of Carinola (2018.12.27 – 2021.03.30)Auxiliary Bishop of Cochabamba (Bolivia) (2018.12.27 – 2021.03.30)Bishop of Carora (Venezuela) (2021.03.30 – ...)Second Vice-President of Episcopal Conference of Venezuela (2025.02.11 – ...)Bishop Luis Armando Tineo Rivera (78)  (2013.07.23 – 2020.06.23)Bishop emeritus of Carora (Venezuela)Born:1948.05.10 (Caracas, Venezuela)Ordained Priest:1980.07.26Consecrated Bishop:2007.04.28Priest of Caracas (Venezuela) (1980.07.26 – 2007.02.09)Titular Bishop of Horrea Cœlia (2007.02.09 – 2013.07.23)Auxiliary Bishop of Caracas (Venezuela) (2007.02.09 – 2013.07.23)Bishop of Carora (Venezuela) (2013.07.23 – 2020.06.23)Bishop Ulises Antonio Gutiérrez Reyes, O. de M. (75) (later Archbishop)  (2003.12.05 – 2011.08.27)Metropolitan Archbishop of Ciudad Bolívar (Venezuela)Born:1951.04.29 (Pedregal, Venezuela)Ordained Priest:1977.12.27Consecrated Bishop:2004.02.27Bishop of Carora (Venezuela) (2003.12.05 – 2011.08.27)Metropolitan Archbishop of Ciudad Bolívar (Venezuela) (2011.08.27 – ...)Second Vice-President of Episcopal Conference of Venezuela (2022.01.07 – 2025.02.11)Bishop Eduardo Herrera Riera  (1994.07.05 – 2003.12.05)Born:1927.09.07 (Carora, Venezuela)Ordained Priest:1955.12.08Consecrated Bishop:1965.03.25Died:2012.10.27 († 85)Priest of Barquisimeto (Venezuela) (1955.12.08 – 1965.01.07)Titular Bishop of Sesta (1965.01.07 – 1966.11.30)Auxiliary Bishop of Cumaná (Venezuela) (1965.01.07 – 1966.11.30)Bishop of Guanare (Venezuela) (1966.11.30 – 1970.10.31)Titular Bishop of Ubaza (1970.10.31 – 1994.07.05)Auxiliary Bishop of Barquisimeto (Venezuela) (1970.10.31 – 1994.07.05)Bishop of Carora (Venezuela) (1994.07.05 – 2003.12.05)Special ChurchesCathedral:  Catedral de San Juan Bautista, Carora, Lara Show MapTrujillo (↙), Cabimas (←), Coro (↑), Barquisimeto (→), Guanare (↘)Statistics (2022.12.31)Area: 11,708 km²Population: 299,600 Catholics (96.4% of 310,628 total)Pastoral Centres: 27 parishesPersonnel: 29 priests (28 diocesan, 1 religious), 1 deacon, 24 religious (2 brothers, 22 sisters), 17 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "caro2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 310628,
+    "catholiques": 299600,
+    "pourcentage_catholiques": 96.4
+  },
+  "ressources": {
+    "pretres_diocesains": 28,
+    "pretres_religieux": null,
+    "total_pretres": 29,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

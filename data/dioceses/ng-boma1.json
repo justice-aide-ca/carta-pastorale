@@ -1,0 +1,29 @@
+{
+  "id": "ng-boma1",
+  "nom": "Bomadi",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Bomadi / Bomadien(sis) (Latin)Ecclesiastical Province: Benin CityNeighbouring Dioceses: Warri (↑), Port Harcourt (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1991.03.17: Established as Mission sui juris of Bomadi / Bomadien(sis) (Latin) (from Diocese of Port Harcourt and Diocese of Warri)1996.12.15: Promoted as Apostolic Vicariate of Bomadi / Bomadien(sis) (Latin)2017.09.21: Promoted as Diocese of Bomadi / Bomadien(sis) (Latin) (became suffragan of Benin City)Present PrelatesBishop (2017.09.21 – ...):Bishop Hyacinth Oroko Egbebo, M.S.P. (70)OrdinariesBishops of Bomadi (Roman Rite)Bishop Hyacinth Oroko Egbebo, M.S.P. (70)  (2017.09.21 – ...)Bishop of Bomadi (Nigeria)That they may have life and have it to the fullBorn:1955.10.23 (Ogriagbene, Nigeria)Ordained Priest:1990.06.23Consecrated Bishop:2008.02.02Superior General of Missionary Society of Saint Paul of Nigeria (2001 – 2007.11.23)Auxiliary Bishop of Bomadi (Nigeria) (2007.11.23 – 2009.04.04)Titular Bishop of Lacubaza (2007.11.23 – 2017.09.21)Vicar Apostolic of Bomadi (Nigeria) (2009.04.04 – 2017.09.21)Bishop of Bomadi (Nigeria) (2017.09.21 – ...)Vicars Apostolic of Bomadi (Roman Rite)Bishop Hyacinth Oroko Egbebo, M.S.P. (70)  (2009.04.04 – 2017.09.21)(see above)Bishop Joseph O. Egerega  (1997.03.03 – 2009.04.04)Born:1940.03.20 (Eboh Orogun, Nigeria)Ordained Priest:1969.12.21Consecrated Bishop:1997.05.14Died:2013.02.03 († 72)Priest of Warri (Nigeria) (1969.12.21 – 1997.03.03)Vicar Apostolic of Bomadi (Nigeria) (1997.03.03 – 2009.04.04)Titular Bishop of Tanudaia (1997.03.03 – 2013.02.03)Ecclesiastical Superiors of Bomadi (Roman Rite)Fr. Thomas Vincent Greenan  (1991 – 1996)Died:1997Ecclesiastical Superior of Bomadi (Nigeria) (1991 – 1996)Former PrelatesAuxiliary Bishop: Bishop Hyacinth Oroko Egbebo, M.S.P. (70) (2007.11.23 – 2009.04.04)Special ChurchesCathedral:  Our Lady of the Waters Cathedral, Bomadi, Delta Show MapWarri (↑), Port Harcourt (→)Statistics (2022.12.31)Area: 13,140 km²Population: 54,016 Catholics (1.4% of 3,905,250 total)Pastoral Centres: 46 parishesPersonnel: 70 priests (60 diocesan, 10 religious), 30 religious (15 brothers, 15 sisters), 61 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "boma1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3905250,
+    "catholiques": 54016,
+    "pourcentage_catholiques": 1.4
+  },
+  "ressources": {
+    "pretres_diocesains": 60,
+    "pretres_religieux": null,
+    "total_pretres": 70,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sn-tamb0",
+  "nom": "Tambacounda",
+  "pays": "sn",
+  "pays_nom": "Senegal",
+  "continent": "unknown",
+  "type": "Diocese Name: Tambacounda / Tambacundan(us) (Latin)Ecclesiastical Province: DakarNeighbouring Dioceses: Kolda (↙), Banjul (↙), Kaolack (←), Saint-Louis du Sénégal (↖), Nouakchott (↑), Kayes (→), Conakry (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1970.08.13: Established as Apostolic Prefecture of Tambacounda / Tambacundan(us) (Latin) (from Diocese of Kaolack and Diocese of Saint-Louis du Sénégal)1989.04.17: Promoted as Diocese of Tambacounda / Tambacundan(us) (Latin) (became suffragan of Dakar)Present PrelatesBishop (2021.11.04 – ...):Bishop Paul Abel Mamba Diatta (65)President of Conference of Bishops of Senegal, Mauritania, Cape Verde and Guinea-BissauOrdinariesBishops of Tambacounda (Roman Rite)Bishop Paul Abel Mamba Diatta (65)  (2021.11.04 – ...)Bishop of Tambacounda (Senegal)President of Conference of Bishops of Senegal, Mauritania, Cape Verde and Guinea-BissauRien n’est impossible à DieuBorn:1960.12.05 (Cabrousse, Senegal)Ordained Priest:1988.04.08Consecrated Bishop:2012.04.21Priest of Ziguinchor (Senegal) (1988.04.08 – 2012.01.25)Apostolic Administrator of Ziguinchor (Senegal) (2010 – 2012.01.25)Bishop of Ziguinchor (Senegal) (2012.01.25 – 2021.11.04)Vice-President of Conference of Bishops of Senegal, Mauritania, Cape Verde and Guinea-Bissau (2017.11.18 – 2024.11)Bishop of Tambacounda (Senegal) (2021.11.04 – ...)President of Conference of Bishops of Senegal, Mauritania, Cape Verde and Guinea-Bissau (2024.11 – ...)Bishop Jean-Pierre Bassène (74)  (Apostolic Administrator 2017.08.05 – 2021.11.04)Bishop Jean-Noël Diouf (79)  (1989.04.17 – 2017.08.05)Bishop emeritus of Tambacounda (Senegal)Born:1946.10.01 (Diohine, Senegal)Ordained Priest:1972.04.03Consecrated Bishop:1989.11.12Bishop of Tambacounda (Senegal) (1989.04.17 – 2017.08.05)President of Conference of Bishops of Senegal, Mauritania, Cape Verde and Guinea-Bissau (2005 – 2012.10)Prefects Apostolic of Tambacounda (Roman Rite)Bishop Pierre Sagna, C.S.Sp.  (Apostolic Administrator 1986 – 1989.04.17)Fr. Clément Cailleau, C.S.Sp.  (1970.08.13 – 1986.04.24)Born:1923.07.27 (France)Ordained Priest:1950.10.01Died:2011.07.21 († 87)Prefect Apostolic of Tambacounda (Senegal) (1970.08.13 – 1986.04.24)Special ChurchesCathedral:  Cathédrale Marie Reine de l’Univers, Tambacounda, Tambacounda Show MapKolda (↙), Banjul (↙), Kaolack (←), Saint-Louis du Sénégal (↖), Nouakchott (↑), Kayes (→), Conakry (↓)Statistics (2022.12.31)Area: 59,602 km²Population: 15,413 Catholics (1.4% of 1,140,905 total)Pastoral Centres: 10 parishesPersonnel: 26 priests (16 diocesan, 10 religious), 39 religious (10 brothers, 29 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tamb0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1140905,
+    "catholiques": 15413,
+    "pourcentage_catholiques": 1.4
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 26,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 10
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

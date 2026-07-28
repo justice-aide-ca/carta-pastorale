@@ -1,0 +1,29 @@
+{
+  "id": "ke-kita0",
+  "nom": "Kitale",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Kitale / Kitalen(sis) (Latin)Ecclesiastical Province: KisumuNeighbouring Dioceses: Bungoma (↙), Tororo (←), Lodwar (↑), Nakuru (↘), Eldoret (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1998.04.03: Established as Diocese of Kitale / Kitalen(sis) (Latin) (from Diocese of Eldoret and became suffragan of Kisumu)Present PrelatesBishop (2022.11.04 – ...):Bishop Henry Juma Odonya (49)OrdinariesBishops of Kitale (Roman Rite)Bishop Henry Juma Odonya (49)  (2022.11.04 – ...)Bishop of Kitale (Kenya)Born:1976.12.10 (Nairobi, Kenya)Ordained Priest:2006.02.25Consecrated Bishop:2023.01.21Priest of Eldoret (Kenya) (2006.02.25 – 2022.11.04)Bishop of Kitale (Kenya) (2022.11.04 – ...)Bishop Maurice Anthony Crowley, S.P.S. (80)  (1998.04.03 – 2022.11.04)Bishop emeritus of Kitale (Kenya)Mungu Nipe Roho Wako Amani DunianiBorn:1946.05.11 (Berrings, Ireland)Ordained Priest:1972.06.04Consecrated Bishop:1998.08.15Bishop of Kitale (Kenya) (1998.04.03 – 2022.11.04)Special ChurchesCathedral:  Cathedral of the Immaculate Heart, Kitale, Trans Nzoia Show MapBungoma (↙), Tororo (←), Lodwar (↑), Nakuru (↘), Eldoret (↓)Statistics (2022.12.31)Area: 11,737 km²Population: 315,270 Catholics (15.1% of 2,093,000 total)Pastoral Centres: 35 parishes, 9 missionsPersonnel: 93 priests (66 diocesan, 27 religious), 148 religious (42 brothers, 106 sisters), 56 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kita0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2093000,
+    "catholiques": 315270,
+    "pourcentage_catholiques": 15.1
+  },
+  "ressources": {
+    "pretres_diocesains": 66,
+    "pretres_religieux": null,
+    "total_pretres": 93,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 35
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

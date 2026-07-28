@@ -1,0 +1,29 @@
+{
+  "id": "eq-evin0",
+  "nom": "Evinayong",
+  "pays": "eq",
+  "pays_nom": "Equatorial Guinea",
+  "continent": "unknown",
+  "type": "Diocese Name: Evinayong (español) / Evinayongen(sis) (Latin)Ecclesiastical Province: MalaboNeighbouring Dioceses: Libreville (↙), Bata (←), Kribi (↖), Ebebiyín (↗), Mongomo (→), Oyem (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2017.04.01: Established as Diocese of Evinayong (español) / Evinayongen(sis) (Latin) (from Diocese of Bata and became suffragan of Malabo)Present PrelatesBishop (2017.04.01 – ...):Bishop Calixto Paulino Esono Abaga Obono (57)OrdinariesBishops of Evinayong (Roman Rite)Bishop Calixto Paulino Esono Abaga Obono (57)  (2017.04.01 – ...)Bishop of Evinayong (Equatorial Guinea)Born:1969.03.17 (Ebang-Zomo, Equatorial Guinea)Ordained Priest:2000.12.22Consecrated Bishop:2017.05.20Priest of Bata (Equatorial Guinea) (2000.12.22 – 2017.04.01)Bishop of Evinayong (Equatorial Guinea) (2017.04.01 – ...)Special ChurchesCathedral:  Catedral de San José, Evinayong, Centro Sur, Región Continental Show MapLibreville (↙), Bata (←), Kribi (↖), Ebebiyín (↗), Mongomo (→), Oyem (↘)Statistics (2021.12.31)Area: 9,988 km²Population: 106,000 Catholics (72.6% of 146,000 total)Pastoral Centres: 18 parishesPersonnel: 24 priests (20 diocesan, 4 religious), 35 religious (11 brothers, 24 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "evin0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 146000,
+    "catholiques": 106000,
+    "pourcentage_catholiques": 72.6
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 24,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

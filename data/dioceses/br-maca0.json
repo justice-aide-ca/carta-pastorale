@@ -1,0 +1,29 @@
+{
+  "id": "br-maca0",
+  "nom": "Macapá",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Macapá / Macapen(sis) (Latin)Ecclesiastical Province: Belém do ParáNeighbouring Dioceses: Santarém (↙), Paramaribo (↖), Cayenne (↑), Marajó (→), Xingu–Altamira (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Joseph (March 19)Liturgical Calendar (National) 📅History1949.02.01: Established as Territorial Prelature of Macapá / Macapen(sis) (Latin) (from Territorial Prelature of Santarém and became suffragan of Belém do Pará)1980.10.30: Promoted as Diocese of Macapá / Macapen(sis) (Latin)Present PrelatesBishop (2024.12.18 – ...):Bishop Antônio de Assis Ribeiro, S.D.B. (59)OrdinariesBishops of Macapá (Roman Rite)Bishop Antônio de Assis Ribeiro, S.D.B. (59)  (2024.12.18 – ...)Bishop of Macapá (Brazil)Por eles me consagroBorn:1966.07.26 (Ourém, PA, Brazil)Ordained Priest:1995.06.17Consecrated Bishop:2017.09.02Titular Bishop of Babra (2017.06.28 – 2024.12.18)Auxiliary Bishop of Belém do Pará (Brazil) (2017.06.28 – 2024.12.18)Bishop of Macapá (Brazil) (2024.12.18 – ...)Bishop Pedro José Conti (76)  (2004.12.29 – 2024.12.18)Bishop emeritus of Macapá (Brazil)Senhor, tu sabes que eu te amoBorn:1949.10.10 (Brescia, Italy)Ordained Priest:1976.06.12Consecrated Bishop:1996.02.18Priest of Brescia (Italy) (1976.06.12 – 1995.12.27)Bishop of Santíssima Conceição do Araguaia (Brazil) (1995.12.27 – 2004.12.29)Bishop of Macapá (Brazil) (2004.12.29 – 2024.12.18)Bishop João Risatti (Giovanni), P.I.M.E.  (1993.01.20 – 2003.09.08)Born:1942.12.01 (Molina di Ledro, Italy)Ordained Priest:1968.06.23Consecrated Bishop:1988.02.21Died:2003.09.08 (Ledro, Italy † 60)Coadjutor Bishop of Parintins (Brazil) (1987.12.10 – 1989.07.15)Bishop of Parintins (Brazil) (1989.07.15 – 1993.01.20)Bishop of Macapá (Brazil) (1993.01.20 – 2003.09.08)Bishop Luiz Soares Vieira (89) (later Archbishop)  (1984.04.25 – 1991.11.13)Metropolitan Archbishop emeritus of Manaus (Brazil)Servir não ser servidoBorn:1937.05.02 (Conchas, SP, Brazil)Ordained Priest:1960.02.21Consecrated Bishop:1984.07.01Bishop of Macapá (Brazil) (1984.04.25 – 1991.11.13)Metropolitan Archbishop of Manaus (Brazil) (1991.11.13 – 2012.12.12)Vice-President of National Conference of Bishops of Brazil (2007 – 2011.05.10)Bishop José Maritano, P.I.M.E.  (1980.10.30 – 1983.08.31)Born:1915.03.18 (Cumiana, Italy)Ordained Priest:1939.08.06Consecrated Bishop:1966.03.19Died:1992.12.27 († 77)Titular Bishop of Castra severiana (1965.12.29 – 1978.05.26)Bishop-Prelate of Macapá (Brazil) (1965.12.29 – 1980.10.30)Bishop of Macapá (Brazil) (1980.10.30 – 1983.08.31)Prelates of Macapá (Roman Rite)Bishop José Maritano, P.I.M.E.  (1965.12.29 – 1980.10.30)(see above)Bishop Aristide Pirovano, P.I.M.E.  (1955.07.21 – 1965.03.27)Ut vitam habeantBorn:1915.02.22 (Erba, Italy)Ordained Priest:1941.12.20Consecrated Bishop:1955.11.13Died:1997.02.03 (Lecco, Italy † 81)Apostolic Administrator of Macapá (Brazil) (1950.01.14 – 1955.07.21)Bishop-Prelate of Macapá (Brazil) (1955.07.21 – 1965.03.27)Titular Bishop of Hadriani ad Olympum (1955.07.21 – 1997.02.03)Superior General of Pontifical Institute for Foreign Missions (1965.03.27 – 1977)Fr. Aristide Pirovano, P.I.M.E. (later Bishop)  (Apostolic Administrator 1950.01.14 – 1955.07.21)Bishop Anselmo Pietrulla, O.F.M.  (Apostolic Administrator 1949 – 1950.01.14)Special ChurchesCathedral:  Catedral São José, Macapá, Amapá Former Cathedral:  Igreja São José de Macapá, Macapá, Amapá Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (24)Show MapSantarém (↙), Paramaribo (↖), Cayenne (↑), Marajó (→), Xingu–Altamira (↓)Statistics (2022.12.31)Area: 142,471 km²Population: 508,070 Catholics (65.6% of 774,268 total)Pastoral Centres: 29 parishesPersonnel: 57 priests (18 diocesan, 39 religious), 47 deacons, 81 religious (39 brothers, 42 sisters), 8 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "maca0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 774268,
+    "catholiques": 508070,
+    "pourcentage_catholiques": 65.6
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 57,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

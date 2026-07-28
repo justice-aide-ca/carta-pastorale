@@ -1,0 +1,29 @@
+{
+  "id": "cr-ciud6",
+  "nom": "Ciudad Quesada",
+  "pays": "cr",
+  "pays_nom": "Costa Rica",
+  "continent": "unknown",
+  "type": "Diocese Name: Ciudad Quesada / Civitatis Quesaden(sis) (Latin)Ecclesiastical Province: San JoséNeighbouring Dioceses: Tilarán–Liberia (←), Juigalpa (↑), Limón (→), San José (↘), Alajuela (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: San Carlos Borromeo (November 4)Cathedral Dedication Anniversary: December 14Liturgical Calendar 📅History1995.07.25: Established as Diocese of Ciudad Quesada / Civitatis Quesaden(sis) (Latin) (from Diocese of Alajuela and Diocese of Tilarán and became suffragan of San José)Present PrelatesBishop (2014.03.15 – ...):Bishop José Manuel Garita Herrera (61)Monsignors (1)OrdinariesBishops of Ciudad Quesada (Roman Rite)Bishop José Manuel Garita Herrera (61)  (2014.03.15 – ...)Bishop of Ciudad Quesada (Costa Rica)Mi gracia te bastaBorn:1965.03.26 (Heredia, Costa Rica)Ordained Priest:1988.11.26Consecrated Bishop:2014.05.17Priest of San José (Costa Rica) (1988.11.26 – 2014.03.15)Bishop of Ciudad Quesada (Costa Rica) (2014.03.15 – ...)President of Episcopal Conference of Costa Rica (2020.08.07 – 2023.09.07)Bishop Oswaldo Brenes Álvarez  (2008.03.19 – 2012.12.31)Envíame tu luz y tu verdadBorn:1942.08.05 (Liberia, Nicaragua)Ordained Priest:1966.12.18Consecrated Bishop:2008.05.24Died:2013.02.11 († 70)Priest of Tilarán (Costa Rica) (1966.12.18 – 2008.03.19)Bishop of Ciudad Quesada (Costa Rica) (2008.03.19 – 2012.12.31)Bishop Ángel San Casimiro Fernández, O.A.R. (83)  (Apostolic Administrator 2007.10 – 2008.03.19)Bishop Ángel San Casimiro Fernández, O.A.R. (83)  (1995.07.25 – 2007.07.03)Bishop emeritus of Alajuela (Costa Rica)Vobis enim episcopus vobiscum sum ChristianusBorn:1942.09.16 (Pradejón, Spain)Ordained Priest:1965.10.03Consecrated Bishop:1995.10.07Bishop of Ciudad Quesada (Costa Rica) (1995.07.25 – 2007.07.03)Vice-President of Episcopal Conference of Costa Rica (2002 – 2005)General Secretary of Episcopal Secretariat of Central America and Panama (2005.03 – 2011)Bishop of Alajuela (Costa Rica) (2007.07.03 – 2018.03.01)Apostolic Administrator of Ciudad Quesada (Costa Rica) (2007.10 – 2008.03.19)General Secretary of Episcopal Conference of Costa Rica (2012 – 2017.08.11)Special ChurchesCathedral:  Catedral San Carlos Borromeo, Ciudad Quesada, Alajuela Jubilee Churches in the Holy Year 2025Show MapTilarán–Liberia (←), Juigalpa (↑), Limón (→), San José (↘), Alajuela (↓)Statistics (2022.12.31)Area: 9,838 km²Population: 237,230 Catholics (69.0% of 343,891 total)Pastoral Centres: 19 parishesPersonnel: 45 priests (29 diocesan, 16 religious), 35 religious (16 brothers, 19 sisters), 9 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ciud6",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 343891,
+    "catholiques": 237230,
+    "pourcentage_catholiques": 69.0
+  },
+  "ressources": {
+    "pretres_diocesains": 29,
+    "pretres_religieux": null,
+    "total_pretres": 45,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

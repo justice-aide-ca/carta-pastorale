@@ -1,0 +1,29 @@
+{
+  "id": "ch-moun1",
+  "nom": "Moundou",
+  "pays": "ch",
+  "pays_nom": "Chad",
+  "continent": "unknown",
+  "type": "Diocese Name: Moundou / Munduen(sis) (Latin)Ecclesiastical Province: N’DjaménaNeighbouring Dioceses: Garoua (←), Pala (↖), Laï (↑), Doba (→), Goré (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1951.05.17: Established as Apostolic Prefecture of Moundou / Munduen(sis) (Latin) (from Apostolic Prefecture of Fort-Lamy and Apostolic Prefecture of Garoua)1959.02.19: Promoted as Diocese of Moundou / Munduen(sis) (Latin) (became suffragan of Bangui)1961.12.22: Became suffragan of Fort-Lamy1989.03.06: Lost territory to establish Diocese of Doba1998.11.28: Lost territory to establish Diocese of Goré and Diocese of LaïPapal VisitsPope John Paul II (1990.01)Present PrelatesBishop (2004.06.03 – ...):Bishop Joachim Kouraleyo Tarounga (67)Vice-President of Episcopal Conference of ChadOrdinariesBishops of Moundou (Roman Rite)Bishop Joachim Kouraleyo Tarounga (67)  (2004.06.03 – ...)Bishop of Moundou (Chad)Vice-President of Episcopal Conference of ChadLe mystère de la foiBorn:1958 (Donia, Chad)Ordained Priest:1989.11.18Consecrated Bishop:2004.09.12Vice-President of Episcopal Conference of Chad (? – ...)Priest of Doba (Chad) (1989.11.18 – 2004.06.03)Bishop of Moundou (Chad) (2004.06.03 – ...)Bishop Michele Russo, M.C.C.J.  (Apostolic Administrator 2003.12.07 – 2004.06.03)Bishop Matthias N’Gartéri Mayadi (later Archbishop)  (1990.06.11 – 2003.07.31)Born:1942 (Bedaya, Chad)Ordained Priest:1978.12.30Consecrated Bishop:1986.04.12Died:2013.11.19 (Colombier-Saugnieu, France † 70)Priest of Sarh (Chad) (1978.12.30 – 1985.10.28)Titular Bishop of Thuburnica (1985.10.28 – 1987.03.07)Auxiliary Bishop of Sarh (Chad) (1985.10.28 – 1987.03.07)Bishop of Sarh (Chad) (1987.03.07 – 1990.06.11)Bishop of Moundou (Chad) (1990.06.11 – 2003.07.31)Metropolitan Archbishop of N’Djaména (Chad) (2003.07.31 – 2013.11.19)Bishop Gabriel Balet (Régis), O.F.M. Cap.  (1985.03.09 – 1989.09.18)Born:1930.02.10 (Grimisuat, Switzerland)Ordained Priest:1955.06.21Consecrated Bishop:1985.05.12Died:1989.09.18 († 59)Bishop of Moundou (Chad) (1985.03.09 – 1989.09.18)Bishop Joseph Marie Régis Belzile, O.F.M. Cap.  (1974.12.19 – 1985.03.09)Quod Dei DeoBorn:1931.03.13 (Amqui, QC, Canada)Ordained Priest:1961.02.11Consecrated Bishop:1975.04.06Died:2018.09.04 (Montréal, QC, Canada † 87)Bishop of Moundou (Chad) (1974.12.19 – 1985.03.09)Bishop Samuel-Louis-Marie-Antoine Gaumain, O.F.M. Cap.  (1959.12.19 – 1974.12.19)Born:1915.01.04 (Saint-Pierre-de-l’Isle, France)Ordained Priest:1938.03.12Consecrated Bishop:1960.04.28Died:2010.08.20 († 95)Bishop of Moundou (Chad) (1959.12.19 – 1974.12.19)Prefects Apostolic of Moundou (Roman Rite)Fr. Clément Sirgue, O.F.M. Cap.  (1952 – 1959)Born: (France)Died:1959Prefect Apostolic of Moundou (Chad) (1952 – 1959)Special ChurchesCathedral:  Cathédrale du Sacré-Cœur, Moundou, Logone Occidental Former Cathedral:  Ancienne Cathédrale du Sacré-Cœur, Moundou, Logone Occidental Show MapGaroua (←), Pala (↖), Laï (↑), Doba (→), Goré (↘)Statistics (2022.12.31)Area: 8,695 km²Population: 301,000 Catholics (27.2% of 1,106,000 total)Pastoral Centres: 17 parishes, 1 missionPersonnel: 44 priests (31 diocesan, 13 religious), 70 religious (15 brothers, 55 sisters), 22 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "moun1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1106000,
+    "catholiques": 301000,
+    "pourcentage_catholiques": 27.2
+  },
+  "ressources": {
+    "pretres_diocesains": 31,
+    "pretres_religieux": null,
+    "total_pretres": 44,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ml-sanz0",
+  "nom": "San",
+  "pays": "ml",
+  "pays_nom": "Mali",
+  "continent": "unknown",
+  "type": "Diocese Name: San / Sanen(sis) (Latin)Ecclesiastical Province: BamakoNeighbouring Dioceses: Sikasso (↙), Ségou (←), Mopti (↗), Nouna (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1962.04.10: Established as Mission sui juris of San / Sanen(sis) (Latin) (from Diocese of Nouna)1964.09.29: Promoted as Diocese of San / Sanen(sis) (Latin) (became suffragan of Bamako)Present PrelatesBishop (2021.10.07 – ...):Bishop Hassa Florent Koné (57)Monsignors (2)OrdinariesBishops of San (Roman Rite)Bishop Hassa Florent Koné (57)  (2021.10.07 – ...)Bishop of San (Mali)Born:1969.02.17 (Mina, Mali)Ordained Priest:1996.09.08Consecrated Bishop:2022.01.08Priest of San (Mali) (1996.09.08 – 2021.10.07)Bishop of San (Mali) (2021.10.07 – ...)Bishop Jean-Gabriel Diarra  (1987.11.18 – 2019.10.28)Born:1945.07.12 (Vanekui, Mali)Ordained Priest:1972.12.30Consecrated Bishop:1988.11.20Died:2019.10.28 (Bamako, Mali † 74)Priest of San (Mali) (1972.12.30 – 1987.11.18)Bishop of San (Mali) (1987.11.18 – 2019.10.28)President of Episcopal Conference of Mali (1997 – 2009.04)Bishop Joseph Paul Barnabé Perrot, M. Afr.  (1964.09.29 – 1987.11.18)Born:1921.01.18 (Grand-Combe-des-Bois, France)Ordained Priest:1949.02.01Consecrated Bishop:1965.01.09Died:2005.06.22 († 84)Ecclesiastical Superior of San (Mali) (1962.04.10 – 1964.09.29)Bishop of San (Mali) (1964.09.29 – 1987.11.18)Ecclesiastical Superiors of San (Roman Rite)Fr. Joseph Paul Barnabé Perrot, M. Afr. (later Bishop)  (1962.04.10 – 1964.09.29)(see above)Special ChurchesCathedral:  Cathédrale Notre-Dame de Lourdes, San, Ségou Churches by City (7)Show MapSikasso (↙), Ségou (←), Mopti (↗), Nouna (→)Statistics (2022.12.31)Area: 20,550 km²Population: 44,882 Catholics (3.2% of 1,394,800 total)Pastoral Centres: 8 parishesPersonnel: 43 priests (41 diocesan, 2 religious), 59 religious (6 brothers, 53 sisters), 33 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sanz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1394800,
+    "catholiques": 44882,
+    "pourcentage_catholiques": 3.2
+  },
+  "ressources": {
+    "pretres_diocesains": 41,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 8
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "gh-kofo0",
+  "nom": "Koforidua",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Koforidua / Koforiduan(us) (Latin)Ecclesiastical Province: AccraNeighbouring Dioceses: Cape Coast (↙), Obuasi (←), Konongo–Mampong (↖), Donkorkrom (↑), Keta–Akatsi (→), Accra (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1992.07.06: Established as Diocese of Koforidua / Koforiduan(us) (Latin) (from Diocese of Accra and became suffragan of Accra)2007.06.12: Lost territory to establish Apostolic Prefecture of DonkorkromPresent PrelatesBishop (2006.04.12 – ...):Bishop Joseph Kwaku Afrifah-Agyekum (71)Vice-President of Regional Episcopal Conference of West AfricaMonsignors (6)OrdinariesBishops of Koforidua (Roman Rite)Bishop Joseph Kwaku Afrifah-Agyekum (71)  (2006.04.12 – ...)Bishop of Koforidua (Ghana)Vice-President of Regional Episcopal Conference of West AfricaSalus in cruce ChristiBorn:1954.12.22 (Akimu Swedru, Ghana)Ordained Priest:1983.07.17Consecrated Bishop:2006.07.01Priest of Accra (Ghana) (1983.07.17 – 1992.07.06)Priest of Koforidua (Ghana) (1992.07.06 – 2006.04.12)Prelate of Honour of His Holiness (2005.01.08 – 2006.04.12)Bishop of Koforidua (Ghana) (2006.04.12 – ...)Vice-President of Regional Episcopal Conference of West Africa (2022.05.05 – ...)Bishop Gabriel Charles Palmer-Buckle (76) (later Archbishop)  (1992.07.06 – 2005.03.30)Metropolitan Archbishop of Cape Coast (Ghana)Omnibus omnia factus sumBorn:1950.06.15 (Axim, Ghana)Ordained Priest:1976.12.12Consecrated Bishop:1993.01.06Priest of Accra (Ghana) (1976.12.12 – 1992.07.06)Bishop of Koforidua (Ghana) (1992.07.06 – 2005.03.30)Metropolitan Archbishop of Accra (Ghana) (2005.03.30 – 2018.05.11)Vice-President of Ghana Bishops’ Conference (2016.10.14 – 2022.11.10)Metropolitan Archbishop of Cape Coast (Ghana) (2018.05.11 – ...)Special ChurchesCathedral:  St. George’s Cathedral, Koforidua, Eastern Show MapCape Coast (↙), Obuasi (←), Konongo–Mampong (↖), Donkorkrom (↑), Keta–Akatsi (→), Accra (↓)Statistics (2022.12.31)Area: 18,600 km²Population: 256,777 Catholics (8.5% of 3,025,653 total)Pastoral Centres: 24 parishes, 21 missionsPersonnel: 101 priests (86 diocesan, 15 religious), 114 religious (48 brothers, 66 sisters), 49 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kofo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3025653,
+    "catholiques": 256777,
+    "pourcentage_catholiques": 8.5
+  },
+  "ressources": {
+    "pretres_diocesains": 86,
+    "pretres_religieux": null,
+    "total_pretres": 101,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

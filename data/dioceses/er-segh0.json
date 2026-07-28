@@ -1,0 +1,29 @@
+{
+  "id": "er-segh0",
+  "nom": "Segheneity",
+  "pays": "er",
+  "pays_nom": "Eritrea",
+  "continent": "unknown",
+  "type": "Diocese Name: Segheneity / Segheneiten(sis) (Latin)Ecclesiastical Province: AsmaraNeighbouring Dioceses: Asmara (←), Adigrat (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: History2012.02.24: Established as Diocese of Segheneity / Segheneiten(sis) (Latin) (from Diocese of Asmara and became suffragan of Addis Abeba)2015.01.19: Became suffragan of AsmaraPresent PrelatesBishop (2012.02.24 – ...):Bishop Fikremariam Hagos Tsalim (55)OrdinariesBishops of Segheneity (Eritrean Rite)Bishop Fikremariam Hagos Tsalim (55)  (2012.02.24 – ...)Bishop of Segheneity of the Eritreans (Eritrea)Born:1970.10.23 (Addis Abeba, Eritrea)Ordained Priest:1996.07.21Consecrated Bishop:2012.05.20Priest of Asmara of the Eritreans (Eritrea) (1996.07.21 – 2012.02.24)Bishop of Segheneity of the Eritreans (Eritrea) (2012.02.24 – ...)Special ChurchesCathedral:  Cathedral of St. Michael the Archangel, Segheneity Show MapAsmara (←), Adigrat (↓)Statistics (2022.12.31)Area: 29,499 km²Population: 36,350 Catholics (4.2% of 872,178 total)Pastoral Centres: 35 parishes, 17 missionsPersonnel: 60 priests (24 diocesan, 36 religious), 193 religious (76 brothers, 117 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "segh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 872178,
+    "catholiques": 36350,
+    "pourcentage_catholiques": 4.2
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 35
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

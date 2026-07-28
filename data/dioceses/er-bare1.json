@@ -1,0 +1,29 @@
+{
+  "id": "er-bare1",
+  "nom": "Barentu",
+  "pays": "er",
+  "pays_nom": "Eritrea",
+  "continent": "unknown",
+  "type": "Diocese Name: Barentu / Barentuan(us) (Latin)Ecclesiastical Province: AsmaraNeighbouring Dioceses: Khartoum (←), Keren (↗), Asmara (→), Adigrat (↓)Depends on: Dicastery for the Eastern ChurchesHistory1995.12.21: Established as Diocese of Barentu / Barentuan(us) (Latin) (from Diocese of Asmara, from the suppressed Apostolic Vicariate of Asmara and became suffragan of Addis Abeba)2015.01.19: Became suffragan of AsmaraPresent PrelatesBishop (2001.10.04 – ...):Bishop Thomas Osman, O.F.M. Cap. (76)OrdinariesBishops of Barentu (Eritrean Rite)Bishop Thomas Osman, O.F.M. Cap. (76)  (2001.10.04 – ...)Bishop of Barentu of the Eritreans (Eritrea)Born:1950.05.25 (Lemuna, Eritrea)Ordained Priest:1977.07.10Consecrated Bishop:2002.01.13Bishop of Barentu of the Eritreans (Eritrea) (2001.10.04 – ...)Bishop Luca Milesi, O.F.M. Cap.  (1995.12.21 – 2001.10.04)Born:1924.04.21 (San Giovanni Bianco, Italy)Ordained Priest:1950.03.04Consecrated Bishop:1996.02.04Died:2008.05.22 († 84)Apostolic Administrator of Asmara (Eritrea) (1971 – 1995.12.21)Bishop of Barentu of the Eritreans (Eritrea) (1995.12.21 – 2001.10.04)Special ChurchesCathedral:  Cathedral of St. Michael, Barentu Show MapKhartoum (←), Keren (↗), Asmara (→), Adigrat (↓)Statistics (2019.12.31)Area: 37,000 km²Population: 56,000 Catholics (5.2% of 1,068,000 total)Pastoral Centres: 14 parishes, 14 missionsPersonnel: 29 priests (8 diocesan, 21 religious), 58 religious (22 brothers, 36 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bare1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1068000,
+    "catholiques": 56000,
+    "pourcentage_catholiques": 5.2
+  },
+  "ressources": {
+    "pretres_diocesains": 8,
+    "pretres_religieux": null,
+    "total_pretres": 29,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

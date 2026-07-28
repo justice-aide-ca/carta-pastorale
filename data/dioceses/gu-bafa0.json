@@ -1,0 +1,29 @@
+{
+  "id": "gu-bafa0",
+  "nom": "Bafatá",
+  "pays": "gu",
+  "pays_nom": "Guinea-Bissau",
+  "continent": "unknown",
+  "type": "Diocese Name: Bafatá / Bafatan(us) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Bissau (←), Kolda (↑), Boké (↘), Conakry (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History2001.03.13: Established as Diocese of Bafatá / Bafatan(us) (Latin) (from Diocese of Bissau and without ecclesiastical province)Present PrelatesBishop (2025.03.08 – ...):Bishop Víctor Luís Quematcha, O.F.M. (59)OrdinariesBishops of Bafatá (Roman Rite)Bishop Víctor Luís Quematcha, O.F.M. (59)  (2025.03.08 – ...)Bishop of Bafatá (Guinea-Bissau)Sois todos irmãosBorn:1967.04.27 (Cúmura, Guinea-Bissau)Ordained Priest:1998.05.02Consecrated Bishop:2025.06.28Bishop of Bafatá (Guinea-Bissau) (2025.03.08 – ...)Bishop Carlos Pedro Zilli, P.I.M.E.  (2001.03.13 – 2021.03.31)Born:1954.10.07 (Santa Cruz do Rio Pardo, SP, Brazil)Ordained Priest:1985.01.05Consecrated Bishop:2001.06.30Died:2021.03.31 (Bissau, Guinea-Bissau † 66)Bishop of Bafatá (Guinea-Bissau) (2001.03.13 – 2021.03.31)Special ChurchesCathedral:  Sé Catedral de Nossa Senhora da Graça, Bafatá, Bafatá, Leste Churches by City (11)Show MapBissau (←), Kolda (↑), Boké (↘), Conakry (↘)Statistics (2022.12.31)Area: 24,635 km²Population: 35,550 Catholics (4.3% of 827,700 total)Pastoral Centres: 14 parishesPersonnel: 25 priests (17 diocesan, 8 religious), 35 religious (9 brothers, 26 sisters), 15 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bafa0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 827700,
+    "catholiques": 35550,
+    "pourcentage_catholiques": 4.3
+  },
+  "ressources": {
+    "pretres_diocesains": 17,
+    "pretres_religieux": null,
+    "total_pretres": 25,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

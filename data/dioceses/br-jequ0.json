@@ -1,0 +1,29 @@
+{
+  "id": "br-jequ0",
+  "nom": "Jequié",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Jequié / Iequiean(us) (Latin)Ecclesiastical Province: Vitória da ConquistaNeighbouring Dioceses: Vitória da Conquista (↙), Livramento de Nossa Senhora (←), Ruy Barbosa (↑), Amargosa (↗), Ilhéus (→)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1978.11.07: Established as Diocese of Jequié / Iequiean(us) (Latin) (from Diocese of Amargosa and Diocese of Vitória da Conquista and became suffragan of São Salvador da Bahia)2002.01.16: Became suffragan of Vitória da ConquistaPresent PrelatesBishop (2021.01.13 – ...):Bishop Paulo Romeu Dantas Bastos (70)OrdinariesBishops of Jequié (Roman Rite)Bishop Paulo Romeu Dantas Bastos (70)  (2021.01.13 – ...)Bishop of Jequié (Brazil)Por Cristo, com Cristo, em CristoBorn:1955.08.20 (Nova Soure, BA, Brazil)Ordained Priest:1985.05.18Consecrated Bishop:2002.07.27Priest of Barreiras (Brazil) (1985.05.18 – 2002.04.24)Bishop of Alagoinhas (Brazil) (2002.04.24 – 2021.01.13)Bishop of Jequié (Brazil) (2021.01.13 – ...)Bishop José Ruy Gonçalves Lopes, O.F.M. Cap. (58)  (2012.07.04 – 2019.07.10)Bishop of Caruaru (Brazil)Ex toto cordeBorn:1967.08.06 (Feira di Santana, BA, Brazil)Ordained Priest:1993.12.05Consecrated Bishop:2012.09.07Bishop of Jequié (Brazil) (2012.07.04 – 2019.07.10)Bishop of Caruaru (Brazil) (2019.07.10 – ...)Bishop Cristiano Jakob Krapf (89)  (1978.11.07 – 2012.07.04)Bishop emeritus of Jequié (Brazil)Lux mundiBorn:1936.09.12 (Bernhardzell, Switzerland)Ordained Priest:1964.03.15Consecrated Bishop:1979.01.07Priest of Ilhéus (Brazil) (1964.03.15 – 1978.11.07)Bishop of Jequié (Brazil) (1978.11.07 – 2012.07.04)Special ChurchesCathedral:  Catedral Santo Antônio de Pádua, Jequié, Bahia Churches by City (39)Show MapVitória da Conquista (↙), Livramento de Nossa Senhora (←), Ruy Barbosa (↑), Amargosa (↗), Ilhéus (→)Statistics (2019.12.31)Area: 18,771 km²Population: 597,000 Catholics (86.6% of 689,000 total)Pastoral Centres: 36 parishes, 580 missionsPersonnel: 55 priests (49 diocesan, 6 religious), 5 deacons, 23 religious (6 brothers, 17 sisters), 8 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jequ0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 689000,
+    "catholiques": 597000,
+    "pourcentage_catholiques": 86.6
+  },
+  "ressources": {
+    "pretres_diocesains": 49,
+    "pretres_religieux": null,
+    "total_pretres": 55,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

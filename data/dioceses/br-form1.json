@@ -1,0 +1,29 @@
+{
+  "id": "br-form1",
+  "nom": "Formosa",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Formosa / Formosen(sis) (Latin)Ecclesiastical Province: BrasíliaNeighbouring Dioceses: Brasília (↙), Uruaçu (↖), Porto Nacional (↑), Barreiras (↗), Bom Jesus da Lapa (↗), Paracatu (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Imaculada Conceição (December 8)Liturgical Calendar (National) 📅History1956.03.26: Established as Territorial Prelature of Formosa / Formosen(sis) (Latin) (from Metropolitan Archdiocese of Goiás, from the suppressed Territorial Prelature of São José de Alto Tocantins and became suffragan of Goiânia)1966.10.11: Became suffragan of Brasília1979.10.16: Promoted as Diocese of Formosa / Formosen(sis) (Latin)Present PrelatesBishop (2019.02.27 – ...):Bishop Adair José Guimarães (66)Monsignors (3)OrdinariesBishops of Formosa (Roman Rite)Bishop Adair José Guimarães (66)  (2019.02.27 – ...)Bishop of Formosa (Brazil)Fiat voluntas tuaBorn:1960.06.16 (Mara Rosa, GO, Brazil)Ordained Priest:1986.12.21Consecrated Bishop:2008.05.17Priest of Uruaçu (Brazil) (1986.12.21 – 2008.02.27)Bishop of Rubiataba–Mozarlândia (Brazil) (2008.02.27 – 2019.02.27)Bishop of Formosa (Brazil) (2019.02.27 – ...)Archbishop Paulo Mendes Peixoto (75)  (Apostolic Administrator 2018.03.21 – 2019.02.27)Bishop José Ronaldo Ribeiro (69)  (2014.09.24 – 2018.09.12)Bishop emeritus of Formosa (Brazil)In corde legem MeamBorn:1957.02.28 (Uberaba, MG, Brazil)Ordained Priest:1985.05.05Consecrated Bishop:2007.07.28Priest of Brasília (Brazil) (1985.05.05 – 2007.06.06)Bishop of Janaúba (Brazil) (2007.06.06 – 2014.09.24)Bishop of Formosa (Brazil) (2014.09.24 – 2018.09.12)Bishop Paulo Roberto Beloto (69)  (2005.11.16 – 2013.10.23)Bishop of Franca (Brazil)Evangelii servusBorn:1957.04.09 (Adamantina, SP, Brazil)Ordained Priest:1986.06.29Consecrated Bishop:2006.02.04Priest of Marília (Brazil) (1986.06.29 – 2005.11.16)Bishop of Formosa (Brazil) (2005.11.16 – 2013.10.23)Bishop of Franca (Brazil) (2013.10.23 – ...)Bishop João Casimiro Wilk (Jan Kazimierz), O.F.M. Conv.  (1998.01.28 – 2004.06.09)Ut amor ameturBorn:1951.09.18 (Seroczyn, Poland)Ordained Priest:1976.06.24Consecrated Bishop:1998.04.04Died:2025.11.11 (Anápolis, GO, Brazil † 74)Bishop of Formosa (Brazil) (1998.01.28 – 2004.06.09)Bishop of Anápolis (Brazil) (2004.06.09 – 2025.11.11)Bishop Victor João Herman José Tielbeek, SS.CC.  (1979.10.16 – 1997.12.24)Zelus domus tuæBorn:1919.08.16 (Raalte, Netherlands)Ordained Priest:1946.08.04Consecrated Bishop:1961.04.09Died:1997.12.24 (Formosa, GO, Brazil † 78)Titular Bishop of Tipasa in Numidia (1961.02.04 – 1978.05.26)Bishop-Prelate of Formosa (Brazil) (1961.02.04 – 1979.10.16)Bishop of Formosa (Brazil) (1979.10.16 – 1997.12.24)Prelates of Formosa (Roman Rite)Bishop Victor João Herman José Tielbeek, SS.CC.  (1961.02.04 – 1979.10.16)(see above)Special ChurchesCathedral:  Catedral Nossa Senhora da Imaculada Conceição, Formosa, Goiás Churches by City (34)Show MapBrasília (↙), Uruaçu (↖), Porto Nacional (↑), Barreiras (↗), Bom Jesus da Lapa (↗), Paracatu (↓)Statistics (2022.12.31)Area: 47,533 km²Population: 301,800 Catholics (74.9% of 403,000 total)Pastoral Centres: 35 parishesPersonnel: 43 priests (41 diocesan, 2 religious), 4 deacons, 41 religious (4 brothers, 37 sisters), 17 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "form1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 403000,
+    "catholiques": 301800,
+    "pourcentage_catholiques": 74.9
+  },
+  "ressources": {
+    "pretres_diocesains": 41,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 35
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

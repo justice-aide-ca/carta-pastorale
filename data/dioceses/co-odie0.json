@@ -1,0 +1,29 @@
+{
+  "id": "co-odie0",
+  "nom": "Odienné",
+  "pays": "co",
+  "pays_nom": "Cote d’Ivoire",
+  "continent": "unknown",
+  "type": "Diocese Name: Odienné / Odiennen(sis) (Latin)Ecclesiastical Province: KorhogoNeighbouring Dioceses: N’Zérékoré (↙), Kankan (←), Bamako (↑), Korhogo (→), Daloa (↘), Man (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1994.12.19: Established as Diocese of Odienné / Odiennen(sis) (Latin) (from Diocese of Daloa, Diocese of Korhogo and Diocese of Man and became suffragan of Korhogo)Present PrelatesBishop (2022.06.30 – ...):Bishop Alain Clément Amiézi (55)OrdinariesBishops of Odienné (Roman Rite)Bishop Alain Clément Amiézi (55)  (2022.06.30 – ...)Bishop of Odienné (Cote d’Ivoire)Ministrare non ministrariBorn:1970.09.28 (Dimbokro, Cote d’Ivoire)Ordained Priest:1999.05.01Consecrated Bishop:2022.09.24Priest of Bondoukou (Cote d’Ivoire) (1999.05.01 – 2022.06.30)Bishop of Odienné (Cote d’Ivoire) (2022.06.30 – ...)Bishop Gaspard Béby Gnéba (63)  (Apostolic Administrator 2019.05.29 – 2022.06.30)Bishop Antoine Koné  (2009.07.01 – 2019.05.08)Ut diligatis invicemBorn:1963.01.10 (Ferkéssedougou, Cote d’Ivoire)Ordained Priest:1991.12.28Consecrated Bishop:2009.08.22Died:2019.05.08 († 56)Priest of Katiola (Cote d’Ivoire) (1991.12.28 – 2009.07.01)Bishop of Odienné (Cote d’Ivoire) (2009.07.01 – 2019.05.08)Bishop Jean Salomon Lezoutié (68)  (2005.07.29 – 2009.01.03)Bishop of Yopougon (Cote d’Ivoire)Born:1958.04.08 (Yopougon, Cote d’Ivoire)Ordained Priest:1989.07.23Consecrated Bishop:2005.10.08Priest of Yopougon (Cote d’Ivoire) (1989.07.23 – 2005.07.29)Bishop of Odienné (Cote d’Ivoire) (2005.07.29 – 2009.01.03)Coadjutor Bishop of Yopougon (Cote d’Ivoire) (2009.01.03 – 2015.11.28)Bishop of Yopougon (Cote d’Ivoire) (2015.11.28 – ...)Bishop Maurice Konan Kouassi (87)  (1994.12.19 – 2005.03.22)Bishop emeritus of Daloa (Cote d’Ivoire)In virtute spiritusBorn:1938 (Adjékro, Cote d’Ivoire)Ordained Priest:1965.06.05Consecrated Bishop:1995.04.23Bishop of Odienné (Cote d’Ivoire) (1994.12.19 – 2005.03.22)Bishop of Daloa (Cote d’Ivoire) (2005.03.22 – 2018.04.25)Special ChurchesCathedral:  Cathédrale Saint-Augustin, Odienné, Denguélé Show MapN’Zérékoré (↙), Kankan (←), Bamako (↑), Korhogo (→), Daloa (↘), Man (↓)Statistics (2022.12.31)Area: 51,220 km²Population: 14,830 Catholics (1.5% of 996,920 total)Pastoral Centres: 29 parishesPersonnel: 22 priests (11 diocesan, 11 religious), 22 religious (11 brothers, 11 sisters), 23 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "odie0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 996920,
+    "catholiques": 14830,
+    "pourcentage_catholiques": 1.5
+  },
+  "ressources": {
+    "pretres_diocesains": 11,
+    "pretres_religieux": null,
+    "total_pretres": 22,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ec-zdom1",
+  "nom": "Santo Domingo",
+  "pays": "ec",
+  "pays_nom": "Ecuador",
+  "continent": "amerique",
+  "type": "Diocese Name: Santo Domingo / Santo Domingo en Ecuador / Sancti Dominici in Æquatoria (Latin)Ecclesiastical Province: PortoviejoNeighbouring Dioceses: Daule (↙), Portoviejo (←), Esmeraldas (↑), Ibarra (↗), Quito (→), Latacunga (↘), Babahoyo (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1987.01.05: Established as Territorial Prelature of Santo Domingo de los Colorados / Coloraten(sis) (Latin) (from Metropolitan Archdiocese of Quito and became suffragan of Quito)1994.02.25: Became suffragan of Portoviejo1996.08.08: Promoted as Diocese of Santo Domingo de los Colorados / Coloraten(sis) (Latin)2008.06.18: Renamed as Diocese of Santo Domingo / Santo Domingo en Ecuador / Sancti Dominici in Æquatoria (Latin)Present PrelatesBishop (2015.03.24 – ...):Bishop Bertram Víctor Wick Enzler (71)Monsignors (1)OrdinariesBishops of Santo Domingo (Roman Rite)Bishop Bertram Víctor Wick Enzler (71)  (2015.03.24 – ...)Bishop of Santo Domingo (Ecuador)Fiat secundum verbum tuumBorn:1955.03.08 (Waldkirch, Switzerland)Ordained Priest:1991.12.08Consecrated Bishop:2013.11.30Priest of Guayaquil (Ecuador) (1991.12.08 – 2013.10.26)Titular Bishop of Carpi (2013.10.26 – 2015.03.24)Auxiliary Bishop of Guayaquil (Ecuador) (2013.10.26 – 2015.03.24)Bishop of Santo Domingo (Ecuador) (2015.03.24 – ...)Bishop Julio César Terán Dutari, S.J.  (Apostolic Administrator 2012.03.15 – 2015.03.24)Bishop Wilson Abraham Moncayo Jalil  (2008.06.18 – 2012.03.12)ServirBorn:1944.09.20 (Ambato, Ecuador)Ordained Priest:1970.08.23Consecrated Bishop:2002.06.22Died:2012.03.12 († 67)Priest of Latacunga (Ecuador) (1970.08.23 – 2002.05.11)Bishop of Santo Domingo de los Colorados (Ecuador) (2002.05.11 – 2008.06.18)Bishop of Santo Domingo (Ecuador) (2008.06.18 – 2012.03.12)Bishops of Santo Domingo de los Colorados (Roman Rite)Bishop Wilson Abraham Moncayo Jalil  (2002.05.11 – 2008.06.18)(see above)Bishop Emilio Lorenzo Stehle  (1996.08.08 – 2002.05.11)Fidei DonumBorn:1926.09.03 (Mühlhausen-Erdwangen, Germany)Ordained Priest:1951.06.24Consecrated Bishop:1983.09.25Died:2017.05.16 (Konstanz, Germany † 90)Priest of Freiburg im Breisgau (Germany) (1951.06.24 – 1977)Chaplain of His Holiness (1968.11.29 – 1975.11.22)Prelate of Honour of His Holiness (1975.11.22 – 1980.06.18)Priest of Essen (Germany) (1977 – 1983.07.16)Protonotary Apostolic Supernumerary (1980.06.18 – 1983.07.16)Titular Bishop of Eraclea (1983.07.16 – 1987.01.05)Auxiliary Bishop of Quito (Ecuador) (1983.07.16 – 1987.01.05)Bishop-Prelate of Santo Domingo de los Colorados (Ecuador) (1987.01.05 – 1996.08.08)Bishop of Santo Domingo de los Colorados (Ecuador) (1996.08.08 – 2002.05.11)Prelates of Santo Domingo de los Colorados (Roman Rite)Bishop Emilio Lorenzo Stehle  (1987.01.05 – 1996.08.08)(see above)Special ChurchesCathedral:  Catedral El Buen Pastor, Santo Domingo de los Colorados, Santo Domingo de los Tsáchilas Former Cathedral:  Catedral La Ascensión del Señor, Santo Domingo de los Colorados, Santo Domingo de los Tsáchilas Show MapDaule (↙), Portoviejo (←), Esmeraldas (↑), Ibarra (↗), Quito (→), Latacunga (↘), Babahoyo (↓)Statistics (2022.12.31)Area: 8,500 km²Population: 760,150 Catholics (85.7% of 886,650 total)Pastoral Centres: 60 parishes, 1 missionPersonnel: 84 priests (55 diocesan, 29 religious), 2 deacons, 110 religious (31 brothers, 79 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zdom1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 886650,
+    "catholiques": 760150,
+    "pourcentage_catholiques": 85.7
+  },
+  "ressources": {
+    "pretres_diocesains": 55,
+    "pretres_religieux": null,
+    "total_pretres": 84,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 60
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

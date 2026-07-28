@@ -1,0 +1,29 @@
+{
+  "id": "br-zmig2",
+  "nom": "São Miguel Paulista",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: São Miguel Paulista / Sancti Michaëlis Paulinen(sis) (Latin)Ecclesiastical Province: São PauloNeighbouring Dioceses: São Paulo (↙), Guarulhos (↖), Mogi das Cruzes (→)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: São Miguel (September 29)Liturgical Calendar (National) 📅History1989.03.15: Established as Diocese of São Miguel Paulista / Sancti Michaëlis Paulinen(sis) (Latin) (from Metropolitan Archdiocese of São Paulo and became suffragan of São Paulo)Present PrelatesBishop (2022.09.21 – ...):Bishop Algacir Munhak, C.S. (60)Monsignors (2)OrdinariesBishops of São Miguel Paulista (Roman Rite)Bishop Algacir Munhak, C.S. (60)  (2022.09.21 – ...)Bishop of São Miguel Paulista (Brazil)Fiat voluntas tuaBorn:1966.04.19 (Cascavel, PR, Brazil)Ordained Priest:1996.08.17Consecrated Bishop:2022.12.17Bishop of São Miguel Paulista (Brazil) (2022.09.21 – ...)Bishop Manuel Parrado Carral (79)  (2008.01.09 – 2022.09.21)Bishop emeritus of São Miguel Paulista (Brazil)Anunciamos Jesus CristoBorn:1946.09.29 (San Román, Spain)Ordained Priest:1972.12.10Consecrated Bishop:2001.03.10Priest of Santo André (Brazil) (1972.12.10 – 2001.01.03)Titular Bishop of Iunca in Byzacena (2001.01.03 – 2008.01.09)Auxiliary Bishop of São Paulo (Brazil) (2001.01.03 – 2008.01.09)Apostolic Administrator of São Paulo (Brazil) (2006.12.03 – 2007.03.21)Bishop of São Miguel Paulista (Brazil) (2008.01.09 – 2022.09.21)Bishop Fernando Legal, S.D.B.  (1989.03.15 – 2008.01.09)Cum Matre JesuBorn:1931.12.17 (São Paulo, SP, Brazil)Ordained Priest:1959.12.08Consecrated Bishop:1980.05.31Died:2023.08.22 (São Paulo, SP, Brazil † 91)Bishop of Itapeva (Brazil) (1980.03.28 – 1985.04.25)Bishop of Limeira (Brazil) (1985.04.25 – 1989.03.15)Bishop of São Miguel Paulista (Brazil) (1989.03.15 – 2008.01.09)Former PrelatesAuxiliary Bishop: Bishop José María Libório Camino Saracho (1999.06.16 – 2002.02.20)Special ChurchesCathedral:  Catedral São Miguel Arcanjo, São Paulo, São Paulo Former Cathedral, Minor Basilica:  Basílica Nossa Senhora da Penha, São Paulo, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (111)Show MapSão Paulo (↙), Guarulhos (↖), Mogi das Cruzes (→)Statistics (2022.12.31)Area: 196 km²Population: 2,426,500 Catholics (80.5% of 3,014,000 total)Pastoral Centres: 104 parishes, 244 missionsPersonnel: 135 priests (113 diocesan, 22 religious), 7 deacons, 160 religious (34 brothers, 126 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zmig2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3014000,
+    "catholiques": 2426500,
+    "pourcentage_catholiques": 80.5
+  },
+  "ressources": {
+    "pretres_diocesains": 113,
+    "pretres_religieux": null,
+    "total_pretres": 135,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 104
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

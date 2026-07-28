@@ -1,0 +1,29 @@
+{
+  "id": "ph-boro0",
+  "nom": "Borongan",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Borongan / Boronganen(sis) (Latin)Ecclesiastical Province: PaloNeighbouring Dioceses: Palo (↙), Calbayog (↖), Surigao (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nativity of the Blessed Virgin Mary (September 8)Cathedral Dedication Anniversary: September 8Liturgical Calendar (National) 📅History1960.10.22: Established as Diocese of Borongan / Boronganen(sis) (Latin) (from Diocese of Calbayog and became suffragan of Cebu)1974.12.05: Lost territory to establish Diocese of Catarman1982.11.15: Became suffragan of PaloPresent PrelatesBishop (2007.08.04 – ...):Bishop Crispin Barrete Varquez (65)Monsignors (13)OrdinariesBishops of Borongan (Roman Rite)Bishop Crispin Barrete Varquez (65)  (2007.08.04 – ...)Bishop of Borongan (Philippines)Humilitas et simplicitasBorn:1960.12.05 (Sevilla, Philippines)Ordained Priest:1989.04.14Consecrated Bishop:2007.10.18Priest of Tagbilaran (Philippines) (1989.04.14 – 2007.08.04)Bishop of Borongan (Philippines) (2007.08.04 – ...)Bishop Leonardo Yuzon Medroso (87)  (1986.12.18 – 2006.10.17)Bishop emeritus of Tagbilaran (Philippines)Ambula coram meBorn:1938.11.06 (Ormoc, Philippines)Ordained Priest:1963.03.30Consecrated Bishop:1987.03.17Priest of Palo (Philippines) (1963.03.30 – 1986.12.18)Bishop of Borongan (Philippines) (1986.12.18 – 2006.10.17)Bishop of Tagbilaran (Philippines) (2006.10.17 – 2016.10.13)Bishop Nestor Celestial Cariño  (1980.08.12 – 1986.01.31)In luce eiusBorn:1938.09.08 (Malinao, Philippines)Ordained Priest:1961.12.31Consecrated Bishop:1978.05.31Died:2025.05.24 (San Juan City, Philippines † 86)Priest of Legazpi (Philippines) (1961.12.31 – 1978.03.09)Titular Bishop of Thibiuca (1978.03.09 – 1980.08.12)Auxiliary Bishop of Legazpi (Philippines) (1978.03.09 – 1980.08.12)Bishop of Borongan (Philippines) (1980.08.12 – 1986.01.31)Titular Bishop of Acholla (2003.06.11 – 2005.04.01)Auxiliary Bishop of Daet (Philippines) (2003.06.11 – 2005.04.01)Bishop of Legazpi (Philippines) (2005.04.01 – 2007.11.07)Bishop Sincero Barcenilla Lucero  (1977.03.08 – 1979.12.10)Born:1935.12.22 (Carcar, Philippines)Ordained Priest:1961.03.18Consecrated Bishop:1977.05.24Died:1993.09.03 († 57)Bishop of Borongan (Philippines) (1977.03.08 – 1979.12.10)Bishop of Calbayog (Philippines) (1979.12.10 – 1984.10.11)Bishop Godofredo Pedernal Pisig  (1968.02.26 – 1976.09.18)Born:1915.11.07 (Santa Cruz, Philippines)Ordained Priest:1944.04.30Consecrated Bishop:1968.05.18Died:2000.11.25 († 85)Bishop of Borongan (Philippines) (1968.02.26 – 1976.09.18)Bishop Vicente Posada Reyes  (1961.01.19 – 1967.08.08)Pax veritas dilectioBorn:1907.05.24 (San Antonio, Philippines)Ordained Priest:1932.03.19Consecrated Bishop:1950.08.24Died:1983.04.30 († 75)Titular Bishop of Aspona (1950.06.12 – 1961.01.19)Auxiliary Bishop of Manila (Philippines) (1950.06.12 – 1961.01.19)Bishop of Borongan (Philippines) (1961.01.19 – 1967.08.08)Bishop of Cabanatuan (Philippines) (1967.08.08 – 1983.04.07)Special ChurchesCathedral:  Cathedral of the Nativity of the Blessed Virgin Mary, Borongan City, Eastern Samar, Eastern Visayas Jubilee Churches in the Holy Year 2025Churches by City (34)Show MapPalo (↙), Calbayog (↖), Surigao (↓)Statistics (2022.12.31)Area: 4,340 km²Population: 472,168 Catholics (99.0% of 477,168 total)Pastoral Centres: 34 parishesPersonnel: 79 priests (72 diocesan, 7 religious), 57 religious (15 brothers, 42 sisters), 47 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "boro0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 477168,
+    "catholiques": 472168,
+    "pourcentage_catholiques": 99.0
+  },
+  "ressources": {
+    "pretres_diocesains": 72,
+    "pretres_religieux": null,
+    "total_pretres": 79,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 34
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

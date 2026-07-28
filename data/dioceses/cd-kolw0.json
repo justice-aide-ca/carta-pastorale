@@ -1,0 +1,29 @@
+{
+  "id": "cd-kolw0",
+  "nom": "Kolwezi",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Kolwezi / Koluezen(sis) (Latin)Ecclesiastical Province: LubumbashiNeighbouring Dioceses: Luena (←), Saurimo (←), Dundo (↖), Luiza (↖), Tshilomba (↖), Kamina (↑), Lubumbashi (→), Solwezi (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1971.03.11: Established as Diocese of Kolwezi / Koluezen(sis) (Latin) (from Diocese of Kamina and became suffragan of Lubumbashi)Present PrelatesBishop (2022.01.11 – ...):Bishop Richard Kazadi Kamba (61)OrdinariesBishops of Kolwezi (Roman Rite)Bishop Richard Kazadi Kamba (61)  (2022.01.11 – ...)Bishop of Kolwezi (Congo-Kinshasa)In defensione et confermatione EvangeliiBorn:1964.12.06 (Lubumbashi, Congo-Kinshasa)Ordained Priest:1992.09.19Consecrated Bishop:2022.05.07Priest of Lubumbashi (Congo-Kinshasa) (1992.09.19 – 2022.01.11)Bishop of Kolwezi (Congo-Kinshasa) (2022.01.11 – ...)Bishop Nestor Ngoy Katahwa (83)  (2000.11.16 – 2022.01.11)Bishop emeritus of Kolwezi (Congo-Kinshasa)Born:1943.03.24 (Nonge, Congo-Kinshasa)Ordained Priest:1970.08.23Consecrated Bishop:1990.02.26Bishop of Manono (Congo-Kinshasa) (1989.09.25 – 2000.11.16)Bishop of Kolwezi (Congo-Kinshasa) (2000.11.16 – 2022.01.11)Bishop Floribert Songasonga Mwitwa (later Archbishop)  (1974.04.25 – 1998.05.22)Born:1937.08.29 (Kalasa, Congo-Kinshasa)Ordained Priest:1963.08.14Consecrated Bishop:1974.08.24Died:2020.12.31 (Lubumbashi, Congo-Kinshasa † 83)Priest of Lubumbashi (Congo-Kinshasa) (1963.08.14 – 1974.04.25)Bishop of Kolwezi (Congo-Kinshasa) (1974.04.25 – 1998.05.22)Apostolic Administrator of Lubumbashi (Congo-Kinshasa) (1998.03.25 – 1998.05.22)Metropolitan Archbishop of Lubumbashi (Congo-Kinshasa) (1998.05.22 – 2010.12.01)Apostolic Administrator of Sakania–Kipushi (Congo-Kinshasa) (2001 – 2004.04.07)Apostolic Administrator of Manono (Congo-Kinshasa) (2001.12.21 – 2004.04.07)Bishop Victor Petrus Keuppens, O.F.M.  (1971.03.11 – 1974.04.25)Born:1902.12.15 (Turnhout, Belgium)Ordained Priest:1928.09.08Consecrated Bishop:1950.09.21Died:1981.10.11 († 78)Titular Bishop of Acmonia (1950.06.25 – 1959.11.10)Vicar Apostolic of Lulua (Congo-Kinshasa) (1950.06.25 – 1959.11.10)Bishop of Kamina (Congo-Kinshasa) (1959.11.10 – 1971.03.11)Bishop of Kolwezi (Congo-Kinshasa) (1971.03.11 – 1974.04.25)Special ChurchesCathedral:  Cathédrale Sainte-Barbe et Saint-Eloi, Kolwezi, Lualaba Show MapLuena (←), Saurimo (←), Dundo (↖), Luiza (↖), Tshilomba (↖), Kamina (↑), Lubumbashi (→), Solwezi (↓)Statistics (2021.12.31)Area: 105,184 km²Population: 1,453,000 Catholics (52.3% of 2,778,000 total)Pastoral Centres: 36 parishesPersonnel: 88 priests (50 diocesan, 38 religious), 341 religious (175 brothers, 166 sisters), 56 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kolw0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2778000,
+    "catholiques": 1453000,
+    "pourcentage_catholiques": 52.3
+  },
+  "ressources": {
+    "pretres_diocesains": 50,
+    "pretres_religieux": null,
+    "total_pretres": 88,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

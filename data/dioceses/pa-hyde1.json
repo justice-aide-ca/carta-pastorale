@@ -1,0 +1,29 @@
+{
+  "id": "pa-hyde1",
+  "nom": "Hyderabad",
+  "pays": "pa",
+  "pays_nom": "Pakistan",
+  "continent": "unknown",
+  "type": "Diocese Name: Hyderabad / Hyderabad in Pakistan / Hyderabaden(sis) in Pakistan (Latin)Ecclesiastical Province: KarachiNeighbouring Dioceses: Karachi (←), Quetta (↖), Multan (↗), Ajmer (→), Rajkot (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1958.04.28: Established as Diocese of Hyderabad / Hyderabad in Pakistan / Hyderabaden(sis) in Pakistan (Latin) (from Metropolitan Archdiocese of Karachi and became suffragan of Karachi)2001.11.09: Lost territory to establish Apostolic Prefecture of QuettaPresent PrelatesBishop (2014.12.16 – ...):Bishop Samson Shukardin, O.F.M. (65)President of Pakistan Catholic Bishops’ ConferenceOrdinariesBishops of Hyderabad (Roman Rite)Bishop Samson Shukardin, O.F.M. (65)  (2014.12.16 – ...)Bishop of Hyderabad (Pakistan)President of Pakistan Catholic Bishops’ ConferenceAmbassadors of ChristBorn:1961.01.29 (Hyderabad, Pakistan)Ordained Priest:1993.12.10Consecrated Bishop:2015.01.31Bishop of Hyderabad (Pakistan) (2014.12.16 – ...)General Secretary of Pakistan Catholic Bishops’ Conference (2015? – 2020)Vice-President of Pakistan Catholic Bishops’ Conference (2020 – 2023.11.10)President of Pakistan Catholic Bishops’ Conference (2023.11.10 – ...)Bishop Max John Rodrigues (88)  (1999.12.03 – 2014.12.16)Bishop emeritus of Hyderabad (Pakistan)Mission, unity, community—that they all may be oneBorn:1938.05.29 (Karachi, Pakistan)Ordained Priest:1966.01.06Consecrated Bishop:2000.03.25Priest of Karachi (Pakistan) (1966.01.06 – 1999.12.03)Bishop of Hyderabad (Pakistan) (1999.12.03 – 2014.12.16)Bishop Joseph Coutts (80) (later Cardinal)  (1990.09.01 – 1998.06.27)Cardinal-Priest of S. Bonaventura da BagnoregioMetropolitan Archbishop emeritus of Karachi (Pakistan)HarmonyBorn:1945.07.21 (Amritsar, Pakistan)Ordained Priest:1971.01.09Consecrated Bishop:1988.09.16Created Cardinal:2018.06.28Priest of Lahore (Pakistan) (1971.01.09 – 1988.05.05)Coadjutor Bishop of Hyderabad (Pakistan) (1988.05.05 – 1990.09.01)Bishop of Hyderabad (Pakistan) (1990.09.01 – 1998.06.27)Bishop of Faisalabad (Pakistan) (1998.06.27 – 2012.01.25)President of Pakistan Catholic Bishops’ Conference (2011.03 – 2017.11.10)Metropolitan Archbishop of Karachi (Pakistan) (2012.01.25 – 2021.02.11)Cardinal-Priest of S. Bonaventura da Bagnoregio (2018.06.28 [2018.09.29] – ...)Bishop Bonaventure Patrick Paul, O.F.M.  (1971.03.11 – 1990.09.01)Born:1929.03.26 (Karachi, Pakistan)Ordained Priest:1954.01.03Consecrated Bishop:1971.06.14Died:2007.01.18 († 77)Apostolic Administrator of Hyderabad (Pakistan) (1967 – 1971.03.11)Bishop of Hyderabad (Pakistan) (1971.03.11 – 1990.09.01)Fr. Bonaventure Patrick Paul, O.F.M. (later Bishop)  (Apostolic Administrator 1967 – 1971.03.11)Archbishop James Cornelius van Miltenburg, O.F.M.  (1958.04.28 – 1966.03.10)Ædificare non cessasBorn:1909.09.14 (Harmelen, Netherlands)Ordained Priest:1935.03.31Consecrated Bishop:1948.10.03Died:1966.03.10 († 56)Bishop of Karachi (Pakistan) (1948.05.20 – 1950.07.15)Apostolic Delegate to West and East Pakistan (1950.07.15 – 1951)Metropolitan Archbishop of Karachi (Pakistan) (1950.07.15 – 1958.04.28)Archbishop-Bishop of Hyderabad (Pakistan) (1958.04.28 – 1966.03.10)Former PrelatesCoadjutor Bishop: Bishop Joseph Coutts (80) (later Cardinal) (1988.05.05 – 1990.09.01)Special ChurchesCathedral:  Cathedral of St. Francis Xavier, Hyderabad, Sind Show MapKarachi (←), Quetta (↖), Multan (↗), Ajmer (→), Rajkot (↘)Statistics (2022.12.31)Area: 137,386 km²Population: 57,546 Catholics (0.2% of 26,813,227 total)Pastoral Centres: 19 parishes, 1 missionPersonnel: 35 priests (11 diocesan, 24 religious), 79 religious (26 brothers, 53 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "hyde1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 26813227,
+    "catholiques": 57546,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 11,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

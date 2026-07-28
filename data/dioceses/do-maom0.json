@@ -1,0 +1,29 @@
+{
+  "id": "do-maom0",
+  "nom": "Mao–Monte Cristi",
+  "pays": "do",
+  "pays_nom": "Dominican Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: Mao–Monte Cristi / Maoën(sis)–Montis Christi (Latin)Ecclesiastical Province: Santiago de los CaballerosNeighbouring Dioceses: Hinche (←), Cap-Haïtien (↖), Turks and Caicos Islands (↑), Puerto Plata (↗), Santiago de los Caballeros (↘), San Juan de la Maguana (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1978.01.16: Established as Diocese of Mao–Monte Cristi / Maoën(sis)–Montis Christi (Latin) (from Diocese of Santiago de los Caballeros)1994.02.14: Became suffragan of Santiago de los CaballerosPresent PrelatesBishop (2006.05.24 – ...):Bishop Diómedes Espinal de León (76)Monsignors (2)OrdinariesBishops of Mao–Monte Cristi (Roman Rite)Bishop Diómedes Espinal de León (76)  (2006.05.24 – ...)Bishop of Mao–Monte Cristi (Dominican Republic)Ungido para servirBorn:1949.08.25 (Villa Trina, Espaillat, Dominican Republic)Ordained Priest:1978.07.22Consecrated Bishop:2000.06.02Priest of Santiago de los Caballeros (Dominican Republic) (1978.07.22 – 2000.04.20)Titular Bishop of Vardimissa (2000.04.20 – 2006.05.24)Auxiliary Bishop of Santiago de los Caballeros (Dominican Republic) (2000.04.20 – 2006.05.24)Bishop of Mao–Monte Cristi (Dominican Republic) (2006.05.24 – ...)President of Dominican Episcopal Conference (2017.07.07 – 2020.07.01)Bishop Jerónimo Tomás Abreu Herrera  (1978.01.16 – 2006.05.24)Evangelizare pauperibus misit me / Me envió a evangelizar a los pobresBorn:1930.09.30 (Jarabacoa, Dominican Republic)Ordained Priest:1955.06.29Consecrated Bishop:1978.03.04Died:2012.06.27 (Moncion, Dominican Republic † 81)Bishop of Mao–Monte Cristi (Dominican Republic) (1978.01.16 – 2006.05.24)Special ChurchesCathedral:  Catedral Santa Cruz, Mao, Valverde, Cibao Noroeste Show MapHinche (←), Cap-Haïtien (↖), Turks and Caicos Islands (↑), Puerto Plata (↗), Santiago de los Caballeros (↘), San Juan de la Maguana (↓)Statistics (2022.12.31)Area: 4,841 km²Population: 450,000 Catholics (65.1% of 691,000 total)Pastoral Centres: 33 parishes, 450 missionsPersonnel: 63 priests (50 diocesan, 13 religious), 41 deacons, 67 religious (14 brothers, 53 sisters), 11 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "maom0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 691000,
+    "catholiques": 450000,
+    "pourcentage_catholiques": 65.1
+  },
+  "ressources": {
+    "pretres_diocesains": 50,
+    "pretres_religieux": null,
+    "total_pretres": 63,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

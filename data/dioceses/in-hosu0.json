@@ -1,0 +1,29 @@
+{
+  "id": "in-hosu0",
+  "nom": "Hosur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Hosur / Hosuren(sis) (Latin)Ecclesiastical Province: TrichurDepends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint ThomasHistory2017.10.10: Established as Diocese of Hosur / Hosuren(sis) (Latin) (became suffragan of Ernakulam–Angamaly)2025.08.28: Became suffragan of TrichurPresent PrelatesBishop (2017.10.10 – ...):Bishop Sebastian Pozholiparampil (Jobby) (68)OrdinariesBishops of Hosur (Syro-Malabar Rite)Bishop Sebastian Pozholiparampil (Jobby) (68)  (2017.10.10 – ...)Bishop of Hosur of the Syro-Malabars (India)A loving service trusting in divine providenceBorn:1957.09.01 (Pullur, India)Ordained Priest:1982.12.22Consecrated Bishop:2017.11.22Priest of Irinjalakuda of the Syro-Malabars (India) (1982.12.22 – 2017.10.10)Bishop of Hosur of the Syro-Malabars (India) (2017.10.10 – ...)Special ChurchesCathedral:  St. Antony’s Cathedral, Noothencheri, Tamil Nādu Show MapStatistics (2017.12.31)Area: 32,374 km²Population: 69,200 CatholicsPastoral Centres: 44 missionsPersonnel: 22 priests (diocesan), 73 religious (73 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "hosu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

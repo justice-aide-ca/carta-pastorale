@@ -1,0 +1,29 @@
+{
+  "id": "sc-moth1",
+  "nom": "Motherwell",
+  "pays": "sc",
+  "pays_nom": "Scotland",
+  "continent": "unknown",
+  "type": "Diocese Name: Motherwell / Matrisfontis (Latin)Ecclesiastical Province: GlasgowNeighbouring Dioceses: Galloway (↙), Glasgow (↖), Saint Andrews and Edinburgh (↗)Depends on: Dicastery for BishopsWebsite: CelebrationsCathedral Dedication Anniversary: December 14Liturgical Calendar 📅History1947.05.25: Established as Diocese of Motherwell / Matrisfontis (Latin) (from Archdiocese of Glasgow and became suffragan of Glasgow)Contact InfoAddress: Diocesan Centre, Coursington Road, Motherwell ML1 1PP, Lanarkshire, ScotlandPhone: (01698) 269.114Present PrelatesBishop (2014.04.29 – ...):Bishop Joseph Anthony Toal (69)Monsignors (14)OrdinariesBishops of Motherwell (Roman Rite)Bishop Joseph Anthony Toal (69)  (2014.04.29 – ...)Bishop of Motherwell (Scotland)Walk humbly with your GodBorn:1956.10.13 (Roy Bridge, Scotland)Ordained Priest:1980.07.10Consecrated Bishop:2008.12.08Priest of Argyll and The Isles (Scotland) (1980.07.10 – 2008.10.16)Prelate of Honour of His Holiness (2007.03.24 – 2008.10.16)Bishop of Argyll and The Isles (Scotland) (2008.10.16 – 2014.04.29)Vice-President of Bishops’ Conference of Scotland (2012.11.05 – 2018.11.07)Apostolic Administrator of Motherwell (Scotland) (2013.05.31 – 2014.04.29)Bishop of Motherwell (Scotland) (2014.04.29 – ...)Bishop Joseph Anthony Toal (69)  (Apostolic Administrator 2013.05.31 – 2014.04.29)Bishop Joseph Devine  (1983.05.13 – 2013.05.31)Sectamini caritatemBorn:1937.08.07 (Kirkintilloch, Scotland)Ordained Priest:1960.06.29Consecrated Bishop:1977.05.31Died:2019.05.23 (Lanarkshire, Scotland † 81)Priest of Glasgow (Scotland) (1960.06.29 – 1977.05.05)Titular Bishop of Voli (1977.05.05 – 1983.05.13)Auxiliary Bishop of Glasgow (Scotland) (1977.05.05 – 1983.05.13)Bishop of Motherwell (Scotland) (1983.05.13 – 2013.05.31)Bishop Francis Alexander Spalding Warden Thomson  (1964.12.08 – 1982.12.14)Sperans in DominoBorn:1917.05.15 (Edinburgh, Scotland)Ordained Priest:1946.06.15Consecrated Bishop:1965.02.24Died:1987.12.06 (Glasgow, Scotland † 70)Priest of Saint Andrews and Edinburgh (Scotland) (1946.06.15 – 1964.12.08)Bishop of Motherwell (Scotland) (1964.12.08 – 1982.12.14)Bishop James Donald Scanlan (later Archbishop)  (1955.05.23 – 1964.01.29)Born:1899.01.24 (Glasgow, Scotland)Ordained Priest:1929.06.29Consecrated Bishop:1946.06.20Died:1976.03.25 (London, England † 77)Priest of Westminster (England) (1929.06.29 – 1946.04.27)Titular Bishop of Cyme (1946.04.27 – 1949.05.31)Coadjutor Bishop of Dunkeld (Scotland) (1946.04.27 – 1949.05.31)Bishop of Dunkeld (Scotland) (1949.05.31 – 1955.05.23)Bishop of Motherwell (Scotland) (1955.05.23 – 1964.01.29)Metropolitan Archbishop of Glasgow (Scotland) (1964.01.29 – 1974.04.23)Bishop Edward Wilson Douglas  (1948.02.07 – 1954.02.09)Born:1901.08.21 (Glasgow, Scotland)Ordained Priest:1924.05.01Consecrated Bishop:1948.04.21Died:1967.06.12 (Glasgow, Scotland † 65)Priest of Glasgow (Scotland) (1924.05.01 – 1948.02.07)Bishop of Motherwell (Scotland) (1948.02.07 – 1954.02.09)Titular Bishop of Botrys (1954.02.09 – 1967.06.12)Special ChurchesCathedral:  Cathedral of Our Lady of Good Aid, Motherwell, North Lanarkshire National Shrine:  National Shrine of Our Lady of Lourdes, Motherwell, North Lanarkshire Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (76)Show MapGalloway (↙), Glasgow (↖), Saint Andrews and Edinburgh (↗)Statistics (2022.12.31)Area: 1,178 km²Population: 154,192 Catholics (23.8% of 648,154 total)Pastoral Centres: 59 parishesPersonnel: 87 priests (74 diocesan, 13 religious), 17 deacons, 44 religious (15 brothers, 29 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "moth1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 648154,
+    "catholiques": 154192,
+    "pourcentage_catholiques": 23.8
+  },
+  "ressources": {
+    "pretres_diocesains": 74,
+    "pretres_religieux": null,
+    "total_pretres": 87,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 59
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "co-agbo0",
+  "nom": "Agboville",
+  "pays": "co",
+  "pays_nom": "Cote d’Ivoire",
+  "continent": "unknown",
+  "type": "Diocese Name: Agboville / Agbovillen(sis) (Latin)Ecclesiastical Province: AbidjanNeighbouring Dioceses: Gagnoa (←), Yamoussoukro (↖), Abengourou (↗), Abidjan (↘), Yopougon (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2006.10.14: Established as Diocese of Agboville / Agbovillen(sis) (Latin) (from Diocese of Yopougon and became suffragan of Abidjan)Present PrelatesBishop (2026.02.27 – ...):Bishop Assandé Darius Ekou (58)OrdinariesBishops of Agboville (Roman Rite)Bishop Assandé Darius Ekou (58)  (2026.02.27 – ...)Bishop of Agboville (Cote d’Ivoire)Born:1968.04.27 (Bongouanou, Cote d’Ivoire)Ordained Priest:1996.09.07Consecrated Bishop:2026.04.18Priest of Abengourou (Cote d’Ivoire) (1996.09.07 – 2026.02.27)Bishop of Agboville (Cote d’Ivoire) (2026.02.27 – ...)Bishop Youlo Alexis Touabli (66)  (Apostolic Administrator 2025.10.22 – 2026.02.27)Bishop Youlo Alexis Touabli (66)  (2006.10.14 – 2025.10.22)Bishop of San Pedro (Cote d’Ivoire)President of Regional Episcopal Conference of West AfricaViens Esprit SaintBorn:1959.11.17 (Béréblo, Cote d’Ivoire)Ordained Priest:1987.08.08Consecrated Bishop:2006.12.16Priest of Gagnoa (Cote d’Ivoire) (1987.08.08 – 1992)Priest of San Pedro (Cote d’Ivoire) (1992 – 2006.10.14)Bishop of Agboville (Cote d’Ivoire) (2006.10.14 – 2025.10.22)President of Catholic Bishops’ Conference of Côte d’Ivoire (2011.06 – 2017.05.21)Second Vice-President of Regional Episcopal Conference of West Africa (2016.02 – 2022.05.05)Apostolic Administrator of Yamoussoukro (Cote d’Ivoire) (2018.06.19 – 2022.12.28)President of Regional Episcopal Conference of West Africa (2022.05.05 – ...)Apostolic Administrator of Agboville (Cote d’Ivoire) (2025.10.22 – 2026.02.27)Bishop of San Pedro (Cote d’Ivoire) (2025.10.22 – ...)Special ChurchesCathedral:  Cathédrale Sainte-Jean-Marie-Vianney, Agboville, Lagunes Show MapGagnoa (←), Yamoussoukro (↖), Abengourou (↗), Abidjan (↘), Yopougon (↓)Statistics (2022.12.31)Area: 11,811 km²Population: 797,580 Catholics (66.5% of 1,199,460 total)Pastoral Centres: 51 parishesPersonnel: 117 priests (98 diocesan, 19 religious), 1 deacon, 80 religious (22 brothers, 58 sisters), 27 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "agbo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1199460,
+    "catholiques": 797580,
+    "pourcentage_catholiques": 66.5
+  },
+  "ressources": {
+    "pretres_diocesains": 98,
+    "pretres_religieux": null,
+    "total_pretres": 117,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 51
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ca-syrc0",
+  "nom": "Canada",
+  "pays": "ca",
+  "pays_nom": "Canada",
+  "continent": "amerique",
+  "type": "Apostolic Exarchate Name: Canada / Canadæ (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Our Lady of Deliverance in the United States (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: History2016.01.07: Established as Apostolic Exarchate of Canada / Canadæ (Latin) (from Diocese of Our Lady of Deliverance of Newark)Present PrelatesApostolic Exarch (2016.01.07 – ...):Bishop Antoine Nassif (57)Titular Bishop of SerigeneOrdinariesApostolic Exarchs of Canada (Syriac Rite)Bishop Antoine Nassif (57)  (2016.01.07 – ...)Apostolic Exarch of Canada of the Syriacs (Canada)Titular Bishop of SerigeneCaritas omnia sustinetBorn:1969.02.21 (Beirut, Lebanon)Ordained Priest:1992.07.26Consecrated Bishop:2016.01.23Priest of Beirut of the Syriacs (Lebanon) (1992.07.26 – 2016.01.07)Titular Bishop of Serigene (2016.01.07 – ...)Apostolic Exarch of Canada of the Syriacs (Canada) (2016.01.07 – ...)Special ChurchesCathedral:  Cathédrale syriaque Saint-Éphrem, Chomedey, Québec Churches by City (6)Show MapOur Lady of Deliverance in the United States (↓)Statistics (2022.12.31)Population: 6,040 CatholicsPastoral Centres: 3 parishesPersonnel: 6 priests (diocesan), 5 deaconsPopulationPastoral CentresPriestsDeaconsLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "syrc0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 3
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

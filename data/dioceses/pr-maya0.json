@@ -1,0 +1,29 @@
+{
+  "id": "pr-maya0",
+  "nom": "Mayagüez",
+  "pays": "pr",
+  "pays_nom": "Puerto Rico",
+  "continent": "unknown",
+  "type": "Diocese Name: Mayagüez / Maiaguezen(sis) (Latin)Ecclesiastical Province: San Juan de Puerto RicoNeighbouring Dioceses: Nuestra Señora de la Altagracia en Higüey (←), Arecibo (↗), Ponce (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nuestra Señora de Monserrate (September 8)Cathedral Dedication Anniversary: August 29Liturgical Calendar 📅History1976.03.01: Established as Diocese of Mayagüez / Maiaguezen(sis) (Latin) (from Diocese of Arecibo and Diocese of Ponce and became suffragan of San Juan de Puerto Rico)Present PrelatesBishop (2020.05.09 – ...):Bishop Ángel Luis Ríos Matos (69)Monsignors (9)OrdinariesBishops of Mayagüez (Roman Rite)Bishop Ángel Luis Ríos Matos (69)  (2020.05.09 – ...)Bishop of Mayagüez (Puerto Rico)Con temor y temblorBorn:1956.10.05 (Aguada, Puerto Rico)Ordained Priest:1985.01.11Consecrated Bishop:2020.08.01Priest of Mayagüez (Puerto Rico) (1985.01.11 – 2020.05.09)Bishop of Mayagüez (Puerto Rico) (2020.05.09 – ...)Bishop Álvaro Corrada Del Río, S.J. (84)  (2011.07.06 – 2020.05.09)Bishop emeritus of Mayagüez (Puerto Rico)Neminem nisi JesumBorn:1942.05.13 (Santurce, Puerto Rico)Ordained Priest:1974.07.06Consecrated Bishop:1985.08.04Titular Bishop of Rusticiana (1985.05.31 – 2000.12.05)Auxiliary Bishop of Washington (USA) (1985.05.31 – 2000.12.05)Apostolic Administrator sede plena of Caguas (Puerto Rico) (1997.07.04 – 1998.07.28)Apostolic Administrator of Caguas (Puerto Rico) (1998.07.28 – 2000.12.05)Bishop of Tyler (USA) (2000.12.05 – 2011.07.06)Bishop of Mayagüez (Puerto Rico) (2011.07.06 – 2020.05.09)Apostolic Administrator of Tyler (USA) (2011.09.12 – 2012.09.29)Vice-President of Episcopal Conference of Puerto Rico (2015 – 2020)Apostolic Administrator of Arecibo (Puerto Rico) (2022.03.09 – 2022.09.14)Bishop Ulises Aurelio Casiano Vargas  (1976.03.04 – 2011.07.06)Born:1933.09.25 (Lajas, Puerto Rico)Ordained Priest:1967.05.30Consecrated Bishop:1976.04.30Died:2018.08.05 (San Germán, Puerto Rico † 84)Bishop of Mayagüez (Puerto Rico) (1976.03.04 – 2011.07.06)President of Episcopal Conference of Puerto Rico (1997 – 2000)Special ChurchesCathedral:  Catedral Nuestra Señora de la Candelaria, Mayagüez Minor Basilica:  Santuario Basílica Nuestra Señora de la Monserrate, Hormigueros Jubilee Churches in the Holy Year 2025Churches by City (34)Show MapNuestra Señora de la Altagracia en Higüey (←), Arecibo (↗), Ponce (↘)Statistics (2022.12.31)Area: 1,617 km²Population: 399,960 Catholics (90.3% of 442,845 total)Pastoral Centres: 30 parishes, 156 missionsPersonnel: 81 priests (53 diocesan, 28 religious), 62 deacons, 117 religious (28 brothers, 89 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "maya0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 442845,
+    "catholiques": 399960,
+    "pourcentage_catholiques": 90.3
+  },
+  "ressources": {
+    "pretres_diocesains": 53,
+    "pretres_religieux": null,
+    "total_pretres": 81,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

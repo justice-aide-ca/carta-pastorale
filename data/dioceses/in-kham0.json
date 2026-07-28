@@ -1,0 +1,29 @@
+{
+  "id": "in-kham0",
+  "nom": "Khammam",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Khammam / Khammamen(sis) (Latin)Ecclesiastical Province: HyderabadNeighbouring Dioceses: Nalgonda (←), Warangal (↖), Jagdalpur (↗), Visakhapatnam (→), Eluru (→)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint JosephLiturgical Calendar (National) 📅History1988.01.18: Established as Diocese of Khammam / Khammamen(sis) (Latin) (from Diocese of Warangal and became suffragan of Hyderabad)Present PrelatesBishop (2024.02.17 – ...):Bishop Prakash Sagili (69)OrdinariesBishops of Khammam (Roman Rite)Bishop Prakash Sagili (69)  (2024.02.17 – ...)Bishop of Khammam (India)Born:1957.01.02 (India)Ordained Priest:1984.04.25Consecrated Bishop:2024.04.09Priest of Cuddapah (India) (1984.04.25 – 2024.02.17)Bishop of Khammam (India) (2024.02.17 – ...)Bishop Udumala Bala Showreddy (72) (later Archbishop)  (Apostolic Administrator 2022.08.27 – 2024.02.17)Bishop Paul Maipan (82)  (1997.04.21 – 2022.08.27)Bishop emeritus of Khammam (India)You are my witnessesBorn:1944.02.14 (Manikamangalam, India)Ordained Priest:1971.01.09Consecrated Bishop:1997.08.22Bishop of Khammam (India) (1997.04.21 – 2022.08.27)Apostolic Administrator of Vijayawada (India) (2001.09.07 – 2002.06.26)Bishop Marampudi Joji (later Archbishop)  (1991.12.21 – 1996.11.08)Born:1942.10.07 (Bhimavaram, India)Ordained Priest:1971.12.14Consecrated Bishop:1992.03.19Died:2010.08.27 (Hyderabad, India † 67)Bishop of Khammam (India) (1991.12.21 – 1996.11.08)Bishop of Vijayawada (India) (1996.11.08 – 2000.01.29)Metropolitan Archbishop of Hyderabad (India) (2000.01.29 – 2010.08.27)Bishop Joseph Rajappa  (1988.01.18 – 1989.12.27)Born:1918.11.03 (Anekal, India)Ordained Priest:1945.12.19Consecrated Bishop:1967.09.07Died:1989.12.27 († 71)Bishop of Kurnool (India) (1967.06.12 – 1988.01.18)Bishop of Khammam (India) (1988.01.18 – 1989.12.27)Special ChurchesCathedral:  Cathedral of Divine Mercy, Khammam, Telangāna Co-Cathedral:  Co-Cathedral of St. Joseph, Khammam, Telangāna Show MapNalgonda (←), Warangal (↖), Jagdalpur (↗), Visakhapatnam (→), Eluru (→)Statistics (2018.12.31)Area: 16,800 km²Population: 172,400 Catholics (5.9% of 2,928,000 total)Pastoral Centres: 72 parishes, 1 missionPersonnel: 103 priests (71 diocesan, 32 religious), 524 religious (169 brothers, 355 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "kham0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2928000,
+    "catholiques": 172400,
+    "pourcentage_catholiques": 5.9
+  },
+  "ressources": {
+    "pretres_diocesains": 71,
+    "pretres_religieux": null,
+    "total_pretres": 103,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 72
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

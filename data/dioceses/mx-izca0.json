@@ -1,0 +1,29 @@
+{
+  "id": "mx-izca0",
+  "nom": "Izcalli",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Izcalli (español) / Izcallien(sis) (Latin)Ecclesiastical Province: TlalnepantlaNeighbouring Dioceses: Atlacomulco (←), Tula (↑), Cuautitlán (→), Tlalnepantla (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2014.06.09: Established as Diocese of Izcalli (español) / Izcallien(sis) (Latin) (from Diocese of Cuautitlán and became suffragan of Tlalnepantla)Present PrelatesBishop (2014.06.09 – ...):Bishop Francisco González Ramos (67)OrdinariesBishops of Izcalli (Roman Rite)Bishop Francisco González Ramos (67)  (2014.06.09 – ...)Bishop of Izcalli (Mexico)Dominus custodiet me in æternumBorn:1958.08.17 (Pueblo Nuevo, Mexico)Ordained Priest:1982.07.18Consecrated Bishop:2014.08.22Priest of León (Mexico) (1982.07.18 – 2004.01.03)Priest of Irapuato (Mexico) (2004.01.03 – 2014.06.09)Bishop of Izcalli (Mexico) (2014.06.09 – ...)Special ChurchesCathedral:  Catedral Santa María de la Anunciación, Cuautitlán Izcalli, México Show MapAtlacomulco (←), Tula (↑), Cuautitlán (→), Tlalnepantla (↓)Statistics (2022.12.31)Area: 532 km²Population: 1,120,900 Catholics (74.5% of 1,505,342 total)Pastoral Centres: 41 parishes, 29 missionsPersonnel: 98 priests (74 diocesan, 24 religious), 297 religious (64 brothers, 233 sisters), 25 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "izca0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1505342,
+    "catholiques": 1120900,
+    "pourcentage_catholiques": 74.5
+  },
+  "ressources": {
+    "pretres_diocesains": 74,
+    "pretres_religieux": null,
+    "total_pretres": 98,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 41
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

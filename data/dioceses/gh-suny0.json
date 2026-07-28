@@ -1,0 +1,29 @@
+{
+  "id": "gh-suny0",
+  "nom": "Sunyani",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Sunyani / Sunyanien(sis) (Latin)Ecclesiastical Province: KumasiNeighbouring Dioceses: Bondoukou (↖), Damongo (↑), Techiman (→), Goaso (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1973.03.01: Established as Diocese of Sunyani / Sunyanien(sis) (Latin) (from Diocese of Kumasi and became suffragan of Cape Coast)1995.03.03: Lost territory to establish Diocese of Konongo–Mampong1997.10.24: Lost territory to establish Diocese of Goaso2001.12.22: Became suffragan of Kumasi2007.12.28: Lost territory to establish Diocese of TechimanPresent PrelatesBishop (2003.04.14 – ...):Bishop Matthew Kwasi Gyamfi (68)President of Ghana Bishops’ ConferenceMonsignors (9)OrdinariesBishops of Sunyani (Roman Rite)Bishop Matthew Kwasi Gyamfi (68)  (2003.04.14 – ...)Bishop of Sunyani (Ghana)President of Ghana Bishops’ ConferenceTrust and obeyBorn:1957.08.11 (Wamanafo, Ghana)Ordained Priest:1985.07.27Consecrated Bishop:2003.06.28Priest of Sunyani (Ghana) (1985.07.27 – 2003.04.14)Bishop of Sunyani (Ghana) (2003.04.14 – ...)President of Ghana Bishops’ Conference (2022.11.10 – ...)Bishop James Kwadwo Owusu  (1973.03.01 – 2001.12.28)Born:1927.12.19 (Kwasibuokrom, Ghana)Ordained Priest:1956.12.08Consecrated Bishop:1973.06.30Died:2001.12.28 (Potroase, Ghana † 74)Bishop of Sunyani (Ghana) (1973.03.01 – 2001.12.28)Special ChurchesCathedral:  Christ the King Cathedral, Sunyani, Bono Show MapBondoukou (↖), Damongo (↑), Techiman (→), Goaso (↓)Statistics (2022.12.31)Area: 19,500 km²Population: 206,050 Catholics (16.6% of 1,238,865 total)Pastoral Centres: 56 parishesPersonnel: 108 priests (86 diocesan, 22 religious), 191 religious (73 brothers, 118 sisters), 87 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "suny0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1238865,
+    "catholiques": 206050,
+    "pourcentage_catholiques": 16.6
+  },
+  "ressources": {
+    "pretres_diocesains": 86,
+    "pretres_religieux": null,
+    "total_pretres": 108,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 56
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

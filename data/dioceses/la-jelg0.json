@@ -1,0 +1,29 @@
+{
+  "id": "la-jelg0",
+  "nom": "Jelgava",
+  "pays": "la",
+  "pays_nom": "Latvia",
+  "continent": "unknown",
+  "type": "Diocese Name: Jelgava / Ielgaven(sis) (Latin)Ecclesiastical Province: RigaNeighbouring Dioceses: Telšiai (↙), Liepāja (←), Riga (↗), Rēzekne–Aglona (→), Vitebsk (→), Vilnius (↘), Panevėžys (↓), Šiauliai (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1995.12.02: Established as Diocese of Jelgava / Ielgaven(sis) (Latin) (from Diocese of Liepāja and became suffragan of Riga)Present PrelatesBishop:vacantApostolic Administrator (2025.01.05 – ...):Archbishop Zbigņevs Stankevičs (71)Metropolitan Archbishop of Riga (Latvia)President of Episcopal Conference of LatviaMonsignors (4)OrdinariesBishops of Jelgava (Roman Rite)Archbishop Zbigņevs Stankevičs (71)  (Apostolic Administrator 2025.01.05 – ...)Bishop Edvards Pavlovskis (75)  (2011.07.22 – 2025.01.05)Vice-President of Episcopal Conference of LatviaBishop emeritus of Jelgava (Latvia)Ecce filius tuusBorn:1950.08.30 (Bresne, Latvia)Ordained Priest:1975.05.25Consecrated Bishop:2011.09.10Priest of Riga (Latvia) (1975.05.25 – 2011.07.22)Bishop of Jelgava (Latvia) (2011.07.22 – 2025.01.05)Apostolic Administrator of Liepāja (Latvia) (2012.06.20 – 2013.07.20)General Secretary of Episcopal Conference of Latvia (2018.12.18 – 2021.12.13)Vice-President of Episcopal Conference of Latvia (2021.12.13 – ...)Bishop Antons Justs  (1995.12.07 – 2011.07.22)Ut vitam habeantBorn:1931.11.22 (Varaklani, Latvia)Ordained Priest:1960.07.11Consecrated Bishop:1996.01.06Died:2019.02.17 (Jelgava, Latvia † 87)Priest of Richmond (USA) (1962 – 1974.05.28)Priest of Arlington (USA) (1974.05.28 – 1995.12.07)Bishop of Jelgava (Latvia) (1995.12.07 – 2011.07.22)President of Episcopal Conference of Latvia (2011.06.01 – 2011.10.18)Special ChurchesCathedral:  Vissvētākās Jaunavas Marijas bezvainīgās ieņemšanas katedrāle, Jelgavā Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapTelšiai (↙), Liepāja (←), Riga (↗), Rēzekne–Aglona (→), Vitebsk (→), Vilnius (↘), Panevėžys (↓), Šiauliai (↓)Statistics (2022.12.31)Area: 13,620 km²Population: 59,800 Catholics (34.4% of 173,730 total)Pastoral Centres: 45 parishesPersonnel: 16 priests (diocesan), 6 religious (2 brothers, 4 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jelg0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 173730,
+    "catholiques": 59800,
+    "pourcentage_catholiques": 34.4
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 45
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

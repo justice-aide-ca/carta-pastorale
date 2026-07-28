@@ -1,0 +1,29 @@
+{
+  "id": "mx-mate1",
+  "nom": "Matehuala",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Matehuala / Matehualen(sis) (Latin)Ecclesiastical Province: San Luis PotosíNeighbouring Dioceses: Zacatecas (←), Linares (↗), Ciudad Victoria (→), Ciudad Valles (↘), San Luis Potosí (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History1997.05.28: Established as Diocese of Matehuala / Matehualen(sis) (Latin) (from Metropolitan Archdiocese of San Luis Potosí and Diocese of Ciudad Valles and became suffragan of San Luis Potosí)Contact InfoAddress: Rayón # 200, Centro, 78700 - Matehuala, S.L.P., MexicoPhone: (488) 8-82-35-05Present PrelatesBishop:vacantApostolic Administrator (2026.04.09 – ...):Archbishop Jorge Alberto Cavazos Arizpe (63)Metropolitan Archbishop of San Luis Potosí (Mexico)OrdinariesBishops of Matehuala (Roman Rite)Archbishop Jorge Alberto Cavazos Arizpe (63)  (Apostolic Administrator 2026.04.09 – ...)Bishop Margarito Salazar Cárdenas (68)  (2018.03.03 – 2026.02.06)Bishop of Tampico (Mexico)En el nombre de CristoBorn:1958.02.22 (Matamoros, Mexico)Ordained Priest:1989.06.12Consecrated Bishop:2018.05.24Priest of Matamoros (Mexico) (1989.06.12 – 2018.03.03)Bishop of Matehuala (Mexico) (2018.03.03 – 2026.02.06)Bishop of Tampico (Mexico) (2026.02.06 – ...)Bishop Lucas Martínez Lara  (2006.10.05 – 2016.04.09)In nomine DominiBorn:1943.03.13 (Villa de la Paz, Mexico)Ordained Priest:1968.10.27Consecrated Bishop:2006.12.14Died:2016.04.09 (San Luis Potosí, Mexico † 73)Priest of San Luis Potosí (Mexico) (1968.10.27 – 2006.10.05)Bishop of Matehuala (Mexico) (2006.10.05 – 2016.04.09)Bishop Rodrigo Aguilar Martínez (74)  (1997.05.28 – 2006.01.28)Bishop of San Cristóbal de Las Casas (Mexico)Servir y dar la vidaBorn:1952.03.05 (Valle de Santiago, Mexico)Ordained Priest:1975.07.25Consecrated Bishop:1997.07.31Priest of Morelia (Mexico) (1975.07.25 – 1997.05.28)Bishop of Matehuala (Mexico) (1997.05.28 – 2006.01.28)Bishop of Tehuacán (Mexico) (2006.01.28 – 2017.11.03)Bishop of San Cristóbal de Las Casas (Mexico) (2017.11.03 – ...)Apostolic Administrator of Tuxtla Gutiérrez (Mexico) (2023.11.27 – 2025.02.26)Special ChurchesCathedral:  Catedral de la Inmaculada Concepción, Matehuala, San Luis Potosí Show MapZacatecas (←), Linares (↗), Ciudad Victoria (→), Ciudad Valles (↘), San Luis Potosí (↓)Statistics (2022.12.31)Area: 26,912 km²Population: 239,332 Catholics (87.6% of 273,234 total)Pastoral Centres: 17 parishes, 1 missionPersonnel: 34 priests (31 diocesan, 3 religious), 27 religious (3 brothers, 24 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mate1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 273234,
+    "catholiques": 239332,
+    "pourcentage_catholiques": 87.6
+  },
+  "ressources": {
+    "pretres_diocesains": 31,
+    "pretres_religieux": null,
+    "total_pretres": 34,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mx-noga0",
+  "nom": "Nogales",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Nogales (español) / Nucen(sis) (Latin)Ecclesiastical Province: HermosilloNeighbouring Dioceses: Mexicali (←), Tucson (↑), Nuevo Casas Grandes (→), Ciudad Obregón (↘), Hermosillo (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2015.03.19: Established as Diocese of Nogales (español) / Nucen(sis) (Latin) (from Metropolitan Archdiocese of Hermosillo and became suffragan of Hermosillo)Present PrelatesBishop (2025.06.20 – ...):Bishop José Luis Cerra Luna (62)OrdinariesBishops of Nogales (Roman Rite)Bishop José Luis Cerra Luna (62)  (2025.06.20 – ...)Bishop of Nogales (Mexico)Favores celestialesBorn:1963.07.24 (Torreón, Mexico)Ordained Priest:1990.04.21Consecrated Bishop:2025.09.10Priest of Matamoros–Reynosa (Mexico) (1990.04.21 – 2025.06.20)Bishop of Nogales (Mexico) (2025.06.20 – ...)Archbishop Ruy Rendón Leal (72)  (Apostolic Administrator 2024.05.27 – 2025.06.20)Bishop José Leopoldo González González (71)  (2015.03.19 – 2024.03.19)Bishop of San Juan de los Lagos (Mexico)Justitia et Pax et GaudiumBorn:1955.02.07 (Cañadas, Mexico)Ordained Priest:1984.05.27Consecrated Bishop:2006.01.25Priest of Guadalajara (Mexico) (1984.05.27 – 2005.11.15)Chaplain of His Holiness (1998.03.02 – 1998.06.06)Prelate of Honour of His Holiness (1998.06.06 – 2005.11.15)Titular Bishop of Thuburnica (2005.11.15 – 2015.03.19)Auxiliary Bishop of Guadalajara (Mexico) (2005.11.15 – 2015.03.19)General Secretary of Conferencia del Episcopado Mexicano (C.E.M.) (2006 – 2009)Bishop of Nogales (Mexico) (2015.03.19 – 2024.03.19)Bishop of San Juan de los Lagos (Mexico) (2024.03.19 – ...)Special ChurchesCathedral:  Catedral Santuario de Nuestra Señora de Guadalupe, Nogales, Sonora Show MapMexicali (←), Tucson (↑), Nuevo Casas Grandes (→), Ciudad Obregón (↘), Hermosillo (↓)Statistics (2022.12.31)Area: 44,244 km²Population: 404,169 Catholics (71.1% of 568,355 total)Pastoral Centres: 32 parishesPersonnel: 55 priests (49 diocesan, 6 religious), 2 deacons, 62 religious (6 brothers, 56 sisters), 8 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "noga0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 568355,
+    "catholiques": 404169,
+    "pourcentage_catholiques": 71.1
+  },
+  "ressources": {
+    "pretres_diocesains": 49,
+    "pretres_religieux": null,
+    "total_pretres": 55,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

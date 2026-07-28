@@ -1,0 +1,29 @@
+{
+  "id": "br-ipam0",
+  "nom": "Ipameri",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Ipameri / Ipamerien(sis) (Latin)Ecclesiastical Province: GoiâniaNeighbouring Dioceses: Itumbiara (←), Goiânia (↖), Anápolis (↖), Luziânia (↑), Paracatu (→), Patos de Minas (↘), Uberlândia (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Divino Espírito SantoLiturgical Calendar (National) 📅History1966.10.11: Established as Diocese of Ipameri / Ipamerien(sis) (Latin) (from Metropolitan Archdiocese of Goiânia and became suffragan of Goiânia)1989.03.29: Lost territory to establish Diocese of LuziâniaPresent PrelatesBishop (2019.05.15 – ...):Bishop José Francisco Rodrigues do Rêgo (59)OrdinariesBishops of Ipameri (Roman Rite)Bishop José Francisco Rodrigues do Rêgo (59)  (2019.05.15 – ...)Bishop of Ipameri (Brazil)Mane nobiscum DomineBorn:1966.12.24 (Barras, PI, Brazil)Ordained Priest:1992.12.13Consecrated Bishop:2019.08.04Priest of Uruaçu (Brazil) (1992.12.13 – 2019.05.15)Bishop of Ipameri (Brazil) (2019.05.15 – ...)Bishop Guilherme Antônio Werlang, M.S.F. (75)  (1999.05.19 – 2018.02.07)Bishop emeritus of Lages (Brazil)Para que todos tenham vidaBorn:1950.08.05 (São Carlos, SC, Brazil)Ordained Priest:1979.08.02Consecrated Bishop:1999.07.17Bishop of Ipameri (Brazil) (1999.05.19 – 2018.02.07)Bishop of Lages (Brazil) (2018.02.07 – 2025.11.05)Archbishop Geraldo do Espírito Santo Ávila  (Apostolic Administrator 1998.07.29 – 1999.05.19)Bishop Tarcísio Sebastião Batista Lopes, O.F.M. Cap.  (1986.12.19 – 1998.07.29)Born:1938.01.18 (São João del Rei, MG, Brazil)Ordained Priest:1964.06.28Consecrated Bishop:1984.05.14Died:2001.11.07 (Uberlândia, MG, Brazil † 63)Bishop of Grajaú (Brazil) (1984.04.04 – 1986.12.19)Bishop of Ipameri (Brazil) (1986.12.19 – 1998.07.29)Bishop Antônio Ribeiro de Oliveira (later Archbishop)  (1975.12.19 – 1985.10.23)Ut Unum SintBorn:1926.06.10 (Orizona, GO, Brazil)Ordained Priest:1949.04.02Consecrated Bishop:1961.10.29Died:2017.02.28 (Goiania, GO, Brazil † 90)Titular Bishop of Arindela (1961.08.25 – 1975.12.19)Auxiliary Bishop of Goiânia (Brazil) (1961.08.25 – 1975.12.19)Bishop of Ipameri (Brazil) (1975.12.19 – 1985.10.23)Metropolitan Archbishop of Goiânia (Brazil) (1985.10.23 – 2002.05.08)Bishop Gilberto Pereira Lopes (later Archbishop)  (1966.11.03 – 1975.12.19)Mysterium Christi PrædicareBorn:1927.02.14 (Santa Lucia, SP, Brazil)Ordained Priest:1949.12.14Consecrated Bishop:1966.12.18Died:2025.09.22 (Campinas, SP, Brazil † 98)Priest of Petrolina (Brazil) (1949.12.14 – 1958)Priest of Ribeirão Preto (Brazil) (1958 – 1966.11.03)Bishop of Ipameri (Brazil) (1966.11.03 – 1975.12.19)Titular Archbishop of Aurusuliana (1975.12.19 – 1982.02.10)Coadjutor Archbishop of Campinas (Brazil) (1975.12.19 – 1982.02.10)Metropolitan Archbishop of Campinas (Brazil) (1982.02.10 – 2004.06.02)Special ChurchesCathedral:  Catedral Divino Espírito Santo, Ipameri, Goiás Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (27)Show MapItumbiara (←), Goiânia (↖), Anápolis (↖), Luziânia (↑), Paracatu (→), Patos de Minas (↘), Uberlândia (↓)Statistics (2022.12.31)Area: 22,947 km²Population: 342,000 Catholics (93.4% of 366,000 total)Pastoral Centres: 25 parishesPersonnel: 18 priests (16 diocesan, 2 religious), 1 deacon, 43 religious (3 brothers, 40 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ipam0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 366000,
+    "catholiques": 342000,
+    "pourcentage_catholiques": 93.4
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 18,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

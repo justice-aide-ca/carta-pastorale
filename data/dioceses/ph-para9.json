@@ -1,0 +1,29 @@
+{
+  "id": "ph-para9",
+  "nom": "Parañaque",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Parañaque / Paranaquen(sis) (Latin)Ecclesiastical Province: ManilaNeighbouring Dioceses: Imus (↙), Manila (↑), Pasig (↗), San Pablo (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Our Lady of the Good Event (August 10), Saint Andrew (November 30)Cathedral Dedication Anniversary: January 25Liturgical Calendar (National) 📅History2002.12.07: Established as Diocese of Parañaque / Paranaquen(sis) (Latin) (from Metropolitan Archdiocese of Manila and became suffragan of Manila)Papal VisitsPope John Paul II (1981.02)Present PrelatesBishop:vacantApostolic Administrator (2026.06.06 – ...):Bishop Elias Lumayog Ayuban, C.M.F. (58)Bishop of Cubao (Philippines)Monsignors (8)OrdinariesBishops of Parañaque (Roman Rite)Bishop Elias Lumayog Ayuban, C.M.F. (58)  (Apostolic Administrator 2026.06.06 – ...)Bishop Jesse Eugenio Mercado (75)  (2002.12.07 – 2026.06.06)Bishop emeritus of Parañaque (Philippines)Confirma fratres tuosBorn:1951.06.06 (Kalookan City, Philippines)Ordained Priest:1977.03.19Consecrated Bishop:1997.03.31Priest of Manila (Philippines) (1977.03.19 – 1997.02.25)Chaplain of His Holiness (1989.04.17 – 1997.02.25)Titular Bishop of Talaptula (1997.02.25 – 2002.12.07)Auxiliary Bishop of Manila (Philippines) (1997.02.25 – 2002.12.07)Apostolic Administrator of Antipolo (Philippines) (2002.10.26 – 2003.01.22)Bishop of Parañaque (Philippines) (2002.12.07 – 2026.06.06)Special ChurchesCathedral:  St. Andrew Cathedral, Parañaque, National Capital Region Minor Basilica, National Shrine:  Basilica of Mary Help of Christians, Parañaque, National Capital Region National Shrine:  National Shrine of Our Lady of Perpetual Help, Parañaque, National Capital Region National Shrine:  National Shrine of Our Lady of the Miraculous Medal, Muntinlupa City, National Capital Region Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (55)Show MapImus (↙), Manila (↑), Pasig (↗), San Pablo (↘)Statistics (2022.12.31)Area: 127 km²Population: 1,504,036 Catholics (79.5% of 1,891,869 total)Pastoral Centres: 51 parishes, 2 missionsPersonnel: 435 priests (64 diocesan, 371 religious), 885 religious (606 brothers, 279 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.19© 2026 GCatholic.org",
+  "code_gcatholic": "para9",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1891869,
+    "catholiques": 1504036,
+    "pourcentage_catholiques": 79.5
+  },
+  "ressources": {
+    "pretres_diocesains": 64,
+    "pretres_religieux": null,
+    "total_pretres": 435,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 51
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

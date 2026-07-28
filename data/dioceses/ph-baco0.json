@@ -1,0 +1,29 @@
+{
+  "id": "ph-baco0",
+  "nom": "Bacolod",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Bacolod / Bacoloden(sis) (Latin)Ecclesiastical Province: JaroNeighbouring Dioceses: Jaro (←), San Carlos (→), Kabankalan (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Sebastian (January 20), Our Lady of the Most Holy RosaryLiturgical Calendar (National) 📅History1932.07.15: Established as Diocese of Bacolod / Bacoloden(sis) (Latin) (from Diocese of Cebu and Diocese of Jaro and became suffragan of Manila)1951.06.29: Became suffragan of Jaro1955.04.05: Lost territory to establish Diocese of Dumaguete1987.03.30: Lost territory to establish Diocese of Kabankalan and Diocese of San CarlosPapal VisitsPope John Paul II (1981.02)Present PrelatesBishop (2026.05.14 – ...):Bishop Louie Patalinghug Galbines (59)Monsignors (20)OrdinariesBishops of Bacolod (Roman Rite)Bishop Louie Patalinghug Galbines (59)  (2026.05.14 – ...)Bishop of Bacolod (Philippines)ConfidoBorn:1966.11.18 (Aliwanag, Sagay, Philippines)Ordained Priest:1994.04.29Consecrated Bishop:2018.05.28Priest of Bacolod (Philippines) (1994.04.29 – 2018.03.12)Bishop of Kabankalan (Philippines) (2018.03.12 – 2026.05.14)Bishop of Bacolod (Philippines) (2026.05.14 – ...)Bishop Patricio Abella Buzon, S.D.B. (76)  (2016.05.24 – 2026.05.14)Bishop emeritus of Bacolod (Philippines)Adveniat regnum tuumBorn:1950.03.14 (San Nicolas, Philippines)Ordained Priest:1976.12.08Consecrated Bishop:2003.02.19Bishop of Kabankalan (Philippines) (2002.12.27 – 2016.05.24)Bishop of Bacolod (Philippines) (2016.05.24 – 2026.05.14)Bishop Vicente Macanan Navarra (87)  (2001.05.24 – 2016.05.24)Bishop emeritus of Bacolod (Philippines)Adsum meam DominiBorn:1939.01.22 (Mambusao, Philippines)Ordained Priest:1962.04.07Consecrated Bishop:1979.06.26Priest of Capiz (Philippines) (1962.04.07 – 1979.04.23)Chaplain of His Holiness (1975.04.19 – 1979.04.23)Titular Bishop of Velefi (1979.04.23 – 1987.11.21)Auxiliary Bishop of Capiz (Philippines) (1979.04.23 – 1987.11.21)Bishop of Kabankalan (Philippines) (1987.11.21 – 2001.05.24)Bishop of Bacolod (Philippines) (2001.05.24 – 2016.05.24)Bishop Camilo Diaz Gregorio  (1989.05.20 – 2000.08.28)Servire cum lætitiaBorn:1939.09.25 (Cuyapo, Philippines)Ordained Priest:1963.12.01Consecrated Bishop:1987.03.29Died:2018.05.21 (San Juan City, Philippines † 78)Priest of San Jose de Nueva Ecija (Philippines) (1963.12.01 – 1987.01.12)Titular Bishop of Girus (1987.01.12 – 1989.05.20)Auxiliary Bishop of Cebu (Philippines) (1987.01.12 – 1989.05.20)Bishop of Bacolod (Philippines) (1989.05.20 – 2000.08.28)Bishop-Prelate of Batanes (Philippines) (2003.09.13 – 2017.05.20)Bishop Antonio Yapsutco Fortich  (1967.01.13 – 1989.01.31)Born:1913.08.11 (Dumaguete, Philippines)Ordained Priest:1944.03.04Consecrated Bishop:1967.02.24Died:2003.07.02 (Bacolod, Philippines † 89)Priest of Bacolod (Philippines) (1944.03.04 – 1967.01.13)Bishop of Bacolod (Philippines) (1967.01.13 – 1989.01.31)Bishop Manuel Yap  (1952.03.05 – 1966.10.16)Born:1900.06.17 (Cárcar, Philippines)Ordained Priest:1929.09.21Consecrated Bishop:1951.05.01Died:1966.10.16 († 66)Bishop of Capiz (Philippines) (1951.02.13 – 1952.03.05)Bishop of Bacolod (Philippines) (1952.03.05 – 1966.10.16)Bishop Casimiro Lladoc  (1933.06.23 – 1951.10.24)Born:1893.03.04 (Pilar, Philippines)Ordained Priest:1918.03.25Consecrated Bishop:1933.09.16Died:1951.10.24 († 58)Bishop of Bacolod (Philippines) (1933.06.23 – 1951.10.24)Special ChurchesCathedral:  San Sebastian Cathedral, Bacolod City, Negros Occidental, Negros Island Pro-Cathedral:  Pro-Cathedral of San Diego, Silay City, Negros Occidental, Negros Island Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (76)Show MapJaro (←), San Carlos (→), Kabankalan (↓)Statistics (2022.12.31)Area: 2,019 km²Population: 1,309,520 Catholics (79.0% of 1,657,620 total)Pastoral Centres: 68 parishesPersonnel: 162 priests (109 diocesan, 53 religious), 271 religious (100 brothers, 171 sisters), 40 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "baco0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1657620,
+    "catholiques": 1309520,
+    "pourcentage_catholiques": 79.0
+  },
+  "ressources": {
+    "pretres_diocesains": 109,
+    "pretres_religieux": null,
+    "total_pretres": 162,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 68
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

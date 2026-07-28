@@ -1,0 +1,29 @@
+{
+  "id": "my-kala1",
+  "nom": "Kalay",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Kalay / Kalayen(sis) (Latin)Ecclesiastical Province: MandalayNeighbouring Dioceses: Hakha (↙), Imphal (↑), Myitkyina (↗), Banmaw (↗), Mandalay (↘), Mindat (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2010.05.22: Established as Diocese of Kalay / Kalayen(sis) (Latin) (from Diocese of Hakha and became suffragan of Mandalay)Contact InfoAddress: Bishop’s Residence, Thazin Street 4/5, Thuriya Road, Kalaymyo, Sagaing Division, MyanmarPhone: (073) 21-880Present PrelatesBishop (2010.05.22 – ...):Bishop Felix Lian Khen Thang (66)OrdinariesBishops of Kalay (Roman Rite)Bishop Felix Lian Khen Thang (66)  (2010.05.22 – ...)Bishop of Kalay (Myanmar)Ecce venio ut faciam Deus voluntatem tuamBorn:1959.12.25 (Gam Ngai, Myanmar)Ordained Priest:1990.02.23Consecrated Bishop:2006.05.06Priest of Mandalay (Myanmar) (1990.02.23 – 1992.11.21)Priest of Hakha (Myanmar) (1992.11.21 – 2006.03.03)Chaplain of His Holiness (1999.09.14 – 2006.03.03)Titular Bishop of Fesseë (2006.03.03 – 2010.05.22)Auxiliary Bishop of Hakha (Myanmar) (2006.03.03 – 2010.05.22)Bishop of Kalay (Myanmar) (2010.05.22 – ...)President of Myanmar Catholic Bishops’ Conference (2014.07 – 2020?)Special ChurchesCathedral:  Cathedral of St. Mary, Kalaymyo, Sagaing Show MapHakha (↙), Imphal (↑), Myitkyina (↗), Banmaw (↗), Mandalay (↘), Mindat (↓)Statistics (2022.12.31)Area: 13,813 km²Population: 61,060 Catholics (5.9% of 1,035,215 total)Pastoral Centres: 31 parishes, 1 missionPersonnel: 51 priests (45 diocesan, 6 religious), 279 religious (6 brothers, 273 sisters), 15 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kala1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1035215,
+    "catholiques": 61060,
+    "pourcentage_catholiques": 5.9
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 51,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

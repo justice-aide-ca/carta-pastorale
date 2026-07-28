@@ -1,0 +1,29 @@
+{
+  "id": "br-barr2",
+  "nom": "Barra do Garças",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Barra do Garças / Barragartien(sis) (Latin)Ecclesiastical Province: CuiabáNeighbouring Dioceses: Rondonópolis–Guiratinga (↙), Primavera do Leste–Paranatinga (↖), São Félix (↑), Rubiataba–Mozarlândia (↗), Goiás (→), São Luís de Montes Belos (→), Jataí (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nossa Senhora da GuiaLiturgical Calendar (National) 📅History1982.02.27: Established as Diocese of Barra do Garças / Barragartien(sis) (Latin) (from Diocese of Guiratinga and became suffragan of Cuiabá)1997.12.23: Lost territory to establish Territorial Prelature of Paranatinga2014.06.25: Gained territory from the suppressed Diocese of GuiratingaPresent PrelatesBishop (2023.10.18 – ...):Bishop Paulo Renato Fernandes Gonçalves de Campos (53)Monsignors (1)OrdinariesBishops of Barra do Garças (Roman Rite)Bishop Paulo Renato Fernandes Gonçalves de Campos (53)  (2023.10.18 – ...)Bishop of Barra do Garças (Brazil)Deus é amorBorn:1973.01.11 (São Paulo, SP, Brazil)Ordained Priest:2004.03.20Consecrated Bishop:2023.12.16Priest of São José dos Campos (Brazil) (2004.03.20 – 2023.10.18)Bishop of Barra do Garças (Brazil) (2023.10.18 – ...)Bishop Protógenes José Luft, S.C. (77)  (2001.05.23 – 2023.10.18)Bishop emeritus of Barra do Garças (Brazil)Propter CaritatemBorn:1949.05.06 (Palmeira das Missões, RS, Brazil)Ordained Priest:1975.12.07Consecrated Bishop:2000.03.26Coadjutor Bishop of Barra do Garças (Brazil) (2000.01.26 – 2001.05.23)Bishop of Barra do Garças (Brazil) (2001.05.23 – 2023.10.18)Bishop Antônio Sarto, S.D.B.  (1982.03.25 – 2001.05.23)Escolhido dentre os homens, para os homensBorn:1926.02.27 (Lins, SP, Brazil)Ordained Priest:1951.06.01Consecrated Bishop:1971.08.15Died:2008.09.29 (Campinas, SP, Brazil † 82)Titular Bishop of Aræ in Mauretania (1971.05.18 – 1978.05.26)Coadjutor Bishop-Prelate of Porto Velho (Brazil) (1971.05.18 – 1979.10.16)Coadjutor Bishop of Porto Velho (Brazil) (1979.10.16 – 1982.03.25)Bishop of Barra do Garças (Brazil) (1982.03.25 – 2001.05.23)Former PrelatesCoadjutor Bishop: Bishop Protógenes José Luft, S.C. (77) (2000.01.26 – 2001.05.23)Special ChurchesCathedral:  Catedral Nossa Senhora da Guia, Barra do Garças, Mato Grosso Jubilee Churches in the Holy Year 2025Churches by City (24)Show MapRondonópolis–Guiratinga (↙), Primavera do Leste–Paranatinga (↖), São Félix (↑), Rubiataba–Mozarlândia (↗), Goiás (→), São Luís de Montes Belos (→), Jataí (↓)Statistics (2022.12.31)Area: 70,930 km²Population: 103,000 Catholics (62.0% of 166,000 total)Pastoral Centres: 20 parishesPersonnel: 29 priests (9 diocesan, 20 religious), 8 deacons, 61 religious (24 brothers, 37 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "barr2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 166000,
+    "catholiques": 103000,
+    "pourcentage_catholiques": 62.0
+  },
+  "ressources": {
+    "pretres_diocesains": 9,
+    "pretres_religieux": null,
+    "total_pretres": 29,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

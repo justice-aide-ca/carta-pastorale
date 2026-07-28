@@ -1,0 +1,29 @@
+{
+  "id": "ph-ilig0",
+  "nom": "Iligan",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Iligan / Iliganen(sis) (Latin)Ecclesiastical Province: OzamizNeighbouring Dioceses: Pagadian (↙), Ozamiz (←), Cagayan de Oro (↗), Malaybalay (→), Marawi (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: St. Michael the Archangel (September 29), Saint Teresa of Jesus (October 15)Cathedral Dedication Anniversary: September 20Liturgical Calendar (National) 📅History1971.02.17: Established as Territorial Prelature of Iligan / Iliganen(sis) (Latin) (from Territorial Prelature of Ozamiz and became suffragan of Cagayan de Oro)1976.11.20: Lost territory to establish Territorial Prelature of Marawi1982.11.15: Promoted as Diocese of Iligan / Iliganen(sis) (Latin)1983.01.24: Became suffragan of OzamizPresent PrelatesBishop (2019.06.13 – ...):Bishop Jose Ramirez Rapadas III (54)Monsignors (1)OrdinariesBishops of Iligan (Roman Rite)Bishop Jose Ramirez Rapadas III (54)  (2019.06.13 – ...)Bishop of Iligan (Philippines)Quia audit servus tuusBorn:1972.07.12 (Tondo, Manila, Philippines)Ordained Priest:1999.05.19Consecrated Bishop:2019.08.20Priest of Ipil (Philippines) (1999.05.19 – 2019.06.13)Bishop of Iligan (Philippines) (2019.06.13 – ...)Bishop Elenito Reyes Galido  (2006.03.25 – 2017.12.05)Prayer service peaceBorn:1953.04.18 (Managok, Philippines)Ordained Priest:1979.04.25Consecrated Bishop:2006.09.08Died:2017.12.05 († 64)Priest of Malaybalay (Philippines) (1979.04.25 – 2006.03.25)Bishop of Iligan (Philippines) (2006.03.25 – 2017.12.05)Bishop Emilio Layon Bataclan  (1995.05.03 – 2004.06.21)Doce me facere voluntatem tuamBorn:1940.09.20 (Bantayan, Philippines)Ordained Priest:1966.05.01Consecrated Bishop:1990.04.19Died:2026.06.24 (Cebu, Philippines † 85)Priest of Cebu (Philippines) (1966.05.01 – 1990.02.24)Prelate of Honour of His Holiness (1990.01.26 – 1990.02.24)Titular Bishop of Gunela (1990.02.24 – 1995.05.03)Auxiliary Bishop of Cebu (Philippines) (1990.02.24 – 1995.05.03)Bishop of Iligan (Philippines) (1995.05.03 – 2004.06.21)Auxiliary Bishop of Cebu (Philippines) (2004.06.21 – 2015.10.01)Titular Bishop of Septimunicia (2004.06.21 – 2026.06.24)Bishop Fernando Robles Capalla (later Archbishop)  (1982.11.15 – 1994.06.28)Sentire cum EcclesiæBorn:1934.11.01 (Leon, Philippines)Ordained Priest:1961.03.18Consecrated Bishop:1975.06.18Died:2024.01.06 (Davao, Philippines † 89)Priest of Jaro (Philippines) (1961.03.18 – 1975.04.02)Chaplain of His Holiness (1969.09.09 – 1975.04.02)Auxiliary Bishop of Davao (Philippines) (1975.04.02 – 1977.04.25)Titular Bishop of Grumentum (1975.04.02 – 1978.02.18)Bishop-Prelate of Iligan (Philippines) (1977.04.25 – 1982.11.15)Bishop of Iligan (Philippines) (1982.11.15 – 1994.06.28)Coadjutor Archbishop of Davao (Philippines) (1994.06.28 – 1996.11.06)Metropolitan Archbishop of Davao (Philippines) (1996.11.06 – 2012.02.11)President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.) (2003.09 – 2005)Prelates of Iligan (Roman Rite)Bishop Fernando Robles Capalla (later Archbishop)  (1977.04.25 – 1982.11.15)(see above)Bishop Bienvenido Solon Tudtud  (1971.02.17 – 1977.04.25)Born:1931.03.22 (Cebu, Philippines)Ordained Priest:1959.02.02Consecrated Bishop:1968.03.24Died:1987.06.26 († 56)Auxiliary Bishop of Dumaguete (Philippines) (1968.02.05 – 1971.02.17)Titular Bishop of Thimida (1968.02.05 – 1987.06.26)Bishop-Prelate of Iligan (Philippines) (1971.02.17 – 1977.04.25)Bishop-Prelate of Marawi (Philippines) (1977.04.25 – 1987.06.26)Special ChurchesCathedral:  Cathedral of St. Michael the Archangel, Iligan City, Lanao del Norte, Northern Mindanao Jubilee Churches in the Holy Year 2025Churches by City (28)Show MapPagadian (↙), Ozamiz (←), Cagayan de Oro (↗), Malaybalay (→), Marawi (↓)Statistics (2022.12.31)Area: 3,092 km²Population: 716,993 Catholics (59.3% of 1,209,061 total)Pastoral Centres: 26 parishes, 1 missionPersonnel: 61 priests (44 diocesan, 17 religious), 89 religious (20 brothers, 69 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ilig0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1209061,
+    "catholiques": 716993,
+    "pourcentage_catholiques": 59.3
+  },
+  "ressources": {
+    "pretres_diocesains": 44,
+    "pretres_religieux": null,
+    "total_pretres": 61,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

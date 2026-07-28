@@ -1,0 +1,29 @@
+{
+  "id": "mz-naca0",
+  "nom": "Nacala",
+  "pays": "mz",
+  "pays_nom": "Mozambique",
+  "continent": "unknown",
+  "type": "Diocese Name: Nacala / Nacalan(us) (Latin)Ecclesiastical Province: NampulaNeighbouring Dioceses: Nampula (←), Pemba (↑)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Nossa Senhora da Boa ViagemLiturgical Calendar (Universal) 📅History1991.10.11: Established as Diocese of Nacala / Nacalan(us) (Latin) (from Metropolitan Archdiocese of Nampula and became suffragan of Nampula)Present PrelatesBishop (2018.04.25 – ...):Bishop Alberto Vera Aréjula, O. de M. (69)OrdinariesBishops of Nacala (Roman Rite)Bishop Alberto Vera Aréjula, O. de M. (69)  (2018.04.25 – ...)Bishop of Nacala (Mozambique)Gaudete in Domino semperBorn:1957.04.08 (Aguilar del Río Alhama, Spain)Ordained Priest:1981.08.22Consecrated Bishop:2015.05.02Titular Bishop of Nova barbara (2015.03.30 – 2018.04.25)Auxiliary Bishop of Xai-Xai (Mozambique) (2015.03.30 – 2018.04.25)Bishop of Nacala (Mozambique) (2018.04.25 – ...)Bishop Germano Grachane, C.M. (84)  (1991.10.11 – 2018.04.25)Bishop emeritus of Nacala (Mozambique)Spiritus Domini super meBorn:1942.05.04 (Zandamela, Mozambique)Ordained Priest:1970.05.24Consecrated Bishop:1990.06.03Titular Bishop of Thunusuda (1990.01.22 – 1991.10.11)Auxiliary Bishop of Nampula (Mozambique) (1990.01.22 – 1991.10.11)Bishop of Nacala (Mozambique) (1991.10.11 – 2018.04.25)Special ChurchesCathedral:  Catedral de Nossa Senhora da Boa Viagem, Nacala, Nampula Jubilee Churches in the Holy Year 2025Show MapNampula (←), Pemba (↑)Statistics (2022.12.31)Area: 26,000 km²Population: 1,314,000 Catholics (41.2% of 3,192,000 total)Pastoral Centres: 23 parishesPersonnel: 42 priests (26 diocesan, 16 religious), 91 religious (19 brothers, 72 sisters), 34 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "naca0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3192000,
+    "catholiques": 1314000,
+    "pourcentage_catholiques": 41.2
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

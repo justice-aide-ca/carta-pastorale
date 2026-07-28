@@ -1,0 +1,29 @@
+{
+  "id": "cu-mata3",
+  "nom": "Matanzas",
+  "pays": "cu",
+  "pays_nom": "Cuba",
+  "continent": "unknown",
+  "type": "Diocese Name: Matanzas / Matanzen(sis) (Latin)Ecclesiastical Province: La HabanaNeighbouring Dioceses: La Habana (←), Miami (↑), Santa Clara (→), Cienfuegos (↘)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1912.12.10: Established as Diocese of Matanzas / Matanzen(sis) (Latin) (from Diocese of La Habana and became suffragan of Santiago)1925.01.06: Became suffragan of La HabanaPresent PrelatesBishop (2022.04.07 – ...):Bishop Juan Gabriel Díaz Ruiz (65)Vice-President of Catholic Bishops’ Conference of CubaMonsignors (4)OrdinariesBishops of Matanzas (Roman Rite)Bishop Juan Gabriel Díaz Ruiz (65)  (2022.04.07 – ...)Bishop of Matanzas (Cuba)Vice-President of Catholic Bishops’ Conference of CubaApacienta mis ovejasBorn:1960.11.14 (Camagüey, Cuba)Ordained Priest:1989.08.05Consecrated Bishop:2017.09.30Priest of Camagüey (Cuba) (1989.08.05 – 2017.07.08)Bishop of Ciego de Ávila (Cuba) (2017.07.08 – 2022.04.07)Bishop of Matanzas (Cuba) (2022.04.07 – ...)Vice-President of Catholic Bishops’ Conference of Cuba (2024.11.07 – ...)Cardinal Juan de la Caridad García Rodríguez (78)  (Apostolic Administrator 2022.03.22 – 2022.04.07)Bishop Manuel Hilario de Céspedes García-Menocal  (2005.05.07 – 2022.03.22)Born:1944.03.11 (San Cristóbal de La Habana, Cuba)Ordained Priest:1972.05.21Consecrated Bishop:2005.06.04Died:2025.03.26 (Matanzas, Cuba † 81)Priest of Caracas (Venezuela) (1972.05.21 – 1984)Priest of Pinar del Río (Cuba) (1984 – 2005.05.07)Bishop of Matanzas (Cuba) (2005.05.07 – 2022.03.22)Bishop Mariano Vivanco Valiente  (1987.05.18 – 2004.08.23)Born:1933.04.03 (San Antonio de los Baños, Cuba)Ordained Priest:1961.05.28Consecrated Bishop:1987.06.29Died:2004.08.23 († 71)Priest of La Habana (Cuba) (1961.05.28 – 1987.05.18)Bishop of Matanzas (Cuba) (1987.05.18 – 2004.08.23)Bishop José Maximino Eusebio Domínguez y Rodríguez  (1961.07.18 – 1986.12.11)Born:1915.05.29 (La Habana, Cuba)Ordained Priest:1943.06.13Consecrated Bishop:1960.05.15Died:1986.12.11 († 71)Priest of La Habana (Cuba) (1943.06.13 – 1960.03.31)Titular Bishop of Cæciri (1960.03.31 – 1961.07.18)Auxiliary Bishop of La Habana (Cuba) (1960.03.31 – 1961.07.18)Bishop of Matanzas (Cuba) (1961.07.18 – 1986.12.11)President of Catholic Bishops’ Conference of Cuba (1973 – 1976)Bishop Alberto Martín y Villaverde  (1938.05.14 – 1960.11.03)Born:1904.05.02 (La Habana, Cuba)Ordained Priest:1927.10.27Consecrated Bishop:1938.07.03Died:1960.11.03 († 56)Bishop of Matanzas (Cuba) (1938.05.14 – 1960.11.03)Bishop Severiano Sainz y Bencamo  (1915.02.11 – 1937.03.14)Born:1871.11.07 (San Juan y Martínez, Cuba)Ordained Priest:1898.12.23Consecrated Bishop:1915.05.03Died:1937.03.14 († 65)Priest of La Habana (Cuba) (1898.12.23 – 1915.02.11)Bishop of Matanzas (Cuba) (1915.02.11 – 1937.03.14)Bishop Charles Warren Currier  (1913.04.26 – 1914.02.11)Born:1857.03.22 (St. Thomas, U.S. Virgin Islands)Ordained Priest:1880.11.24Consecrated Bishop:1913.07.06Died:1918.09.23 (USA † 61)Priest of Baltimore (USA) (1880.11.24 – 1913.04.26)Bishop of Matanzas (Cuba) (1913.04.26 – 1914.02.11)Titular Bishop of Etalonia (1915.06.16 – 1918.09.23)Special ChurchesCathedral:  Catedral San Carlos de Borromeo, Matanzas, Matanzas Show MapLa Habana (←), Miami (↑), Santa Clara (→), Cienfuegos (↘)Statistics (2022.12.31)Area: 12,964 km²Population: 400,000 Catholics (56.7% of 705,000 total)Pastoral Centres: 15 parishes, 20 missionsPersonnel: 18 priests (15 diocesan, 3 religious), 4 deacons, 57 religious (3 brothers, 54 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mata3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 705000,
+    "catholiques": 400000,
+    "pourcentage_catholiques": 56.7
+  },
+  "ressources": {
+    "pretres_diocesains": 15,
+    "pretres_religieux": null,
+    "total_pretres": 18,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

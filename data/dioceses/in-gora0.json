@@ -1,0 +1,29 @@
+{
+  "id": "in-gora0",
+  "nom": "Gorakhpur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Gorakhpur / Gorakhpuren(sis) (Latin)Ecclesiastical Province: FaridabadNeighbouring Dioceses: Allahabad (↙), Lucknow (←), Nepal (↗), Bettiah (→), Varanasi (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint Thérèse of the Child Jesus, Saint JosephHistory1984.06.19: Established as Diocese of Gorakhpur / Gorakhpuren(sis) (Latin) (from Diocese of Varanasi and became suffragan of Agra)2025.08.28: Gained territory from Diocese of Shamshabad and became suffragan of FaridabadPresent PrelatesBishop (2023.08.26 – ...):Bishop Mathew Nellikunnel, C.S.T. (55)OrdinariesBishops of Gorakhpur (Syro-Malabar Rite)Bishop Mathew Nellikunnel, C.S.T. (55)  (2023.08.26 – ...)Bishop of Gorakhpur of the Syro-Malabars (India)Born:1970.11.13 (Mariapuram, India)Ordained Priest:1998.12.30Consecrated Bishop:2023.11.05Bishop of Gorakhpur of the Syro-Malabars (India) (2023.08.26 – ...)Bishop Thomas Thuruthimattam, C.S.T. (79)  (2006.07.15 – 2023.08.26)Bishop emeritus of Gorakhpur of the Syro-Malabars (India)Liberated human being is to manifest glory of GodBorn:1947.04.22 (Aryvikuzhy, India)Ordained Priest:1973.12.21Consecrated Bishop:2006.10.01Superior General of Congregation of Saint Theresa of the Child Jesus “Little Flower” (2003 – 2006.07.15)Bishop of Gorakhpur of the Syro-Malabars (India) (2006.07.15 – 2023.08.26)Bishop Dominic Kokkat, C.S.T.  (1984.06.19 – 2006.07.15)God is my light and my salvationBorn:1932.02.23 (Vaikom, India)Ordained Priest:1960.10.04Consecrated Bishop:1984.10.04Died:2026.01.25 (Gorakhpur, India † 93)Bishop of Gorakhpur of the Syro-Malabars (India) (1984.06.19 – 2006.07.15)Special ChurchesCathedral:  St. Joseph’s Cathedral, Gorakhpur, Uttar Pradesh Show MapAllahabad (↙), Lucknow (←), Nepal (↗), Bettiah (→), Varanasi (↓)Statistics (2022.12.31)Area: 19,070 km²Population: 3,338 Catholics (0.2% of 1,834,160 total)Pastoral Centres: 46 parishes, 8 missionsPersonnel: 71 priests (47 diocesan, 24 religious), 318 religious (58 brothers, 260 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "gora0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1834160,
+    "catholiques": 3338,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 47,
+    "pretres_religieux": null,
+    "total_pretres": 71,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

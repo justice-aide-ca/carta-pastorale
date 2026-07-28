@@ -1,0 +1,29 @@
+{
+  "id": "in-bong0",
+  "nom": "Bongaigaon",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Bongaigaon / Bongaigaonen(sis) (Latin)Ecclesiastical Province: GuwahatiNeighbouring Dioceses: Dinajpur (↙), Jalpaiguri (←), Darjeeling (↑), Guwahati (→), Tura (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Christ the Light of the WorldLiturgical Calendar (National) 📅History2000.05.10: Established as Diocese of Bongaigaon / Bongaigaonen(sis) (Latin) (from Metropolitan Archdiocese of Guwahati and became suffragan of Guwahati)Present PrelatesBishop (2000.05.10 – ...):Bishop Thomas Pulloppillil (72)OrdinariesBishops of Bongaigaon (Roman Rite)Bishop Thomas Pulloppillil (72)  (2000.05.10 – ...)Bishop of Bongaigaon (India)To build and to plantBorn:1954.07.14 (Nadukani, India)Ordained Priest:1981.04.06Consecrated Bishop:2000.08.20Priest of Kothamangalam of the Syro-Malabars (India) (1981.04.06 – 2000.05.10)Bishop of Bongaigaon (India) (2000.05.10 – ...)Special ChurchesCathedral:  Cathedral of the Light of the World, Bongaigaon, Assam Show MapDinajpur (↙), Jalpaiguri (←), Darjeeling (↑), Guwahati (→), Tura (↓)Statistics (2021.12.31)Area: 13,630 km²Population: 73,800 Catholics (0.8% of 8,717,000 total)Pastoral Centres: 36 parishes, 1 missionPersonnel: 93 priests (44 diocesan, 49 religious), 318 religious (59 brothers, 259 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "bong0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 8717000,
+    "catholiques": 73800,
+    "pourcentage_catholiques": 0.8
+  },
+  "ressources": {
+    "pretres_diocesains": 44,
+    "pretres_religieux": null,
+    "total_pretres": 93,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

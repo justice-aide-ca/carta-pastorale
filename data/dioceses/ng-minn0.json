@@ -1,0 +1,29 @@
+{
+  "id": "ng-minn0",
+  "nom": "Minna",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Minna / Minnaën(sis) (Latin)Ecclesiastical Province: KadunaNeighbouring Dioceses: Ilorin (↙), Kontagora (↖), Kaduna (↗), Kafanchan (→), Abuja (↘), Lokoja (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1964.11.09: Established as Apostolic Prefecture of Minna / Minnaën(sis) (Latin) (from Metropolitan Archdiocese of Kaduna)1973.09.17: Promoted as Diocese of Minna / Minnaën(sis) (Latin) (became suffragan of Kaduna)1981.11.06: Lost territory to establish Mission sui juris of Abuja1995.12.15: Lost territory to establish Apostolic Prefecture of KontagoraPresent PrelatesBishop (1996.07.05 – ...):Bishop Martin Igwemezie Uzoukwu (75)Auxiliary Bishop (2020.12.09 – ...):Bishop Luka Sylvester Gopep (61)Titular Bishop of Muzuca in ByzacenaOrdinariesBishops of Minna (Roman Rite)Bishop Martin Igwemezie Uzoukwu (75)  (1996.07.05 – ...)Bishop of Minna (Nigeria)Born:1950.09.09 (Ozubulu, Nigeria)Ordained Priest:1981.09.27Consecrated Bishop:1996.11.30Priest of Ilorin (Nigeria) (1981.09.27 – 1996.07.05)Bishop of Minna (Nigeria) (1996.07.05 – ...)Bishop Christopher Shaman Abba  (1973.09.17 – 1996.07.05)Born:1935.12.20 (Mabushi, Nigeria)Ordained Priest:1966.12.16Consecrated Bishop:1973.12.30Died:2010.01.10 († 74)Bishop of Minna (Nigeria) (1973.09.17 – 1996.07.05)Bishop of Yola (Nigeria) (1996.07.05 – 2010.01.10)Prefects Apostolic of Minna (Roman Rite)Fr. Edmund Joseph Fitzgibbon, S.P.S. (later Bishop)  (1964.11.25 – 1973.09.17)Born:1925.03.01 (Ballylegan, Cork, Ireland)Ordained Priest:1950.04.09Consecrated Bishop:1976.01.06Died:2010.04.17 (Kiltegan, Wicklow, Ireland † 85)Prefect Apostolic of Minna (Nigeria) (1964.11.25 – 1973.09.17)Apostolic Administrator of Port Harcourt (Nigeria) (1973.09.17 – 1991.08.31)Titular Bishop of Fordongianus (1975.11.20 – 1991.08.31)Apostolic Administrator of Warri (Nigeria) (1983 – 1991.08.31)Bishop of Warri (Nigeria) (1991.08.31 – 1997.03.03)Special ChurchesCathedral:  St. Michael’s Cathedral, Minna, Niger Show MapIlorin (↙), Kontagora (↖), Kaduna (↗), Kafanchan (→), Abuja (↘), Lokoja (↓)Statistics (2022.12.31)Area: 36,031 km²Population: 98,575 Catholics (2.6% of 3,817,920 total)Pastoral Centres: 62 parishes, 3 missionsPersonnel: 125 priests (88 diocesan, 37 religious), 127 religious (50 brothers, 77 sisters), 79 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "minn0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3817920,
+    "catholiques": 98575,
+    "pourcentage_catholiques": 2.6
+  },
+  "ressources": {
+    "pretres_diocesains": 88,
+    "pretres_religieux": null,
+    "total_pretres": 125,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 62
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

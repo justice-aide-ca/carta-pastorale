@@ -1,0 +1,29 @@
+{
+  "id": "pg-kimb1",
+  "nom": "Kimbe",
+  "pays": "pg",
+  "pays_nom": "Papua New Guinea",
+  "continent": "oceanie",
+  "type": "Diocese Name: Kimbe / 金貝 (正體中文) / Kimben(sis) (Latin)Ecclesiastical Province: RabaulNeighbouring Dioceses: Lae (↙), Kavieng (↑), Rabaul (↗)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2003.07.04: Established as Diocese of Kimbe / 金貝 (正體中文) / Kimben(sis) (Latin) (from Metropolitan Archdiocese of Rabaul and became suffragan of Rabaul)Contact InfoAddress: Bishop’s House, P.O. Box 182, Kimbe 621, West New Britain Province, Papua New GuineaPhone: 983.49.25Present PrelatesBishop (2019.10.18 – ...):Bishop John Bosco Auram (53)OrdinariesBishops of Kimbe (Roman Rite)Bishop John Bosco Auram (53)  (2019.10.18 – ...)Bishop of Kimbe (Papua New Guinea)Veritas in caritateBorn:1972.10.19 (Kandoka, Papua New Guinea)Ordained Priest:2004.01.17Consecrated Bishop:2020.01.25Priest of Kimbe (Papua New Guinea) (2004.01.17 – 2019.10.18)Bishop of Kimbe (Papua New Guinea) (2019.10.18 – ...)Bishop William Regis Fey, O.F.M. Cap.  (2010.06.08 – 2019.10.18)Bikpela em I lait bilong miBorn:1942.11.06 (Pittsburgh, PA, USA)Ordained Priest:1968.10.19Consecrated Bishop:2010.10.09Died:2021.01.19 (Kimbe, Papua New Guinea † 78)Bishop of Kimbe (Papua New Guinea) (2010.06.08 – 2019.10.18)Bishop Alphonse Liguori Chaupa  (2003.07.04 – 2008.01.19)Born:1959.07.26 (Uvol, Papua New Guinea)Ordained Priest:1987.01.10Consecrated Bishop:2000.09.30Died:2016.03.21 († 56)Priest of Rabaul (Papua New Guinea) (1987.01.10 – 2000.06.24)Titular Bishop of Turris Tamalleni (2000.06.24 – 2003.07.04)Auxiliary Bishop of Rabaul (Papua New Guinea) (2000.06.24 – 2003.07.04)Bishop of Kimbe (Papua New Guinea) (2003.07.04 – 2008.01.19)Special ChurchesCathedral:  Cathedral of Sts. Peter and Paul, Kimbe, West New Britain Show MapLae (↙), Kavieng (↑), Rabaul (↗)Statistics (2018.12.31)Area: 25,300 km²Population: 289,000 Catholics (80.1% of 361,000 total)Pastoral Centres: 19 parishesPersonnel: 46 priests (39 diocesan, 7 religious), 31 religious (12 brothers, 19 sisters), 32 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kimb1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 361000,
+    "catholiques": 289000,
+    "pourcentage_catholiques": 80.1
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 46,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

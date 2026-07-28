@@ -1,0 +1,29 @@
+{
+  "id": "cu-holg0",
+  "nom": "Holguín",
+  "pays": "cu",
+  "pays_nom": "Cuba",
+  "continent": "unknown",
+  "type": "Diocese Name: Holguín / Holguinen(sis) (Latin)Ecclesiastical Province: SantiagoNeighbouring Dioceses: Bayamo y Manzanillo (↙), Camagüey (←), Guantánamo–Baracoa (↘), Santiago (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1979.01.08: Established as Diocese of Holguín / Holguinen(sis) (Latin) (from Metropolitan Archdiocese of Santiago and became suffragan of Santiago)Papal VisitsPope Francis (2015.09)Present PrelatesBishop (2005.11.14 – ...):Bishop Emilio Aranguren Echeverría (75)Auxiliary Bishop (2021.03.19 – ...):Bishop Marcos Pirán Gómez (65)Titular Bishop of BosetaApostolic Administrator of Guantánamo–Baracoa (Cuba)Monsignors (3)OrdinariesBishops of Holguín (Roman Rite)Bishop Emilio Aranguren Echeverría (75)  (2005.11.14 – ...)Bishop of Holguín (Cuba)Born:1950.09.02 (Santa Clara, Cuba)Ordained Priest:1976.02.01Consecrated Bishop:1991.06.23Priest of Cienfuegos–Santa Clara (Cuba) (1976.02.01 – 1991.04.30)General Secretary of Catholic Bishops’ Conference of Cuba (1991 – 2006)Titular Bishop of Cellæ in Proconsulari (1991.04.30 – 1995.04.01)Auxiliary Bishop of Cienfuegos–Santa Clara (Cuba) (1991.04.30 – 1995.04.01)Bishop of Cienfuegos (Cuba) (1995.04.01 – 2005.11.14)Bishop of Holguín (Cuba) (2005.11.14 – ...)President of Catholic Bishops’ Conference of Cuba (2017.11.10 – 2024.11.07)Bishop Héctor Luis Lucas Peña Gómez  (1979.01.08 – 2005.11.14)Born:1929.10.18 (Velasco, Cuba)Ordained Priest:1955.06.26Consecrated Bishop:1970.03.19Died:2025.12.18 (Holguín, Cuba † 96)Priest of Santiago (Cuba) (1955.06.26 – 1970.01.12)Titular Bishop of Novaliciana (1970.01.12 – 1979.01.08)Auxiliary Bishop of Santiago (Cuba) (1970.01.12 – 1979.01.08)Bishop of Holguín (Cuba) (1979.01.08 – 2005.11.14)Special ChurchesCathedral:  Catedral San Isidoro, Holguín, Holquin Jubilee Churches in the Holy Year 2025Show MapBayamo y Manzanillo (↙), Camagüey (←), Guantánamo–Baracoa (↘), Santiago (↓)Statistics (2022.12.31)Area: 14,089 km²Population: 436,900 Catholics (26.6% of 1,643,200 total)Pastoral Centres: 32 parishes, 60 missionsPersonnel: 35 priests (20 diocesan, 15 religious), 5 deacons, 60 religious (18 brothers, 42 sisters), 1 seminarianPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "holg0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1643200,
+    "catholiques": 436900,
+    "pourcentage_catholiques": 26.6
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

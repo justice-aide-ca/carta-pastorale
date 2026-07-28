@@ -1,0 +1,29 @@
+{
+  "id": "ke-kaps0",
+  "nom": "Kapsabet",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Kapsabet / Kapsabeten(sis) (Latin)Ecclesiastical Province: KisumuNeighbouring Dioceses: Kisumu (↙), Kakamega (←), Eldoret (↗), Kericho (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2025.07.10: Established as Diocese of Kapsabet / Kapsabeten(sis) (Latin) (from Diocese of Eldoret and became suffragan of Kisumu)Present PrelatesBishop (2025.07.10 – ...):Bishop John Kiplimo Lelei (67)OrdinariesBishops of Kapsabet (Roman Rite)Bishop John Kiplimo Lelei (67)  (2025.07.10 – ...)Bishop of Kapsabet (Kenya)Born:1958.08.15 (Soy, Kenya)Ordained Priest:1985.10.26Consecrated Bishop:2024.05.25Priest of Eldoret (Kenya) (1985.10.26 – 2024.03.27)Titular Bishop of Mons in Numidia (2024.03.27 – 2025.07.10)Auxiliary Bishop of Eldoret (Kenya) (2024.03.27 – 2025.07.10)Bishop of Kapsabet (Kenya) (2025.07.10 – ...)Special ChurchesCathedral:  Cathedral of St. Peter, Kapsabet, Nandi Churches by City (39)Show MapKisumu (↙), Kakamega (←), Eldoret (↗), Kericho (↓)Statistics (2025)Area: 2,888 km²Population: 313,655 Catholics (35.4% of 885,711 total)Pastoral Centres: 36 parishesPersonnel: 52 priests (44 diocesan, 8 religious), 44 religious (44 sisters), 29 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kaps0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 885711,
+    "catholiques": 313655,
+    "pourcentage_catholiques": 35.4
+  },
+  "ressources": {
+    "pretres_diocesains": 44,
+    "pretres_religieux": null,
+    "total_pretres": 52,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

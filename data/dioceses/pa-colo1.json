@@ -1,0 +1,29 @@
+{
+  "id": "pa-colo1",
+  "nom": "Colón–Kuna Yala",
+  "pays": "pa",
+  "pays_nom": "Panama",
+  "continent": "unknown",
+  "type": "Diocese Name: Colón–Kuna Yala / Columben(sis)–Kunayalen(sis) (Latin)Ecclesiastical Province: PanamáNeighbouring Dioceses: Penonomé (↙), Santiago de Veraguas (←), Apartadó (→), Darién (↘), Panamá (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1988.12.15: Established as Diocese of Colón / Colonen(sis) (Latin) (from Apostolic Vicariate of Darién and became suffragan of Panamá)1997.06.13: Renamed as Diocese of Colón–Kuna Yala / Columben(sis)–Kunayalen(sis) (Latin)Present PrelatesBishop (2014.07.07 – ...):Bishop Manuel Ochogavía Barahona, O.S.A. (58)General Secretary of Episcopal Conference of PanamaOrdinariesBishops of Colón–Kuna Yala (Roman Rite)Bishop Manuel Ochogavía Barahona, O.S.A. (58)  (2014.07.07 – ...)Bishop of Colón–Kuna Yala (Panama)General Secretary of Episcopal Conference of PanamaAmor vincit omniaBorn:1967.07.23 (Las Tablas, Panama)Ordained Priest:2002.05.04Consecrated Bishop:2014.09.27Bishop of Colón–Kuna Yala (Panama) (2014.07.07 – ...)General Secretary of Episcopal Conference of Panama (2016.01 – ...)Bishop Audilio Aguilar Aguilar (62)  (Apostolic Administrator 2013.04.30 – 2014.07.07)Bishop Audilio Aguilar Aguilar (62)  (2005.06.18 – 2013.04.30)Bishop of Santiago de Veraguas (Panama)In nomine tuo Domine / En tu nombre SeñorBorn:1963.08.04 (Cañazas, Panama)Ordained Priest:1990.08.04Consecrated Bishop:2005.08.06Priest of Santiago de Veraguas (Panama) (1990.08.04 – 2005.06.18)Bishop of Colón–Kuna Yala (Panama) (2005.06.18 – 2013.04.30)Vice-President of Episcopal Conference of Panama (2010 – 2016.01)Apostolic Administrator of Colón–Kuna Yala (Panama) (2013.04.30 – 2014.07.07)Bishop of Santiago de Veraguas (Panama) (2013.04.30 – ...)Bishop Carlos María Ariz Bolea, C.M.F.  (1997.06.13 – 2005.06.18)Fuertes en la feBorn:1928.12.06 (Marcilla, Spain)Ordained Priest:1953.06.28Consecrated Bishop:1981.11.21Died:2015.08.29 († 86)Titular Bishop of Nigræ maiores (1981.07.22 – 1988.12.15)Vicar Apostolic of Darién (Panama) (1981.07.22 – 1988.12.15)Bishop of Colón (Panama) (1988.12.15 – 1997.06.13)Bishop of Colón–Kuna Yala (Panama) (1997.06.13 – 2005.06.18)Bishops of Colón (Roman Rite)Bishop Carlos María Ariz Bolea, C.M.F.  (1988.12.15 – 1997.06.13)(see above)Special ChurchesCathedral:  Catedral de la Inmaculada Concepción de María, Colón, Colón Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapPenonomé (↙), Santiago de Veraguas (←), Apartadó (→), Darién (↘), Panamá (↓)Statistics (2022.12.31)Area: 7,208 km²Population: 220,830 Catholics (73.1% of 302,000 total)Pastoral Centres: 21 parishes, 5 missionsPersonnel: 33 priests (28 diocesan, 5 religious), 35 religious (10 brothers, 25 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "colo1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 302000,
+    "catholiques": 220830,
+    "pourcentage_catholiques": 73.1
+  },
+  "ressources": {
+    "pretres_diocesains": 28,
+    "pretres_religieux": null,
+    "total_pretres": 33,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

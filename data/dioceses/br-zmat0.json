@@ -1,0 +1,29 @@
+{
+  "id": "br-zmat0",
+  "nom": "São Mateus",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: São Mateus / Sancti Matthæi (Latin)Ecclesiastical Province: VitóriaNeighbouring Dioceses: Colatina (↙), Governador Valadares (←), Teófilo Otoni (↖), Teixeira de Freitas–Caravelas (↑)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Matthew (September 21)Cathedral Dedication Anniversary: May 28 (1989)Liturgical Calendar (National) 📅History1958.02.16: Established as Diocese of São Mateus / Sancti Matthæi (Latin) (from Diocese of Espírito Santo and became suffragan of Vitória)1997.11.28: Gained territory from Diocese of ColatinaPresent PrelatesBishop (2015.10.21 – ...):Bishop Paulo Bosi Dal’Bó (63)Monsignors (1)OrdinariesBishops of São Mateus (Roman Rite)Bishop Paulo Bosi Dal’Bó (63)  (2015.10.21 – ...)Bishop of São Mateus (Brazil)Venio ut ministrareBorn:1962.08.27 (Colatina, ES, Brazil)Ordained Priest:2000.06.10Consecrated Bishop:2015.12.12Priest of Colatina (Brazil) (2000.06.10 – 2015.10.21)Bishop of São Mateus (Brazil) (2015.10.21 – ...)Bishop Zanoni Demettino Castro (64) (later Archbishop)  (2007.10.03 – 2014.12.03)Metropolitan Archbishop of Feira de Santana (Brazil)Ecce mitte meBorn:1962.01.23 (Vitória da Conquista, BA, Brazil)Ordained Priest:1986.12.28Consecrated Bishop:2007.11.24Priest of Vitória da Conquista (Brazil) (1986.12.28 – 2007.10.03)Bishop of São Mateus (Brazil) (2007.10.03 – 2014.12.03)Coadjutor Archbishop of Feira de Santana (Brazil) (2014.12.03 – 2015.11.18)Metropolitan Archbishop of Feira de Santana (Brazil) (2015.11.18 – ...)Bishop Aldo Gerna, M.C.C.J. (95)  (1971.05.18 – 2007.10.03)Bishop emeritus of São Mateus (Brazil)Scio Cui CredidiBorn:1931.05.07 (Arigna, Italy)Ordained Priest:1956.12.22Consecrated Bishop:1971.08.01Bishop of São Mateus (Brazil) (1971.05.18 – 2007.10.03)Bishop José Dalvit, F.S.C.I.  (1959.05.09 – 1970.05.14)Born:1919.09.15 (Pressano, Italy)Ordained Priest:1943.04.10Consecrated Bishop:1959.06.29Died:1977.01.17 (São Mateus, ES, Brazil † 57)Bishop of São Mateus (Brazil) (1959.05.09 – 1970.05.14)Titular Bishop of Sullectum (1970.05.14 – 1971.03.16)Titular Bishop of Munatiana (1973.10.05 – 1977.01.17)Auxiliary Bishop of Belo Horizonte (Brazil) (1973.10.05 – 1977.01.17)Special ChurchesCathedral:  Catedral São Mateus, São Mateus, Espírito Santo Former Cathedral:  Igreja Nossa Senhora, São Mateus, Espírito Santo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (29)Show MapColatina (↙), Governador Valadares (←), Teófilo Otoni (↖), Teixeira de Freitas–Caravelas (↑)Statistics (2022.12.31)Area: 15,495 km²Population: 287,080 Catholics (60.0% of 478,468 total)Pastoral Centres: 26 parishes, 722 missionsPersonnel: 41 priests (38 diocesan, 3 religious), 1 deacon, 44 religious (20 brothers, 24 sisters), 12 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zmat0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 478468,
+    "catholiques": 287080,
+    "pourcentage_catholiques": 60.0
+  },
+  "ressources": {
+    "pretres_diocesains": 38,
+    "pretres_religieux": null,
+    "total_pretres": 41,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

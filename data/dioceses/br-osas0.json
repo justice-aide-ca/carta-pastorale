@@ -1,0 +1,29 @@
+{
+  "id": "br-osas0",
+  "nom": "Osasco",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Osasco / Osascanen(sis) (Latin)Ecclesiastical Province: São PauloNeighbouring Dioceses: Registro (↙), Sorocaba (←), Jundiaí (↑), São Paulo (↘), Campo Limpo (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Santo António de Lisboa (June 13)Liturgical Calendar (National) 📅History1989.03.15: Established as Diocese of Osasco / Osascanen(sis) (Latin) (from Metropolitan Archdiocese of São Paulo and became suffragan of São Paulo)Present PrelatesBishop (2014.04.16 – ...):Bishop João Bosco Barbosa de Sousa, O.F.M. (73)Monsignors (3)OrdinariesBishops of Osasco (Roman Rite)Bishop João Bosco Barbosa de Sousa, O.F.M. (73)  (2014.04.16 – ...)Bishop of Osasco (Brazil)Cristo nossa VitóriaBorn:1952.12.08 (Guaratinguetá, SP, Brazil)Ordained Priest:1978.01.07Consecrated Bishop:2007.03.25Bishop of União da Vitória (Brazil) (2007.01.03 – 2014.04.16)Bishop of Osasco (Brazil) (2014.04.16 – ...)Bishop Ercílio Turco  (2002.04.24 – 2014.04.16)Evangelium Dei evangelizareBorn:1938.03.13 (Campinas, SP, Brazil)Ordained Priest:1963.12.01Consecrated Bishop:1990.02.04Died:2019.10.30 (São Paulo, SP, Brazil † 81)Priest of Campinas (Brazil) (1963.12.01 – 1989.11.18)Bishop of Limeira (Brazil) (1989.11.18 – 2002.04.24)Bishop of Osasco (Brazil) (2002.04.24 – 2014.04.16)Bishop Francisco Manuel Vieira  (1989.03.15 – 2002.04.24)In virtute DeiBorn:1925.10.29 (Rio Tinto, PB, Brazil)Ordained Priest:1952.12.08Consecrated Bishop:1975.01.25Died:2013.12.23 (Osasco, SP, Brazil † 88)Priest of São Paulo (Brazil) (1952.12.08 – 1974.12.12)Titular Bishop of Hippo Diarrhytus (1974.12.12 – 1989.03.15)Auxiliary Bishop of São Paulo (Brazil) (1974.12.12 – 1989.03.15)Bishop of Osasco (Brazil) (1989.03.15 – 2002.04.24)Special ChurchesCathedral:  Catedral Santo Antônio, Osasco, São Paulo Churches by City (90)Show MapRegistro (↙), Sorocaba (←), Jundiaí (↑), São Paulo (↘), Campo Limpo (↓)Statistics (2022.12.31)Area: 2,495 km²Population: 2,229,000 Catholics (82.3% of 2,707,964 total)Pastoral Centres: 90 parishes, 522 missionsPersonnel: 172 priests (121 diocesan, 51 religious), 1 deacon, 184 religious (64 brothers, 120 sisters), 50 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "osas0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2707964,
+    "catholiques": 2229000,
+    "pourcentage_catholiques": 82.3
+  },
+  "ressources": {
+    "pretres_diocesains": 121,
+    "pretres_religieux": null,
+    "total_pretres": 172,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 90
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

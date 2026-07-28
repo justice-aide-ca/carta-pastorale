@@ -1,0 +1,29 @@
+{
+  "id": "br-cara2",
+  "nom": "Caraguatatuba",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Caraguatatuba / Caraguatatuben(sis) (Latin)Ecclesiastical Province: AparecidaNeighbouring Dioceses: São José dos Campos (↑)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1999.03.03: Established as Diocese of Caraguatatuba / Caraguatatuben(sis) (Latin) (from Diocese of Santos and became suffragan of São Paulo)2001.01.26: Became suffragan of AparecidaPresent PrelatesBishop (2013.06.19 – ...):Bishop José Carlos Chacorowski, C.M. (69)OrdinariesBishops of Caraguatatuba (Roman Rite)Bishop José Carlos Chacorowski, C.M. (69)  (2013.06.19 – ...)Bishop of Caraguatatuba (Brazil)Evangelizare pauperibus misitBorn:1956.12.26 (Curitiba, PR, Brazil)Ordained Priest:1980.07.02Consecrated Bishop:2011.02.19Titular Bishop of Casæ nigræ (2010.12.22 – 2013.06.19)Auxiliary Bishop of São Luís do Maranhão (Brazil) (2010.12.22 – 2013.06.19)Bishop of Caraguatatuba (Brazil) (2013.06.19 – ...)Bishop Antônio Carlos Altieri, S.D.B. (74) (later Archbishop)  (2006.07.26 – 2012.07.11)Metropolitan Archbishop emeritus of Passo Fundo (Brazil)Nós acreditamos no amorBorn:1951.10.18 (São Paulo, SP, Brazil)Ordained Priest:1978.12.17Consecrated Bishop:2006.10.28Bishop of Caraguatatuba (Brazil) (2006.07.26 – 2012.07.11)Metropolitan Archbishop of Passo Fundo (Brazil) (2012.07.11 – 2015.07.15)Bishop Fernando Mason, O.F.M. Conv. (81)  (1999.03.03 – 2005.05.25)Bishop emeritus of Piracicaba (Brazil)Christus Factus ObediensBorn:1945.01.21 (Loreggia, Italy)Ordained Priest:1971.04.03Consecrated Bishop:1999.05.01Bishop of Caraguatatuba (Brazil) (1999.03.03 – 2005.05.25)Bishop of Piracicaba (Brazil) (2005.05.25 – 2020.11.11)Special ChurchesCathedral:  Catedral Divino Espírito Santo, Caraguatatuba, São Paulo Jubilee Churches in the Holy Year 2025Churches by City (19)Show MapSão José dos Campos (↑)Statistics (2022.12.31)Area: 1,949 km²Population: 204,000 Catholics (59.2% of 344,329 total)Pastoral Centres: 20 parishesPersonnel: 30 priests (27 diocesan, 3 religious), 19 deacons, 15 religious (3 brothers, 12 sisters), 4 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cara2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 344329,
+    "catholiques": 204000,
+    "pourcentage_catholiques": 59.2
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 20
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

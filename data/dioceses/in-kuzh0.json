@@ -1,0 +1,29 @@
+{
+  "id": "in-kuzh0",
+  "nom": "Kuzhithurai",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Kuzhithurai / Kuzhithuraien(sis) (Latin)Ecclesiastical Province: MaduraiNeighbouring Dioceses: Neyyattinkara (↖), Palayamkottai (↗), Kottar (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2014.12.22: Established as Diocese of Kuzhithurai / Kuzhithuraien(sis) (Latin) (from Diocese of Kottar and became suffragan of Madurai)Present PrelatesBishop (2024.01.13 – ...):Bishop Albert George Alexander Anastas (59)OrdinariesBishops of Kuzhithurai (Roman Rite)Bishop Albert George Alexander Anastas (59)  (2024.01.13 – ...)Bishop of Kuzhithurai (India)Born:1966.12.16 (Manavilai, India)Ordained Priest:1992.04.26Consecrated Bishop:2024.02.22Priest of Kottar (India) (1992.04.26 – 2024.01.13)Bishop of Kuzhithurai (India) (2024.01.13 – ...)Archbishop Antony Pappusamy (76)  (Apostolic Administrator 2020.06.06 – 2024.01.13)Bishop Jerome Dhas Varuvel, S.D.B.  (2014.12.22 – 2020.06.06)The Lord is my shepherdBorn:1951.10.21 (Paduvoor, India)Ordained Priest:1985.06.02Consecrated Bishop:2015.02.24Died:2026.03.24 (Chetpet, India † 74)Bishop of Kuzhithurai (India) (2014.12.22 – 2020.06.06)Special ChurchesCathedral:  Cathedral of the Holy Trinity, Thiruthuvapuram, Tamil Nādu Minor Basilica:  Basilica of Our Lady of Nativity, Mulagumoodu, Tamil Nādu Show MapNeyyattinkara (↖), Palayamkottai (↗), Kottar (↘)Statistics (2022.12.31)Area: 915 km²Population: 253,140 Catholics (32.0% of 790,895 total)Pastoral Centres: 105 parishesPersonnel: 162 priests (108 diocesan, 54 religious), 297 religious (59 brothers, 238 sisters), 36 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "kuzh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 790895,
+    "catholiques": 253140,
+    "pourcentage_catholiques": 32.0
+  },
+  "ressources": {
+    "pretres_diocesains": 108,
+    "pretres_religieux": null,
+    "total_pretres": 162,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 105
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

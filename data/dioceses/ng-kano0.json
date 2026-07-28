@@ -1,0 +1,29 @@
+{
+  "id": "ng-kano0",
+  "nom": "Kano",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Kano / Kanen(sis) (Latin)Ecclesiastical Province: KadunaNeighbouring Dioceses: Zaria (↙), Katsina (↖), Maradi (↑), Maiduguri (→), Bauchi (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1991.03.22: Established as Mission sui juris of Kano / Kanen(sis) (Latin) (from Metropolitan Archdiocese of Kaduna)1995.12.15: Promoted as Apostolic Vicariate of Kano / Kanen(sis) (Latin)1999.06.22: Promoted as Diocese of Kano / Kanen(sis) (Latin) (became suffragan of Kaduna)Present PrelatesBishop (2008.03.20 – ...):Bishop John Namaza Niyiring, O.S.A. (66)OrdinariesBishops of Kano (Roman Rite)Bishop John Namaza Niyiring, O.S.A. (66)  (2008.03.20 – ...)Bishop of Kano (Nigeria)Lucerna lucensBorn:1960.06.04 (Zonkwa, Nigeria)Ordained Priest:1992.07.12Consecrated Bishop:2008.05.13Bishop of Kano (Nigeria) (2008.03.20 – ...)Bishop Patrick Francis Sheehan, O.S.A.  (1999.06.22 – 2008.03.20)Born:1932.05.28 (Boyle, Ireland)Ordained Priest:1956.02.25Consecrated Bishop:1971.01.06Died:2012.11.08 († 80)Bishop of Yola (Nigeria) (1970.09.21 – 1996.07.05)Vicar Apostolic of Kano (Nigeria) (1996.07.05 – 1999.06.22)Bishop of Kano (Nigeria) (1999.06.22 – 2008.03.20)Vicars Apostolic of Kano (Roman Rite)Bishop Patrick Francis Sheehan, O.S.A.  (1996.07.05 – 1999.06.22)(see above)Ecclesiastical Superiors of Kano (Roman Rite)Fr. John Francis Brown, S.M.A.  (1991 – 1995)Ecclesiastical Superior of Kano (Nigeria) (1991 – 1995)Special ChurchesCathedral:  Cathedral of Our Lady of Fatima, Kano, Kano Show MapZaria (↙), Katsina (↖), Maradi (↑), Maiduguri (→), Bauchi (↘)Statistics (2022.12.31)Area: 43,819 km²Population: 254,200 Catholics (1.8% of 14,325,400 total)Pastoral Centres: 36 parishesPersonnel: 44 priests (38 diocesan, 6 religious), 19 religious (6 brothers, 13 sisters), 30 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kano0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 14325400,
+    "catholiques": 254200,
+    "pourcentage_catholiques": 1.8
+  },
+  "ressources": {
+    "pretres_diocesains": 38,
+    "pretres_religieux": null,
+    "total_pretres": 44,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

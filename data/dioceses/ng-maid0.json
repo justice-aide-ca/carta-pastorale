@@ -1,0 +1,29 @@
+{
+  "id": "ng-maid0",
+  "nom": "Maiduguri",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Maiduguri / Maidugurien(sis) (Latin)Ecclesiastical Province: JosNeighbouring Dioceses: Bauchi (↙), Kano (←), Maradi (↖), N’Djaména (↗), Yagoua (→), Maroua–Mokolo (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1953.06.29: Established as Apostolic Prefecture of Maiduguri / Maidugurien(sis) (Latin) (from Apostolic Prefecture of Jos)1966.06.07: Promoted as Diocese of Maiduguri / Maidugurien(sis) (Latin) (became suffragan of Kaduna)1994.03.26: Became suffragan of JosPresent PrelatesBishop (2009.06.06 – ...):Bishop Oliver Dashe Doeme (65)Auxiliary Bishop (2022.04.12 – ...):Bishop John Bogna Bakeni (51)Titular Bishop of LeptiminusOrdinariesBishops of Maiduguri (Roman Rite)Bishop Oliver Dashe Doeme (65)  (2009.06.06 – ...)Bishop of Maiduguri (Nigeria)Born:1960.12.13 (Kwanoeng, Nigeria)Ordained Priest:1997.10.18Consecrated Bishop:2009.08.13Priest of Jos (Nigeria) (1997.10.18 – 2007.06.02)Priest of Shendam (Nigeria) (2007.06.02 – 2009.06.06)Bishop of Maiduguri (Nigeria) (2009.06.06 – ...)Bishop Matthew Man-oso Ndagoso (66) (later Archbishop)  (2003.02.28 – 2007.11.16)Metropolitan Archbishop of Kaduna (Nigeria)Vice-President of Catholic Bishops’ Conference of NigeriaTo others as to youBorn:1960.01.03 (Lot, Nigeria)Ordained Priest:1986.10.04Consecrated Bishop:2003.05.01Priest of Yola (Nigeria) (1986.10.04 – 2003.02.28)Bishop of Maiduguri (Nigeria) (2003.02.28 – 2007.11.16)Metropolitan Archbishop of Kaduna (Nigeria) (2007.11.16 – ...)Vice-President of Catholic Bishops’ Conference of Nigeria (2022.03.09 – ...)Bishop Senan Louis O’Donnell, O.S.A.  (1993.09.18 – 2003.02.06)Born:1927.02.24 (Scattery Island, Ireland)Ordained Priest:1955.07.17Consecrated Bishop:1993.11.28Died:2023.04.12 (Dún Laoghaire, Ireland † 96)Apostolic Administrator of Maiduguri (Nigeria) (1990.06.15 – 1993.09.18)Bishop of Maiduguri (Nigeria) (1993.09.18 – 2003.02.06)Fr. Senan Louis O’Donnell, O.S.A. (later Bishop)  (Apostolic Administrator 1990.06.15 – 1993.09.18)Bishop James Timothy Kieran Cotter, O.S.A.  (1966.06.07 – 1988.03.15)Born:1916.06.14 (Abbeyfeale, Limerick, Ireland)Ordained Priest:1941.07.13Consecrated Bishop:1966.09.08Died:1988.03.15 († 71)Prefect Apostolic of Maiduguri (Nigeria) (1962.07.05 – 1966.06.07)Bishop of Maiduguri (Nigeria) (1966.06.07 – 1988.03.15)Prefects Apostolic of Maiduguri (Roman Rite)Fr. James Timothy Kieran Cotter, O.S.A. (later Bishop)  (1962.07.05 – 1966.06.07)(see above)Special ChurchesCathedral:  St. Patrick’s Cathedral, Maiduguri, Borno Show MapBauchi (↙), Kano (←), Maradi (↖), N’Djaména (↗), Yagoua (→), Maroua–Mokolo (↘)Statistics (2022.12.31)Area: 132,000 km²Population: 226,000 Catholics (3.1% of 7,250,000 total)Pastoral Centres: 43 parishes, 5 missionsPersonnel: 65 priests (61 diocesan, 4 religious), 16 religious (4 brothers, 12 sisters), 46 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "maid0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 7250000,
+    "catholiques": 226000,
+    "pourcentage_catholiques": 3.1
+  },
+  "ressources": {
+    "pretres_diocesains": 61,
+    "pretres_religieux": null,
+    "total_pretres": 65,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 43
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

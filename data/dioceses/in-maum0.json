@@ -1,0 +1,29 @@
+{
+  "id": "in-maum0",
+  "nom": "Maumere",
+  "pays": "in",
+  "pays_nom": "Indonesia",
+  "continent": "unknown",
+  "type": "Diocese Name: Maumere / Maumeren(sis) (Latin)Ecclesiastical Province: EndeNeighbouring Dioceses: Ende (←), Larantuka (→), Kupang (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2005.12.14: Established as Diocese of Maumere / Maumeren(sis) (Latin) (from Metropolitan Archdiocese of Ende and became suffragan of Ende)Papal VisitsPope John Paul II (1989.10)Present PrelatesBishop (2018.07.14 – ...):Bishop Ewaldus Martinus Sedu (62)OrdinariesBishops of Maumere (Roman Rite)Bishop Ewaldus Martinus Sedu (62)  (2018.07.14 – ...)Bishop of Maumere (Indonesia)Duc in altumBorn:1963.07.30 (Bajawa, Nusa Tenggara Timur, Indonesia)Ordained Priest:1991.07.07Consecrated Bishop:2018.09.26Priest of Ende (Indonesia) (1991.07.07 – 2005.12.14)Priest of Maumere (Indonesia) (2005.12.14 – 2018.07.14)Bishop of Maumere (Indonesia) (2018.07.14 – ...)Bishop Gerulfus Kherubim Pareira, S.V.D.  (2008.01.19 – 2018.07.14)Ut omnes unum sintBorn:1941.09.26 (Lela, Nusa Tenggara Timur, Indonesia)Ordained Priest:1971.08.16Consecrated Bishop:1986.04.25Died:2024.10.08 (Maumere, Nusa Tenggara Timur, Indonesia † 83)Bishop of Weetebula (Indonesia) (1985.12.21 – 2008.01.19)Bishop of Maumere (Indonesia) (2008.01.19 – 2018.07.14)Bishop Vincentius Sensi Potokota (later Archbishop)  (2005.12.14 – 2007.04.14)Prædica Verbum Opportune ImportuneBorn:1951.07.11 (Saga, Nusa Tenggara Timur, Indonesia)Ordained Priest:1980.05.11Consecrated Bishop:2006.04.23Died:2023.11.19 (Jakarta, Jakarta Raya, Indonesia † 72)Priest of Ende (Indonesia) (1980.05.11 – 2005.12.14)Bishop of Maumere (Indonesia) (2005.12.14 – 2007.04.14)Metropolitan Archbishop of Ende (Indonesia) (2007.04.14 – 2023.11.19)Special ChurchesCathedral:  Katedral Santo Yosef, Maumere, Nusa Tenggara Timur, Nusa Tenggara Jubilee Churches in the Holy Year 2025Churches by City (48)Show MapEnde (←), Larantuka (→), Kupang (↘)Statistics (2020.12.31)Area: 1,731 km²Population: 297,000 Catholics (86.8% of 342,000 total)Pastoral Centres: 36 parishes, 1 missionPersonnel: 240 priests (63 diocesan, 177 religious), 838 religious (597 brothers, 241 sisters), 42 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "maum0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 342000,
+    "catholiques": 297000,
+    "pourcentage_catholiques": 86.8
+  },
+  "ressources": {
+    "pretres_diocesains": 63,
+    "pretres_religieux": null,
+    "total_pretres": 240,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cr-punt1",
+  "nom": "Puntarenas",
+  "pays": "cr",
+  "pays_nom": "Costa Rica",
+  "continent": "unknown",
+  "type": "Diocese Name: Puntarenas / Puntarenen(sis) (Latin)Ecclesiastical Province: San JoséNeighbouring Dioceses: Tilarán–Liberia (↖), Alajuela (↗), San José (→), Cartago (↘), San Isidro de El General (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nuestra Señora del Carmen (July 16)Cathedral Dedication Anniversary: December 16Liturgical Calendar 📅History1998.04.17: Established as Diocese of Puntarenas / Puntarenen(sis) (Latin) (from Diocese of San Isidro de El General and Diocese of Tilarán and became suffragan of San José)Present PrelatesBishop (2026.06.20 – ...):Bishop-elect Elímar Gerardo Carvajal Durán (50)OrdinariesBishops of Puntarenas (Roman Rite)Bishop-elect Elímar Gerardo Carvajal Durán (50)  (2026.06.20 – ...)Bishop of Puntarenas (Costa Rica)Born:1976.05.06 (Grecia, Costa Rica)Ordained Priest:2003.11.01Consecrated Bishop:2026.08.06Priest of Alajuela (Costa Rica) (2003.11.01 – 2026.06.20)Bishop of Puntarenas (Costa Rica) (2026.06.20 – ...)Bishop Óscar Gerardo Fernández Guillén (76)  (2003.06.04 – 2026.06.20)Bishop emeritus of Puntarenas (Costa Rica)Born:1949.12.22 (San Rafael de Oreamuno, Costa Rica)Ordained Priest:1977.07.08Consecrated Bishop:2003.07.25Priest of San José (Costa Rica) (1977.07.08 – 2003.06.04)Bishop of Puntarenas (Costa Rica) (2003.06.04 – 2026.06.20)General Secretary of Episcopal Conference of Costa Rica (2008 – 2011.08)President of Episcopal Conference of Costa Rica (2011.08 – 2017.08.11)Bishop Hugo Barrantes Ureña (later Archbishop)  (1998.04.17 – 2002.07.13)Duc in altumBorn:1936.05.21 (San Isidro de El General, Costa Rica)Ordained Priest:1961.12.23Consecrated Bishop:1998.07.16Died:2024.09.28 (San José, Costa Rica † 88)Priest of San Isidro de El General (Costa Rica) (1961.12.23 – 1998.04.17)Chaplain of His Holiness (1990.04.30 – 1998.04.17)Bishop of Puntarenas (Costa Rica) (1998.04.17 – 2002.07.13)Metropolitan Archbishop of San José (Costa Rica) (2002.07.13 – 2013.07.04)Vice-President of Episcopal Conference of Costa Rica (2005 – 2008)President of Episcopal Conference of Costa Rica (2008.09 – 2011.08)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen, Puntarenas, Puntarenas Jubilee Churches in the Holy Year 2025Show MapTilarán–Liberia (↖), Alajuela (↗), San José (→), Cartago (↘), San Isidro de El General (↘)Statistics (2022.12.31)Area: 3,930 km²Population: 202,660 Catholics (88.7% of 228,530 total)Pastoral Centres: 18 parishesPersonnel: 34 priests (24 diocesan, 10 religious), 30 religious (10 brothers, 20 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "punt1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 228530,
+    "catholiques": 202660,
+    "pourcentage_catholiques": 88.7
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 34,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

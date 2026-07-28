@@ -1,0 +1,29 @@
+{
+  "id": "cn-sian2",
+  "nom": "Xiangtan 湘潭",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Apostolic Prefecture Name: Xiangtan 湘潭 (中文) / Siangtan / Xiāngtán 湘潭 (简体中文) / Siangtanen(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Baoqing 寶慶 (↙), Changsha 長沙 (↑), Ji’an 吉安 (→), Hengzhou 衡州 (↓)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Hunan 湖南 CelebrationsLiturgical Calendar (Universal) 📅History1937.07.01: Established as Apostolic Prefecture of Xiangtan 湘潭 (中文) / Siangtan / Xiāngtán 湘潭 (简体中文) / Siangtanen(sis) (Latin) (from Apostolic Vicariate of Changsha 長沙)Present PrelatesPrefect Apostolic:vacantApostolic Administrator (2012 – ...):Archbishop Methodius Qu Ai-lin (屈藹林) (65)Metropolitan Archbishop of Changsha 長沙 (China)Apostolic Administrator of Yuanling 沅陵 (China)Apostolic Administrator of Hengzhou 衡州 (China)Apostolic Administrator of Changde 常德 (China)Apostolic Administrator of Yongzhou 永州 (China)Apostolic Administrator of Yueyang 岳陽 (China)Apostolic Administrator of Baoqing 寶慶 (China)Apostolic Administrator of Lixian 澧縣 (China)OrdinariesPrefects Apostolic of Xiangtan 湘潭 (Roman Rite)Archbishop Methodius Qu Ai-lin (屈藹林) (65)  (Apostolic Administrator 2012 – ...)Fr. Pacifico Calzolari, O.F.M.  (1938.04.08 – 1965)Born:1896.07.16 (Italy)Ordained Priest:1922Died:1965 († 69)Prefect Apostolic of Xiangtan 湘潭 (China) (1938.04.08 – 1965)Special ChurchesCathedral:  Cathedral of the Sacred Heart of Jesus, Xiangtan 湘潭, Hunan Show MapBaoqing 寶慶 (↙), Changsha 長沙 (↑), Ji’an 吉安 (→), Hengzhou 衡州 (↓)Statistics (1950.12.31)Area: 21,335 km²Population: 4,956 Catholics (0.1% of 4,000,000 total)Pastoral Centres: 35 missionsPersonnel: 12 priests (1 diocesan, 11 religious), 4 religious (4 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sian2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4000000,
+    "catholiques": 4956,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 1,
+    "pretres_religieux": null,
+    "total_pretres": 12,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

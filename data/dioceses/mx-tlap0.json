@@ -1,0 +1,29 @@
+{
+  "id": "mx-tlap0",
+  "nom": "Tlapa",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Tlapa / Tlapen(sis) (Latin)Ecclesiastical Province: AcapulcoNeighbouring Dioceses: Acapulco (↙), Chilpancingo–Chilapa (←), Puebla de los Ángeles (↑), Huajuapan de León (→)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History1992.01.04: Established as Diocese of Tlapa / Tlapen(sis) (Latin) (from Diocese of Chilpancingo–Chilapa and became suffragan of Acapulco)Contact InfoAddress: Anexo de Catedral, Centro, 41300 - Tlapa de Comonfort, Gro., MexicoPhone: (757) 4-76-08-35Present PrelatesBishop (2013.02.23 – ...):Bishop Dagoberto Sosa Arriaga (71)OrdinariesBishops of Tlapa (Roman Rite)Bishop Dagoberto Sosa Arriaga (71)  (2013.02.23 – ...)Bishop of Tlapa (Mexico)Cristo luz del mundoBorn:1955.04.15 (La Loma, Mexico)Ordained Priest:1983.04.24Consecrated Bishop:2011.04.12Priest of Puebla de los Ángeles (Mexico) (1983.04.24 – 2011.02.24)Titular Bishop of Gummi in Byzacena (2011.02.24 – 2013.02.23)Auxiliary Bishop of Puebla de los Ángeles (Mexico) (2011.02.24 – 2013.02.23)Bishop of Tlapa (Mexico) (2013.02.23 – ...)Bishop Oscar Roberto Domínguez Couttolenc, M.G. (70) (later Archbishop)  (2007.03.27 – 2012.07.17)Metropolitan Archbishop of Tulancingo (Mexico)Discípulo misioneroBorn:1956.05.13 (Puebla, Mexico)Ordained Priest:1983.08.11Consecrated Bishop:2007.06.11Bishop of Tlapa (Mexico) (2007.03.27 – 2012.07.17)Bishop of Ecatepec (Mexico) (2012.07.17 – 2024.07.03)Metropolitan Archbishop of Tulancingo (Mexico) (2024.07.03 – ...)Bishop Alejo Zavala Castro  (1992.01.04 – 2005.11.19)Born:1941.12.31 (Galeana, Mexico)Ordained Priest:1966.12.17Consecrated Bishop:1992.03.25Died:2025.11.02 (Morelia, Mexico † 83)Priest of Morelia (Mexico) (1966.12.17 – 1992.01.04)Bishop of Tlapa (Mexico) (1992.01.04 – 2005.11.19)Bishop of Chilpancingo–Chilapa (Mexico) (2005.11.19 – 2015.06.20)Special ChurchesCathedral:  Catedral de San Agustín, Tlapa de Comonfort, Guerrero Show MapAcapulco (↙), Chilpancingo–Chilapa (←), Puebla de los Ángeles (↑), Huajuapan de León (→)Statistics (2022.12.31)Area: 11,480 km²Population: 623,440 Catholics (97.8% of 637,560 total)Pastoral Centres: 37 parishes, 2 missionsPersonnel: 56 priests (48 diocesan, 8 religious), 91 religious (12 brothers, 79 sisters), 24 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tlap0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 637560,
+    "catholiques": 623440,
+    "pourcentage_catholiques": 97.8
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 56,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 37
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

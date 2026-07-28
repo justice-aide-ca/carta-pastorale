@@ -1,0 +1,29 @@
+{
+  "id": "ng-okig0",
+  "nom": "Okigwe",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Okigwe / Okigven(sis) (Latin)Ecclesiastical Province: OwerriNeighbouring Dioceses: Owerri (↙), Orlu (←), Ekwulobia (↖), Awgu (↗), Umuahia (↘), Ahiara (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1981.01.24: Established as Diocese of Okigwe / Okigven(sis) (Latin) (from Diocese of Umuahia and became suffragan of Onitsha)1994.03.26: Became suffragan of OwerriPresent PrelatesBishop (2006.04.22 – ...):Bishop Solomon Amanchukwu Amatu (75)Monsignors (14)OrdinariesBishops of Okigwe (Roman Rite)Bishop Solomon Amanchukwu Amatu (75)  (2006.04.22 – ...)Bishop of Okigwe (Nigeria)Adjutorium nostrum in nomine DominiBorn:1950.12.17 (Ukpo, Nigeria)Ordained Priest:1978.10.07Consecrated Bishop:2001.04.28Priest of Awka (Nigeria) (1978.10.07 – 2000.12.22)Chaplain of His Holiness (1995.01.12 – 2000.12.22)Titular Bishop of Sabrata (2000.12.22 – 2005.05.28)Auxiliary Bishop of Awka (Nigeria) (2000.12.22 – 2005.05.28)Coadjutor Bishop of Okigwe (Nigeria) (2005.05.28 – 2006.04.22)Bishop of Okigwe (Nigeria) (2006.04.22 – ...)Bishop Anthony Ekezia Ilonu  (1981.01.24 – 2006.04.22)Born:1937.11.13 (Ndiogbuonyeome, Nigeria)Ordained Priest:1964.12.19Consecrated Bishop:1981.03.29Died:2012.06.17 († 74)Priest of Umuahia (Nigeria) (1964.12.19 – 1981.01.24)Bishop of Okigwe (Nigeria) (1981.01.24 – 2006.04.22)Former PrelatesCoadjutor Bishop: Bishop Solomon Amanchukwu Amatu (75) (2005.05.28 – 2006.04.22)Special ChurchesCathedral:  St. Mary’s Cathedral, Okigwe, Imo Show MapOwerri (↙), Orlu (←), Ekwulobia (↖), Awgu (↗), Umuahia (↘), Ahiara (↓)Statistics (2022.12.31)Area: 1,386 km²Population: 948,229 Catholics (53.0% of 1,788,458 total)Pastoral Centres: 126 parishes, 34 missionsPersonnel: 351 priests (337 diocesan, 14 religious), 196 religious (38 brothers, 158 sisters), 136 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "okig0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1788458,
+    "catholiques": 948229,
+    "pourcentage_catholiques": 53.0
+  },
+  "ressources": {
+    "pretres_diocesains": 337,
+    "pretres_religieux": null,
+    "total_pretres": 351,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 126
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "rw-giko0",
+  "nom": "Gikongoro",
+  "pays": "rw",
+  "pays_nom": "Rwanda",
+  "continent": "unknown",
+  "type": "Diocese Name: Gikongoro / Ghikongoroën(sis) (Latin)Ecclesiastical Province: KigaliNeighbouring Dioceses: Cyangugu (←), Nyundo (↑), Kabgayi (↗), Butare (↘), Bubanza (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1992.03.30: Established as Diocese of Gikongoro / Ghikongoroën(sis) (Latin) (from Diocese of Butare and became suffragan of Kigali)Present PrelatesBishop (2014.11.26 – ...):Bishop Célestin Hakizimana (62)OrdinariesBishops of Gikongoro (Roman Rite)Bishop Célestin Hakizimana (62)  (2014.11.26 – ...)Bishop of Gikongoro (Rwanda)Duc in altumBorn:1963.08.14 (Kigali, Rwanda)Ordained Priest:1991.07.21Consecrated Bishop:2015.01.24Priest of Kigali (Rwanda) (1991.07.21 – 2014.11.26)General Secretary of Episcopal Conference of Rwanda (2011 – 2015)Bishop of Gikongoro (Rwanda) (2014.11.26 – ...)Bishop Philippe Rukamba (78)  (Apostolic Administrator 2012.05.28 – 2014.11.26)Bishop Jean-Baptiste Gahamanyi  (Apostolic Administrator sede plena 1994.11.11 – 1995?)Bishop Augustin Misago  (1992.03.30 – 2012.03.12)Omnia propter evangeliumBorn:1943 (Ruvune, Rwanda)Ordained Priest:1971.07.25Consecrated Bishop:1992.06.28Died:2012.03.12 († 68)Bishop of Gikongoro (Rwanda) (1992.03.30 – 2012.03.12)Special ChurchesCathedral:  Cathédrale de la Sainte Famille, Gikongoro, Sud Shrine:  Sanctuaire Notre-Dame de Kibeho, Kibeho, Sud Show MapCyangugu (←), Nyundo (↑), Kabgayi (↗), Butare (↘), Bubanza (↓)Statistics (2022.12.31)Area: 2,057 km²Population: 254,485 Catholics (39.8% of 639,225 total)Pastoral Centres: 17 parishes, 1 missionPersonnel: 53 priests (45 diocesan, 8 religious), 141 religious (27 brothers, 114 sisters), 40 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "giko0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 639225,
+    "catholiques": 254485,
+    "pourcentage_catholiques": 39.8
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

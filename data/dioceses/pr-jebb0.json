@@ -1,0 +1,29 @@
+{
+  "id": "pr-jebb0",
+  "nom": "Jebbeh–Sarba–Jounieh",
+  "pays": "pr",
+  "pays_nom": "Present Prelates",
+  "continent": "unknown",
+  "type": "Diocese , Proper eparchy of the Maronite PatriarchName: Jebbeh–Sarba–Jounieh / Joubbé–Sarba–Jounieh / Ioubben(sis), Sarben(sis) et Iunien(sis) Maronitarum (Latin)Governed by: Patriarchal See of AntiochNeighbouring Dioceses: Jbeil (↑), Baalbek–Deir Al-Ahmar (→), Beirut (↘), Antélias (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: History1986.05.02: Established as Diocese of Joubbé (became suffragan of Antioch)1990.06.09: Renamed as Diocese of Joubbé–Sarba (gained territory from the suppressed Diocese of Batroun–Jbeil and Diocese of Sarba)1999.06.05: Renamed as Diocese of Jebbeh–Sarba–Jounieh / Joubbé–Sarba–Jounieh / Ioubben(sis), Sarben(sis) et Iunien(sis) Maronitarum (Latin) (gained territory from the suppressed Diocese of Jounieh and lost territory to establish Diocese of Batroun)Papal VisitsPope John Paul II (1997.05)Pope Leo XIV (2025.11, 2025.12)Present PrelatesPatriarch ([2011.03.15] 2011.03.25 – ...):Cardinal Béchara Pierre Raï (86)Cardinal-PatriarchPresident of Synod of the Maronite ChurchPresident of Assembly of the Catholic Patriarchs and Bishops of LebanonPresident of Council of Catholic Patriarchs of the EastAuxiliary Bishop (2012.06.16 – ...):Bishop Paul Rouhana, O.L.M. (71)Titular Bishop of AntaradosAuxiliary Bishop (2016.06.17 – ...):Bishop Joseph Naffah (57)Titular Bishop of AradusAuxiliary Bishop (2025.06.14 – ...):Bishop Rafic El Warcha (54)Titular Bishop of Apamea in Syria of the MaronitesBishop of Curia of the MaronitesMonsignors (2)Former PrelatesAuxiliary Bishop: Bishop Maroun Ammar (70) (2012.06.16 – 2017.06.17)Auxiliary Bishop: Bishop Antoine Nabil Andari (76) (2011 – 2025.06.14)Auxiliary Bishop: Bishop Francis Némé Baïssari (1991.06.07 – 2012.06.16)Auxiliary Bishop: Bishop Guy-Paul Noujaim (91) (1990.06.09 – 2012.06.16)Special ChurchesCathedral:  Cathédrale Notre-Dame, Dimane, North Lebanon Cathedral:  Cathédrale Saint-Georges, Sarba, Mount Lebanon Cathedral:  Cathédrale Notre-Dame, Jounieh, Mount Lebanon National Shrine:  Sanctuaire Notre-Dame-du-Liban, Harissa, Mount Lebanon Show MapJbeil (↑), Baalbek–Deir Al-Ahmar (→), Beirut (↘), Antélias (↓)Statistics (2021.12.31)Population: 459,708 CatholicsPastoral Centres: 152 parishes, 2 missionsPersonnel: 291 priests (172 diocesan, 119 religious), 21 deacons, 246 religious (158 brothers, 88 sisters), 40 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jebb0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 172,
+    "pretres_religieux": null,
+    "total_pretres": 291,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 152
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

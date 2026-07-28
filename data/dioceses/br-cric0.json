@@ -1,0 +1,29 @@
+{
+  "id": "br-cric0",
+  "nom": "Criciúma",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Criciúma / Criciumen(sis) (Latin)Ecclesiastical Province: FlorianópolisNeighbouring Dioceses: Osório (↙), Caxias do Sul (←), Vacaria (←), Lages (↖), Tubarão (↗)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: São JoséLiturgical Calendar (National) 📅History1998.05.27: Established as Diocese of Criciúma / Criciumen(sis) (Latin) (from Diocese of Tubarão and became suffragan of Florianópolis)Present PrelatesBishop (2009.09.16 – ...):Bishop Jacinto Inácio Flach (74)Coadjutor Bishop (2025.12.30 – ...):Bishop Milton Zonta, S.D.S. (66)OrdinariesBishops of Criciúma (Roman Rite)Bishop Jacinto Inácio Flach (74)  (2009.09.16 – ...)Bishop of Criciúma (Brazil)Anuncio-vos a misericórdia do SenhorBorn:1952.02.26 (Bom Principio, RS, Brazil)Ordained Priest:1988.05.07Consecrated Bishop:2004.02.05Priest of Porto Alegre (Brazil) (1988.05.07 – 2003.11.12)Titular Bishop of Gummi in Proconsulari (2003.11.12 – 2009.09.16)Auxiliary Bishop of Porto Alegre (Brazil) (2003.11.12 – 2009.09.16)Bishop of Criciúma (Brazil) (2009.09.16 – ...)Bishop Paulo Antônio de Conto (83)  (1998.05.27 – 2008.07.02)Bishop emeritus of Montenegro (Brazil)Mihi Vivere ChristusBorn:1942.10.12 (Encantado, RS, Brazil)Ordained Priest:1968.07.13Consecrated Bishop:1991.09.15Priest of Santa Cruz do Sul (Brazil) (1968.07.13 – 1991.07.24)Bishop of São Luiz de Cáceres (Brazil) (1991.07.24 – 1998.05.27)Bishop of Criciúma (Brazil) (1998.05.27 – 2008.07.02)Bishop of Montenegro (Brazil) (2008.07.02 – 2017.10.18)Apostolic Administrator of Passo Fundo (Brazil) (2015.07.15 – 2015.12.02)Apostolic Administrator of Nova Friburgo (Brazil) (2020.01.22 – 2020.05.06)Apostolic Administrator of Cascavel (Brazil) (2024.02.13 – 2024.05.02)Special ChurchesCathedral:  Catedral São José, Criciúma, Santa Catarina Minor Basilica:  Santuário Basílica Sagrado Coração Misericordioso de Jesus, Içara, Santa Catarina Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (43)Show MapOsório (↙), Caxias do Sul (←), Vacaria (←), Lages (↖), Tubarão (↗)Statistics (2022.12.31)Area: 9,094 km²Population: 484,880 Catholics (80.0% of 606,100 total)Pastoral Centres: 43 parishes, 1 missionPersonnel: 79 priests (65 diocesan, 14 religious), 141 religious (15 brothers, 126 sisters), 18 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cric0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 606100,
+    "catholiques": 484880,
+    "pourcentage_catholiques": 80.0
+  },
+  "ressources": {
+    "pretres_diocesains": 65,
+    "pretres_religieux": null,
+    "total_pretres": 79,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 43
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

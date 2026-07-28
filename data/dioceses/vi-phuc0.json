@@ -1,0 +1,29 @@
+{
+  "id": "vi-phuc0",
+  "nom": "Phú Cuong",
+  "pays": "vi",
+  "pays_nom": "Vietnam",
+  "continent": "unknown",
+  "type": "Diocese Name: Phú Cuong / Phú Cường (Tiếng Việt) / 富强 (正體中文) / Phycuongen(sis) (Latin)Ecclesiastical Province: Thành-Phô Hô Chí MinhNeighbouring Dioceses: Kompong Cham (↖), Đà Lat (↗), Xuân Lôc (→), Thành-Phô Hô Chí Minh (↘), My Tho (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsCathedral Dedication Anniversary: April 25Liturgical Calendar (National) 📅History1965.10.14: Established as Diocese of Phú Cuong / Phú Cường (Tiếng Việt) / 富强 (正體中文) / Phycuongen(sis) (Latin) (from Metropolitan Archdiocese of Saigon and became suffragan of Saigon)Present PrelatesBishop (2012.06.30 – ...):Bishop Joseph Nguyễn Tấn Tước (67)Monsignors (2)OrdinariesBishops of Phú Cuong (Roman Rite)Bishop Joseph Nguyễn Tấn Tước (67)  (2012.06.30 – ...)Bishop of Phú Cuong (Vietnam)Illum oportet crescereBorn:1958.09.22 (Chanh Hiep, Vietnam)Ordained Priest:1991.04.04Consecrated Bishop:2011.04.29Priest of Phú Cuong (Vietnam) (1991.04.04 – 2011.03.14)Coadjutor Bishop of Phú Cuong (Vietnam) (2011.03.14 – 2012.06.30)Bishop of Phú Cuong (Vietnam) (2012.06.30 – ...)Bishop Pierre Trần Ðình Tứ (89)  (1998.11.05 – 2012.06.30)Bishop emeritus of Phú Cuong (Vietnam)Yêu rồi làmBorn:1937.03.02 (Thái Bình, Vietnam)Ordained Priest:1965.04.29Consecrated Bishop:1999.01.06Priest of Thành-Phô Hô Chí Minh (Vietnam) (1965.04.29 – 1998.11.05)Bishop of Phú Cuong (Vietnam) (1998.11.05 – 2012.06.30)Bishop Louis Hà Kim Danh  (1993.05.10 – 1995.02.22)Kiên nhẫn thắng mọi sựBorn:1913.06.21 (Cân Tho, Vietnam)Ordained Priest:1940.03.12Consecrated Bishop:1982.10.10Died:1995.02.22 († 81)Coadjutor Bishop of Phú Cuong (Vietnam) (1982.06.08 – 1993.05.10)Bishop of Phú Cuong (Vietnam) (1993.05.10 – 1995.02.22)Bishop Joseph Phạm Văn Thiên  (1965.10.14 – 1993.05.10)Gratia Dei mecumBorn:1907.05.02 (Thanh My, Vietnam)Ordained Priest:1934.03.17Consecrated Bishop:1966.01.06Died:1997.02.15 († 89)Bishop of Phú Cuong (Vietnam) (1965.10.14 – 1993.05.10)Former PrelatesCoadjutor Bishop: Bishop Joseph Nguyễn Tấn Tước (67) (2011.03.14 – 2012.06.30)Coadjutor Bishop: Bishop Louis Hà Kim Danh (1982.06.08 – 1993.05.10)Coadjutor Bishop: Bishop Jacques Huỳnh Văn Của (1976.02.22 – 1982.06.08)Special ChurchesCathedral:  Nhà Thờ Chính Toà Thánh Tâm Chúa Giêsu, TX Thủ Dầu Một, Hồ Chí Minh, Southeastern Jubilee Churches in the Holy Year 2025Show MapKompong Cham (↖), Đà Lat (↗), Xuân Lôc (→), Thành-Phô Hô Chí Minh (↘), My Tho (↓)Statistics (2022.12.31)Area: 9,543 km²Population: 167,866 Catholics (3.5% of 4,799,734 total)Pastoral Centres: 113 parishesPersonnel: 197 priests (158 diocesan, 39 religious), 1,424 religious (518 brothers, 906 sisters), 68 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "phuc0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4799734,
+    "catholiques": 167866,
+    "pourcentage_catholiques": 3.5
+  },
+  "ressources": {
+    "pretres_diocesains": 158,
+    "pretres_religieux": null,
+    "total_pretres": 197,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 113
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

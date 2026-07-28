@@ -1,0 +1,29 @@
+{
+  "id": "sn-thie0",
+  "nom": "Thiès",
+  "pays": "sn",
+  "pays_nom": "Senegal",
+  "continent": "unknown",
+  "type": "Diocese Name: Thiès / Thiesin(us) (Latin)Ecclesiastical Province: DakarNeighbouring Dioceses: Dakar (←), Saint-Louis du Sénégal (↑), Kaolack (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1969.02.06: Established as Diocese of Thiès / Thiesin(us) (Latin) (from Metropolitan Archdiocese of Dakar and became suffragan of Dakar)Present PrelatesBishop:vacantMonsignors (1)OrdinariesBishops of Thiès (Roman Rite)Bishop André Gueye (59) (later Archbishop)  (2013.01.18 – 2025.02.22)Metropolitan Archbishop of Dakar (Senegal)Vice-President of Conference of Bishops of Senegal, Mauritania, Cape Verde and Guinea-BissauIn ipso vita et lux / En lui la vie et la lumièreBorn:1967.01.06 (Pallo-Youga, Senegal)Ordained Priest:1992.06.27Consecrated Bishop:2013.05.25Priest of Thiès (Senegal) (1992.06.27 – 2013.01.18)Bishop of Thiès (Senegal) (2013.01.18 – 2025.02.22)Second Vice-President of Conference of Bishops of Senegal, Mauritania, Cape Verde and Guinea-Bissau (2017.11.18 – 2024.11)Apostolic Administrator of Saint-Louis du Sénégal (Senegal) (2023.01.12 – 2025.02.22)Vice-President of Conference of Bishops of Senegal, Mauritania, Cape Verde and Guinea-Bissau (2024.11 – ...)Metropolitan Archbishop of Dakar (Senegal) (2025.02.22 – ...)Bishop Jacques Sarr  (1986.10.17 – 2011.01.18)Ma lumière et mon salut, c’est le SeigneurBorn:1934.10.11 (Fadiouth, Senegal)Ordained Priest:1964.05.28Consecrated Bishop:1987.03.01Died:2011.01.18 († 76)Bishop of Thiès (Senegal) (1986.10.17 – 2011.01.18)Bishop François-Xavier Dione  (1969.02.06 – 1985.02.04)Fides et laborBorn:1919.06 (Tiapong, Senegal)Ordained Priest:1949.04.18Consecrated Bishop:1969.05.15Died:1985.02.04 († 65)Priest of Dakar (Senegal) (1949.04.18 – 1969.02.06)Bishop of Thiès (Senegal) (1969.02.06 – 1985.02.04)Special ChurchesCathedral:  Cathédrale Sainte-Anne, Thiès, Thiès Show MapDakar (←), Saint-Louis du Sénégal (↑), Kaolack (↘)Statistics (2022.12.31)Area: 9,055 km²Population: 66,830 Catholics (1.5% of 4,328,600 total)Pastoral Centres: 25 parishes, 2 missionsPersonnel: 83 priests (76 diocesan, 7 religious), 205 religious (88 brothers, 117 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "thie0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4328600,
+    "catholiques": 66830,
+    "pourcentage_catholiques": 1.5
+  },
+  "ressources": {
+    "pretres_diocesains": 76,
+    "pretres_religieux": null,
+    "total_pretres": 83,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

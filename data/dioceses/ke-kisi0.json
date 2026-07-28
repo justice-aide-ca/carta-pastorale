@@ -1,0 +1,29 @@
+{
+  "id": "ke-kisi0",
+  "nom": "Kisii",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Kisii / Kisiian(us) (Latin)Ecclesiastical Province: KisumuNeighbouring Dioceses: Homa Bay (←), Kericho (→), Ngong (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Immaculate Conception (December 8)Liturgical Calendar (National) 📅History1960.05.21: Established as Diocese of Kisii / Kisiian(us) (Latin) (from Diocese of Kisumu and became suffragan of Nairobi)1990.05.21: Became suffragan of Kisumu1993.10.18: Lost territory to establish Diocese of Homa BayPresent PrelatesBishop (1994.12.19 – ...):Bishop Joseph Mairura Okemwa (72)OrdinariesBishops of Kisii (Roman Rite)Bishop Joseph Mairura Okemwa (72)  (1994.12.19 – ...)Bishop of Kisii (Kenya)Cognoscetis veritatem liberabit vosBorn:1954.06.29 (Nyabururu, Kenya)Ordained Priest:1987.10.27Consecrated Bishop:1995.07.21Priest of Kisii (Kenya) (1987.10.27 – 1994.12.19)Bishop of Kisii (Kenya) (1994.12.19 – ...)Bishop Tiberius Charles Mugendi  (1969.11.15 – 1993.12.17)Born:1922.08.28 (Ebulemya, Kenya)Ordained Priest:1947.12.07Consecrated Bishop:1970.02.24Died:1993.12.17 († 71)Bishop of Kisii (Kenya) (1969.11.15 – 1993.12.17)Bishop Maurice Michael Otunga (later Cardinal)  (1960.05.21 – 1969.11.15)Per ipsum et cum ipso et in ipsoBorn:1923.01 (Chebukwa, Kenya)Ordained Priest:1950.10.03Consecrated Bishop:1957.02.25Created Cardinal:1973.03.05Died:2003.09.06 (Nairobi, Kenya † 80)Priest of Kisumu (Kenya) (1950.10.03 – 1956.11.17)Titular Bishop of Tacapæ (1956.11.17 – 1960.05.21)Auxiliary Bishop of Kisumu (Kenya) (1956.11.17 – 1960.05.21)Bishop of Kisii (Kenya) (1960.05.21 – 1969.11.15)Military Vicar of Kenya (Kenya) (1964.01.20 – 1986.07.21)Titular Archbishop of Bomarzo (1969.11.15 – 1971.10.24)Coadjutor Archbishop of Nairobi (Kenya) (1969.11.15 – 1971.10.24)President of Kenya Conference of Catholic Bishops (1970 – 1976)Metropolitan Archbishop of Nairobi (Kenya) (1971.10.24 – 1997.04.21)Cardinal-Priest of S. Gregorio Barbarigo alle Tre Fontane (1973.03.05 – 2003.09.06)Military Ordinary of Kenya (Kenya) (1986.07.21 – 1997.08.29)Special ChurchesCathedral:  Cathedral of St. Charles Lwanga, Kisii, Kisii Show MapHoma Bay (←), Kericho (→), Ngong (↓)Statistics (2022.12.31)Area: 2,196 km²Population: 756,400 Catholics (26.6% of 2,846,545 total)Pastoral Centres: 32 parishesPersonnel: 71 priests (65 diocesan, 6 religious), 283 religious (18 brothers, 265 sisters), 36 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kisi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2846545,
+    "catholiques": 756400,
+    "pourcentage_catholiques": 26.6
+  },
+  "ressources": {
+    "pretres_diocesains": 65,
+    "pretres_religieux": null,
+    "total_pretres": 71,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

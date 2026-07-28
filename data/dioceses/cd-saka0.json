@@ -1,0 +1,29 @@
+{
+  "id": "cd-saka0",
+  "nom": "Sakania–Kipushi",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Sakania–Kipushi / Sakanien(sis)–Kipushien(sis) (Latin)Ecclesiastical Province: LubumbashiNeighbouring Dioceses: Ndola (↙), Solwezi (←), Lubumbashi (↖), Mansa (↗), Mpika (→), Kabwe (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1925.05.12: Established as Apostolic Prefecture of Luapula Supérieur (français) / Upper Luapula (English) / Luapula Superiore (Italiano) (from Apostolic Prefecture of Katanga)1939.11.14: Promoted as Apostolic Vicariate of Sakania / Sakanien(sis) (Latin)1959.11.10: Promoted as Diocese of Sakania / Sakanien(sis) (Latin) (became suffragan of Elisabethville)1976.11.13: Gained territory from Metropolitan Archdiocese of Lubumbashi1977.03.05: Renamed as Diocese of Sakania–Kipushi / Sakanien(sis)–Kipushien(sis) (Latin)Present PrelatesBishop (2004.04.07 – ...):Bishop Gaston Ruwezi Kashala, S.D.B. (65)OrdinariesBishops of Sakania–Kipushi (Roman Rite)Bishop Gaston Ruwezi Kashala, S.D.B. (65)  (2004.04.07 – ...)Bishop of Sakania–Kipushi (Congo-Kinshasa)Born:1961.04.14 (Lubumbashi, Congo-Kinshasa)Ordained Priest:1990.07.14Consecrated Bishop:2004.08.14Bishop of Sakania–Kipushi (Congo-Kinshasa) (2004.04.07 – ...)Archbishop Floribert Songasonga Mwitwa  (Apostolic Administrator 2001 – 2004.04.07)Bishop Elie Amsini Kiswaya  (1977.03.05 – 2001.12.21)Born:1928.08.25 (Kindu, Congo-Kinshasa)Ordained Priest:1959.07.26Consecrated Bishop:1976.02.21Died:2008.12.11 († 80)Bishop of Sakania (Congo-Kinshasa) (1975.11.20 – 1977.03.05)Bishop of Sakania–Kipushi (Congo-Kinshasa) (1977.03.05 – 2001.12.21)Bishops of Sakania (Roman Rite)Bishop Elie Amsini Kiswaya  (1975.11.20 – 1977.03.05)(see above)Archbishop Eugène Kabanga Songasonga  (Apostolic Administrator 1973.06.15 – 1975.11.20)Bishop Petrus Frans Lehaen, S.D.B.  (1959.11.10 – 1973.06.15)Born:1908.01.17 (Neerpelt, Belgium)Ordained Priest:1933.07.30Consecrated Bishop:1959.05.31Died:1993.04.26 (Bonheiden, Belgium † 85)Titular Bishop of Hyllarima (1959.02.12 – 1959.11.10)Vicar Apostolic of Sakania (Congo-Kinshasa) (1959.02.12 – 1959.11.10)Bishop of Sakania (Congo-Kinshasa) (1959.11.10 – 1973.06.15)Vicars Apostolic of Sakania (Roman Rite)Bishop Petrus Frans Lehaen, S.D.B.  (1959.02.12 – 1959.11.10)(see above)Bishop René van Heusden, S.D.B.  (1947.02.13 – 1958.03.22)Born:1888.08.02 (Beverst, Belgium)Ordained Priest:1919.09.29Consecrated Bishop:1947.06.11Died:1958.03.22 (Lubumbashi, Congo-Kinshasa † 69)Titular Bishop of Cariana (1947.02.13 – 1958.03.22)Vicar Apostolic of Sakania (Congo-Kinshasa) (1947.02.13 – 1958.03.22)Bishop Joseph Sak, S.D.B.  (1939.11.14 – 1946.03.15)Born:1875.01.16 (Hechtel, Belgium)Ordained Priest:1899.09.25Consecrated Bishop:1940.04.07Died:1946.03.15 (Elisabethville, Congo-Kinshasa † 71)Prefect Apostolic of Luapula Supérieur (Congo-Kinshasa) (1925.07.14 – 1939.11.14)Titular Bishop of Scilium (1939.11.14 – 1946.03.15)Vicar Apostolic of Sakania (Congo-Kinshasa) (1939.11.14 – 1946.03.15)Prefects Apostolic of Luapula Supérieur (Roman Rite)Fr. Joseph Sak, S.D.B. (later Bishop)  (1925.07.14 – 1939.11.14)(see above)Special ChurchesCathedral:  Cathédrale Sacré-Cœur, Kafubu, Haut-Katanga Show MapNdola (↙), Solwezi (←), Lubumbashi (↖), Mansa (↗), Mpika (→), Kabwe (↓)Statistics (2022.12.31)Area: 40,000 km²Population: 375,340 Catholics (45.3% of 828,940 total)Pastoral Centres: 28 parishes, 1 missionPersonnel: 56 priests (27 diocesan, 29 religious), 264 religious (210 brothers, 54 sisters), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "saka0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 828940,
+    "catholiques": 375340,
+    "pourcentage_catholiques": 45.3
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 56,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mz-tete0",
+  "nom": "Tete",
+  "pays": "mz",
+  "pays_nom": "Mozambique",
+  "continent": "unknown",
+  "type": "Diocese Name: Tete / Tetien(sis) (Latin)Ecclesiastical Province: BeiraNeighbouring Dioceses: Harare (↙), Chinhoyi (←), Lusaka (←), Lilongwe (↑), Chipata (↑), Dedza (↗), Blantyre (→), Chikwawa (→), Caia (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint James MajorCathedral Dedication Anniversary: May 6 (1991)Liturgical Calendar (Universal) 📅History1962.05.06: Established as Diocese of Tete / Tetien(sis) (Latin) (from Diocese of Beira and became suffragan of Lourenço Marques)1984.06.04: Became suffragan of Beira2025.12.23: Lost territory to establish Diocese of CaiaPresent PrelatesBishop (2019.03.22 – ...):Bishop Diamantino Guapo Antunes, I.M.C. (59)Monsignors (1)OrdinariesBishops of Tete (Roman Rite)Bishop Diamantino Guapo Antunes, I.M.C. (59)  (2019.03.22 – ...)Bishop of Tete (Mozambique)Born:1966.11.30 (Albergaria dos Doze, Portugal)Ordained Priest:1994.07.20Consecrated Bishop:2019.05.12Bishop of Tete (Mozambique) (2019.03.22 – ...)Fr. Sandro Faedi, I.M.C.  (Apostolic Administrator 2017.04.11 – 2019.03.22)Bishop Inácio Saure, I.M.C. (66) (later Archbishop)  (2011.04.12 – 2017.04.11)Metropolitan Archbishop of Nampula (Mozambique)President of Episcopal Conference of MozambiqueBorn:1960.03.02 (Balama, Mozambique)Ordained Priest:1998.12.08Consecrated Bishop:2011.05.22Bishop of Tete (Mozambique) (2011.04.12 – 2017.04.11)Metropolitan Archbishop of Nampula (Mozambique) (2017.04.11 – ...)Vice-President of Episcopal Conference of Mozambique (2018.11.11 – 2021.11.12)President of Episcopal Conference of Mozambique (2021.11.12 – ...)Fr. Giacomo Palagi, M.C.C.J.  (Apostolic Administrator 2009.06 – 2011.04.12)Bishop Paulo Mandlate, S.S.S.  (1976.05.31 – 2009.04.18)Born:1934.02.04 (Macupalane-Manjacaze, Mozambique)Ordained Priest:1968.01.06Consecrated Bishop:1976.09.26Died:2019.08.21 (Maputo, Mozambique † 85)Bishop of Tete (Mozambique) (1976.05.31 – 2009.04.18)President of Episcopal Conference of Mozambique (1986 – 1993)Bishop Augusto César Alves Ferreira da Silva, C.M. (94)  (1972.02.19 – 1976.05.31)Bishop emeritus of Portalegre–Castelo Branco (Portugal)Caritas urgetBorn:1932.03.15 (Fervença-Celorico de Basto, Portugal)Ordained Priest:1960.07.24Consecrated Bishop:1972.05.21Bishop of Tete (Mozambique) (1972.02.19 – 1976.05.31)Bishop of Portalegre–Castelo Branco (Portugal) (1978.09.25 – 2004.04.22)Bishop Félix Niza Ribeiro  (1962.12.20 – 1972.02.19)Born:1916.09.29 (Proença a Velha, Portugal)Ordained Priest:1940.05.18Consecrated Bishop:1963.03.24Died:1989.01.19 (Porto Salvo, Mozambique † 72)Bishop of Tete (Mozambique) (1962.12.20 – 1972.02.19)Bishop of João Belo (Mozambique) (1972.02.19 – 1976.05.31)Special ChurchesCathedral:  Catedral de São Tiago Maior, Tete, Tete Show MapHarare (↙), Chinhoyi (←), Lusaka (←), Lilongwe (↑), Chipata (↑), Dedza (↗), Blantyre (→), Chikwawa (→), Caia (↘)Statistics (2025)Area: 94,367 km²Population: 321,665 Catholics (17.3% of 1,858,539 total)Pastoral Centres: 26 parishesPersonnel: 66 priests (19 diocesan, 47 religious), 70 religious (10 brothers, 60 sisters), 40 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tete0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1858539,
+    "catholiques": 321665,
+    "pourcentage_catholiques": 17.3
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 66,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

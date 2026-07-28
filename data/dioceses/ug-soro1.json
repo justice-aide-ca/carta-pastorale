@@ -1,0 +1,29 @@
+{
+  "id": "ug-soro1",
+  "nom": "Soroti",
+  "pays": "ug",
+  "pays_nom": "Uganda",
+  "continent": "unknown",
+  "type": "Diocese Name: Soroti / Sorotien(sis) (Latin)Ecclesiastical Province: TororoNeighbouring Dioceses: Lira (↖), Moroto (↗), Tororo (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1980.11.29: Established as Diocese of Soroti / Sorotien(sis) (Latin) (from Diocese of Tororo and became suffragan of Kampala)1999.01.02: Became suffragan of TororoPapal VisitsPope John Paul II (1993.02)Present PrelatesBishop (2019.03.19 – ...):Bishop Joseph Eciru Oliach (55)OrdinariesBishops of Soroti (Roman Rite)Bishop Joseph Eciru Oliach (55)  (2019.03.19 – ...)Bishop of Soroti (Uganda)In vasis fictilibus thesaurumBorn:1970.08.11 (Gweri, Uganda)Ordained Priest:2003.08.09Consecrated Bishop:2019.05.25Priest of Soroti (Uganda) (2003.08.09 – 2019.03.19)Bishop of Soroti (Uganda) (2019.03.19 – ...)Archbishop Emmanuel Obbo, A.J. (73)  (Apostolic Administrator 2014.01.02 – 2019.03.19)Bishop Emmanuel Obbo, A.J. (73) (later Archbishop)  (2007.06.27 – 2014.01.02)Metropolitan Archbishop of Tororo (Uganda)Apostolic Administrator of Jinja (Uganda)Domine doce nos orare et consummare in unumBorn:1952.10.07 (Nagoke, Uganda)Ordained Priest:1986.12.13Consecrated Bishop:2007.10.06Bishop of Soroti (Uganda) (2007.06.27 – 2014.01.02)Apostolic Administrator of Soroti (Uganda) (2014.01.02 – 2019.03.19)Metropolitan Archbishop of Tororo (Uganda) (2014.01.02 – ...)Apostolic Administrator of Jinja (Uganda) (2025.10.29 – ...)Bishop Erasmus Desiderius Wandera  (1980.11.29 – 2007.06.27)Virtus in infirmitate perficiturBorn:1930.04.16 (Dabani, Uganda)Ordained Priest:1956.12.27Consecrated Bishop:1981.03.29Died:2022.12.08 (Mbale, Uganda † 92)Bishop of Soroti (Uganda) (1980.11.29 – 2007.06.27)Special ChurchesCathedral:  Immaculate Conception Cathedral, Soroti, Soroti, Eastern Show MapLira (↖), Moroto (↗), Tororo (↘)Statistics (2022.12.31)Area: 12,921 km²Population: 1,470,840 Catholics (39.5% of 3,727,880 total)Pastoral Centres: 51 parishes, 2 missionsPersonnel: 79 priests (diocesan), 96 religious (34 brothers, 62 sisters), 51 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "soro1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3727880,
+    "catholiques": 1470840,
+    "pourcentage_catholiques": 39.5
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 51
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ke-keri0",
+  "nom": "Kericho",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Kericho / Kerichoën(sis) (Latin)Ecclesiastical Province: NairobiNeighbouring Dioceses: Kisii (↙), Homa Bay (←), Kisumu (↖), Kapsabet (↑), Eldoret (↗), Nakuru (→), Ngong (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1995.12.06: Established as Diocese of Kericho / Kerichoën(sis) (Latin) (from Diocese of Nakuru and became suffragan of Nairobi)Present PrelatesBishop (2019.12.14 – ...):Bishop Alfred Kipkoech Arap Rotich (68)OrdinariesBishops of Kericho (Roman Rite)Bishop Alfred Kipkoech Arap Rotich (68)  (2019.12.14 – ...)Bishop of Kericho (Kenya)Veni Creator SpiritusBorn:1957.07.27 (Longisa, Kenya)Ordained Priest:1983.11.18Consecrated Bishop:1996.07.03Priest of Nakuru (Kenya) (1983.11.18 – 1996.03.09)Titular Bishop of Zuglio (1996.03.09 – 1997.08.29)Auxiliary Bishop of Nairobi (Kenya) (1996.03.09 – 1997.08.29)Military Ordinary of Kenya (Kenya) (1997.08.29 – 2016.12.30)Bishop of Kericho (Kenya) (2019.12.14 – ...)Bishop Emmanuel Okombo Wandera (83)  (2003.03.22 – 2019.12.14)Bishop emeritus of Kericho (Kenya)Born:1942.11.29 (Bungoma, Kenya)Ordained Priest:1972.11.30Consecrated Bishop:2003.05.24Priest of Kisumu (Kenya) (1972.11.30 – 1987.04.27)Priest of Bungoma (Kenya) (1987.04.27 – 2003.03.22)Bishop of Kericho (Kenya) (2003.03.22 – 2019.12.14)Bishop Philip Arnold Subira Anyolo (70) (later Archbishop)  (1995.12.06 – 2003.03.22)Metropolitan Archbishop of Nairobi (Kenya)Manete in me et ego in vobisBorn:1956.05.18 (Tongaren, Kenya)Ordained Priest:1983.10.15Consecrated Bishop:1996.02.03Priest of Eldoret (Kenya) (1983.10.15 – 1995.12.06)Bishop of Kericho (Kenya) (1995.12.06 – 2003.03.22)Apostolic Administrator of Homa Bay (Kenya) (2002.02.20 – 2003.03.22)Bishop of Homa Bay (Kenya) (2003.03.22 – 2018.11.15)President of Kenya Conference of Catholic Bishops (2015 – 2021.07)Metropolitan Archbishop of Kisumu (Kenya) (2018.11.15 – 2021.10.28)Metropolitan Archbishop of Nairobi (Kenya) (2021.10.28 – ...)Special ChurchesCathedral:  Cathedral of the Sacred Heart of Jesus, Kericho, Kericho Show MapKisii (↙), Homa Bay (←), Kisumu (↖), Kapsabet (↑), Eldoret (↗), Nakuru (→), Ngong (↘)Statistics (2022.12.31)Area: 4,800 km²Population: 294,420 Catholics (15.4% of 1,908,510 total)Pastoral Centres: 48 parishes, 1 missionPersonnel: 84 priests (31 diocesan, 53 religious), 141 religious (68 brothers, 73 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "keri0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1908510,
+    "catholiques": 294420,
+    "pourcentage_catholiques": 15.4
+  },
+  "ressources": {
+    "pretres_diocesains": 31,
+    "pretres_religieux": null,
+    "total_pretres": 84,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 48
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

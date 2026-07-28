@@ -1,0 +1,29 @@
+{
+  "id": "le-zahl1",
+  "nom": "Zahlé",
+  "pays": "le",
+  "pays_nom": "Lebanon",
+  "continent": "unknown",
+  "type": "Diocese Name: Zahlé / Zahleh / Mariamnen(sis) Maronitarum (Latin)Subject to the PatriarchNeighbouring Dioceses: Saïdā (↙), Beirut (←), Baalbek–Deir Al-Ahmar (↗), Damascus (↘), Tyr (↓)Depends on: Dicastery for the Eastern ChurchesHistory1990.06.09: Established as Diocese of Zahlé / Zahleh / Mariamnen(sis) Maronitarum (Latin) (from Diocese of Baalbek e Zahlé and without ecclesiastical province)Present PrelatesBishop (2015.03.14 – ...):Bishop Joseph Mouawad (56)OrdinariesBishops of Zahlé (Maronite Rite)Bishop Joseph Mouawad (56)  (2015.03.14 – ...)Bishop of Zahlé of the Maronites (Lebanon)Born:1970.03.26 (Mayfouq, Lebanon)Ordained Priest:1995.08.13Consecrated Bishop:2012.07.28Priest of Jbeil of the Maronites (Lebanon) (1995.08.13 – 2012.06.16)Titular Bishop of Ptolemais in Phœnicia of the Maronites (2012.06.16 – 2015.03.14)Bishop of Curia of the Maronites (2012.06.16 – 2015.03.14)Bishop of Zahlé of the Maronites (Lebanon) (2015.03.14 – ...)Bishop Mansour Hobeika  (2002.09.12 – 2014.10.28)Born:1941.12.20 (Hadeth-Baalbek, Lebanon)Ordained Priest:1968.06.09Consecrated Bishop:2002.10.26Died:2014.10.28 († 72)Bishop of Zahlé of the Maronites (Lebanon) (2002.09.12 – 2014.10.28)Bishop Georges Scandar  (1990.06.09 – 2002.09.12)Born:1927.05.12 (Zahleh, Lebanon)Ordained Priest:1965.06.13Consecrated Bishop:1977.11.12Died:2018.05.15 († 91)Priest of Baalbek e Zahlé of the Maronites (Lebanon) (1965.06.13 – 1977.11.12)Bishop of Baalbek e Zahlé of the Maronites (Lebanon) (1977.11.12 – 1990.06.09)Bishop of Zahlé of the Maronites (Lebanon) (1990.06.09 – 2002.09.12)Special ChurchesCathedral:  Cathédrale Saint-Maroun, Zahlé, Beqaa Show MapSaïdā (↙), Beirut (←), Baalbek–Deir Al-Ahmar (↗), Damascus (↘), Tyr (↓)Statistics (2022.12.31)Population: 38,310 CatholicsPastoral Centres: 33 parishes, 3 missionsPersonnel: 35 priests (19 diocesan, 16 religious), 24 religious (17 brothers, 7 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zahl1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

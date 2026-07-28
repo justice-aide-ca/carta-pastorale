@@ -1,0 +1,29 @@
+{
+  "id": "us-fort4",
+  "nom": "Fort Worth",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Fort Worth / Arcis Vorthen(sis) (Latin)Ecclesiastical Province: San AntonioNeighbouring Dioceses: San Angelo (↙), Lubbock (←), Oklahoma City (↑), Dallas (→), Austin (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Patrick (March 17)Cathedral Dedication Anniversary: July 10Liturgical Calendar (National) 📅History1969.08.09: Established as Diocese of Fort Worth / Arcis Vorthen(sis) (Latin) (from Diocese of Dallas–Fort Worth and became suffragan of San Antonio)Contact InfoAddress: The Catholic Center, 800 West Loop 820 South, Fort Worth, TX 76108, USAPhone: +1 (817) 560-3300Present PrelatesBishop (2013.11.19 – ...):Bishop Michael Fors Olson (60)Monsignors (12)OrdinariesBishops of Fort Worth (Roman Rite)Bishop Michael Fors Olson (60)  (2013.11.19 – ...)Bishop of Fort Worth (USA)Veritatis splendorBorn:1966.06.29 (Park Ridge, IL, USA)Ordained Priest:1994.06.03Consecrated Bishop:2014.01.29Priest of Fort Worth (USA) (1994.06.03 – 2013.11.19)Chaplain of His Holiness (2010.05.06 – 2013.11.19)Bishop of Fort Worth (USA) (2013.11.19 – ...)Bishop Kevin William Vann (75)  (2005.07.12 – 2012.09.21)Bishop of Orange (USA)In fide et dilectione in Christo JesuBorn:1951.05.10 (Springfield, IL, USA)Ordained Priest:1981.05.30Consecrated Bishop:2005.07.13Priest of Springfield in Illinois (USA) (1981.05.30 – 2005.05.17)Coadjutor Bishop of Fort Worth (USA) (2005.05.17 – 2005.07.12)Bishop of Fort Worth (USA) (2005.07.12 – 2012.09.21)Bishop of Orange (USA) (2012.09.21 – ...)Bishop Joseph Patrick Delaney  (1981.07.10 – 2005.07.12)Born:1934.08.29 (Fall River, MA, USA)Ordained Priest:1960.12.18Consecrated Bishop:1981.09.13Died:2005.07.12 (Fort Worth, TX, USA † 70)Priest of Fall River (USA) (1960.12.18 – 1971)Priest of Brownsville (USA) (1971 – 1981.07.10)Bishop of Fort Worth (USA) (1981.07.10 – 2005.07.12)Bishop John Joseph Cassata  (1969.08.22 – 1980.09.16)Dominus regit meBorn:1908.11.08 (Galveston, TX, USA)Ordained Priest:1932.12.08Consecrated Bishop:1968.06.05Died:1989.09.08 (Houston, TX, USA † 80)Priest of Galveston–Houston (USA) (1932.12.08 – 1968.03.12)Titular Bishop of Bida (1968.03.12 – 1969.08.22)Auxiliary Bishop of Dallas (USA) (1968.03.12 – 1969.08.22)Bishop of Fort Worth (USA) (1969.08.22 – 1980.09.16)Former PrelatesCoadjutor Bishop: Bishop-elect Kevin William Vann (75) (2005.05.17 – 2005.07.12)Special ChurchesCathedral:  St. Patrick Cathedral, Fort Worth, Texas Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (92)Show MapSan Angelo (↙), Lubbock (←), Oklahoma City (↑), Dallas (→), Austin (↓)Statistics (2022.12.31)Area: 62,030 km²Population: 939,193 Catholics (23.0% of 4,083,448 total)Pastoral Centres: 92 parishesPersonnel: 110 priests (50 diocesan, 60 religious), 117 deacons, 107 religious (60 brothers, 47 sisters), 23 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "fort4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4083448,
+    "catholiques": 939193,
+    "pourcentage_catholiques": 23.0
+  },
+  "ressources": {
+    "pretres_diocesains": 50,
+    "pretres_religieux": null,
+    "total_pretres": 110,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 92
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

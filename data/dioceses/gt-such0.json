@@ -1,0 +1,29 @@
+{
+  "id": "gt-such0",
+  "nom": "Suchitepéquez–Retalhuleu",
+  "pays": "gt",
+  "pays_nom": "Guatemala",
+  "continent": "unknown",
+  "type": "Diocese Name: Suchitepéquez–Retalhuleu / Suchitepequen(sis)–Retalhulen(sis) (Latin)Ecclesiastical Province: Los Altos, Quetzaltenango–TotonicapánNeighbouring Dioceses: San Marcos (↖), Los Altos, Quetzaltenango–Totonicapán (↑), Sololá–Chimaltenango (↗), Escuintla (→)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint BartholomewLiturgical Calendar (National) 📅History1996.12.31: Established as Diocese of Suchitepéquez–Retalhuleu / Suchitepequen(sis)–Retalhulen(sis) (Latin) (from Metropolitan Archdiocese of Los Altos, Quetzaltenango–Totonicapán and became suffragan of Los Altos, Quetzaltenango–Totonicapán)Present PrelatesBishop (1996.12.31 – ...):Bishop Pablo Vizcaíno Prado (75)OrdinariesBishops of Suchitepéquez–Retalhuleu (Roman Rite)Bishop Pablo Vizcaíno Prado (75)  (1996.12.31 – ...)Bishop of Suchitepéquez–Retalhuleu (Guatemala)Born:1951.06.22 (Ciudad de Guatemala, Guatemala)Ordained Priest:1980.03.19Consecrated Bishop:1997.03.08Priest of Guatemala (Guatemala) (1980.03.19 – 1996.12.31)Bishop of Suchitepéquez–Retalhuleu (Guatemala) (1996.12.31 – ...)President of Episcopal Conference of Guatemala (2008.01 – 2012.03)Special ChurchesCathedral:  Catedral San Bartolomé, Mazatenango, Suchitepéquez Show MapSan Marcos (↖), Los Altos, Quetzaltenango–Totonicapán (↑), Sololá–Chimaltenango (↗), Escuintla (→)Statistics (2022.12.31)Area: 4,336 km²Population: 612,800 Catholics (65.0% of 943,000 total)Pastoral Centres: 25 parishes, 177 missionsPersonnel: 36 priests (35 diocesan, 1 religious), 42 religious (1 brother, 41 sisters), 22 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "such0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 943000,
+    "catholiques": 612800,
+    "pourcentage_catholiques": 65.0
+  },
+  "ressources": {
+    "pretres_diocesains": 35,
+    "pretres_religieux": null,
+    "total_pretres": 36,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

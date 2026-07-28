@@ -1,0 +1,29 @@
+{
+  "id": "pl-kali1",
+  "nom": "Kalisz",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Kalisz / Calissien(sis) (Latin)Ecclesiastical Province: PoznańNeighbouring Dioceses: Wrocław (↙), Poznań (↖), Gniezno (↑), Włocławek (↗), Łódź (→), Częstochowa (↘), Opole (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Joseph (March 19)Cathedral Dedication Anniversary: September 24Liturgical Calendar 📅History1992.03.25: Established as Diocese of Kalisz / Calissien(sis) (Latin) (from Metropolitan Archdiocese of Gniezno, Metropolitan Archdiocese of Poznań, Metropolitan Archdiocese of Wrocław, Diocese of Częstochowa, Diocese of Opole and Diocese of Włocławek and became suffragan of Poznań)Papal VisitsPope John Paul II (1997.06)Present PrelatesBishop (2021.01.25 – ...):Bishop Damian Bryl (57)Auxiliary Bishop (2014.07.05 – ...):Bishop Łukasz Mirosław Buzun, O.S.P.P.E. (58)Titular Bishop of ChusiraMonsignors (50)OrdinariesBishops of Kalisz (Roman Rite)Bishop Damian Bryl (57)  (2021.01.25 – ...)Bishop of Kalisz (Poland)Caritas Christi urget nosBorn:1969.02.10 (Jarocin, Poland)Ordained Priest:1994.05.25Consecrated Bishop:2013.09.08Priest of Poznań (Poland) (1994.05.25 – 2013.07.13)Titular Bishop of Suliana (2013.07.13 – 2021.01.25)Auxiliary Bishop of Poznań (Poland) (2013.07.13 – 2021.01.25)Bishop of Kalisz (Poland) (2021.01.25 – ...)Archbishop Grzegorz Ryś (62) (later Cardinal)  (Apostolic Administrator 2020.10.17 – 2021.01.25)Archbishop Grzegorz Ryś (62) (later Cardinal)  (Apostolic Administrator sede plena 2020.06.25 – 2020.10.17)Bishop Edward Janiak  (2012.07.21 – 2020.10.17)Oportet servireBorn:1952.08.14 (Malczyce, Poland)Ordained Priest:1979.05.19Consecrated Bishop:1996.11.30Died:2021.09.23 (Wrocław, Poland † 69)Priest of Wrocław (Poland) (1979.05.19 – 1996.10.26)Chaplain of His Holiness (1992.11.26 – 1996.10.26)Titular Bishop of Scilium (1996.10.26 – 2012.07.21)Auxiliary Bishop of Wrocław (Poland) (1996.10.26 – 2012.07.21)Bishop of Kalisz (Poland) (2012.07.21 – 2020.10.17)Bishop Stanisław Napierała (89)  (1992.03.25 – 2012.07.21)Bishop emeritus of Kalisz (Poland)Ut Vitam habeantBorn:1936.12.23 (Kalwy, Poland)Ordained Priest:1961.05.27Consecrated Bishop:1980.10.05Priest of Poznań (Poland) (1961.05.27 – 1980.08.25)Chaplain of His Holiness (1977.06.07 – 1980.08.25)Titular Bishop of San Leone (1980.08.25 – 1992.03.25)Auxiliary Bishop of Poznań (Poland) (1980.08.25 – 1992.03.25)Bishop of Kalisz (Poland) (1992.03.25 – 2012.07.21)Former PrelatesAuxiliary Bishop: Bishop Teofil Józef Wilski (1995.04.08 – 2011.10.31)Special ChurchesCathedral:  Katedra św. Mikołaja, Kalisz, Wielkopolskie Co-Cathedral:  Konkatedra św. Stanisława, Ostrów Wielkopolski, Wielkopolskie Minor Basilica:  Bazylika kolegiacka Wniebowzięcia NMP, Kalisz, Wielkopolskie Minor Basilica:  Bazylika Matki Bożej Wspomożenia Wiernych, Twardogóra, Dolnośląskie Minor Basilica:  Bazylika św. Jana Chrzciciela, Krotoszyn, Wielkopolskie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapWrocław (↙), Poznań (↖), Gniezno (↑), Włocławek (↗), Łódź (→), Częstochowa (↘), Opole (↓)Statistics (2022.12.31)Area: 10,800 km²Population: 727,470 Catholics (99.5% of 730,940 total)Pastoral Centres: 283 parishes, 2 missionsPersonnel: 537 priests (462 diocesan, 75 religious), 407 religious (82 brothers, 325 sisters), 23 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kali1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 730940,
+    "catholiques": 727470,
+    "pourcentage_catholiques": 99.5
+  },
+  "ressources": {
+    "pretres_diocesains": 462,
+    "pretres_religieux": null,
+    "total_pretres": 537,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 283
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

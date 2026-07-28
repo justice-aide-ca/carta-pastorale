@@ -1,0 +1,29 @@
+{
+  "id": "jo-jord1",
+  "nom": "Jordan",
+  "pays": "jo",
+  "pays_nom": "Jordan",
+  "continent": "unknown",
+  "type": "Territory Dependent on the Patriarch Name: JordanSubject to the PatriarchNeighbouring Dioceses: Jerusalem (←), Aleppo (↑), Baghdad (→)Depends on: Dicastery for the Eastern ChurchesWebsites: History2004: Established as Territory Dependent on the Patriarch of JordanPresent PrelatesProtosyncellus (2014 – ...):Msgr. Zaid A. HabbabaOrdinariesProtosyncelli of Jordan (Chaldean Rite)Msgr. Zaid A. Habbaba  (2014 – ...)Protosyncellus of Jordan of the Chaldeans (Jordan)Protosyncellus of Jordan of the Chaldeans (Jordan) (2014 – ...)Fr. Raymond Moussalli  (2004 – 2014)Protosyncellus of Jordan of the Chaldeans (Jordan) (2004 – 2014)Special ChurchesCathedral:  Church of Our Lady of Peace, Amman Show MapJerusalem (←), Aleppo (↑), Baghdad (→)Statistics (2022.12.31)Population: 2,500 CatholicsPastoral Centres: 1 parish, 4 missionsPersonnel: 1 priest (diocesan)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jord1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

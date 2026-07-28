@@ -1,0 +1,29 @@
+{
+  "id": "us-norw0",
+  "nom": "Norwich",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Norwich / Norvicen(sis) (Latin)Ecclesiastical Province: HartfordNeighbouring Dioceses: Rockville Centre (↙), Hartford (←), Springfield in Massachusetts (↑), Worcester (↗), Providence (→)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1953.08.06: Established as Diocese of Norwich / Norvicen(sis) (Latin) (from Diocese of Hartford and became suffragan of Hartford)1957.04.06: Gained territory from Diocese of BrooklynContact InfoAddress: 201 BRd.way, Norwich, CT 06360-4328, USAPhone: +1 (860) 887-9294Present PrelatesBishop (2025.02.12 – ...):Bishop Richard Francis Reidy (68)Monsignors (14)OrdinariesBishops of Norwich (Roman Rite)Bishop Richard Francis Reidy (68)  (2025.02.12 – ...)Bishop of Norwich (USA)Ut cognoscant teBorn:1958.05.30 (Worcester, MA, USA)Ordained Priest:1994.06.25Consecrated Bishop:2025.04.29Priest of Worcester (USA) (1994.06.25 – 2025.02.12)Chaplain of His Holiness (2023.08.31 – 2025.02.12)Bishop of Norwich (USA) (2025.02.12 – ...)Archbishop Christopher James Coyne (68)  (Apostolic Administrator 2024.09.03 – 2025.02.12)Bishop Michael Richard Cote (77)  (2003.03.11 – 2024.09.03)Bishop emeritus of Norwich (USA)Above all charityBorn:1949.06.19 (Sanford, ME, USA)Ordained Priest:1975.06.29Consecrated Bishop:1995.07.27Priest of Portland in Maine (USA) (1975.06.29 – 1995.05.09)Titular Bishop of Cebarades (1995.05.09 – 2003.03.11)Auxiliary Bishop of Portland in Maine (USA) (1995.05.09 – 2003.03.11)Bishop of Norwich (USA) (2003.03.11 – 2024.09.03)Bishop Daniel Anthony Hart  (1995.09.12 – 2003.03.11)Do not be afraidBorn:1927.08.24 (Lawrence, MA, USA)Ordained Priest:1953.02.02Consecrated Bishop:1976.10.18Died:2008.01.14 († 80)Priest of Boston (USA) (1953.02.02 – 1976.08.24)Titular Bishop of Tepelta (1976.08.24 – 1995.09.12)Auxiliary Bishop of Boston (USA) (1976.08.24 – 1995.09.12)Bishop of Norwich (USA) (1995.09.12 – 2003.03.11)Bishop Daniel Patrick Reilly  (1975.06.05 – 1994.10.27)In kindness and in truthBorn:1928.05.12 (Providence, RI, USA)Ordained Priest:1953.05.30Consecrated Bishop:1975.08.06Died:2024.06.18 (Shrewsbury, MA, USA † 96)Priest of Providence (USA) (1953.05.30 – 1975.06.05)Bishop of Norwich (USA) (1975.06.05 – 1994.10.27)Bishop of Worcester (USA) (1994.10.27 – 2004.03.09)Bishop Vincent Joseph Hines  (1959.11.27 – 1975.06.05)In caritate et patientiaBorn:1912.09.14 (New Haven, CT, USA)Ordained Priest:1937.05.02Consecrated Bishop:1960.03.17Died:1990.04.23 († 77)Priest of Hartford (USA) (1937.05.02 – 1959.11.27)Bishop of Norwich (USA) (1959.11.27 – 1975.06.05)Bishop Bernard Joseph Flanagan  (1953.09.01 – 1959.08.08)Respice ad MariamBorn:1908.03.31 (Proctor, VT, USA)Ordained Priest:1931.12.08Consecrated Bishop:1953.11.30Died:1998.01.28 (Worcester, MA, USA † 89)Priest of Burlington (USA) (1931.12.08 – 1953.09.01)Bishop of Norwich (USA) (1953.09.01 – 1959.08.08)Bishop of Worcester (USA) (1959.08.08 – 1983.03.31)Special ChurchesCathedral:  Cathedral of St. Patrick, Norwich, Connecticut Churches by City (84)Show MapRockville Centre (↙), Hartford (←), Springfield in Massachusetts (↑), Worcester (↗), Providence (→)Statistics (2022.12.31)Area: 5,121 km²Population: 228,520 Catholics (34.1% of 669,430 total)Pastoral Centres: 51 parishesPersonnel: 111 priests (79 diocesan, 32 religious), 55 deacons, 176 religious (63 brothers, 113 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "norw0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 669430,
+    "catholiques": 228520,
+    "pourcentage_catholiques": 34.1
+  },
+  "ressources": {
+    "pretres_diocesains": 79,
+    "pretres_religieux": null,
+    "total_pretres": 111,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 51
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

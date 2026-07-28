@@ -1,0 +1,29 @@
+{
+  "id": "ng-osog0",
+  "nom": "Osogbo",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Osogbo / Osogboan(us) (Latin)Ecclesiastical Province: IbadanNeighbouring Dioceses: Ibadan (↙), Oyo (←), Ilorin (↑), Ekiti (→), Ondo (↘), Ijebu-Ode (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1995.03.03: Established as Diocese of Osogbo / Osogboan(us) (Latin) (from Diocese of Oyo and became suffragan of Ibadan)Present PrelatesBishop (2016.04.02 – ...):Bishop John Akinkunmi Oyejola (63)Monsignors (5)OrdinariesBishops of Osogbo (Roman Rite)Bishop John Akinkunmi Oyejola (63)  (2016.04.02 – ...)Bishop of Osogbo (Nigeria)Christ-like / Bíl KrístìBorn:1963.05.08 (Aawe, Nigeria)Ordained Priest:1991.10.05Consecrated Bishop:2016.06.30Priest of Oyo (Nigeria) (1991.10.05 – 2016.04.02)Bishop of Osogbo (Nigeria) (2016.04.02 – ...)Archbishop Gabriel ’Leke Abegunrin (76)  (Apostolic Administrator 2013.10.29 – 2016.04.02)Bishop Gabriel ’Leke Abegunrin (76) (later Archbishop)  (1995.03.03 – 2013.10.29)Metropolitan Archbishop of Ibadan (Nigeria)Caritas vincit omniaBorn:1949.09.29 (Iwere-Ile, Nigeria)Ordained Priest:1979.04.21Consecrated Bishop:1995.05.13Priest of Oyo (Nigeria) (1979.04.21 – 1995.03.03)Bishop of Osogbo (Nigeria) (1995.03.03 – 2013.10.29)Apostolic Administrator of Osogbo (Nigeria) (2013.10.29 – 2016.04.02)Metropolitan Archbishop of Ibadan (Nigeria) (2013.10.29 – ...)Special ChurchesCathedral:  St. Benedict’s Cathedral, Osogbo, Osun Show MapIbadan (↙), Oyo (←), Ilorin (↑), Ekiti (→), Ondo (↘), Ijebu-Ode (↓)Statistics (2022.12.31)Area: 8,062 km²Population: 78,925 Catholics (3.2% of 2,442,575 total)Pastoral Centres: 61 parishes, 5 missionsPersonnel: 74 priests (69 diocesan, 5 religious), 91 religious (5 brothers, 86 sisters), 43 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "osog0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2442575,
+    "catholiques": 78925,
+    "pourcentage_catholiques": 3.2
+  },
+  "ressources": {
+    "pretres_diocesains": 69,
+    "pretres_religieux": null,
+    "total_pretres": 74,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 61
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

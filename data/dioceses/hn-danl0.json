@@ -1,0 +1,29 @@
+{
+  "id": "hn-danl0",
+  "nom": "Danlí",
+  "pays": "hn",
+  "pays_nom": "Honduras",
+  "continent": "unknown",
+  "type": "Diocese Name: Danlí (español) / Danlien(sis) (Latin)Ecclesiastical Province: TegucigalpaNeighbouring Dioceses: Choluteca (↙), Tegucigalpa (←), Juticalpa (↗), Jinotega (↘), Estelí (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History2017.01.02: Established as Diocese of Danlí (español) / Danlien(sis) (Latin) (from Metropolitan Archdiocese of Tegucigalpa and became suffragan of Tegucigalpa)Present PrelatesBishop (2026.05.15 – ...):Bishop-elect Patricio Larrosa Martos (66)OrdinariesBishops of Danlí (Roman Rite)Bishop-elect Patricio Larrosa Martos (66)  (2026.05.15 – ...)Bishop of Danlí (Honduras)Born:1960.01.21 (Huéneja, Spain)Ordained Priest:1985.07.06Consecrated Bishop:2026.07.25Priest of Guadix (Spain) (1985.07.06 – 2026.05.15)Bishop of Danlí (Honduras) (2026.05.15 – ...)Bishop Teodoro Gómez Rivera (63)  (Apostolic Administrator 2025.10.10 – 2026.05.15)Bishop José Antonio Canales Motiño (64)  (2017.01.02 – 2025.10.10)General Secretary of Episcopal Secretariat of Central America and PanamaBishop emeritus of Danlí (Honduras)Born:1962.03.19 (La Lima, Honduras)Ordained Priest:1996.10.12Consecrated Bishop:2017.03.11Priest of San Pedro Sula (Honduras) (1996.10.12 – 2017.01.02)Bishop of Danlí (Honduras) (2017.01.02 – 2025.10.10)General Secretary of Episcopal Secretariat of Central America and Panama (2022.10.23 – ...)Special ChurchesCathedral:  Catedral de la Inmaculata Concepción, Danlí, El Paraíso Show MapCholuteca (↙), Tegucigalpa (←), Juticalpa (↗), Jinotega (↘), Estelí (↓)Statistics (2022.12.31)Area: 7,489 km²Population: 422,400 Catholics (81.9% of 516,000 total)Pastoral Centres: 11 parishes, 3 missionsPersonnel: 19 priests (14 diocesan, 5 religious), 24 religious (6 brothers, 18 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "danl0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 516000,
+    "catholiques": 422400,
+    "pourcentage_catholiques": 81.9
+  },
+  "ressources": {
+    "pretres_diocesains": 14,
+    "pretres_religieux": null,
+    "total_pretres": 19,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

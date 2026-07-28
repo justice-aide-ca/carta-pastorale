@@ -1,0 +1,29 @@
+{
+  "id": "cn-shih0",
+  "nom": "Shinan 施南",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Shinan 施南 (中文) / Enshi 恩施 (中文) / Shíhnan / Shīnán 施南 (简体中文) / Ēnshī 恩施 (简体中文) / Scenanen(sis) (Latin)Ecclesiastical Province: Hankou 漢口Neighbouring Dioceses: Chongqing 重慶 (↙), Wanxian 萬縣 (←), Yichang 宜昌 (→), Yuanling 沅陵 (↓)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Yichang 宜昌 CelebrationsLiturgical Calendar (Universal) 📅History1938.06.14: Established as Apostolic Vicariate of Shinan 施南 (中文) / Shihnan / Shīnán 施南 (简体中文) / de Shinan (Latin) (from Apostolic Vicariate of Yichang 宜昌)1946.04.11: Promoted as Diocese of Shinan 施南 (中文) / Enshi 恩施 (中文) / Shíhnan / Shīnán 施南 (简体中文) / Ēnshī 恩施 (简体中文) / Scenanen(sis) (Latin) (became suffragan of Hankou 漢口)Present PrelatesBishop:vacantOrdinariesVicars Apostolic of Shinan 施南 (Roman Rite)Bishop Pierre-Henri-Noël Gubbels (顧學德), O.F.M.  (Apostolic Administrator 1946.04.11 – 1950.11.18)Fr. John Baptist Hu Ruo-han (胡若翰)  (1940.02.13 – 1942.11.10)Born:1881.06.23 (China)Ordained Priest:1910Died:1950 († 69)Vicar Apostolic of Shinan 施南 (China) (1940.02.13 – 1942.11.10)Titular Bishop of Abbir Maius (1940.02.13 – 1950)Show MapChongqing 重慶 (↙), Wanxian 萬縣 (←), Yichang 宜昌 (→), Yuanling 沅陵 (↓)Statistics (1949.12.31)Area: 18,000 km²Population: 7,844 Catholics (0.4% of 2,000,000 total)Pastoral Centres: 81 parishesPersonnel: 13 priests (8 diocesan, 5 religious), 25 religious (3 brothers, 22 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "shih0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2000000,
+    "catholiques": 7844,
+    "pourcentage_catholiques": 0.4
+  },
+  "ressources": {
+    "pretres_diocesains": 8,
+    "pretres_religieux": null,
+    "total_pretres": 13,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 81
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

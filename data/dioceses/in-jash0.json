@@ -1,0 +1,29 @@
+{
+  "id": "in-jash0",
+  "nom": "Jashpur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Jashpur / Jashpuren(sis) (Latin)Ecclesiastical Province: RaipurNeighbouring Dioceses: Raigarh (↙), Ambikapur (←), Gumla (↗), Simdega (↘)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady of RosaryLiturgical Calendar (National) 📅History2006.03.23: Established as Diocese of Jashpur / Jashpuren(sis) (Latin) (from Diocese of Raigarh and became suffragan of Raipur)Present PrelatesBishop (2009.12.22 – ...):Bishop Emmanuel Kerketta (74)OrdinariesBishops of Jashpur (Roman Rite)Bishop Emmanuel Kerketta (74)  (2009.12.22 – ...)Bishop of Jashpur (India)Love and serviceBorn:1952.03.16 (Gotmahua, India)Ordained Priest:1984.05.05Consecrated Bishop:2010.02.02Priest of Raiganj (India) (1984.05.05 – 2006.03.23)Priest of Jashpur (India) (2006.03.23 – 2009.12.22)Bishop of Jashpur (India) (2009.12.22 – ...)Bishop Victor Kindo  (2006.03.23 – 2008.06.12)Born:1947.05.12 (Saraitoli, India)Ordained Priest:1974.12.14Consecrated Bishop:1986.01.20Died:2008.06.12 († 61)Priest of Raigarh (India) (1974.12.14 – 1985.11.25)Bishop of Raigarh (India) (1985.11.25 – 2006.03.23)Bishop of Jashpur (India) (2006.03.23 – 2008.06.12)Special ChurchesCathedral:  Cathedral of Our Lady of the Rosary, Kunkuri, Chhattīsgarh Show MapRaigarh (↙), Ambikapur (←), Gumla (↗), Simdega (↘)Statistics (2022.12.31)Area: 5,838 km²Population: 190,056 Catholics (21.9% of 868,950 total)Pastoral Centres: 50 parishes, 1 missionPersonnel: 175 priests (111 diocesan, 64 religious), 457 religious (69 brothers, 388 sisters), 43 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "jash0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 868950,
+    "catholiques": 190056,
+    "pourcentage_catholiques": 21.9
+  },
+  "ressources": {
+    "pretres_diocesains": 111,
+    "pretres_religieux": null,
+    "total_pretres": 175,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 50
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

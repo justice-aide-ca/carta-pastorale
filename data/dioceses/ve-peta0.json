@@ -1,0 +1,29 @@
+{
+  "id": "ve-peta0",
+  "nom": "Petare",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Petare (español) / Petaren(sis) (Latin)Ecclesiastical Province: CaracasNeighbouring Dioceses: Los Teques (↙), Caracas (←), La Guaira (↖)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2021.11.16: Established as Diocese of Petare (español) / Petaren(sis) (Latin) (from Metropolitan Archdiocese of Caracas and became suffragan of Caracas)Present PrelatesBishop (2021.11.16 – ...):Bishop Juan Carlos Bravo Salazar (58)OrdinariesBishops of Petare (Roman Rite)Bishop Juan Carlos Bravo Salazar (58)  (2021.11.16 – ...)Bishop of Petare (Venezuela)Born:1967.11.02 (Quebrada Seca di El Pilar, Venezuela)Ordained Priest:1992.11.28Consecrated Bishop:2015.10.24Priest of Ciudad Guayana (Venezuela) (1992.11.28 – 2015.08.10)Bishop of Acarigua–Araure (Venezuela) (2015.08.10 – 2021.11.16)Bishop of Petare (Venezuela) (2021.11.16 – ...)Special ChurchesCathedral:  Catedral Dulce Nombre de Jesús, Petare, Miranda Co-Cathedral:  Concatedral Nuestra Señora del Rosario, Caracas, Miranda Churches by City (23)Show MapLos Teques (↙), Caracas (←), La Guaira (↖)Statistics (2022.12.31)Area: 177 km²Population: 663,000 Catholics (85.3% of 777,500 total)Pastoral Centres: 25 parishes, 3 missionsPersonnel: 18 priests (diocesan), 5 deacons, 72 religious (12 brothers, 60 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "peta0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 777500,
+    "catholiques": 663000,
+    "pourcentage_catholiques": 85.3
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

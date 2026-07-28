@@ -1,0 +1,29 @@
+{
+  "id": "cm-bafa1",
+  "nom": "Bafang",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Bafang / Bafangen(sis) (Latin)Ecclesiastical Province: DoualaNeighbouring Dioceses: Nkongsamba (↙), Mamfe (↖), Bafoussam (↗), Bafia (↘), Douala (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2012.05.26: Established as Diocese of Bafang / Bafangen(sis) (Latin) (from Diocese of Nkongsamba and became suffragan of Douala)Present PrelatesBishop (2012.05.26 – ...):Bishop Abraham Boualo Kome (57)OrdinariesBishops of Bafang (Roman Rite)Bishop Abraham Boualo Kome (57)  (2012.05.26 – ...)Bishop of Bafang (Cameroon)Lucem et paxBorn:1969.07.02 (Loum-ville, Cameroon)Ordained Priest:1999.12.11Consecrated Bishop:2012.07.15Priest of Nkongsamba (Cameroon) (1999.12.11 – 2012.05.26)Bishop of Bafang (Cameroon) (2012.05.26 – ...)Apostolic Administrator of Bafia (Cameroon) (2017.06.06 – 2020.05.13)President of National Episcopal Conference of Cameroon (2019.05.03 – 2022.04.30)Special ChurchesCathedral:  Cathédrale du Cœur-Immaculé de Marie, Bafang, West Show MapNkongsamba (↙), Mamfe (↖), Bafoussam (↗), Bafia (↘), Douala (↓)Statistics (2022.12.31)Area: 7,229 km²Population: 165,400 Catholics (41.6% of 398,000 total)Pastoral Centres: 41 parishes, 95 missionsPersonnel: 50 priests (diocesan), 6 religious (6 sisters), 32 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bafa1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 398000,
+    "catholiques": 165400,
+    "pourcentage_catholiques": 41.6
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 41
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

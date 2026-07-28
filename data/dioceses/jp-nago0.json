@@ -1,0 +1,29 @@
+{
+  "id": "jp-nago0",
+  "nom": "Nagoya 名古屋",
+  "pays": "jp",
+  "pays_nom": "Japan",
+  "continent": "unknown",
+  "type": "Diocese Name: Nagoya 名古屋 / Nagoyën(sis) (Latin)Ecclesiastical Province: Osaka–Takamatsu 大阪高松Neighbouring Dioceses: Kyoto 京都 (←), Yokohama 横浜 (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsCathedral Dedication Anniversary: March 21Liturgical Calendar (National) 📅History1922.02.18: Established as Apostolic Prefecture of Nagoya 名古屋 / Nagoyën(sis) (Latin) (from Metropolitan Archdiocese of Tokyo 東京 and Apostolic Prefecture of Niigata 新潟 and became suffragan of Tokyo 東京)1962.04.16: Promoted as Diocese of Nagoya 名古屋 / Nagoyën(sis) (Latin)1969.06.24: Became suffragan of Osaka 大阪Present PrelatesBishop (2015.03.29 – ...):Bishop Michael Gorō Matsuura (ミカエル 松浦悟郎) (73)Monsignors (1)OrdinariesBishops of Nagoya 名古屋 (Roman Rite)Bishop Michael Gorō Matsuura (ミカエル 松浦悟郎) (73)  (2015.03.29 – ...)Bishop of Nagoya 名古屋 (Japan)Pax et justitiaBorn:1952.09.28 (Nagoya, 愛知県, Japan)Ordained Priest:1981.03.21Consecrated Bishop:1999.07.17Priest of Nagoya 名古屋 (Japan) (1981.03.21 – 1999.04.19)Titular Bishop of Sfasferia (1999.04.19 – 2015.03.29)Auxiliary Bishop of Osaka 大阪 (Japan) (1999.04.19 – 2015.03.29)Bishop of Nagoya 名古屋 (Japan) (2015.03.29 – ...)Bishop Augustinus Jun-ichi Nomura (アウグスチノ 野村純一) (88)  (1993.04.05 – 2015.03.29)Bishop emeritus of Nagoya 名古屋 (Japan)Unum Corpus multi sumusBorn:1937.11.20 (Kōchi, 高知県, Japan)Ordained Priest:1964.12.19Consecrated Bishop:1993.07.04Priest of Nagoya 名古屋 (Japan) (1964.12.19 – 1993.04.05)Bishop of Nagoya 名古屋 (Japan) (1993.04.05 – 2015.03.29)President of Catholic Bishops’ Conference of Japan (2001 – 2007.06)Bishop Aloysius Nobuo Soma (アロイジオ 相馬信夫)  (1969.06.26 – 1993.04.05)Born:1916.06.21 (Chiyoda, 東京都, Japan)Ordained Priest:1960.03.18Consecrated Bishop:1969.09.15Died:1997.10.06 (Nagoya, 愛知県, Japan † 81)Bishop of Nagoya 名古屋 (Japan) (1969.06.26 – 1993.04.05)Bishop Peter Magoshiro Matsuoka (ペトロ 松岡 孫四郎)  (1962.04.16 – 1969.06.26)Born:1887.03.20 (Nagasaki, 長崎県, Japan)Ordained Priest:1918.02.10Consecrated Bishop:1962.06.03Died:1980.08.06 († 93)Prefect Apostolic of Niigata 新潟 (Japan) (1941 – 1953)Prefect Apostolic of Nagoya 名古屋 (Japan) (1941 – 1962.04.16)Bishop of Nagoya 名古屋 (Japan) (1962.04.16 – 1969.06.26)Titular Bishop of Belali (1969.06.26 – 1971.02.04)Prefects Apostolic of Nagoya 名古屋 (Roman Rite)Fr. Peter Magoshiro Matsuoka (ペトロ 松岡 孫四郎) (later Bishop)  (1941 – 1962.04.16)(see above)Fr. Josef Reiners (ヨゼフ・ライネルス), S.V.D.  (1922.02.18 – 1941)Born:1874.03.20 (Germany)Ordained Priest:1898.08.15Died:1945.08.28 († 71)Prefect Apostolic of Niigata 新潟 (Japan) (1912 – 1926.06.28)Prefect Apostolic of Nagoya 名古屋 (Japan) (1922.02.18 – 1941)Special ChurchesCathedral:  Cathedral of Sts. Peter and Paul (Nunoike Church), 名古屋 (Nagoya), 愛知県, 中部地方 Former Cathedral (now secular):  Former Cathedral of St. Francis Xavier (Daimyoji Church), 犬山 (Inuyama), 愛知県, 中部地方 Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (61)Show MapKyoto 京都 (←), Yokohama 横浜 (→)Statistics (2022.12.31)Area: 28,417 km²Population: 25,922 Catholics (0.2% of 12,305,336 total)Pastoral Centres: 56 parishesPersonnel: 118 priests (15 diocesan, 103 religious), 3 deacons, 243 religious (118 brothers, 125 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nago0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 12305336,
+    "catholiques": 25922,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 15,
+    "pretres_religieux": null,
+    "total_pretres": 118,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 56
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

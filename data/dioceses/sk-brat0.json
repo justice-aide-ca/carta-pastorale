@@ -1,0 +1,29 @@
+{
+  "id": "sk-brat0",
+  "nom": "Bratislava",
+  "pays": "sk",
+  "pays_nom": "Slovakia",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese Name: Bratislava / Bratislavien(sis) (Latin)Suffragan Sees: Trnava, Banská Bystrica, Nitra, ŽilinaNeighbouring Dioceses: Wien (↖), Trnava (↗), Nitra (→), Győr (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Martin de ToursLiturgical Calendar 📅History1995.03.31: Established as Metropolitan Archdiocese of Bratislava–Trnava / Bratislavien(sis)–Tyrnavien(sis) (Latin) (from the suppressed Metropolitan Archdiocese of Trnava and with suffragan sees Banská Bystrica and Nitra)2008.02.14: Renamed as Metropolitan Archdiocese of Bratislava / Bratislavien(sis) (Latin) (lost territory to Diocese of Banská Bystrica and Diocese of Nitra, lost territory to establish Archdiocese of Trnava and gained suffragan sees Trnava and Žilina)Papal VisitsPope John Paul II (1990.04, 1995.06, 1995.07, 2003.09)Pope Francis (2021.09)Present PrelatesMetropolitan Archbishop (2008.02.14 – ...):Archbishop Stanislav Zvolenský (67)Auxiliary Bishop (2012.01.31 – ...):Bishop Jozef Haľko (62)Titular Bishop of SerraMonsignors (27)OrdinariesMetropolitan Archbishops of Bratislava (Roman Rite)Archbishop Stanislav Zvolenský (67)  (2008.02.14 – ...)Metropolitan Archbishop of Bratislava (Slovakia)Fiat voluntas tuaBorn:1958.11.19 (Trnava, Slovakia)Ordained Priest:1982.06.13Consecrated Bishop:2004.05.02Priest of Bratislava–Trnava (Slovakia) (1982.06.13 – 2004.04.02)Titular Bishop of Nova Sinna (2004.04.02 – 2008.02.14)Auxiliary Bishop of Bratislava–Trnava (Slovakia) (2004.04.02 – 2008.02.14)Metropolitan Archbishop of Bratislava (Slovakia) (2008.02.14 – ...)President of Episcopal Conference of Slovakia (2009.10.28 – 2022.10.10)Metropolitan Archbishops of Bratislava–Trnava (Roman Rite)Archbishop Ján Sokol (92)  (1995.03.31 – 2008.02.14)Archbishop emeritus of Trnava (Slovakia)Renovatio spiritualis per MariamBorn:1933.10.09 (Jacovce, Slovakia)Ordained Priest:1957.06.23Consecrated Bishop:1988.06.12Priest of Trnava (Slovakia) (1957.06.23 – 1988.05.19)Apostolic Administrator of Trnava (Slovakia) (1988 – 1989.07.26)Titular Bishop of Luni (1988.05.19 – 1989.07.26)Auxiliary Bishop of Trnava (Slovakia) (1988.05.19 – 1989.07.26)Metropolitan Archbishop of Trnava (Slovakia) (1989.07.26 – 1995.03.31)Metropolitan Archbishop of Bratislava–Trnava (Slovakia) (1995.03.31 – 2008.02.14)Vice-President of Episcopal Conference of Slovakia (2000.08.31 – 2003.09.16)Archbishop of Trnava (Slovakia) (2008.02.14 – 2009.04.18)Former PrelatesAuxiliary Bishop: Bishop Stanislav Zvolenský (67) (later Archbishop) (2004.04.02 – 2008.02.14)Auxiliary Bishop: Bishop Ján Orosch (73) (later Archbishop) (2004.04.02 – 2008.02.14)Auxiliary Bishop: Bishop Štefan Vrablec (1998.06.19 – 2004.04.02)Auxiliary Bishop: Bishop Dominik Tóth (1995.03.31 – 2004.04.02)Auxiliary Bishop: Bishop Vladimír Filo (1995.03.31 – 2002.11.23)Auxiliary Bishop: Bishop Dominik Hrušovský (later Archbishop) (1995.03.31 – 1996.04.15)Special ChurchesCathedral:  Katedrála sv. Martina, Bratislava, Bratislava Former Cathedral:  Katedrála sv. Jána a sv. Felixa z Valois, Bratislava, Bratislava Minor Basilica:  Bazilika Narodenia Panny Márie, Marianka, Bratislava Minor Basilica, National Shrine:  Bazilika Sedembolestnej Panny Márie, Šaštín-Stráže, Trnava Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (209)Show MapWien (↖), Trnava (↗), Nitra (→), Győr (↓)Statistics (2022.12.31)Area: 3,759 km²Population: 445,000 Catholics (57.2% of 777,985 total)Pastoral Centres: 124 parishes, 18 missionsPersonnel: 337 priests (170 diocesan, 167 religious), 7 deacons, 635 religious (230 brothers, 405 sisters), 12 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "brat0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 777985,
+    "catholiques": 445000,
+    "pourcentage_catholiques": 57.2
+  },
+  "ressources": {
+    "pretres_diocesains": 170,
+    "pretres_religieux": null,
+    "total_pretres": 337,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 124
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

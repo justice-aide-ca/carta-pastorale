@@ -1,0 +1,29 @@
+{
+  "id": "ma-sand2",
+  "nom": "Sandakan",
+  "pays": "ma",
+  "pays_nom": "Malaysia",
+  "continent": "unknown",
+  "type": "Diocese Name: Sandakan / 山打根 (正體中文) / Sandakanan(us) (Latin)Ecclesiastical Province: Kota KinabaluNeighbouring Dioceses: Kota Kinabalu (←), Puerto Princesa (↑), Jolo (→), Tanjung Selor (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (National) 📅History2007.07.16: Established as Diocese of Sandakan / 山打根 (正體中文) / Sandakanan(us) (Latin) (from Diocese of Kota Kinabalu and became suffragan of Kuching)2008.05.23: Became suffragan of Kota KinabaluPresent PrelatesBishop (2007.07.16 – ...):Bishop Julius Dusin Gitom (68)OrdinariesBishops of Sandakan (Roman Rite)Bishop Julius Dusin Gitom (68)  (2007.07.16 – ...)Bishop of Sandakan (Malaysia)Serve one another with God’s loveBorn:1957.10.14 (Kampung Loltos, Malaysia)Ordained Priest:1989.11.19Consecrated Bishop:2007.10.15Priest of Kota Kinabalu (Malaysia) (1989.11.19 – 2007.07.16)Bishop of Sandakan (Malaysia) (2007.07.16 – ...)Special ChurchesCathedral:  Cathedral of St. Mary, Sandakan, Sabah Churches by City (5)Show MapKota Kinabalu (←), Puerto Princesa (↑), Jolo (→), Tanjung Selor (↓)Statistics (2022.12.31)Area: 43,110 km²Population: 58,616 Catholics (4.4% of 1,329,301 total)Pastoral Centres: 6 parishes, 1 missionPersonnel: 11 priests (diocesan), 8 religious (8 sisters), 5 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sand2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1329301,
+    "catholiques": 58616,
+    "pourcentage_catholiques": 4.4
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

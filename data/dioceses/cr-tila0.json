@@ -1,0 +1,29 @@
+{
+  "id": "cr-tila0",
+  "nom": "Tilarán–Liberia",
+  "pays": "cr",
+  "pays_nom": "Costa Rica",
+  "continent": "unknown",
+  "type": "Diocese Name: Tilarán–Liberia / Tilaranen(sis)–Liberian(us) (Latin)Ecclesiastical Province: San JoséNeighbouring Dioceses: Granada (↑), Ciudad Quesada (↗), Alajuela (→), Puntarenas (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Anthony of Padua (June 13)Cathedral Dedication Anniversary: October 12Liturgical Calendar 📅History1961.07.22: Established as Diocese of Tilarán / Tilaranen(sis) (Latin) (from Diocese of Alajuela and became suffragan of San José)1995.07.25: Lost territory to establish Diocese of Ciudad Quesada1998.04.17: Lost territory to establish Diocese of Puntarenas2010.12.18: Renamed as Diocese of Tilarán–Liberia / Tilaranen(sis)–Liberian(us) (Latin)Present PrelatesBishop (2016.02.06 – ...):Bishop Manuel Eugenio Salazar Mora (67)Monsignors (3)OrdinariesBishops of Tilarán–Liberia (Roman Rite)Bishop Manuel Eugenio Salazar Mora (67)  (2016.02.06 – ...)Bishop of Tilarán–Liberia (Costa Rica)Born:1958.10.09 (Guadalupe, Costa Rica)Ordained Priest:1982.12.04Consecrated Bishop:2016.04.04Priest of San José (Costa Rica) (1982.12.04 – 2016.02.06)Bishop of Tilarán–Liberia (Costa Rica) (2016.02.06 – ...)Bishop Vittorino Girardi Stellin, M.C.C.J. (88)  (2010.12.18 – 2016.02.06)Bishop emeritus of Tilarán–Liberia (Costa Rica)Ut vitam habeantBorn:1938.03.24 (Lendinaria, Italy)Ordained Priest:1963.03.30Consecrated Bishop:2002.09.21General Secretary of Episcopal Conference of Costa Rica (2002 – 2008)Bishop of Tilarán (Costa Rica) (2002.07.13 – 2010.12.18)Bishop of Tilarán–Liberia (Costa Rica) (2010.12.18 – 2016.02.06)Bishops of Tilarán (Roman Rite)Bishop Vittorino Girardi Stellin, M.C.C.J. (88)  (2002.07.13 – 2010.12.18)(see above)Bishop Héctor Morera Vega  (1979.12.04 – 2002.07.13)Born:1926.02.20 (Palmares, Costa Rica)Ordained Priest:1949.12.17Consecrated Bishop:1979.12.27Died:2017.12.23 (Tilarán, Costa Rica † 91)Bishop of Tilarán (Costa Rica) (1979.12.04 – 2002.07.13)Bishop Román Arrieta Villalobos (later Archbishop)  (1961.08.12 – 1979.07.02)Born:1924.11.13 (San Antonio de Belén, Costa Rica)Ordained Priest:1948.12.18Consecrated Bishop:1961.09.21Died:2005.03.08 (Rivera de Belén, Costa Rica † 80)Priest of San José (Costa Rica) (1948.12.18 – 1961.08.12)Bishop of Tilarán (Costa Rica) (1961.08.12 – 1979.07.02)President of Episcopal Conference of Costa Rica (1970 – 2002)President of Episcopal Secretariat of Central America and Panama (1972 – 1976)Second Vice-President of Latin American Episcopal Council (1979 – 1983)Metropolitan Archbishop of San José (Costa Rica) (1979.07.02 – 2002.07.13)President of Episcopal Secretariat of Central America and Panama (1981 – 1984)Special ChurchesCathedral:  Catedral San Antonio de Padua, Tilarán, Guanacaste Co-Cathedral:  Catedral de La Inmaculada Concepción, Liberia, Guanacaste National Shrine:  Santuario Santo Cristo de Esquipulas, Santa Cruz, Guanacaste Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapGranada (↑), Ciudad Quesada (↗), Alajuela (→), Puntarenas (↘)Statistics (2021.12.31)Area: 11,720 km²Population: 393,000 Catholics (77.5% of 507,000 total)Pastoral Centres: 36 parishesPersonnel: 49 priests (45 diocesan, 4 religious), 22 deacons, 18 religious (4 brothers, 14 sisters), 13 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tila0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 507000,
+    "catholiques": 393000,
+    "pourcentage_catholiques": 77.5
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 49,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

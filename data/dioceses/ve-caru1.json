@@ -1,0 +1,29 @@
+{
+  "id": "ve-caru1",
+  "nom": "Carúpano",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Carúpano / Carupæn(sis) (Latin)Ecclesiastical Province: CumanáNeighbouring Dioceses: Cumaná (←), Saint George’s in Grenada (↗), Port of Spain (→), Maturín (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Nuestra Señora del Pilar (October 12)Cathedral Dedication Anniversary: August 30Liturgical Calendar (National) 📅History2000.04.04: Established as Diocese of Carúpano / Carupæn(sis) (Latin) (from Metropolitan Archdiocese of Cumaná and became suffragan of Cumaná)Contact InfoAddress: Calle Santos Aníbal Dominici, No. 8. Sector Santa Rosa, Código Postal 6124, Carúpano, Estado Sucre, VenezuelaPresent PrelatesBishop (2010.04.10 – ...):Bishop Jaime José Villarroel Rodríguez (64)Monsignors (2)OrdinariesBishops of Carúpano (Roman Rite)Bishop Jaime José Villarroel Rodríguez (64)  (2010.04.10 – ...)Bishop of Carúpano (Venezuela)Boga mar adentroBorn:1962.05.17 (Porlamar, Venezuela)Ordained Priest:1993.07.30Consecrated Bishop:2010.06.26Priest of Margarita (Venezuela) (1993.07.30 – 2010.04.10)Chaplain of His Holiness (2004.10.10 – 2010.04.10)Bishop of Carúpano (Venezuela) (2010.04.10 – ...)Bishop Enrique Pérez Lavado (75)  (Apostolic Administrator 2009 – 2010.04.10)Bishop Manuel Felipe Díaz Sánchez (71) (later Archbishop)  (2000.04.04 – 2008.12.10)Metropolitan Archbishop of Calabozo (Venezuela)Ego elegi vosBorn:1955.05.05 (Araure, Venezuela)Ordained Priest:1979.07.14Consecrated Bishop:1997.05.24Priest of Barquisimeto (Venezuela) (1979.07.14 – 1997.02.27)Titular Bishop of Sitifis (1997.02.27 – 2000.04.04)Auxiliary Bishop of Cumaná (Venezuela) (1997.02.27 – 2000.04.04)Bishop of Carúpano (Venezuela) (2000.04.04 – 2008.12.10)Metropolitan Archbishop of Calabozo (Venezuela) (2008.12.10 – ...)Special ChurchesCathedral:  Catedral Santa Rosa de Lima, Carúpano, Sucre Show MapCumaná (←), Saint George’s in Grenada (↗), Port of Spain (→), Maturín (↓)Statistics (2022.12.31)Area: 5,818 km²Population: 548,970 Catholics (98.8% of 555,800 total)Pastoral Centres: 25 parishes, 2 missionsPersonnel: 31 priests (diocesan), 3 religious (3 sisters), 34 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "caru1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 555800,
+    "catholiques": 548970,
+    "pourcentage_catholiques": 98.8
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

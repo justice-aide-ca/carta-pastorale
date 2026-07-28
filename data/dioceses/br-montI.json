@@ -1,0 +1,29 @@
+{
+  "id": "br-montI",
+  "nom": "Montenegro",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Montenegro / Nigromontan(us) (Latin)Ecclesiastical Province: Porto AlegreNeighbouring Dioceses: Santa Cruz do Sul (←), Caxias do Sul (↗), Novo Hamburgo (→), Porto Alegre (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2008.07.02: Established as Diocese of Montenegro / Nigromontan(us) (Latin) (from Metropolitan Archdiocese of Porto Alegre and became suffragan of Porto Alegre)Present PrelatesBishop (2017.10.18 – ...):Bishop Carlos Rômulo Gonçalves e Silva (57)OrdinariesBishops of Montenegro (Roman Rite)Bishop Carlos Rômulo Gonçalves e Silva (57)  (2017.10.18 – ...)Bishop of Montenegro (Brazil)Servite Domino in lætitiaBorn:1969.01.24 (Piratini, RS, Brazil)Ordained Priest:1994.12.08Consecrated Bishop:2017.06.04Priest of Pelotas (Brazil) (1994.12.08 – 2017.03.22)Coadjutor Bishop of Montenegro (Brazil) (2017.03.22 – 2017.10.18)Bishop of Montenegro (Brazil) (2017.10.18 – ...)Bishop Paulo Antônio de Conto (83)  (2008.07.02 – 2017.10.18)Bishop emeritus of Montenegro (Brazil)Mihi Vivere ChristusBorn:1942.10.12 (Encantado, RS, Brazil)Ordained Priest:1968.07.13Consecrated Bishop:1991.09.15Priest of Santa Cruz do Sul (Brazil) (1968.07.13 – 1991.07.24)Bishop of São Luiz de Cáceres (Brazil) (1991.07.24 – 1998.05.27)Bishop of Criciúma (Brazil) (1998.05.27 – 2008.07.02)Bishop of Montenegro (Brazil) (2008.07.02 – 2017.10.18)Apostolic Administrator of Passo Fundo (Brazil) (2015.07.15 – 2015.12.02)Apostolic Administrator of Nova Friburgo (Brazil) (2020.01.22 – 2020.05.06)Apostolic Administrator of Cascavel (Brazil) (2024.02.13 – 2024.05.02)Former PrelatesCoadjutor Bishop: Bishop Carlos Rômulo Gonçalves e Silva (57) (2017.03.22 – 2017.10.18)Special ChurchesCathedral:  Catedral de São João Batista, Montenegro, Rio Grande do Sul Churches by City (31)Show MapSanta Cruz do Sul (←), Caxias do Sul (↗), Novo Hamburgo (→), Porto Alegre (↘)Statistics (2022.12.31)Area: 4,397 km²Population: 325,498 Catholics (80.0% of 406,627 total)Pastoral Centres: 30 parishesPersonnel: 53 priests (51 diocesan, 2 religious), 3 deacons, 42 religious (6 brothers, 36 sisters), 11 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "montI",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 406627,
+    "catholiques": 325498,
+    "pourcentage_catholiques": 80.0
+  },
+  "ressources": {
+    "pretres_diocesains": 51,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

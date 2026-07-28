@@ -1,0 +1,29 @@
+{
+  "id": "in-shim0",
+  "nom": "Shimoga",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Shimoga / Shimogaën(sis) (Latin)Ecclesiastical Province: BangaloreNeighbouring Dioceses: Udupi (↙), Karwar (↖), Bellary (↗), Kurnool (→), Bangalore (↘), Chikmagalur (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Sacred Heart of JesusLiturgical Calendar (National) 📅History1988.11.14: Established as Diocese of Shimoga / Shimogaën(sis) (Latin) (from Metropolitan Archdiocese of Bangalore and Diocese of Chikmagalur and became suffragan of Bangalore)Present PrelatesBishop:vacantApostolic Administrator (2025.10.07 – ...):Bishop Duming Dias (56)Bishop of Karwar (India)OrdinariesBishops of Shimoga (Roman Rite)Bishop Duming Dias (56)  (Apostolic Administrator 2025.10.07 – ...)Bishop Francis Serrao, S.J. (66)  (2014.03.19 – 2025.08.15)Bishop of Mysore (India)Service of faith fullness of lifeBorn:1959.08.15 (Moodbidri, India)Ordained Priest:1992.04.30Consecrated Bishop:2014.05.07Bishop of Shimoga (India) (2014.03.19 – 2025.08.15)Bishop of Mysore (India) (2025.08.15 – ...)Bishop Henry D’Souza (76)  (Apostolic Administrator 2012.10.16 – 2014.03.19)Bishop Gerald Isaac Lobo (76)  (1999.12.03 – 2012.07.16)Bishop emeritus of Udupi (India)Service and faith, fullness in lifeBorn:1949.11.12 (Agrar, India)Ordained Priest:1977.05.05Consecrated Bishop:2000.03.20Priest of Mangalore (India) (1977.05.05 – 1999.12.03)Bishop of Shimoga (India) (1999.12.03 – 2012.07.16)Bishop of Udupi (India) (2012.07.16 – 2026.01.31)Bishop Ignatius Paul Pinto (later Archbishop)  (1988.11.14 – 1998.09.10)Ora et laboraBorn:1925.05.18 (Bantval, India)Ordained Priest:1952.08.24Consecrated Bishop:1989.01.31Died:2023.02.08 (Bangalore, India † 97)Bishop of Shimoga (India) (1988.11.14 – 1998.09.10)General Secretary of Conference of Catholic Bishops of India (1994 – 1998)Metropolitan Archbishop of Bangalore (India) (1998.09.10 – 2004.06.24)Special ChurchesCathedral:  Sacred Heart Cathedral, Shimoga, Karnātaka Minor Basilica:  Basilica of Our Lady of Health, Harihar, Karnātaka Show MapUdupi (↙), Karwar (↖), Bellary (↗), Kurnool (→), Bangalore (↘), Chikmagalur (↓)Statistics (2022.12.31)Area: 22,893 km²Population: 17,944 Catholics (0.3% of 5,362,795 total)Pastoral Centres: 21 parishes, 1 missionPersonnel: 88 priests (46 diocesan, 42 religious), 264 religious (42 brothers, 222 sisters), 9 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "shim0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5362795,
+    "catholiques": 17944,
+    "pourcentage_catholiques": 0.3
+  },
+  "ressources": {
+    "pretres_diocesains": 46,
+    "pretres_religieux": null,
+    "total_pretres": 88,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

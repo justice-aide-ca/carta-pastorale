@@ -1,0 +1,29 @@
+{
+  "id": "br-coro1",
+  "nom": "Coroatá",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Coroatá / Coroaten(sis) (Latin)Ecclesiastical Province: São Luís do MaranhãoNeighbouring Dioceses: Bacabal (←), Viana (↖), São Luís do Maranhão (↑), Brejo (→), Caxias do Maranhão (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nossa Senhora da Piedade (September 15)Liturgical Calendar (National) 📅History1977.08.26: Established as Diocese of Coroatá / Coroaten(sis) (Latin) (from Metropolitan Archdiocese of São Luís do Maranhão and became suffragan of São Luís do Maranhão)2001.07.19: Gained territory from Diocese of BacabalPresent PrelatesBishop (2011.01.16 – ...):Bishop Sebastião Bandeira Coêlho (67)Monsignors (2)OrdinariesBishops of Coroatá (Roman Rite)Bishop Sebastião Bandeira Coêlho (67)  (2011.01.16 – ...)Bishop of Coroatá (Brazil)Comunhão e EsperançaBorn:1959.01.31 (Riação, MA, Brazil)Ordained Priest:1984.07.28Consecrated Bishop:2005.03.12Priest of Balsas (Brazil) (1984.07.28 – 2004.12.22)Titular Bishop of Thubursicum (2004.12.22 – 2010.01.07)Auxiliary Bishop of Manaus (Brazil) (2004.12.22 – 2010.01.07)Coadjutor Bishop of Coroatá (Brazil) (2010.01.07 – 2011.01.16)Bishop of Coroatá (Brazil) (2011.01.16 – ...)Bishop Reinaldo Ernst E. Pünder  (1978.05.05 – 2011.01.16)Primeiro o Reino de DeusBorn:1939.01.12 (Berlin, Germany)Ordained Priest:1964.10.10Consecrated Bishop:1978.07.29Died:2011.01.16 († 72)Priest of Limburg (Germany) (1964.10.10 – 1978.05.05)Bishop of Coroatá (Brazil) (1978.05.05 – 2011.01.16)Former PrelatesCoadjutor Bishop: Bishop Sebastião Bandeira Coêlho (67) (2010.01.07 – 2011.01.16)Special ChurchesCathedral:  Catedral Nossa Senhora da Piedade, Coroatá, Maranhão Show MapBacabal (←), Viana (↖), São Luís do Maranhão (↑), Brejo (→), Caxias do Maranhão (↘)Statistics (2022.12.31)Area: 19,071 km²Population: 468,855 Catholics (76.5% of 612,700 total)Pastoral Centres: 23 parishes, 967 missionsPersonnel: 44 priests (37 diocesan, 7 religious), 24 deacons, 46 religious (12 brothers, 34 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "coro1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 612700,
+    "catholiques": 468855,
+    "pourcentage_catholiques": 76.5
+  },
+  "ressources": {
+    "pretres_diocesains": 37,
+    "pretres_religieux": null,
+    "total_pretres": 44,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

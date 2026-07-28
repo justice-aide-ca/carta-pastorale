@@ -1,0 +1,29 @@
+{
+  "id": "hr-poze0",
+  "nom": "Požega",
+  "pays": "hr",
+  "pays_nom": "Croatia",
+  "continent": "unknown",
+  "type": "Diocese Name: Požega / Posegan(us) (Latin)Ecclesiastical Province: Đakovo–OsijekNeighbouring Dioceses: Banja Luka (↙), Bjelovar–Križevci (↖), Kaposvár (↑), Pécs (↗), Subotica (↗), Đakovo–Osijek (→)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Lawrence of Rome (August 10), Blessed Alojzije Stepinac (February 10)Cathedral Dedication Anniversary: September 27Liturgical Calendar 📅History1997.07.05: Established as Diocese of Požega / Posegan(us) (Latin) (from Metropolitan Archdiocese of Zagreb and became suffragan of Zagreb)2008.06.18: Became suffragan of Đakovo–OsijekPresent PrelatesBishop (2024.03.11 – ...):Bishop Ivo Martinović, T.O.R. (61)Monsignors (8)OrdinariesBishops of Požega (Roman Rite)Bishop Ivo Martinović, T.O.R. (61)  (2024.03.11 – ...)Bishop of Požega (Croatia)Gaudium et paxBorn:1965.06.28 (Županja, Croatia)Ordained Priest:1992.06.28Consecrated Bishop:2024.06.08Bishop of Požega (Croatia) (2024.03.11 – ...)Bishop Antun Škvorčević (79)  (1997.07.05 – 2024.03.11)Bishop emeritus of Požega (Croatia)Christus hodie et in sæculaBorn:1947.05.08 (Davor, Croatia)Ordained Priest:1972.06.25Consecrated Bishop:1997.09.27Priest of Zagreb (Croatia) (1972.06.25 – 1997.07.05)Bishop of Požega (Croatia) (1997.07.05 – 2024.03.11)Special ChurchesCathedral:  Katedrala sv. Terezije Avilske, Požega, Požega-Slavonia Minor Basilica:  Bazilika Pohoda Blažene Djevice Marije, Voćin, Virovitica-Podravina Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (95)Show MapBanja Luka (↙), Bjelovar–Križevci (↖), Kaposvár (↑), Pécs (↗), Subotica (↗), Đakovo–Osijek (→)Statistics (2022.12.31)Area: 6,931 km²Population: 244,335 Catholics (91.7% of 266,435 total)Pastoral Centres: 93 parishesPersonnel: 119 priests (102 diocesan, 17 religious), 2 deacons, 87 religious (23 brothers, 64 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "poze0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 266435,
+    "catholiques": 244335,
+    "pourcentage_catholiques": 91.7
+  },
+  "ressources": {
+    "pretres_diocesains": 102,
+    "pretres_religieux": null,
+    "total_pretres": 119,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 93
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

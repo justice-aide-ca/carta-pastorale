@@ -1,0 +1,29 @@
+{
+  "id": "ph-pasi0",
+  "nom": "Pasig",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Pasig / Pasigin(us) (Latin)Ecclesiastical Province: ManilaNeighbouring Dioceses: Parañaque (↙), Manila (←), Cubao (↑), Antipolo (↗)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Our Lady of the Immaculate ConceptionCathedral Dedication Anniversary: August 21Liturgical Calendar (National) 📅History2003.06.28: Established as Diocese of Pasig / Pasigin(us) (Latin) (from Metropolitan Archdiocese of Manila and Diocese of Antipolo and became suffragan of Manila)Present PrelatesBishop (2011.04.20 – ...):Bishop Mylo Hubert Claudio Vergara (63)Monsignors (1)OrdinariesBishops of Pasig (Roman Rite)Bishop Mylo Hubert Claudio Vergara (63)  (2011.04.20 – ...)Bishop of Pasig (Philippines)Pasce agnos meosBorn:1962.10.23 (Manila, Philippines)Ordained Priest:1990.03.24Consecrated Bishop:2005.04.30Priest of Manila (Philippines) (1990.03.24 – 2003.08.28)Chaplain of His Holiness (1996.04.28 – 2005.02.12)Priest of Manila (Philippines) (2003.08.28 – 2005.02.12)Bishop of San Jose de Nueva Ecija (Philippines) (2005.02.12 – 2011.04.20)Bishop of Pasig (Philippines) (2011.04.20 – ...)Vice-President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.) (2021.12.01 – 2025.12.01)Apostolic Administrator of San Pablo (Philippines) (2023.09.21 – 2024.09.21)Cardinal Gaudencio Borbon Rosales (93)  (Apostolic Administrator 2010.12.21 – 2011.04.20)Bishop Francisco Capiral San Diego  (2003.06.28 – 2010.12.21)Servus DeiBorn:1935.10.10 (Obando, Philippines)Ordained Priest:1963.12.21Consecrated Bishop:1983.08.10Died:2015.08.26 († 79)Priest of Manila (Philippines) (1963.12.21 – 1983.06.06)Coadjutor Vicar Apostolic of Palawan (Philippines) (1983.06.06 – 1987.12.18)Titular Bishop of Zica (1983.06.06 – 1995.07.12)Vicar Apostolic of Palawan (Philippines) (1987.12.18 – 1995.07.12)Bishop of San Pablo (Philippines) (1995.07.12 – 2003.06.28)Bishop of Pasig (Philippines) (2003.06.28 – 2010.12.21)Special ChurchesCathedral:  Immaculate Conception Cathedral, Pasig City, National Capital Region Minor Basilica:  Basilica Shrine of St. Anne, Taguig, National Capital Region Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (34)Show MapParañaque (↙), Manila (←), Cubao (↑), Antipolo (↗)Statistics (2022.12.31)Area: 78 km²Population: 1,756,388 Catholics (87.1% of 2,017,214 total)Pastoral Centres: 31 parishesPersonnel: 62 priests (48 diocesan, 14 religious), 90 religious (15 brothers, 75 sisters), 25 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pasi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2017214,
+    "catholiques": 1756388,
+    "pourcentage_catholiques": 87.1
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 62,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

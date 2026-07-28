@@ -1,0 +1,29 @@
+{
+  "id": "cd-tshi0",
+  "nom": "Tshilomba",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Tshilomba / Tshilombana (Latin)Ecclesiastical Province: KanangaNeighbouring Dioceses: Luiza (←), Mbujimayi (↑), Kamina (↘), Kolwezi (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2022.03.25: Established as Diocese of Tshilomba / Tshilombana (Latin) (from Diocese of Luiza and became suffragan of Kananga)Present PrelatesBishop (2022.03.25 – ...):Bishop Sebastien Kenda Ntumba (66)OrdinariesBishops of Tshilomba (Roman Rite)Bishop Sebastien Kenda Ntumba (66)  (2022.03.25 – ...)Bishop of Tshilomba (Congo-Kinshasa)Born:1960.06.11 (Tshiona, Congo-Kinshasa)Ordained Priest:1987.08.09Consecrated Bishop:2022.06.05Priest of Luiza (Congo-Kinshasa) (1987.08.09 – 2022.03.25)Bishop of Tshilomba (Congo-Kinshasa) (2022.03.25 – ...)Special ChurchesCathedral:  Cathédrale Saint-Jacques, Tshilomba, Lomami Show MapLuiza (←), Mbujimayi (↑), Kamina (↘), Kolwezi (↓)Statistics (2022.12.31)Area: 11,747 km²Population: 729,000 Catholics (55.2% of 1,320,000 total)Pastoral Centres: 28 parishes, 1 missionPersonnel: 63 priests (55 diocesan, 8 religious), 4 deacons, 370 religious (24 brothers, 346 sisters), 18 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tshi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1320000,
+    "catholiques": 729000,
+    "pourcentage_catholiques": 55.2
+  },
+  "ressources": {
+    "pretres_diocesains": 55,
+    "pretres_religieux": null,
+    "total_pretres": 63,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

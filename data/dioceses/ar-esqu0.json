@@ -1,0 +1,29 @@
+{
+  "id": "ar-esqu0",
+  "nom": "Esquel",
+  "pays": "ar",
+  "pays_nom": "Argentina",
+  "continent": "amerique",
+  "type": "Territorial Prelature Name: Esquel / Esquelen(sis) (Latin)Ecclesiastical Province: Bahía BlancaNeighbouring Dioceses: Aysén (↙), San Carlos de Ancud (←), Puerto Montt (↖), San Carlos de Bariloche (↑), Rawson (→), Comodoro Rivadavia (↘)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2009.03.14: Established as Territorial Prelature of Esquel / Esquelen(sis) (Latin) (from Diocese of Comodoro Rivadavia and became suffragan of Bahía Blanca)Contact InfoAddress: Av. Alvear 2455, Dto. 1, 9200 Esquel, Chubut, ArgentinaPhone: (0294)545.11.10Present PrelatesBishop-Prelate (2009.03.14 – ...):Bishop José Słaby, C.SS.R. (68)OrdinariesPrelates of Esquel (Roman Rite)Bishop José Słaby, C.SS.R. (68)  (2009.03.14 – ...)Bishop-Prelate of Esquel (Argentina)Servir a Dios y al hombreBorn:1958.03.01 (Zeleznikowa, Poland)Ordained Priest:1984.06.17Consecrated Bishop:2009.05.08Bishop-Prelate of Esquel (Argentina) (2009.03.14 – ...)Special ChurchesCathedral:  Catedral Sagrado Corazón de Jesús, Esquel, Chubut Churches by City (12)Show MapAysén (↙), San Carlos de Ancud (←), Puerto Montt (↖), San Carlos de Bariloche (↑), Rawson (→), Comodoro Rivadavia (↘)Statistics (2022.12.31)Area: 78,000 km²Population: 46,956 Catholics (67.8% of 69,260 total)Pastoral Centres: 13 parishes, 54 missionsPersonnel: 14 priests (8 diocesan, 6 religious), 18 religious (6 brothers, 12 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "esqu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 69260,
+    "catholiques": 46956,
+    "pourcentage_catholiques": 67.8
+  },
+  "ressources": {
+    "pretres_diocesains": 8,
+    "pretres_religieux": null,
+    "total_pretres": 14,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

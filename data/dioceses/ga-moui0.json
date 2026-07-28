@@ -1,0 +1,29 @@
+{
+  "id": "ga-moui0",
+  "nom": "Mouila",
+  "pays": "ga",
+  "pays_nom": "Gabon",
+  "continent": "unknown",
+  "type": "Diocese Name: Mouila / Muilaën(sis) (Latin)Ecclesiastical Province: LibrevilleNeighbouring Dioceses: Port-Gentil (←), Libreville (↖), Franceville (→), Dolisie (↘), Pointe-Noire (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1958.12.11: Established as Diocese of Mouila / Muilaën(sis) (Latin) (from Diocese of Libreville and became suffragan of Libreville)1974.10.05: Lost territory to establish Diocese of FrancevillePresent PrelatesBishop (2013.01.19 – ...):Bishop Mathieu Madega Lebouakehan (66)Monsignors (1)OrdinariesBishops of Mouila (Roman Rite)Bishop Mathieu Madega Lebouakehan (66)  (2013.01.19 – ...)Bishop of Mouila (Gabon)Born:1960.07.06 (Mbigou, Gabon)Ordained Priest:1991.12.29Consecrated Bishop:2000.05.07Priest of Mouila (Gabon) (1991.12.29 – 2000.02.17)Titular Bishop of Zallata (2000.02.17 – 2003.03.19)Auxiliary Bishop of Libreville (Gabon) (2000.02.17 – 2003.03.19)Bishop of Port-Gentil (Gabon) (2003.03.19 – 2013.01.19)Apostolic Administrator of Port-Gentil (Gabon) (2013.01.19 – 2016.01.12)Bishop of Mouila (Gabon) (2013.01.19 – ...)President of Episcopal Conference of Gabon (2014.07.11 – 2022.11.04)First Vice-President of Symposium of Episcopal Conferences of Africa and Madagascar (2016.07.24 – 2019.07.19)Bishop Dominique Bonnet, C.S.Sp. (87)  (1996.11.08 – 2013.01.19)Bishop emeritus of Mouila (Gabon)Born:1939.04.20 (Antigny, France)Ordained Priest:1966.06.29Consecrated Bishop:1997.01.11Apostolic Administrator of Mouila (Gabon) (1995.05.17 – 1996.11.08)Bishop of Mouila (Gabon) (1996.11.08 – 2013.01.19)Fr. Dominique Bonnet, C.S.Sp. (87) (later Bishop)  (Apostolic Administrator 1995.05.17 – 1996.11.08)Bishop Basile Mvé Engone, S.D.B. (85) (later Archbishop)  (Apostolic Administrator 1992.04.22 – 1995.05.17)Bishop Cyriaque Siméon Obamba  (1976.10.28 – 1992.04.22)Born:1918.02.28 (Oghéwa, Gabon)Ordained Priest:1946.05.12Consecrated Bishop:1977.01.30Died:1996.07.07 († 78)Bishop of Mouila (Gabon) (1976.10.28 – 1992.04.22)Bishop Raymond-Marie-Joseph de La Moureyre, C.S.Sp.  (1959.05.14 – 1976.10.28)Born:1911.03.08 (Saint-Flour, France)Ordained Priest:1934.06.29Consecrated Bishop:1959.09.13Died:1997.02.14 (Volzac, France † 85)Bishop of Mouila (Gabon) (1959.05.14 – 1976.10.28)Special ChurchesCathedral:  Cathédrale Saint-Jean-l’Apôtre, Mouila Show MapPort-Gentil (←), Libreville (↖), Franceville (→), Dolisie (↘), Pointe-Noire (↓)Statistics (2022.12.31)Area: 59,035 km²Population: 50,167 Catholics (32.6% of 153,880 total)Pastoral Centres: 17 parishesPersonnel: 25 priests (19 diocesan, 6 religious), 23 religious (9 brothers, 14 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "moui0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 153880,
+    "catholiques": 50167,
+    "pourcentage_catholiques": 32.6
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 25,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

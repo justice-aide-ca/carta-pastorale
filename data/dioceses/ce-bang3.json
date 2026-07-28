@@ -1,0 +1,29 @@
+{
+  "id": "ce-bang3",
+  "nom": "Bangassou",
+  "pays": "ce",
+  "pays_nom": "Central African Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: Bangassou / Bangassuen(sis) (Latin)Ecclesiastical Province: BanguiNeighbouring Dioceses: Molegbe (↙), Alindao (←), Bambari (↖), Wau (↗), Tombura–Yambio (→), Dungu–Doruma (↘), Bondo (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1954.06.14: Established as Apostolic Prefecture of Bangassou / Bangassuen(sis) (Latin) (from Apostolic Vicariate of Bangui)1964.02.10: Promoted as Diocese of Bangassou / Bangassuen(sis) (Latin) (became suffragan of Bangui)2004.12.18: Lost territory to establish Diocese of AlindaoPresent PrelatesBishop (2026.06.24 – ...):Bishop Aurelio Gazzera, O.C.D. (62)OrdinariesBishops of Bangassou (Roman Rite)Bishop Aurelio Gazzera, O.C.D. (62)  (2026.06.24 – ...)Bishop of Bangassou (Central African Republic)Born:1964.05.27 (Cuneo, Italy)Ordained Priest:1989.05.27Consecrated Bishop:2024.06.09Coadjutor Bishop of Bangassou (Central African Republic) (2024.02.23 – 2026.06.24)Bishop of Bangassou (Central African Republic) (2026.06.24 – ...)Bishop Juan-José Aguirre Muñoz, M.C.C.J. (72)  (2000.12.21 – 2026.06.24)Bishop emeritus of Bangassou (Central African Republic)Pax nostra estBorn:1954.06.05 (Córdoba, Spain)Ordained Priest:1980.09.13Consecrated Bishop:1998.05.10Coadjutor Bishop of Bangassou (Central African Republic) (1997.12.13 – 2000.12.21)Bishop of Bangassou (Central African Republic) (2000.12.21 – 2026.06.24)Bishop Antoine Marie Maanicus, C.S.Sp.  (1964.02.10 – 2000.12.21)Born:1924.09.28 (Amsterdam, Netherlands)Ordained Priest:1950.07.16Consecrated Bishop:1964.05.11Died:2000.12.21 († 76)Bishop of Bangassou (Central African Republic) (1964.02.10 – 2000.12.21)Prefects Apostolic of Bangassou (Roman Rite)Fr. Martin Bodewes, C.S.Sp.  (1955.03.04 – 1964.02.10)Born:1914.07.03 (Pannerden, Netherlands)Ordained Priest:1940.07.21Died:2011 († 97)Prefect Apostolic of Bangassou (Central African Republic) (1955.03.04 – 1964.02.10)Former PrelatesCoadjutor Bishop: Bishop Aurelio Gazzera, O.C.D. (62) (2024.02.23 – 2026.06.24)Coadjutor Bishop: Bishop Juan-José Aguirre Muñoz, M.C.C.J. (72) (1997.12.13 – 2000.12.21)Auxiliary Bishop: Bishop Jesús Ruiz Molina, M.C.C.J. (67) (2017.07.11 – 2021.03.10)Special ChurchesCathedral:  Cathédrale Saint-Pierre-Claver, Bangassou, Mbomou Show MapMolegbe (↙), Alindao (←), Bambari (↖), Wau (↗), Tombura–Yambio (→), Dungu–Doruma (↘), Bondo (↓)Statistics (2022.12.31)Area: 134,284 km²Population: 85,244 Catholics (14.1% of 603,000 total)Pastoral Centres: 13 parishesPersonnel: 29 priests (24 diocesan, 5 religious), 15 religious (7 brothers, 8 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bang3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 603000,
+    "catholiques": 85244,
+    "pourcentage_catholiques": 14.1
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 29,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

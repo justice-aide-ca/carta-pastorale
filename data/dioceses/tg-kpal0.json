@@ -1,0 +1,29 @@
+{
+  "id": "tg-kpal0",
+  "nom": "Kpalimé",
+  "pays": "tg",
+  "pays_nom": "Togo",
+  "continent": "unknown",
+  "type": "Diocese Name: Kpalimé / Kpalimen(sis) (Latin)Ecclesiastical Province: LoméNeighbouring Dioceses: Ho (←), Jasikan (↖), Atakpamé (↗), Lokossa (→), Aného (↘), Lomé (↘), Keta–Akatsi (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (Universal) 📅History1994.07.01: Established as Diocese of Kpalimé / Kpalimen(sis) (Latin) (from Metropolitan Archdiocese of Lomé and became suffragan of Lomé)Present PrelatesBishop (2026.06.26 – ...):Bishop-elect Edmond Yawo Amekuse (58)OrdinariesBishops of Kpalimé (Roman Rite)Bishop-elect Edmond Yawo Amekuse (58)  (2026.06.26 – ...)Bishop of Kpalimé (Togo)Born:1967.11.16 (Agou-Akoumahou, Togo)Ordained Priest:1996.12.28Consecrated Bishop:2026.08.29Priest of Kpalimé (Togo) (1996.12.28 – 2026.06.26)Bishop of Kpalimé (Togo) (2026.06.26 – ...)Bishop Benoît Comlan Messan Alowonou (77)  (2001.07.04 – 2026.06.26)President of Episcopal Conference of TogoBishop emeritus of Kpalimé (Togo)Sufficit tibi gratia meaBorn:1949.03.05 (Tsévié, Togo)Ordained Priest:1984.07.28Consecrated Bishop:2001.09.29Priest of Lomé (Togo) (1984.07.28 – 2001.07.04)Bishop of Kpalimé (Togo) (2001.07.04 – 2026.06.26)Apostolic Administrator of Atakpamé (Togo) (2006.03.01 – 2007.01.09)President of Episcopal Conference of Togo (2012.06.21 – ...)Bishop Pierre Koffi Seshie  (1994.07.01 – 2000.04.25)Born:1942.08.01 (Azahoun, Togo)Ordained Priest:1969.05.04Consecrated Bishop:1994.10.15Died:2000.04.25 († 57)Bishop of Kpalimé (Togo) (1994.07.01 – 2000.04.25)Special ChurchesCathedral:  Cathédrale Saint-Esprit, Kpalimé, Plateaux Show MapHo (←), Jasikan (↖), Atakpamé (↗), Lokossa (→), Aného (↘), Lomé (↘), Keta–Akatsi (↓)Statistics (2022.12.31)Area: 6,447 km²Population: 396,544 Catholics (43.8% of 905,225 total)Pastoral Centres: 68 parishes, 3 missionsPersonnel: 167 priests (141 diocesan, 26 religious), 180 religious (68 brothers, 112 sisters), 38 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.19© 2026 GCatholic.org",
+  "code_gcatholic": "kpal0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 905225,
+    "catholiques": 396544,
+    "pourcentage_catholiques": 43.8
+  },
+  "ressources": {
+    "pretres_diocesains": 141,
+    "pretres_religieux": null,
+    "total_pretres": 167,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 68
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

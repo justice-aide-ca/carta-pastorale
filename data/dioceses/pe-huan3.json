@@ -1,0 +1,29 @@
+{
+  "id": "pe-huan3",
+  "nom": "Santiago Apóstol de Huancané",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Territorial Prelature Name: Santiago Apóstol de Huancané (español) / Sancti Iacobi Apostoli de Huancané (Latin)Ecclesiastical Province: ArequipaNeighbouring Dioceses: Puno (↙), Ayaviri (←), Puerto Maldonado (↑), Reyes (↗), Coroico (→), La Paz (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History2019.04.03: Established as Territorial Prelature of Santiago Apóstol de Huancané (español) / Sancti Iacobi Apostoli de Huancané (Latin) (from Territorial Prelature of Ayaviri and Territorial Prelature of Juli and became suffragan of Arequipa)Present PrelatesBishop-Prelate (2019.04.03 – ...):Bishop Giovanni Cefai, M.S.S.P. (58)Apostolic Administrator of Juli (Peru)OrdinariesPrelates of Santiago Apóstol de Huancané (Roman Rite)Bishop Giovanni Cefai, M.S.S.P. (58)  (2019.04.03 – ...)Bishop-Prelate of Santiago Apóstol de Huancané (Peru)Apostolic Administrator of Juli (Peru)Misericordes sicut et PaterBorn:1967.08.05 (Zebbug, Malta)Ordained Priest:1997.12.06Consecrated Bishop:2019.06.22Bishop-Prelate of Santiago Apóstol de Huancané (Peru) (2019.04.03 – ...)Apostolic Administrator of Juli (Peru) (2025.09.24 – ...)Special ChurchesCathedral:  Catedral Santiago Apóstol, Huancané, Huánuco Show MapPuno (↙), Ayaviri (←), Puerto Maldonado (↑), Reyes (↗), Coroico (→), La Paz (↘)Statistics (2022.12.31)Area: 18,881 km²Population: 171,947 Catholics (85.8% of 200,489 total)Pastoral Centres: 22 parishes, 22 missionsPersonnel: 20 priests (diocesan), 5 religious (5 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "huan3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 200489,
+    "catholiques": 171947,
+    "pourcentage_catholiques": 85.8
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

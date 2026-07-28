@@ -1,0 +1,29 @@
+{
+  "id": "in-dhar0",
+  "nom": "Dharmapuri",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Dharmapuri / Dharmapurien(sis) (Latin)Ecclesiastical Province: Pondicherry and CuddaloreNeighbouring Dioceses: Mysore (←), Bangalore (↖), Cuddapah (↑), Vellore (↗), Pondicherry and Cuddalore (→), Salem (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Sacred Heart of JesusLiturgical Calendar (National) 📅History1997.01.24: Established as Diocese of Dharmapuri / Dharmapurien(sis) (Latin) (from Diocese of Salem and became suffragan of Pondicherry and Cuddalore)Present PrelatesBishop (2012.01.13 – ...):Bishop Lawrence Pius Dorairaj (72)OrdinariesBishops of Dharmapuri (Roman Rite)Bishop Lawrence Pius Dorairaj (72)  (2012.01.13 – ...)Bishop of Dharmapuri (India)To proclaim the good news to the poorBorn:1954.06.14 (Chennai, India)Ordained Priest:1981.12.28Consecrated Bishop:1999.02.21Priest of Madras and Mylapore (India) (1981.12.28 – 1998.11.28)Titular Bishop of Absa Salla (1998.11.28 – 2012.01.13)Auxiliary Bishop of Madras and Mylapore (India) (1998.11.28 – 2012.01.13)Bishop of Dharmapuri (India) (2012.01.13 – ...)Apostolic Administrator of Salem (India) (2020.03.09 – 2021.05.31)Bishop Joseph Anthony Irudayaraj, S.D.B.  (1997.01.24 – 2012.01.13)Fide et animaBorn:1935.10.04 (Pursawalkam, India)Ordained Priest:1965.04.20Consecrated Bishop:1997.04.24Died:2019.11.29 (Chennai, India † 84)Bishop of Dharmapuri (India) (1997.01.24 – 2012.01.13)Special ChurchesCathedral:  Sacred Heart Cathedral, Dharmapuri, Tamil Nādu Future Cathedral:  Sacred Heart Cathedral, Dharmapuri, Tamil Nādu Show MapMysore (←), Bangalore (↖), Cuddapah (↑), Vellore (↗), Pondicherry and Cuddalore (→), Salem (↓)Statistics (2022.12.31)Area: 9,641 km²Population: 56,162 Catholics (1.6% of 3,450,894 total)Pastoral Centres: 48 parishes, 5 missionsPersonnel: 121 priests (65 diocesan, 56 religious), 265 religious (56 brothers, 209 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "dhar0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3450894,
+    "catholiques": 56162,
+    "pourcentage_catholiques": 1.6
+  },
+  "ressources": {
+    "pretres_diocesains": 65,
+    "pretres_religieux": null,
+    "total_pretres": 121,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 48
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

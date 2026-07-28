@@ -1,0 +1,29 @@
+{
+  "id": "ua-buca1",
+  "nom": "Bučač",
+  "pays": "ua",
+  "pays_nom": "Ukraine",
+  "continent": "unknown",
+  "type": "Diocese Name: Bučač / Buchach / Bucacen(sis) (Latin)Ecclesiastical Province: Ternopil–ZborivNeighbouring Dioceses: Kolomyia (↙), Ivano-Frankivsk (←), Ternopil–Zboriv (↑), Kamyanets-Podilskyi (→), Chernivtsi (↘)Depends on: Dicastery for the Eastern ChurchesWebsite: History2000.07.21: Established as Diocese of Bučač / Buchach / Bucacen(sis) (Latin) (from Diocese of Ternopil)2004.12.06: Became suffragan of Kyiv2011.11.21: Became suffragan of Ternopil–ZborivPresent PrelatesBishop (2011.07.23 – ...):Bishop Dmytro Hryhorak, O.S.B.M. (70)Monsignors (1)OrdinariesBishops of Bučač (Ukrainian Rite)Bishop Dmytro Hryhorak, O.S.B.M. (70)  (2011.07.23 – ...)Bishop of Bučač of the Ukrainians (Ukraine)Бог це любовBorn:1956.01.01 (Ivano-Frankivsk, Ukraine)Ordained Priest:1992.10.25Consecrated Bishop:2011.09.18Apostolic Administrator of Bučač of the Ukrainians (Ukraine) (2007.07.28 – 2011.07.23)Bishop of Bučač of the Ukrainians (Ukraine) (2011.07.23 – ...)Fr. Dmytro Hryhorak, O.S.B.M. (70) (later Bishop)  (Apostolic Administrator 2007.07.28 – 2011.07.23)Bishop Irynej Bilyk, O.S.B.M. (76)  (2000.07.21 – 2007.07.28)Bishop emeritus of Bučač of the Ukrainians (Ukraine)Born:1950.01.02 (Kniazhpil, Ukraine)Ordained Priest:1978.10.14Consecrated Bishop:1989.08.15Titular Bishop of Novæ (1991.01.16 – 2000.07.21)Auxiliary Bishop of Ivano-Frankivsk of the Ukrainians (Ukraine) ([1989.08.15] 1991.01.16 – 2000.07.21)Bishop of Bučač of the Ukrainians (Ukraine) (2000.07.21 – 2007.07.28)Special ChurchesCathedral:  Cathedral of Sts. Peter and Paul, Chortkiv (Чортків), Ternopil Oblast Pro-Cathedral:  Pro-Cathedral of the Annunciation of the Blessed Virgin, Buchach (Бучач), Ternopil Oblast Jubilee Churches in the Holy Year 2025Show MapKolomyia (↙), Ivano-Frankivsk (←), Ternopil–Zboriv (↑), Kamyanets-Podilskyi (→), Chernivtsi (↘)Statistics (2022.12.31)Area: 316 km²Population: 212,850 Catholics (55.3% of 384,650 total)Pastoral Centres: 328 parishes, 9 missionsPersonnel: 239 priests (227 diocesan, 12 religious), 26 religious (19 brothers, 7 sisters), 48 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "buca1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 384650,
+    "catholiques": 212850,
+    "pourcentage_catholiques": 55.3
+  },
+  "ressources": {
+    "pretres_diocesains": 227,
+    "pretres_religieux": null,
+    "total_pretres": 239,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 328
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

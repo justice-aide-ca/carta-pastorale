@@ -1,0 +1,29 @@
+{
+  "id": "br-jauz0",
+  "nom": "Jaú",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Jaú (Português) / Iauen(sis) (Latin)Ecclesiastical Province: CampinasNeighbouring Dioceses: Bauru (←), Catanduva (↑), São Carlos (↗), Piracicaba (→), Botucatu (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nossa Senhora do PatrocínioLiturgical Calendar (National) 📅History2024.06.26: Established as Diocese of Jaú (Português) / Iauen(sis) (Latin) (from Diocese of São Carlos and became suffragan of Campinas)Present PrelatesBishop (2024.06.26 – ...):Bishop Francisco Carlos da Silva (70)OrdinariesBishops of Jaú (Roman Rite)Bishop Francisco Carlos da Silva (70)  (2024.06.26 – ...)Bishop of Jaú (Brazil)Ite in VineamBorn:1955.09.30 (Tabatinga, MG, Brazil)Ordained Priest:1982.12.11Consecrated Bishop:2007.11.22Priest of São Carlos (Brazil) (1982.12.11 – 2007.09.19)Bishop of Ituiutaba (Brazil) (2007.09.19 – 2015.09.30)Bishop of Lins (Brazil) (2015.09.30 – 2024.06.26)Bishop of Jaú (Brazil) (2024.06.26 – ...)Special ChurchesCathedral:  Catedral Nossa Senhora do Patrocínio, Jaú, São Paulo Jubilee Churches in the Holy Year 2025Churches by City (51)Show MapBauru (←), Catanduva (↑), São Carlos (↗), Piracicaba (→), Botucatu (↓)Statistics (2024)Area: 6,018 km²Population: 311,096 Catholics (71.6% of 434,783 total)Pastoral Centres: 47 parishes, 1 missionPersonnel: 67 priests (62 diocesan, 5 religious), 17 deacons, 21 religious (2 brothers, 19 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jauz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 434783,
+    "catholiques": 311096,
+    "pourcentage_catholiques": 71.6
+  },
+  "ressources": {
+    "pretres_diocesains": 62,
+    "pretres_religieux": null,
+    "total_pretres": 67,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

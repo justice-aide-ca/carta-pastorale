@@ -1,0 +1,29 @@
+{
+  "id": "ba-joyp0",
+  "nom": "Joypurhat",
+  "pays": "ba",
+  "pays_nom": "Bangladesh",
+  "continent": "unknown",
+  "type": "Diocese Name: Joypurhat / Joypurhatin(us) (Latin)Ecclesiastical Province: DhakaNeighbouring Dioceses: Raiganj (←), Dinajpur (↑), Rajshahi (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint Peter, PaulLiturgical Calendar (Universal) 📅History2026.03.25: Established as Diocese of Joypurhat / Joypurhatin(us) (Latin) (from Diocese of Dinajpur and Diocese of Rajshahi and became suffragan of Dhaka)Present PrelatesBishop (2026.03.25 – ...):Bishop Paul Gomes (63)OrdinariesBishops of Joypurhat (Roman Rite)Bishop Paul Gomes (63)  (2026.03.25 – ...)Bishop of Joypurhat (Bangladesh)Ad Christum animas adducens / Bringing souls to ChristBorn:1962.09.03 (Kharbaria, Bangladesh)Ordained Priest:1992.12.29Consecrated Bishop:2026.06.05Priest of Rajshahi (Bangladesh) (1992.12.29 – 2026.03.25)Bishop of Joypurhat (Bangladesh) (2026.03.25 – ...)Special ChurchesPro-Cathedral:  Pro-Cathedral of Mary Help of Christians, Khanjanpur, Rajshahi Show MapRaiganj (←), Dinajpur (↑), Rajshahi (↓)Statistics (2026)Area: 7,018 km²Population: 24,485 Catholics (0.3% of 7,714,896 total)Pastoral Centres: 11 parishesPersonnel: 15 priests (8 diocesan, 7 religious), 18 religious (18 sisters), 28 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "joyp0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 7714896,
+    "catholiques": 24485,
+    "pourcentage_catholiques": 0.3
+  },
+  "ressources": {
+    "pretres_diocesains": 8,
+    "pretres_religieux": null,
+    "total_pretres": 15,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-toronto",
+  "nom": "Toronto",
+  "pays": "ca",
+  "continent": "Amérique",
+  "type": "Archidiocèse",
+  "annee_donnees": 2023,
+  "territoire": {
+    "superficie_km2": 13000,
+    "population_totale": 6721000,
+    "catholiques": 1602370,
+    "pourcentage_catholiques": 23.8
+  },
+  "ressources": {
+    "pretres_diocesains": 392,
+    "pretres_religieux": 374,
+    "total_pretres": 766,
+    "religieuses": 425,
+    "diacres_permanents": 154,
+    "paroisses": 225
+  },
+  "sacrements_2021": {
+    "baptemes": 11384,
+    "confirmations": 11475,
+    "mariages": 2002,
+    "funerailles": 6913
+  },
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Toronto",
+    "conference_episcopale": "https://www.cecc.ca/"
+  }
+}

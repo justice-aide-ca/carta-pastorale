@@ -1,0 +1,29 @@
+{
+  "id": "bf-dieb0",
+  "nom": "Diébougou",
+  "pays": "bf",
+  "pays_nom": "Burkina Faso",
+  "continent": "unknown",
+  "type": "Diocese Name: Diébougou / Diebuguen(sis) (Latin)Ecclesiastical Province: Bobo-DioulassoNeighbouring Dioceses: Banfora (↙), Bobo-Dioulasso (←), Dédougou (↑), Koudougou (↗), Wa (↘), Gaoua (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1968.10.18: Established as Diocese of Diébougou / Diebuguen(sis) (Latin) (from Diocese of Bobo-Dioulasso and became suffragan of Ouagadougou)2000.12.05: Became suffragan of Bobo-Dioulasso2011.11.30: Lost territory to establish Diocese of GaouaPresent PrelatesBishop (2006.04.03 – ...):Bishop Der Raphaël Kusiélé Dabiré (78)Monsignors (2)OrdinariesBishops of Diébougou (Roman Rite)Bishop Der Raphaël Kusiélé Dabiré (78)  (2006.04.03 – ...)Bishop of Diébougou (Burkina Faso)Au nom du fils de Marie, lève-toi et marcheBorn:1948.04.27 (Dissin, Burkina Faso)Ordained Priest:1975.07.12Consecrated Bishop:2006.06.24Priest of Diébougou (Burkina Faso) (1975.07.12 – 2006.04.03)Chaplain of His Holiness (2000.06.30 – 2006.04.03)Bishop of Diébougou (Burkina Faso) (2006.04.03 – ...)Bishop Jean-Baptiste Kpiéle Somé (95)  (1968.10.18 – 2006.04.03)Bishop emeritus of Diébougou (Burkina Faso)Par lui avec lui et en luiBorn:1930.09 (Dano, Burkina Faso)Ordained Priest:1958.04.11Consecrated Bishop:1969.01.18Priest of Bobo-Dioulasso (Burkina Faso) (1958.04.11 – 1968.10.18)Bishop of Diébougou (Burkina Faso) (1968.10.18 – 2006.04.03)President of Bishops’ Conference of Burkina Faso and Niger (1995 – 2001)Special ChurchesCathedral:  Cathédrale Saint-Pierre et Saint-Paul, Diébougou, Sud-Ouest Show MapBanfora (↙), Bobo-Dioulasso (←), Dédougou (↑), Koudougou (↗), Wa (↘), Gaoua (↓)Statistics (2022.12.31)Area: 7,973 km²Population: 249,507 Catholics (41.7% of 598,709 total)Pastoral Centres: 17 parishes, 181 missionsPersonnel: 104 priests (93 diocesan, 11 religious), 1 deacon, 118 religious (24 brothers, 94 sisters), 24 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "dieb0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 598709,
+    "catholiques": 249507,
+    "pourcentage_catholiques": 41.7
+  },
+  "ressources": {
+    "pretres_diocesains": 93,
+    "pretres_religieux": null,
+    "total_pretres": 104,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

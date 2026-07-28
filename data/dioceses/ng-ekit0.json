@@ -1,0 +1,29 @@
+{
+  "id": "ng-ekit0",
+  "nom": "Ekiti",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Ekiti / Ekitien(sis) (Latin)Ecclesiastical Province: IbadanNeighbouring Dioceses: Osogbo (←), Ilorin (↖), Lokoja (→), Ondo (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1972.07.30: Established as Diocese of Ado-Ekiti / Adœkitien(sis)–Ekitien(sis) (Latin) (from Diocese of Ondo)1972.12.11: Renamed as Diocese of Ekiti / Ekitien(sis) (Latin) (became suffragan of Lagos)1994.03.26: Became suffragan of IbadanPresent PrelatesBishop (2010.04.17 – ...):Bishop Felix Femi Ajakaye (64)Monsignors (7)OrdinariesBishops of Ekiti (Roman Rite)Bishop Felix Femi Ajakaye (64)  (2010.04.17 – ...)Bishop of Ekiti (Nigeria)Christ is my strengthBorn:1962.05.25 (Ibadan, Nigeria)Ordained Priest:1987.07.04Consecrated Bishop:2008.07.12Priest of Ekiti (Nigeria) (1987.07.04 – 2008.04.16)Coadjutor Bishop of Ekiti (Nigeria) (2008.04.16 – 2010.04.17)Bishop of Ekiti (Nigeria) (2010.04.17 – ...)Bishop Michael Patrick Olatunji Fagun  (1972.12.11 – 2010.04.17)Confide in DeoBorn:1935.04.17 (Akure, Nigeria)Ordained Priest:1965.07.04Consecrated Bishop:1971.10.10Died:2025.10.13 (Nigeria † 90)Priest of Ondo (Nigeria) (1965.07.04 – 1971.06.28)Titular Bishop of Casæ nigræ (1971.06.28 – 1972.07.30)Auxiliary Bishop of Ondo (Nigeria) (1971.06.28 – 1972.07.30)Bishop of Ado-Ekiti (Nigeria) (1972.07.30 – 1972.12.11)Bishop of Ekiti (Nigeria) (1972.12.11 – 2010.04.17)Bishops of Ado-Ekiti (Roman Rite)Bishop Michael Patrick Olatunji Fagun  (1972.07.30 – 1972.12.11)(see above)Former PrelatesCoadjutor Bishop: Bishop Felix Femi Ajakaye (64) (2008.04.16 – 2010.04.17)Special ChurchesCathedral:  St. Patrick’s Cathedral, Ado-Ekiti, Ekiti Show MapOsogbo (←), Ilorin (↖), Lokoja (→), Ondo (↓)Statistics (2022.12.31)Area: 5,888 km²Population: 511,658 Catholics (14.2% of 3,612,110 total)Pastoral Centres: 61 parishes, 15 missionsPersonnel: 96 priests (92 diocesan, 4 religious), 82 religious (8 brothers, 74 sisters), 28 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ekit0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3612110,
+    "catholiques": 511658,
+    "pourcentage_catholiques": 14.2
+  },
+  "ressources": {
+    "pretres_diocesains": 92,
+    "pretres_religieux": null,
+    "total_pretres": 96,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 61
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

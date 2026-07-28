@@ -1,0 +1,29 @@
+{
+  "id": "de-gorl1",
+  "nom": "Görlitz",
+  "pays": "de",
+  "pays_nom": "Germany",
+  "continent": "unknown",
+  "type": "Diocese Name: Görlitz / Gorlicen(sis) (Latin)Ecclesiastical Province: BerlinNeighbouring Dioceses: Dresden–Meißen (↙), Magdeburg (←), Berlin (↖), Zielona Góra–Gorzów (↗), Legnica (→)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1972.06.28: Established as Apostolic Administration of Görlitz / Gorlicen(sis) (Latin) (from Metropolitan Archdiocese of Wrocław)1994.06.27: Promoted as Diocese of Görlitz / Gorlicen(sis) (Latin) (exchanged territory with Diocese of Berlin and Apostolic Administration of Magdeburg and became suffragan of Berlin)Contact InfoAddress: Carl-von-Ossietzky-Str. 41/43, 02826 Görlitz, GermanyPhone: (03581) 4782-0Present PrelatesBishop (2011.06.18 – ...):Bishop Wolfgang Ipolt (72)Monsignors (14)OrdinariesBishops of Görlitz (Roman Rite)Bishop Wolfgang Ipolt (72)  (2011.06.18 – ...)Bishop of Görlitz (Germany)Odorem notitiæ Christi manifestareBorn:1954.03.17 (Gotha, Germany)Ordained Priest:1979.06.30Consecrated Bishop:2011.08.28Priest of Erfurt (Germany) (1979.06.30 – 2011.06.18)Bishop of Görlitz (Germany) (2011.06.18 – ...)Bishop Konrad Zdarsa (82)  (2007.04.24 – 2010.07.08)Bishop emeritus of Augsburg (Germany)Ipse enim est pax nostraBorn:1944.06.07 (Hainichen, Germany)Ordained Priest:1974.03.16Consecrated Bishop:2007.06.23Priest of Dresden–Meißen (Germany) (1974.03.16 – 2007.04.24)Bishop of Görlitz (Germany) (2007.04.24 – 2010.07.08)Bishop of Augsburg (Germany) (2010.07.08 – 2019.07.04)Bishop Rudolf Müller  (1994.06.27 – 2006.06.24)In gratia cantantes DeoBorn:1931.06.24 (Schmottseiffen, Germany)Ordained Priest:1955.07.17Consecrated Bishop:1987.07.01Died:2012.12.25 († 81)Priest of Görlitz (Germany) (1955.07.17 – 1987.05.19)Titular Bishop of Nasai (1987.05.19 – 1994.06.27)Auxiliary Bishop of Görlitz (Germany) (1987.05.19 – 1994.06.27)Bishop of Görlitz (Germany) (1994.06.27 – 2006.06.24)Apostolic Administrators of Görlitz (Roman Rite)Bishop Bernhard Huhn  (1972.06.28 – 1994.06.27)Gaudete in DominoBorn:1921.08.04 (Liegnitz, Germany)Ordained Priest:1953.12.20Consecrated Bishop:1971.12.11Died:2007.09.14 († 86)Priest of Görlitz (Germany) (1953.12.20 – 1971.11.13)Auxiliary Bishop of Wrocław (Poland) (1971.11.13 – 1972.06.28)Titular Bishop of Tasaccora (1971.11.13 – 2007.09.14)Apostolic Administrator of Görlitz (Germany) (1972.06.28 – 1994.06.27)Former PrelatesAuxiliary Bishop: Bishop Rudolf Müller (1987.05.19 – 1994.06.27)Special ChurchesCathedral:  Kathedrale St. Jakobus, Görlitz, Sachsen Jubilee Churches in the Holy Year 2025Show MapDresden–Meißen (↙), Magdeburg (←), Berlin (↖), Zielona Góra–Gorzów (↗), Legnica (→)Statistics (2022.12.31)Area: 9,284 km²Population: 29,213 Catholics (4.3% of 672,019 total)Pastoral Centres: 16 parishesPersonnel: 48 priests (39 diocesan, 9 religious), 10 deacons, 40 religious (9 brothers, 31 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gorl1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 672019,
+    "catholiques": 29213,
+    "pourcentage_catholiques": 4.3
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 48,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

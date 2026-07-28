@@ -1,0 +1,29 @@
+{
+  "id": "ca-sbca0",
+  "nom": "Mississauga",
+  "pays": "ca",
+  "pays_nom": "Canada",
+  "continent": "amerique",
+  "type": "Diocese Name: Mississauga (English) / Mississauguen(sis) (Latin)Subject to the Major ArchbishopNeighbouring Dioceses: Saint Thomas the Apostle of Chicago (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint ThomasHistory2015.08.06: Established as Apostolic Exarchate of Canada (English)2018.12.22: Promoted as Diocese of Mississauga (English) / Mississauguen(sis) (Latin) (without ecclesiastical province)Present PrelatesBishop (2018.12.22 – ...):Bishop Jose Kalluvelil (70)OrdinariesBishops of Mississauga (Syro-Malabar Rite)Bishop Jose Kalluvelil (70)  (2018.12.22 – ...)Bishop of Mississauga of the Syro-Malabars (Canada)For the glory of GodBorn:1955.11.15 (Thottuva, India)Ordained Priest:1984.12.18Consecrated Bishop:2015.09.19Priest of Palghat of the Syro-Malabars (India) (1984.12.18 – 2015.08.06)Titular Bishop of Tabalta (2015.08.06 – 2018.12.22)Apostolic Exarch of Canada of the Syro-Malabars (Canada) (2015.08.06 – 2018.12.22)Bishop of Mississauga of the Syro-Malabars (Canada) (2018.12.22 – ...)Apostolic Exarchs of Canada (Syro-Malabar Rite)Bishop Jose Kalluvelil (70)  (2015.08.06 – 2018.12.22)(see above)Special ChurchesCathedral:  St. Alphonsa Syro-Malabar Catholic Cathedral, Mississauga, Ontario Jubilee Churches in the Holy Year 2025Churches by City (4)Show MapSaint Thomas the Apostle of Chicago (↓)Statistics (2022.12.31)Population: 26,000 CatholicsPastoral Centres: 18 parishes, 36 missionsPersonnel: 20 priests (18 diocesan, 2 religious), 11 religious (2 brothers, 9 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sbca0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 20,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

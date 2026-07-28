@@ -1,0 +1,29 @@
+{
+  "id": "mg-fara0",
+  "nom": "Farafangana",
+  "pays": "mg",
+  "pays_nom": "Madagascar",
+  "continent": "unknown",
+  "type": "Diocese Name: Farafangana / Farafanganen(sis) (Latin)Ecclesiastical Province: FianarantsoaNeighbouring Dioceses: Ihosy (←), Fianarantsoa (↑), Tôlagnaro (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1957.04.08: Established as Diocese of Farafangana / Farafanganen(sis) (Latin) (from Diocese of Fort-Dauphin and became suffragan of Tananarive)1958.12.11: Became suffragan of Fianarantsoa1967.04.13: Lost territory to establish Diocese of IhosyPresent PrelatesBishop (2024.10.31 – ...):Bishop Marcellin Randriamamonjy (63)OrdinariesBishops of Farafangana (Roman Rite)Bishop Marcellin Randriamamonjy (63)  (2024.10.31 – ...)Bishop of Farafangana (Madagascar)Born:1963.04.12 (Sandrandahy, Madagascar)Ordained Priest:1992.08.30Consecrated Bishop:2009.05.17Priest of Ambositra (Madagascar) (1992.08.30 – 2009.02.10)Bishop of Fenoarivo Atsinanana (Madagascar) (2009.02.10 – 2024.10.31)Bishop of Farafangana (Madagascar) (2024.10.31 – ...)Bishop Gaetano Di Pierro, S.C.I. (77)  (2018.03.03 – 2024.10.31)Bishop emeritus of Farafangana (Madagascar)Born:1948.12.01 (Orta Nova, Italy)Ordained Priest:1975.06.29Consecrated Bishop:2001.08.05Titular Bishop of Guardialfiera (2001.04.24 – 2006.05.13)Auxiliary Bishop of Ambatondrazaka (Madagascar) (2001.04.24 – 2006.05.13)Bishop of Moramanga (Madagascar) (2006.05.13 – 2018.03.03)Bishop of Farafangana (Madagascar) (2018.03.03 – 2024.10.31)Bishop José Alfredo Caires de Nobrega, S.C.I. (75)  (Apostolic Administrator 2014.01.16 – 2018.03.03)Bishop Benjamin Marc Balthason Ramaroson, C.M. (71) (later Archbishop)  (2005.11.26 – 2013.11.27)Metropolitan Archbishop of Antsiranana (Madagascar)Tsy isika fa ny fahasoavan’Andriamanitra miaraka amintsikaBorn:1955.04.25 (Manakara, Madagascar)Ordained Priest:1984.08.15Consecrated Bishop:2006.03.25Bishop of Farafangana (Madagascar) (2005.11.26 – 2013.11.27)Metropolitan Archbishop of Antsiranana (Madagascar) (2013.11.27 – ...)Apostolic Administrator of Ambanja (Madagascar) (2019.10.08 – 2022.11.11)Bishop Charles-Remy Rakotonirina, S.J.  (1976.10.28 – 2005.08.06)Born:1928.01.16 (Fianarantsoa, Madagascar)Ordained Priest:1961.09.06Consecrated Bishop:1977.03.27Died:2005.08.06 († 77)Bishop of Farafangana (Madagascar) (1976.10.28 – 2005.08.06)Bishop Victor Razafimahatratra, S.J. (later Cardinal)  (1971.01.16 – 1976.04.10)Born:1921.09.08 (Ambanitsilena-Ranomasina, Madagascar)Ordained Priest:1956.07.28Consecrated Bishop:1971.04.18Created Cardinal:1976.05.24Died:1993.10.06 (Antananarivo, Madagascar † 72)Bishop of Farafangana (Madagascar) (1971.01.16 – 1976.04.10)President of Episcopal Conference of Madagascar (1974 – 1986)Metropolitan Archbishop of Tananarive (Madagascar) (1976.04.10 – 1989.10.28)Cardinal-Priest of S. Croce in Gerusalemme (1976.05.24 – 1993.10.06)Metropolitan Archbishop of Antananarivo (Madagascar) (1989.10.28 – 1993.10.06)Bishop Camille-Antoine Chilouet, C.M.  (1957.12.24 – 1970.11.25)Born:1899.07.16 (Montluçon, France)Ordained Priest:1925.06.29Consecrated Bishop:1958.07.02Died:1970.11.25 (Farafangana, Madagascar † 71)Bishop of Farafangana (Madagascar) (1957.12.24 – 1970.11.25)Special ChurchesCathedral:  Cathédrale du Sacré-Cœur de Jésus, Farafangana, Fianarantsoa Show MapIhosy (←), Fianarantsoa (↑), Tôlagnaro (↓)Statistics (2022.12.31)Area: 23,176 km²Population: 231,580 Catholics (14.6% of 1,583,300 total)Pastoral Centres: 29 parishesPersonnel: 50 priests (16 diocesan, 34 religious), 4 deacons, 60 religious (38 brothers, 22 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "fara0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1583300,
+    "catholiques": 231580,
+    "pourcentage_catholiques": 14.6
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 50,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

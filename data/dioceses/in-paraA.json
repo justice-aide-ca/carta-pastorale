@@ -1,0 +1,29 @@
+{
+  "id": "in-paraA",
+  "nom": "Parassala",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Parassala / Parassalan(us) (Latin)Ecclesiastical Province: TrivandrumNeighbouring Dioceses: Trivandrum (↖), Marthandam (→)Depends on: Dicastery for the Eastern ChurchesCelebrationsPatron Saint: Saint Teresa of CalcuttaHistory2017.08.05: Established as Diocese of Parassala / Parassalan(us) (Latin) (from Metropolitan Archdiocese of Trivandrum and became suffragan of Trivandrum)Present PrelatesBishop (2017.08.05 – ...):Bishop Thomas Eusebios Naickamparambil (65)OrdinariesBishops of Parassala (Syro-Malankara Rite)Bishop Thomas Eusebios Naickamparambil (65)  (2017.08.05 – ...)Bishop of Parassala of the Syro-Malankara (India)To be everything to everyone in ChristBorn:1961.06.06 (Mylapra, India)Ordained Priest:1986.12.29Consecrated Bishop:2010.09.21Priest of Trivandrum of the Syro-Malankara (India) (1986.12.29 – 2010.07.14)Titular Bishop of Lares (2010.07.14 – 2015.12.22)Apostolic Exarch of United States of America of the Syro-Malankara (USA) (2010.07.14 – 2015.12.22)Apostolic Visitator in Canada of the Syro-Malankara (2010.07.14 – 2015.12.22)Apostolic Visitator in Europe of the Syro-Malankara (2010.07.14 – 2017.08.05)Bishop of Saint Mary, Queen of Peace, of the United States of America and Canada of the Syro-Malankara (USA) (2015.12.22 – 2017.08.05)Bishop of Parassala of the Syro-Malankara (India) (2017.08.05 – ...)Special ChurchesCathedral:  St. Mary Malankara Cathedral, Parassala, Kerala Show MapTrivandrum (↖), Marthandam (→)Statistics (2022.12.31)Population: 37,700 CatholicsPastoral Centres: 104 parishes, 1 missionPersonnel: 51 priests (46 diocesan, 5 religious), 31 religious (6 brothers, 25 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "paraA",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 46,
+    "pretres_religieux": null,
+    "total_pretres": 51,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 104
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

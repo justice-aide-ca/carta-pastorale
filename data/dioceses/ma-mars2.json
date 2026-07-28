@@ -1,0 +1,29 @@
+{
+  "id": "ma-mars2",
+  "nom": "Marshall Islands",
+  "pays": "ma",
+  "pays_nom": "Marshall Islands",
+  "continent": "oceanie",
+  "type": "Apostolic Prefecture Name: Marshall Islands (English) / Insularum Marshallensium (Latin)Ecclesiastical Province: AgañaNeighbouring Dioceses: Caroline Islands (←), Honolulu (↗), Tarawa and Nauru (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1905.09.16: Established as Mission sui juris of Marshall Islands (English) / Insularum Marshallensium (Latin) (from Apostolic Vicariate of New Pomerania)1923.05.04: Suppressed (to Apostolic Vicariate of Mariana, Caroline, and Marshall Islands)1993.04.23: Restored as Apostolic Prefecture of Marshall Islands (English) / Insularum Marshallensium (Latin) (from Diocese of Carolines–Marshalls and became suffragan of Agaña)Present PrelatesPrefect Apostolic (2025.01.14 – ...):Fr. Tamati Alefosio Sefo, M.S.C. (54)OrdinariesPrefects Apostolic of Marshall Islands (Roman Rite)Fr. Tamati Alefosio Sefo, M.S.C. (54)  (2025.01.14 – ...)Prefect Apostolic of Marshall Islands (Marshall Islands)Born:1972.04.28 (Tafitoala Safata, Samoa)Ordained Priest:2004.11.27Prefect Apostolic of Marshall Islands (Marshall Islands) (2025.01.14 – ...)Fr. Ariel A. Galido, M.S.C.  (2017.06.28 – 2025.01.14)Born:1975.06.03 (Bacuag, Philippines)Ordained Priest:2004.06.09Prefect Apostolic of Marshall Islands (Marshall Islands) (2017.06.28 – 2025.01.14)Fr. Raymundo Taco Sabio, M.S.C.  (2007.12.21 – 2017.06.28)Born:1946.03.02 (Tubuñgan, Iloilo, Philippines)Ordained Priest:1971.12.28Died:2022.09.16 (Quezon City, Philippines † 76)Prefect Apostolic of Marshall Islands (Marshall Islands) (2007.12.21 – 2017.06.28)Fr. James C. Gould  (1993.04.23 – 2007.12.21)Born:1945.06.04 (USA)Ordained Priest:1974.05.04Prefect Apostolic of Marshall Islands (Marshall Islands) (1993.04.23 – 2007.12.21)Ecclesiastical Superiors of Marshall Islands (Roman Rite)Fr. Bruno Schinxe, M.S.C.  (1905 – 1915)Died:1915Ecclesiastical Superior of Marshall Islands (Marshall Islands) (1905 – 1915)Special ChurchesCathedral:  Cathedral of the Assumption, Majuro, Majuro Atoll Churches by City (9)Show MapCaroline Islands (←), Honolulu (↗), Tarawa and Nauru (↓)Statistics (2021.12.31)Area: 182 km²Population: 5,200 Catholics (8.7% of 60,000 total)Pastoral Centres: 5 parishesPersonnel: 6 priests (1 diocesan, 5 religious), 3 deacons, 11 religious (5 brothers, 6 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mars2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 60000,
+    "catholiques": 5200,
+    "pourcentage_catholiques": 8.7
+  },
+  "ressources": {
+    "pretres_diocesains": 1,
+    "pretres_religieux": null,
+    "total_pretres": 6,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 5
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

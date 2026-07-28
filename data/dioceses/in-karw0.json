@@ -1,0 +1,29 @@
+{
+  "id": "in-karw0",
+  "nom": "Karwar",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Karwar / Karvaren(sis) (Latin)Ecclesiastical Province: BangaloreNeighbouring Dioceses: Goa and Daman (↑), Belgaum (↗), Shimoga (↘), Udupi (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint JosephLiturgical Calendar (National) 📅History1976.01.24: Established as Diocese of Karwar / Karvaren(sis) (Latin) (from Diocese of Belgaum and became suffragan of Bangalore)Present PrelatesBishop (2024.01.13 – ...):Bishop Duming Dias (56)Apostolic Administrator of Shimoga (India)OrdinariesBishops of Karwar (Roman Rite)Bishop Duming Dias (56)  (2024.01.13 – ...)Bishop of Karwar (India)Apostolic Administrator of Shimoga (India)Born:1969.09.13 (Honavar, India)Ordained Priest:1997.05.06Consecrated Bishop:2024.04.09Priest of Shimoga (India) (1997.05.06 – 2024.01.13)Bishop of Karwar (India) (2024.01.13 – ...)Apostolic Administrator of Shimoga (India) (2025.10.07 – ...)Bishop Derek Fernandes (72)  (Apostolic Administrator 2019.05.01 – 2024.01.13)Bishop Derek Fernandes (72)  (2007.02.24 – 2019.05.01)Bishop of Belgaum (India)Mittite in dexteram navigii reteBorn:1954.05.14 (Sirsi, India)Ordained Priest:1979.05.05Consecrated Bishop:2007.04.20Priest of Belgaum (India) (1979.05.05 – 2007.02.24)Bishop of Karwar (India) (2007.02.24 – 2019.05.01)Apostolic Administrator of Karwar (India) (2019.05.01 – 2024.01.13)Bishop of Belgaum (India) (2019.05.01 – ...)Bishop William Leonard D’Mello  (1976.01.24 – 2007.02.24)Born:1931.03.24 (Mangalore, India)Ordained Priest:1957.04.16Consecrated Bishop:1977.04.29Died:2011.07.19 († 80)Bishop of Karwar (India) (1976.01.24 – 2007.02.24)Special ChurchesCathedral:  Cathedral of the Assumption of Our Lady, Karwar, Karnātaka Show MapGoa and Daman (↑), Belgaum (↗), Shimoga (↘), Udupi (↓)Statistics (2022.12.31)Area: 10,277 km²Population: 45,949 Catholics (2.9% of 1,600,000 total)Pastoral Centres: 68 parishes, 38 missionsPersonnel: 137 priests (115 diocesan, 22 religious), 241 religious (30 brothers, 211 sisters), 25 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "karw0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1600000,
+    "catholiques": 45949,
+    "pourcentage_catholiques": 2.9
+  },
+  "ressources": {
+    "pretres_diocesains": 115,
+    "pretres_religieux": null,
+    "total_pretres": 137,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 68
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

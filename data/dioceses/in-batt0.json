@@ -1,0 +1,29 @@
+{
+  "id": "in-batt0",
+  "nom": "Bathery",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Bathery / Batheri / Battery / Batterien(sis) (Latin)Ecclesiastical Province: TiruvallaNeighbouring Dioceses: Puthur (↖), Moovatupuzha (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint ThomasHistory1978.10.28: Established as Diocese of Bathery / Batheri / Battery / Batterien(sis) (Latin) (from Diocese of Tiruvalla and became suffragan of Trivandrum)2006.05.15: Became suffragan of Tiruvalla2010.01.25: Lost territory to establish Diocese of PuthurPresent PrelatesBishop (2010.01.25 – ...):Bishop Joseph Thomas Konnath (74)Monsignors (1)OrdinariesBishops of Bathery (Syro-Malankara Rite)Bishop Joseph Thomas Konnath (74)  (2010.01.25 – ...)Bishop of Bathery of the Syro-Malankara (India)Born:1952.05.13 (Vadasserika, India)Ordained Priest:1978.12.22Consecrated Bishop:2005.02.19Priest of Trivandrum of the Syro-Malankara (India) (1978.12.22 – 2005.01.05)Titular Bishop of Sicilibba (2005.01.05 – 2010.01.25)Auxiliary Bishop of Trivandrum of the Syro-Malankara (India) (2005.01.05 – 2010.01.25)Apostolic Visitator in North America of the Syro-Malankara (2005.01.05 – 2010.01.25)Apostolic Visitator in Europe of the Syro-Malankara (2005.01.05 – 2010.01.25)Bishop of Bathery of the Syro-Malankara (India) (2010.01.25 – ...)Second Vice-President of Catholic Bishops’ Conference of India (2022.11.11 – 2026.02.07)Bishop Geevarghese Divannasios Ottathengil  (1996.11.11 – 2010.01.25)Born:1950.11.01 (Kunnanthanam, India)Ordained Priest:1978.04.20Consecrated Bishop:1997.02.05Died:2018.01.16 (Tiruvalla, India † 67)Bishop of Bathery of the Syro-Malankara (India) (1996.11.11 – 2010.01.25)Bishop of Puthur of the Syro-Malankara (India) (2010.01.25 – 2017.01.24)Bishop Cyril Baselios Malancharuvil, O.I.C. (later Major Archbishop)  (1978.10.28 – 1995.11.06)Born:1935.08.16 (Pandalam, India)Ordained Priest:1960.10.04Consecrated Bishop:1978.12.28Died:2007.01.18 (Trivandrum, India † 71)Superior General of Order of the Imitation of Christ (1974 – 1978.10.28)Bishop of Bathery of the Syro-Malankara (India) (1978.10.28 – 1995.11.06)President of Synod of the Syro-Malankara Church (1995 – 2007.01.18)Metropolitan of Trivandrum of the Syro-Malankara (India) (1995.11.06 – 2005.02.10)President of Catholic Bishops’ Conference of India (2000 – 2004)Major Archbishop of Trivandrum of the Syro-Malankara (India) (2005.02.10 – 2007.01.18)Special ChurchesCathedral:  St. Thomas Cathedral, Sulthan Bathery, Kerala Show MapPuthur (↖), Moovatupuzha (↓)Statistics (2021.12.31)Area: 67,482 km²Population: 40,300 Catholics (0.2% of 21,273,000 total)Pastoral Centres: 117 parishes, 5 missionsPersonnel: 82 priests (70 diocesan, 12 religious), 300 religious (12 brothers, 288 sisters), 19 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "batt0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 21273000,
+    "catholiques": 40300,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": 70,
+    "pretres_religieux": null,
+    "total_pretres": 82,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 117
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "bf-banf0",
+  "nom": "Banfora",
+  "pays": "bf",
+  "pays_nom": "Burkina Faso",
+  "continent": "unknown",
+  "type": "Diocese Name: Banfora / Banforen(sis) (Latin)Ecclesiastical Province: Bobo-DioulassoNeighbouring Dioceses: Sikasso (↖), Bobo-Dioulasso (↑), Diébougou (↗), Gaoua (→), Bondoukou (↘), Katiola (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1998.06.27: Established as Diocese of Banfora / Banforen(sis) (Latin) (from Diocese of Bobo-Dioulasso and became suffragan of Ouagadougou)2000.12.05: Became suffragan of Bobo-DioulassoPresent PrelatesBishop (1998.06.27 – ...):Bishop Lucas Kalfa Sanou (74)OrdinariesBishops of Banfora (Roman Rite)Bishop Lucas Kalfa Sanou (74)  (1998.06.27 – ...)Bishop of Banfora (Burkina Faso)Que ton règne vienneBorn:1951.09.04 (Dugona, Burkina Faso)Ordained Priest:1978.07.01Consecrated Bishop:1998.12.12Priest of Bobo-Dioulasso (Burkina Faso) (1978.07.01 – 1998.06.27)Bishop of Banfora (Burkina Faso) (1998.06.27 – ...)Special ChurchesCathedral:  Cathédrale Saint-Pierre, Banfora, Cascades Show MapSikasso (↖), Bobo-Dioulasso (↑), Diébougou (↗), Gaoua (→), Bondoukou (↘), Katiola (↓)Statistics (2022.12.31)Area: 18,917 km²Population: 38,250 Catholics (4.6% of 840,000 total)Pastoral Centres: 9 parishesPersonnel: 33 priests (26 diocesan, 7 religious), 78 religious (25 brothers, 53 sisters), 25 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "banf0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 840000,
+    "catholiques": 38250,
+    "pourcentage_catholiques": 4.6
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 33,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 9
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

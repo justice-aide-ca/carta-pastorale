@@ -1,0 +1,29 @@
+{
+  "id": "ke-mali0",
+  "nom": "Malindi",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Malindi / Malindien(sis) (Latin)Ecclesiastical Province: MombasaNeighbouring Dioceses: Mombasa (↙), Garissa (↑), Mogadishu (↗)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2000.06.02: Established as Diocese of Malindi / Malindien(sis) (Latin) (from Metropolitan Archdiocese of Mombasa and Diocese of Garissa and became suffragan of Mombasa)Present PrelatesBishop (2020.12.28 – ...):Bishop Wilybard Kitogho Lagho (68)OrdinariesBishops of Malindi (Roman Rite)Bishop Wilybard Kitogho Lagho (68)  (2020.12.28 – ...)Bishop of Malindi (Kenya)Blessed are the peacemakersBorn:1958.03.23 (Taita-Taveta, Kenya)Ordained Priest:1987.04.25Consecrated Bishop:2021.03.19Priest of Mombasa (Kenya) (1997.04.25 – 2020.12.28)Bishop of Malindi (Kenya) (2020.12.28 – ...)Bishop Emmanuel Barbara, O.F.M. Cap.  (2011.07.09 – 2018.01.05)Tunakimbilia Ulinzi WakoBorn:1949.10.27 (Gzira, Malta)Ordained Priest:1974.07.20Consecrated Bishop:2011.10.01Died:2018.01.05 (Malindi, Kenya † 68)Bishop of Malindi (Kenya) (2011.07.09 – 2018.01.05)Apostolic Administrator of Mombasa (Kenya) (2013.11.01 – 2014.12.09)Bishop Francis Baldacchino, O.F.M. Cap.  (2000.06.02 – 2009.10.09)Born:1936.07.06 (Marsa, Malta)Ordained Priest:1961.03.18Consecrated Bishop:2000.09.02Died:2009.10.09 (Msida, Malta † 73)Bishop of Malindi (Kenya) (2000.06.02 – 2009.10.09)Special ChurchesCathedral:  Cathedral of St. Anthony, Malindi, Kilifi Jubilee Churches in the Holy Year 2025Show MapMombasa (↙), Garissa (↑), Mogadishu (↗)Statistics (2022.12.31)Area: 33,254 km²Population: 42,235 Catholics (6.5% of 646,640 total)Pastoral Centres: 23 parishesPersonnel: 44 priests (18 diocesan, 26 religious), 2 deacons, 131 religious (41 brothers, 90 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mali0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 646640,
+    "catholiques": 42235,
+    "pourcentage_catholiques": 6.5
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 44,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

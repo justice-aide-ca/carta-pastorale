@@ -1,0 +1,29 @@
+{
+  "id": "co-liba0",
+  "nom": "Líbano–Honda",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Líbano–Honda / Liban(us)–Hondan(us) (Latin)Ecclesiastical Province: IbaguéNeighbouring Dioceses: Manizales (←), La Dorada–Guaduas (↗), Girardot (↘), Ibagué (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History1989.07.08: Established as Diocese of Líbano–Honda / Liban(us)–Hondan(us) (Latin) (from Metropolitan Archdiocese of Ibagué and became suffragan of Ibagué)Present PrelatesBishop (2015.10.17 – ...):Bishop José Luis Henao Cadavid (72)Monsignors (1)OrdinariesBishops of Líbano–Honda (Roman Rite)Bishop José Luis Henao Cadavid (72)  (2015.10.17 – ...)Bishop of Líbano–Honda (Colombia)Misericordiam tuam nuntiaboBorn:1954.04.07 (Andes, Colombia)Ordained Priest:1979.12.15Consecrated Bishop:2015.11.21Priest of Jericó (Colombia) (1979.12.15 – 2015.10.17)Bishop of Líbano–Honda (Colombia) (2015.10.17 – ...)Bishop José Miguel Gómez Rodríguez (65) (later Archbishop)  (2004.11.22 – 2015.02.23)Metropolitan Archbishop of Manizales (Colombia)Quis ut DeusBorn:1961.04.24 (Bogotá, Colombia)Ordained Priest:1987.02.02Consecrated Bishop:2005.02.05Priest of Manizales (Colombia) (1987.02.02 – 2004.11.22)Bishop of Líbano–Honda (Colombia) (2004.11.22 – 2015.02.23)Bishop of Facatativá (Colombia) (2015.02.23 – 2021.04.25)Metropolitan Archbishop of Manizales (Colombia) (2021.04.25 – ...)Bishop Rafael Arcadio Bernal Supelano, C.SS.R.  (2003.01.10 – 2004.02.28)Born:1934.11.28 (Zipaquirá, Colombia)Ordained Priest:1959.01.11Consecrated Bishop:1978.04.15Died:2019.01.11 (Bucaramanga, Colombia † 84)Titular Bishop of Amudarsa (1978.02.27 – 1990.03.29)Vicar Apostolic of Sibundoy (Colombia) (1978.02.27 – 1990.03.29)Bishop of Arauca (Colombia) (1990.03.29 – 2003.01.10)Bishop of Líbano–Honda (Colombia) (2003.01.10 – 2004.02.28)Bishop José Luis Serna Alzate, I.M.C.  (1989.07.08 – 2002.07.12)Born:1936.02.17 (Aranzazu, Colombia)Ordained Priest:1961.12.23Consecrated Bishop:1978.12.07Died:2014.09.28 († 78)Titular Bishop of Cartennæ (1978.11.15 – 1985.12.09)Vicar Apostolic of Florencia (Colombia) (1978.11.15 – 1985.12.09)Bishop of Florencia (Colombia) (1985.12.09 – 1989.07.08)Bishop of Líbano–Honda (Colombia) (1989.07.08 – 2002.07.12)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen, Líbano, Tolima Co-Cathedral:  Concatedral Nuestra Señora del Rosario, Honda, Tolima Jubilee Churches in the Holy Year 2025Show MapManizales (←), La Dorada–Guaduas (↗), Girardot (↘), Ibagué (↓)Statistics (2022.12.31)Area: 3,477 km²Population: 253,297 Catholics (88.7% of 285,720 total)Pastoral Centres: 30 parishes, 2 missionsPersonnel: 53 priests (50 diocesan, 3 religious), 73 religious (5 brothers, 68 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "liba0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 285720,
+    "catholiques": 253297,
+    "pourcentage_catholiques": 88.7
+  },
+  "ressources": {
+    "pretres_diocesains": 50,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

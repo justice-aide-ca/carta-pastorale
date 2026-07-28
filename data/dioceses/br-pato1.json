@@ -1,0 +1,29 @@
+{
+  "id": "br-pato1",
+  "nom": "Patos de Minas",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Patos de Minas / Paten(sis) (Latin)Ecclesiastical Province: UberabaNeighbouring Dioceses: Uberaba (↙), Uberlândia (←), Ipameri (↖), Paracatu (↑), Montes Claros (↗), Diamantina (→), Luz (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Anthony of PaduaLiturgical Calendar (National) 📅History1955.04.05: Established as Diocese of Patos de Minas / Paten(sis) (Latin) (from Diocese of Uberaba and became suffragan of Belo Horizonte)1959.11.21: Exchanged territory with Diocese of Aterrado1962.04.14: Became suffragan of Uberaba2002.11.09: Lost territory to Metropolitan Archdiocese of UberabaPresent PrelatesBishop (2008.10.08 – ...):Bishop Cláudio Nori Sturm, O.F.M. Cap. (73)Monsignors (6)OrdinariesBishops of Patos de Minas (Roman Rite)Bishop Cláudio Nori Sturm, O.F.M. Cap. (73)  (2008.10.08 – ...)Bishop of Patos de Minas (Brazil)Permanecei no amorBorn:1953.05.12 (Ubiretama, RS, Brazil)Ordained Priest:1980.01.06Consecrated Bishop:2008.12.05Bishop of Patos de Minas (Brazil) (2008.10.08 – ...)Bishop João Bosco Óliver de Faria (86) (later Archbishop)  (1992.01.08 – 2007.05.30)Metropolitan Archbishop emeritus of Diamantina (Brazil)Só o Amor ConstróiBorn:1939.10.30 (São João del Rei, MG, Brazil)Ordained Priest:1968.07.03Consecrated Bishop:1987.10.12Priest of Pouso Alegre (Brazil) (1968.07.03 – 1987.08.05)Titular Bishop of Feradi maius (1987.08.05 – 1992.01.08)Auxiliary Bishop of Pouso Alegre (Brazil) (1987.08.05 – 1992.01.08)Bishop of Patos de Minas (Brazil) (1992.01.08 – 2007.05.30)Metropolitan Archbishop of Diamantina (Brazil) (2007.05.30 – 2016.03.09)Bishop Jorge Scarso, O.F.M. Cap.  (1968.12.28 – 1992.01.08)Evangelizare pauperibus misit meBorn:1916.08.13 (Modica, Italy)Ordained Priest:1942.06.28Consecrated Bishop:1968.03.25Died:2015.10.28 († 99)Titular Bishop of Gemellæ in Numidia (1967.11.29 – 1968.12.28)Auxiliary Bishop of Patos de Minas (Brazil) (1967.11.29 – 1968.12.28)Bishop of Patos de Minas (Brazil) (1968.12.28 – 1992.01.08)Bishop José André Coimbra  (1955.06.08 – 1968.08.16)Born:1900.11.10 (Carbonita, MG, Brazil)Ordained Priest:1924.07.13Consecrated Bishop:1938.07.24Died:1968.08.16 († 67)Priest of Diamantina (Brazil) (1924.07.13 – 1938.02.26)Bishop of Barra do Piraí (Brazil) (1938.02.26 – 1955.06.08)Bishop of Patos de Minas (Brazil) (1955.06.08 – 1968.08.16)Former PrelatesCoadjutor Bishop: Bishop José Belvino do Nascimento (1987.02.06 – 1989.02.27)Auxiliary Bishop: Bishop Jorge Scarso, O.F.M. Cap. (1967.11.29 – 1968.12.28)Special ChurchesCathedral:  Catedral Santo Antônio de Pádua, Patos de Minas, Minas Gerais Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (53)Show MapUberaba (↙), Uberlândia (←), Ipameri (↖), Paracatu (↑), Montes Claros (↗), Diamantina (→), Luz (↘)Statistics (2022.12.31)Area: 35,728 km²Population: 522,000 Catholics (90.1% of 579,308 total)Pastoral Centres: 46 parishesPersonnel: 83 priests (69 diocesan, 14 religious), 1 deacon, 47 religious (15 brothers, 32 sisters), 22 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pato1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 579308,
+    "catholiques": 522000,
+    "pourcentage_catholiques": 90.1
+  },
+  "ressources": {
+    "pretres_diocesains": 69,
+    "pretres_religieux": null,
+    "total_pretres": 83,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

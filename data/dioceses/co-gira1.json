@@ -1,0 +1,29 @@
+{
+  "id": "co-gira1",
+  "nom": "Girardota",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Girardota / Girardotanen(sis) (Latin)Ecclesiastical Province: MedellínNeighbouring Dioceses: Medellín (↙), Santa Rosa de Osos (↑), Barrancabermeja (→), Sonsón–Rionegro (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1988.06.18: Established as Diocese of Girardota / Girardotanen(sis) (Latin) (from Metropolitan Archdiocese of Medellín, Diocese of Barrancabermeja and Diocese of Sonsón–Rionegro and became suffragan of Medellín)Present PrelatesBishop (2024.03.21 – ...):Bishop Juan Manuel Toro Vallejo (67)Monsignors (2)OrdinariesBishops of Girardota (Roman Rite)Bishop Juan Manuel Toro Vallejo (67)  (2024.03.21 – ...)Bishop of Girardota (Colombia)Y la Palabra se hizo carneBorn:1959.05.09 (Medellin, Colombia)Ordained Priest:1995.11.03Consecrated Bishop:2024.05.18Priest of Sonsón–Rionegro (Colombia) (1995.11.03 – 2024.03.21)Bishop of Girardota (Colombia) (2024.03.21 – ...)Bishop Guillermo Orozco Montoya (79)  (2010.02.02 – 2024.03.21)Bishop emeritus of Girardota (Colombia)Aquí estoy SeñorBorn:1946.08.16 (Sonsón, Colombia)Ordained Priest:1970.06.29Consecrated Bishop:2006.03.10Priest of Sonsón–Rionegro (Colombia) (1970.06.29 – 2006.01.17)Bishop of San José del Guaviare (Colombia) (2006.01.17 – 2010.02.02)Bishop of Girardota (Colombia) (2010.02.02 – 2024.03.21)Archbishop Gonzalo Restrepo Restrepo (78)  (Apostolic Administrator 2009.07.16 – 2010.02.02)Bishop Gonzalo Restrepo Restrepo (78) (later Archbishop)  (2006.07.11 – 2009.07.16)Metropolitan Archbishop emeritus of Manizales (Colombia)Hagan lo que él les digaBorn:1947.08.08 (Urrao, Colombia)Ordained Priest:1974.06.01Consecrated Bishop:2004.02.11Priest of Medellín (Colombia) (1974.06.01 – 2003.12.12)Chaplain of His Holiness (1999.11.21 – 2003.12.12)Titular Bishop of Munatiana (2003.12.12 – 2006.07.11)Auxiliary Bishop of Cali (Colombia) (2003.12.12 – 2006.07.11)Bishop of Girardota (Colombia) (2006.07.11 – 2009.07.16)Apostolic Administrator of Girardota (Colombia) (2009.07.16 – 2010.02.02)Coadjutor Archbishop of Manizales (Colombia) (2009.07.16 – 2010.10.07)Metropolitan Archbishop of Manizales (Colombia) (2010.10.07 – 2020.01.06)Fr. Óscar González Villa  (2006.04.24 – 2006.06.10 not possessed)Born:1949.05.08 (Colombia)Ordained Priest:1973.11.17Died:2015.06.25 († 66)Bishop of Girardota (Colombia) (2006.04.24 – 2006.06.10 not possessed)Bishop Héctor Ignacio Salah Zuleta (83)  (1998.02.21 – 2005.05.13)Bishop emeritus of Riohacha (Colombia)Delectare in dominoBorn:1942.12.24 (Bogotá, Colombia)Ordained Priest:1972.12.08Consecrated Bishop:1998.03.26Bishop of Girardota (Colombia) (1998.02.21 – 2005.05.13)Apostolic Administrator of Apartadó (Colombia) (2001.09 – 2002.03.01)Bishop of Riohacha (Colombia) (2005.05.13 – 2020.04.22)Bishop Oscar Angel Bernal  (1988.06.18 – 1996.07.04)Born:1938.08.20 (La Ceja, Colombia)Ordained Priest:1962.08.26Consecrated Bishop:1986.02.22Died:1996.07.04 († 57)Priest of Sonsón–Rionegro (Colombia) (1962.08.26 – 1986.01.23)Titular Bishop of Tisili (1986.01.23 – 1988.06.18)Auxiliary Bishop of Sonsón–Rionegro (Colombia) (1986.01.23 – 1988.06.18)Bishop of Girardota (Colombia) (1988.06.18 – 1996.07.04)Special ChurchesCathedral:  Catedral de Nuestra Señora del Rosario, Girardota, Antioquia Show MapMedellín (↙), Santa Rosa de Osos (↑), Barrancabermeja (→), Sonsón–Rionegro (↓)Statistics (2022.12.31)Area: 2,445 km²Population: 186,850 Catholics (96.7% of 193,252 total)Pastoral Centres: 33 parishesPersonnel: 68 priests (66 diocesan, 2 religious), 6 deacons, 27 religious (5 brothers, 22 sisters), 17 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gira1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 193252,
+    "catholiques": 186850,
+    "pourcentage_catholiques": 96.7
+  },
+  "ressources": {
+    "pretres_diocesains": 66,
+    "pretres_religieux": null,
+    "total_pretres": 68,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

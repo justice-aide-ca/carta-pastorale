@@ -1,0 +1,29 @@
+{
+  "id": "in-simd0",
+  "nom": "Simdega",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Simdega / Simdegaën(sis) (Latin)Ecclesiastical Province: RanchiNeighbouring Dioceses: Jashpur (↖), Gumla (↑), Khunti (↗), Jamshedpur (→), Rourkela (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint BartholomewLiturgical Calendar (National) 📅History1993.05.28: Established as Diocese of Simdega / Simdegaën(sis) (Latin) (from Metropolitan Archdiocese of Ranchi and became suffragan of Ranchi)Present PrelatesBishop (2008.02.11 – ...):Bishop Vincent Barwa (72)OrdinariesBishops of Simdega (Roman Rite)Bishop Vincent Barwa (72)  (2008.02.11 – ...)Bishop of Simdega (India)Vis amoris DominiBorn:1953.10.18 (Rengarih, India)Ordained Priest:1984.05.02Consecrated Bishop:1998.11.08Priest of Ranchi (India) (1984.05.02 – 1998.06.27)Bishop of Purnea (India) (1998.06.27 – 2004.09.29)Titular Bishop of Acufida (2004.09.29 – 2008.02.11)Auxiliary Bishop of Ranchi (India) (2004.09.29 – 2008.02.11)Bishop of Simdega (India) (2008.02.11 – ...)Bishop Joseph Minj  (1993.05.28 – 2008.02.11)Love and charity for allBorn:1932.10.17 (Paikpara-Dholkobera, India)Ordained Priest:1960.07.10Consecrated Bishop:1993.08.24Died:2018.08.16 (Simdega, India † 85)Bishop of Simdega (India) (1993.05.28 – 2008.02.11)Special ChurchesCathedral:  St. Anne Cathedral, Simdega, Jhārkhand Show MapJashpur (↖), Gumla (↑), Khunti (↗), Jamshedpur (→), Rourkela (↓)Statistics (2022.12.31)Area: 3,761 km²Population: 217,450 Catholics (31.4% of 692,200 total)Pastoral Centres: 37 parishesPersonnel: 154 priests (114 diocesan, 40 religious), 382 religious (105 brothers, 277 sisters), 28 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "simd0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 692200,
+    "catholiques": 217450,
+    "pourcentage_catholiques": 31.4
+  },
+  "ressources": {
+    "pretres_diocesains": 114,
+    "pretres_religieux": null,
+    "total_pretres": 154,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 37
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

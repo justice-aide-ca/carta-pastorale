@@ -1,0 +1,29 @@
+{
+  "id": "us-gary0",
+  "nom": "Gary",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Gary / Garien(sis) (Latin)Ecclesiastical Province: IndianapolisNeighbouring Dioceses: Joliet (←), Chicago (↖), Kalamazoo (↗), Fort Wayne–South Bend (→), Lafayette in Indiana (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1956.12.10: Established as Diocese of Gary / Garien(sis) (Latin) (from Diocese of Fort Wayne and became suffragan of Indianapolis)Contact InfoAddress: Chancery Office, 9292 BRd.way Ave., Merrillville, IN 46410, USAPhone: +1 (219) 769-9292Present PrelatesBishop (2019.11.26 – ...):Bishop Robert John McClory (62)Monsignors (17)OrdinariesBishops of Gary (Roman Rite)Bishop Robert John McClory (62)  (2019.11.26 – ...)Bishop of Gary (USA)Jesum Dominum prædicamusBorn:1963.10.10 (Detroit, MI, USA)Ordained Priest:1999.05.22Consecrated Bishop:2020.02.11Priest of Detroit (USA) (1999.05.22 – 2019.11.26)Chaplain of His Holiness (2005.05.20 – 2019.11.26)Bishop of Gary (USA) (2019.11.26 – ...)Bishop Donald Joseph Hying (62)  (2014.11.24 – 2019.04.25)Bishop of Madison (USA)Caritas numquam exciditBorn:1963.08.18 (West Allis, WI, USA)Ordained Priest:1989.05.20Consecrated Bishop:2011.07.20Priest of Milwaukee (USA) (1989.05.20 – 2011.05.26)Titular Bishop of Regiæ (2011.05.26 – 2014.11.24)Auxiliary Bishop of Milwaukee (USA) (2011.05.26 – 2014.11.24)Bishop of Gary (USA) (2014.11.24 – 2019.04.25)Bishop of Madison (USA) (2019.04.25 – ...)Bishop Dale Joseph Melczek  (1996.06.01 – 2014.11.24)To know ChristBorn:1938.11.09 (Detroit, MI, USA)Ordained Priest:1964.06.06Consecrated Bishop:1983.01.27Died:2022.08.25 (Gary, IN, USA † 83)Priest of Detroit (USA) (1964.06.06 – 1982.12.03)Titular Bishop of Trogir (1982.12.03 – 1995.10.28)Auxiliary Bishop of Detroit (USA) (1982.12.03 – 1995.10.28)Apostolic Administrator sede plena of Gary (USA) (1992.08.19 – 1995.10.28)Coadjutor Bishop of Gary (USA) (1995.10.28 – 1996.06.01)Bishop of Gary (USA) (1996.06.01 – 2014.11.24)Bishop Dale Joseph Melczek  (Apostolic Administrator sede plena 1992.08.19 – 1995.10.28)Bishop Norbert Felix Gaughan  (1984.07.24 – 1996.06.01)Born:1921.05.30 (Pittsburgh, PA, USA)Ordained Priest:1945.11.04Consecrated Bishop:1975.06.26Died:1999.10.01 († 78)Priest of Pittsburgh (USA) (1945.11.04 – 1951.03.10)Priest of Greensburg (USA) (1951.03.10 – 1975.04.02)Titular Bishop of Taraqua (1975.04.02 – 1984.07.24)Auxiliary Bishop of Greensburg (USA) (1975.04.02 – 1984.07.24)Bishop of Gary (USA) (1984.07.24 – 1996.06.01)Bishop Andrew Gregory Grutka  (1956.12.29 – 1984.07.09)Born:1908.11.17 (Joliet, IL, USA)Ordained Priest:1933.12.05Consecrated Bishop:1957.02.25Died:1993.11.11 (Valparaiso, IN, USA † 84)Priest of Fort Wayne (USA) (1933.12.05 – 1956.12.29)Bishop of Gary (USA) (1956.12.29 – 1984.07.09)Former PrelatesCoadjutor Bishop: Bishop Dale Joseph Melczek (1995.10.28 – 1996.06.01)Special ChurchesCathedral:  Cathedral of the Holy Angels, Gary, Indiana Jubilee Churches in the Holy Year 2025Churches by City (74)Show MapJoliet (←), Chicago (↖), Kalamazoo (↗), Fort Wayne–South Bend (→), Lafayette in Indiana (↓)Statistics (2022.12.31)Area: 4,680 km²Population: 170,144 Catholics (21.0% of 810,210 total)Pastoral Centres: 59 parishes, 6 missionsPersonnel: 119 priests (72 diocesan, 47 religious), 68 deacons, 115 religious (59 brothers, 56 sisters), 13 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gary0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 810210,
+    "catholiques": 170144,
+    "pourcentage_catholiques": 21.0
+  },
+  "ressources": {
+    "pretres_diocesains": 72,
+    "pretres_religieux": null,
+    "total_pretres": 119,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 59
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

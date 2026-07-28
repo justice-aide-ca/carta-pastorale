@@ -1,0 +1,29 @@
+{
+  "id": "in-muza0",
+  "nom": "Muzaffarpur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Muzaffarpur / Muzaffarpuren(sis) (Latin)Ecclesiastical Province: PatnaNeighbouring Dioceses: Bettiah (↖), Nepal (↑), Purnea (→), Bhagalpur (↘), Patna (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady of Perpetual HelpLiturgical Calendar (National) 📅History1980.03.06: Established as Diocese of Muzaffarpur / Muzaffarpuren(sis) (Latin) (from Diocese of Patna and became suffragan of Ranchi)1998.06.27: Lost territory to establish Diocese of Bettiah1999.03.16: Became suffragan of PatnaPresent PrelatesBishop (2014.07.11 – ...):Bishop Cajetan Francis Osta (64)OrdinariesBishops of Muzaffarpur (Roman Rite)Bishop Cajetan Francis Osta (64)  (2014.07.11 – ...)Bishop of Muzaffarpur (India)Come with honourBorn:1961.07.30 (Kathara-Bokaro, India)Ordained Priest:1992.05.09Consecrated Bishop:2014.10.22Priest of Muzaffarpur (India) (1992.05.09 – 2014.07.11)Bishop of Muzaffarpur (India) (2014.07.11 – ...)Bishop John Baptist Thakur, S.J. (89)  (1980.03.06 – 2014.07.11)Bishop emeritus of Muzaffarpur (India)All the graceBorn:1937.02.08 (Bettiah, India)Ordained Priest:1966.03.19Consecrated Bishop:1980.06.24Bishop of Muzaffarpur (India) (1980.03.06 – 2014.07.11)Special ChurchesCathedral:  Cathedral of St. Francis Assisi, Muzaffarpur, Bihār Show MapBettiah (↖), Nepal (↑), Purnea (→), Bhagalpur (↘), Patna (↓)Statistics (2022.12.31)Area: 27,125 km²Population: 6,000 Catholics (0.0% of 33,815,900 total)Pastoral Centres: 21 parishes, 29 missionsPersonnel: 41 priests (33 diocesan, 8 religious), 160 religious (24 brothers, 136 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "muza0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 33815900,
+    "catholiques": 6000,
+    "pourcentage_catholiques": 0.0
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 41,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

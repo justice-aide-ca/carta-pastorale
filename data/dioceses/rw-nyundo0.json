@@ -1,0 +1,35 @@
+{
+  "id": "rw-nyundo0",
+  "nom": "Nyundo",
+  "pays": "rw",
+  "continent": "afrique",
+  "type": "Diocese",
+  "annee_donnees": 2022,
+  "territoire": {
+    "superficie_km2": 4000,
+    "population_totale": 1886359,
+    "catholiques": 663372,
+    "pourcentage_catholiques": 35.2
+  },
+  "ressources": {
+    "pretres_diocesains": 102,
+    "pretres_religieux": null,
+    "total_pretres": 102,
+    "religieux_freres": 27,
+    "religieuses": 121,
+    "total_religieux": 148,
+    "seminarians": 65,
+    "diacres_permanents": null,
+    "paroisses": 28,
+    "missions": 1
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org + Statistiques 2022",
+  "derniere_mise_a_jour": "2026-07-14",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Nyundo",
+    "conference_episcopale": "https://www.eglisecatholiquerwanda.org/"
+  }
+}

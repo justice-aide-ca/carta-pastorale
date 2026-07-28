@@ -1,0 +1,29 @@
+{
+  "id": "gh-wiaw0",
+  "nom": "Wiawso",
+  "pays": "gh",
+  "pays_nom": "Ghana",
+  "continent": "unknown",
+  "type": "Diocese Name: Wiawso / Viavsen(sis) (Latin)Ecclesiastical Province: Cape CoastNeighbouring Dioceses: Grand-Bassam (↙), Abengourou (↖), Goaso (↑), Kumasi (↗), Sekondi–Takoradi (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1999.12.22: Established as Diocese of Wiawso / Viavsen(sis) (Latin) (from Diocese of Sekondi–Takoradi and became suffragan of Cape Coast)Present PrelatesBishop (2023.01.26 – ...):Bishop Samuel Nkuah-Boateng (58)Monsignors (2)OrdinariesBishops of Wiawso (Roman Rite)Bishop Samuel Nkuah-Boateng (58)  (2023.01.26 – ...)Bishop of Wiawso (Ghana)Born:1968.05.06 (Sefwi Bosomoiso, Ghana)Ordained Priest:2001.07.28Consecrated Bishop:2023.04.21Priest of Wiawso (Ghana) (2001.07.28 – 2023.01.26)Bishop of Wiawso (Ghana) (2023.01.26 – ...)Bishop Joseph Francis Kweku Essien (80)  (1999.12.22 – 2023.01.26)Bishop emeritus of Wiawso (Ghana)Tua voluntas non meaBorn:1945.11.25 (Apowa, Ghana)Ordained Priest:1977.07.10Consecrated Bishop:2000.03.25Priest of Sekondi–Takoradi (Ghana) (1977.07.10 – 1999.12.22)Bishop of Wiawso (Ghana) (1999.12.22 – 2023.01.26)Special ChurchesCathedral:  Cathedral of St. Joseph, Wiawso, Western Show MapGrand-Bassam (↙), Abengourou (↖), Goaso (↑), Kumasi (↗), Sekondi–Takoradi (↘)Statistics (2022.12.31)Area: 8,696 km²Population: 114,460 Catholics (11.8% of 969,900 total)Pastoral Centres: 35 parishesPersonnel: 52 priests (diocesan), 10 religious (5 brothers, 5 sisters), 37 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "wiaw0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 969900,
+    "catholiques": 114460,
+    "pourcentage_catholiques": 11.8
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 35
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

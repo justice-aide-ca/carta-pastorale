@@ -1,0 +1,29 @@
+{
+  "id": "bf-tenk0",
+  "nom": "Tenkodogo",
+  "pays": "bf",
+  "pays_nom": "Burkina Faso",
+  "continent": "unknown",
+  "type": "Diocese Name: Tenkodogo / Tenkodogoën(sis) (Latin)Ecclesiastical Province: KoupélaNeighbouring Dioceses: Navrongo–Bolgatanga (↙), Manga (←), Koupéla (↑), Fada N’Gourma (↗), Dapaong (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2012.02.11: Established as Diocese of Tenkodogo / Tenkodogoën(sis) (Latin) (from Metropolitan Archdiocese of Koupéla and Diocese of Fada N’Gourma and became suffragan of Koupéla)Present PrelatesBishop (2025.02.06 – ...):Bishop David Koudougou (53)OrdinariesBishops of Tenkodogo (Roman Rite)Bishop David Koudougou (53)  (2025.02.06 – ...)Bishop of Tenkodogo (Burkina Faso)La vie éternelle, c’est qu’ils te connaissentBorn:1972.08.01 (Tenkodogo, Burkina Faso)Ordained Priest:2001.07.14Consecrated Bishop:2025.05.24Priest of Fada N’Gourma (Burkina Faso) (2001.07.14 – 2012.02.11)Priest of Tenkodogo (Burkina Faso) (2012.02.11 – 2025.02.06)Bishop of Tenkodogo (Burkina Faso) (2025.02.06 – ...)Bishop Prosper Kontiebo, M.I. (65) (later Archbishop)  (2012.02.11 – 2023.10.16)Metropolitan Archbishop of Ouagadougou (Burkina Faso)Deus caritas estBorn:1960.09.25 (Boassa, Burkina Faso)Ordained Priest:1990.07.07Consecrated Bishop:2012.06.02Bishop of Tenkodogo (Burkina Faso) (2012.02.11 – 2023.10.16)Metropolitan Archbishop of Ouagadougou (Burkina Faso) (2023.10.16 – ...)Special ChurchesCathedral:  Cathedral of Maria Regina, Tenkodogo, Centre-Est Show MapNavrongo–Bolgatanga (↙), Manga (←), Koupéla (↑), Fada N’Gourma (↗), Dapaong (↘)Statistics (2022.12.31)Area: 10,047 km²Population: 197,000 Catholics (13.8% of 1,428,457 total)Pastoral Centres: 12 parishes, 157 missionsPersonnel: 34 priests (25 diocesan, 9 religious), 90 religious (19 brothers, 71 sisters), 34 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tenk0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1428457,
+    "catholiques": 197000,
+    "pourcentage_catholiques": 13.8
+  },
+  "ressources": {
+    "pretres_diocesains": 25,
+    "pretres_religieux": null,
+    "total_pretres": 34,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

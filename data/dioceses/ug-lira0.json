@@ -1,0 +1,29 @@
+{
+  "id": "ug-lira0",
+  "nom": "Lira",
+  "pays": "ug",
+  "pays_nom": "Uganda",
+  "continent": "unknown",
+  "type": "Diocese Name: Lira / Liren(sis) (Latin)Ecclesiastical Province: GuluNeighbouring Dioceses: Hoima (↙), Gulu (↖), Moroto (→), Soroti (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1968.07.12: Established as Diocese of Lira / Liren(sis) (Latin) (from Diocese of Gulu and became suffragan of Kampala)1999.01.02: Became suffragan of GuluPresent PrelatesBishop (2018.11.23 – ...):Bishop Sanctus Lino Wanok (69)Vice-President of Uganda Episcopal ConferenceOrdinariesBishops of Lira (Roman Rite)Bishop Sanctus Lino Wanok (69)  (2018.11.23 – ...)Bishop of Lira (Uganda)Vice-President of Uganda Episcopal ConferenceLove mercy workBorn:1957.04.07 (Atyak-Yamo, Uganda)Ordained Priest:1986.09.27Consecrated Bishop:2011.04.30Priest of Arua (Uganda) (1986.09.27 – 1996.02.23)Priest of Nebbi (Uganda) (1996.02.23 – 2011.02.08)Bishop of Nebbi (Uganda) (2011.02.08 – 2018.11.23)Bishop of Lira (Uganda) (2018.11.23 – ...)Vice-President of Uganda Episcopal Conference (2022.11.12 – ...)Bishop Giuseppe Franzelli, M.C.C.J. (84)  (2005.04.01 – 2018.11.23)Bishop emeritus of Lira (Uganda)Born:1942.04.09 (Roccafranca, Italy)Ordained Priest:1967.03.11Consecrated Bishop:2005.07.09Bishop of Lira (Uganda) (2005.04.01 – 2018.11.23)Bishop Joseph Oyanga  (1989.07.04 – 2003.12.02)Your will be doneBorn:1936.02.28 (Omoro, Uganda)Ordained Priest:1963.05.15Consecrated Bishop:1989.10.01Died:2018.07.21 (Tororo, Uganda † 82)Priest of Lira (Uganda) (1963.05.15 – 1989.07.04)Bishop of Lira (Uganda) (1989.07.04 – 2003.12.02)Bishop Cesare Asili  (1968.07.12 – 1988.10.12)Born:1924.09.20 (Moyo, Uganda)Ordained Priest:1955.06.05Consecrated Bishop:1968.10.27Died:1988.10.12 († 64)Bishop of Lira (Uganda) (1968.07.12 – 1988.10.12)Special ChurchesCathedral:  Cathedral of the Holy Martyrs of Uganda, Lira, Lira, Northern Show MapHoima (↙), Gulu (↖), Moroto (→), Soroti (↘)Statistics (2022.12.31)Area: 12,030 km²Population: 2,042,954 Catholics (62.6% of 3,265,000 total)Pastoral Centres: 35 parishes, 11 missionsPersonnel: 81 priests (70 diocesan, 11 religious), 139 religious (12 brothers, 127 sisters), 102 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lira0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3265000,
+    "catholiques": 2042954,
+    "pourcentage_catholiques": 62.6
+  },
+  "ressources": {
+    "pretres_diocesains": 70,
+    "pretres_religieux": null,
+    "total_pretres": 81,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 35
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

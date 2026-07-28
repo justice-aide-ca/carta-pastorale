@@ -1,0 +1,29 @@
+{
+  "id": "us-owen0",
+  "nom": "Owensboro",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Owensboro / Ovensburgen(sis) (Latin)Ecclesiastical Province: LouisvilleNeighbouring Dioceses: Memphis (↙), Springfield–Cape Girardeau (←), Belleville (↖), Evansville (↑), Indianapolis (↗), Louisville (→), Nashville (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint StephenCathedral Dedication Anniversary: September 6Liturgical Calendar 📅History1937.12.09: Established as Diocese of Owensboro / Ovensburgen(sis) (Latin) (from Diocese of Louisville)1937.12.10: Became suffragan of LouisvilleContact InfoAddress: Chancery Office, 600 Lucust St., Owensboro, KY 42301-2130, USAPhone: +1 (270) 683-1545Present PrelatesBishop (2009.12.15 – ...):Bishop William Francis Medley (73)Monsignors (3)OrdinariesBishops of Owensboro (Roman Rite)Bishop William Francis Medley (73)  (2009.12.15 – ...)Bishop of Owensboro (USA)Holy is God’s nameBorn:1952.09.17 (Loretto, KY, USA)Ordained Priest:1982.05.22Consecrated Bishop:2010.02.10Priest of Louisville (USA) (1982.05.22 – 2009.12.15)Bishop of Owensboro (USA) (2009.12.15 – ...)Bishop John Jeremiah McRaith  (1982.10.23 – 2009.01.05)Born:1934.12.06 (Hutchinson, MN, USA)Ordained Priest:1960.02.21Consecrated Bishop:1982.12.15Died:2017.03.19 (Owensboro, KY, USA † 82)Priest of New Ulm (USA) (1960.02.21 – 1982.10.23)Bishop of Owensboro (USA) (1982.10.23 – 2009.01.05)Bishop Henry Joseph Soenneker  (1961.03.10 – 1982.06.30)Omnes unum in ChristoBorn:1907.05.27 (Melrose, MN, USA)Ordained Priest:1934.05.26Consecrated Bishop:1961.04.26Died:1987.09.24 (Owensboro, KY, USA † 80)Priest of Saint Cloud (USA) (1934.05.26 – 1961.03.10)Bishop of Owensboro (USA) (1961.03.10 – 1982.06.30)Bishop Francis Ridgley Cotton  (1937.12.16 – 1960.09.25)Born:1895.09.19 (Bardstown, KY, USA)Ordained Priest:1920.06.17Consecrated Bishop:1938.02.24Died:1960.09.25 (Owensboro, KY, USA † 65)Priest of Louisville (USA) (1920.06.17 – 1937.12.16)Bishop of Owensboro (USA) (1937.12.16 – 1960.09.25)Special ChurchesCathedral:  St. Stephen Cathedral, Owensboro, Kentucky Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (83)Show MapMemphis (↙), Springfield–Cape Girardeau (←), Belleville (↖), Evansville (↑), Indianapolis (↗), Louisville (→), Nashville (↓)Statistics (2022.12.31)Area: 32,380 km²Population: 52,350 Catholics (5.7% of 923,000 total)Pastoral Centres: 78 parishesPersonnel: 114 priests (77 diocesan, 37 religious), 46 deacons, 146 religious (37 brothers, 109 sisters), 4 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "owen0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 923000,
+    "catholiques": 52350,
+    "pourcentage_catholiques": 5.7
+  },
+  "ressources": {
+    "pretres_diocesains": 77,
+    "pretres_religieux": null,
+    "total_pretres": 114,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 78
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

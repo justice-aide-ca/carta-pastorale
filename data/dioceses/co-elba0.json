@@ -1,0 +1,29 @@
+{
+  "id": "co-elba0",
+  "nom": "El Banco",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: El Banco / Bancoën(sis) (Latin)Ecclesiastical Province: BarranquillaNeighbouring Dioceses: Cartagena (↖), Santa Marta (↑), Valledupar (→), Ocaña (↘), Magangué (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2006.01.17: Established as Diocese of El Banco / Bancoën(sis) (Latin) (from Diocese of Santa Marta and Diocese of Valledupar and became suffragan of Barranquilla)Present PrelatesBishop (2024.05.15 – ...):Bishop Dimas Antonio Acuña Jiménez (54)OrdinariesBishops of El Banco (Roman Rite)Bishop Dimas Antonio Acuña Jiménez (54)  (2024.05.15 – ...)Bishop of El Banco (Colombia)Veni creator SpiritusBorn:1972.01.25 (Usiacurí, Colombia)Ordained Priest:1998.08.22Consecrated Bishop:2024.07.27Priest of Barranquilla (Colombia) (1998.08.22 – 2024.05.15)Bishop of El Banco (Colombia) (2024.05.15 – ...)Bishop José Mario Bacci Trespalacios, C.I.M. (55)  (Apostolic Administrator 2023.01.17 – 2024.05.15)Bishop Luis Gabriel Ramírez Díaz  (Apostolic Administrator 2021.03.25 – 2023.01.08)Bishop Luis Gabriel Ramírez Díaz  (2014.06.18 – 2021.02.27)Born:1965.11.14 (Margarita, Colombia)Ordained Priest:1993.06.12Consecrated Bishop:2014.08.23Died:2023.01.08 (Medellín, Colombia † 57)Priest of Santa Marta (Colombia) (1993.06.12 – 2006.01.17)Priest of El Banco (Colombia) (2006.01.17 – 2014.06.18)Apostolic Administrator of El Banco (Colombia) (2013.04.24 – 2014.06.18)Bishop of El Banco (Colombia) (2014.06.18 – 2021.02.27)Bishop of Ocaña (Colombia) (2021.02.27 – 2023.01.08)Apostolic Administrator of El Banco (Colombia) (2021.03.25 – 2023.01.08)Fr. Luis Gabriel Ramírez Díaz (later Bishop)  (Apostolic Administrator 2013.04.24 – 2014.06.18)Bishop Jaime Enrique Duque Correa, M.X.Y.  (2006.01.17 – 2013.04.14)Born:1943.04.04 (Medellín, Colombia)Ordained Priest:1967.07.02Consecrated Bishop:2006.02.25Died:2013.04.14 (Medellín, Colombia † 70)Bishop of El Banco (Colombia) (2006.01.17 – 2013.04.14)Special ChurchesCathedral:  Catedral Nuestra Señora de la Candelaria, El Banco, Magdalena Show MapCartagena (↖), Santa Marta (↑), Valledupar (→), Ocaña (↘), Magangué (↓)Statistics (2021.12.31)Area: 11,855 km²Population: 360,000 Catholics (67.4% of 534,000 total)Pastoral Centres: 18 parishes, 4 missionsPersonnel: 25 priests (19 diocesan, 6 religious), 24 deacons, 29 religious (21 brothers, 8 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "elba0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 534000,
+    "catholiques": 360000,
+    "pourcentage_catholiques": 67.4
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 25,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

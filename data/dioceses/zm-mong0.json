@@ -1,0 +1,29 @@
+{
+  "id": "zm-mong0",
+  "nom": "Mongu",
+  "pays": "zm",
+  "pays_nom": "Zambia",
+  "continent": "unknown",
+  "type": "Diocese Name: Mongu / Monguen(sis) (Latin)Ecclesiastical Province: LusakaNeighbouring Dioceses: Luena (↖), Solwezi (↗), Livingstone (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1997.06.14: Established as Diocese of Mongu / Monguen(sis) (Latin) (from Diocese of Livingstone and became suffragan of Lusaka)Present PrelatesBishop (2011.02.15 – ...):Bishop Evans Chinyama Chinyemba, O.M.I. (58)OrdinariesBishops of Mongu (Roman Rite)Bishop Evans Chinyama Chinyemba, O.M.I. (58)  (2011.02.15 – ...)Bishop of Mongu (Zambia)Do whatever he tells youBorn:1967.08.09 (Lukulu, Zambia)Ordained Priest:2000.08.19Consecrated Bishop:2011.05.28Bishop of Mongu (Zambia) (2011.02.15 – ...)Bishop Paul Francis Duffy, O.M.I.  (1997.06.14 – 2011.02.15)Born:1932.07.25 (Norwood, MA, USA)Ordained Priest:1962.12.22Consecrated Bishop:1997.08.31Died:2011.08.23 (San Antonio, TX, USA † 79)Bishop of Mongu (Zambia) (1997.06.14 – 2011.02.15)Special ChurchesCathedral:  Cathedral of Our Lady of Lourdes, Mongu, Western Show MapLuena (↖), Solwezi (↗), Livingstone (↓)Statistics (2022.12.31)Area: 88,293 km²Population: 103,013 Catholics (9.8% of 1,046,500 total)Pastoral Centres: 14 parishesPersonnel: 43 priests (22 diocesan, 21 religious), 155 religious (97 brothers, 58 sisters), 10 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mong0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1046500,
+    "catholiques": 103013,
+    "pourcentage_catholiques": 9.8
+  },
+  "ressources": {
+    "pretres_diocesains": 22,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

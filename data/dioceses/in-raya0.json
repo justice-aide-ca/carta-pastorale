@@ -1,0 +1,29 @@
+{
+  "id": "in-raya0",
+  "nom": "Rayagada",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Rayagada / Rayagaden(sis) (Latin)Ecclesiastical Province: Cuttack–BhubaneswarNeighbouring Dioceses: Jagdalpur (←), Raipur (↖), Sambalpur (↑), Cuttack–Bhubaneswar (↗), Berhampur (→), Srikakulam (↘), Visakhapatnam (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2016.04.11: Established as Diocese of Rayagada / Rayagaden(sis) (Latin) (from Diocese of Berhampur and became suffragan of Cuttack–Bhubaneswar)Present PrelatesBishop (2016.04.11 – ...):Bishop Aplinar Senapati, C.M. (65)OrdinariesBishops of Rayagada (Roman Rite)Bishop Aplinar Senapati, C.M. (65)  (2016.04.11 – ...)Bishop of Rayagada (India)Mary ImmaculateBorn:1960.10.28 (Surada, India)Ordained Priest:1990.11.28Consecrated Bishop:2016.05.28Bishop of Rayagada (India) (2016.04.11 – ...)Special ChurchesCathedral:  Cathedral of the Queen of the Mission, Rayagada, Odisha Show MapJagdalpur (←), Raipur (↖), Sambalpur (↑), Cuttack–Bhubaneswar (↗), Berhampur (→), Srikakulam (↘), Visakhapatnam (↓)Statistics (2022.12.31)Area: 39,420 km²Population: 67,302 Catholics (1.0% of 6,688,030 total)Pastoral Centres: 26 parishesPersonnel: 63 priests (26 diocesan, 37 religious), 72 religious (47 brothers, 25 sisters), 24 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "raya0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6688030,
+    "catholiques": 67302,
+    "pourcentage_catholiques": 1.0
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 63,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "pl-droh0",
+  "nom": "Drohiczyn",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Drohiczyn / Drohiczinen(sis) (Latin)Ecclesiastical Province: BiałystokNeighbouring Dioceses: Warszawa-Praga (←), Łomża (↖), Białystok (↗), Pinsk (→), Siedlce (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Najświętszej Maryi Panny Matki Kościoła (May 31)Cathedral Dedication Anniversary: January 10Liturgical Calendar 📅History1991.06.05: Established as Diocese of Drohiczyn / Drohiczinen(sis) (Latin) (from Diocese of Pinsk and became suffragan of Vilnius)1992.03.25: Became suffragan of BiałystokPapal VisitsPope John Paul II (1999.06)Present PrelatesBishop (2019.06.17 – ...):Bishop Piotr Henryk Sawczuk (64)Monsignors (42)OrdinariesBishops of Drohiczyn (Roman Rite)Bishop Piotr Henryk Sawczuk (64)  (2019.06.17 – ...)Bishop of Drohiczyn (Poland)Nomini tuo da gloriamBorn:1962.01.29 (Puczyce, Poland)Ordained Priest:1987.06.06Consecrated Bishop:2013.04.06Priest of Siedlce (Poland) (1987.06.06 – 2013.01.19)Titular Bishop of Ottana (2013.01.19 – 2019.06.17)Auxiliary Bishop of Siedlce (Poland) (2013.01.19 – 2019.06.17)Bishop of Drohiczyn (Poland) (2019.06.17 – ...)Bishop Tadeusz Pikus (76)  (2014.03.29 – 2019.06.17)Bishop emeritus of Drohiczyn (Poland)Surrexit Dominus vereBorn:1949.09.01 (Zabiele, Poland)Ordained Priest:1981.06.07Consecrated Bishop:1999.05.08Priest of Warszawa (Poland) (1981.06.07 – 1999.04.24)Titular Bishop of Lysinia (1999.04.24 – 2014.03.29)Auxiliary Bishop of Warszawa (Poland) (1999.04.24 – 2014.03.29)Bishop of Drohiczyn (Poland) (2014.03.29 – 2019.06.17)Bishop Antoni Pacyfik Dydycz, O.F.M. Cap.  (1994.06.20 – 2014.03.29)Populus Tuus hereditas TuaBorn:1938.08.24 (Serpelice, Poland)Ordained Priest:1963.06.29Consecrated Bishop:1994.07.10Died:2025.09.14 (Serpelice, Poland † 87)Bishop of Drohiczyn (Poland) (1994.06.20 – 2014.03.29)Bishop Wladyslaw Jedruszuk  (1991.06.05 – 1994.05.25)Via veritas vitaBorn:1918.11.19 (Lipno, Poland)Ordained Priest:1943.01.03Consecrated Bishop:1963.06.23Died:1994.05.25 (Sokolow Podalski, Poland † 75)Priest of Siedlce (Poland) (1943.01.03 – 1962.11.19)Titular Bishop of Clysma (1962.11.19 – 1991.06.05)Auxiliary Bishop of Pinsk (Belarus) (1962.11.19 – 1991.06.05)Apostolic Administrator of Pinsk (Belarus) (1967 – 1991.06.05)Bishop of Drohiczyn (Poland) (1991.06.05 – 1994.05.25)Former PrelatesAuxiliary Bishop: Bishop Jan Chrapek, C.S.M.A. (1992.03.25 – 1994.06.20)Special ChurchesCathedral:  Katedra Trójcy Przenajświętszej, Drohiczyn, Podlaskie Co-Cathedral:  Konkatedra Niepokalanego Serca NMP, Sokołów Podlaski, Mazowieckie Minor Basilica:  Bazylika Narodzenia NMP i św. Mikołaja, Bielsk Podlaski, Podlaskie Minor Basilica:  Bazylika Trójcy Przenajświętszej i św. Anny, Prostyń, Mazowieckie Minor Basilica:  Bazylika Wniebowzięcia NMP, Węgrów, Mazowieckie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapWarszawa-Praga (←), Łomża (↖), Białystok (↗), Pinsk (→), Siedlce (↓)Statistics (2022.12.31)Area: 8,000 km²Population: 178,000 Catholics (75.4% of 236,200 total)Pastoral Centres: 98 parishes, 97 missionsPersonnel: 229 priests (210 diocesan, 19 religious), 120 religious (20 brothers, 100 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "droh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 236200,
+    "catholiques": 178000,
+    "pourcentage_catholiques": 75.4
+  },
+  "ressources": {
+    "pretres_diocesains": 210,
+    "pretres_religieux": null,
+    "total_pretres": 229,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 98
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

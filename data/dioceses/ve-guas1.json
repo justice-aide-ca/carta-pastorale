@@ -1,0 +1,29 @@
+{
+  "id": "ve-guas1",
+  "nom": "Guasdualito",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Guasdualito (español) / Guasdualitan(us) (Latin)Ecclesiastical Province: MéridaNeighbouring Dioceses: Nueva Pamplona (←), San Cristóbal de Venezuela (↖), Barinas (↑), San Fernando de Apure (→), Arauca (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2015.12.03: Established as Diocese of Guasdualito (español) / Guasdualitan(us) (Latin) (from Diocese of Barinas and Diocese of San Fernando de Apure and became suffragan of Mérida)Present PrelatesBishop (2026.04.25 – ...):Bishop-elect José Magdaleno Álvarez Briceño (55)OrdinariesBishops of Guasdualito (Roman Rite)Bishop-elect José Magdaleno Álvarez Briceño (55)  (2026.04.25 – ...)Bishop of Guasdualito (Venezuela)Born:1971.07.02 (Carache, Venezuela)Ordained Priest:1996.08.15Consecrated Bishop:2026.07.25Priest of Trujillo (Venezuela) (1996.08.15 – 2026.04.25)Bishop of Guasdualito (Venezuela) (2026.04.25 – ...)Bishop Pablo Modesto González Pérez, S.D.B. (67)  (2015.12.03 – 2025.01.09)Bishop of La Guaira (Venezuela)Born:1959.06.30 (San Antonio de los Altos, Venezuela)Ordained Priest:1986.07.26Consecrated Bishop:2016.02.06Bishop of Guasdualito (Venezuela) (2015.12.03 – 2025.01.09)Bishop of La Guaira (Venezuela) (2025.01.09 – ...)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen, Guasdualito, Apure Show MapNueva Pamplona (←), San Cristóbal de Venezuela (↖), Barinas (↑), San Fernando de Apure (→), Arauca (↓)Statistics (2022.12.31)Area: 2,750 km²Population: 155,315 Catholics (77.6% of 200,100 total)Pastoral Centres: 13 parishes, 98 missionsPersonnel: 18 priests (15 diocesan, 3 religious), 1 deacon, 6 religious (3 brothers, 3 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "guas1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 200100,
+    "catholiques": 155315,
+    "pourcentage_catholiques": 77.6
+  },
+  "ressources": {
+    "pretres_diocesains": 15,
+    "pretres_religieux": null,
+    "total_pretres": 18,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "in-darj0",
+  "nom": "Darjeeling",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Darjeeling / 大吉嶺 (正體中文) / Darieelingen(sis) (Latin)Ecclesiastical Province: CalcuttaNeighbouring Dioceses: Nepal (←), Kangding 康定 (↑), Itanagar (→), Tezpur (→), Guwahati (→), Bongaigaon (↘), Jalpaiguri (↘), Bagdogra (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Immaculate Conception of the Blessed Virgin Mary, Saint Thérèse of the Child JesusLiturgical Calendar (National) 📅History1929.02.15: Established as Mission sui juris of Sikkim (from Metropolitan Archdiocese of Calcutta and Apostolic Vicariate of Dajianlu 打箭爐 and became suffragan of Calcutta)1931.06.16: Promoted as Apostolic Prefecture of Sikkim1962.08.08: Promoted as Diocese of Darjeeling / 大吉嶺 (正體中文) / Darieelingen(sis) (Latin) (gained territory from Metropolitan Archdiocese of Calcutta)1964.01.16: Lost territory to establish Diocese of Tezpur1975.01.20: Gained territory from Diocese of Tezpur1997.06.14: Lost territory to establish Diocese of BagdograPresent PrelatesBishop (1997.06.14 – ...):Bishop Stephen Lepcha (73)Coadjutor Bishop (2025.11.29 – ...):Bishop Edward Baretto (61)OrdinariesBishops of Darjeeling (Roman Rite)Bishop Stephen Lepcha (73)  (1997.06.14 – ...)Bishop of Darjeeling (India)Fiat in fideBorn:1952.12.22 (Suruk, India)Ordained Priest:1982.12.15Consecrated Bishop:1997.12.08Priest of Darjeeling (India) (1982.12.15 – 1997.06.14)Bishop of Darjeeling (India) (1997.06.14 – ...)Bishop Eric Benjamin  (1962.08.08 – 1994.05.12)Born:1920.05.13 (Kurseong, India)Ordained Priest:1945.08.24Consecrated Bishop:1962.10.07Died:1994.05.12 († 73)Bishop of Darjeeling (India) (1962.08.08 – 1994.05.12)Prefects Apostolic of Sikkim (Roman Rite)Fr. Aurelio Gianora, C.R.A.  (1937.05.14 – 1962.08.08)Born:1908.09.06 (Leontica, Switzerland)Ordained Priest:1933.09.23Died:1995.12.31 († 87)Prefect Apostolic of Sikkim (India) (1937.05.14 – 1962.08.08)Fr. Jules Elmire Douénel, M.E.P.  (1931.06.16 – 1937.04.08)Born:1866.09.20 (Saint-Louet-sur-Seulles, France)Ordained Priest:1892.07.03Died:1940.02.01 (Ooty, India † 73)Ecclesiastical Superior of Sikkim (India) (1929.02.19 – 1931.06.16)Prefect Apostolic of Sikkim (India) (1931.06.16 – 1937.04.08)Ecclesiastical Superiors of Sikkim (Roman Rite)Fr. Jules Elmire Douénel, M.E.P.  (1929.02.19 – 1931.06.16)(see above)Special ChurchesCathedral:  Immaculate Conception Cathedral, Darjeeling, West Bengal, India Show MapNepal (←), Kangding 康定 (↑), Itanagar (→), Tezpur (→), Guwahati (→), Bongaigaon (↘), Jalpaiguri (↘), Bagdogra (↓)Statistics (2022.12.31)Area: 9,521 km²Population: 37,873 Catholics (2.3% of 1,651,350 total)Pastoral Centres: 62 parishesPersonnel: 158 priests (87 diocesan, 71 religious), 394 religious (117 brothers, 277 sisters), 29 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "darj0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1651350,
+    "catholiques": 37873,
+    "pourcentage_catholiques": 2.3
+  },
+  "ressources": {
+    "pretres_diocesains": 87,
+    "pretres_religieux": null,
+    "total_pretres": 158,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 62
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

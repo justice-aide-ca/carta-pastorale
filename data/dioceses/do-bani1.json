@@ -1,0 +1,29 @@
+{
+  "id": "do-bani1",
+  "nom": "Baní",
+  "pays": "do",
+  "pays_nom": "Dominican Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: Baní / Banien(sis) (Latin)Ecclesiastical Province: Santo DomingoNeighbouring Dioceses: San Juan de la Maguana (←), La Vega (↑), Santo Domingo (→)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1986.11.08: Established as Diocese of Baní / Banien(sis) (Latin) (from Metropolitan Archdiocese of Santo Domingo and became suffragan of Santo Domingo)Present PrelatesBishop (2024.08.17 – ...):Bishop Faustino Burgos Brisman, C.M. (66)General Secretary of Dominican Episcopal ConferenceMonsignors (1)OrdinariesBishops of Baní (Roman Rite)Bishop Faustino Burgos Brisman, C.M. (66)  (2024.08.17 – ...)Bishop of Baní (Dominican Republic)General Secretary of Dominican Episcopal ConferenceDilectio in servitioBorn:1960.02.15 (San Francisco de Macorís, Duarte, Dominican Republic)Ordained Priest:1987.05.30Consecrated Bishop:2017.08.26Titular Bishop of Bararus (2017.07.22 – 2024.08.17)Auxiliary Bishop of Santo Domingo (Dominican Republic) (2017.07.22 – 2024.08.17)General Secretary of Dominican Episcopal Conference (2020.07.01 – ...)Apostolic Administrator of Baní (Dominican Republic) (2023.09.12 – 2024.08.17)Bishop of Baní (Dominican Republic) (2024.08.17 – ...)Bishop Faustino Burgos Brisman, C.M. (66)  (Apostolic Administrator 2023.09.12 – 2024.08.17)Bishop Victor Emilio Masalles Pere (65)  (2016.12.14 – 2023.09.12)Bishop emeritus of Baní (Dominican Republic)Proclama la palabraBorn:1961.06.29 (Barcelona, Spain)Ordained Priest:1991.07.07Consecrated Bishop:2010.06.29Priest of Santo Domingo (Dominican Republic) (1991.07.07 – 2010.05.08)Titular Bishop of Girba (2010.05.08 – 2016.12.14)Auxiliary Bishop of Santo Domingo (Dominican Republic) (2010.05.08 – 2016.12.14)Bishop of Baní (Dominican Republic) (2016.12.14 – 2023.09.12)Bishop Freddy Antonio de Jesús Bretón Martínez (78) (later Archbishop)  (1998.08.06 – 2015.02.23)Metropolitan Archbishop emeritus of Santiago de los Caballeros (Dominican Republic)Scio cui credidiBorn:1947.10.15 (Licey, Santiago, Dominican Republic)Ordained Priest:1977.09.10Consecrated Bishop:1998.09.19Priest of Santiago de los Caballeros (Dominican Republic) (1977.09.10 – 1998.08.06)Bishop of Baní (Dominican Republic) (1998.08.06 – 2015.02.23)Metropolitan Archbishop of Santiago de los Caballeros (Dominican Republic) (2015.02.23 – 2023.10.07)President of Dominican Episcopal Conference (2020.07.01 – 2023.07.04)Bishop Príamo Pericles Tejeda Rosario  (1986.11.08 – 1997.12.13)Born:1934.04.20 (Santo Domingo, Distrito Nacional, Dominican Republic)Ordained Priest:1966.05.11Consecrated Bishop:1975.07.13Died:2024.05.17 (Santo Domingo, Dominican Republic † 90)Priest of Santo Domingo (Dominican Republic) (1966.05.11 – 1975.05.10)Titular Bishop of Gilba (1975.05.10 – 1986.11.08)Auxiliary Bishop of Santo Domingo (Dominican Republic) (1975.05.10 – 1986.11.08)Bishop of Baní (Dominican Republic) (1986.11.08 – 1997.12.13)Special ChurchesCathedral:  Catedral Nuestra Señora de Regla, Baní, Peravia, Valdesia Show MapSan Juan de la Maguana (←), La Vega (↑), Santo Domingo (→)Statistics (2022.12.31)Area: 892 km²Population: 803,700 Catholics (88.5% of 908,300 total)Pastoral Centres: 30 parishesPersonnel: 33 priests (30 diocesan, 3 religious), 5 deacons, 55 religious (7 brothers, 48 sisters), 8 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bani1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 908300,
+    "catholiques": 803700,
+    "pourcentage_catholiques": 88.5
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 33,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ua-khar2",
+  "nom": "Kharkiv",
+  "pays": "ua",
+  "pays_nom": "Ukraine",
+  "continent": "unknown",
+  "type": "Archiepiscopal Exarchate Name: Kharkiv / Charkiv (Italiano)Subject to the Major ArchbishopNeighbouring Dioceses: Odessa (↙), Kyiv (←), Russia (↑), Donets’k (↘)Depends on: Dicastery for the Eastern ChurchesHistory2014.04.02: Established as Archiepiscopal Exarchate of Kharkiv / Charkiv (Italiano) (from Archiepiscopal Exarchate of Donets’k–Kharkiv)Present PrelatesArchiepiscopal Exarch (2014.04.02 – ...):Bishop Vasyl Volodymyr Tuchapets, O.S.B.M. (58)Titular Bishop of CenturionesOrdinariesArchiepiscopal Exarchs of Kharkiv (Ukrainian Rite)Bishop Vasyl Volodymyr Tuchapets, O.S.B.M. (58)  (2014.04.02 – ...)Archiepiscopal Exarch of Kharkiv of the Ukrainians (Ukraine)Titular Bishop of CenturionesBorn:1967.09.29 (Yavoriv, Ukraine)Ordained Priest:1997.07.12Consecrated Bishop:2014.05.21Titular Bishop of Centuriones (2014.04.02 – ...)Archiepiscopal Exarch of Kharkiv of the Ukrainians (Ukraine) (2014.04.02 – ...)Special ChurchesCathedral:  Cathedral of St. Nicholas the Wonderworker, Kharkiv (Харків), Kharkiv Oblast Jubilee Churches in the Holy Year 2025Show MapOdessa (↙), Kyiv (←), Russia (↑), Donets’k (↘)Statistics (2022.12.31)Population: 6,000 CatholicsPastoral Centres: 25 parishes, 2 missionsPersonnel: 21 priests (19 diocesan, 2 religious), 1 deacon, 10 religious (2 brothers, 8 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "khar2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 21,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

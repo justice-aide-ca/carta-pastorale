@@ -1,0 +1,29 @@
+{
+  "id": "br-umua1",
+  "nom": "Umuarama",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Umuarama / Umuaramen(sis) (Latin)Ecclesiastical Province: MaringáNeighbouring Dioceses: Naviraí (↖), Paranavaí (↗), Campo Mourão (→), Toledo (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1973.05.26: Established as Diocese of Umuarama / Umuaramen(sis) (Latin) (from Diocese of Campo Mourão and became suffragan of Londrina)1979.10.16: Became suffragan of MaringáPresent PrelatesBishop (2010.11.24 – ...):Bishop João Mamede Filho, O.F.M. Conv. (74)Monsignors (4)OrdinariesBishops of Umuarama (Roman Rite)Bishop João Mamede Filho, O.F.M. Conv. (74)  (2010.11.24 – ...)Bishop of Umuarama (Brazil)No Evangelho força de DeusBorn:1951.08.21 (Caçapava, SP, Brazil)Ordained Priest:1978.04.21Consecrated Bishop:2006.07.01Titular Bishop of Aquæ Albæ in Mauretania (2006.04.26 – 2010.11.24)Auxiliary Bishop of São Paulo (Brazil) (2006.04.26 – 2010.11.24)Bishop of Umuarama (Brazil) (2010.11.24 – ...)Apostolic Administrator of Maringá (Brazil) (2019.11.20 – 2020.07.01)Bishop Vicente Costa (79)  (2002.10.09 – 2009.12.30)Bishop emeritus of Jundiaí (Brazil)Quodcumque dixerit vobis facite / Fazei tudo o que Ele vos disserBorn:1947.01.01 (Birkirkara, Malta)Ordained Priest:1972.12.17Consecrated Bishop:1998.09.19Priest of Malta (Malta) (1972.12.17 – 1998.07.01)Titular Bishop of Aquæ flaviæ (1998.07.01 – 2002.10.09)Auxiliary Bishop of Londrina (Brazil) (1998.07.01 – 2002.10.09)Bishop of Umuarama (Brazil) (2002.10.09 – 2009.12.30)Bishop of Jundiaí (Brazil) (2009.12.30 – 2022.06.15)Bishop José Maria Maimone, S.A.C. (93)  (1973.06.12 – 2002.05.08)Bishop emeritus of Umuarama (Brazil)In finem dilexit eosBorn:1932.10.06 (Astolfo Dutra, MG, Brazil)Ordained Priest:1961.06.29Consecrated Bishop:1973.06.29Bishop of Umuarama (Brazil) (1973.06.12 – 2002.05.08)Former PrelatesCoadjutor Bishop: Bishop Frederico Heimler, S.D.B. (1998.12.09 – 2002.05.08)Special ChurchesCathedral:  Catedral Divino Espírito Santo, Umuarama, Paraná Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (47)Show MapNaviraí (↖), Paranavaí (↗), Campo Mourão (→), Toledo (↓)Statistics (2022.12.31)Area: 13,664 km²Population: 325,950 Catholics (76.6% of 425,540 total)Pastoral Centres: 48 parishesPersonnel: 81 priests (67 diocesan, 14 religious), 62 deacons, 50 religious (14 brothers, 36 sisters), 15 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "umua1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 425540,
+    "catholiques": 325950,
+    "pourcentage_catholiques": 76.6
+  },
+  "ressources": {
+    "pretres_diocesains": 67,
+    "pretres_religieux": null,
+    "total_pretres": 81,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 48
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

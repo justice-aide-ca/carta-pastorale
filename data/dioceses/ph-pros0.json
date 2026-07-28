@@ -1,0 +1,29 @@
+{
+  "id": "ph-pros0",
+  "nom": "Prosperidad",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Prosperidad / Prosperitaten(sis) (Latin)Ecclesiastical Province: Cagayan de OroNeighbouring Dioceses: Malaybalay (←), Butuan (↑), Tandag (→), Mati (↘), Tagum (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History2024.10.15: Established as Diocese of Prosperidad / Prosperitaten(sis) (Latin) (from Diocese of Butuan and became suffragan of Cagayan de Oro)Present PrelatesBishop (2024.10.15 – ...):Bishop Ruben Caballero Labajo (59)OrdinariesBishops of Prosperidad (Roman Rite)Bishop Ruben Caballero Labajo (59)  (2024.10.15 – ...)Bishop of Prosperidad (Philippines)Humiliter ambulare coram DeoBorn:1966.09.24 (Talisay City, Philippines)Ordained Priest:1994.06.10Consecrated Bishop:2022.08.19Priest of Cebu (Philippines) (1994.06.10 – 2022.06.23)Chaplain of His Holiness (2007.06.08 – 2022.06.23)Titular Bishop of Abbir Maius (2022.06.23 – 2024.10.15)Auxiliary Bishop of Cebu (Philippines) (2022.06.23 – 2024.10.15)Bishop of Prosperidad (Philippines) (2024.10.15 – ...)Special ChurchesCathedral:  Cathedral of St. Michael, Prosperidad, Agusan del Sur, Caraga Jubilee Churches in the Holy Year 2025Churches by City (25)Show MapMalaybalay (←), Butuan (↑), Tandag (→), Mati (↘), Tagum (↓)Statistics (2024)Area: 9,990 km²Population: 486,251 Catholics (65.8% of 739,367 total)Pastoral Centres: 27 parishes, 3 missionsPersonnel: 61 priests (32 diocesan, 29 religious), 8 religious (2 brothers, 6 sisters), 59 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pros0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 739367,
+    "catholiques": 486251,
+    "pourcentage_catholiques": 65.8
+  },
+  "ressources": {
+    "pretres_diocesains": 32,
+    "pretres_religieux": null,
+    "total_pretres": 61,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

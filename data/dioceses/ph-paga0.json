@@ -1,0 +1,29 @@
+{
+  "id": "ph-paga0",
+  "nom": "Pagadian",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Pagadian / Pagadianen(sis) (Latin)Ecclesiastical Province: OzamizNeighbouring Dioceses: Ipil (←), Dipolog (↑), Ozamiz (↗), Iligan (→)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Santo NiñoLiturgical Calendar (National) 📅History1971.11.12: Established as Diocese of Pagadian / Pagadianen(sis) (Latin) (from Metropolitan Archdiocese of Zamboanga and became suffragan of Zamboanga)1983.01.24: Became suffragan of Ozamiz1995.01.01: Gained territory from Territorial Prelature of IpilPresent PrelatesBishop (2025.04.02 – ...):Bishop Ronald Anthony Parco Timoner (54)Monsignors (2)OrdinariesBishops of Pagadian (Roman Rite)Bishop Ronald Anthony Parco Timoner (54)  (2025.04.02 – ...)Bishop of Pagadian (Philippines)Surge et ambulaBorn:1971.08.13 (Daet, Philippines)Ordained Priest:1997.05.01Consecrated Bishop:2025.08.13Priest of Daet (Philippines) (1997.05.01 – 2025.04.02)Bishop of Pagadian (Philippines) (2025.04.02 – ...)Archbishop Martin Sarmiento Jumoad (69)  (Apostolic Administrator 2024.01.03 – 2025.04.02)Bishop Ronaldo Ignacio Lunas  (2018.11.22 – 2024.01.02)EmmanuelBorn:1966.11.27 (Bala, Magsaysay, Philippines)Ordained Priest:1992.04.07Consecrated Bishop:2019.02.11Died:2024.01.02 (Davao, Philippines † 57)Priest of Digos (Philippines) (1992.04.07 – 2018.11.22)Bishop of Pagadian (Philippines) (2018.11.22 – 2024.01.02)Bishop Emmanuel Treveno Cabajar, C.SS.R. (83)  (2004.05.14 – 2018.11.22)Bishop emeritus of Pagadian (Philippines)Notam fac mihi viam tuam DomineBorn:1942.10.08 (Getafe, Philippines)Ordained Priest:1966.12.18Consecrated Bishop:2004.08.14Bishop of Pagadian (Philippines) (2004.05.14 – 2018.11.22)Bishop Zacharias Cenita Jimenez  (1994.12.02 – 2003.06.11)State in fideBorn:1947.11.05 (Inabanga, Philippines)Ordained Priest:1973.04.17Consecrated Bishop:1995.01.06Died:2018.04.19 (Butuan, Philippines † 70)Priest of Tagbilaran (Philippines) (1973.04.17 – 1994.12.02)Bishop of Pagadian (Philippines) (1994.12.02 – 2003.06.11)Auxiliary Bishop of Butuan (Philippines) (2003.06.11 – 2009.05.07)Titular Bishop of Arba (2003.06.11 – 2018.04.19)Bishop Antonio Realubin Tobias (85)  (1984.09.14 – 1993.05.28)Bishop emeritus of Novaliches (Philippines)Adveniat regnum tuumBorn:1941.06.13 (Laoag City, Ilocos Norte, Philippines)Ordained Priest:1965.12.21Consecrated Bishop:1983.01.25Priest of Manila (Philippines) (1965.12.21 – 1982.11.03)Chaplain of His Holiness (1974.09.25 – 1982.11.03)Titular Bishop of Tipasa in Numidia (1982.11.03 – 1984.09.14)Auxiliary Bishop of Zamboanga (Philippines) (1982.11.03 – 1984.09.14)Bishop of Pagadian (Philippines) (1984.09.14 – 1993.05.28)Bishop of San Fernando de La Union (Philippines) (1993.05.28 – 2003.11.25)Apostolic Administrator sede plena of Novaliches (Philippines) (2003.06.21 – 2003.11.25)Bishop of Novaliches (Philippines) (2003.11.25 – 2019.06.06)Bishop Jesus Balaso Tuquib (later Archbishop)  (1973.02.24 – 1984.03.31)Diligamus nos invicemBorn:1930.06.27 (Clarin, Philippines)Ordained Priest:1959.03.14Consecrated Bishop:1973.05.29Died:2019.08.01 (Cagayan de Oro, Philippines † 89)Bishop of Pagadian (Philippines) (1973.02.24 – 1984.03.31)Coadjutor Archbishop of Cagayan de Oro (Philippines) (1984.03.31 – 1988.01.05)Metropolitan Archbishop of Cagayan de Oro (Philippines) (1988.01.05 – 2006.03.04)Special ChurchesCathedral:  Santa Niño Cathedral, Pagadian City, Zamboanga del Sur, Zamboanga Peninsula Jubilee Churches in the Holy Year 2025Churches by City (24)Show MapIpil (←), Dipolog (↑), Ozamiz (↗), Iligan (→)Statistics (2022.12.31)Area: 2,861 km²Population: 1,098,000 Catholics (80.4% of 1,366,200 total)Pastoral Centres: 26 parishes, 1 missionPersonnel: 71 priests (49 diocesan, 22 religious), 56 religious (23 brothers, 33 sisters), 53 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "paga0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1366200,
+    "catholiques": 1098000,
+    "pourcentage_catholiques": 80.4
+  },
+  "ressources": {
+    "pretres_diocesains": 49,
+    "pretres_religieux": null,
+    "total_pretres": 71,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

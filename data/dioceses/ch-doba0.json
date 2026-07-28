@@ -1,0 +1,29 @@
+{
+  "id": "ch-doba0",
+  "nom": "Doba",
+  "pays": "ch",
+  "pays_nom": "Chad",
+  "continent": "unknown",
+  "type": "Diocese Name: Doba / Doban(us) (Latin)Ecclesiastical Province: N’DjaménaNeighbouring Dioceses: Moundou (←), Laï (↑), Koumra (→), Goré (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1989.03.06: Established as Diocese of Doba / Doban(us) (Latin) (from Diocese of Moundou and became suffragan of N’Djaména)1998.11.28: Lost territory to establish Diocese of Goré and Diocese of LaïPresent PrelatesBishop (2016.12.10 – ...):Bishop Martin Waïngue Bani (63)OrdinariesBishops of Doba (Roman Rite)Bishop Martin Waïngue Bani (63)  (2016.12.10 – ...)Bishop of Doba (Chad)Restez avec moiBorn:1963.02.12 (Laï, Chad)Ordained Priest:1991.07.08Consecrated Bishop:2017.02.18Priest of Doba (Chad) (1991.07.08 – 2016.12.10)Bishop of Doba (Chad) (2016.12.10 – ...)Bishop Miguel Ángel Sebastián Martínez, M.C.C.J. (75)  (Apostolic Administrator 2014.01.30 – 2016.12.10)Bishop Michele Russo, M.C.C.J.  (1989.03.06 – 2014.01.30)Prædica verbumBorn:1945.01.30 (San Giovanni Rotondo, Italy)Ordained Priest:1970.03.18Consecrated Bishop:1989.05.21Died:2019.03.29 (Milano, Italy † 74)Bishop of Doba (Chad) (1989.03.06 – 2014.01.30)Apostolic Administrator of Moundou (Chad) (2003.12.07 – 2004.06.03)Special ChurchesCathedral:  Cathédrale Sainte-Thérèse, Doba, Logone Oriental Show MapMoundou (←), Laï (↑), Koumra (→), Goré (↓)Statistics (2022.12.31)Area: 10,816 km²Population: 112,790 Catholics (21.4% of 526,162 total)Pastoral Centres: 12 parishes, 1 missionPersonnel: 27 priests (16 diocesan, 11 religious), 64 religious (17 brothers, 47 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.16© 2026 GCatholic.org",
+  "code_gcatholic": "doba0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 526162,
+    "catholiques": 112790,
+    "pourcentage_catholiques": 21.4
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 27,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

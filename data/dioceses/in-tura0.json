@@ -1,0 +1,29 @@
+{
+  "id": "in-tura0",
+  "nom": "Tura",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Tura / Turan(us) (Latin)Ecclesiastical Province: ShillongNeighbouring Dioceses: Rajshahi (↙), Dinajpur (←), Bongaigaon (↑), Guwahati (↗), Nongstoin (→), Mymensingh (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Mary Help of ChristiansLiturgical Calendar (National) 📅History1973.03.01: Established as Diocese of Tura / Turan(us) (Latin) (from Metropolitan Archdiocese of Shillong–Gauhati and became suffragan of Shillong–Gauhati)1992.03.30: Lost territory to establish Diocese of GuwahatiPresent PrelatesBishop (2007.04.21 – ...):Bishop Andrew Raksam Marak (76)Auxiliary Bishop (2020.02.24 – ...):Bishop Jose Chirackal (66)Titular Bishop of AcufidaOrdinariesBishops of Tura (Roman Rite)Bishop Andrew Raksam Marak (76)  (2007.04.21 – ...)Bishop of Tura (India)The cross is our SaviourBorn:1950.02.05 (Chimagre, India)Ordained Priest:1982.02.10Consecrated Bishop:2004.10.03Priest of Tura (India) (1982.02.10 – 2004.06.03)Coadjutor Bishop of Tura (India) (2004.06.03 – 2007.04.21)Bishop of Tura (India) (2007.04.21 – ...)Bishop George Mamalassery  (1979.01.12 – 2007.04.21)The light of the LordBorn:1932.04.22 (Kalathoor, India)Ordained Priest:1960.04.23Consecrated Bishop:1979.03.19Died:2024.07.05 (Tura, India † 92)Priest of Shillong–Gauhati (India) (1960.04.23 – 1979.01.12)Bishop of Tura (India) (1979.01.12 – 2007.04.21)Bishop Orestes Marengo, S.D.B.  (Apostolic Administrator 1969.06.26 – 1979.01.12)Former PrelatesCoadjutor Bishop: Bishop Andrew Raksam Marak (76) (2004.06.03 – 2007.04.21)Special ChurchesCathedral:  Cathedral of Mary Help of Christians, Tura, Meghālaya Show MapRajshahi (↙), Dinajpur (←), Bongaigaon (↑), Guwahati (↗), Nongstoin (→), Mymensingh (↓)Statistics (2022.12.31)Area: 8,167 km²Population: 340,175 Catholics (28.2% of 1,206,572 total)Pastoral Centres: 47 parishesPersonnel: 107 priests (53 diocesan, 54 religious), 381 religious (65 brothers, 316 sisters), 22 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "tura0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1206572,
+    "catholiques": 340175,
+    "pourcentage_catholiques": 28.2
+  },
+  "ressources": {
+    "pretres_diocesains": 53,
+    "pretres_religieux": null,
+    "total_pretres": 107,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

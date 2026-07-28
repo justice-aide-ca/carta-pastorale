@@ -1,0 +1,29 @@
+{
+  "id": "bj-ndal1",
+  "nom": "N’Dali",
+  "pays": "bj",
+  "pays_nom": "Benin",
+  "continent": "unknown",
+  "type": "Diocese Name: N’Dali / Ndalien(sis) (Latin)Ecclesiastical Province: ParakouNeighbouring Dioceses: Natitingou (←), Kandi (↑), Ilorin (→), Parakou (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1999.12.22: Established as Diocese of N’Dali / Ndalien(sis) (Latin) (from Metropolitan Archdiocese of Parakou and became suffragan of Parakou)Present PrelatesBishop (1999.12.22 – ...):Bishop Martin Adjou Moumouni (70)OrdinariesBishops of N’Dali (Roman Rite)Bishop Martin Adjou Moumouni (70)  (1999.12.22 – ...)Bishop of N’Dali (Benin)Amor et paxBorn:1955.07.29 (Cotonou, Benin)Ordained Priest:1983.07.16Consecrated Bishop:2000.06.10Priest of Cotonou (Benin) (1983.07.16 – 1999.12.22)Bishop of N’Dali (Benin) (1999.12.22 – ...)Special ChurchesCathedral:  Cathédrale Saint-Marc-l’Evangéliste, N’Dali, Borgou Show MapNatitingou (←), Kandi (↑), Ilorin (→), Parakou (↓)Statistics (2022.12.31)Area: 21,650 km²Population: 140,450 Catholics (22.7% of 619,405 total)Pastoral Centres: 15 parishes, 1 missionPersonnel: 28 priests (9 diocesan, 19 religious), 78 religious (22 brothers, 56 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ndal1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 619405,
+    "catholiques": 140450,
+    "pourcentage_catholiques": 22.7
+  },
+  "ressources": {
+    "pretres_diocesains": 9,
+    "pretres_religieux": null,
+    "total_pretres": 28,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

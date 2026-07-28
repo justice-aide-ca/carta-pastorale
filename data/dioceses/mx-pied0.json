@@ -1,0 +1,29 @@
+{
+  "id": "mx-pied0",
+  "nom": "Piedras Negras",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Piedras Negras / Saxanigren(sis) (Latin)Ecclesiastical Province: MonterreyNeighbouring Dioceses: Chihuahua (←), El Paso (↖), San Angelo (↑), San Antonio (→), Laredo (↘), Nuevo Laredo (↘), Saltillo (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2003.01.08: Established as Diocese of Piedras Negras / Saxanigren(sis) (Latin) (from Diocese of Saltillo and became suffragan of Monterrey)Contact InfoAddress: Av. Obispado # 107 Col. Tecnológico, 26080 - Piedras Negras, Coah., MexicoPhone: (878) 7-95-56-01Present PrelatesBishop (2024.06.08 – ...):Bishop Alfonso Gerardo Miranda Guardiola (60)Monsignors (1)OrdinariesBishops of Piedras Negras (Roman Rite)Bishop Alfonso Gerardo Miranda Guardiola (60)  (2024.06.08 – ...)Bishop of Piedras Negras (Mexico)Mi familia y yo serviremos al SeñorBorn:1966.07.06 (Monterrey, Mexico)Ordained Priest:1998.08.15Consecrated Bishop:2014.06.13Priest of Monterrey (Mexico) (1998.08.15 – 2014.03.22)Titular Bishop of Idicra (2014.03.22 – 2024.06.08)Auxiliary Bishop of Monterrey (Mexico) (2014.03.22 – 2024.06.08)General Secretary of Conferencia del Episcopado Mexicano (C.E.M.) (2016.04.06 – 2021.11.10)Bishop of Piedras Negras (Mexico) (2024.06.08 – ...)Bishop Alonso Gerardo Garza Treviño (78)  (2003.01.08 – 2024.06.08)Bishop emeritus of Piedras Negras (Mexico)Born:1947.12.20 (Monterrey, Mexico)Ordained Priest:1972.10.26Consecrated Bishop:2003.03.25Priest of Monterrey (Mexico) (1972.10.26 – 2003.01.08)Bishop of Piedras Negras (Mexico) (2003.01.08 – 2024.06.08)Special ChurchesCathedral:  Catedral de los Mártires de Cristo Rey, Piedras Negras, Coahuila de Zaragoza Churches by City (40)Show MapChihuahua (←), El Paso (↖), San Angelo (↑), San Antonio (→), Laredo (↘), Nuevo Laredo (↘), Saltillo (↓)Statistics (2022.12.31)Area: 56,608 km²Population: 445,500 Catholics (70.7% of 630,000 total)Pastoral Centres: 42 parishesPersonnel: 76 priests (62 diocesan, 14 religious), 64 religious (15 brothers, 49 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pied0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 630000,
+    "catholiques": 445500,
+    "pourcentage_catholiques": 70.7
+  },
+  "ressources": {
+    "pretres_diocesains": 62,
+    "pretres_religieux": null,
+    "total_pretres": 76,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 42
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

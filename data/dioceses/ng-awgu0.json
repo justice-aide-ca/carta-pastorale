@@ -1,0 +1,29 @@
+{
+  "id": "ng-awgu0",
+  "nom": "Awgu",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Awgu / Auguen(sis) (Latin)Ecclesiastical Province: OnitshaNeighbouring Dioceses: Okigwe (↙), Enugu (↑), Abakaliki (↗), Ogoja (→), Calabar (↘), Umuahia (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2005.07.08: Established as Diocese of Awgu / Auguen(sis) (Latin) (from Diocese of Enugu and became suffragan of Onitsha)Present PrelatesBishop (2005.07.08 – ...):Bishop John Ifeanyichukwu Okoye (75)Monsignors (3)OrdinariesBishops of Awgu (Roman Rite)Bishop John Ifeanyichukwu Okoye (75)  (2005.07.08 – ...)Bishop of Awgu (Nigeria)Lord Give Me Your WisdomBorn:1950.08.04 (Owelli, Nigeria)Ordained Priest:1978.07.22Consecrated Bishop:2005.09.29Priest of Enugu (Nigeria) (1978.07.22 – 2005.07.08)Bishop of Awgu (Nigeria) (2005.07.08 – ...)Special ChurchesCathedral:  Cathedral of St. Michael the Archangel, Awgu, Enugu Show MapOkigwe (↙), Enugu (↑), Abakaliki (↗), Ogoja (→), Calabar (↘), Umuahia (↓)Statistics (2022.12.31)Area: 1,310 km²Population: 412,960 Catholics (57.3% of 720,460 total)Pastoral Centres: 51 parishes, 1 missionPersonnel: 80 priests (74 diocesan, 6 religious), 24 religious (6 brothers, 18 sisters), 99 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "awgu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 720460,
+    "catholiques": 412960,
+    "pourcentage_catholiques": 57.3
+  },
+  "ressources": {
+    "pretres_diocesains": 74,
+    "pretres_religieux": null,
+    "total_pretres": 80,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 51
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

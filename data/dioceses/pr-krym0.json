@@ -1,0 +1,29 @@
+{
+  "id": "pr-krym0",
+  "nom": "Krym",
+  "pays": "pr",
+  "pays_nom": "Present Prelates",
+  "continent": "unknown",
+  "type": "Archiepiscopal Exarchate Name: Krym / Crimea (Italiano)Subject to the Major ArchbishopNeighbouring Dioceses: Odessa (↖)Depends on: Dicastery for the Eastern ChurchesHistory2014.02.13: Established as Archiepiscopal Exarchate of Krym / Crimea (Italiano) (from Archiepiscopal Exarchate of Odessa–Krym)Present PrelatesArchiepiscopal Exarch:vacantApostolic Administrator (2018.02.28 – ...):Fr. Makariy Bohdan Leniv, O.S.B.M. (50)OrdinariesArchiepiscopal Exarchs of Krym (Ukrainian Rite)Fr. Makariy Bohdan Leniv, O.S.B.M. (50)  (Apostolic Administrator 2018.02.28 – ...)Bishop Mykhaylo Bubniy, C.SS.R. (55)  (Archiepiscopal Administrator 2014.02.13 – 2018.02.28)Special ChurchesPro-Cathedral:  Church of St. Josaphat, Simferopol (Сімферополь), Krym Show MapOdessa (↖)Statistics (2022.12.31)Population: 1,500 CatholicsPastoral Centres: 5 parishesPersonnel: 6 priests (1 diocesan, 5 religious), 1 deacon, 7 religious (5 brothers, 2 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "krym0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 1,
+    "pretres_religieux": null,
+    "total_pretres": 6,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 5
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

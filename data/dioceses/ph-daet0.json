@@ -1,0 +1,29 @@
+{
+  "id": "ph-daet0",
+  "nom": "Daet",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Daet / Daëntien(sis) (Latin)Ecclesiastical Province: CaceresNeighbouring Dioceses: Gumaca (←), Caceres (↘), Libmanan (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: St. Joseph the Worker (May 1), Our Lady of Candelaria (February 2)Cathedral Dedication Anniversary: September 1Liturgical Calendar (National) 📅History1974.05.27: Established as Diocese of Daet / Daëntien(sis) (Latin) (from Metropolitan Archdiocese of Caceres and became suffragan of Caceres)1991: Gained territory from Diocese of GumacaPresent PrelatesBishop (2025.03.04 – ...):Bishop Herman Guinto Abcede, R.C.J. (61)Monsignors (11)OrdinariesBishops of Daet (Roman Rite)Bishop Herman Guinto Abcede, R.C.J. (61)  (2025.03.04 – ...)Bishop of Daet (Philippines)Rogate ergo Dominum JesusBorn:1965.04.13 (Vinzons, Camarines Norte, Philippines)Ordained Priest:1996.06.08Consecrated Bishop:2025.05.01Bishop of Daet (Philippines) (2025.03.04 – ...)Bishop Rex Andrew Clement Alarcon (55) (later Archbishop)  (2019.01.02 – 2024.02.22)Metropolitan Archbishop of Caceres (Philippines)Servus tuus tuumBorn:1970.08.06 (Daet, Philippines)Ordained Priest:1996.11.09Consecrated Bishop:2019.03.19Priest of Caceres (Philippines) (1996.11.09 – 2019.01.02)Bishop of Daet (Philippines) (2019.01.02 – 2024.02.22)Metropolitan Archbishop of Caceres (Philippines) (2024.02.22 – ...)Bishop Gilbert Armea Garcera (67) (later Archbishop)  (2007.04.04 – 2017.02.02)Metropolitan Archbishop of Lipa (Philippines)President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.)Ad omnia mittam teBorn:1959.02.02 (Magarao, Camarines Sur, Philippines)Ordained Priest:1983.05.29Consecrated Bishop:2007.06.29Priest of Caceres (Philippines) (1983.05.29 – 2007.04.04)Prelate of Honour of His Holiness (1997.07.05 – 2007.04.04)Bishop of Daet (Philippines) (2007.04.04 – 2017.02.02)Metropolitan Archbishop of Lipa (Philippines) (2017.02.02 – ...)President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.) (2025.12.01 – ...)Bishop Benjamin de Jesus Almoneda  (1991.06.07 – 2007.04.04)Born:1930.04.11 (Naga City, Philippines)Ordained Priest:1958.03.22Consecrated Bishop:1990.01.06Died:2023.01.06 (Manila, Philippines † 92)Titular Bishop of Thimida (1989.12.19 – 1991.06.07)Auxiliary Bishop of Daet (Philippines) (1989.12.19 – 1991.06.07)Bishop of Daet (Philippines) (1991.06.07 – 2007.04.04)Bishop Celestino Rojo Enverga  (1974.05.27 – 1990.10.16)In Mariæ VirgineBorn:1924.04.06 (José Panganiban, Philippines)Ordained Priest:1950.03.25Consecrated Bishop:1974.09.01Died:1990.10.16 († 66)Bishop of Daet (Philippines) (1974.05.27 – 1990.10.16)Former PrelatesAuxiliary Bishop: Bishop Nestor Celestial Cariño (2003.06.11 – 2005.04.01)Auxiliary Bishop: Bishop Benjamin de Jesus Almoneda (1989.12.19 – 1991.06.07)Special ChurchesCathedral:  Cathedral of the Most Holy Trinity, Daet, Camarines Norte, Bicol Former Cathedral:  Church of St. John the Baptist, Daet, Camarines Norte, Bicol Jubilee Churches in the Holy Year 2025Churches by City (31)Show MapGumaca (←), Caceres (↘), Libmanan (↓)Statistics (2022.12.31)Area: 2,200 km²Population: 636,202 Catholics (91.0% of 699,478 total)Pastoral Centres: 30 parishesPersonnel: 56 priests (47 diocesan, 9 religious), 66 religious (20 brothers, 46 sisters), 62 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "daet0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 699478,
+    "catholiques": 636202,
+    "pourcentage_catholiques": 91.0
+  },
+  "ressources": {
+    "pretres_diocesains": 47,
+    "pretres_religieux": null,
+    "total_pretres": 56,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

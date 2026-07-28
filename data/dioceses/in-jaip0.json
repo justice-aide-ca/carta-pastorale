@@ -1,0 +1,29 @@
+{
+  "id": "in-jaip0",
+  "nom": "Jaipur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Jaipur / Iaipuren(sis) (Latin)Ecclesiastical Province: AgraNeighbouring Dioceses: Ajmer (↙), Multan (↖), Jalandhar (↑), Simla and Chandigarh (↑), Delhi (↗), Agra (→), Gwalior (→)Depends on: Dicastery for EvangelisationWebsites: CelebrationsPatron Saint: Our Lady of the AnnunciationLiturgical Calendar (National) 📅History2005.07.20: Established as Diocese of Jaipur / Iaipuren(sis) (Latin) (from Diocese of Ajmer–Jaipur and became suffragan of Agra)Present PrelatesBishop (2023.04.22 – ...):Bishop Joseph Kallarackal (61)OrdinariesBishops of Jaipur (Roman Rite)Bishop Joseph Kallarackal (61)  (2023.04.22 – ...)Bishop of Jaipur (India)To serve in compassionBorn:1964.12.10 (Anavilasam, Kerala, India)Ordained Priest:1997.05.02Consecrated Bishop:2023.07.16Priest of Ajmer (India) (1997.05.02 – 2023.04.22)Bishop of Jaipur (India) (2023.04.22 – ...)Bishop Oswald Joseph Lewis (81)  (2005.07.20 – 2023.04.22)Bishop emeritus of Jaipur (India)To serve in humilityBorn:1944.07.30 (Kemmannu, India)Ordained Priest:1972.12.30Consecrated Bishop:1998.04.16Priest of Lucknow (India) (1972.12.30 – 1997.11.21)Coadjutor Bishop of Meerut (India) (1997.11.21 – 2005.07.20)Bishop of Jaipur (India) (2005.07.20 – 2023.04.22)Apostolic Administrator of Ajmer (India) (2024.03.23 – 2025.03.01)Special ChurchesCathedral:  Cathedral of Our Lady of the Annunciation, Jaipur, Rājasthān Show MapAjmer (↙), Multan (↖), Jalandhar (↑), Simla and Chandigarh (↑), Delhi (↗), Agra (→), Gwalior (→)Statistics (2022.12.31)Area: 129,000 km²Population: 5,300 Catholics (0.0% of 27,993,180 total)Pastoral Centres: 31 parishes, 6 missionsPersonnel: 82 priests (32 diocesan, 50 religious), 244 religious (51 brothers, 193 sisters), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "jaip0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 27993180,
+    "catholiques": 5300,
+    "pourcentage_catholiques": 0.0
+  },
+  "ressources": {
+    "pretres_diocesains": 32,
+    "pretres_religieux": null,
+    "total_pretres": 82,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

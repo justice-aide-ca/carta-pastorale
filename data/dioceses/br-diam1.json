@@ -1,0 +1,29 @@
+{
+  "id": "br-diam1",
+  "nom": "Diamantino",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Diamantino / Adamanteæ (Latin)Ecclesiastical Province: CuiabáNeighbouring Dioceses: São Luiz de Cáceres (↙), Juína (↖), Sinop (↑), Cuiabá (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1929.03.22: Established as Territorial Prelature of Diamantino / Adamanteæ (Latin) (from Metropolitan Archdiocese of Cuiabá and became suffragan of Cuiabá)1979.10.16: Promoted as Diocese of Diamantino / Adamanteæ (Latin)1982.02.06: Lost territory to establish Diocese of Sinop1997.12.23: Lost territory to establish Diocese of JuínaPresent PrelatesBishop (2011.12.28 – ...):Bishop Vital Chitolina, S.C.I. (72)OrdinariesBishops of Diamantino (Roman Rite)Bishop Vital Chitolina, S.C.I. (72)  (2011.12.28 – ...)Bishop of Diamantino (Brazil)Preparai o caminho do SenhorBorn:1954.01.03 (Tuparendi, RS, Brazil)Ordained Priest:1984.12.16Consecrated Bishop:1998.04.19Bishop-Prelate of Paranatinga (Brazil) (1997.12.23 – 2011.12.28)Bishop of Diamantino (Brazil) (2011.12.28 – ...)Bishop Canísio Klaus (74)  (1998.08.26 – 2010.05.19)Bishop of Sinop (Brazil)Enviado para EvangelizarBorn:1951.10.09 (Arroio do Meio, RS, Brazil)Ordained Priest:1979.12.28Consecrated Bishop:1998.06.21Priest of Santa Cruz do Sul (Brazil) (1979.12.28 – 1998.04.22)Coadjutor Bishop of Diamantino (Brazil) (1998.04.22 – 1998.08.26)Bishop of Diamantino (Brazil) (1998.08.26 – 2010.05.19)Bishop of Santa Cruz do Sul (Brazil) (2010.05.19 – 2016.01.20)Bishop of Sinop (Brazil) (2016.01.20 – ...)Bishop Agostinho Willy Kist, S.J.  (1982.11.15 – 1998.08.26)Born:1925.12.10 (Santa Cruz do Sul, RS, Brazil)Ordained Priest:1956.12.16Consecrated Bishop:1983.02.11Died:2002.02.28 (Diamantino, MG, Brazil † 76)Bishop of Diamantino (Brazil) (1982.11.15 – 1998.08.26)Bishop Henrique Froehlich, S.J.  (1979.10.16 – 1982.03.25)Born:1919.11.22 (Cêrro Alegre, RS, Brazil)Ordained Priest:1952.12.03Consecrated Bishop:1972.02.20Died:2003.12.28 (Sinop, MG, Brazil † 84)Titular Bishop of Iomnium (1971.11.29 – 1978.05.26)Bishop-Prelate of Diamantino (Brazil) (1971.11.29 – 1979.10.16)Bishop of Diamantino (Brazil) (1979.10.16 – 1982.03.25)Bishop of Sinop (Brazil) (1982.03.25 – 1995.03.22)Prelates of Diamantino (Roman Rite)Bishop Henrique Froehlich, S.J.  (1971.11.29 – 1979.10.16)(see above)Bishop Alonso Silveira de Mello, S.J.  (1955.06.13 – 1971.11.29)Born:1901.01.21 (Cruz Alta, RS, Brazil)Ordained Priest:1932.12.06Consecrated Bishop:1955.08.21Died:1987.10.02 († 86)Apostolic Administrator of Diamantino (Brazil) (1949.11.12 – 1955.06.13)Titular Bishop of Nasai (1955.06.13 – 1971.11.29)Bishop-Prelate of Diamantino (Brazil) (1955.06.13 – 1971.11.29)Fr. Alonso Silveira de Mello, S.J. (later Bishop)  (Apostolic Administrator 1949.11.12 – 1955.06.13)Former PrelatesCoadjutor Bishop: Bishop Canísio Klaus (74) (1998.04.22 – 1998.08.26)Special ChurchesCathedral:  Catedral Imaculada Conceição, Diamantino, Mato Grosso Former Cathedral:  Antiga Catedral Nossa Senhora da Conceição, Diamantino, Mato Grosso Jubilee Churches in the Holy Year 2025Churches by City (25)Show MapSão Luiz de Cáceres (↙), Juína (↖), Sinop (↑), Cuiabá (↘)Statistics (2022.12.31)Area: 121,300 km²Population: 286,000 Catholics (54.7% of 522,500 total)Pastoral Centres: 19 parishes, 306 missionsPersonnel: 43 priests (22 diocesan, 21 religious), 54 religious (26 brothers, 28 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "diam1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 522500,
+    "catholiques": 286000,
+    "pourcentage_catholiques": 54.7
+  },
+  "ressources": {
+    "pretres_diocesains": 22,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

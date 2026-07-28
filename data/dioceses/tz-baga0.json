@@ -1,0 +1,29 @@
+{
+  "id": "tz-baga0",
+  "nom": "Bagamoyo",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Bagamoyo / Bagamoyen(sis) (Latin)Ecclesiastical Province: Dar-es-SalaamNeighbouring Dioceses: Morogoro (←), Tanga (↑), Zanzibar (↗), Dar-es-Salaam (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2025.03.07: Established as Diocese of Bagamoyo / Bagamoyen(sis) (Latin) (from Metropolitan Archdiocese of Dar-es-Salaam and Diocese of Morogoro and became suffragan of Dar-es-Salaam)Present PrelatesBishop (2025.03.07 – ...):Bishop Stephano Lameck Musomba, O.S.A. (56)OrdinariesBishops of Bagamoyo (Roman Rite)Bishop Stephano Lameck Musomba, O.S.A. (56)  (2025.03.07 – ...)Bishop of Bagamoyo (Tanzania)Born:1969.09.25 (Malonji, Tanzania)Ordained Priest:2003.07.24Consecrated Bishop:2021.09.21Titular Bishop of Perdices (2021.07.07 – 2025.03.07)Auxiliary Bishop of Dar-es-Salaam (Tanzania) (2021.07.07 – 2025.03.07)Bishop of Bagamoyo (Tanzania) (2025.03.07 – ...)Special ChurchesCathedral:  Cathedral of the Immaculate Heart of Mary, Bagamoyo, Pwani Show MapMorogoro (←), Tanga (↑), Zanzibar (↗), Dar-es-Salaam (↘)Statistics (2025)Area: 10,345 km²Population: 92,345 Catholics (20.1% of 459,596 total)Pastoral Centres: 22 parishesPersonnel: 45 priests (8 diocesan, 37 religious), 7 religious (7 brothers)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "baga0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 459596,
+    "catholiques": 92345,
+    "pourcentage_catholiques": 20.1
+  },
+  "ressources": {
+    "pretres_diocesains": 8,
+    "pretres_religieux": null,
+    "total_pretres": 45,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

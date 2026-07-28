@@ -1,0 +1,29 @@
+{
+  "id": "in-dind0",
+  "nom": "Dindigul",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Dindigul / Dindigulen(sis) (Latin)Ecclesiastical Province: MaduraiNeighbouring Dioceses: Vijayapuram (↙), Coimbatore (↖), Madurai (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: St. Joseph the WorkerLiturgical Calendar (National) 📅History2003.10.30: Established as Diocese of Dindigul / Dindigulen(sis) (Latin) (from Metropolitan Archdiocese of Madurai and Diocese of Tiruchirapalli and became suffragan of Madurai)Present PrelatesBishop (2016.04.11 – ...):Bishop Thomas Paulsamy (74)OrdinariesBishops of Dindigul (Roman Rite)Bishop Thomas Paulsamy (74)  (2016.04.11 – ...)Bishop of Dindigul (India)Peace through our heartsBorn:1951.08.02 (Poolampatty, India)Ordained Priest:1977.05.25Consecrated Bishop:2016.05.22Priest of Tiruchirapalli (India) (1977.05.25 – 2016.04.11)Bishop of Dindigul (India) (2016.04.11 – ...)Bishop Antony Pappusamy (76) (later Archbishop)  (2003.10.30 – 2014.07.26)Metropolitan Archbishop emeritus of Madurai (India)AriseBorn:1949.10.01 (Marambadi, India)Ordained Priest:1976.07.07Consecrated Bishop:1999.02.04Priest of Madurai (India) (1976.07.07 – 1998.11.05)Titular Bishop of Zaba (1998.11.05 – 2003.10.30)Auxiliary Bishop of Madurai (India) (1998.11.05 – 2003.10.30)Bishop of Dindigul (India) (2003.10.30 – 2014.07.26)Metropolitan Archbishop of Madurai (India) (2014.07.26 – 2024.11.04)Apostolic Administrator of Palayamkottai (India) (2018.06.29 – 2019.11.20)Apostolic Administrator of Kuzhithurai (India) (2020.06.06 – 2024.01.13)Special ChurchesCathedral:  Cathedral of St. Joseph, Dindigul, Tamil Nādu Show MapVijayapuram (↙), Coimbatore (↖), Madurai (↓)Statistics (2022.12.31)Area: 6,266 km²Population: 153,156 Catholics (7.0% of 2,183,155 total)Pastoral Centres: 51 parishes, 1 missionPersonnel: 195 priests (65 diocesan, 130 religious), 511 religious (176 brothers, 335 sisters), 26 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "dind0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2183155,
+    "catholiques": 153156,
+    "pourcentage_catholiques": 7.0
+  },
+  "ressources": {
+    "pretres_diocesains": 65,
+    "pretres_religieux": null,
+    "total_pretres": 195,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 51
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

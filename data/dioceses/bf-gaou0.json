@@ -1,0 +1,29 @@
+{
+  "id": "bf-gaou0",
+  "nom": "Gaoua",
+  "pays": "bf",
+  "pays_nom": "Burkina Faso",
+  "continent": "unknown",
+  "type": "Diocese Name: Gaoua / Gauen(sis) (Latin)Ecclesiastical Province: Bobo-DioulassoNeighbouring Dioceses: Banfora (←), Diébougou (↑), Wa (→), Damongo (↘), Bondoukou (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2011.11.30: Established as Diocese of Gaoua / Gauen(sis) (Latin) (from Diocese of Diébougou and became suffragan of Bobo-Dioulasso)Present PrelatesBishop (2011.11.30 – ...):Bishop Ollo Modeste Kambou (62)Vice-President of Bishops’ Conference of Burkina Faso and NigerOrdinariesBishops of Gaoua (Roman Rite)Bishop Ollo Modeste Kambou (62)  (2011.11.30 – ...)Bishop of Gaoua (Burkina Faso)Vice-President of Bishops’ Conference of Burkina Faso and NigerSursum cordaBorn:1963.12.04 (Bouti, Burkina Faso)Ordained Priest:1991.12.28Consecrated Bishop:2012.02.18Priest of Diébougou (Burkina Faso) (1991.12.28 – 2011.11.30)Bishop of Gaoua (Burkina Faso) (2011.11.30 – ...)Vice-President of Bishops’ Conference of Burkina Faso and Niger (2025.06.13 – ...)Special ChurchesCathedral:  Cathédrale Sacré-Cœur, Gaoua, Sud-Ouest Show MapBanfora (←), Diébougou (↑), Wa (→), Damongo (↘), Bondoukou (↓)Statistics (2022.12.31)Area: 10,411 km²Population: 30,721 Catholics (6.1% of 500,034 total)Pastoral Centres: 8 parishesPersonnel: 21 priests (19 diocesan, 2 religious), 27 religious (2 brothers, 25 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gaou0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 500034,
+    "catholiques": 30721,
+    "pourcentage_catholiques": 6.1
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 21,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 8
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

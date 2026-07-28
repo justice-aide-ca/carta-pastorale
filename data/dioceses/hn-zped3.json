@@ -1,0 +1,29 @@
+{
+  "id": "hn-zped3",
+  "nom": "San Pedro Sula",
+  "pays": "hn",
+  "pays_nom": "Honduras",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese Name: San Pedro Sula / de Sancto Petro Sula (Latin)Suffragan Sees: Gracias, La Ceiba, Santa Rosa de Copán, Trujillo, YoroNeighbouring Dioceses: Santa Rosa de Copán (↙), Izabal (↖), La Ceiba (↗), Yoro (↘), Comayagua (↘)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History1916.02.02: Established as Apostolic Vicariate of San Pedro Sula / de Sancto Petro Sula (Latin) (from the suppressed Diocese of Comayagua and became suffragan of Tegucigalpa)1963.07.06: Promoted as Diocese of San Pedro Sula / de Sancto Petro Sula (Latin)1987.07.03: Lost territory to establish Diocese of Trujillo2011.12.30: Lost territory to establish Diocese of La Ceiba2023.01.26: Promoted as Metropolitan Archdiocese of San Pedro Sula / de Sancto Petro Sula (Latin) (with suffragan sees Gracias, La Ceiba, Santa Rosa de Copán, Trujillo and Yoro)Papal VisitsPope John Paul II (1983.03)Present PrelatesMetropolitan Archbishop (2023.01.26 – ...):Archbishop Michael Lenihan, O.F.M. (74)OrdinariesMetropolitan Archbishops of San Pedro Sula (Roman Rite)Archbishop Michael Lenihan, O.F.M. (74)  (2023.01.26 – ...)Metropolitan Archbishop of San Pedro Sula (Honduras)Apacienta mis ovejasBorn:1951.09.22 (Abbeyfeale, Ireland)Ordained Priest:1980.07.12Consecrated Bishop:2012.02.11Bishop of La Ceiba (Honduras) (2011.12.30 – 2023.01.26)Metropolitan Archbishop of San Pedro Sula (Honduras) (2023.01.26 – ...)Bishops of San Pedro Sula (Roman Rite)Bishop Angel Garachana Pérez, C.M.F. (81)  (1994.11.11 – 2023.01.26)Bishop emeritus of San Pedro Sula (Honduras)Born:1944.09.03 (Barbadillo de Herreros, Spain)Ordained Priest:1972.03.19Consecrated Bishop:1995.02.03Bishop of San Pedro Sula (Honduras) (1994.11.11 – 2023.01.26)General Secretary of Episcopal Secretariat of Central America and Panama (1997 – 2001)Vice-President of Episcopal Conference of Honduras (2007? – 2016.06.13)President of Episcopal Conference of Honduras (2016.06.13 – 2022.06.08)Archbishop Óscar Andrés Rodríguez Maradiaga, S.D.B. (83) (later Cardinal)  (Apostolic Administrator 1993.09.15 – 1994.11.11)Bishop Jaime Brufau Maciá, C.M.  (1966.03.15 – 1993.09.15)Born:1922.01.20 (Vilanova de Bellpuig, Spain)Ordained Priest:1948.01.25Consecrated Bishop:1966.06.29Died:1996.08.17 († 74)Bishop of San Pedro Sula (Honduras) (1966.03.15 – 1993.09.15)Bishop José García Villas, C.M.  (1963.07.06 – 1965.08.10)Born:1910.01.30 (Santa Lecina, Spain)Ordained Priest:1933.03.11Consecrated Bishop:1963.10.20Died:1965.08.10 (San Pedro Sula, Honduras † 55)Bishop of San Pedro Sula (Honduras) (1963.07.06 – 1965.08.10)Vicars Apostolic of San Pedro Sula (Roman Rite)Bishop Antonio Capdevilla Ferrando, C.M.  (1953.03.24 – 1962.08.12)Born:1900.12.02 (Bellpuig, Spain)Ordained Priest:1924.04.05Consecrated Bishop:1953.07.19Died:1962.08.12 (San Pedro Sula, Honduras † 61)Titular Bishop of Zoara (1953.03.24 – 1962.08.12)Vicar Apostolic of San Pedro Sula (Honduras) (1953.03.24 – 1962.08.12)Bishop Juan Sastre y Riutort, C.M.  (1924.04.15 – 1949.03.23)Born:1883.05.03 (Santa Eugenia de Mallorca, Spain)Ordained Priest:1907.12.18Consecrated Bishop:1924.08.10Died:1949.03.23 (San Pedro Sula, Honduras † 65)Titular Bishop of Germaniciana (1924.04.15 – 1949.03.23)Vicar Apostolic of San Pedro Sula (Honduras) (1924.04.15 – 1949.03.23)Fr. Giovanni Sastre y Riutort, C.M.  (Apostolic Administrator 1923 – 1924)Former PrelatesAuxiliary Bishop: Bishop Rómulo Emiliani Sánchez, C.M.F. (78) (2002.02.02 – 2017.03.21)Special ChurchesCathedral:  Catedral de San Pedro Apóstol, San Pedro Sula, Cortés Show MapSanta Rosa de Copán (↙), Izabal (↖), La Ceiba (↗), Yoro (↘), Comayagua (↘)Statistics (2022.12.31)Area: 3,923 km²Population: 1,058,981 Catholics (57.2% of 1,852,772 total)Pastoral Centres: 36 parishesPersonnel: 76 priests (48 diocesan, 28 religious), 161 religious (37 brothers, 124 sisters), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zped3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1852772,
+    "catholiques": 1058981,
+    "pourcentage_catholiques": 57.2
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 76,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

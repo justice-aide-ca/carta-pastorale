@@ -1,0 +1,29 @@
+{
+  "id": "cd-gamb1",
+  "nom": "Gamboma",
+  "pays": "cd",
+  "pays_nom": "Congo-Brazzaville",
+  "continent": "unknown",
+  "type": "Diocese Name: Gamboma / Gambomen(sis) (Latin)Ecclesiastical Province: BrazzavilleNeighbouring Dioceses: Kinkala (↙), Nkayi (↙), Franceville (←), Owando (↑), Inongo (→), Brazzaville (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint Catherine of SienaLiturgical Calendar (Universal) 📅History2013.02.22: Established as Diocese of Gamboma / Gambomen(sis) (Latin) (from Diocese of Owando and became suffragan of Brazzaville)Present PrelatesBishop (2013.02.22 – ...):Bishop Urbain Ngassongo (64)Vice-President of Episcopal Conference of CongoOrdinariesBishops of Gamboma (Roman Rite)Bishop Urbain Ngassongo (64)  (2013.02.22 – ...)Bishop of Gamboma (Congo-Brazzaville)Vice-President of Episcopal Conference of CongoDeus caritas estBorn:1961.10.15 (Kinshasa, Congo-Kinshasa)Ordained Priest:1996.07.20Consecrated Bishop:2013.04.21General Secretary of Episcopal Conference of Congo (? – 2013.02.22)Priest of Owando (Congo-Brazzaville) (1996.07.20 – 2013.02.22)Bishop of Gamboma (Congo-Brazzaville) (2013.02.22 – ...)Vice-President of Episcopal Conference of Congo (2022.05.01 – ...)Special ChurchesCathedral:  Cathédrale Saint-Pie-X, Gamboma, Plateaux Show MapKinkala (↙), Nkayi (↙), Franceville (←), Owando (↑), Inongo (→), Brazzaville (↓)Statistics (2022.12.31)Area: 38,400 km²Population: 141,300 Catholics (57.0% of 247,800 total)Pastoral Centres: 12 parishes, 10 missionsPersonnel: 26 priests (24 diocesan, 2 religious), 15 religious (2 brothers, 13 sisters), 19 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gamb1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 247800,
+    "catholiques": 141300,
+    "pourcentage_catholiques": 57.0
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 26,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "my-hpaa0",
+  "nom": "Hpa-an",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Hpa-an / Hpaanen(sis) (Latin)Ecclesiastical Province: YangonNeighbouring Dioceses: Yangon (←), Taungngu (↑), Chiang Mai (↗), Nakhon Sawan (→), Mawlamyine (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2009.01.24: Established as Diocese of Hpa-an / Hpaanen(sis) (Latin) (from Metropolitan Archdiocese of Yangon and became suffragan of Yangon)Present PrelatesBishop (2026.03.26 – ...):Bishop Stanislaus Min Ko (53)OrdinariesBishops of Hpa-an (Roman Rite)Bishop Stanislaus Min Ko (53)  (2026.03.26 – ...)Bishop of Hpa-an (Myanmar)Born:1973.02.01 (Okpo Township, Myanmar)Ordained Priest:2003.12.20Consecrated Bishop:2024.09.22Priest of Yangon (Myanmar) (2003.12.20 – 2009.01.24)Priest of Hpa-an (Myanmar) (2009.01.24 – 2024.07.13)Coadjutor Bishop of Hpa-an (Myanmar) (2024.07.13 – 2026.03.26)Bishop of Hpa-an (Myanmar) (2026.03.26 – ...)Bishop Justin Saw Min Thide (75)  (2009.01.24 – 2026.03.26)Bishop emeritus of Hpa-an (Myanmar)All for allBorn:1951.03.26 (Thaung, Twante, Myanmar)Ordained Priest:1984.03.19Consecrated Bishop:2007.12.02Priest of Yangon (Myanmar) (1984.03.19 – 2007.07.16)Titular Bishop of Lemfocta (2007.07.16 – 2009.01.24)Auxiliary Bishop of Yangon (Myanmar) (2007.07.16 – 2009.01.24)Bishop of Hpa-an (Myanmar) (2009.01.24 – 2026.03.26)Former PrelatesCoadjutor Bishop: Bishop Stanislaus Min Ko (53) (2024.07.13 – 2026.03.26)Special ChurchesCathedral:  Cathedral of St. Francis Xavier, Hpa-An, Kayin Show MapYangon (←), Taungngu (↑), Chiang Mai (↗), Nakhon Sawan (→), Mawlamyine (↓)Statistics (2022.12.31)Area: 30,164 km²Population: 10,520 Catholics (0.8% of 1,315,440 total)Pastoral Centres: 14 parishesPersonnel: 24 priests (diocesan), 48 religious (5 brothers, 43 sisters)PopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "hpaa0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1315440,
+    "catholiques": 10520,
+    "pourcentage_catholiques": 0.8
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

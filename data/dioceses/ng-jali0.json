@@ -1,0 +1,29 @@
+{
+  "id": "ng-jali0",
+  "nom": "Jalingo",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Jalingo / Ialingoën(sis) (Latin)Ecclesiastical Province: JosNeighbouring Dioceses: Wukari (↙), Shendam (←), Pankshin (←), Jos (↖), Yola (→)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (National) 📅History1995.02.03: Established as Diocese of Jalingo / Ialingoën(sis) (Latin) (from Diocese of Yola and became suffragan of Jos)2022.12.14: Lost territory to establish Diocese of WukariPresent PrelatesBishop (2008.04.16 – ...):Bishop Charles Michael Hammawa (63)OrdinariesBishops of Jalingo (Roman Rite)Bishop Charles Michael Hammawa (63)  (2008.04.16 – ...)Bishop of Jalingo (Nigeria)The Almighty works marvels for meBorn:1962.10.01 (Mapeo, Nigeria)Ordained Priest:1987.07.04Consecrated Bishop:2008.07.04Priest of Yola (Nigeria) (1987.07.04 – 2008.04.16)Bishop of Jalingo (Nigeria) (2008.04.16 – ...)Bishop James Naanman Daman, O.S.A.  (Apostolic Administrator 2007.06.02 – 2008.04.16)Bishop James Naanman Daman, O.S.A.  (2000.12.05 – 2007.06.02)Born:1956.04.10 (Kwa, Nigeria)Ordained Priest:1982.02.14Consecrated Bishop:2001.02.24Died:2015.01.12 († 58)Bishop of Jalingo (Nigeria) (2000.12.05 – 2007.06.02)Apostolic Administrator of Jalingo (Nigeria) (2007.06.02 – 2008.04.16)Bishop of Shendam (Nigeria) (2007.06.02 – 2015.01.12)Bishop Ignatius Ayau Kaigama (67) (later Archbishop)  (1995.02.03 – 2000.04.14)Metropolitan Archbishop of Abuja (Nigeria)Per crucem ad Dei gloriamBorn:1958.07.31 (Kona, Nigeria)Ordained Priest:1981.06.06Consecrated Bishop:1995.04.23Priest of Yola (Nigeria) (1981.06.06 – 1995.02.03)Bishop of Jalingo (Nigeria) (1995.02.03 – 2000.04.14)Metropolitan Archbishop of Jos (Nigeria) (2000.04.14 – 2019.03.11)President of Catholic Bishops’ Conference of Nigeria (2012.04 – 2018.02.22)President of Regional Episcopal Conference of West Africa (2016.02 – 2022.05.06)Coadjutor Archbishop of Abuja (Nigeria) (2019.03.11 – 2019.11.09)Metropolitan Archbishop of Abuja (Nigeria) (2019.11.09 – ...)Special ChurchesCathedral:  Cathedral of Our Lady Queen of Peace, Jalingo, Taraba Former Cathedral:  Former Cathedral of St. Augustine, Jalingo, Taraba Show MapWukari (↙), Shendam (←), Pankshin (←), Jos (↖), Yola (→)Statistics (2022.12.31)Area: 28,157 km²Population: 394,802 Catholics (12.7% of 3,108,974 total)Pastoral Centres: 49 parishesPersonnel: 70 priests (65 diocesan, 5 religious), 17 religious (5 brothers, 12 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jali0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3108974,
+    "catholiques": 394802,
+    "pourcentage_catholiques": 12.7
+  },
+  "ressources": {
+    "pretres_diocesains": 65,
+    "pretres_religieux": null,
+    "total_pretres": 70,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 49
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

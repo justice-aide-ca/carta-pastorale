@@ -1,0 +1,29 @@
+{
+  "id": "ph-digo0",
+  "nom": "Digos",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Digos / Digosen(sis) (Latin)Ecclesiastical Province: DavaoNeighbouring Dioceses: Marbel (↙), Kidapawan (↖), Davao (↗)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Isidore the Farm Labourer (May 15)Cathedral Dedication Anniversary: August 21Liturgical Calendar (National) 📅History1979.11.05: Established as Diocese of Digos / Digosen(sis) (Latin) (from Metropolitan Archdiocese of Davao and became suffragan of Davao)Present PrelatesBishop (2003.02.11 – ...):Bishop Guillermo Dela Vega Afable (75)OrdinariesBishops of Digos (Roman Rite)Bishop Guillermo Dela Vega Afable (75)  (2003.02.11 – ...)Bishop of Digos (Philippines)In truth and compassionBorn:1951.04.03 (Davao, Philippines)Ordained Priest:1976.04.24Consecrated Bishop:2001.07.12Priest of Davao (Philippines) (1976.04.24 – 2001.04.21)Titular Bishop of Vadesi (2001.04.21 – 2002.04.24)Auxiliary Bishop of Davao (Philippines) (2001.04.21 – 2002.04.24)Coadjutor Bishop of Digos (Philippines) (2002.04.24 – 2003.02.11)Bishop of Digos (Philippines) (2003.02.11 – ...)Bishop Generoso Cambronero Camiña, P.M.E.  (1979.12.20 – 2003.02.11)Born:1931.11.22 (Leon, Philippines)Ordained Priest:1962.06.30Consecrated Bishop:1978.05.24Died:2007.02.01 (Digos, Philippines † 75)Titular Bishop of Pauzera (1978.03.09 – 1979.12.20)Auxiliary Bishop of Davao (Philippines) (1978.03.09 – 1979.12.20)Bishop of Digos (Philippines) (1979.12.20 – 2003.02.11)Former PrelatesCoadjutor Bishop: Bishop Guillermo Dela Vega Afable (75) (2002.04.24 – 2003.02.11)Special ChurchesCathedral:  Mary, Mother and Mediatrix of Grace Cathedral, Digos City, Davao del Sur, Davao Former Cathedral:  Former Cathedral of Mary, Mother and Mediatrix of Grace, Digos City, Davao del Sur, Davao Jubilee Churches in the Holy Year 2025Churches by City (21)Show MapMarbel (↙), Kidapawan (↖), Davao (↗)Statistics (2022.12.31)Area: 4,327 km²Population: 856,039 Catholics (62.9% of 1,362,021 total)Pastoral Centres: 22 parishes, 9 missionsPersonnel: 65 priests (38 diocesan, 27 religious), 127 religious (44 brothers, 83 sisters), 19 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "digo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1362021,
+    "catholiques": 856039,
+    "pourcentage_catholiques": 62.9
+  },
+  "ressources": {
+    "pretres_diocesains": 38,
+    "pretres_religieux": null,
+    "total_pretres": 65,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

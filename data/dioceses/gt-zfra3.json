@@ -1,0 +1,29 @@
+{
+  "id": "gt-zfra3",
+  "nom": "San Francisco de Asís de Jutiapa",
+  "pays": "gt",
+  "pays_nom": "Guatemala",
+  "continent": "unknown",
+  "type": "Diocese Name: San Francisco de Asís de Jutiapa (español) / Santi Francisci Assisien(sis) de Iutiapa (Latin)Ecclesiastical Province: Santiago de GuatemalaNeighbouring Dioceses: Santa Rosa de Lima (←), Jalapa (↑), Zacapa (↗), Santa Ana (↘)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2016.01.25: Established as Diocese of San Francisco de Asís de Jutiapa (español) / Santi Francisci Assisien(sis) de Iutiapa (Latin) (from Diocese of Jalapa and became suffragan of Santiago de Guatemala)Present PrelatesBishop (2016.01.25 – ...):Bishop Antonio Calderón Cruz (67)General Secretary of Episcopal Conference of GuatemalaOrdinariesBishops of San Francisco de Asís de Jutiapa (Roman Rite)Bishop Antonio Calderón Cruz (67)  (2016.01.25 – ...)Bishop of San Francisco de Asís de Jutiapa (Guatemala)General Secretary of Episcopal Conference of GuatemalaBorn:1959.06.13 (Ciudad de Guatemala, Guatemala)Ordained Priest:1986.07.05Consecrated Bishop:2016.04.23Priest of San Marcos (Guatemala) (1986.07.05 – 2016.01.25)Bishop of San Francisco de Asís de Jutiapa (Guatemala) (2016.01.25 – ...)General Secretary of Episcopal Conference of Guatemala (2020.02 – ...)Special ChurchesCathedral:  Catedral San Cristóbal, Jutiapa, Jutiapa Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Show MapSanta Rosa de Lima (←), Jalapa (↑), Zacapa (↗), Santa Ana (↘)Statistics (2018.12.31)Area: 3,219 km²Population: 422,000 Catholics (81.2% of 520,000 total)Pastoral Centres: 16 parishes, 3 missionsPersonnel: 27 priests (17 diocesan, 10 religious), 64 religious (12 brothers, 52 sisters), 15 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zfra3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 520000,
+    "catholiques": 422000,
+    "pourcentage_catholiques": 81.2
+  },
+  "ressources": {
+    "pretres_diocesains": 17,
+    "pretres_religieux": null,
+    "total_pretres": 27,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

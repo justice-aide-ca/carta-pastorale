@@ -1,0 +1,29 @@
+{
+  "id": "ve-mach2",
+  "nom": "Machiques",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Machiques / Machiquesen(sis) (Latin)Ecclesiastical Province: MaracaiboNeighbouring Dioceses: Valledupar (↖), Maracaibo (↗), El Vigía–San Carlos del Zulia (↘), Tibú (↓), San Cristóbal de Venezuela (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nuestra Señora del Carmen (July 16)Cathedral Dedication Anniversary: July 14Liturgical Calendar (National) 📅History1943.05.26: Established as Apostolic Vicariate of Machiques / Machiquesen(sis) (Latin) (from Diocese of Zulia)2011.04.09: Promoted as Diocese of Machiques / Machiquesen(sis) (Latin) (became suffragan of Maracaibo)Contact InfoAddress: Frente a la Plaza Bolívar, Machiques, Estado Zulia, VenezuelaPresent PrelatesBishop:vacantMonsignors (1)OrdinariesBishops of Machiques (Roman Rite)Bishop Nicolás Gregorio Nava Rojas (62)  (2019.10.19 – 2026.04.18)Bishop of Cabimas (Venezuela)Born:1963.12.08 (Maracaibo, Venezuela)Ordained Priest:1989.07.22Consecrated Bishop:2019.12.14Priest of Cabimas (Venezuela) (1989.07.22 – 2019.10.19)Bishop of Machiques (Venezuela) (2019.10.19 – 2026.04.18)Bishop of Cabimas (Venezuela) (2026.04.18 – ...)Bishop Jesús Alfonso Guerrero Contreras, O.F.M. Cap. (75)  (2011.04.09 – 2018.12.21)Bishop of Barinas (Venezuela)Born:1951.01.13 (La Pedregoza, Spain)Ordained Priest:1977.12.10Consecrated Bishop:1996.01.20Titular Bishop of Leptiminus (1995.12.06 – 2011.04.09)Vicar Apostolic of Caroní (Venezuela) (1995.12.06 – 2011.04.09)Bishop of Machiques (Venezuela) (2011.04.09 – 2018.12.21)Bishop of Barinas (Venezuela) (2018.12.21 – ...)Vicars Apostolic of Machiques (Roman Rite)Bishop Ramiro Díaz Sánchez, O.M.I. (91)  (1997.01.24 – 2011.04.09)Titular Bishop of Lari CastellumVicar Apostolic emeritus of Machiques (Venezuela)Born:1934.09.14 (Villaverde de Arcayos, Spain)Ordained Priest:1959.03.14Consecrated Bishop:1997.04.26Vicar Apostolic of Machiques (Venezuela) (1997.01.24 – 2011.04.09)Titular Bishop of Lari Castellum (1997.01.24 – ...)Bishop Agustín Romualdo Alvarez Rodríguez, O.F.M. Cap.  (1986.03.10 – 1995.10.07)Born:1923.02.11 (Renedo de Valdetuéjar, Spain)Ordained Priest:1949.03.12Consecrated Bishop:1986.06.07Died:2011.08.11 († 88)Vicar Apostolic of Machiques (Venezuela) (1986.03.10 – 1995.10.07)Titular Bishop of Nasbinca (1986.03.10 – 2011.08.11)Bishop Miguel Saturnino Aurrecoechea Palacios, O.F.M. Cap.  (1955.12.19 – 1986.03.10)Born:1904.01.01 (Villaverde, Spain)Ordained Priest:1936.06.06Consecrated Bishop:1956.05.27Died:1997.09.08 († 93)Vicar Apostolic of Machiques (Venezuela) (1955.12.19 – 1986.03.10)Titular Bishop of Doliche (1955.12.19 – 1997.09.08)Bishop Ángel Turrado Moreno, O.F.M. Cap.  (1944.09.04 – 1954.01)Born:1903.12.24 (Pinilla, Spain)Ordained Priest:1929.05.25Consecrated Bishop:1944.12.17Died:1961.05.08 († 57)Vicar Apostolic of Machiques (Venezuela) (1944.09.04 – 1954.01)Titular Bishop of Assus (1944.09.04 – 1961.05.08)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen, Machiques, Zulia Show MapValledupar (↖), Maracaibo (↗), El Vigía–San Carlos del Zulia (↘), Tibú (↓), San Cristóbal de Venezuela (↓)Statistics (2022.12.31)Area: 25,300 km²Population: 292,000 Catholics (81.1% of 359,918 total)Pastoral Centres: 17 parishesPersonnel: 17 priests (14 diocesan, 3 religious), 1 deacon, 32 religious (7 brothers, 25 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mach2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 359918,
+    "catholiques": 292000,
+    "pourcentage_catholiques": 81.1
+  },
+  "ressources": {
+    "pretres_diocesains": 14,
+    "pretres_religieux": null,
+    "total_pretres": 17,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

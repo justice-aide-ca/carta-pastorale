@@ -1,0 +1,29 @@
+{
+  "id": "ti-mali1",
+  "nom": "Maliana",
+  "pays": "ti",
+  "pays_nom": "Timor-Leste",
+  "continent": "unknown",
+  "type": "Diocese Name: Maliana / Malianen(sis) (Latin)Ecclesiastical Province: DíliNeighbouring Dioceses: Atambua (←), Díli (↗)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2010.01.30: Established as Diocese of Maliana / Malianen(sis) (Latin) (from Diocese of Díli)2019.09.11: Became suffragan of DíliPresent PrelatesBishop (2010.01.30 – ...):Bishop Norberto Do Amaral (70)OrdinariesBishops of Maliana (Roman Rite)Bishop Norberto Do Amaral (70)  (2010.01.30 – ...)Bishop of Maliana (Timor-Leste)Veritas in caritateBorn:1956.02.17 (Ainaro, Timor-Leste)Ordained Priest:1988.10.18Consecrated Bishop:2010.04.24Priest of Díli (Timor-Leste) (1988.10.18 – 2010.01.30)Bishop of Maliana (Timor-Leste) (2010.01.30 – ...)General Secretary of Episcopal Conference of Timor (2012.03 – 2019?)President of Episcopal Conference of Timor (2019 – 2025.12.15)Special ChurchesCathedral:  Catedral Sagrado Coração de Jesus, Maliana, Bobonaro Churches by City (11)Show MapAtambua (←), Díli (↗)Statistics (2022.12.31)Area: 3,142 km²Population: 290,850 Catholics (97.7% of 297,620 total)Pastoral Centres: 11 parishes, 65 missionsPersonnel: 50 priests (22 diocesan, 28 religious), 194 religious (73 brothers, 121 sisters), 58 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mali1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 297620,
+    "catholiques": 290850,
+    "pourcentage_catholiques": 97.7
+  },
+  "ressources": {
+    "pretres_diocesains": 22,
+    "pretres_religieux": null,
+    "total_pretres": 50,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

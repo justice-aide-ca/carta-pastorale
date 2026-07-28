@@ -1,0 +1,29 @@
+{
+  "id": "in-puna0",
+  "nom": "Punalur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Punalur / Punaluren(sis) (Latin)Ecclesiastical Province: TrivandrumNeighbouring Dioceses: Quilon (←), Palayamkottai (→), Neyyattinkara (↓), Trivandrum (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint Thérèse of the Child JesusLiturgical Calendar (National) 📅History1985.12.21: Established as Diocese of Punalur / Punaluren(sis) (Latin) (from Diocese of Quilon and became suffragan of Verapoly)2004.06.03: Became suffragan of TrivandrumPresent PrelatesBishop (2009.05.08 – ...):Bishop Selvister Ponnumuthan (69)Monsignors (1)OrdinariesBishops of Punalur (Roman Rite)Bishop Selvister Ponnumuthan (69)  (2009.05.08 – ...)Bishop of Punalur (India)Like the smell of the sheepBorn:1956.08.10 (Viraly-Utchakkada, India)Ordained Priest:1981.12.19Consecrated Bishop:2009.06.28Priest of Trivandrum (India) (1981.12.19 – 1996.06.14)Priest of Neyyattinkara (India) (1996.06.14 – 2009.05.08)Bishop of Punalur (India) (2009.05.08 – ...)Bishop Joseph Kariyil (77)  (2005.03.12 – 2009.05.08)Bishop emeritus of Cochin (India)The Lord is my shepherdBorn:1949.01.11 (Arthunkal, India)Ordained Priest:1973.12.19Consecrated Bishop:2005.05.03Priest of Cochin (India) (1973.12.19 – 2005.03.12)Prelate of Honour of His Holiness (2002.08.02 – 2005.03.12)Bishop of Punalur (India) (2005.03.12 – 2009.05.08)Bishop of Cochin (India) (2009.05.08 – 2024.03.02)Bishop Mathias Kappil  (1985.12.21 – 2005.03.12)Born:1928.01.21 (Kallada, India)Ordained Priest:1954.12.07Consecrated Bishop:1986.04.13Died:2007.02.24 († 79)Bishop of Punalur (India) (1985.12.21 – 2005.03.12)Special ChurchesCathedral:  St. Mary’s Cathedral, Punalur, Kerala Show MapQuilon (←), Palayamkottai (→), Neyyattinkara (↓), Trivandrum (↓)Statistics (2021.12.31)Area: 5,072 km²Population: 29,600 Catholics (0.7% of 4,068,000 total)Pastoral Centres: 44 parishes, 59 missionsPersonnel: 99 priests (48 diocesan, 51 religious), 351 religious (76 brothers, 275 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "puna0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4068000,
+    "catholiques": 29600,
+    "pourcentage_catholiques": 0.7
+  },
+  "ressources": {
+    "pretres_diocesains": 48,
+    "pretres_religieux": null,
+    "total_pretres": 99,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 44
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

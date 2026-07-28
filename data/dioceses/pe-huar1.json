@@ -1,0 +1,29 @@
+{
+  "id": "pe-huar1",
+  "nom": "Huarí",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Huarí / Huarien(sis) (Latin)Ecclesiastical Province: TrujilloNeighbouring Dioceses: Huaraz (↙), Trujillo (↖), Huamachuco (↑), Moyobamba (↗), Huánuco (↘)Depends on: Dicastery for BishopsCelebrationsCathedral Dedication Anniversary: August 4Liturgical Calendar 📅History1958.05.15: Established as Territorial Prelature of Huarí / Huarien(sis) (Latin) (from Diocese of Huánuco and Diocese of Huaraz and became suffragan of Lima)1966.06.30: Became suffragan of Trujillo2008.04.02: Promoted as Diocese of Huarí / Huarien(sis) (Latin)Present PrelatesBishop:vacantApostolic Administrator (2021.06.14 – ...):Bishop Giorgio Barbetta Manzocchi (54)Titular Bishop of IsolaAuxiliary Bishop (2019.12.12 – ...):Bishop Giorgio Barbetta Manzocchi (54)Titular Bishop of IsolaMonsignors (4)OrdinariesBishops of Huarí (Roman Rite)Bishop Giorgio Barbetta Manzocchi (54)  (Apostolic Administrator 2021.06.14 – ...)Bishop Ivo Baldi Gaburri  (2008.04.02 – 2021.06.11)Born:1947.03.27 (Città di Castello, Italy)Ordained Priest:1971.10.09Consecrated Bishop:2000.01.06Died:2021.06.11 (Huaraz, Peru † 74)Priest of Città di Castello (Italy) (1971.10.09 – 1999.12.14)Chaplain of His Holiness (1997.03.23 – 1999.12.14)Bishop of Huaraz (Peru) (1999.12.14 – 2004.02.04)Bishop-Prelate of Huarí (Peru) (2004.02.04 – 2008.04.02)Bishop of Huarí (Peru) (2008.04.02 – 2021.06.11)Prelates of Huarí (Roman Rite)Bishop Ivo Baldi Gaburri  (2004.02.04 – 2008.04.02)(see above)Bishop Antonio Santarsiero Rosa, O.S.J. (75)  (2001.06.13 – 2004.02.04)Bishop emeritus of Huacho (Peru)Born:1951.06.13 (Avigliano, Italy)Ordained Priest:1980.06.14Consecrated Bishop:2001.08.12Bishop-Prelate of Huarí (Peru) (2001.06.13 – 2004.02.04)Bishop of Huacho (Peru) (2004.02.04 – 2026.07.15)General Secretary of Episcopal Conference of Peru (2024.11.13 – 2025.04.09)Bishop Dante Frasnelli Tarter, O.S.J.  (1967.08.03 – 2001.06.13)Born:1925.01.06 (Dardine, Italy)Ordained Priest:1952.07.06Consecrated Bishop:1967.11.01Died:2020.01.10 (Lima, Peru † 95)Titular Bishop of Urusi (1967.08.03 – 1977.11.30)Bishop-Prelate of Huarí (Peru) (1967.08.03 – 2001.06.13)Bishop Marco Libardoni, O.S.J.  (1958.05.15 – 1966.10.25)Born:1907.06.29 (Levico, Italy)Ordained Priest:1940.06.29Consecrated Bishop:1964.11.01Died:1966.10.25 († 59)Bishop-Prelate of Huarí (Peru) (1958.05.15 – 1966.10.25)Titular Bishop of Africa (1964.09.30 – 1966.10.25)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen y San Domingo, Huarí, Ancash Jubilee Churches in the Holy Year 2025Churches by City (22)Show MapHuaraz (↙), Trujillo (↖), Huamachuco (↑), Moyobamba (↗), Huánuco (↘)Statistics (2022.12.31)Area: 25,000 km²Population: 368,240 Catholics (96.3% of 382,300 total)Pastoral Centres: 21 parishes, 6 missionsPersonnel: 38 priests (34 diocesan, 4 religious), 39 religious (5 brothers, 34 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.16© 2026 GCatholic.org",
+  "code_gcatholic": "huar1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 382300,
+    "catholiques": 368240,
+    "pourcentage_catholiques": 96.3
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 38,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

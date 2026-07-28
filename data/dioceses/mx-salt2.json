@@ -1,0 +1,29 @@
+{
+  "id": "mx-salt2",
+  "nom": "Saltillo",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Saltillo / Saltillen(sis) (Latin)Ecclesiastical Province: MonterreyNeighbouring Dioceses: Zacatecas (↙), Torreón (←), Gómez Palacio (←), Parral (↖), Chihuahua (↖), Piedras Negras (↑), Nuevo Laredo (↗), Monterrey (→), Linares (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1891.06.23: Established as Diocese of Saltillo / Saltillen(sis) (Latin) (from Diocese of Linares and became suffragan of Linares)1957.06.19: Lost territory to establish Diocese of Torreón2003.01.08: Lost territory to establish Diocese of Piedras NegrasContact InfoAddress: Hidalgo Sur # 166 Centro, 25000 - Saltillo, Coah., MexicoPhone: (844) 4-12-37-84Present PrelatesBishop (2020.11.21 – ...):Bishop Hilario González García (61)Monsignors (2)OrdinariesBishops of Saltillo (Roman Rite)Bishop Hilario González García (61)  (2020.11.21 – ...)Bishop of Saltillo (Mexico)Sirvamos al Señor con alegriaBorn:1965.06.19 (Monterrey, Mexico)Ordained Priest:1995.08.15Consecrated Bishop:2015.01.22Priest of Monterrey (Mexico) (1995.08.15 – 2014.11.19)Bishop of Linares (Mexico) (2014.11.19 – 2020.11.21)Bishop of Saltillo (Mexico) (2020.11.21 – ...)Bishop José Raúl Vera López, O.P. (81)  (1999.12.30 – 2020.11.21)Bishop emeritus of Saltillo (Mexico)Born:1945.06.21 (Acámbaro, Mexico)Ordained Priest:1975.06.29Consecrated Bishop:1988.01.06Bishop of Ciudad Altamirano (Mexico) (1987.11.20 – 1995.08.14)Coadjutor Bishop of San Cristóbal de Las Casas (Mexico) (1995.08.14 – 1999.12.30)Bishop of Saltillo (Mexico) (1999.12.30 – 2020.11.21)Bishop Francisco Raúl Villalobos Padilla  (1975.10.04 – 1999.12.30)Born:1921.02.01 (Guadalajara, Mexico)Ordained Priest:1949.04.02Consecrated Bishop:1971.08.03Died:2022.02.03 (Saltillo, Mexico † 101)Titular Bishop of Columnata (1971.05.04 – 1975.10.04)Auxiliary Bishop of Saltillo (Mexico) (1971.05.04 – 1975.10.04)Bishop of Saltillo (Mexico) (1975.10.04 – 1999.12.30)Bishop Luis Guízar y Barragán  (1954.04.05 – 1975.10.04)Born:1895.06.21 (Cotija, Mexico)Ordained Priest:1918.10.28Consecrated Bishop:1932.02.07Died:1981.10.26 (Saltillo, Mexico † 86)Bishop of Campeche (Mexico) (1931.11.27 – 1938.10.09)Titular Bishop of Knin (1938.10.09 – 1954.04.05)Coadjutor Bishop of Saltillo (Mexico) (1938.10.09 – 1954.04.05)Bishop of Saltillo (Mexico) (1954.04.05 – 1975.10.04)Bishop Jesús María Echavarría y Aguirre  (1904.12.09 – 1954.04.05)Born:1858.07.06 (Bacubirito, Mexico)Ordained Priest:1886.10.18Consecrated Bishop:1905.02.12Died:1954.04.05 († 95)Priest of Sinaloa (Mexico) (1886.10.18 – 1904.12.09)Bishop of Saltillo (Mexico) (1904.12.09 – 1954.04.05)Bishop José María de Jesús Portugal y Serratos, O.F.M.  (1898.11.28 – 1902.03.08)Born:1838.01.24 (Ciudad de México, Mexico)Ordained Priest:1861.06.16Consecrated Bishop:1888.12.08Died:1912.11.27 († 74)Bishop of Sinaloa (Mexico) (1888.10.28 – 1898.11.28)Bishop of Saltillo (Mexico) (1898.11.28 – 1902.03.08)Bishop of Aguascalientes (Mexico) (1902.03.08 – 1912.11.27)Bishop Santiago de los Santos Garza Zambrano (later Archbishop)  (1893.01.19 – 1898.02.03)Born:1837.10.31 (Monterrey, Mexico)Ordained Priest:1860.11.04Consecrated Bishop:1893.04.09Died:1907.02.26 († 69)Bishop of Saltillo (Mexico) (1893.01.19 – 1898.02.03)Bishop of León (Mexico) (1898.02.03 – 1900.02.25)Metropolitan Archbishop of Linares (Mexico) (1900.02.25 – 1907.02.26)Former PrelatesCoadjutor Bishop: Bishop Luis Guízar y Barragán (1938.10.09 – 1954.04.05)Auxiliary Bishop: Bishop Francisco Raúl Villalobos Padilla (1971.05.04 – 1975.10.04)Auxiliary Bishop: Bishop Manuel Samaniego Barriga (1969.04.30 – 1971.01.11)Special ChurchesCathedral:  Catedral de Santiago Apóstol, Saltillo, Coahuila de Zaragoza Jubilee Churches in the Holy Year 2025Churches by City (76)Show MapZacatecas (↙), Torreón (←), Gómez Palacio (←), Parral (↖), Chihuahua (↖), Piedras Negras (↑), Nuevo Laredo (↗), Monterrey (→), Linares (↘)Statistics (2022.12.31)Area: 72,492 km²Population: 1,159,883 Catholics (76.9% of 1,507,983 total)Pastoral Centres: 66 parishes, 74 missionsPersonnel: 190 priests (149 diocesan, 41 religious), 21 deacons, 285 religious (56 brothers, 229 sisters), 20 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "salt2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1507983,
+    "catholiques": 1159883,
+    "pourcentage_catholiques": 76.9
+  },
+  "ressources": {
+    "pretres_diocesains": 149,
+    "pretres_religieux": null,
+    "total_pretres": 190,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 66
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

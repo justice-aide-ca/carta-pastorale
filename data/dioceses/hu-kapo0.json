@@ -1,0 +1,29 @@
+{
+  "id": "hu-kapo0",
+  "nom": "Kaposvár",
+  "pays": "hu",
+  "pays_nom": "Hungary",
+  "continent": "unknown",
+  "type": "Diocese Name: Kaposvár / Kaposvaren(sis) (Latin)Ecclesiastical Province: VeszprémNeighbouring Dioceses: Bjelovar–Križevci (↙), Varaždin (←), Szombathely (↖), Veszprém (↑), Székesfehérvár (↗), Pécs (↘), Požega (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Szent László (June 27)Cathedral Dedication Anniversary: August 17Liturgical Calendar 📅History1993.05.31: Established as Diocese of Kaposvár / Kaposvaren(sis) (Latin) (from Diocese of Veszprém and became suffragan of Veszprém)Present PrelatesBishop (2017.03.25 – ...):Bishop László Varga (69)Monsignors (2)OrdinariesBishops of Kaposvár (Roman Rite)Bishop László Varga (69)  (2017.03.25 – ...)Bishop of Kaposvár (Hungary)IrgalomBorn:1956.08.17 (Tapolca, Hungary)Ordained Priest:1982.04.17Consecrated Bishop:2017.05.13Priest of Veszprém (Hungary) (1982.04.17 – 1993.05.31)Priest of Kaposvár (Hungary) (1993.05.31 – 2017.03.25)Bishop of Kaposvár (Hungary) (2017.03.25 – ...)Bishop Béla Balás (85)  (1993.05.31 – 2017.03.25)Bishop emeritus of Kaposvár (Hungary)Mihi vivere Christus estBorn:1941.03.25 (Budapest, Hungary)Ordained Priest:1965.06.20Consecrated Bishop:1992.10.17Priest of Esztergom (Hungary) (1965.06.20 – 1992.08.10)Titular Bishop of Feradi maius (1992.08.10 – 1993.05.31)Auxiliary Bishop of Veszprém (Hungary) (1992.08.10 – 1993.05.31)Bishop of Kaposvár (Hungary) (1993.05.31 – 2017.03.25)Special ChurchesCathedral:  Nagyboldogasszony székesegyház, Kaposvár, Kaposvár, Somogy Minor Basilica:  Nagyboldogasszony Bazilika, Andocs, Somogy Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (105)Show MapBjelovar–Križevci (↙), Varaždin (←), Szombathely (↖), Veszprém (↑), Székesfehérvár (↗), Pécs (↘), Požega (↓)Statistics (2022.12.31)Area: 6,764 km²Population: 287,720 Catholics (72.7% of 395,580 total)Pastoral Centres: 103 parishesPersonnel: 92 priests (89 diocesan, 3 religious), 9 deacons, 12 religious (3 brothers, 9 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kapo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 395580,
+    "catholiques": 287720,
+    "pourcentage_catholiques": 72.7
+  },
+  "ressources": {
+    "pretres_diocesains": 89,
+    "pretres_religieux": null,
+    "total_pretres": 92,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 103
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

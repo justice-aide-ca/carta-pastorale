@@ -1,0 +1,29 @@
+{
+  "id": "pe-icaz0",
+  "nom": "Ica",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Ica / Icen(sis) (Latin)Ecclesiastical Province: LimaNeighbouring Dioceses: Yauyos (↑), Huancavélica (↗), Caravelí (↘)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar 📅History1946.08.10: Established as Diocese of Ica / Icen(sis) (Latin) (from Metropolitan Archdiocese of Lima and became suffragan of Lima)Present PrelatesBishop (2007.10.31 – ...):Bishop Héctor Eduardo Vera Colona (64)OrdinariesBishops of Ica (Roman Rite)Bishop Héctor Eduardo Vera Colona (64)  (2007.10.31 – ...)Bishop of Ica (Peru)Filius meus es tuBorn:1962.02.26 (Chiclayo, Peru)Ordained Priest:1987.12.08Consecrated Bishop:2007.12.08Priest of Chiclayo (Peru) (1987.12.08 – 2007.10.31)Bishop of Ica (Peru) (2007.10.31 – ...)Bishop Guido Breña López, O.P.  (1973.10.05 – 2007.10.31)Born:1931.07.09 (Puquio, Peru)Ordained Priest:1954.12.11Consecrated Bishop:1973.11.25Died:2013.07.09 († 82)Bishop of Ica (Peru) (1973.10.05 – 2007.10.31)Bishop Alberto Maria Dettmann y Aragón, O.P.  (1959.02.06 – 1973.10.05)Born:1902.11.10 (Bellavista Callao, Peru)Ordained Priest:1929.08.18Consecrated Bishop:1945.07.15Died:1982.01.28 († 79)Bishop of Huancavélica (Peru) (1945.07.06 – 1948.06.28)Bishop of Puno (Peru) (1948.06.28 – 1959.02.06)Bishop of Ica (Peru) (1959.02.06 – 1973.10.05)Bishop Francisco Rubén Berroa y Bernedo  (1946.11.24 – 1958.07.12)Born:1876.04.02 (Omate, Peru)Ordained Priest:1899.12.23Consecrated Bishop:1923.03.04Died:1958.07.12 († 82)Bishop of Huánuco (Peru) (1922.08.12 – 1946.11.24)Bishop of Ica (Peru) (1946.11.24 – 1958.07.12)Former PrelatesAuxiliary Bishop: Bishop Jesús Mateo Calderón Barrueto, O.P. (1969.03.13 – 1972.11.03)Special ChurchesCathedral:  Catedral San Jerónimo, Ica, Ica National Shrine:  Santuario Nacional del Señor de Luren, Ica, Ica Jubilee Churches in the Holy Year 2025Show MapYauyos (↑), Huancavélica (↗), Caravelí (↘)Statistics (2022.12.31)Area: 21,251 km²Population: 821,059 Catholics (93.6% of 877,569 total)Pastoral Centres: 38 parishes, 8 missionsPersonnel: 53 priests (25 diocesan, 28 religious), 109 religious (32 brothers, 77 sisters), 9 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "icaz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 877569,
+    "catholiques": 821059,
+    "pourcentage_catholiques": 93.6
+  },
+  "ressources": {
+    "pretres_diocesains": 25,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 38
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

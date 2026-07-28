@@ -1,0 +1,29 @@
+{
+  "id": "mx-coat0",
+  "nom": "Coatzacoalcos",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Coatzacoalcos / Coatzacoalsen(sis) (Latin)Ecclesiastical Province: JalapaNeighbouring Dioceses: San Andrés Tuxtla (←), Tabasco (→), Tuxtla Gutiérrez (↘), Tehuantepec (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1984.03.14: Established as Diocese of Coatzacoalcos / Coatzacoalsen(sis) (Latin) (from Diocese of San Andrés Tuxtla and became suffragan of Jalapa)Contact InfoAddress: Aldama #502 Col. Centro, 96400 - Coatzacoalcos, Ver., MexicoPhone: (921) 2-12-23-99Present PrelatesBishop (2002.09.24 – ...):Bishop Rutilo Muñoz Zamora (75)Monsignors (2)OrdinariesBishops of Coatzacoalcos (Roman Rite)Bishop Rutilo Muñoz Zamora (75)  (2002.09.24 – ...)Bishop of Coatzacoalcos (Mexico)Conocer, amar, y servirBorn:1951.06.04 (Tulictic, Mexico)Ordained Priest:1977.03.19Consecrated Bishop:2002.11.20Priest of Veracruz (Mexico) (1977.03.19 – 2002.09.24)Bishop of Coatzacoalcos (Mexico) (2002.09.24 – ...)Bishop Carlos Talavera Ramírez  (1984.03.14 – 2002.09.24)Born:1923.11.10 (México, Mexico)Ordained Priest:1948.12.18Consecrated Bishop:1980.03.25Died:2006.07.02 († 82)Priest of México (Mexico) (1948.12.18 – 1980.01.15)Titular Bishop of Ofena (1980.01.15 – 1984.03.14)Auxiliary Bishop of México (Mexico) (1980.01.15 – 1984.03.14)Bishop of Coatzacoalcos (Mexico) (1984.03.14 – 2002.09.24)Special ChurchesCathedral:  Catedral de San José, Coatzacoalcos, Veracruz Churches by City (25)Show MapSan Andrés Tuxtla (←), Tabasco (→), Tuxtla Gutiérrez (↘), Tehuantepec (↓)Statistics (2022.12.31)Area: 10,500 km²Population: 547,048 Catholics (65.7% of 832,184 total)Pastoral Centres: 29 parishesPersonnel: 68 priests (67 diocesan, 1 religious), 1 deacon, 69 religious (2 brothers, 67 sisters), 23 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "coat0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 832184,
+    "catholiques": 547048,
+    "pourcentage_catholiques": 65.7
+  },
+  "ressources": {
+    "pretres_diocesains": 67,
+    "pretres_religieux": null,
+    "total_pretres": 68,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

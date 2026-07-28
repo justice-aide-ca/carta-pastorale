@@ -1,0 +1,29 @@
+{
+  "id": "fr-pont3",
+  "nom": "Pontoise",
+  "pays": "fr",
+  "pays_nom": "France",
+  "continent": "unknown",
+  "type": "Diocese Name: Pontoise / Pontisaren(sis) (Latin)Ecclesiastical Province: ParisNeighbouring Dioceses: Évreux (←), Beauvais (↑), Meaux (→), Saint-Denis (↘), Nanterre (↓), Versailles (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1966.10.09: Established as Diocese of Pontoise / Pontisaren(sis) (Latin) (from Diocese of Versailles and became suffragan of Paris)Present PrelatesBishop (2024.06.04 – ...):Bishop Benoît Bertrand (66)Vice-President of Bishops’ Conference of FranceMonsignors (2)OrdinariesBishops of Pontoise (Roman Rite)Bishop Benoît Bertrand (66)  (2024.06.04 – ...)Bishop of Pontoise (France)Vice-President of Bishops’ Conference of FranceVobiscum sum omnibus diebusBorn:1960.06.01 (Nantes, France)Ordained Priest:1991.06.29Consecrated Bishop:2019.03.03Priest of Nantes (France) (1991.06.29 – 2019.01.17)Bishop of Mende (France) (2019.01.17 – 2024.06.04)Bishop of Pontoise (France) (2024.06.04 – ...)Vice-President of Bishops’ Conference of France (2025.04.02 – ...)Bishop Stanislas Lalanne (77)  (2013.01.31 – 2024.06.04)Pontifical Commissioner for Oratory of France (Oratorians of France)Bishop emeritus of Pontoise (France)Born:1948.08.03 (Metz, France)Ordained Priest:1975.11.08Consecrated Bishop:2007.06.03Priest of Versailles (France) (1975.11.08 – 2007.04.04)General Secretary of Bishops’ Conference of France (2001 – 2007.04.04)Bishop of Coutances (France) (2007.04.04 – 2013.01.31)Bishop of Pontoise (France) (2013.01.31 – 2024.06.04)Pontifical Commissioner for Oratory of France (Oratorians of France) (2023.10.24 – ...)Bishop Jean-Yves Riocreux (80)  (2003.05.05 – 2012.06.15)Bishop emeritus of Basse-Terre et Pointe-à-Pitre (Guadeloupe)Duc in altumBorn:1946.02.24 (Marlhes, France)Ordained Priest:1974.06.22Consecrated Bishop:2003.06.29Priest of Nouméa (New Caledonia) (1974.06.22 – 2003.05.05)Bishop of Pontoise (France) (2003.05.05 – 2012.06.15)Bishop of Basse-Terre et Pointe-à-Pitre (Guadeloupe) (2012.06.15 – 2021.05.13)Bishop Hervé Jean Luc Renaudin  (2000.11.30 – 2003.01.18)Born:1941.07.22 (Paris, France)Ordained Priest:1971.06.26Consecrated Bishop:2001.01.07Died:2003.01.18 (Pontoise, France † 61)Priest of Paris (France) (1971.06.26 – 2000.11.30)Bishop of Pontoise (France) (2000.11.30 – 2003.01.18)Bishop Thierry Romain Camille Jordan (82) (later Archbishop)  (1988.11.19 – 1999.07.20)Metropolitan Archbishop emeritus of Reims (France)Born:1943.08.31 (Shanghai 上海, 上海, China)Ordained Priest:1966.12.17Consecrated Bishop:1987.12.13Priest of Versailles (France) (1966.12.17 – 1987.10.06)Chaplain of His Holiness (1977.06.15 – 1987.10.06)Coadjutor Bishop of Pontoise (France) (1987.10.06 – 1988.11.19)Bishop of Pontoise (France) (1988.11.19 – 1999.07.20)Metropolitan Archbishop of Reims (France) (1999.07.20 – 2018.08.18)Bishop André Rousset  (1966.10.09 – 1988.11.19)Born:1918.07.13 (Crest, France)Ordained Priest:1944.03.25Consecrated Bishop:1963.03.30Died:1994.12.26 (Paris, France † 76)Priest of Versailles (France) (1944.03.25 – 1963.02.07)Titular Bishop of Vaga (1963.02.07 – 1966.10.09)Auxiliary Bishop of Versailles (France) (1963.02.07 – 1966.10.09)Bishop of Pontoise (France) (1966.10.09 – 1988.11.19)Former PrelatesCoadjutor Bishop: Bishop Thierry Romain Camille Jordan (82) (later Archbishop) (1987.10.06 – 1988.11.19)Special ChurchesCathedral:  Cathédrale Saint-Maclou, Pontoise, Val-d’Oise, Île-de-France Minor Basilica:  Basilique Saint-Denys, Argenteuil, Val-d’Oise, Île-de-France Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapÉvreux (←), Beauvais (↑), Meaux (→), Saint-Denis (↘), Nanterre (↓), Versailles (↓)Statistics (2022.12.31)Area: 1,249 km²Population: 885,000 Catholics (70.7% of 1,251,804 total)Pastoral Centres: 60 parishes, 131 missionsPersonnel: 148 priests (105 diocesan, 43 religious), 30 deacons, 132 religious (56 brothers, 76 sisters), 4 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pont3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1251804,
+    "catholiques": 885000,
+    "pourcentage_catholiques": 70.7
+  },
+  "ressources": {
+    "pretres_diocesains": 105,
+    "pretres_religieux": null,
+    "total_pretres": 148,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 60
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

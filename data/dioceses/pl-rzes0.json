@@ -1,0 +1,29 @@
+{
+  "id": "pl-rzes0",
+  "nom": "Rzeszów",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Rzeszów / Rzeszovien(sis) (Latin)Ecclesiastical Province: PrzemyślNeighbouring Dioceses: Košice (↙), Tarnów (←), Sandomierz (↑), Przemyśl (→)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Józef Sebastian Pelczar (January 19), Blessed Karolina Kózka (November 18)Cathedral Dedication Anniversary: June 2Liturgical Calendar 📅History1992.03.25: Established as Diocese of Rzeszów / Rzeszovien(sis) (Latin) (from Diocese of Przemyśl and Diocese of Tarnów and became suffragan of Przemyśl)Papal VisitsPope John Paul II (1991.06)Present PrelatesBishop (2013.06.14 – ...):Bishop Jan Franciszek Wątroba (72)Coadjutor Bishop (2026.06.24 – ...):Bishop Krzysztof Chudzio (63)Monsignors (94)OrdinariesBishops of Rzeszów (Roman Rite)Bishop Jan Franciszek Wątroba (72)  (2013.06.14 – ...)Bishop of Rzeszów (Poland)Ecce venioBorn:1953.12.04 (Wieluń, Poland)Ordained Priest:1979.05.27Consecrated Bishop:2000.05.20Priest of Częstochowa (Poland) (1979.05.27 – 2000.04.20)Chaplain of His Holiness (2000.01.14 – 2000.04.20)Titular Bishop of Bisica (2000.04.20 – 2013.06.14)Auxiliary Bishop of Częstochowa (Poland) (2000.04.20 – 2013.06.14)Bishop of Rzeszów (Poland) (2013.06.14 – ...)Bishop Kazimierz Górny (88)  (1992.03.25 – 2013.06.14)Bishop emeritus of Rzeszów (Poland)Omnia TibiBorn:1937.12.24 (Lubien, Poland)Ordained Priest:1960.06.29Consecrated Bishop:1985.01.06Priest of Kraków (Poland) (1960.06.29 – 1984.10.26)Chaplain of His Holiness (1983.09.08 – 1984.10.26)Titular Bishop of Pertusa (1984.10.26 – 1992.03.25)Auxiliary Bishop of Kraków (Poland) (1984.10.26 – 1992.03.25)Bishop of Rzeszów (Poland) (1992.03.25 – 2013.06.14)Former PrelatesAuxiliary Bishop: Bishop Edward Eugeniusz Białogłowski (79) (1992.03.25 – 2022.01.26)Special ChurchesCathedral:  Katedra Najświętszego Serca Pana Jezusa, Rzeszów, Podkarpackie Minor Basilica:  Bazylika Matki Bozej Saletynskiej, Dębowiec, Podkarpackie Minor Basilica:  Bazylika Narodzenia NMP, Gorlice, Małopolskie Minor Basilica:  Bazylika Wniebowzięcia NMP, Rzeszów, Podkarpackie World Heritage Site:  Kościół św. Filipa i św. Jakuba, Sękowa, Małopolskie World Heritage Site:  Kościół św. Michała Archanioła, Binarowa, Małopolskie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapKošice (↙), Tarnów (←), Sandomierz (↑), Przemyśl (→)Statistics (2022.12.31)Area: 6,000 km²Population: 464,392 Catholics (93.4% of 497,000 total)Pastoral Centres: 247 parishesPersonnel: 771 priests (655 diocesan, 116 religious), 469 religious (141 brothers, 328 sisters), 38 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "rzes0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 497000,
+    "catholiques": 464392,
+    "pourcentage_catholiques": 93.4
+  },
+  "ressources": {
+    "pretres_diocesains": 655,
+    "pretres_religieux": null,
+    "total_pretres": 771,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 247
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

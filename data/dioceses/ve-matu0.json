@@ -1,0 +1,29 @@
+{
+  "id": "ve-matu0",
+  "nom": "Maturín",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Maturín / Maturinen(sis) (Latin)Ecclesiastical Province: Ciudad BolívarNeighbouring Dioceses: El Tigre (↙), Barcelona (←), Cumaná (↖), Carúpano (↑), Tucupita (→), Ciudad Guayana (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Santos Simón y Judas (October 28)Cathedral Dedication Anniversary: May 23Liturgical Calendar (National) 📅History1958.05.24: Established as Diocese of Maturín / Maturinen(sis) (Latin) (from Diocese of Ciudad Bolívar and became suffragan of Caracas)1958.06.21: Became suffragan of Ciudad BolívarContact InfoAddress: Residencia Episcopal Av. Andrés Eloy Blanco, Nº 58 Maturín, Estado Monagas, VenezuelaPresent PrelatesBishop (2003.08.09 – ...):Bishop Enrique Pérez Lavado (75)Monsignors (3)OrdinariesBishops of Maturín (Roman Rite)Bishop Enrique Pérez Lavado (75)  (2003.08.09 – ...)Bishop of Maturín (Venezuela)Pasce oves measBorn:1951.04.19 (Maracaibo, Venezuela)Ordained Priest:1986.07.25Consecrated Bishop:2003.10.31Priest of Maracaibo (Venezuela) (1986.07.25 – 2003.08.09)Bishop of Maturín (Venezuela) (2003.08.09 – ...)Apostolic Administrator of Carúpano (Venezuela) (2009 – 2010.04.10)Bishop Diego Rafael Padrón Sánchez (87) (later Cardinal)  (1994.05.07 – 2002.03.27)Cardinal-Priest of S. GaetanoMetropolitan Archbishop emeritus of Cumaná (Venezuela)Envíame tu luz y tu verdadBorn:1939.05.17 (Montalbán, Venezuela)Ordained Priest:1963.08.04Consecrated Bishop:1990.05.27Created Cardinal:2023.09.30Priest of Valencia (Venezuela) (1963.08.04 – 1990.04.04)Chaplain of His Holiness (1986.01.03 – 1990.04.04)Titular Bishop of Gisipa (1990.04.04 – 1994.05.07)Auxiliary Bishop of Caracas (Venezuela) (1990.04.04 – 1994.05.07)Bishop of Maturín (Venezuela) (1994.05.07 – 2002.03.27)Metropolitan Archbishop of Cumaná (Venezuela) (2002.03.27 – 2018.05.24)President of Episcopal Conference of Venezuela (2012.01.12 – 2018.01.09)Apostolic Administrator of Barcelona (Venezuela) (2014.01.25 – 2014.07.11)Cardinal-Priest of S. Gaetano (2023.09.30 [2024.11.16] – ...)Bishop Antonio José Ramírez Salaverría  (1958.05.24 – 1994.05.07)Born:1917.10.31 (Cariaco, Venezuela)Ordained Priest:1940.07.14Consecrated Bishop:1958.09.14Died:2014.06.28 († 96)Priest of Cumaná (Venezuela) (1940.07.14 – 1958.05.24)Bishop of Maturín (Venezuela) (1958.05.24 – 1994.05.07)Special ChurchesCathedral:  Catedral Nuestra Señora del Carmen, Maturín, Monagas Show MapEl Tigre (↙), Barcelona (←), Cumaná (↖), Carúpano (↑), Tucupita (→), Ciudad Guayana (↓)Statistics (2022.12.31)Area: 28,900 km²Population: 797,680 Catholics (84.7% of 941,300 total)Pastoral Centres: 29 parishesPersonnel: 35 priests (33 diocesan, 2 religious), 8 religious (2 brothers, 6 sisters), 18 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "matu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 941300,
+    "catholiques": 797680,
+    "pourcentage_catholiques": 84.7
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

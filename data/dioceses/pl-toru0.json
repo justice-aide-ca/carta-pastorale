@@ -1,0 +1,29 @@
+{
+  "id": "pl-toru0",
+  "nom": "Toruń",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Toruń / Thorunien(sis) (Latin)Ecclesiastical Province: GdańskNeighbouring Dioceses: Gniezno (↙), Bydgoszcz (←), Pelplin (↑), Elbląg (↗), Warmia (↗), Płock (↘), Włocławek (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Najświętszej Maryi Panny Nieustającej Pomocy (June 27)Cathedral Dedication Anniversary: October 5Liturgical Calendar 📅History1992.03.25: Established as Diocese of Toruń / Thorunien(sis) (Latin) (from Metropolitan Archdiocese of Gniezno and Diocese of Chełmno and became suffragan of Gdańsk)Papal VisitsPope John Paul II (1999.06)Present PrelatesBishop (2025.04.05 – ...):Bishop Arkadiusz Okroj (59)Auxiliary Bishop (2000.04.20 – ...):Bishop Józef Szamocki (71)Titular Bishop of ClypiaMonsignors (28)OrdinariesBishops of Toruń (Roman Rite)Bishop Arkadiusz Okroj (59)  (2025.04.05 – ...)Bishop of Toruń (Poland)Euntes evangelium prædicateBorn:1967.05.27 (Kartuzy, Poland)Ordained Priest:1992.06.06Consecrated Bishop:2019.03.02Priest of Pelplin (Poland) (1992.06.06 – 2019.02.12)Chaplain of His Holiness (2009.06.15 – 2019.02.12)Titular Bishop of Cufruta (2019.02.12 – 2025.04.05)Auxiliary Bishop of Pelplin (Poland) (2019.02.12 – 2025.04.05)Bishop of Toruń (Poland) (2025.04.05 – ...)Bishop Wiesław Śmigiel (57) (later Archbishop)  (2017.11.11 – 2024.09.13)Metropolitan Archbishop of Szczecin–Kamień (Poland)Omnibus omnia factusBorn:1969.01.03 (Świecie nad Wisłą, Poland)Ordained Priest:1994.05.29Consecrated Bishop:2012.04.21Priest of Pelplin (Poland) (1994.05.29 – 2012.03.24)Chaplain of His Holiness (2009.10.30 – 2012.03.24)Titular Bishop of Baeza (2012.03.24 – 2017.11.11)Auxiliary Bishop of Pelplin (Poland) (2012.03.24 – 2017.11.11)Bishop of Toruń (Poland) (2017.11.11 – 2024.09.13)Apostolic Administrator of Bydgoszcz (Poland) (2021.05.12 – 2021.09.21)Apostolic Administrator of Płock (Poland) (2022.06.04 – 2022.10.22)Metropolitan Archbishop of Szczecin–Kamień (Poland) (2024.09.13 – ...)Bishop Andrzej Wojciech Suski (84)  (1992.03.25 – 2017.11.11)Bishop emeritus of Toruń (Poland)Spes mea unicaBorn:1941.12.24 (Płock, Poland)Ordained Priest:1965.06.13Consecrated Bishop:1986.10.04Priest of Płock (Poland) (1965.06.13 – 1986.08.12)Chaplain of His Holiness (1985.05.28 – 1986.08.12)Titular Bishop of Pulcheriopolis (1986.08.12 – 1992.03.25)Auxiliary Bishop of Płock (Poland) (1986.08.12 – 1992.03.25)Bishop of Toruń (Poland) (1992.03.25 – 2017.11.11)Former PrelatesAuxiliary Bishop: Bishop Jan Chrapek, C.S.M.A. (1994.06.20 – 1999.06.28)Special ChurchesCathedral, Minor Basilica, World Heritage Site (Minor):  Bazylika Katedralna św. Jana Chrzciciela i Jana Ewangelisty, Toruń, Kujawsko-Pomorskie Co-Cathedral, Minor Basilica:  Bazylika Konkatedralna Trójcy Świętej, Chełmża, Kujawsko-Pomorskie Minor Basilica:  Bazylika kolegiacka św. Mikołaja, Grudziądz, Kujawsko-Pomorskie Minor Basilica:  Bazylika św. Tomasza Apostoła, Nowe Miasto Lubawskie, Warmińsko-Mazurskie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapGniezno (↙), Bydgoszcz (←), Pelplin (↑), Elbląg (↗), Warmia (↗), Płock (↘), Włocławek (↓)Statistics (2022.12.31)Area: 5,427 km²Population: 560,500 Catholics (89.6% of 625,500 total)Pastoral Centres: 196 parishes, 2 missionsPersonnel: 454 priests (356 diocesan, 98 religious), 3 deacons, 324 religious (104 brothers, 220 sisters), 25 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "toru0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 625500,
+    "catholiques": 560500,
+    "pourcentage_catholiques": 89.6
+  },
+  "ressources": {
+    "pretres_diocesains": 356,
+    "pretres_religieux": null,
+    "total_pretres": 454,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 196
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

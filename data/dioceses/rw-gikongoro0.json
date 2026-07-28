@@ -1,0 +1,35 @@
+{
+  "id": "rw-gikongoro0",
+  "nom": "Gikongoro",
+  "pays": "rw",
+  "continent": "afrique",
+  "type": "Diocese",
+  "annee_donnees": 2022,
+  "territoire": {
+    "superficie_km2": 2057,
+    "population_totale": 639225,
+    "catholiques": 254485,
+    "pourcentage_catholiques": 39.8
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": 8,
+    "total_pretres": 53,
+    "religieux_freres": 27,
+    "religieuses": 114,
+    "total_religieux": 141,
+    "seminarians": 40,
+    "diacres_permanents": null,
+    "paroisses": 17,
+    "missions": 1
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org + Statistiques 2022",
+  "derniere_mise_a_jour": "2026-07-14",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Gikongoro",
+    "conference_episcopale": "https://www.eglisecatholiquerwanda.org/"
+  }
+}

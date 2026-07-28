@@ -1,0 +1,29 @@
+{
+  "id": "cm-bame0",
+  "nom": "Bamenda",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese Name: Bamenda / Bamendan(us) (Latin)Suffragan Sees: Buéa, Kumba, Kumbo, MamfeNeighbouring Dioceses: Mamfe (←), Katsina-Ala (↖), Wukari (↑), Kumbo (→), Bafoussam (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1970.08.13: Established as Diocese of Bamenda / Bamendan(us) (Latin) (from Diocese of Buéa and became suffragan of Yaoundé)1982.03.18: Promoted as Metropolitan Archdiocese of Bamenda / Bamendan(us) (Latin) (with suffragan sees Buéa and Kumbo and lost territory to establish Diocese of Kumbo)1999.02.09: Gained suffragan see Mamfe2016.03.15: Gained suffragan see KumbaPapal VisitsPope Leo XIV (2026.04)Present PrelatesMetropolitan Archbishop (2019.12.30 – ...):Archbishop Andrew Nkea Fuanya (60)President of National Episcopal Conference of CameroonAuxiliary Bishop (2026.02.13 – ...):Bishop John Berinyuy Tata (50)Titular Bishop of Casæ nigræMonsignors (9)OrdinariesMetropolitan Archbishops of Bamenda (Roman Rite)Archbishop Andrew Nkea Fuanya (60)  (2019.12.30 – ...)Metropolitan Archbishop of Bamenda (Cameroon)President of National Episcopal Conference of CameroonIn Spiritu et veritate / Comme quelqu’un qui sertBorn:1965.08.29 (Widikum, Cameroon)Ordained Priest:1992.04.22Consecrated Bishop:2013.08.23Priest of Buéa (Cameroon) (1992.04.22 – 2013.07.10)Coadjutor Bishop of Mamfe (Cameroon) (2013.07.10 – 2014.01.25)Bishop of Mamfe (Cameroon) (2014.01.25 – 2019.12.30)Vice-President of National Episcopal Conference of Cameroon (2019.05.03 – 2022.04.30)Apostolic Administrator of Mamfe (Cameroon) (2019.12.30 – 2022.02.22)Metropolitan Archbishop of Bamenda (Cameroon) (2019.12.30 – ...)President of National Episcopal Conference of Cameroon (2022.04.30 – ...)Archbishop Cornelius Fontem Esua (83)  (2006.01.23 – 2019.12.30)Metropolitan Archbishop emeritus of Bamenda (Cameroon)Sermo tuus veritas estBorn:1943.07.02 (Mbetta, Cameroon)Ordained Priest:1971.12.29Consecrated Bishop:1982.12.08Priest of Buéa (Cameroon) (1971.12.29 – 1982.09.10)Bishop of Kumbo (Cameroon) (1982.09.10 – 2004.12.07)President of National Episcopal Conference of Cameroon (2000 – 2004)Coadjutor Archbishop of Bamenda (Cameroon) (2004.12.07 – 2006.01.23)Metropolitan Archbishop of Bamenda (Cameroon) (2006.01.23 – 2019.12.30)Archbishop Paul Verdzekov  (1982.03.18 – 2006.01.23)Born:1931.01.22 (Shisong, Cameroon)Ordained Priest:1961.12.20Consecrated Bishop:1970.11.08Died:2010.01.26 (Ntasen, Cameroon † 79)Bishop of Bamenda (Cameroon) (1970.08.13 – 1982.03.18)President of National Episcopal Conference of Cameroon (1976 – 1982)Apostolic Administrator of Kumbo (Cameroon) (1982.03.18 – 1982.09.10)Metropolitan Archbishop of Bamenda (Cameroon) (1982.03.18 – 2006.01.23)Bishops of Bamenda (Roman Rite)Bishop Paul Verdzekov (later Archbishop)  (1970.08.13 – 1982.03.18)(see above)Former PrelatesCoadjutor Archbishop: Archbishop Cornelius Fontem Esua (83) (2004.12.07 – 2006.01.23)Auxiliary Bishop: Bishop Michael Miabesue Bibi (54) (2017.01.24 – 2021.01.05)Auxiliary Bishop: Bishop Agapitus Enuyehnyoh Nfon (62) (2011.04.08 – 2016.03.15)Special ChurchesCathedral:  Cathédrale Saint-Joseph, Bamenda, North-West Show MapMamfe (←), Katsina-Ala (↖), Wukari (↑), Kumbo (→), Bafoussam (↘)Statistics (2022.12.31)Area: 10,724 km²Population: 616,515 Catholics (42.2% of 1,460,853 total)Pastoral Centres: 57 parishes, 1 missionPersonnel: 168 priests (130 diocesan, 38 religious), 351 religious (131 brothers, 220 sisters), 113 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bame0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1460853,
+    "catholiques": 616515,
+    "pourcentage_catholiques": 42.2
+  },
+  "ressources": {
+    "pretres_diocesains": 130,
+    "pretres_religieux": null,
+    "total_pretres": 168,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 57
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

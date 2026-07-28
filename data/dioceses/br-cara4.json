@@ -1,0 +1,29 @@
+{
+  "id": "br-cara4",
+  "nom": "Caratinga",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Caratinga / Caratingen(sis) (Latin)Ecclesiastical Province: MarianaNeighbouring Dioceses: Mariana (↙), Itabira–Fabriciano (←), Governador Valadares (↑), Cachoeiro de Itapemirim (↘), Leopoldina (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint John the Baptist (June 24)Liturgical Calendar (National) 📅History1915.12.15: Established as Diocese of Caratinga / Caratingen(sis) (Latin) (from Diocese of Amazonas and became suffragan of Mariana)1956.02.01: Lost territory to establish Diocese of Governador ValadaresPresent PrelatesBishop (2023.12.13 – ...):Bishop Juarez Delorto Secco (56)Monsignors (1)OrdinariesBishops of Caratinga (Roman Rite)Bishop Juarez Delorto Secco (56)  (2023.12.13 – ...)Bishop of Caratinga (Brazil)Manete caritate meaBorn:1970.07.04 (Cachoeiro de Itapemirim, ES, Brazil)Ordained Priest:2001.03.10Consecrated Bishop:2017.09.09Priest of Cachoeiro de Itapemirim (Brazil) (2001.03.10 – 2017.06.07)Titular Bishop of Vegesela in Numidia (2017.06.07 – 2023.12.13)Auxiliary Bishop of São Sebastião do Rio de Janeiro (Brazil) (2017.06.07 – 2023.12.13)Bishop of Caratinga (Brazil) (2023.12.13 – ...)Bishop Emanuel Messias de Oliveira (78)  (2011.02.16 – 2023.12.13)Bishop emeritus of Caratinga (Brazil)A Serviço da MisericórdiaBorn:1948.04.22 (Salinas, MG, Brazil)Ordained Priest:1976.02.04Consecrated Bishop:1998.04.19Priest of Governador Valadares (Brazil) (1976.02.04 – 1998.01.14)Bishop of Guanhães (Brazil) (1998.01.14 – 2011.02.16)Bishop of Caratinga (Brazil) (2011.02.16 – 2023.12.13)Bishop Hélio Gonçalves Heleno  (1978.11.27 – 2011.02.16)Propter Regnum DeiBorn:1935.05.18 (Cipotânea, MG, Brazil)Ordained Priest:1961.12.03Consecrated Bishop:1979.02.22Died:2012.09.04 (Caratinga, MG, Brazil † 77)Bishop of Caratinga (Brazil) (1978.11.27 – 2011.02.16)Bishop José Eugênio Corrêa  (1957.08.19 – 1978.11.27)Omnibus OmniaBorn:1914.05.30 (Lima Duarte, MG, Brazil)Ordained Priest:1941.10.26Consecrated Bishop:1957.11.10Died:2010.01.28 (Juiz de Fora, MG, Brazil † 95)Priest of Juiz de Fora (Brazil) (1941.10.26 – 1957.08.19)Bishop of Caratinga (Brazil) (1957.08.19 – 1978.11.27)Bishop João Batista Cavati, C.M.  (1938.07.30 – 1956.10.20)Born:1892.05.05 (Todos os Santos, BA, Brazil)Ordained Priest:1920.03.20Consecrated Bishop:1938.10.30Died:1987.06.30 (Caratinga, MG, Brazil † 95)Bishop of Caratinga (Brazil) (1938.07.30 – 1956.10.20)Titular Bishop of Eucarpia (1956.10.20 – 1970.12.14)Bishop José Maria Perreira Lara  (1934.09.28 – 1936.08.08)Born:1886.06.03 (Resende Costa, BA, Brazil)Ordained Priest:1911.04.18Consecrated Bishop:1925.02.11Died:1936.08.08 (Caratinga, MG, Brazil † 50)Bishop of Amazonas (Brazil) (1924.03.27 – 1924.12.18)Bishop of Santos (Brazil) (1924.12.18 – 1934.09.28)Bishop of Caratinga (Brazil) (1934.09.28 – 1936.08.08)Bishop Carloto Fernandes da Silva Távora  (1919.12.18 – 1933.11.29)Born:1863.12.18 (Jaguaribe, CE, Brazil)Ordained Priest:1899.06.07Consecrated Bishop:1920.01.25Died:1933.11.29 (Rio de Janeiro, RJ, Brazil † 69)Bishop of Caratinga (Brazil) (1919.12.18 – 1933.11.29)Special ChurchesCathedral:  Catedral São João Batista, Caratinga, Minas Gerais Jubilee Churches in the Holy Year 2025Churches by City (60)Show MapMariana (↙), Itabira–Fabriciano (←), Governador Valadares (↑), Cachoeiro de Itapemirim (↘), Leopoldina (↓)Statistics (2022.12.31)Area: 15,088 km²Population: 511,000 Catholics (70.7% of 722,300 total)Pastoral Centres: 58 parishesPersonnel: 106 priests (75 diocesan, 31 religious), 1 deacon, 121 religious (39 brothers, 82 sisters), 31 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cara4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 722300,
+    "catholiques": 511000,
+    "pourcentage_catholiques": 70.7
+  },
+  "ressources": {
+    "pretres_diocesains": 75,
+    "pretres_religieux": null,
+    "total_pretres": 106,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 58
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

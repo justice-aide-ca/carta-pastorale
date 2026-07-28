@@ -1,0 +1,29 @@
+{
+  "id": "cd-kaso0",
+  "nom": "Kasongo",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Kasongo / Kasongoën(sis) (Latin)Ecclesiastical Province: BukavuNeighbouring Dioceses: Kindu (↖), Goma (↗), Bukavu (↗), Uvira (→), Kalemie–Kirungu (↘), Kongolo (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1952.01.10: Established as Apostolic Vicariate of Kasongo / Kasongoën(sis) (Latin) (from Apostolic Vicariate of Baudouinville and Apostolic Vicariate of Kivu)1959.11.10: Promoted as Diocese of Kasongo / Kasongoën(sis) (Latin) (became suffragan of Bukavu)1962.04.16: Lost territory to establish Diocese of UviraPresent PrelatesBishop (2014.03.11 – ...):Bishop Placide Lubamba Ndjibu, M. Afr. (66)OrdinariesBishops of Kasongo (Roman Rite)Bishop Placide Lubamba Ndjibu, M. Afr. (66)  (2014.03.11 – ...)Bishop of Kasongo (Congo-Kinshasa)Born:1959.10.26 (Lubumbashi, Congo-Kinshasa)Ordained Priest:1991.07.27Consecrated Bishop:2014.05.31Bishop of Kasongo (Congo-Kinshasa) (2014.03.11 – ...)Bishop Melchisedec Sikuli Paluku (74)  (Apostolic Administrator 2009 – 2014.03.11)Bishop Théophile Kaboy Ruboneka (85)  (1995.11.02 – 2009.04.21)Bishop emeritus of Goma (Congo-Kinshasa)Pour que nous ayons la vie et que nous l’ayons en abondanceBorn:1941.02.27 (Bobandana, Congo-Kinshasa)Ordained Priest:1972.08.27Consecrated Bishop:1996.03.19Bishop of Kasongo (Congo-Kinshasa) (1995.11.02 – 2009.04.21)Apostolic Administrator of Kindu (Congo-Kinshasa) (2004.02.03 – 2007.04.25)Coadjutor Bishop of Goma (Congo-Kinshasa) (2009.04.21 – 2010.03.18)Bishop of Goma (Congo-Kinshasa) (2010.03.18 – 2019.04.23)Bishop Christophe Munzihirwa Mwene Ngabo, S.J. (later Archbishop)  (1990.04.30 – 1995.03.14)Born:1926 (Kabare, Congo-Kinshasa)Ordained Priest:1958.08.17Consecrated Bishop:1986.11.09Died:1996.10.29 († 69)Coadjutor Bishop of Kasongo (Congo-Kinshasa) (1986.03.10 – 1990.04.30)Bishop of Kasongo (Congo-Kinshasa) (1990.04.30 – 1995.03.14)Apostolic Administrator of Bukavu (Congo-Kinshasa) (1993.09.15 – 1995.03.14)Metropolitan Archbishop of Bukavu (Congo-Kinshasa) (1995.03.14 – 1996.10.29)Bishop Timothée Pirigisha Mukombe  (1966.09.29 – 1990.04.30)Born:1920.04.30 (Walungu, Congo-Kinshasa)Ordained Priest:1953.11.11Consecrated Bishop:1967.03.05Died:2004.02.10 († 83)Bishop of Kasongo (Congo-Kinshasa) (1966.09.29 – 1990.04.30)Bishop Noël Mala  (1963.04.05 – 1964.07.31)Born:1901.04.17 (Baudouinville, Congo-Kinshasa)Ordained Priest:1932.08.14Consecrated Bishop:1963.09.01Died:1964.07.31 (Kinshasa, Congo-Kinshasa † 63)Bishop of Kasongo (Congo-Kinshasa) (1963.04.05 – 1964.07.31)Bishop Richard Cleire, M. Afr.  (1959.11.10 – 1963.04.05)Born:1900.10.28 (Antwerp, Belgium)Ordained Priest:1926.06.29Consecrated Bishop:1945.03.04Died:1968.01.08 († 67)Vicar Apostolic of Kivu (Congo-Kinshasa) (1944.12.14 – 1952.01.10)Titular Bishop of Claudiopolis in Isauria (1944.12.14 – 1959.11.10)Vicar Apostolic of Kasongo (Congo-Kinshasa) (1952.01.10 – 1959.11.10)Bishop of Kasongo (Congo-Kinshasa) (1959.11.10 – 1963.04.05)Titular Bishop of Tadamata (1963.04.05 – 1968.01.08)Vicars Apostolic of Kasongo (Roman Rite)Bishop Richard Cleire, M. Afr.  (1952.01.10 – 1959.11.10)(see above)Former PrelatesCoadjutor Bishop: Bishop Christophe Munzihirwa Mwene Ngabo, S.J. (later Archbishop) (1986.03.10 – 1990.04.30)Special ChurchesCathedral:  Cathédrale Saint-Charles-Borromée, Kasongo, Maniema Show MapKindu (↖), Goma (↗), Bukavu (↗), Uvira (→), Kalemie–Kirungu (↘), Kongolo (↓)Statistics (2021.12.31)Area: 75,365 km²Population: 991,000 Catholics (32.2% of 3,077,000 total)Pastoral Centres: 16 parishesPersonnel: 50 priests (40 diocesan, 10 religious), 52 religious (16 brothers, 36 sisters), 47 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kaso0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3077000,
+    "catholiques": 991000,
+    "pourcentage_catholiques": 32.2
+  },
+  "ressources": {
+    "pretres_diocesains": 40,
+    "pretres_religieux": null,
+    "total_pretres": 50,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

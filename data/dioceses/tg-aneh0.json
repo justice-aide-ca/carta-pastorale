@@ -1,0 +1,29 @@
+{
+  "id": "tg-aneh0",
+  "nom": "Aného",
+  "pays": "tg",
+  "pays_nom": "Togo",
+  "continent": "unknown",
+  "type": "Diocese Name: Aného / Anehen(sis) (Latin)Ecclesiastical Province: LoméNeighbouring Dioceses: Lomé (←), Kpalimé (↑), Lokossa (↗)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1994.07.01: Established as Diocese of Aného / Anehen(sis) (Latin) (from Metropolitan Archdiocese of Lomé and became suffragan of Lomé)Papal VisitsPope John Paul II (1985.08)Present PrelatesBishop:vacantMonsignors (1)OrdinariesBishops of Aného (Roman Rite)Bishop Isaac Jogues Kodjo Agbémenya Gaglo (67) (later Archbishop)  (2007.12.03 – 2026.04.10)Metropolitan Archbishop of Lomé (Togo)In finem dilexit eosBorn:1958.10.07 (Kpémé, Togo)Ordained Priest:1985.08.09Consecrated Bishop:2008.02.02Priest of Aného (Togo) (1985.08.09 – 2007.12.03)Bishop of Aného (Togo) (2007.12.03 – 2026.04.10)Apostolic Administrator of Lomé (Togo) (2024.08.11 – 2026.04.10)Metropolitan Archbishop of Lomé (Togo) (2026.04.10 – ...)Bishop Paul Jean-Marie Dossavi  (1996.02.23 – 2005.09.13)Born:1934.06.26 (Bokpa, Togo)Ordained Priest:1963.06.30Consecrated Bishop:1996.04.28Died:2005.09.13 († 71)Bishop of Aného (Togo) (1996.02.23 – 2005.09.13)Bishop Victor Dovi Hounnaké  (1994.07.01 – 1995.08.04)Born:1937.06.06 (Afanya-Gbleta, Togo)Ordained Priest:1966.01.10Consecrated Bishop:1994.10.15Died:1995.08.04 († 58)Bishop of Aného (Togo) (1994.07.01 – 1995.08.04)Special ChurchesCathedral:  Cathédrale Saints Pierre et Paul, Aného, Maritime National Shrine:  Sanctuaire Nationale Notre Dame du Lac Togo, Togoville, Maritime Show MapLomé (←), Kpalimé (↑), Lokossa (↗)Statistics (2022.12.31)Area: 2,712 km²Population: 325,345 Catholics (26.4% of 1,234,170 total)Pastoral Centres: 36 parishesPersonnel: 122 priests (115 diocesan, 7 religious), 137 religious (36 brothers, 101 sisters), 55 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "aneh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1234170,
+    "catholiques": 325345,
+    "pourcentage_catholiques": 26.4
+  },
+  "ressources": {
+    "pretres_diocesains": 115,
+    "pretres_religieux": null,
+    "total_pretres": 122,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

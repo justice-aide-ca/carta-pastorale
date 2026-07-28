@@ -1,0 +1,29 @@
+{
+  "id": "pa-chit0",
+  "nom": "Chitré",
+  "pays": "pa",
+  "pays_nom": "Panama",
+  "continent": "unknown",
+  "type": "Diocese Name: Chitré / Citren(sis) (Latin)Ecclesiastical Province: PanamáNeighbouring Dioceses: Santiago de Veraguas (←), Penonomé (↑)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1962.07.21: Established as Diocese of Chitré / Citren(sis) (Latin) (from Metropolitan Archdiocese of Panamá and became suffragan of Panamá)Present PrelatesBishop (2013.04.25 – ...):Bishop Rafael Valdivieso Miranda (58)Monsignors (2)OrdinariesBishops of Chitré (Roman Rite)Bishop Rafael Valdivieso Miranda (58)  (2013.04.25 – ...)Bishop of Chitré (Panama)Humilis servus caritatisBorn:1968.03.18 (David, Panama)Ordained Priest:1995.12.16Consecrated Bishop:2013.07.06Priest of Panamá (Panama) (1995.12.16 – 2013.04.25)Bishop of Chitré (Panama) (2013.04.25 – ...)Vice-President of Episcopal Conference of Panama (2016.01 – 2019.03.11)President of Episcopal Conference of Panama (2019.03.11 – 2025.01.06)Bishop Fernando Torres Durán  (1999.07.02 – 2013.04.25)Conságranos en la verdadBorn:1937.08.02 (Cartago, Colombia)Ordained Priest:1960.07.16Consecrated Bishop:1996.12.21Died:2019.11.13 (Panamá, Panama † 82)Priest of Cali (Colombia) (1960.07.16 – 1996.11.29)Prelate of Honour of His Holiness (1989.10.27 – 1996.11.29)Titular Bishop of Abaradira (1996.11.29 – 1999.07.02)Auxiliary Bishop of Panamá (Panama) (1996.11.29 – 1999.07.02)Bishop of Chitré (Panama) (1999.07.02 – 2013.04.25)Bishop José Luis Lacunza Maestrojuán, O.A.R. (82) (later Cardinal)  (1994.10.29 – 1999.07.02)Cardinal-Priest of S. Giuseppe da CopertinoBishop emeritus of David (Panama)Præsumus si prosumusBorn:1944.02.24 (Pamplona, Spain)Ordained Priest:1969.07.13Consecrated Bishop:1986.01.18Created Cardinal:2015.02.14Titular Bishop of Parthenia (1985.12.30 – 1994.10.29)Auxiliary Bishop of Panamá (Panama) (1985.12.30 – 1994.10.29)General Secretary of Episcopal Secretariat of Central America and Panama (1992 – 1997)Bishop of Chitré (Panama) (1994.10.29 – 1999.07.02)Bishop of David (Panama) (1999.07.02 – 2024.02.15)President of Episcopal Conference of Panama (2000 – 2004)President of Episcopal Conference of Panama (2007.04 – 2013.01)Cardinal-Priest of S. Giuseppe da Copertino (2015.02.14 [2015.10.18] – ...)Bishop José María Carrizo Villarreal  (1963.01.21 – 1994.10.29)Born:1918.08.05 (Ocú, Panama)Ordained Priest:1942.12.20Consecrated Bishop:1963.03.24Died:1998.04.15 († 79)Priest of Panamá (Panama) (1942.12.20 – 1963.01.21)Bishop of Chitré (Panama) (1963.01.21 – 1994.10.29)President of Episcopal Conference of Panama (1971 – 1973)President of Episcopal Conference of Panama (1982 – 1985)Special ChurchesCathedral:  Catedral San Juan Bautista, Chitré, Herrera Show MapSantiago de Veraguas (←), Penonomé (↑)Statistics (2022.12.31)Area: 6,150 km²Population: 187,000 Catholics (84.4% of 221,546 total)Pastoral Centres: 23 parishesPersonnel: 41 priests (33 diocesan, 8 religious), 3 deacons, 49 religious (8 brothers, 41 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chit0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 221546,
+    "catholiques": 187000,
+    "pourcentage_catholiques": 84.4
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 41,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

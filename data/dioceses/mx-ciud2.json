@@ -1,0 +1,29 @@
+{
+  "id": "mx-ciud2",
+  "nom": "Ciudad Guzmán",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Ciudad Guzmán / Guzmanopolitan(us) (Latin)Ecclesiastical Province: GuadalajaraNeighbouring Dioceses: Autlán (←), Guadalajara (↑), Zamora (→), Colima (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History1972.03.25: Established as Diocese of Ciudad Guzmán / Guzmanopolitan(us) (Latin) (from Metropolitan Archdiocese of Guadalajara and Diocese of Colima and became suffragan of Guadalajara)Contact InfoAddress: Portal Ramón Corona # 26 Col.Centro, 49000 - Ciudad Guzmán, Jal., MexicoPhone: (341) 2-19-94Present PrelatesBishop (2024.05.04 – ...):Bishop Herculano Medina Garfias (58)Monsignors (3)OrdinariesBishops of Ciudad Guzmán (Roman Rite)Bishop Herculano Medina Garfias (58)  (2024.05.04 – ...)Bishop of Ciudad Guzmán (Mexico)Born:1967.11.27 (Rincón de Cedeños, Mexico)Ordained Priest:1996.02.15Consecrated Bishop:2016.02.25Priest of Morelia (Mexico) (1996.02.15 – 2015.12.01)Titular Bishop of Gegi (2015.12.01 – 2024.05.04)Auxiliary Bishop of Morelia (Mexico) (2015.12.01 – 2024.05.04)Bishop of Ciudad Guzmán (Mexico) (2024.05.04 – ...)Bishop Óscar Armando Campos Contreras (78)  (2017.09.25 – 2024.05.04)Bishop emeritus of Ciudad Guzmán (Mexico)En tu nombreBorn:1947.09.18 (Guadalajara, Mexico)Ordained Priest:1978.12.27Consecrated Bishop:2006.07.12Priest of Tuxtla Gutiérrez (Mexico) (1978.12.27 – 2006.05.23)Titular Bishop of Summa (2006.05.23 – 2010.02.02)Auxiliary Bishop of Antequera (Mexico) (2006.05.23 – 2010.02.02)Bishop of Tehuantepec (Mexico) (2010.02.02 – 2017.09.25)Bishop of Ciudad Guzmán (Mexico) (2017.09.25 – 2024.05.04)Bishop Braulio Rafael León Villegas  (1999.12.11 – 2017.09.25)Born:1945.03.26 (León, Mexico)Ordained Priest:1970.05.17Consecrated Bishop:1990.03.29Died:2024.12.30 (Ciudad Guzmán, Mexico † 79)Priest of León (Mexico) (1970.05.17 – 1990.02.21)Prelate of Honour of His Holiness (1987.07.16 – 1990.02.21)Bishop of La Paz (Mexico) (1990.02.21 – 1999.12.11)Bishop of Ciudad Guzmán (Mexico) (1999.12.11 – 2017.09.25)Bishop Serafín Vásquez Elizalde  (1977.12.02 – 1999.12.11)Born:1922.09.13 (San Martin Xaltocan, Mexico)Ordained Priest:1948.05.02Consecrated Bishop:1968.05.29Died:2009.02.10 (Guadalajara, Mexico † 86)Priest of Puebla de los Ángeles (Mexico) (1948.05.02 – 1968.03.16)Bishop of Huejutla (Mexico) (1968.03.16 – 1977.12.02)Bishop of Ciudad Guzmán (Mexico) (1977.12.02 – 1999.12.11)Bishop Leonardo Viera Contreras  (1972.03.25 – 1977.07.07)Born:1907.01.18 (Tuxpan, Mexico)Ordained Priest:1931.05.30Consecrated Bishop:1967.09.08Died:1977.12.02 († 70)Priest of Colima (Mexico) (1931.05.30 – 1967.07.25)Bishop of Colima (Mexico) (1967.07.25 – 1972.03.25)Bishop of Ciudad Guzmán (Mexico) (1972.03.25 – 1977.07.07)Special ChurchesCathedral:  Catedral de San José, Ciudad Guzmán, Jalisco Show MapAutlán (←), Guadalajara (↑), Zamora (→), Colima (↓)Statistics (2022.12.31)Area: 9,345 km²Population: 407,200 Catholics (95.1% of 428,400 total)Pastoral Centres: 60 parishesPersonnel: 120 priests (103 diocesan, 17 religious), 189 religious (43 brothers, 146 sisters), 26 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ciud2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 428400,
+    "catholiques": 407200,
+    "pourcentage_catholiques": 95.1
+  },
+  "ressources": {
+    "pretres_diocesains": 103,
+    "pretres_religieux": null,
+    "total_pretres": 120,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 60
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

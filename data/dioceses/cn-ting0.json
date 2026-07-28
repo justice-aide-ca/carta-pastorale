@@ -1,0 +1,29 @@
+{
+  "id": "cn-ting0",
+  "nom": "Changting 長汀",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Changting 長汀 (中文) / Tingzhou 汀州 (中文) / Tingchow / Chángtīng 长汀 (简体中文) / Tīngzhōu 汀州 (简体中文) / Timceuven(sis) (Latin)Ecclesiastical Province: Fuzhou 福州Neighbouring Dioceses: Ganzhou 贛州 (←), Shaowu 邵武 (↗), Fuzhou 福州 (→), Xiamen 廈門 (↘), Jiaying 嘉應 (↓)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Dioceses: Minbei 閩北 , Xiamen 廈門 CelebrationsLiturgical Calendar (Universal) 📅History1923.12.27: Established as Apostolic Prefecture of Tingzhou 汀州 (中文) / Tingchow / Tīngzhōu 汀州 (简体中文) / de Tingchow (Latin) (from Apostolic Vicariate of Northern Fo-kien 福建北境)1947.05.08: Promoted as Diocese of Changting 長汀 (中文) / Tingzhou 汀州 (中文) / Tingchow / Chángtīng 长汀 (简体中文) / Tīngzhōu 汀州 (简体中文) / Timceuven(sis) (Latin) (became suffragan of Fuzhou 福州)Present PrelatesBishop:vacantOrdinariesBishops of Changting 長汀 (Roman Rite)Bishop Johann Werner Lesinski (雷新基), O.P.  (1947.05.08 – 1963.04.26)Born:1904.11.05 (Berlin, Germany)Ordained Priest:1932.07.29Consecrated Bishop:1947.10.26Died:1963.04.26 (Taohsiung, Taiwan † 58)Bishop of Changting 長汀 (China) (1947.05.08 – 1963.04.26)Prefects Apostolic of Tingzhou 汀州 (Roman Rite)Fr. Egbert Maria Pelzer (歐培徒), O.P.  (1925.12.21 – 1945.05.04)Born:1882.07.23 (Germany)Ordained Priest:1909.08.01Died:1945.05.04 († 62)Prefect Apostolic of Tingzhou 汀州 (China) (1925.12.21 – 1945.05.04)Special ChurchesCathedral:  Cathedral of Our Lady of the Rosary, Longyan 龙岩, Shandong Show MapGanzhou 贛州 (←), Shaowu 邵武 (↗), Fuzhou 福州 (→), Xiamen 廈門 (↘), Jiaying 嘉應 (↓)Statistics (1950.12.31)Area: 20,000 km²Population: 4,318 Catholics (0.4% of 1,220,000 total)Pastoral Centres: 32 missionsPersonnel: 19 priests (1 diocesan, 18 religious), 34 religious (6 brothers, 28 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ting0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1220000,
+    "catholiques": 4318,
+    "pourcentage_catholiques": 0.4
+  },
+  "ressources": {
+    "pretres_diocesains": 1,
+    "pretres_religieux": null,
+    "total_pretres": 19,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

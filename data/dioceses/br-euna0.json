@@ -1,0 +1,29 @@
+{
+  "id": "br-euna0",
+  "nom": "Eunápolis",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Eunápolis / Eunapolitan(us) (Latin)Ecclesiastical Province: São Salvador da BahiaNeighbouring Dioceses: Almenara (←), Vitória da Conquista (↖), Itabuna (↑), Teixeira de Freitas–Caravelas (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nossa Senhora Auxiliadora dos Cristãos (June 24)Liturgical Calendar (National) 📅History1996.06.12: Established as Diocese of Eunápolis / Eunapolitan(us) (Latin) (from Diocese of Itabuna and Diocese of Teixeira de Freitas–Caravelas and became suffragan of São Salvador da Bahia)Present PrelatesBishop (1996.06.12 – ...):Bishop José Edson Santana de Oliveira (73)Monsignors (1)OrdinariesBishops of Eunápolis (Roman Rite)Bishop José Edson Santana de Oliveira (73)  (1996.06.12 – ...)Bishop of Eunápolis (Brazil)Dominus TecumBorn:1952.11.03 (Duas Serras, BA, Brazil)Ordained Priest:1978.01.18Consecrated Bishop:1996.09.08Priest of Feira de Santana (Brazil) (1978.01.18 – 1996.06.12)Chaplain of His Holiness (1988.05.07 – 1988.09.10)Prelate of Honour of His Holiness (1988.09.10 – 1996.06.12)Bishop of Eunápolis (Brazil) (1996.06.12 – ...)Special ChurchesCathedral:  Catedral Nossa Senhora Auxiliadora, Eunápolis, Bahia Churches by City (47)Show MapAlmenara (←), Vitória da Conquista (↖), Itabuna (↑), Teixeira de Freitas–Caravelas (↓)Statistics (2022.12.31)Area: 12,133 km²Population: 249,000 Catholics (49.0% of 508,000 total)Pastoral Centres: 45 parishes, 1 missionPersonnel: 54 priests (47 diocesan, 7 religious), 44 religious (17 brothers, 27 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "euna0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 508000,
+    "catholiques": 249000,
+    "pourcentage_catholiques": 49.0
+  },
+  "ressources": {
+    "pretres_diocesains": 47,
+    "pretres_religieux": null,
+    "total_pretres": 54,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 45
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

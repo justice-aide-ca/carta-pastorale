@@ -1,0 +1,29 @@
+{
+  "id": "ng-ekwu0",
+  "nom": "Ekwulobia",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Ekwulobia / Ekvulobian(us) (Latin)Ecclesiastical Province: OnitshaNeighbouring Dioceses: Nnewi (←), Awka (↑), Enugu (↗), Okigwe (↘)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2020.03.05: Established as Diocese of Ekwulobia / Ekvulobian(us) (Latin) (from Diocese of Awka and became suffragan of Onitsha)Present PrelatesBishop (2020.03.05 – ...):Cardinal Peter Ebere Okpaleke (63)Cardinal-Priest of Ss. Martiri dell’Uganda a Poggio AmenoOrdinariesBishops of Ekwulobia (Roman Rite)Cardinal Peter Ebere Okpaleke (63)  (2020.03.05 – ...)Cardinal-Priest of Ss. Martiri dell’Uganda a Poggio AmenoBishop of Ekwulobia (Nigeria)Veni Sancte SpiritusBorn:1963.03.01 (Amesi, Nigeria)Ordained Priest:1992.08.22Consecrated Bishop:2013.05.21Created Cardinal:2022.08.27Priest of Awka (Nigeria) (1992.08.22 – 2012.12.07)Bishop of Ahiara (Nigeria) (2012.12.07 – 2018.02.19 not possessed)Bishop of Ekwulobia (Nigeria) (2020.03.05 – ...)Cardinal-Priest of Ss. Martiri dell’Uganda a Poggio Ameno (2022.08.27 [2023.02.05] – ...)Special ChurchesCathedral:  Cathedral of St. Joseph, Ekwulobia, Anambra Show MapNnewi (←), Awka (↑), Enugu (↗), Okigwe (↘)Statistics (2022.12.31)Area: 676 km²Population: 609,818 Catholics (61.3% of 994,308 total)Pastoral Centres: 87 parishesPersonnel: 514 priests (352 diocesan, 162 religious), 268 religious (181 brothers, 87 sisters), 61 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ekwu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 994308,
+    "catholiques": 609818,
+    "pourcentage_catholiques": 61.3
+  },
+  "ressources": {
+    "pretres_diocesains": 352,
+    "pretres_religieux": null,
+    "total_pretres": 514,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 87
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

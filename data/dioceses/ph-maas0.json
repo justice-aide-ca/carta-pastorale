@@ -1,0 +1,29 @@
+{
+  "id": "ph-maas0",
+  "nom": "Maasin",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Maasin / Maasinen(sis) (Latin)Ecclesiastical Province: CebuNeighbouring Dioceses: Tagbilaran (↙), Talibon (←), Palo (↑), Surigao (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Our Lady of the Assumption (August 15)Cathedral Dedication Anniversary: August 14Liturgical Calendar (National) 📅History1968.03.23: Established as Diocese of Maasin / Maasinen(sis) (Latin) (from Diocese of Palo and became suffragan of Cebu)Present PrelatesBishop (1998.01.20 – ...):Bishop Precioso Dacalos Cantillas, S.D.B. (73)Monsignors (15)OrdinariesBishops of Maasin (Roman Rite)Bishop Precioso Dacalos Cantillas, S.D.B. (73)  (1998.01.20 – ...)Bishop of Maasin (Philippines)Cantate canticum novumBorn:1953.07.03 (Langtad, Philippines)Ordained Priest:1979.12.07Consecrated Bishop:1995.07.12Titular Bishop of Vicus Cæsaris (1995.05.31 – 1998.01.20)Auxiliary Bishop of Cebu (Philippines) (1995.05.31 – 1998.01.20)Bishop of Maasin (Philippines) (1998.01.20 – ...)Bishop Vicente Ataviado y Tumalad  (1968.06.17 – 1997.03.04)Born:1929.10.27 (Manila, Philippines)Ordained Priest:1954.04.03Consecrated Bishop:1968.08.08Died:1997.03.04 († 67)Bishop of Maasin (Philippines) (1968.06.17 – 1997.03.04)Former PrelatesAuxiliary Bishop: Bishop Wilfredo Dasco Manlapaz (85) (1980.12.22 – 1986.01.31)Special ChurchesCathedral, National Shrine:  Cathedral of Our Lady of the Assumption, Maasin City, Southern Leyte, Eastern Visayas Jubilee Churches in the Holy Year 2025Churches by City (48)Show MapTagbilaran (↙), Talibon (←), Palo (↑), Surigao (↘)Statistics (2022.12.31)Area: 2,506 km²Population: 706,966 Catholics (83.5% of 846,620 total)Pastoral Centres: 49 parishes, 4 missionsPersonnel: 114 priests (107 diocesan, 7 religious), 104 religious (8 brothers, 96 sisters), 42 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "maas0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 846620,
+    "catholiques": 706966,
+    "pourcentage_catholiques": 83.5
+  },
+  "ressources": {
+    "pretres_diocesains": 107,
+    "pretres_religieux": null,
+    "total_pretres": 114,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 49
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

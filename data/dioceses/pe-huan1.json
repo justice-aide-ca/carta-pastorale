@@ -1,0 +1,29 @@
+{
+  "id": "pe-huan1",
+  "nom": "Huancavélica",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Huancavélica / Huancavelicen(sis) (Latin)Ecclesiastical Province: AyacuchoNeighbouring Dioceses: Ica (↙), Yauyos (←), Huancayo (↑), San Ramón (↗), Ayacucho (→), Caravelí (↓)Depends on: Dicastery for BishopsCelebrationsCathedral Dedication Anniversary: December 7Liturgical Calendar 📅History1944.12.18: Established as Diocese of Huancavélica / Huancavelicen(sis) (Latin) (from Diocese of Ayacucho and became suffragan of Lima)1966.06.30: Became suffragan of AyacuchoPresent PrelatesBishop (2021.05.21 – ...):Bishop Carlos Alberto Salcedo Ojeda, O.M.I. (65)OrdinariesBishops of Huancavélica (Roman Rite)Bishop Carlos Alberto Salcedo Ojeda, O.M.I. (65)  (2021.05.21 – ...)Bishop of Huancavélica (Peru)Born:1960.11.25 (Comas, Peru)Ordained Priest:1996.01.06Consecrated Bishop:2016.04.17Titular Bishop of Mattiana (2016.01.30 – 2021.05.21)Auxiliary Bishop of Huancayo (Peru) (2016.01.30 – 2021.05.21)Bishop of Huancavélica (Peru) (2021.05.21 – ...)Bishop Isidro Barrio Barrio (83)  (2005.06.18 – 2021.05.21)Bishop emeritus of Huancavélica (Peru)Born:1943.05.05 (Villafranca Montes de Oca, Spain)Ordained Priest:1968.07.06Consecrated Bishop:2002.05.25Priest of Huancavélica (Peru) (1968.07.06 – 2002.04.10)Coadjutor Bishop of Huancavélica (Peru) (2002.04.10 – 2005.06.18)Bishop of Huancavélica (Peru) (2005.06.18 – 2021.05.21)Bishop William Dermott Molloy McDermott  (1982.01.14 – 2005.06.18)Born:1930.05.10 (Dublin, Ireland)Ordained Priest:1955.06.05Consecrated Bishop:1976.07.04Died:2013.08.19 († 83)Priest of Birmingham (USA) (1955.06.05 – 1976.05.19)Titular Bishop of Thucca in Mauretania (1976.05.19 – 1982.01.14)Auxiliary Bishop of Huancavélica (Peru) (1976.05.19 – 1982.01.14)Bishop of Huancavélica (Peru) (1982.01.14 – 2005.06.18)Bishop Florencio Coronado Romani, C.SS.R.  (1956.03.01 – 1982.01.14)Born:1908.05.23 (Caja Espíritu, Peru)Ordained Priest:1938.09.18Consecrated Bishop:1956.04.22Died:2006.02.25 († 97)Bishop of Huancavélica (Peru) (1956.03.01 – 1982.01.14)Bishop Carlos Maria Jurgens Byrne, C.SS.R. (later Archbishop)  (1949.01.13 – 1954.02.07)Born:1903.04.28 (Lima, Peru)Ordained Priest:1937.09.19Consecrated Bishop:1949.02.13Died:1980.10.06 (Lima, Peru † 77)Bishop of Huancavélica (Peru) (1949.01.13 – 1954.02.07)Titular Bishop of Nisyrus (1954.02.07 – 1956.12.17)Military Vicar of Peru (Peru) (1954.02.07 – 1956.12.17)Metropolitan Archbishop of Cusco (Peru) (1956.12.17 – 1965.12.06)Metropolitan Archbishop of Trujillo (Peru) (1965.12.06 – 1976.12.29)Bishop Alberto Maria Dettmann y Aragón, O.P.  (1945.07.06 – 1948.06.28)Born:1902.11.10 (Bellavista Callao, Peru)Ordained Priest:1929.08.18Consecrated Bishop:1945.07.15Died:1982.01.28 († 79)Bishop of Huancavélica (Peru) (1945.07.06 – 1948.06.28)Bishop of Puno (Peru) (1948.06.28 – 1959.02.06)Bishop of Ica (Peru) (1959.02.06 – 1973.10.05)Former PrelatesCoadjutor Bishop: Bishop Isidro Barrio Barrio (83) (2002.04.10 – 2005.06.18)Auxiliary Bishop: Bishop William Dermott Molloy McDermott (1976.05.19 – 1982.01.14)Special ChurchesCathedral:  Catedral San Antonio, Huancavélica, Huancavelica Jubilee Churches in the Holy Year 2025Show MapIca (↙), Yauyos (←), Huancayo (↑), San Ramón (↗), Ayacucho (→), Caravelí (↓)Statistics (2022.12.31)Area: 22,131 km²Population: 459,615 Catholics (88.9% of 517,190 total)Pastoral Centres: 28 parishes, 123 missionsPersonnel: 50 priests (diocesan), 1 deacon, 89 religious (25 brothers, 64 sisters), 23 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "huan1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 517190,
+    "catholiques": 459615,
+    "pourcentage_catholiques": 88.9
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

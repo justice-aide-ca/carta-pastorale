@@ -1,0 +1,29 @@
+{
+  "id": "mx-tuxt0",
+  "nom": "Tuxtepec",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Tuxtepec / Tuxtepecen(sis) (Latin)Ecclesiastical Province: AntequeraNeighbouring Dioceses: Antequera (↙), Huautla (←), Córdoba (↖), Veracruz (↑), San Andrés Tuxtla (→), Mixes (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1979.01.08: Established as Diocese of Tuxtepec / Tuxtepecen(sis) (Latin) (from Territorial Prelature of Huautla and became suffragan of Antequera)Contact InfoAddress: Bonfil #597, entre Juárez y Villa, Col. Santa Fe, 68320 - Tuxtepec, Oax., MexicoPhone: (287) 8-75-48-61Present PrelatesBishop:vacantApostolic Administrator (2026.05.01 – ...):Bishop Guadalupe Antonio Ruíz Urquín (55)Bishop-Prelate of Huautla (Mexico)OrdinariesBishops of Tuxtepec (Roman Rite)Bishop Guadalupe Antonio Ruíz Urquín (55)  (Apostolic Administrator 2026.05.01 – ...)Bishop José Alberto González Juárez (58)  (2015.06.06 – 2026.02.11)Bishop of Campeche (Mexico)Permanecer y fructificarBorn:1967.12.19 (El Parral, Mexico)Ordained Priest:1995.12.08Consecrated Bishop:2015.07.22Priest of Tuxtla Gutiérrez (Mexico) (1995.12.08 – 2015.06.06)Bishop of Tuxtepec (Mexico) (2015.06.06 – 2026.02.11)Bishop of Campeche (Mexico) (2026.02.11 – ...)Bishop José Antonio Fernández Hurtado (73) (later Archbishop)  (2005.02.11 – 2014.09.26)Metropolitan Archbishop of Tlalnepantla (Mexico)Apostolic Administrator of Azcapotzalco (Mexico)In nomine DominiBorn:1952.12.02 (Morelia, Mexico)Ordained Priest:1978.10.14Consecrated Bishop:2005.05.11Priest of Tula (Mexico) (1978.10.14 – 2005.02.11)Bishop of Tuxtepec (Mexico) (2005.02.11 – 2014.09.26)Metropolitan Archbishop of Durango (Mexico) (2014.09.26 – 2019.01.25)Metropolitan Archbishop of Tlalnepantla (Mexico) (2019.01.25 – ...)Apostolic Administrator of Cuautitlán (Mexico) (2021.09.14 – 2022.11.09)Apostolic Administrator of Azcapotzalco (Mexico) (2026.04.13 – ...)Bishop José de Jesús Castillo Rentería, M.N.M.  (1979.01.08 – 2005.02.11)Born:1927.07.02 (México, Mexico)Ordained Priest:1950.06.11Consecrated Bishop:1979.04.22Died:2013.04.23 (México, Mexico † 85)Bishop of Tuxtepec (Mexico) (1979.01.08 – 2005.02.11)Special ChurchesCathedral:  Catedral de San Juan Bautista, Tuxtepec, Oaxaca Churches by City (27)Show MapAntequera (↙), Huautla (←), Córdoba (↖), Veracruz (↑), San Andrés Tuxtla (→), Mixes (↘)Statistics (2022.12.31)Area: 6,000 km²Population: 321,412 Catholics (74.0% of 434,367 total)Pastoral Centres: 32 parishesPersonnel: 58 priests (51 diocesan, 7 religious), 4 deacons, 38 religious (7 brothers, 31 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tuxt0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 434367,
+    "catholiques": 321412,
+    "pourcentage_catholiques": 74.0
+  },
+  "ressources": {
+    "pretres_diocesains": 51,
+    "pretres_religieux": null,
+    "total_pretres": 58,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

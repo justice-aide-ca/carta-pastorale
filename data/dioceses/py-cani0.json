@@ -1,0 +1,29 @@
+{
+  "id": "py-cani0",
+  "nom": "Canindeyú",
+  "pays": "py",
+  "pays_nom": "Paraguay",
+  "continent": "amerique",
+  "type": "Diocese Name: Canindeyú (español) / Canindeyuen(sis) (Latin)Ecclesiastical Province: AsunciónNeighbouring Dioceses: Coronel Oviedo (↙), San Pedro (←), Concepción (↖), Naviraí (↑), Toledo (→), Ciudad del Este (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History2024.02.10: Established as Diocese of Canindeyú (español) / Canindeyuen(sis) (Latin) (from Diocese of Ciudad del Este and became suffragan of Asunción)Present PrelatesBishop (2024.02.10 – ...):Bishop Roberto Carlos Zacarías López (54)General Secretary of Episcopal Conference of ParaguayOrdinariesBishops of Canindeyú (Roman Rite)Bishop Roberto Carlos Zacarías López (54)  (2024.02.10 – ...)Bishop of Canindeyú (Paraguay)General Secretary of Episcopal Conference of ParaguaySeñor, a quién iremosBorn:1972.02.07 (Caazapá, Paraguay)Ordained Priest:1999.04.11Consecrated Bishop:2024.03.02Priest of Ciudad del Este (Paraguay) (1999.04.11 – 2024.02.10)Bishop of Canindeyú (Paraguay) (2024.02.10 – ...)General Secretary of Episcopal Conference of Paraguay (2024.11.06 – ...)Special ChurchesCathedral:  Catedral Sagrado Corazón de Jesús, Katueté, Canindeyú Churches by City (11)Show MapCoronel Oviedo (↙), San Pedro (←), Concepción (↖), Naviraí (↑), Toledo (→), Ciudad del Este (↓)Statistics (2024)Area: 14,667 km²Population: 211,138 Catholics (88.2% of 239,386 total)Pastoral Centres: 12 parishesPersonnel: 18 priests (11 diocesan, 7 religious), 23 religious (1 brother, 22 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cani0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 239386,
+    "catholiques": 211138,
+    "pourcentage_catholiques": 88.2
+  },
+  "ressources": {
+    "pretres_diocesains": 11,
+    "pretres_religieux": null,
+    "total_pretres": 18,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

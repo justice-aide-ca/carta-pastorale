@@ -1,0 +1,29 @@
+{
+  "id": "br-guar5",
+  "nom": "Guarulhos",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Guarulhos / Guarulien(sis) (Latin)Ecclesiastical Province: São PauloNeighbouring Dioceses: Bragança Paulista (↑), São José dos Campos (→), São Miguel Paulista (↘), São Paulo (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Imaculada Conceição (December 8)Liturgical Calendar (National) 📅History1981.01.30: Established as Diocese of Guarulhos / Guarulien(sis) (Latin) (from Diocese of Mogi das Cruzes and became suffragan of São Paulo)Present PrelatesBishop (2014.01.29 – ...):Bishop Edmilson Amador Caetano, O. Cist. (66)OrdinariesBishops of Guarulhos (Roman Rite)Bishop Edmilson Amador Caetano, O. Cist. (66)  (2014.01.29 – ...)Bishop of Guarulhos (Brazil)Deus providebitBorn:1960.04.20 (São Paulo, SP, Brazil)Ordained Priest:1985.12.12Consecrated Bishop:2008.03.28Bishop of Barretos (Brazil) (2008.01.09 – 2014.01.29)Bishop of Guarulhos (Brazil) (2014.01.29 – ...)Bishop Joaquim Justino Carreira  (2011.11.23 – 2013.09.01)Pax vobis / A paz esteja convoscoBorn:1950.01.24 (Santa Catarina da Serra, Portugal)Ordained Priest:1977.03.19Consecrated Bishop:2005.05.21Died:2013.09.01 († 63)Priest of Jundiaí (Brazil) (1977.03.19 – 2005.03.24)Titular Bishop of Cabarsussi (2005.03.24 – 2011.11.23)Auxiliary Bishop of São Paulo (Brazil) (2005.03.24 – 2011.11.23)Bishop of Guarulhos (Brazil) (2011.11.23 – 2013.09.01)Bishop Luiz Gonzaga Bergonzini  (1991.12.04 – 2011.11.23)Oportet Illum CrescereBorn:1936.05.20 (São João da Boa Vista, SP, Brazil)Ordained Priest:1959.06.29Consecrated Bishop:1992.02.07Died:2012.06.13 (Guarulhos, SP, Brazil † 76)Bishop of Guarulhos (Brazil) (1991.12.04 – 2011.11.23)Bishop João Bergese (later Archbishop)  (1981.02.11 – 1991.05.05)Vocati ad communionemBorn:1935.09.13 (Savigliano, Italy)Ordained Priest:1963.12.01Consecrated Bishop:1981.04.05Died:1996.03.21 († 60)Priest of Ribeirão Preto (Brazil) (1963.12.01 – 1981.02.11)Bishop of Guarulhos (Brazil) (1981.02.11 – 1991.05.05)Metropolitan Archbishop of Pouso Alegre (Brazil) (1991.05.05 – 1996.03.21)Special ChurchesCathedral:  Catedral Nossa Senhora da Conceiçao, Guarulhos, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (52)Show MapBragança Paulista (↑), São José dos Campos (→), São Miguel Paulista (↘), São Paulo (↓)Statistics (2022.12.31)Area: 341 km²Population: 896,000 Catholics (63.4% of 1,413,000 total)Pastoral Centres: 46 parishesPersonnel: 83 priests (77 diocesan, 6 religious), 9 deacons, 91 religious (21 brothers, 70 sisters), 21 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "guar5",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1413000,
+    "catholiques": 896000,
+    "pourcentage_catholiques": 63.4
+  },
+  "ressources": {
+    "pretres_diocesains": 77,
+    "pretres_religieux": null,
+    "total_pretres": 83,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

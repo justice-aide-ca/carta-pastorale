@@ -1,0 +1,29 @@
+{
+  "id": "ng-wuka0",
+  "nom": "Wukari",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Wukari / Vucarien(sis) (Latin)Ecclesiastical Province: JosNeighbouring Dioceses: Katsina-Ala (↙), Makurdi (←), Shendam (↑), Jalingo (↗), Yola (→), Kumbo (↘), Bamenda (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2022.12.14: Established as Diocese of Wukari / Vucarien(sis) (Latin) (from Diocese of Jalingo and became suffragan of Jos)Present PrelatesBishop (2022.12.14 – ...):Bishop Mark Maigida Nzukwein (56)OrdinariesBishops of Wukari (Roman Rite)Bishop Mark Maigida Nzukwein (56)  (2022.12.14 – ...)Bishop of Wukari (Nigeria)Born:1969.07.15 (Jenuwa Nyifiye, Nigeria)Ordained Priest:1995.07.15Consecrated Bishop:2023.04.13Priest of Jalingo (Nigeria) (1995.07.15 – 2022.12.14)Bishop of Wukari (Nigeria) (2022.12.14 – ...)Special ChurchesCathedral:  Cathedral of St. Mary, Wukari, Taraba Show MapKatsina-Ala (↙), Makurdi (←), Shendam (↑), Jalingo (↗), Yola (→), Kumbo (↘), Bamenda (↓)Statistics (2022.12.31)Area: 32,135 km²Population: 202,245 Catholics (14.5% of 1,395,901 total)Pastoral Centres: 25 parishesPersonnel: 53 priests (50 diocesan, 3 religious), 28 religious (3 brothers, 25 sisters), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "wuka0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1395901,
+    "catholiques": 202245,
+    "pourcentage_catholiques": 14.5
+  },
+  "ressources": {
+    "pretres_diocesains": 50,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

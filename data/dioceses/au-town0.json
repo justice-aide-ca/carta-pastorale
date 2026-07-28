@@ -1,0 +1,29 @@
+{
+  "id": "au-town0",
+  "nom": "Townsville",
+  "pays": "au",
+  "pays_nom": "Australia",
+  "continent": "oceanie",
+  "type": "Diocese Name: Townsville / Tovnsvillen(sis) (Latin)Ecclesiastical Province: BrisbaneNeighbouring Dioceses: Darwin (←), Cairns (↑), Rockhampton (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Our Lady Help of ChristiansLiturgical Calendar (National) 📅History1930.02.12: Established as Diocese of Townsville / Tovnsvillen(sis) (Latin) (from Diocese of Rockhampton and became suffragan of Brisbane)Contact InfoAddress: 266-272 Stanley Street, PO Box 6149, MSO, QLD 4810, AustraliaPhone: +61 7 4726 3202Present PrelatesBishop (2017.02.08 – ...):Bishop Timothy James Harris (63)Monsignors (1)OrdinariesBishops of Townsville (Roman Rite)Bishop Timothy James Harris (63)  (2017.02.08 – ...)Bishop of Townsville (Australia)Grace and mercyBorn:1962.10.29 (Brisbane, Queensland, Australia)Ordained Priest:1992.11.18Consecrated Bishop:2017.05.03Priest of Brisbane (Australia) (1992.11.18 – 2017.02.08)Bishop of Townsville (Australia) (2017.02.08 – ...)Bishop Michael Ernest Putney  (2001.01.24 – 2014.03.28)Exultabit super te in laudeBorn:1946.06.20 (Gladstone, Queensland, Australia)Ordained Priest:1969.06.28Consecrated Bishop:1995.07.27Died:2014.03.28 († 67)Priest of Brisbane (Australia) (1969.06.28 – 1995.05.31)Titular Bishop of Mizigi (1995.05.31 – 2001.01.24)Auxiliary Bishop of Brisbane (Australia) (1995.05.31 – 2001.01.24)Bishop of Townsville (Australia) (2001.01.24 – 2014.03.28)Bishop Raymond Conway Benjamin  (1984.02.14 – 2000.04.18)Born:1925.02.24 (Rockhampton, Queensland, Australia)Ordained Priest:1949.07.25Consecrated Bishop:1984.05.09Died:2016.03.06 († 91)Priest of Rockhampton (Australia) (1949.07.25 – 1984.02.14)Bishop of Townsville (Australia) (1984.02.14 – 2000.04.18)Bishop Leonard Anthony Faulkner (later Archbishop)  (1967.09.14 – 1983.09.02)As one who servesBorn:1926.12.05 (Booleroo Centre, South Australia, Australia)Ordained Priest:1950.01.01Consecrated Bishop:1967.11.28Died:2018.05.06 (Adelaide, South Australia, Australia † 91)Priest of Adelaide (Australia) (1950.01.01 – 1967.09.14)Bishop of Townsville (Australia) (1967.09.14 – 1983.09.02)Coadjutor Archbishop of Adelaide (Australia) (1983.09.02 – 1985.06.19)Metropolitan Archbishop of Adelaide (Australia) (1985.06.19 – 2001.12.03)Bishop Hugo Edward Ryan  (1938.07.13 – 1967.09.14)Born:1888.04.25 (Kyabram, Victoria, Australia)Ordained Priest:1916.06.17Consecrated Bishop:1938.10.18Died:1977.11.13 (Townsville, Queensland, Australia † 89)Priest of Sandhurst (Australia) (1916.06.17 – 1938.07.13)Bishop of Townsville (Australia) (1938.07.13 – 1967.09.14)Titular Bishop of Nigizubi (1967.09.14 – 1976.10.13)Bishop Terence Bernard McGuire (later Archbishop)  (1930.02.12 – 1938.06.14)Born:1881.09.17 (Moree, New South Wales, Australia)Ordained Priest:1904.03.19Consecrated Bishop:1930.05.25Died:1957.07.04 (Goulburn, New South Wales, Australia † 75)Priest of Lismore (Australia) (1904.03.19 – 1930.02.12)Bishop of Townsville (Australia) (1930.02.12 – 1938.06.14)Bishop of Goulburn (Australia) (1938.06.14 – 1948.02.05)Archbishop of Canberra and Goulburn (Australia) (1948.02.05 – 1953.11.16)Titular Archbishop of Leontopolis in Augustamnica (1953.11.16 – 1957.07.04)Special ChurchesCathedral:  Sacred Heart Cathedral, Townsville, Queensland Churches by City (35)Show MapDarwin (←), Cairns (↑), Rockhampton (↘)Statistics (2022.12.31)Area: 434,000 km²Population: 79,000 Catholics (26.5% of 298,361 total)Pastoral Centres: 27 parishesPersonnel: 27 priests (14 diocesan, 13 religious), 51 religious (17 brothers, 34 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "town0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 298361,
+    "catholiques": 79000,
+    "pourcentage_catholiques": 26.5
+  },
+  "ressources": {
+    "pretres_diocesains": 14,
+    "pretres_religieux": null,
+    "total_pretres": 27,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "it-ragu0",
+  "nom": "Ragusa",
+  "pays": "it",
+  "pays_nom": "Italy",
+  "continent": "unknown",
+  "type": "Diocese Name: Ragusa / Ragusien(sis) (Latin)Ecclesiastical Province: SiracusaNeighbouring Dioceses: Piazza Armerina (↖), Caltagirone (↑), Siracusa (↗), Noto (→)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint John the BaptistCathedral Dedication Anniversary: May 30Liturgical Calendar 📅History1950.07.11: Established as Diocese of Ragusa / Ragusien(sis) (Latin) (from Metropolitan Archdiocese of Siracusa and Diocese of Noto and became suffragan of Siracusa)1954.11.16: Gained territory from Diocese of NotoContact InfoAddress: Via Roma 109, 97100 Ragusa, ItalyPhone: 0932 622428Present PrelatesBishop (2021.05.08 – ...):Bishop Giuseppe La Placa (63)Monsignors (9)OrdinariesBishops of Ragusa (Roman Rite)Bishop Giuseppe La Placa (63)  (2021.05.08 – ...)Bishop of Ragusa (Italy)In simplicitate cordisBorn:1962.11.16 (Resuttano, Italy)Ordained Priest:1986.06.29Consecrated Bishop:2021.07.16Priest of Caltanissetta (Italy) (1986.06.29 – 2021.05.08)Chaplain of His Holiness (2009.06.19 – 2021.05.08)Bishop of Ragusa (Italy) (2021.05.08 – ...)Msgr. Sebastiano Roberto Asta  (Apostolic Administrator 2020.12.28 – 2021.05.08)Bishop Carmelo Cuttitta (64)  (2015.10.07 – 2020.12.28)Bishop emeritus of Ragusa (Italy)In omnibus ChristusBorn:1962.03.24 (Godrano, Italy)Ordained Priest:1987.01.10Consecrated Bishop:2007.07.07Priest of Palermo (Italy) (1987.01.10 – 2007.05.28)Chaplain of His Holiness (2004.08.16 – 2007.05.28)Titular Bishop of Novi (2007.05.28 – 2015.10.07)Auxiliary Bishop of Palermo (Italy) (2007.05.28 – 2015.10.07)Bishop of Ragusa (Italy) (2015.10.07 – 2020.12.28)Bishop Paolo Urso (86)  (2002.02.16 – 2015.10.07)Bishop emeritus of Ragusa (Italy)Il suo amore e per sempreBorn:1940.04.17 (Acireale, Italy)Ordained Priest:1962.10.07Consecrated Bishop:2002.04.12Priest of Acireale (Italy) (1962.10.07 – 2002.02.16)Prelate of Honour of His Holiness (2000.05.25 – 2002.02.16)Bishop of Ragusa (Italy) (2002.02.16 – 2015.10.07)Bishop Angelo Rizzo  (1974.02.02 – 2002.02.16)In voluntate tua gaudium meumBorn:1926.04.11 (Montedoro, Italy)Ordained Priest:1948.10.31Consecrated Bishop:1974.03.18Died:2009.07.16 (Montedoro, Italy † 83)Priest of Caltanissetta (Italy) (1948.10.31 – 1974.02.02)Chaplain of His Holiness (1970.05.12 – 1974.02.02)Bishop of Ragusa (Italy) (1974.02.02 – 2002.02.16)Bishop Francesco Pennisi  (1955.10.01 – 1974.02.02)Born:1898.03.04 (Pedara, Italy)Ordained Priest:1921.08.21Consecrated Bishop:1950.08.15Died:1974.06.25 (Pedara, Italy † 76)Priest of Catania (Italy) (1921.08.21 – 1950.07.11)Titular Bishop of Cesarea in Mauretania (1950.07.11 – 1955.10.01)Auxiliary Bishop of Siracusa (Italy) (1950.07.11 – 1955.10.01)Bishop of Ragusa (Italy) (1955.10.01 – 1974.02.02)Archbishop Ettore Baranzini  (1950.05.06 – 1955.10.01)Born:1881.09.22 (Angera, Italy)Ordained Priest:1904.03.27Consecrated Bishop:1933.06.05Died:1968.03.06 (Siracusa, Italy † 86)Priest of Milano (Italy) (1904.03.27 – 1933.04.29)Metropolitan Archbishop of Siracusa (Italy) (1933.04.29 – 1968.03.06)Bishop of Ragusa (Italy) (1950.05.06 – 1955.10.01)Special ChurchesCathedral, World Heritage Site (Minor):  Cattedrale di San Giovanni Battista, Ragusa, Ragusa, Sicilia Minor Basilica:  Basilica di San Giovanni Battista, Vittoria, Ragusa, Sicilia Minor Basilica:  Basilica di Santa Maria delle Stelle, Comiso, Ragusa, Sicilia Minor Basilica:  Basilica di Santissima Annunziata, Comiso, Ragusa, Sicilia Minor Basilica:  Basilica Matrice di Santa Maria Assunta, Monterosso Almo, Ragusa, Sicilia Jubilee Churches in the Holy Year 2025Churches by City (85)Show MapPiazza Armerina (↖), Caltagirone (↑), Siracusa (↗), Noto (→)Statistics (2022.12.31)Area: 1,029 km²Population: 216,645 Catholics (96.8% of 223,764 total)Pastoral Centres: 71 parishesPersonnel: 109 priests (88 diocesan, 21 religious), 6 deacons, 243 religious (28 brothers, 215 sisters), 14 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ragu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 223764,
+    "catholiques": 216645,
+    "pourcentage_catholiques": 96.8
+  },
+  "ressources": {
+    "pretres_diocesains": 88,
+    "pretres_religieux": null,
+    "total_pretres": 109,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 71
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

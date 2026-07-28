@@ -1,0 +1,29 @@
+{
+  "id": "ao-nami0",
+  "nom": "Namibe",
+  "pays": "ao",
+  "pays_nom": "Angola",
+  "continent": "unknown",
+  "type": "Diocese Name: Namibe / Namiban(us) (Latin)Ecclesiastical Province: LubangoNeighbouring Dioceses: Saint Helena, Ascension and Tristan da Cunha (←), Benguela (↑), Lubango (→), Ondjiva (↘)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint PeterLiturgical Calendar (National) 📅History2009.03.21: Established as Diocese of Namibe / Namiban(us) (Latin) (from Metropolitan Archdiocese of Lubango and became suffragan of Lubango)Present PrelatesBishop (2011.07.08 – ...):Bishop Dionisio Hisiilenapo (59)OrdinariesBishops of Namibe (Roman Rite)Bishop Dionisio Hisiilenapo (59)  (2011.07.08 – ...)Bishop of Namibe (Angola)Somos de DeusBorn:1966.10.06 (Epumbu, Angola)Ordained Priest:1998.12.06Consecrated Bishop:2011.09.04Priest of Ondjiva (Angola) (1998.12.06 – 2011.07.08)Bishop of Namibe (Angola) (2011.07.08 – ...)Bishop Mateus Feliciano Tomás  (2009.03.21 – 2010.10.30)Born:1958.02.23 (Chinguar, Angola)Ordained Priest:1983.09.18Consecrated Bishop:2009.06.21Died:2010.10.30 († 52)Priest of Huambo (Angola) (1983.09.18 – 2009.03.21)Bishop of Namibe (Angola) (2009.03.21 – 2010.10.30)Special ChurchesCathedral:  Sé Catedral de São Pedro, Namibe, Namibe Show MapSaint Helena, Ascension and Tristan da Cunha (←), Benguela (↑), Lubango (→), Ondjiva (↘)Statistics (2022.12.31)Area: 57,091 km²Population: 444,000 Catholics (26.9% of 1,651,000 total)Pastoral Centres: 15 parishes, 30 missionsPersonnel: 29 priests (27 diocesan, 2 religious), 37 religious (4 brothers, 33 sisters), 54 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nami0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1651000,
+    "catholiques": 444000,
+    "pourcentage_catholiques": 26.9
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 29,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ir-jeru3",
+  "nom": "Jerusalem",
+  "pays": "ir",
+  "pays_nom": "Iran",
+  "continent": "unknown",
+  "type": "Territory Dependent on the Patriarch Name: Jerusalem / Hierosolymitan(us) (Latin)Subject to the PatriarchNeighbouring Dioceses: Beirut (↑), Aleppo (↗), Jordan (→)Depends on: Dicastery for the Eastern ChurchesHistory1908: Established as Patriarchal Vicariate of Jerusalem / Hierosolymitan(us) (Latin)1991: Promoted as Patriarchal Exarchate of Jerusalem / Hierosolymitan(us) (Latin)1997: Demoted as Territory Dependent on the Patriarch of Jerusalem / Hierosolymitan(us) (Latin)Contact InfoAddress: Chaldean Patriarchal Vicariate, 7 Chaldean Street, Jerusalem, PalestinePresent PrelatesProtosyncellus:vacantOrdinariesProtosyncelli of Jerusalem (Chaldean Rite)Msgr. Paul Collin  (1997 – 2011)Born:1938 (Saint-Malo, France)Ordained Priest:1970Died:2020.04.17 (France † 81)Patriarchal Vicar of Jerusalem of the Chaldeans (Palestine) (1990 – 1991)Patriarchal Exarch of Jerusalem of the Chaldeans (Palestine) (1991 – 1997)Protosyncellus of Jerusalem of the Chaldeans (Palestine) (1997 – 2011)Patriarchal Exarchs of Jerusalem (Chaldean Rite)Msgr. Paul Collin  (1991 – 1997)(see above)Patriarchal Vicars of Jerusalem (Chaldean Rite)Msgr. Paul Collin  (1990 – 1991)(see above)Msgr. Henri Gouillon  (1980 – 1990)Patriarchal Vicar of Jerusalem of the Chaldeans (Palestine) (1980 – 1990)Fr. Boutros Sha’ya  (1944 – 1978)Patriarchal Vicar of Jerusalem of the Chaldeans (Palestine) (1944 – 1978)Bishop Isaac-Jesu-Yab Khoudabache (later Archbishop)  (1908 – 1927)Born:1860.10.18 (Kosrova, Iran)Ordained Priest:1887.06.29Consecrated Bishop:1894.11.11Died:1939.08.08 († 78)Bishop of Salmas of the Chaldeans (Iran) (1894.10.01 – 1908)Patriarchal Vicar of Jerusalem of the Chaldeans (Palestine) (1908 – 1927)Metropolitan Archbishop of Urmyā of the Chaldeans (Iran) ([1930.10.06] 1930.10.25 – 1939.08.08)Bishop of Salmas of the Chaldeans (Iran) ([1930.10.06] 1930.10.25 – 1939.08.08)Last updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jeru3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

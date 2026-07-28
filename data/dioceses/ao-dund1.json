@@ -1,0 +1,29 @@
+{
+  "id": "ao-dund1",
+  "nom": "Dundo",
+  "pays": "ao",
+  "pays_nom": "Angola",
+  "continent": "unknown",
+  "type": "Diocese Name: Dundo / Dunden(sis) (Latin)Ecclesiastical Province: SaurimoNeighbouring Dioceses: Malanje (←), Popokabaka (↖), Kikwit (↖), Luebo (↑), Luiza (→), Kolwezi (↘), Saurimo (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Nossa Senhora da Conceiçao (December 8)Liturgical Calendar (National) 📅History2001.11.09: Established as Diocese of Dundo / Dunden(sis) (Latin) (from Diocese of Saurimo and became suffragan of Luanda)2011.04.12: Became suffragan of SaurimoPresent PrelatesBishop (2012.12.22 – ...):Bishop Estanislau Marques Chindecasse, S.V.D. (67)Vice-President of Episcopal Conference of Angola and São ToméOrdinariesBishops of Dundo (Roman Rite)Bishop Estanislau Marques Chindecasse, S.V.D. (67)  (2012.12.22 – ...)Bishop of Dundo (Angola)Vice-President of Episcopal Conference of Angola and São ToméDomini nostri Jesu ChristiBorn:1958.08.18 (Huambo, Angola)Ordained Priest:1987.11.22Consecrated Bishop:2013.03.03Bishop of Dundo (Angola) (2012.12.22 – ...)Vice-President of Episcopal Conference of Angola and São Tomé (2021.10.11 – ...)Bishop José Manuel Imbamba (61) (later Archbishop)  (2008.10.06 – 2011.04.12)Metropolitan Archbishop of Saurimo (Angola)President of Episcopal Conference of Angola and São ToméVice-President of Inter-Regional Meeting of Bishops of Southern AfricaOmnia omnibusBorn:1965.01.07 (Boma, Angola)Ordained Priest:1991.12.29Consecrated Bishop:2008.12.14Priest of Luena (Angola) (1991.12.29 – 2008.10.06)Bishop of Dundo (Angola) (2008.10.06 – 2011.04.12)Apostolic Administrator of Saurimo (Angola) (2008.10.06 – 2011.04.12)Metropolitan Archbishop of Saurimo (Angola) (2011.04.12 – ...)Vice-President of Episcopal Conference of Angola and São Tomé (2015.11.09 – 2021.10.11)President of Episcopal Conference of Angola and São Tomé (2021.10.11 – ...)Vice-President of Inter-Regional Meeting of Bishops of Southern Africa (2022.09.26 – ...)Bishop Joaquim Ferreira Lopes, O.F.M. Cap. (76)  (Apostolic Administrator 2007.06.06 – 2008.10.06)Bishop Joaquim Ferreira Lopes, O.F.M. Cap. (76)  (2001.11.09 – 2007.06.06)Bishop emeritus of Viana (Angola)Timorem Domini docebo vosBorn:1949.10.13 (Santo Tirso, Portugal)Ordained Priest:1975.05.25Consecrated Bishop:2002.02.03Bishop of Dundo (Angola) (2001.11.09 – 2007.06.06)Apostolic Administrator of Dundo (Angola) (2007.06.06 – 2008.10.06)Bishop of Viana (Angola) (2007.06.06 – 2019.02.11)Special ChurchesCathedral:  Sé Catedral de Nossa Senhora da Conceiçao, Dundo, Lunda Norte Show MapMalanje (←), Popokabaka (↖), Kikwit (↖), Luebo (↑), Luiza (→), Kolwezi (↘), Saurimo (↓)Statistics (2022.12.31)Area: 103,760 km²Population: 441,475 Catholics (45.9% of 962,197 total)Pastoral Centres: 11 parishes, 37 missionsPersonnel: 20 priests (9 diocesan, 11 religious), 30 religious (11 brothers, 19 sisters), 59 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "dund1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 962197,
+    "catholiques": 441475,
+    "pourcentage_catholiques": 45.9
+  },
+  "ressources": {
+    "pretres_diocesains": 9,
+    "pretres_religieux": null,
+    "total_pretres": 20,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

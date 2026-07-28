@@ -1,0 +1,29 @@
+{
+  "id": "ca-batt1",
+  "nom": "Bătdâmbâng",
+  "pays": "ca",
+  "pays_nom": "Cambodia",
+  "continent": "unknown",
+  "type": "Apostolic Prefecture Name: Bătdâmbâng / Battambang / 馬德望 (正體中文) / Battambangen(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Chanthaburi (←), Nakhon Ratchasima (↖), Ubon Ratchathani (↗), Kompong Cham (→), Phnom Penh (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1968.09.23: Established as Apostolic Prefecture of Bătdâmbâng / Battambang / 馬德望 (正體中文) / Battambangen(sis) (Latin) (from Apostolic Vicariate of Phnom Penh)Present PrelatesPrefect Apostolic (2000.04.01 – ...):Fr. Enrique Figaredo Alvargonzalez, S.J. (66)President of Episcopal Conference of Laos and CambodiaOrdinariesPrefects Apostolic of Bătdâmbâng (Roman Rite)Fr. Enrique Figaredo Alvargonzalez, S.J. (66)  (2000.04.01 – ...)Prefect Apostolic of Bătdâmbâng (Cambodia)President of Episcopal Conference of Laos and CambodiaBorn:1959.09.21 (Gijón, Spain)Ordained Priest:1992.07.04Prefect Apostolic of Bătdâmbâng (Cambodia) (2000.04.01 – ...)President of Episcopal Conference of Laos and Cambodia (2024 – ...)Bishop Yves-Georges-René Ramousse, M.E.P.  (Apostolic Administrator 1992 – 2000.04.01)Fr. Paul Tep Im Sotha  (1968.09.26 – 1975.05)Born:1934 (Phnom Penh, Cambodia)Ordained Priest:1959Died:1975.05 († 40)Prefect Apostolic of Bătdâmbâng (Cambodia) (1968.09.26 – 1975.05)Special ChurchesPro-Cathedral:  Pro-Cathedral of the Immaculate Conception, Krong Battambang Show MapChanthaburi (←), Nakhon Ratchasima (↖), Ubon Ratchathani (↗), Kompong Cham (→), Phnom Penh (↘)Statistics (2022.12.31)Area: 81,456 km²Population: 5,520 Catholics (0.1% of 4,610,000 total)Pastoral Centres: 28 parishes, 1 missionPersonnel: 20 priests (6 diocesan, 14 religious), 69 religious (22 brothers, 47 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "batt1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4610000,
+    "catholiques": 5520,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 6,
+    "pretres_religieux": null,
+    "total_pretres": 20,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

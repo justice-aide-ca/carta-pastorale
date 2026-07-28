@@ -1,0 +1,29 @@
+{
+  "id": "tz-tang1",
+  "nom": "Tanga",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Tanga / Tangaën(sis) (Latin)Ecclesiastical Province: Dar-es-SalaamNeighbouring Dioceses: Arusha (←), Same (↖), Mombasa (↑), Zanzibar (↘), Morogoro (↓), Bagamoyo (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1950.04.18: Established as Apostolic Prefecture of Tanga / Tangaën(sis) (Latin) (from Apostolic Vicariate of Kilima-Njaro)1958.02.24: Promoted as Diocese of Tanga / Tangaën(sis) (Latin) (became suffragan of Dar-es-Salaam)Present PrelatesBishop (2023.06.07 – ...):Bishop Thomas John Kiangio (61)Monsignors (10)OrdinariesBishops of Tanga (Roman Rite)Bishop Thomas John Kiangio (61)  (2023.06.07 – ...)Bishop of Tanga (Tanzania)Born:1965.03.17 (Mazinde Ngua, Tanzania)Ordained Priest:1997.07.16Consecrated Bishop:2023.09.03Priest of Tanga (Tanzania) (1997.07.16 – 2023.06.07)Bishop of Tanga (Tanzania) (2023.06.07 – ...)Bishop Anthony Banzi  (1994.06.10 – 2020.12.20)Mekima Umoja AmaniBorn:1946.10.28 (Tawa, Tanzania)Ordained Priest:1973.07.29Consecrated Bishop:1994.09.15Died:2020.12.20 (Dar-es-Salaam, Tanzania † 74)Bishop of Tanga (Tanzania) (1994.06.10 – 2020.12.20)Bishop Telesphore Richard Mkude (80)  (1988.01.18 – 1993.04.05)Bishop emeritus of Morogoro (Tanzania)Swana Noiye Tumaini LangiBorn:1945.11.30 (Pinde, Tanzania)Ordained Priest:1972.07.16Consecrated Bishop:1988.04.26Priest of Morogoro (Tanzania) (1972.07.16 – 1988.01.18)Bishop of Tanga (Tanzania) (1988.01.18 – 1993.04.05)Bishop of Morogoro (Tanzania) (1993.04.05 – 2020.12.30)Bishop Maurus Gervase Komba  (1969.12.15 – 1988.01.18)In cruce salusBorn:1923 (Litembo, Tanzania)Ordained Priest:1954.07.15Consecrated Bishop:1970.03.15Died:1996.02.23 († 72)Bishop of Tanga (Tanzania) (1969.12.15 – 1988.01.18)Bishop Eugène Cornelius Arthurs, I.C.  (1958.02.24 – 1969.12.15)Sub tuum præsidiumBorn:1914.04.09 (Keady, Ireland)Ordained Priest:1943.03.23Consecrated Bishop:1958.08.24Died:1978.02.23 (Ballymena, Ireland † 63)Prefect Apostolic of Tanga (Tanzania) (1950.06.09 – 1958.02.24)Bishop of Tanga (Tanzania) (1958.02.24 – 1969.12.15)Titular Bishop of Tepelta (1969.12.15 – 1976.08.10)Prefects Apostolic of Tanga (Roman Rite)Fr. Eugène Cornelius Arthurs, I.C. (later Bishop)  (1950.06.09 – 1958.02.24)(see above)Special ChurchesCathedral:  Cathedral of St. Anthony, Tanga, Tanga Show MapArusha (←), Same (↖), Mombasa (↑), Zanzibar (↘), Morogoro (↓), Bagamoyo (↓)Statistics (2022.12.31)Area: 27,348 km²Population: 267,768 Catholics (11.3% of 2,368,000 total)Pastoral Centres: 38 parishes, 9 missionsPersonnel: 89 priests (51 diocesan, 38 religious), 877 religious (56 brothers, 821 sisters), 29 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tang1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2368000,
+    "catholiques": 267768,
+    "pourcentage_catholiques": 11.3
+  },
+  "ressources": {
+    "pretres_diocesains": 51,
+    "pretres_religieux": null,
+    "total_pretres": 89,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 38
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

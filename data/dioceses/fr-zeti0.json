@@ -1,0 +1,29 @@
+{
+  "id": "fr-zeti0",
+  "nom": "Saint-Étienne",
+  "pays": "fr",
+  "pays_nom": "France",
+  "continent": "unknown",
+  "type": "Diocese Name: Saint-Étienne (français) / Sancti Stephani (Latin)Ecclesiastical Province: LyonNeighbouring Dioceses: Le Puy-en-Velay (↙), Clermont (←), Lyon (↗), Grenoble–Vienne (→), Viviers (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint StephenLiturgical Calendar (National) 📅History1970.12.26: Established as Diocese of Saint-Étienne (français) / Sancti Stephani (Latin) (from Metropolitan Archdiocese of Lyon and became suffragan of Lyon)Present PrelatesBishop:vacantMonsignors (1)OrdinariesBishops of Saint-Étienne (Roman Rite)Bishop Sylvain Bataille (61) (later Archbishop)  (2016.05.18 – 2025.10.16)Archbishop of Bourges (France)Amour et véritéBorn:1964.07.22 (Soissons, France)Ordained Priest:1989.03.11Consecrated Bishop:2016.07.03Priest of Beauvais (France) (1989.03.11 – 2016.05.18)Bishop of Saint-Étienne (France) (2016.05.18 – 2025.10.16)Archbishop of Bourges (France) (2025.10.16 – ...)Bishop Dominique Lebrun (68) (later Archbishop)  (2006.06.28 – 2015.07.10)Metropolitan Archbishop of Rouen (France)Je vous appelle mes amisBorn:1957.10.10 (Rouen, France)Ordained Priest:1984.06.09Consecrated Bishop:2006.09.09Priest of Saint-Denis (France) (1984.06.09 – 2006.06.28)Bishop of Saint-Étienne (France) (2006.06.28 – 2015.07.10)Metropolitan Archbishop of Rouen (France) (2015.07.10 – ...)Bishop Pierre Jacques Joatton, Prado  (1988.04.20 – 2006.06.28)Dans la foie de marie et les apôtresBorn:1930.07.20 (Lyon, France)Ordained Priest:1957.06.29Consecrated Bishop:1988.06.26Died:2013.11.22 († 83)Bishop of Saint-Étienne (France) (1988.04.20 – 2006.06.28)Bishop Paul-Marie François Rousset, Prado  (1971.02.23 – 1987.09.28)Born:1921.08.27 (Grièges, France)Ordained Priest:1945.02.24Consecrated Bishop:1966.03.06Died:2016.01.09 († 94)Titular Bishop of Utimma (1966.01.24 – 1971.02.23)Auxiliary Bishop of Lyon (France) (1966.01.24 – 1971.02.23)Bishop of Saint-Étienne (France) (1971.02.23 – 1987.09.28)Special ChurchesCathedral:  Cathédrale Saint-Charles Borromé, Saint-Étienne, Loire, Auvergne-Rhône-Alpes Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapLe Puy-en-Velay (↙), Clermont (←), Lyon (↗), Grenoble–Vienne (→), Viviers (↓)Statistics (2022.12.31)Area: 3,035 km²Population: 475,000 Catholics (78.4% of 606,000 total)Pastoral Centres: 26 parishesPersonnel: 95 priests (66 diocesan, 29 religious), 39 deacons, 133 religious (55 brothers, 78 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zeti0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 606000,
+    "catholiques": 475000,
+    "pourcentage_catholiques": 78.4
+  },
+  "ressources": {
+    "pretres_diocesains": 66,
+    "pretres_religieux": null,
+    "total_pretres": 95,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

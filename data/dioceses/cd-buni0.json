@@ -1,0 +1,29 @@
+{
+  "id": "cd-buni0",
+  "nom": "Bunia",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Bunia / Buniaën(sis) (Latin)Ecclesiastical Province: KisanganiNeighbouring Dioceses: Wamba (←), Mahagi–Nioka (↗), Butembo–Beni (↓), Fort Portal (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1922.06.27: Established as Apostolic Prefecture of Lac Albert (français) / Lake Albert (English) / Lacus Alberti in Africa Centrali (Latin) (from Apostolic Vicariate of Stanley Falls and Apostolic Vicariate of Uganda)1933.12.16: Promoted as Apostolic Vicariate of Lac Albert (français) / Lake Albert (English) / Lacus Alberti in Africa Centrali (Latin)1959.11.10: Promoted as Diocese of Bunia / Buniaën(sis) (Latin) (became suffragan of Stanleyville)1962.07.02: Lost territory to establish Diocese of MahagiContact InfoAddress: Evêqué, B.P. 19, Bunia, Haut-Congo, Congo-KinshasaPhone: (099)401.01.12Present PrelatesBishop (2005.04.01 – ...):Bishop Dieudonné Uringi Uuci (68)OrdinariesBishops of Bunia (Roman Rite)Bishop Dieudonné Uringi Uuci (68)  (2005.04.01 – ...)Bishop of Bunia (Congo-Kinshasa)Fiat voluntas tuaBorn:1957.10.28 (Bunia, Congo-Kinshasa)Ordained Priest:1984.09.25Consecrated Bishop:2005.06.24Priest of Bunia (Congo-Kinshasa) (1984.09.25 – 2005.04.01)Bishop of Bunia (Congo-Kinshasa) (2005.04.01 – ...)Bishop Janvier Kataka Luvete (79)  (Apostolic Administrator 2002.04.06 – 2005.04.01)Bishop Léonard Dhejju  (1984.07.02 – 2002.04.06)ServiamBorn:1931.03.14 (Dele, Congo-Kinshasa)Ordained Priest:1959.08.23Consecrated Bishop:1981.07.19Died:2019.06.04 (Bunia, Congo-Kinshasa † 88)Priest of Bunia (Congo-Kinshasa) (1959.08.23 – 1981.03.26)Bishop of Uvira (Congo-Kinshasa) (1981.03.26 – 1984.07.02)Bishop of Bunia (Congo-Kinshasa) (1984.07.02 – 2002.04.06)Bishop Gabriel Ukec  (1964.09.29 – 1984.07.02)Born:1914 (Avogira, Congo-Kinshasa)Ordained Priest:1943.08.15Consecrated Bishop:1965.06.06Died:1985.11.01 († 70)Priest of Bunia (Congo-Kinshasa) (1943.08.15 – 1964.09.29)Bishop of Bunia (Congo-Kinshasa) (1964.09.29 – 1984.07.02)Apostolic Administrator of Mahagi–Nioka (Congo-Kinshasa) (1979.10.10 – 1980.09)Bishop Alphonse Joseph Matthijsen, M. Afr.  (1959.11.10 – 1963.08.19)Born:1890.11.27 (Hoogboom-Eeckeren, France)Ordained Priest:1915.09.08Consecrated Bishop:1934.02.25Died:1963.08.19 (Bunia, Congo-Kinshasa † 72)Prefect Apostolic of Lac Albert (Congo-Kinshasa) (1922.06.21 – 1933.12.16)Titular Bishop of Berenice (1933.12.16 – 1959.11.10)Vicar Apostolic of Lac Albert (Congo-Kinshasa) (1933.12.16 – 1959.11.10)Bishop of Bunia (Congo-Kinshasa) (1959.11.10 – 1963.08.19)Vicars Apostolic of Lac Albert (Roman Rite)Bishop Alphonse Joseph Matthijsen, M. Afr.  (1933.12.16 – 1959.11.10)(see above)Prefects Apostolic of Lac Albert (Roman Rite)Fr. Alphonse Joseph Matthijsen, M. Afr. (later Bishop)  (1922.06.21 – 1933.12.16)(see above)Special ChurchesCathedral:  Cathédrale Notre-Dame des Grâces, Bunia, Ituri Show MapWamba (←), Mahagi–Nioka (↗), Butembo–Beni (↓), Fort Portal (↓)Statistics (2022.12.31)Area: 22,470 km²Population: 648,915 Catholics (54.0% of 1,202,684 total)Pastoral Centres: 23 parishes, 4 missionsPersonnel: 100 priests (87 diocesan, 13 religious), 240 religious (35 brothers, 205 sisters), 108 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "buni0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1202684,
+    "catholiques": 648915,
+    "pourcentage_catholiques": 54.0
+  },
+  "ressources": {
+    "pretres_diocesains": 87,
+    "pretres_religieux": null,
+    "total_pretres": 100,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

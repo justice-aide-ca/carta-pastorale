@@ -1,0 +1,29 @@
+{
+  "id": "py-caaz0",
+  "nom": "Caazapá",
+  "pays": "py",
+  "pays_nom": "Paraguay",
+  "continent": "amerique",
+  "type": "Diocese Name: Caazapá (español)Ecclesiastical Province: AsunciónNeighbouring Dioceses: San Juan Bautista (↙), Carapeguá (↖), Villarrica (↑), Coronel Oviedo (↗), Ciudad del Este (→), Encarnación (↘)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History2025.03.22: Established as Diocese of Caazapá (español) (from Diocese of Villarrica and became suffragan of Asunción)Present PrelatesBishop (2025.03.22 – ...):Bishop Marcelo Benítez Martínez, O.F.M. (69)OrdinariesBishops of Caazapá (Roman Rite)Bishop Marcelo Benítez Martínez, O.F.M. (69)  (2025.03.22 – ...)Bishop of Caazapá (Paraguay)Para que tengan vidaBorn:1956.09.06 (Santa María, Caazapá, Paraguay)Ordained Priest:1994.04.09Consecrated Bishop:2025.05.10Bishop of Caazapá (Paraguay) (2025.03.22 – ...)Special ChurchesCathedral:  Catedral San Pablo, Caazapá, Caazapá Churches by City (16)Show MapSan Juan Bautista (↙), Carapeguá (↖), Villarrica (↑), Coronel Oviedo (↗), Ciudad del Este (→), Encarnación (↘)Statistics (2025)Area: 9,496 km²Population: 171,170 Catholics (88.0% of 194,512 total)Pastoral Centres: 15 parishesPersonnel: 20 priests (18 diocesan, 2 religious), 39 deacons, 6 religious (6 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "caaz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 194512,
+    "catholiques": 171170,
+    "pourcentage_catholiques": 88.0
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 20,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

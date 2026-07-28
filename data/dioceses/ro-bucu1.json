@@ -1,0 +1,29 @@
+{
+  "id": "ro-bucu1",
+  "nom": "Sfântul Vasile cel Mare de Bucureşti",
+  "pays": "ro",
+  "pays_nom": "Romania",
+  "continent": "unknown",
+  "type": "Diocese Name: Sfântul Vasile cel Mare de Bucureşti (română) / Saint Basil the Great of Bucharest (English) / San Basilio Magno di Bucarest (Italiano) / Sanctus Basilius Magnus Bucarestien(sis) Romenorum (Latin)Ecclesiastical Province: Făgăraş şi Alba IuliaNeighbouring Dioceses: Saint John XXIII of Sofia (↙), Făgăraş şi Alba Iulia (↖), Odessa (↗)Depends on: Dicastery for the Eastern ChurchesWebsite: History2014.05.29: Established as Diocese of Sfântul Vasile cel Mare de Bucureşti (română) / Saint Basil the Great of Bucharest (English) / San Basilio Magno di Bucarest (Italiano) / Sanctus Basilius Magnus Bucarestien(sis) Romenorum (Latin) (from Metropolitan Archdiocese of Făgăraş şi Alba Iulia and became suffragan of Făgăraş şi Alba Iulia)Present PrelatesBishop (2014.05.29 – ...):Bishop Mihai Cătălin Frăţilă (55)Monsignors (1)OrdinariesBishops of Sfântul Vasile cel Mare de Bucureşti (Romanian Rite)Bishop Mihai Cătălin Frăţilă (55)  (2014.05.29 – ...)Bishop of Sfântul Vasile cel Mare de Bucureşti of the Romanians (Romania)Born:1970.12.10 (Alba Iulia, Romania)Ordained Priest:1996.08.11Consecrated Bishop:2007.12.16Priest of Făgăraş şi Alba Iulia of the Romanians (Romania) (1996.08.11 – 2007.10.27)Titular Bishop of Novæ (2007.10.27 – 2014.05.29)Auxiliary Bishop of Făgăraş şi Alba Iulia of the Romanians (Romania) (2007.10.27 – 2014.05.29)Bishop of Sfântul Vasile cel Mare de Bucureşti of the Romanians (Romania) (2014.05.29 – ...)Special ChurchesCathedral:  Catedrala Greco-Catolică Sf. Vasile cel Mare, Bucureşti, Bucureşti Show MapSaint John XXIII of Sofia (↙), Făgăraş şi Alba Iulia (↖), Odessa (↗)Statistics (2022.12.31)Population: 8,920 CatholicsPastoral Centres: 15 parishesPersonnel: 17 priests (15 diocesan, 2 religious), 26 religious (4 brothers, 22 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bucu1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 15,
+    "pretres_religieux": null,
+    "total_pretres": 17,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

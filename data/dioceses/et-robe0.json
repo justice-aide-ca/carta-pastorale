@@ -1,0 +1,29 @@
+{
+  "id": "et-robe0",
+  "nom": "Robe",
+  "pays": "et",
+  "pays_nom": "Ethiopia",
+  "continent": "unknown",
+  "type": "Apostolic Prefecture Name: Robe / Roben(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Awasa (←), Meki (↖), Harar (↗), Mogadishu (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2012.02.11: Established as Apostolic Prefecture of Robe / Roben(sis) (Latin) (from Apostolic Vicariate of Meki)Present PrelatesPrefect Apostolic (2012.02.11 – ...):Fr. Angelo Antolini, O.F.M. Cap. (73)OrdinariesPrefects Apostolic of Robe (Roman Rite)Fr. Angelo Antolini, O.F.M. Cap. (73)  (2012.02.11 – ...)Prefect Apostolic of Robe (Ethiopia)Born:1953.05.24 (Santa Vittoria in Matenano, Italy)Ordained Priest:1977.09.17Prefect Apostolic of Robe (Ethiopia) (2012.02.11 – ...)Special ChurchesCathedral:  Cathedral of Emmanuel, Robe Show MapAwasa (←), Meki (↖), Harar (↗), Mogadishu (↘)Statistics (2022.12.31)Area: 103,769 km²Population: 1,113 Catholics (0.0% of 3,898,793 total)Pastoral Centres: 6 parishes, 2 missionsPersonnel: 8 priests (2 diocesan, 6 religious), 18 religious (6 brothers, 12 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "robe0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3898793,
+    "catholiques": 1113,
+    "pourcentage_catholiques": 0.0
+  },
+  "ressources": {
+    "pretres_diocesains": 2,
+    "pretres_religieux": null,
+    "total_pretres": 8,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

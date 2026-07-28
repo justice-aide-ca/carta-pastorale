@@ -1,0 +1,29 @@
+{
+  "id": "cn-sian1",
+  "nom": "Xiangyang 襄陽",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Xiangyang 襄陽 (中文) / Siangyang / Xiāngyáng 襄阳 (简体中文) / Siamiamen(sis) (Latin)Ecclesiastical Province: Hankou 漢口Neighbouring Dioceses: Yichang 宜昌 (↙), Laohekou 老河口 (←), Nanyang 南陽 (↑), Suixian 隨縣 (→), Hanyang 漢陽 (↘)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Xiangfan 襄樊 CelebrationsLiturgical Calendar (Universal) 📅History1936.05.25: Established as Apostolic Prefecture of Xiangyang 襄陽 (中文) / Siangyang / Xiāngyáng 襄阳 (简体中文) / de Siangyang (Latin) (from Apostolic Vicariate of Laohekou 老河口)1951.05.10: Promoted as Diocese of Xiangyang 襄陽 (中文) / Siangyang / Xiāngyáng 襄阳 (简体中文) / Siamiamen(sis) (Latin) (became suffragan of Hankou 漢口)Present PrelatesBishop:vacantOrdinariesBishops of Xiangyang 襄陽 (Roman Rite)Bishop Francis Yi Xuan-hua (Yi Hsüan-hua) (易宣化)  (1951.05.10 – 1974)Born:1900.11.18 (Chayüankow, China)Ordained Priest:1926.02.14Consecrated Bishop:1951.05.17Died:1974 († 74)Prefect Apostolic of Xiangyang 襄陽 (China) (1936.05.25 – 1951.05.10)Bishop of Xiangyang 襄陽 (China) (1951.05.10 – 1974)Prefects Apostolic of Xiangyang 襄陽 (Roman Rite)Fr. Francis Yi Xuan-hua (Yi Hsüan-hua) (易宣化) (later Bishop)  (1936.05.25 – 1951.05.10)(see above)Special ChurchesCathedral:  Cathedral of the Holy Rosary, Xiangyang 襄阳, Hubei Jubilee Churches in the Holy Year 2025Show MapYichang 宜昌 (↙), Laohekou 老河口 (←), Nanyang 南陽 (↑), Suixian 隨縣 (→), Hanyang 漢陽 (↘)Statistics (1949.12.31)Area: 15,000 km²Population: 19,646 Catholics (1.3% of 1,560,000 total)Pastoral Centres: 14 parishes, 51 missionsPersonnel: 22 priests (19 diocesan, 3 religious), 36 religious (3 brothers, 33 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sian1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1560000,
+    "catholiques": 19646,
+    "pourcentage_catholiques": 1.3
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 22,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "co-chiq0",
+  "nom": "Chiquinquirá",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Chiquinquirá / Chiquinquiren(sis) (Latin)Ecclesiastical Province: TunjaNeighbouring Dioceses: La Dorada–Guaduas (←), Barrancabermeja (↑), Vélez (↑), Socorro y San Gil (↗), Tunja (→), Zipaquirá (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1977.04.26: Established as Diocese of Chiquinquirá / Chiquinquiren(sis) (Latin) (from Metropolitan Archdiocese of Tunja and became suffragan of Tunja)Papal VisitsPope John Paul II (1986.07)Present PrelatesBishop (2025.06.06 – ...):Bishop Ramón Alberto Rolón Güepsa (67)Monsignors (5)OrdinariesBishops of Chiquinquirá (Roman Rite)Bishop Ramón Alberto Rolón Güepsa (67)  (2025.06.06 – ...)Bishop of Chiquinquirá (Colombia)Born:1959.02.28 (Arboledas, Colombia)Ordained Priest:1984.12.08Consecrated Bishop:2012.12.01Priest of Nueva Pamplona (Colombia) (1984.12.08 – 2012.10.27)Bishop of Montería (Colombia) (2012.10.27 – 2025.06.06)Bishop of Chiquinquirá (Colombia) (2025.06.06 – ...)Bishop Luis Felipe Sánchez Aponte (79)  (2004.02.11 – 2025.06.06)Bishop emeritus of Chiquinquirá (Colombia)Born:1947.05.11 (Samacá, Colombia)Ordained Priest:1973.09.28Consecrated Bishop:2004.04.22Priest of Garagoa (Colombia) (1973.09.28 – 2004.02.11)Bishop of Chiquinquirá (Colombia) (2004.02.11 – 2025.06.06)Bishop Héctor Luis Gutiérrez Pabón  (1998.02.02 – 2003.08.06)Prædica verbum oportuna et inoportunaBorn:1937.05.17 (Caqueza, Colombia)Ordained Priest:1962.09.22Consecrated Bishop:1987.03.25Died:2024.12.02 (Bogotá, Colombia † 87)Priest of Bogotá (Colombia) (1962.09.22 – 1987.02.13)Titular Bishop of Segia (1987.02.13 – 1998.02.02)Auxiliary Bishop of Cali (Colombia) (1987.02.13 – 1998.02.02)Bishop of Chiquinquirá (Colombia) (1998.02.02 – 2003.08.06)Bishop of Engativá (Colombia) (2003.08.06 – 2015.06.26)Bishop Alvaro Raúl Jarro Tobos  (1984.06.19 – 1997.06.24)Born:1930.09.07 (Nobsa, Colombia)Ordained Priest:1954.12.08Consecrated Bishop:1984.08.15Died:2004.08.11 († 73)Bishop of Chiquinquirá (Colombia) (1984.06.19 – 1997.06.24)Titular Bishop of Thasbalta (1997.06.24 – 1998.03.07)Military Ordinary of Colombia (Colombia) (1997.06.24 – 2001.01.19)Bishop Alberto Giraldo Jaramillo, P.S.S. (later Archbishop)  (1977.04.26 – 1983.07.26)Que todos sean unoBorn:1934.10.07 (Manizales, Colombia)Ordained Priest:1958.11.09Consecrated Bishop:1974.09.15Died:2021.07.21 (Pereira, Colombia † 86)Titular Bishop of Obba (1974.08.08 – 1977.04.26)Auxiliary Bishop of Popayán (Colombia) (1974.08.08 – 1977.04.26)Bishop of Chiquinquirá (Colombia) (1977.04.26 – 1983.07.26)Bishop of Cúcuta (Colombia) (1983.07.26 – 1990.12.18)Metropolitan Archbishop of Popayán (Colombia) (1990.12.18 – 1997.02.13)President of Episcopal Conference of Colombia (1996 – 2002)Metropolitan Archbishop of Medellín (Colombia) (1997.02.13 – 2010.02.16)Apostolic Administrator of Cartago (Colombia) (2010.05 – 2010.10.21)Special ChurchesCathedral:  Catedral del Sagrado Corazón de Jesús, Chiquinquirá, Boyacá Minor Basilica:  Basílica de Nuestra Señora del Rosario, Moniquirá, Boyacá Minor Basilica, National Shrine:  Basílica de Nuestra Señora del Rosario de Chiquinquirá, Chiquinquirá, Boyacá Jubilee Churches in the Holy Year 2025Show MapLa Dorada–Guaduas (←), Barrancabermeja (↑), Vélez (↑), Socorro y San Gil (↗), Tunja (→), Zipaquirá (↓)Statistics (2022.12.31)Area: 4,019 km²Population: 236,120 Catholics (96.9% of 243,650 total)Pastoral Centres: 41 parishes, 2 missionsPersonnel: 116 priests (82 diocesan, 34 religious), 14 deacons, 197 religious (72 brothers, 125 sisters), 12 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chiq0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 243650,
+    "catholiques": 236120,
+    "pourcentage_catholiques": 96.9
+  },
+  "ressources": {
+    "pretres_diocesains": 82,
+    "pretres_religieux": null,
+    "total_pretres": 116,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 41
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

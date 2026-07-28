@@ -1,0 +1,29 @@
+{
+  "id": "my-mind2",
+  "nom": "Mindat",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Mindat / Mindatin(us) (Latin)Ecclesiastical Province: MandalayNeighbouring Dioceses: Aizawl (←), Hakha (↖), Kalay (↑), Mandalay (→), Pyay (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2025.01.25: Established as Diocese of Mindat / Mindatin(us) (Latin) (from Diocese of Hakha and became suffragan of Mandalay)Present PrelatesBishop (2025.01.25 – ...):Bishop Augustine Thang Zawm Hung (52)OrdinariesBishops of Mindat (Roman Rite)Bishop Augustine Thang Zawm Hung (52)  (2025.01.25 – ...)Bishop of Mindat (Myanmar)Pasce agnos meosBorn:1973.12.04 (Mindat, Myanmar)Ordained Priest:2002.11.17Consecrated Bishop:2025.04.27Priest of Hakha (Myanmar) (2002.11.17 – 2025.01.25)Bishop of Mindat (Myanmar) (2025.01.25 – ...)Special ChurchesCathedral:  Cathedral of the Sacred Heart of Jesus, Mindat, Chin Show MapAizawl (←), Hakha (↖), Kalay (↑), Mandalay (→), Pyay (↓)Statistics (2025)Area: 17,156 km²Population: 14,394 Catholics (4.0% of 358,866 total)Pastoral Centres: 23 parishesPersonnel: 48 priests (diocesan), 24 religious (3 brothers, 21 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mind2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 358866,
+    "catholiques": 14394,
+    "pourcentage_catholiques": 4.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

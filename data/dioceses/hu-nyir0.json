@@ -1,0 +1,29 @@
+{
+  "id": "hu-nyir0",
+  "nom": "Nyíregyháza",
+  "pays": "hu",
+  "pays_nom": "Hungary",
+  "continent": "unknown",
+  "type": "Diocese Name: Nyíregyháza (Magyar) / Nyiregyhazan(us) (Latin)Ecclesiastical Province: HajdúdorogNeighbouring Dioceses: Hajdúdorog (↙), Miskolc (←), Košice (↑), Mukačeve (↗), Maramureş (→), Oradea Mare (↓)Depends on: Dicastery for the Eastern ChurchesWebsites: History2015.03.20: Established as Diocese of Nyíregyháza (Magyar) / Nyiregyhazan(us) (Latin) (from Diocese of Hajdúdorog and became suffragan of Hajdúdorog)Present PrelatesBishop (2018.04.07 – ...):Bishop Ábel Antal Szocska, O.S.B.M. (53)OrdinariesBishops of Nyíregyháza (Hungarian Rite)Bishop Ábel Antal Szocska, O.S.B.M. (53)  (2018.04.07 – ...)Bishop of Nyíregyháza of the Hungarians (Hungary)SegítségeddelBorn:1972.09.21 (Vynohradiv, Ukraine)Ordained Priest:2001.09.30Consecrated Bishop:2018.05.10Apostolic Administrator of Nyíregyháza of the Hungarians (Hungary) (2015.10.31 – 2018.04.07)Bishop of Nyíregyháza of the Hungarians (Hungary) (2018.04.07 – ...)Fr. Ábel Antal Szocska, O.S.B.M. (53) (later Bishop)  (Apostolic Administrator 2015.10.31 – 2018.04.07)Bishop Atanáz Orosz (66)  (Apostolic Administrator 2015.03.20 – 2015.10.31)Special ChurchesCathedral:  Szent Miklós Görögkatolikus székesegyház, Nyiregyháza, Nyíregyháza, Szabolcs-Szatmár-Bereg Minor Basilica, National Shrine:  Görög Katolikus Lelkészi Hivatal Kegytemplom, Máriapócs, Szabolcs-Szatmár-Bereg Jubilee Churches in the Holy Year 2025Show MapHajdúdorog (↙), Miskolc (←), Košice (↑), Mukačeve (↗), Maramureş (→), Oradea Mare (↓)Statistics (2022.12.31)Area: 5,936 km²Population: 99,821 Catholics (18.3% of 545,450 total)Pastoral Centres: 86 parishes, 5 missionsPersonnel: 124 priests (118 diocesan, 6 religious), 8 religious (6 brothers, 2 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nyir0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 545450,
+    "catholiques": 99821,
+    "pourcentage_catholiques": 18.3
+  },
+  "ressources": {
+    "pretres_diocesains": 118,
+    "pretres_religieux": null,
+    "total_pretres": 124,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 86
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

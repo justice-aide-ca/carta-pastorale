@@ -1,0 +1,29 @@
+{
+  "id": "ba-bari3",
+  "nom": "Barishal",
+  "pays": "ba",
+  "pays_nom": "Bangladesh",
+  "continent": "unknown",
+  "type": "Diocese Name: Barishal / Barisalen(sis) (Latin)Ecclesiastical Province: ChattogramNeighbouring Dioceses: Khulna (↖), Dhaka (↑), Agartala (↗), Chattogram (→)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint PeterLiturgical Calendar (Universal) 📅History2015.12.29: Established as Diocese of Barisal / Barisalen(sis) (Latin) (from Diocese of Chittagong and became suffragan of Dhaka)2017.02.02: Became suffragan of Chittagong2018.12.28: Renamed as Diocese of Barishal / Barisalen(sis) (Latin)Present PrelatesBishop (2022.06.21 – ...):Bishop Emmanuel Kanon Rozario (63)Monsignors (1)OrdinariesBishops of Barishal (Roman Rite)Bishop Emmanuel Kanon Rozario (63)  (2022.06.21 – ...)Bishop of Barishal (Bangladesh)Born:1963.02.08 (Pabna, Bangladesh)Ordained Priest:1993.12.28Consecrated Bishop:2022.08.19Priest of Rajshahi (Bangladesh) (1993.12.28 – 2022.06.21)Bishop of Barishal (Bangladesh) (2022.06.21 – ...)Archbishop Lawrence Subrata Howlader, C.S.C. (60)  (Apostolic Administrator 2021.02.19 – 2022.06.21)Bishop Lawrence Subrata Howlader, C.S.C. (60) (later Archbishop)  (2018.12.28 – 2021.02.19)Metropolitan Archbishop of Chattogram (Bangladesh)Let’s enter in the house of the LordBorn:1965.09.11 (Noborgram, Bangladesh)Ordained Priest:1994.12.31Consecrated Bishop:2009.07.03Titular Bishop of Afufenia (2009.05.07 – 2015.12.29)Auxiliary Bishop of Chittagong (Bangladesh) (2009.05.07 – 2015.12.29)Bishop of Barisal (Bangladesh) (2015.12.29 – 2018.12.28)Bishop of Barishal (Bangladesh) (2018.12.28 – 2021.02.19)Apostolic Administrator of Barishal (Bangladesh) (2021.02.19 – 2022.06.21)Metropolitan Archbishop of Chattogram (Bangladesh) (2021.02.19 – ...)Bishops of Barisal (Roman Rite)Bishop Lawrence Subrata Howlader, C.S.C. (60) (later Archbishop)  (2015.12.29 – 2018.12.28)(see above)Special ChurchesCathedral:  St. Peter’s Cathedral, Barishal, Barishal Show MapKhulna (↖), Dhaka (↑), Agartala (↗), Chattogram (→)Statistics (2022.12.31)Area: 20,708 km²Population: 19,567 Catholics (0.1% of 15,183,927 total)Pastoral Centres: 9 parishes, 1 missionPersonnel: 24 priests (19 diocesan, 5 religious), 53 religious (9 brothers, 44 sisters), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bari3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 15183927,
+    "catholiques": 19567,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 19,
+    "pretres_religieux": null,
+    "total_pretres": 24,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 9
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

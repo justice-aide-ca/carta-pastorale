@@ -1,0 +1,29 @@
+{
+  "id": "tz-sing1",
+  "nom": "Singida",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Singida / Singidaën(sis) (Latin)Ecclesiastical Province: DodomaNeighbouring Dioceses: Mpanda (↙), Tabora (←), Bariadi (↑), Mbulu (↗), Kondoa (→), Mbeya (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1972.03.25: Established as Diocese of Singida / Singidaën(sis) (Latin) (from Metropolitan Archdiocese of Tabora, Diocese of Dodoma, Diocese of Mbeya and Diocese of Mbulu and became suffragan of Tabora)2014.11.06: Became suffragan of DodomaPresent PrelatesBishop (2015.04.28 – ...):Bishop Edward Elias Mapunda (61)OrdinariesBishops of Singida (Roman Rite)Bishop Edward Elias Mapunda (61)  (2015.04.28 – ...)Bishop of Singida (Tanzania)Unitas et amore / Umoja na mapendoBorn:1964.09.30 (Mango, Tanzania)Ordained Priest:1997.11.23Consecrated Bishop:2015.07.05Priest of Singida (Tanzania) (1997.11.23 – 2015.04.28)Bishop of Singida (Tanzania) (2015.04.28 – ...)Bishop Desiderius Rwoma (79)  (Apostolic Administrator 2013.01.15 – 2015.04.28)Bishop Desiderius Rwoma (79)  (1999.04.19 – 2013.01.15)Bishop emeritus of Bukoba (Tanzania)Fidelitas et humilitasBorn:1947.05.08 (Ilogero, Tanzania)Ordained Priest:1974.07.28Consecrated Bishop:1999.07.11Priest of Bukoba (Tanzania) (1974.07.28 – 1999.04.19)Bishop of Singida (Tanzania) (1999.04.19 – 2013.01.15)Apostolic Administrator of Singida (Tanzania) (2013.01.15 – 2015.04.28)Bishop of Bukoba (Tanzania) (2013.01.15 – 2022.10.01)Bishop Bernard Mabula  (1972.03.25 – 1999.04.19)Born:1920 (Bugoda, Tanzania)Ordained Priest:1952.08.15Consecrated Bishop:1969.05.04Died:2007.02.24 († 86)Titular Bishop of Fidoloma (1969.01.09 – 1972.03.25)Auxiliary Bishop of Tabora (Tanzania) (1969.01.09 – 1972.03.25)Bishop of Singida (Tanzania) (1972.03.25 – 1999.04.19)Special ChurchesCathedral:  Cathedral of the Holy Ghost, Singida, Singida Show MapMpanda (↙), Tabora (←), Bariadi (↑), Mbulu (↗), Kondoa (→), Mbeya (↓)Statistics (2022.12.31)Area: 49,345 km²Population: 199,620 Catholics (9.9% of 2,008,058 total)Pastoral Centres: 30 parishesPersonnel: 88 priests (62 diocesan, 26 religious), 406 religious (45 brothers, 361 sisters), 55 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sing1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2008058,
+    "catholiques": 199620,
+    "pourcentage_catholiques": 9.9
+  },
+  "ressources": {
+    "pretres_diocesains": 62,
+    "pretres_religieux": null,
+    "total_pretres": 88,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

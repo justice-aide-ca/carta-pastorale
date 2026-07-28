@@ -1,0 +1,29 @@
+{
+  "id": "cm-yago0",
+  "nom": "Yagoua",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Yagoua / Yaguan(us) (Latin)Ecclesiastical Province: GarouaNeighbouring Dioceses: Garoua (↙), Maroua–Mokolo (←), Maiduguri (↖), N’Djaména (↗), Pala (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1968.03.11: Established as Apostolic Prefecture of Yagoua / Yaguan(us) (Latin) (from Diocese of Garoua)1973.01.29: Promoted as Diocese of Yagoua / Yaguan(us) (Latin) (became suffragan of Yaoundé)1982.03.18: Became suffragan of GarouaPresent PrelatesBishop (2008.05.31 – ...):Bishop Barthélemy Yaouda Hourgo (62)OrdinariesBishops of Yagoua (Roman Rite)Bishop Barthélemy Yaouda Hourgo (62)  (2008.05.31 – ...)Bishop of Yagoua (Cameroon)Gratia autem Dei sum id quod sumBorn:1964.01.31 (Mayo-Ouldémé, Cameroon)Ordained Priest:1997.11.08Consecrated Bishop:2008.10.01Priest of Maroua–Mokolo (Cameroon) (1997.11.08 – 2008.05.31)Apostolic Administrator of Yagoua (Cameroon) (2007.02 – 2008.05.31)Bishop of Yagoua (Cameroon) (2008.05.31 – ...)Fr. Barthélemy Yaouda Hourgo (62) (later Bishop)  (Apostolic Administrator 2007.02 – 2008.05.31)Bishop Emmanuel Bushu (81)  (1992.12.17 – 2006.11.30)Bishop emeritus of Buéa (Cameroon)Sapientia et voluntas DeiBorn:1944.07.31 (Ngorim, Cameroon)Ordained Priest:1973.01.07Consecrated Bishop:1993.03.25Bishop of Yagoua (Cameroon) (1992.12.17 – 2006.11.30)Bishop of Buéa (Cameroon) (2006.11.30 – 2019.12.28)Bishop Antoine Ntalou (86) (later Archbishop)  (1982.11.19 – 1992.01.23)Metropolitan Archbishop emeritus of Garoua (Cameroon)Servir avec amourBorn:1940.04.28 (Bandounga, Cameroon)Ordained Priest:1970.02.08Consecrated Bishop:1983.03.13Bishop of Yagoua (Cameroon) (1982.11.19 – 1992.01.23)Metropolitan Archbishop of Garoua (Cameroon) (1992.01.23 – 2016.10.22)Bishop Christian Wiyghan Tumi (later Cardinal)  (1979.12.06 – 1982.11.19)Me voici je viens faire ta volontéBorn:1930.10.15 (Way’ngoylum, Cameroon)Ordained Priest:1966.04.17Consecrated Bishop:1980.01.06Created Cardinal:1988.06.28Died:2021.04.02 (Doula, Cameroon † 90)Priest of Buéa (Cameroon) (1966.04.17 – 1979.12.06)Bishop of Yagoua (Cameroon) (1979.12.06 – 1982.11.19)Vice-President of National Episcopal Conference of Cameroon (1982.04.23 – 1985)Coadjutor Archbishop of Garoua (Cameroon) (1982.11.19 – 1984.03.17)Metropolitan Archbishop of Garoua (Cameroon) (1984.03.17 – 1991.08.31)President of National Episcopal Conference of Cameroon (1985 – 1991)Cardinal-Priest of Ss. Martiri dell’Uganda a Poggio Ameno (1988.06.28 – 2021.04.02)President of Symposium of Episcopal Conferences of Africa and Madagascar (1990 – 1994)Metropolitan Archbishop of Douala (Cameroon) (1991.08.31 – 2009.11.17)Bishop Louis Charpenet, O.M.I.  (1973.01.29 – 1977.12.05)Born:1927.04.18 (Varetz, France)Ordained Priest:1951.09.29Consecrated Bishop:1973.07.01Died:1977.12.05 († 50)Prefect Apostolic of Yagoua (Cameroon) (1968.03.11 – 1973.01.29)Bishop of Yagoua (Cameroon) (1973.01.29 – 1977.12.05)Prefects Apostolic of Yagoua (Roman Rite)Fr. Louis Charpenet, O.M.I. (later Bishop)  (1968.03.11 – 1973.01.29)(see above)Special ChurchesCathedral:  Cathédrale Sainte-Anne, Yagoua, Far North Show MapGaroua (↙), Maroua–Mokolo (←), Maiduguri (↖), N’Djaména (↗), Pala (↓)Statistics (2022.12.31)Area: 22,469 km²Population: 133,000 Catholics (5.9% of 2,241,000 total)Pastoral Centres: 32 parishesPersonnel: 59 priests (41 diocesan, 18 religious), 76 religious (26 brothers, 50 sisters), 33 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "yago0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2241000,
+    "catholiques": 133000,
+    "pourcentage_catholiques": 5.9
+  },
+  "ressources": {
+    "pretres_diocesains": 41,
+    "pretres_religieux": null,
+    "total_pretres": 59,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

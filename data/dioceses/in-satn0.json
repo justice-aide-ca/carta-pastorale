@@ -1,0 +1,29 @@
+{
+  "id": "in-satn0",
+  "nom": "Satna",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Satna / Satnen(sis) (Latin)Ecclesiastical Province: UjjainNeighbouring Dioceses: Sagar (↙), Jabalpur (↙), Jhansi (↖), Allahabad (↗), Ambikapur (↘)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint Vincent de PaulHistory1968.07.29: Established as Apostolic Exarchate of Satna / Satnen(sis) (Latin) (from Diocese of Jabalpur and became suffragan of Bhopal)1977.02.26: Promoted as Diocese of Satna / Satnen(sis) (Latin)2025.08.28: Gained territory from Diocese of Shamshabad and became suffragan of UjjainPresent PrelatesBishop (2015.07.22 – ...):Bishop Joseph Kodakallil (60)OrdinariesBishops of Satna (Syro-Malabar Rite)Bishop Joseph Kodakallil (60)  (2015.07.22 – ...)Bishop of Satna of the Syro-Malabars (India)Born:1965.12.18 (Upputhode, India)Ordained Priest:1991.12.31Consecrated Bishop:2015.09.15Priest of Satna of the Syro-Malabars (India) (1991.12.31 – 2015.07.22)Bishop of Satna of the Syro-Malabars (India) (2015.07.22 – ...)Bishop Mathew Vaniakizhakel, C.V. (80)  (1999.12.18 – 2014.08.27)Bishop emeritus of Satna of the Syro-Malabars (India)Born:1945.12.23 (Kaithappara, India)Ordained Priest:1972.12.18Consecrated Bishop:2000.04.12Bishop of Satna of the Syro-Malabars (India) (1999.12.18 – 2014.08.27)Bishop Abraham D. Mattam, C.V.  (1977.02.26 – 1999.12.18)Born:1922.11.21 (Narianganam, India)Ordained Priest:1950.03.15Consecrated Bishop:1977.04.30Died:2019.04.16 (Kochi, India † 96)Apostolic Exarch of Satna of the Syro-Malabars (India) (1968.07.29 – 1977.02.26)Bishop of Satna of the Syro-Malabars (India) (1977.02.26 – 1999.12.18)Apostolic Exarchs of Satna (Syro-Malabar Rite)Fr. Abraham D. Mattam, C.V. (later Bishop)  (1968.07.29 – 1977.02.26)(see above)Special ChurchesCathedral:  Cathedral of St. Vincent, Satna, Madhya Pradesh Show MapSagar (↙), Jabalpur (↙), Jhansi (↖), Allahabad (↗), Ambikapur (↘)Statistics (2022.12.31)Area: 44,158 km²Population: 2,836 Catholics (0.0% of 11,085,760 total)Pastoral Centres: 16 parishes, 9 missionsPersonnel: 59 priests (43 diocesan, 16 religious), 166 religious (24 brothers, 142 sisters), 5 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "satn0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 11085760,
+    "catholiques": 2836,
+    "pourcentage_catholiques": 0.0
+  },
+  "ressources": {
+    "pretres_diocesains": 43,
+    "pretres_religieux": null,
+    "total_pretres": 59,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

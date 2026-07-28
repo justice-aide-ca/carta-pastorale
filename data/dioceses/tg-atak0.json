@@ -1,0 +1,29 @@
+{
+  "id": "tg-atak0",
+  "nom": "Atakpamé",
+  "pays": "tg",
+  "pays_nom": "Togo",
+  "continent": "unknown",
+  "type": "Diocese Name: Atakpamé / Atakpamen(sis) (Latin)Ecclesiastical Province: LoméNeighbouring Dioceses: Kpalimé (↙), Jasikan (←), Sokodé (↑), Dassa-Zoumé (→), Abomey (→), Lokossa (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1964.09.29: Established as Diocese of Atakpamé / Atakpamen(sis) (Latin) (from Metropolitan Archdiocese of Lomé and became suffragan of Lomé)Present PrelatesBishop (2022.10.26 – ...):Bishop Moïse Touho (62)OrdinariesBishops of Atakpamé (Roman Rite)Bishop Moïse Touho (62)  (2022.10.26 – ...)Bishop of Atakpamé (Togo)Jesus Christus lux mundiBorn:1963.12.31 (Tomegbe, Togo)Ordained Priest:1992.06.27Consecrated Bishop:2023.01.07Priest of Atakpamé (Togo) (1992.06.27 – 2022.10.26)Bishop of Atakpamé (Togo) (2022.10.26 – ...)Archbishop Nicodème Anani Barrigah-Bénissan  (Apostolic Administrator 2019.11.23 – 2022.10.26)Bishop Nicodème Anani Barrigah-Bénissan (later Archbishop)  (2008.01.09 – 2019.11.23)Ut unum sintBorn:1963.05.19 (Ouagadougou, Burkina Faso)Ordained Priest:1987.08.08Consecrated Bishop:2008.03.09Died:2024.08.04 (Lomé, Togo † 61)Priest of Lomé (Togo) (1987.08.08 – 2008.01.09)Prelate of Honour of His Holiness (2007.09.01 – 2008.01.09)Bishop of Atakpamé (Togo) (2008.01.09 – 2019.11.23)Apostolic Administrator of Atakpamé (Togo) (2019.11.23 – 2022.10.26)Metropolitan Archbishop of Lomé (Togo) (2019.11.23 – 2024.08.04)Bishop Benoît Comlan Messan Alowonou (77)  (Apostolic Administrator 2006.03.01 – 2007.01.09)Bishop Julien Mawule Kouto  (1993.10.18 – 2006.03.01)Born:1946.06.19 (Lomé, Togo)Ordained Priest:1975.06.29Consecrated Bishop:1994.01.06Died:2015.06.05 († 68)Bishop of Atakpamé (Togo) (1993.10.18 – 2006.03.01)Bishop Philippe Fanoko Kossi Kpodzro (later Archbishop)  (1976.04.10 – 1992.12.17)Born:1930.03.30 (Tamegbé, Togo)Ordained Priest:1959.12.20Consecrated Bishop:1976.05.02Died:2024.01.09 (Sweden † 93)Priest of Lomé (Togo) (1959.12.20 – 1964.09.29)Priest of Atakpamé (Togo) (1964.09.29 – 1975.12.19)Titular Bishop of Bacanaria (1975.12.19 – 1976.04.10)Apostolic Administrator of Atakpamé (Togo) (1975.12.19 – 1976.04.10)Bishop of Atakpamé (Togo) (1976.04.10 – 1992.12.17)President of Episcopal Conference of Togo (1992 – 2006)Metropolitan Archbishop of Lomé (Togo) (1992.12.17 – 2007.06.08)Bishop-elect Philippe Fanoko Kossi Kpodzro (later Archbishop)  (Apostolic Administrator 1975.12.19 – 1976.04.10)Bishop Bernard Oguki-Atakpah  (1964.09.29 – 1976)Born:1919.02.01 (Atakpamé, Togo)Ordained Priest:1951.01.14Consecrated Bishop:1964.12.03Died:1977.02.26 (Afagnan, Togo † 58)Bishop of Atakpamé (Togo) (1964.09.29 – 1976)Special ChurchesCathedral:  Cathédrale Notre-Dame de la Trinité, Atakpamé, Plateaux Show MapKpalimé (↙), Jasikan (←), Sokodé (↑), Dassa-Zoumé (→), Abomey (→), Lokossa (↘)Statistics (2022.12.31)Area: 13,900 km²Population: 361,076 Catholics (38.0% of 950,145 total)Pastoral Centres: 58 parishes, 1 missionPersonnel: 109 priests (106 diocesan, 3 religious), 98 religious (8 brothers, 90 sisters), 95 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "atak0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 950145,
+    "catholiques": 361076,
+    "pourcentage_catholiques": 38.0
+  },
+  "ressources": {
+    "pretres_diocesains": 106,
+    "pretres_religieux": null,
+    "total_pretres": 109,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 58
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

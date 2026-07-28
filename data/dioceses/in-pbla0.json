@@ -1,0 +1,29 @@
+{
+  "id": "in-pbla0",
+  "nom": "Port Blair",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Port Blair / Portus Blairen(sis) (Latin)Ecclesiastical Province: RanchiNeighbouring Dioceses: Pathein (↗), Mawlamyine (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Stella MarisLiturgical Calendar (National) 📅History1984.06.22: Established as Diocese of Port Blair / Portus Blairen(sis) (Latin) (from Metropolitan Archdiocese of Ranchi and became suffragan of Ranchi)Present PrelatesBishop (2021.06.29 – ...):Bishop Visuvasam Selvaraj (60)OrdinariesBishops of Port Blair (Roman Rite)Bishop Visuvasam Selvaraj (60)  (2021.06.29 – ...)Bishop of Port Blair (India)Born:1966.01.04 (Raja Annamalaipuram, India)Ordained Priest:1994.05.08Consecrated Bishop:2021.08.21Priest of Port Blair (India) (1994.05.08 – 2021.06.29)Bishop of Port Blair (India) (2021.06.29 – ...)Bishop Aleixo das Neves Dias, S.F.X. (81)  (1984.06.22 – 2019.01.06)Bishop emeritus of Port Blair (India)Splendidum servi DeiBorn:1944.08.05 (Calangute, India)Ordained Priest:1969.12.21Consecrated Bishop:1985.01.20Bishop of Port Blair (India) (1984.06.22 – 2019.01.06)Special ChurchesCathedral:  Stella Maris Cathedral, Port Blair, Andaman and Nicobar Islands Show MapPathein (↗), Mawlamyine (→)Statistics (2022.12.31)Area: 8,293 km²Population: 39,760 Catholics (8.1% of 493,730 total)Pastoral Centres: 17 parishes, 1 missionPersonnel: 48 priests (24 diocesan, 24 religious), 158 religious (26 brothers, 132 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "pbla0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 493730,
+    "catholiques": 39760,
+    "pourcentage_catholiques": 8.1
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 48,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

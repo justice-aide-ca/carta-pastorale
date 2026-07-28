@@ -1,0 +1,29 @@
+{
+  "id": "ke-ngon0",
+  "nom": "Ngong",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Ngong / Ngongen(sis) (Latin)Ecclesiastical Province: NairobiNeighbouring Dioceses: Musoma (←), Homa Bay (←), Kisii (←), Kericho (↖), Nakuru (↖), Nairobi (↑), Machakos (→), Wote (→), Mombasa (↘), Moshi (↓), Arusha (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1959.10.20: Established as Apostolic Prefecture of Ngong / Ngongen(sis) (Latin) (from Metropolitan Archdiocese of Nairobi and Diocese of Kisumu)1976.12.09: Promoted as Diocese of Ngong / Ngongen(sis) (Latin) (became suffragan of Nairobi)Present PrelatesBishop (2012.01.07 – ...):Bishop John Oballa Owaa (67)OrdinariesBishops of Ngong (Roman Rite)Bishop John Oballa Owaa (67)  (2012.01.07 – ...)Bishop of Ngong (Kenya)Ipse enim est pax nostraBorn:1958.08.28 (Ahero, Kenya)Ordained Priest:1986.08.28Consecrated Bishop:2012.04.14Priest of Kisumu (Kenya) (1986.08.28 – 2012.01.07)Bishop of Ngong (Kenya) (2012.01.07 – ...)Vice-President of Kenya Conference of Catholic Bishops (2015 – 2021.07)Bishop Cornelius Schilder, M.H.M. (84)  (2002.11.23 – 2009.08.01)Bishop emeritus of Ngong (Kenya)Born:1941.09.19 (Westwoud, Netherlands)Ordained Priest:1968.06.29Consecrated Bishop:2003.01.25Bishop of Ngong (Kenya) (2002.11.23 – 2009.08.01)Bishop Colin Cameron Davies, M.H.M.  (1976.12.09 – 2002.11.23)Born:1924.06.10 (Las Palmas, Spain)Ordained Priest:1952.07.13Consecrated Bishop:1977.02.27Died:2017.01.08 (Liverpool, England † 92)Prefect Apostolic of Ngong (Kenya) (1964.07.09 – 1976.12.09)Bishop of Ngong (Kenya) (1976.12.09 – 2002.11.23)Prefects Apostolic of Ngong (Roman Rite)Fr. Colin Cameron Davies, M.H.M. (later Bishop)  (1964.07.09 – 1976.12.09)(see above)Fr. Joannes de Reeper, M.H.M. (later Bishop)  (1960.01.15 – 1964.01.16)Igrem veni micceriBorn:1902.11.19 (’s-Hertogenbosch, Netherlands)Ordained Priest:1927.07.17Consecrated Bishop:1964.03.19Died:1980.11.28 (Oosterbeek, Netherlands † 78)Prefect Apostolic of Ngong (Kenya) (1960.01.15 – 1964.01.16)Bishop of Kisumu (Kenya) (1964.01.16 – 1976.03.20)Special ChurchesCathedral:  Cathedral of St. Joseph, Ngong, Kajiado Show MapMusoma (←), Homa Bay (←), Kisii (←), Kericho (↖), Nakuru (↖), Nairobi (↑), Machakos (→), Wote (→), Mombasa (↘), Moshi (↓), Arusha (↓)Statistics (2022.12.31)Area: 47,000 km²Population: 240,850 Catholics (11.7% of 2,050,000 total)Pastoral Centres: 40 parishesPersonnel: 131 priests (58 diocesan, 73 religious), 369 religious (142 brothers, 227 sisters), 17 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ngon0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2050000,
+    "catholiques": 240850,
+    "pourcentage_catholiques": 11.7
+  },
+  "ressources": {
+    "pretres_diocesains": 58,
+    "pretres_religieux": null,
+    "total_pretres": 131,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

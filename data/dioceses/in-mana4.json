@@ -1,0 +1,29 @@
+{
+  "id": "in-mana4",
+  "nom": "Mananthavady",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Mananthavady / Manantoddien(sis) (Latin)Ecclesiastical Province: TellicherryNeighbouring Dioceses: Tellicherry (←), Belthangady (↖), Mandya (↗), Thamarasserry (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Blessed Virgin MaryHistory1973.03.01: Established as Diocese of Mananthavady / Manantoddien(sis) (Latin) (from Diocese of Tellicherry and became suffragan of Ernakulam)1975.12.04: Gained territory from Diocese of Tellicherry1995.05.18: Became suffragan of Tellicherry2007.08.29: Lost territory to establish Diocese of Bhadravathi2010.01.15: Lost territory to Diocese of Bhadravathi2010.01.18: Lost territory to establish Diocese of MandyaPresent PrelatesBishop (2004.03.18 – ...):Bishop José Porunnedom (70)Auxiliary Bishop (2022.08.25 – ...):Bishop Alex Tharamangalam (68)Titular Bishop of NumluliMonsignors (2)OrdinariesBishops of Mananthavady (Syro-Malabar Rite)Bishop José Porunnedom (70)  (2004.03.18 – ...)Bishop of Mananthavady of the Syro-Malabars (India)Not to be served but to serveBorn:1956.03.13 (Anchiri, India)Ordained Priest:1982.12.22Consecrated Bishop:2004.05.15Priest of Mananthavady of the Syro-Malabars (India) (1982.12.22 – 2004.03.18)Bishop of Mananthavady of the Syro-Malabars (India) (2004.03.18 – ...)Bishop Emmanuel Pothanamuzhy, C.M.I.  (1996.11.11 – 2003.04.06)Born:1932.08.05 (Nadukkara, India)Ordained Priest:1964.12.01Consecrated Bishop:1997.01.26Died:2003.04.06 († 70)Bishop of Mananthavady of the Syro-Malabars (India) (1996.11.11 – 2003.04.06)Bishop Jacob Thoomkuzhy (later Archbishop)  (1973.03.01 – 1995.05.18)Until Christ is formed in youBorn:1930.12.13 (Vilakumadam, India)Ordained Priest:1956.12.22Consecrated Bishop:1973.05.01Died:2025.09.17 (Thrissur, India † 94)Priest of Tellicherry of the Syro-Malabars (India) (1956.12.22 – 1973.03.01)Bishop of Mananthavady of the Syro-Malabars (India) (1973.03.01 – 1995.05.18)Bishop of Thamarasserry of the Syro-Malabars (India) (1995.05.18 – 1996.11.11)Metropolitan Archbishop of Trichur of the Syro-Malabars (India) (1996.11.11 – 2007.01.22)Special ChurchesCathedral:  St Joseph’s Cathedral, Mananthavady, Kerala Show MapTellicherry (←), Belthangady (↖), Mandya (↗), Thamarasserry (↓)Statistics (2022.12.31)Area: 13,036 km²Population: 180,660 Catholics (10.9% of 1,655,390 total)Pastoral Centres: 160 parishesPersonnel: 688 priests (306 diocesan, 382 religious), 1,806 religious (556 brothers, 1,250 sisters), 39 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "mana4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1655390,
+    "catholiques": 180660,
+    "pourcentage_catholiques": 10.9
+  },
+  "ressources": {
+    "pretres_diocesains": 306,
+    "pretres_religieux": null,
+    "total_pretres": 688,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 160
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

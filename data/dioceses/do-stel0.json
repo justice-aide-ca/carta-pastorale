@@ -1,0 +1,29 @@
+{
+  "id": "do-stel0",
+  "nom": "Stella Maris",
+  "pays": "do",
+  "pays_nom": "Dominican Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: Stella MarisEcclesiastical Province: Santo DomingoNeighbouring Dioceses: Santo Domingo (←), San Pedro de Macorís (→)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (Universal) 📅History2025.08.27: Established as Diocese of Stella Maris (from Metropolitan Archdiocese of Santo Domingo and became suffragan of Santo Domingo)Papal VisitsPope John Paul II (1979.01, 1992.10)Present PrelatesBishop (2025.08.27 – ...):Bishop Manuel Antonio Ruíz de la Rosa (60)OrdinariesBishops of Stella Maris (Roman Rite)Bishop Manuel Antonio Ruíz de la Rosa (60)  (2025.08.27 – ...)Bishop of Stella Maris (Dominican Republic)In nomine tuo DomineBorn:1965.08.27 (Bayaguana, Monte Plata, Dominican Republic)Ordained Priest:1993.07.10Consecrated Bishop:2025.11.08Priest of Santo Domingo (Dominican Republic) (1993.07.10 – 2025.08.27)Bishop of Stella Maris (Dominican Republic) (2025.08.27 – ...)Special ChurchesCathedral:  Catedral Stella Maris, Santo Domingo Este, Santo Domingo, Ozama Show MapSanto Domingo (←), San Pedro de Macorís (→)Statistics (2025)Area: 589 km²Population: 943,762 Catholics (73.1% of 1,291,516 total)Pastoral Centres: 64 parishesPersonnel: 95 priests (40 diocesan, 55 religious), 39 deacons, 95 religious (12 brothers, 83 sisters), 12 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "stel0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1291516,
+    "catholiques": 943762,
+    "pourcentage_catholiques": 73.1
+  },
+  "ressources": {
+    "pretres_diocesains": 40,
+    "pretres_religieux": null,
+    "total_pretres": 95,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 64
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

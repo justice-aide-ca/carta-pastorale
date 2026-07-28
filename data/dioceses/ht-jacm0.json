@@ -1,0 +1,29 @@
+{
+  "id": "ht-jacm0",
+  "nom": "Jacmel",
+  "pays": "ht",
+  "pays_nom": "Haiti",
+  "continent": "unknown",
+  "type": "Diocese Name: Jacmel / Iacmelien(sis) (Latin)Ecclesiastical Province: Port-au-PrinceNeighbouring Dioceses: Les Cayes (←), Anse-à-Veau et Miragoâne (↖), Port-au-Prince (↗)Depends on: Dicastery for BishopsCelebrationsCathedral Dedication Anniversary: May 15Liturgical Calendar 📅History1988.02.25: Established as Diocese of Jacmel / Iacmelien(sis) (Latin) (from Metropolitan Archdiocese of Port-au-Prince and became suffragan of Port-au-Prince)Present PrelatesBishop (2018.12.08 – ...):Bishop Glandas Marie Erick Toussaint (61)OrdinariesBishops of Jacmel (Roman Rite)Bishop Glandas Marie Erick Toussaint (61)  (2018.12.08 – ...)Bishop of Jacmel (Haiti)Caritas semper caritasBorn:1965.05.19 (Grande Savane, Haiti)Ordained Priest:1994.11.13Consecrated Bishop:2011.03.26Priest of Port-au-Prince (Haiti) (1994.11.13 – 2011.01.12)Titular Bishop of Senez (2011.01.12 – 2018.12.08)Auxiliary Bishop of Port-au-Prince (Haiti) (2011.01.12 – 2018.12.08)Bishop of Jacmel (Haiti) (2018.12.08 – ...)Bishop Launay Saturné (62) (later Archbishop)  (2010.04.28 – 2018.07.16)Metropolitan Archbishop of Cap-Haïtien (Haiti)Fiat voluntas tuaBorn:1964.01.14 (Delatte, Haiti)Ordained Priest:1991.03.10Consecrated Bishop:2010.05.29Priest of Port-au-Prince (Haiti) (1991.03.10 – 2010.04.28)Bishop of Jacmel (Haiti) (2010.04.28 – 2018.07.16)President of Episcopal Conference of Haiti (2017.12.01 – 2023.11.28)Metropolitan Archbishop of Cap-Haïtien (Haiti) (2018.07.16 – ...)Bishop Guire Poulard (later Archbishop)  (1988.02.25 – 2009.03.09)Born:1942.01.06 (Delatte, Haiti)Ordained Priest:1972.06.25Consecrated Bishop:1988.05.15Died:2018.12.09 (Port-au-Prince, Haiti † 76)Priest of Port-au-Prince (Haiti) (1972.06.25 – 1988.02.25)Bishop of Jacmel (Haiti) (1988.02.25 – 2009.03.09)Bishop of Les Cayes (Haiti) (2009.03.09 – 2011.01.12)Metropolitan Archbishop of Port-au-Prince (Haiti) (2011.01.12 – 2017.10.07)Special ChurchesCathedral:  Cathédrale Saint-Jacques et Saint-Philippe, Jacmel, Sud-Est Show MapLes Cayes (←), Anse-à-Veau et Miragoâne (↖), Port-au-Prince (↗)Statistics (2022.12.31)Area: 2,700 km²Population: 436,824 Catholics (66.2% of 659,591 total)Pastoral Centres: 31 parishes, 1 missionPersonnel: 62 priests (60 diocesan, 2 religious), 80 religious (15 brothers, 65 sisters), 35 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jacm0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 659591,
+    "catholiques": 436824,
+    "pourcentage_catholiques": 66.2
+  },
+  "ressources": {
+    "pretres_diocesains": 60,
+    "pretres_religieux": null,
+    "total_pretres": 62,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

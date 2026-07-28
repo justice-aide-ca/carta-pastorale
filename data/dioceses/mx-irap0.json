@@ -1,0 +1,29 @@
+{
+  "id": "mx-irap0",
+  "nom": "Irapuato",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Irapuato / Irapuaten(sis) (Latin)Ecclesiastical Province: LeónNeighbouring Dioceses: León (↑), Celaya (→), Morelia (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2004.01.03: Established as Diocese of Irapuato / Irapuaten(sis) (Latin) (from Metropolitan Archdiocese of Morelia and Diocese of León and became suffragan of San Luis Potosí)2006.11.25: Became suffragan of LeónContact InfoAddress: Av. Juárez #138, Despacho 407, Centro, 36500 - Irapuato, Gto., MexicoPhone: (462) 6-22-35-47Present PrelatesBishop (2017.03.11 – ...):Bishop Enrique Díaz Díaz (74)Monsignors (2)OrdinariesBishops of Irapuato (Roman Rite)Bishop Enrique Díaz Díaz (74)  (2017.03.11 – ...)Bishop of Irapuato (Mexico)Yo estoy contigoBorn:1952.06.13 (Huandacareo, Mexico)Ordained Priest:1977.10.23Consecrated Bishop:2003.07.10Priest of Morelia (Mexico) (1977.10.23 – 2003.04.30)Titular Bishop of Izirzada (2003.04.30 – 2014.05.15)Auxiliary Bishop of San Cristóbal de Las Casas (Mexico) (2003.04.30 – 2014.05.15)Coadjutor Bishop of San Cristóbal de Las Casas (Mexico) (2014.05.15 – 2017.03.11)Bishop of Irapuato (Mexico) (2017.03.11 – ...)Bishop José de Jesús Martínez Zepeda (84)  (2004.01.03 – 2017.03.11)Bishop emeritus of Irapuato (Mexico)In verbo tuoBorn:1941.09.04 (Tepeji del Río, Mexico)Ordained Priest:1968.09.28Consecrated Bishop:1997.04.12Priest of México (Mexico) (1968.09.28 – 1997.03.11)Titular Bishop of Naratcata (1997.03.11 – 2004.01.03)Auxiliary Bishop of México (Mexico) (1997.03.11 – 2004.01.03)Bishop of Irapuato (Mexico) (2004.01.03 – 2017.03.11)Special ChurchesCathedral:  Catedral de Nuestra Señora de la Soledad, Irapuato, Guanajuato Show MapLeón (↑), Celaya (→), Morelia (↓)Statistics (2022.12.31)Area: 1,775 km²Population: 1,652,100 Catholics (96.3% of 1,715,600 total)Pastoral Centres: 70 parishes, 40 missionsPersonnel: 209 priests (160 diocesan, 49 religious), 2 deacons, 245 religious (54 brothers, 191 sisters), 41 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "irap0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1715600,
+    "catholiques": 1652100,
+    "pourcentage_catholiques": 96.3
+  },
+  "ressources": {
+    "pretres_diocesains": 160,
+    "pretres_religieux": null,
+    "total_pretres": 209,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 70
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

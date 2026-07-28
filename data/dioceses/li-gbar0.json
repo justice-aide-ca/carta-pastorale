@@ -1,0 +1,29 @@
+{
+  "id": "li-gbar0",
+  "nom": "Gbarnga",
+  "pays": "li",
+  "pays_nom": "Liberia",
+  "continent": "unknown",
+  "type": "Diocese Name: Gbarnga / Gbarngan(us) (Latin)Ecclesiastical Province: MonroviaNeighbouring Dioceses: Monrovia (↙), Kenema (←), Guéckédou (↑), N’Zérékoré (↗), Man (→), Cape Palmas (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1986.11.17: Established as Diocese of Gbarnga / Gbarngan(us) (Latin) (from Metropolitan Archdiocese of Monrovia and became suffragan of Monrovia)Present PrelatesBishop (2011.03.21 – ...):Bishop Anthony Fallah Borwah (59)President of Catholic Bishops’ Conference of LiberiaMonsignors (1)OrdinariesBishops of Gbarnga (Roman Rite)Bishop Anthony Fallah Borwah (59)  (2011.03.21 – ...)Bishop of Gbarnga (Liberia)President of Catholic Bishops’ Conference of LiberiaBorn:1966.10.03 (Wodu, Liberia)Ordained Priest:1996.09.05Consecrated Bishop:2011.06.11Priest of Monrovia (Liberia) (1996.09.05 – 2011.03.21)Bishop of Gbarnga (Liberia) (2011.03.21 – ...)President of Catholic Bishops’ Conference of Liberia (2017 – ...)Fr. Chris Brennan, S.M.A.  (Apostolic Administrator 2009.07 – 2011.03.21)Bishop Lewis Jerome Zeigler (later Archbishop)  (2002.05.30 – 2009.07.11)Born:1944.01.04 (Harrisburg, Liberia)Ordained Priest:1974.12.22Consecrated Bishop:2002.11.09Died:2022.08.12 (Monrovia, Liberia † 78)Priest of Monrovia (Liberia) (1974.12.22 – 1986.11.17)Priest of Gbarnga (Liberia) (1986.11.17 – 2002.05.30)Chaplain of His Holiness (1999.11.21 – 2002.05.30)Bishop of Gbarnga (Liberia) (2002.05.30 – 2009.07.11)President of Catholic Bishops’ Conference of Liberia (2005.03 – 2017)Coadjutor Archbishop of Monrovia (Liberia) (2009.07.11 – 2011.02.12)Metropolitan Archbishop of Monrovia (Liberia) (2011.02.12 – 2021.06.07)Bishop Benedict Dotu Sekey  (1986.11.17 – 2000.12.13)Born:1940.08.10 (Accra, Ghana)Ordained Priest:1967.08.20Consecrated Bishop:1987.01.06Died:2000.12.13 († 60)Priest of Cape Palmas (Liberia) (1967.08.20 – 1986.11.17)Bishop of Gbarnga (Liberia) (1986.11.17 – 2000.12.13)President of Inter-territorial Catholic Bishops’ Conference of the Gambia and Sierra Leone / ITCABIC (1995 – 1998)Special ChurchesCathedral:  Cathedral of the Holy Spirit, Gbarnga, Bong Show MapMonrovia (↙), Kenema (←), Guéckédou (↑), N’Zérékoré (↗), Man (→), Cape Palmas (↘)Statistics (2022.12.31)Area: 30,305 km²Population: 21,185 Catholics (1.3% of 1,666,200 total)Pastoral Centres: 16 parishesPersonnel: 17 priests (11 diocesan, 6 religious), 29 religious (14 brothers, 15 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "gbar0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1666200,
+    "catholiques": 21185,
+    "pourcentage_catholiques": 1.3
+  },
+  "ressources": {
+    "pretres_diocesains": 11,
+    "pretres_religieux": null,
+    "total_pretres": 17,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

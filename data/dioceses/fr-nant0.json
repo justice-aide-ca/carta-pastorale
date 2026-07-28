@@ -1,0 +1,29 @@
+{
+  "id": "fr-nant0",
+  "nom": "Nanterre",
+  "pays": "fr",
+  "pays_nom": "France",
+  "continent": "unknown",
+  "type": "Diocese Name: Nanterre / Nemptoduren(sis) (Latin)Ecclesiastical Province: ParisNeighbouring Dioceses: Versailles (↙), Pontoise (↑), Saint-Denis (→), Paris (↘), Créteil (↘), Évry–Corbeil-Essonnes (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Geneviève de Paris (January 3), Saint Denis de Paris (October 9)Cathedral Dedication Anniversary: December 3Liturgical Calendar 📅History1966.10.09: Established as Diocese of Nanterre / Nemptoduren(sis) (Latin) (from Metropolitan Archdiocese of Paris and Diocese of Versailles and became suffragan of Paris)Present PrelatesBishop (2018.06.05 – ...):Bishop Matthieu Rougé (60)Monsignors (3)OrdinariesBishops of Nanterre (Roman Rite)Bishop Matthieu Rougé (60)  (2018.06.05 – ...)Bishop of Nanterre (France)Sursum cordaBorn:1966.01.07 (Neuilly-sur-Seine, France)Ordained Priest:1994.06.25Consecrated Bishop:2018.09.16Priest of Paris (France) (1994.06.25 – 2018.06.05)Bishop of Nanterre (France) (2018.06.05 – ...)Bishop Michel Christian Alain Aupetit (75) (later Archbishop)  (2014.04.04 – 2017.12.07)Metropolitan Archbishop emeritus of Paris (France)Ordinary emeritus of France of the Eastern Rite (France)Ut vitam habeantBorn:1951.03.23 (Versailles, France)Ordained Priest:1995.06.24Consecrated Bishop:2013.04.19Priest of Paris (France) (1995.06.24 – 2013.02.02)Titular Bishop of Maxita (2013.02.02 – 2014.04.04)Auxiliary Bishop of Paris (France) (2013.02.02 – 2014.04.04)Bishop of Nanterre (France) (2014.04.04 – 2017.12.07)Metropolitan Archbishop of Paris (France) (2017.12.07 – 2021.12.02)Ordinary of France of the Eastern Rite (France) (2018.01.08 – 2021.12.02)Bishop Gérard Antoine Daucourt (85)  (Apostolic Administrator 2013.11.14 – 2014.04.04)Bishop Gérard Antoine Daucourt (85)  (2002.06.18 – 2013.11.14)Bishop emeritus of Nanterre (France)Born:1941.04.29 (Délémont, Switzerland)Ordained Priest:1966.06.26Consecrated Bishop:1991.04.14Priest of Besançon (France) (1966.06.26 – 1991.02.01)Chaplain of His Holiness (1986.10.16 – 1991.02.01)Coadjutor Bishop of Troyes (France) (1991.02.01 – 1992.04.04)Bishop of Troyes (France) (1992.04.04 – 1998.07.02)Bishop of Orléans (France) (1998.07.02 – 2002.06.18)Bishop of Nanterre (France) (2002.06.18 – 2013.11.14)Apostolic Administrator of Nanterre (France) (2013.11.14 – 2014.04.04)Bishop François-Marie-Christian Favreau  (1983.09.08 – 2002.06.18)Born:1929.11.15 (Saint-Savin-sur-Gartempe, France)Ordained Priest:1952.06.30Consecrated Bishop:1973.01.20Died:2021.09.07 (Poitiers, France † 91)Priest of Poitiers (France) (1952.06.30 – 1972.11.24)Auxiliary Bishop of Bayonne (France) (1972.11.24 – 1977.10.07)Titular Bishop of Turres Ammeniæ (1972.11.24 – 1979.08.17)Coadjutor Bishop of La Rochelle (France) (1977.10.07 – 1979.08.17)Bishop of La Rochelle (France) (1979.08.17 – 1983.09.08)Bishop of Nanterre (France) (1983.09.08 – 2002.06.18)Bishop Jacques Marie Delarue  (1966.10.09 – 1982.08.23)Born:1914.08.30 (Paris, France)Ordained Priest:1939.10.22Consecrated Bishop:1966.11.20Died:1982.08.23 (Nanterre, France † 67)Bishop of Nanterre (France) (1966.10.09 – 1982.08.23)Former PrelatesAuxiliary Bishop: Bishop Nicolas Brouwet (63) (2008.04.11 – 2012.02.11)Special ChurchesCathedral:  Cathédrale Sainte-Geneviève et Saint-Maurice, Nanterre, Hauts-de-Selne, Île-de-France Minor Basilica:  Basilique Notre-Dame-de-Boulogne, Boulogne-Billancourt, Hauts-de-Selne, Île-de-France Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (112)Show MapVersailles (↙), Pontoise (↑), Saint-Denis (→), Paris (↘), Créteil (↘), Évry–Corbeil-Essonnes (↓)Statistics (2022.12.31)Area: 176 km²Population: 973,550 Catholics (59.9% of 1,625,917 total)Pastoral Centres: 75 parishes, 11 missionsPersonnel: 258 priests (160 diocesan, 98 religious), 66 deacons, 397 religious (173 brothers, 224 sisters), 12 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "nant0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1625917,
+    "catholiques": 973550,
+    "pourcentage_catholiques": 59.9
+  },
+  "ressources": {
+    "pretres_diocesains": 160,
+    "pretres_religieux": null,
+    "total_pretres": 258,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 75
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

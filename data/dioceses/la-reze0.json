@@ -1,0 +1,29 @@
+{
+  "id": "la-reze0",
+  "nom": "Rēzekne–Aglona",
+  "pays": "la",
+  "pays_nom": "Latvia",
+  "continent": "unknown",
+  "type": "Diocese Name: Rēzekne–Aglona / Rezeknen(sis)–Aglonen(sis) (Latin)Ecclesiastical Province: RigaNeighbouring Dioceses: Jelgava (←), Riga (↖), Mother of God at Moscow (→), Vitebsk (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1995.12.02: Established as Diocese of Rēzekne–Aglona / Rezeknen(sis)–Aglonen(sis) (Latin) (from Metropolitan Archdiocese of Riga and became suffragan of Riga)Papal VisitsPope John Paul II (1993.09)Pope Francis (2018.09)Present PrelatesBishop (1995.12.07 – ...):Bishop Jānis Bulis (75)Monsignors (3)OrdinariesBishops of Rēzekne–Aglona (Roman Rite)Bishop Jānis Bulis (75)  (1995.12.07 – ...)Bishop of Rēzekne–Aglona (Latvia)Pro Christo et ecclesiaBorn:1950.08.17 (Brigi, Latvia)Ordained Priest:1977.05.22Consecrated Bishop:1991.06.24Priest of Riga (Latvia) (1977.05.22 – 1991.05.08)Bishop of Liepāja (Latvia) (1991.05.08 – 1995.12.07)Bishop of Rēzekne–Aglona (Latvia) (1995.12.07 – ...)Vice-President of Episcopal Conference of Latvia (2011.06.01 – 2011.10.18)President of Episcopal Conference of Latvia (2011.10.18 – 2018.12.18)Special ChurchesCathedral:  Rēzeknes Jēzus Sirds katedrāle, Rēzekne Minor Basilica, International Shrine:  Vissvētākās Jaunavas Marijas Debesīs Uzņemšanas Bazilika, Aglona Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapJelgava (←), Riga (↖), Mother of God at Moscow (→), Vitebsk (↘)Statistics (2022.12.31)Area: 15,680 km²Population: 77,910 Catholics (28.5% of 273,800 total)Pastoral Centres: 110 parishesPersonnel: 60 priests (52 diocesan, 8 religious), 33 religious (8 brothers, 25 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "reze0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 273800,
+    "catholiques": 77910,
+    "pourcentage_catholiques": 28.5
+  },
+  "ressources": {
+    "pretres_diocesains": 52,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 110
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

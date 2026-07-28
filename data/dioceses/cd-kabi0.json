@@ -1,0 +1,29 @@
+{
+  "id": "cd-kabi0",
+  "nom": "Kabinda",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Kabinda / Kabindaën(sis) (Latin)Ecclesiastical Province: KanangaNeighbouring Dioceses: Mbujimayi (←), Kananga (↖), Tshumbe (↑), Kindu (↗), Kongolo (→), Kamina (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1953.03.24: Established as Apostolic Vicariate of Kabinda / Kabindaën(sis) (Latin) (from Apostolic Vicariate of Luluabourg)1959.11.10: Promoted as Diocese of Kabinda / Kabindaën(sis) (Latin) (became suffragan of Luluabourg)1963.11.22: Lost territory to establish Apostolic Administration of Mbuji-Mayi1966.03.10: Gained territory from Diocese of Kongolo and lost territory to Diocese of Kamina1974.01.12: Lost territory to Diocese of KaminaPresent PrelatesBishop:vacantApostolic Administrator (2024.03.19 – ...):Archbishop Félicien Ntambue Kasembe, C.I.C.M. (55)Metropolitan Archbishop of Kananga (Congo-Kinshasa)OrdinariesBishops of Kabinda (Roman Rite)Archbishop Félicien Ntambue Kasembe, C.I.C.M. (55)  (Apostolic Administrator 2024.03.19 – ...)Bishop Félicien Ntambue Kasembe, C.I.C.M. (55) (later Archbishop)  (2020.07.23 – 2024.03.19)Metropolitan Archbishop of Kananga (Congo-Kinshasa)Apostolic Administrator of Kabinda (Congo-Kinshasa)Cor unum et anima unaBorn:1970.09.08 (Kabinda, Congo-Kinshasa)Ordained Priest:2001.08.12Consecrated Bishop:2020.09.27Bishop of Kabinda (Congo-Kinshasa) (2020.07.23 – 2024.03.19)Apostolic Administrator of Kananga (Congo-Kinshasa) (2022.12.21 – 2024.03.19)Metropolitan Archbishop of Kananga (Congo-Kinshasa) (2024.03.19 – ...)Apostolic Administrator of Kabinda (Congo-Kinshasa) (2024.03.19 – ...)Bishop Valentin Masengo Nkinda  (1995.11.02 – 2018.10.26)Totus tuusBorn:1940.12.10 (Kahako, Congo-Kinshasa)Ordained Priest:1969.07.15Consecrated Bishop:1996.02.18Died:2018.10.26 (Lutembo, Congo-Kinshasa † 77)Priest of Kabinda (Congo-Kinshasa) (1969.07.15 – 1995.11.02)Bishop of Kabinda (Congo-Kinshasa) (1995.11.02 – 2018.10.26)Bishop Matthieu Kanyama  (1968.12.16 – 1995.11.02)Born:1917.10.12 (Musangye, Congo-Kinshasa)Ordained Priest:1946.05.05Consecrated Bishop:1969.01.06Died:2005.10.01 († 87)Priest of Kabinda (Congo-Kinshasa) (1946.05.05 – 1968.12.16)Bishop of Kabinda (Congo-Kinshasa) (1968.12.16 – 1995.11.02)Bishop Georges Kettel, C.I.C.M.  (1959.11.10 – 1968.12.16)Born:1897.05.19 (Graide, Belgium)Ordained Priest:1921.12.18Consecrated Bishop:1953.06.04Died:1972.07.16 (Messaney, Luxembourg † 75)Titular Bishop of Thabraca (1953.03.24 – 1959.11.10)Vicar Apostolic of Kabinda (Congo-Kinshasa) (1953.03.24 – 1959.11.10)Bishop of Kabinda (Congo-Kinshasa) (1959.11.10 – 1968.12.16)Titular Bishop of Caorle (1968.12.19 – 1972.07.16)Vicars Apostolic of Kabinda (Roman Rite)Bishop Georges Kettel, C.I.C.M.  (1953.03.24 – 1959.11.10)(see above)Special ChurchesCathedral:  Cathédrale Saint-Martin, Kabinda, Lomami Show MapMbujimayi (←), Kananga (↖), Tshumbe (↑), Kindu (↗), Kongolo (→), Kamina (↓)Statistics (2022.12.31)Area: 58,625 km²Population: 738,045 Catholics (51.3% of 1,437,366 total)Pastoral Centres: 32 parishesPersonnel: 72 priests (68 diocesan, 4 religious), 171 religious (17 brothers, 154 sisters), 62 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kabi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1437366,
+    "catholiques": 738045,
+    "pourcentage_catholiques": 51.3
+  },
+  "ressources": {
+    "pretres_diocesains": 68,
+    "pretres_religieux": null,
+    "total_pretres": 72,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 32
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

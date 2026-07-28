@@ -1,0 +1,29 @@
+{
+  "id": "in-chan2",
+  "nom": "Chanda",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Chanda / Chandaën(sis) (Latin)Ecclesiastical Province: KalyanNeighbouring Dioceses: Adilabad (↙), Amravati (↖), Nagpur (↑), Raipur (↗), Jagdalpur (→), Warangal (↓)Depends on: Dicastery for the Eastern ChurchesCelebrationsPatron Saint: Saint ThomasHistory1962.03.31: Established as Ordinariate of Chanda / Chandaën(sis) (Latin) (from Metropolitan Archdiocese of Nagpur)1968.07.29: Promoted as Apostolic Exarchate of Chanda / Chandaën(sis) (Latin) (gained territory from Diocese of Amravati)1977.02.26: Promoted as Diocese of Chanda / Chandaën(sis) (Latin) (became suffragan of Nagpur)1999.06.23: Lost territory to establish Diocese of Adilabad2025.08.28: Gained territory from Diocese of Shamshabad and became suffragan of KalyanPresent PrelatesBishop (2014.07.31 – ...):Bishop Ephrem Nariculam (65)OrdinariesBishops of Chanda (Syro-Malabar Rite)Bishop Ephrem Nariculam (65)  (2014.07.31 – ...)Bishop of Chanda of the Syro-Malabars (India)Born:1960.12.10 (Sanjopuram, India)Ordained Priest:1986.12.27Consecrated Bishop:2014.10.24Priest of Ernakulam–Angamaly of the Syro-Malabars (India) (1986.12.27 – 2014.07.31)Bishop of Chanda of the Syro-Malabars (India) (2014.07.31 – ...)Bishop Vijay Anand Nedumpuram, C.M.I. (87)  (1990.04.20 – 2014.07.31)Bishop emeritus of Chanda of the Syro-Malabars (India)Born:1938.09.24 (Cherpumkal, India)Ordained Priest:1967.05.17Consecrated Bishop:1990.07.03Prior General of Carmelites of Mary Immaculate (1985 – 1990.04.20)Bishop of Chanda of the Syro-Malabars (India) (1990.04.20 – 2014.07.31)Bishop Januarius Paul Palathuruthy, C.M.I.  (1977.02.26 – 1990.04.20)Born:1913.03.20 (Konthuruthy, India)Ordained Priest:1942.03.07Consecrated Bishop:1977.05.03Died:1995.03.28 († 82)Ordinary of Chanda of the Syro-Malabars (India) (1962.06.12 – 1968.07.29)Apostolic Exarch of Chanda of the Syro-Malabars (India) (1968.07.29 – 1977.02.26)Bishop of Chanda of the Syro-Malabars (India) (1977.02.26 – 1990.04.20)Apostolic Exarchs of Chanda (Syro-Malabar Rite)Fr. Januarius Paul Palathuruthy, C.M.I. (later Bishop)  (1968.07.29 – 1977.02.26)(see above)Ordinaries of Chanda (Syro-Malabar Rite)Fr. Januarius Paul Palathuruthy, C.M.I. (later Bishop)  (1962.06.12 – 1968.07.29)(see above)Special ChurchesCathedral:  St. Thomas Cathedral, Balharshah, Mahārāshtra Show MapAdilabad (↙), Amravati (↖), Nagpur (↑), Raipur (↗), Jagdalpur (→), Warangal (↓)Statistics (2022.12.31)Area: 32,233 km²Population: 13,270 Catholics (0.3% of 5,026,645 total)Pastoral Centres: 11 parishes, 45 missionsPersonnel: 95 priests (45 diocesan, 50 religious), 555 religious (106 brothers, 449 sisters), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "chan2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5026645,
+    "catholiques": 13270,
+    "pourcentage_catholiques": 0.3
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 95,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

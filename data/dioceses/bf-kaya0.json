@@ -1,0 +1,29 @@
+{
+  "id": "bf-kaya0",
+  "nom": "Kaya",
+  "pays": "bf",
+  "pays_nom": "Burkina Faso",
+  "continent": "unknown",
+  "type": "Diocese Name: Kaya / Kayan(us) (Latin)Ecclesiastical Province: KoupélaNeighbouring Dioceses: Koudougou (↙), Ouahigouya (↖), Dori (↗), Fada N’Gourma (→), Koupéla (↘), Ouagadougou (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1969.06.26: Established as Diocese of Kaya / Kayan(us) (Latin) (from Metropolitan Archdiocese of Ouagadougou and Diocese of Koupéla and became suffragan of Ouagadougou)2000.12.05: Became suffragan of KoupélaPresent PrelatesBishop (2018.12.07 – ...):Bishop Théophile Nare (60)Apostolic Administrator of Dori (Burkina Faso)OrdinariesBishops of Kaya (Roman Rite)Bishop Théophile Nare (60)  (2018.12.07 – ...)Bishop of Kaya (Burkina Faso)Apostolic Administrator of Dori (Burkina Faso)Ut cognoscat mundusBorn:1966.07.07 (Yargo, Burkina Faso)Ordained Priest:1995.07.08Consecrated Bishop:2019.03.02Priest of Koupéla (Burkina Faso) (1995.07.08 – 2018.12.07)Bishop of Kaya (Burkina Faso) (2018.12.07 – ...)Apostolic Administrator of Dori (Burkina Faso) (2025.02.02 – ...)Bishop Thomas Kaboré (82)  (1999.04.19 – 2018.12.07)Bishop emeritus of Kaya (Burkina Faso)Fiat voluntas tuaBorn:1943.09.23 (Ouagadougou, Burkina Faso)Ordained Priest:1970.06.29Consecrated Bishop:1999.07.10Bishop of Kaya (Burkina Faso) (1999.04.19 – 2018.12.07)Bishop Jean-Baptiste Tiendrebeogo  (1996.03.30 – 1998.05.14)Born:1941.02.17 (Ouagadougou, Burkina Faso)Ordained Priest:1970.06.27Consecrated Bishop:1982.01.23Died:1998.05.14 († 57)Priest of Ouagadougou (Burkina Faso) (1970.06.27 – 1981.11.05)Titular Bishop of Thucca in Numidia (1981.11.05 – 1996.03.30)Auxiliary Bishop of Ouagadougou (Burkina Faso) (1981.11.05 – 1996.03.30)Bishop of Kaya (Burkina Faso) (1996.03.30 – 1998.05.14)Bishop Constantin Guirma  (1969.06.26 – 1996.03.09)Evangelizare pauperibusBorn:1920.02.05 (Kaya, Burkina Faso)Ordained Priest:1946.05.19Consecrated Bishop:1969.08.01Died:2010.08.06 († 90)Priest of Kaya (Burkina Faso) (1946.05.19 – 1969.06.26)Bishop of Kaya (Burkina Faso) (1969.06.26 – 1996.03.09)Special ChurchesCathedral:  Cathédrale Notre-Dame de Kaya, Kaya, Centre-Nord Show MapKoudougou (↙), Ouahigouya (↖), Dori (↗), Fada N’Gourma (→), Koupéla (↘), Ouagadougou (↓)Statistics (2022.12.31)Area: 18,000 km²Population: 150,000 Catholics (11.7% of 1,280,000 total)Pastoral Centres: 6 parishesPersonnel: 50 priests (47 diocesan, 3 religious), 58 religious (3 brothers, 55 sisters), 30 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kaya0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1280000,
+    "catholiques": 150000,
+    "pourcentage_catholiques": 11.7
+  },
+  "ressources": {
+    "pretres_diocesains": 47,
+    "pretres_religieux": null,
+    "total_pretres": 50,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

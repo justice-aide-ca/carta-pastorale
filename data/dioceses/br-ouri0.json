@@ -1,0 +1,29 @@
+{
+  "id": "br-ouri0",
+  "nom": "Ourinhos",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Ourinhos / Parvauratan(us) (Latin)Ecclesiastical Province: BotucatuNeighbouring Dioceses: Assis (←), Bauru (↗), Botucatu (→), Itapeva (↘), Jacarezinho (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Senhor Bom Jesus (August 6)Cathedral Dedication Anniversary: December 30 (2008)Liturgical Calendar (National) 📅History1998.12.30: Established as Diocese of Ourinhos / Parvauratan(us) (Latin) (from Metropolitan Archdiocese of Botucatu, Diocese of Assis and Diocese of Itapeva and became suffragan of Botucatu)Present PrelatesBishop (2021.05.19 – ...):Bishop Eduardo Vieira dos Santos (61)OrdinariesBishops of Ourinhos (Roman Rite)Bishop Eduardo Vieira dos Santos (61)  (2021.05.19 – ...)Bishop of Ourinhos (Brazil)Gaudete in DominoBorn:1965.03.18 (Bom Sucesso, MG, Brazil)Ordained Priest:2000.12.15Consecrated Bishop:2015.02.07Priest of São Paulo (Brazil) (2000.12.15 – 2014.12.10)Titular Bishop of Bladia (2014.12.10 – 2021.05.19)Auxiliary Bishop of São Paulo (Brazil) (2014.12.10 – 2021.05.19)Bishop of Ourinhos (Brazil) (2021.05.19 – ...)Bishop Salvatore Paruzzo (80)  (1998.12.30 – 2021.05.19)Bishop emeritus of Ourinhos (Brazil)Bonum Mihi DominusBorn:1945.10.15 (Montedoro, Italy)Ordained Priest:1969.06.29Consecrated Bishop:1999.03.19Priest of Caltanissetta (Italy) (1969.06.29 – 1998.12.30)Bishop of Ourinhos (Brazil) (1998.12.30 – 2021.05.19)Special ChurchesCathedral:  Catedral do Senhor Bom Jesus, Ourinhos, São Paulo Jubilee Churches in the Holy Year 2025Churches by City (46)Show MapAssis (←), Bauru (↗), Botucatu (→), Itapeva (↘), Jacarezinho (↓)Statistics (2022.12.31)Area: 7,104 km²Population: 275,700 Catholics (71.9% of 383,707 total)Pastoral Centres: 44 parishesPersonnel: 57 priests (30 diocesan, 27 religious), 21 deacons, 85 religious (28 brothers, 57 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ouri0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 383707,
+    "catholiques": 275700,
+    "pourcentage_catholiques": 71.9
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 57,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 44
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

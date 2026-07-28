@@ -1,0 +1,29 @@
+{
+  "id": "in-gwal0",
+  "nom": "Gwalior",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Gwalior / Gwalioren(sis) (Latin)Ecclesiastical Province: BhopalNeighbouring Dioceses: Ajmer (←), Jaipur (←), Agra (↑), Jhansi (↘), Sagar (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint John the BaptistLiturgical Calendar (National) 📅History1999.02.09: Established as Diocese of Gwalior / Gwalioren(sis) (Latin) (from Diocese of Jhansi and became suffragan of Bhopal)Present PrelatesBishop (2019.05.31 – ...):Bishop Joseph Thykkattil (74)OrdinariesBishops of Gwalior (Roman Rite)Bishop Joseph Thykkattil (74)  (2019.05.31 – ...)Bishop of Gwalior (India)Born:1952.02.14 (Enamakkal, India)Ordained Priest:1988.04.25Consecrated Bishop:2019.08.04Priest of Agra (India) (1988.04.25 – 2019.05.31)Bishop of Gwalior (India) (2019.05.31 – ...)Bishop Thomas Thennatt, S.A.C.  (2016.10.18 – 2018.12.14)The joy of the Lord is my strengthBorn:1953.11.26 (Koodalloor, India)Ordained Priest:1978.10.21Consecrated Bishop:2017.01.08Died:2018.12.14 (Gwalior, India † 65)Bishop of Gwalior (India) (2016.10.18 – 2018.12.14)Bishop Joseph Kaithathara (87)  (1999.02.09 – 2016.10.18)Bishop emeritus of Gwalior (India)Patentia et caritateBorn:1939.06.22 (Gothuruthy, India)Ordained Priest:1963.12.21Consecrated Bishop:1999.05.01Bishop of Gwalior (India) (1999.02.09 – 2016.10.18)Special ChurchesCathedral:  Cathedral of St. John the Baptist, Gwalior, Madhya Pradesh Show MapAjmer (←), Jaipur (←), Agra (↑), Jhansi (↘), Sagar (↓)Statistics (2022.12.31)Area: 33,585 km²Population: 5,300 Catholics (0.1% of 6,385,220 total)Pastoral Centres: 27 parishesPersonnel: 42 priests (34 diocesan, 8 religious), 72 religious (11 brothers, 61 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "gwal0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6385220,
+    "catholiques": 5300,
+    "pourcentage_catholiques": 0.1
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 42,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

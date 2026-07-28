@@ -1,0 +1,29 @@
+{
+  "id": "tz-mtwa0",
+  "nom": "Mtwara",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Mtwara / Mtuaran(us) (Latin)Ecclesiastical Province: SongeaNeighbouring Dioceses: Tunduru–Masasi (←), Lindi (↑), Pemba (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1931.12.22: Established as Territorial Abbacy of Ndanda / Ndandæn(sis) (Latin) (from Territorial Abbacy of Lindi)1963.08.05: Lost territory to establish Diocese of Nachingwea1972.12.18: Promoted as Diocese of Mtwara / Mtuaran(us) (Latin) (became suffragan of Dar-es-Salaam)1987.11.18: Became suffragan of SongeaPresent PrelatesBishop (2015.10.15 – ...):Bishop Titus Joseph Mdoe (65)OrdinariesBishops of Mtwara (Roman Rite)Bishop Titus Joseph Mdoe (65)  (2015.10.15 – ...)Bishop of Mtwara (Tanzania)Born:1961.03.19 (Lushoto, Tanzania)Ordained Priest:1986.06.24Consecrated Bishop:2013.05.01Priest of Tanga (Tanzania) (1986.06.24 – 2013.02.16)Titular Bishop of Bahanna (2013.02.16 – 2015.10.15)Auxiliary Bishop of Dar-es-Salaam (Tanzania) (2013.02.16 – 2015.10.15)Bishop of Mtwara (Tanzania) (2015.10.15 – ...)Bishop Gabriel Mmole  (1988.03.12 – 2015.10.15)Born:1939 (Nangoo, Tanzania)Ordained Priest:1971.10.14Consecrated Bishop:1988.05.25Died:2019.05.15 († 79)Priest of Mtwara (Tanzania) (1971.10.14 – 1988.03.12)Bishop of Mtwara (Tanzania) (1988.03.12 – 2015.10.15)Bishop Maurus Libaba  (1972.12.18 – 1986.10.17)Born:1928.02.03 (Nkowe, Tanzania)Ordained Priest:1962.09.19Consecrated Bishop:1973.03.19Died:1988.03.03 († 60)Priest of Ndanda (Tanzania) (1962.09.19 – 1972.12.18)Bishop of Mtwara (Tanzania) (1972.12.18 – 1986.10.17)Bishop of Lindi (Tanzania) (1986.10.17 – 1988.03.03)Abbot Ordinaries of Ndanda (Roman Rite)Bishop Anthony Victor Hälg, O.S.B.  (1949.12.15 – 1972.12.18)Born:1906.11.12 (Kirchberg, Switzerland)Ordained Priest:1932.03.06Consecrated Bishop:1949.06.29Died:1975.11.29 († 69)Coadjutor Abbot of Ndanda (Tanzania) (1949.01.13 – 1949.12.15)Titular Bishop of Baia (1949.01.13 – 1975.11.29)Abbot Ordinary of Ndanda (Tanzania) (1949.12.15 – 1972.12.18)Bishop Joachim Ammann, O.S.B.  (1932.05.29 – 1948.12.15)Born:1898.02.28 (Wyl, Switzerland)Ordained Priest:1923.03.09Consecrated Bishop:1934.03.11Died:1981.08.19 (Münsterschwarzach, Germany † 83)Abbot Ordinary of Ndanda (Tanzania) (1932.05.29 – 1948.12.15)Titular Bishop of Petnelissus (1933.12.11 – 1981.08.19)Former PrelatesCoadjutor Abbot: Bishop Anthony Victor Hälg, O.S.B. (1949.01.13 – 1949.12.15)Special ChurchesCathedral:  Cathedral of All Saints, Mtwara, Mtwara Former Cathedral:  Abbey of Our Lady Help of Christians, Mtwara, Mwanza Show MapTunduru–Masasi (←), Lindi (↑), Pemba (↓)Statistics (2022.12.31)Area: 7,780 km²Population: 104,200 Catholics (10.5% of 991,011 total)Pastoral Centres: 18 parishes, 116 missionsPersonnel: 50 priests (21 diocesan, 29 religious), 342 religious (83 brothers, 259 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mtwa0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 991011,
+    "catholiques": 104200,
+    "pourcentage_catholiques": 10.5
+  },
+  "ressources": {
+    "pretres_diocesains": 21,
+    "pretres_religieux": null,
+    "total_pretres": 50,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 18
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

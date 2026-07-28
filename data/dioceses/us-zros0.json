@@ -1,0 +1,29 @@
+{
+  "id": "us-zros0",
+  "nom": "Santa Rosa",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Santa Rosa / Sanctæ Rosæ in California (Latin)Ecclesiastical Province: San FranciscoNeighbouring Dioceses: Portland in Oregon (↑), Sacramento (→), San Francisco (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Rose of Lima (August 23)Cathedral Dedication Anniversary: November 18Liturgical Calendar 📅History1962.01.13: Established as Diocese of Santa Rosa / Sanctæ Rosæ in California (Latin) (from Metropolitan Archdiocese of San Francisco and Diocese of Sacramento and became suffragan of San Francisco)Contact InfoAddress: Chancery, 985 Airway Court, Santa Rosa, CA 95403, USAPhone: +1 (707) 545-7610Present PrelatesBishop (2011.06.30 – ...):Bishop Robert Francis Vasa (75)Monsignors (17)OrdinariesBishops of Santa Rosa (Roman Rite)Bishop Robert Francis Vasa (75)  (2011.06.30 – ...)Bishop of Santa Rosa (USA)Unless a grain of wheatBorn:1951.05.07 (Lincoln, NE, USA)Ordained Priest:1976.05.22Consecrated Bishop:2000.01.26Priest of Lincoln (USA) (1976.05.22 – 1999.11.19)Prelate of Honour of His Holiness (1995.10.11 – 1999.11.19)Bishop of Baker (USA) (1999.11.19 – 2011.01.24)Coadjutor Bishop of Santa Rosa (USA) (2011.01.24 – 2011.06.30)Bishop of Santa Rosa (USA) (2011.06.30 – ...)Bishop Daniel Francis Walsh (88)  (2000.04.11 – 2011.06.30)Bishop emeritus of Santa Rosa (USA)As one who servesBorn:1937.10.02 (San Francisco, CA, USA)Ordained Priest:1963.03.30Consecrated Bishop:1981.09.24Priest of San Francisco (USA) (1963.03.30 – 1981.07.30)Prelate of Honour of His Holiness (1976.07.23 – 1981.07.30)Titular Bishop of Tigias (1981.07.30 – 1987.06.09)Auxiliary Bishop of San Francisco (USA) (1981.07.30 – 1987.06.09)Bishop of Reno–Las Vegas (USA) (1987.06.09 – 1995.03.21)Bishop of Las Vegas (USA) (1995.03.21 – 2000.04.11)Bishop of Santa Rosa (USA) (2000.04.11 – 2011.06.30)Bishop George Patrick Ziemann  (1992.07.14 – 1999.07.22)Born:1941.09.13 (Pasadena, CA, USA)Ordained Priest:1967.04.29Consecrated Bishop:1987.02.23Died:2009.10.22 († 68)Priest of Los Angeles (USA) (1967.04.29 – 1986.12.23)Titular Bishop of Obba (1986.12.23 – 1992.07.14)Auxiliary Bishop of Los Angeles (USA) (1986.12.23 – 1992.07.14)Bishop of Santa Rosa (USA) (1992.07.14 – 1999.07.22)Bishop John Thomas Steinbock  (1987.01.27 – 1991.10.15)All for the love of GodBorn:1937.07.16 (Los Angeles, CA, USA)Ordained Priest:1963.05.01Consecrated Bishop:1984.07.14Died:2010.12.05 († 73)Priest of Los Angeles (USA) (1963.05.01 – 1984.05.29)Chaplain of His Holiness (1978.04.25 – 1984.05.29)Titular Bishop of Midila (1984.05.29 – 1987.01.27)Auxiliary Bishop of Orange (USA) (1984.05.29 – 1987.01.27)Bishop of Santa Rosa (USA) (1987.01.27 – 1991.10.15)Bishop of Fresno (USA) (1991.10.15 – 2010.12.05)Bishop Mark Joseph Hurley  (1969.11.19 – 1986.04.15)Born:1919.12.13 (San Francisco, CA, USA)Ordained Priest:1944.09.23Consecrated Bishop:1968.01.04Died:2001.02.05 († 81)Priest of San Francisco (USA) (1944.09.23 – 1967.11.21)Titular Bishop of Thunusuda (1967.11.21 – 1969.11.19)Auxiliary Bishop of San Francisco (USA) (1967.11.21 – 1969.11.19)Bishop of Santa Rosa (USA) (1969.11.19 – 1986.04.15)Bishop Leo Thomas Maher  (1962.01.27 – 1969.08.22)Born:1915.07.01 (Mount Union, IA, USA)Ordained Priest:1943.12.18Consecrated Bishop:1962.04.05Died:1991.02.23 (San Diego, CA, USA † 75)Priest of San Francisco (USA) (1943.12.18 – 1962.01.27)Bishop of Santa Rosa (USA) (1962.01.27 – 1969.08.22)Bishop of San Diego (USA) (1969.08.22 – 1990.07.10)Former PrelatesCoadjutor Bishop: Bishop Robert Francis Vasa (75) (2011.01.24 – 2011.06.30)Special ChurchesCathedral:  St. Eugene Cathedral, Santa Rosa, California Former Church (now secular):  Mission San Francisco de Solano, Sonoma, California Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (67)Show MapPortland in Oregon (↑), Sacramento (→), San Francisco (↓)Statistics (2022.12.31)Area: 30,320 km²Population: 191,049 Catholics (20.0% of 955,245 total)Pastoral Centres: 40 parishes, 3 missionsPersonnel: 77 priests (62 diocesan, 15 religious), 47 deacons, 88 religious (42 brothers, 46 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zros0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 955245,
+    "catholiques": 191049,
+    "pourcentage_catholiques": 20.0
+  },
+  "ressources": {
+    "pretres_diocesains": 62,
+    "pretres_religieux": null,
+    "total_pretres": 77,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

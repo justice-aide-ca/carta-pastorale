@@ -1,0 +1,29 @@
+{
+  "id": "us-parm1",
+  "nom": "Parma",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Parma / Parmen(sis) Ruthenorum (Latin)Ecclesiastical Province: PittsburghNeighbouring Dioceses: Holy Protection of Mary of Phoenix (↙), Pittsburgh (→)Depends on: Dicastery for the Eastern ChurchesWebsite: History1969.02.21: Established as Diocese of Parma / Parmen(sis) Ruthenorum (Latin) (from Diocese of Pittsburgh and became suffragan of Munhall)1981.12.03: Lost territory to establish Diocese of Van NuysContact InfoAddress: 1900 Carlton Rd., Parma, OH 44134, USAPhone: +1 (216) 741-8773Present PrelatesBishop (2023.08.31 – ...):Bishop Robert Mark Pipta (59)Monsignors (7)OrdinariesBishops of Parma (Ruthenian Rite)Bishop Robert Mark Pipta (59)  (2023.08.31 – ...)Bishop of Parma of the Ruthenians (USA)May I obey what I preach and be the first to do what I teachBorn:1967.04.07 (Anaheim, CA, USA)Ordained Priest:1994.04.21Consecrated Bishop:2023.11.08Priest of Holy Protection of Mary of Phoenix of the Ruthenians (USA) (1994.04.21 – 2023.08.31)Bishop of Parma of the Ruthenians (USA) (2023.08.31 – ...)Bishop Kurt Richard Burnette (70)  (Apostolic Administrator 2023.01.23 – 2023.08.31)Bishop Milan Lach, S.J. (52)  (2018.06.01 – 2023.01.23)Bishop of Bratislava of the Slovaks (Slovakia)ServireBorn:1973.11.18 (Kežmarok, Slovakia)Ordained Priest:2001.07.01Consecrated Bishop:2013.06.01Auxiliary Bishop of Prešov of the Slovaks (Slovakia) (2013.04.19 – 2017.06.24)Titular Bishop of Ostracine (2013.04.19 – 2018.06.01)Apostolic Administrator of Parma of the Ruthenians (USA) (2017.06.24 – 2018.06.01)Bishop of Parma of the Ruthenians (USA) (2018.06.01 – 2023.01.23)Titular Bishop of Ostracine (2023.01.23 – 2026.03.06)Auxiliary Bishop of Bratislava of the Slovaks (Slovakia) (2023.01.23 – 2026.03.06)Apostolic Visitator in Western Europe of the Slovaks (2024.11.21 – 2026.03.13)Bishop of Bratislava of the Slovaks (Slovakia) (2026.03.06 – ...)Bishop Milan Lach, S.J. (52)  (Apostolic Administrator 2017.06.24 – 2018.06.01)Archbishop William Charles Skurla (70)  (Apostolic Administrator 2016.05.07 – 2017.06.24)Bishop John Michael Kudrick (78)  (2002.05.03 – 2016.05.07)Bishop emeritus of Parma of the Ruthenians (USA)Born:1947.12.23 (Beaverdale, PA, USA)Ordained Priest:1975.05.03Consecrated Bishop:2002.07.10Priest of Pittsburgh of the Ruthenians (USA) (1975.05.03 – 2002.05.03)Bishop of Parma of the Ruthenians (USA) (2002.05.03 – 2016.05.07)Bishop Basil Myron Schott (later Archbishop)  (1996.02.03 – 2002.05.03)In the name of the LordBorn:1939.09.21 (Freeland, PA, USA)Ordained Priest:1965.08.29Consecrated Bishop:1996.07.11Died:2010.06.10 (Pittsburgh, PA, USA † 70)Bishop of Parma of the Ruthenians (USA) (1996.02.03 – 2002.05.03)President of Council of the Ruthenian Church of USA (2002 – 2010.06.10)Metropolitan of Pittsburgh of the Ruthenians (USA) (2002.05.03 – 2010.06.10)Bishop Andrew Pataki  (1984.06.19 – 1995.11.06)Born:1927.08.30 (Palmerton, PA, USA)Ordained Priest:1952.02.24Consecrated Bishop:1983.08.23Died:2011.12.08 († 84)Priest of Passaic of the Ruthenians (USA) (1952.02.24 – 1983.05.30)Titular Bishop of Telmissus (1983.05.30 – 1984.06.19)Auxiliary Bishop of Passaic of the Ruthenians (USA) (1983.05.30 – 1984.06.19)Bishop of Parma of the Ruthenians (USA) (1984.06.19 – 1995.11.06)Bishop of Passaic of the Ruthenians (USA) (1995.11.06 – 2007.12.06)Bishop Emil John Mihalik  (1969.03.22 – 1984.01.27)Mother of God, intercede alwaysBorn:1920.02.07 (Pittsburgh, PA, USA)Ordained Priest:1945.09.21Consecrated Bishop:1969.06.12Died:1984.01.27 († 63)Priest of Munhall of the Ruthenians (USA) (1945.09.21 – 1969.03.22)Bishop of Parma of the Ruthenians (USA) (1969.03.22 – 1984.01.27)Special ChurchesCathedral:  Cathedral of St. John the Baptist, Parma, Ohio Churches by City (34)Show MapHoly Protection of Mary of Phoenix (↙), Pittsburgh (→)Statistics (2022.12.31)Population: 4,309 CatholicsPastoral Centres: 24 parishes, 1 missionPersonnel: 38 priests (36 diocesan, 2 religious), 17 deacons, 9 religious (2 brothers, 7 sisters)PopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "parm1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 36,
+    "pretres_religieux": null,
+    "total_pretres": 38,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

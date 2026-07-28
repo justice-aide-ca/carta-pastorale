@@ -1,0 +1,29 @@
+{
+  "id": "ke-embu0",
+  "nom": "Embu",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Embu / Embuen(sis) (Latin)Ecclesiastical Province: NyeriNeighbouring Dioceses: Murang’a (←), Meru (↗), Kitui (↘), Machakos (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1986.06.09: Established as Diocese of Embu / Embuen(sis) (Latin) (from Diocese of Meru and became suffragan of Nairobi)1990.05.21: Became suffragan of NyeriPresent PrelatesBishop (2024.08.15 – ...):Bishop Peter Kimani Ndung’u (59)Monsignors (1)OrdinariesBishops of Embu (Roman Rite)Bishop Peter Kimani Ndung’u (59)  (2024.08.15 – ...)Bishop of Embu (Kenya)Born:1966.11.11 (Githunguri, Kiambu, Kenya)Ordained Priest:1995.07.22Consecrated Bishop:2024.11.16Priest of Nairobi (Kenya) (1995.07.22 – 2024.08.15)Bishop of Embu (Kenya) (2024.08.15 – ...)Archbishop Anthony Muheria, Opus Dei (63)  (Apostolic Administrator 2023.09.30 – 2024.08.15)Bishop Paul Kariuki Njiru (63)  (2009.05.09 – 2023.07.22)Bishop emeritus of Wote (Kenya)Ego sum bonus pastor tibi et omnibusBorn:1963.03.11 (Kathunguri, Kenya)Ordained Priest:1993.03.01Consecrated Bishop:2009.07.25Priest of Embu (Kenya) (1993.03.01 – 2009.05.09)Bishop of Embu (Kenya) (2009.05.09 – 2023.07.22)Bishop of Wote (Kenya) (2023.07.22 – 2026.03.25)Bishop Anthony Muheria, Opus Dei (63) (later Archbishop)  (2003.10.30 – 2008.06.28)Metropolitan Archbishop of Nyeri (Kenya)Vice-President of Kenya Conference of Catholic BishopsUt essemus sanctiBorn:1963.05.27 (Kaburugi, Kenya)Ordained Priest:1993.06.13Consecrated Bishop:2004.01.10Priest of Opus Dei (Italy) (1993.06.13 – 2003.10.30)Bishop of Embu (Kenya) (2003.10.30 – 2008.06.28)Bishop of Kitui (Kenya) (2008.06.28 – 2017.04.23)Apostolic Administrator of Machakos (Kenya) (2015.02 – 2017.04.23)Metropolitan Archbishop of Nyeri (Kenya) (2017.04.23 – ...)Apostolic Administrator of Embu (Kenya) (2023.09.30 – 2024.08.15)Vice-President of Kenya Conference of Catholic Bishops (2024.04.19 – ...)Bishop John Njue (80) (later Cardinal)  (1986.06.09 – 2002.03.09)Cardinal-Priest of Preziosissimo Sangue di Nostro Signore Gesù CristoMetropolitan Archbishop emeritus of Nairobi (Kenya)In veritate Testimonium in caritate servitiumBorn:1946.01.01 (Embu, Kenya)Ordained Priest:1973.01.06Consecrated Bishop:1986.09.20Created Cardinal:2007.11.24Priest of Meru (Kenya) (1973.01.06 – 1986.06.09)Bishop of Embu (Kenya) (1986.06.09 – 2002.03.09)President of Kenya Conference of Catholic Bishops (1997 – 2003)Coadjutor Archbishop of Nyeri (Kenya) (2002.03.09 – 2007.10.06)Apostolic Administrator of Isiolo (Kenya) (2005 – 2006.01.25)President of Kenya Conference of Catholic Bishops (2006 – 2015)Apostolic Administrator of Murang’a (Kenya) (2006.11 – 2009.04.04)Metropolitan Archbishop of Nairobi (Kenya) (2007.10.06 – 2021.01.04)Cardinal-Priest of Preziosissimo Sangue di Nostro Signore Gesù Cristo (2007.11.24 [2008.02.17] – ...)Apostolic Administrator of Nyeri (Kenya) (2007.12 – 2008.04.19)Special ChurchesCathedral:  Sts. Peter and Paul Cathedral, Embu, Embu Show MapMurang’a (←), Meru (↗), Kitui (↘), Machakos (↓)Statistics (2022.12.31)Area: 2,714 km²Population: 336,530 Catholics (52.4% of 642,760 total)Pastoral Centres: 23 parishesPersonnel: 94 priests (84 diocesan, 10 religious), 165 religious (10 brothers, 155 sisters), 28 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "embu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 642760,
+    "catholiques": 336530,
+    "pourcentage_catholiques": 52.4
+  },
+  "ressources": {
+    "pretres_diocesains": 84,
+    "pretres_religieux": null,
+    "total_pretres": 94,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "tz-mbin0",
+  "nom": "Mbinga",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Mbinga / Mbingaën(sis) (Latin)Ecclesiastical Province: SongeaNeighbouring Dioceses: Njombe (↑), Songea (→), Lichinga (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1986.12.22: Established as Diocese of Mbinga / Mbingaën(sis) (Latin) (from Diocese of Songea and became suffragan of Dar-es-Salaam)1987.11.18: Became suffragan of SongeaPresent PrelatesBishop (2011.03.12 – ...):Bishop John Chrisostom Ndimbo (65)OrdinariesBishops of Mbinga (Roman Rite)Bishop John Chrisostom Ndimbo (65)  (2011.03.12 – ...)Bishop of Mbinga (Tanzania)In sapientia et misericordia DeiBorn:1960.10.12 (Kipololo, Tanzania)Ordained Priest:1989.06.21Consecrated Bishop:2011.06.05Priest of Mbinga (Tanzania) (1989.06.21 – 2011.03.12)Bishop of Mbinga (Tanzania) (2011.03.12 – ...)Apostolic Administrator of Njombe (Tanzania) (2021.04.13 – 2023.10.19)Bishop Emmanuel A. Mapunda  (1986.12.22 – 2011.03.12)Born:1935.12.10 (Parangu, Tanzania)Ordained Priest:1965.08.08Consecrated Bishop:1987.01.06Died:2019.05.16 († 83)Priest of Songea (Tanzania) (1965.08.08 – 1986.12.22)Bishop of Mbinga (Tanzania) (1986.12.22 – 2011.03.12)Special ChurchesCathedral:  St. Kilian Cathedral, Mbinga, Ruvuma Show MapNjombe (↑), Songea (→), Lichinga (↓)Statistics (2022.12.31)Area: 11,400 km²Population: 430,814 Catholics (76.7% of 561,814 total)Pastoral Centres: 36 parishesPersonnel: 65 priests (58 diocesan, 7 religious), 425 religious (8 brothers, 417 sisters), 193 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mbin0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 561814,
+    "catholiques": 430814,
+    "pourcentage_catholiques": 76.7
+  },
+  "ressources": {
+    "pretres_diocesains": 58,
+    "pretres_religieux": null,
+    "total_pretres": 65,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

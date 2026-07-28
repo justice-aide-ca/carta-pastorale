@@ -1,0 +1,29 @@
+{
+  "id": "br-brej0",
+  "nom": "Brejo",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Brejo / Breien(sis) (Latin)Ecclesiastical Province: São Luís do MaranhãoNeighbouring Dioceses: Coroatá (←), São Luís do Maranhão (↖), Parnaíba (↗), Campo Maior (↘), Teresina (↓), Caxias do Maranhão (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1971.09.14: Established as Diocese of Brejo / Breien(sis) (Latin) (from Metropolitan Archdiocese of São Luís do Maranhão and became suffragan of São Luís do Maranhão)Present PrelatesBishop (2010.05.05 – ...):Bishop José Valdeci Santos Mendes (64)OrdinariesBishops of Brejo (Roman Rite)Bishop José Valdeci Santos Mendes (64)  (2010.05.05 – ...)Bishop of Brejo (Brazil)Bonus pastor animam suam dat pro ovibusBorn:1961.09.12 (Coroatá, MA, Brazil)Ordained Priest:1994.12.11Consecrated Bishop:2010.08.21Priest of Coroatá (Brazil) (1994.12.11 – 2010.05.05)Bishop of Brejo (Brazil) (2010.05.05 – ...)Bishop Valter Carrijo, S.D.S. (92)  (1991.09.25 – 2010.05.05)Bishop emeritus of Brejo (Brazil)Veni ut vitam habeantBorn:1934.01.22 (Uberlandia, MG, Brazil)Ordained Priest:1961.12.08Consecrated Bishop:1989.04.15Coadjutor Bishop of Brejo (Brazil) (1989.01.18 – 1991.09.25)Bishop of Brejo (Brazil) (1991.09.25 – 2010.05.05)Bishop Afonso de Oliveira Lima, S.D.S.  (1971.11.29 – 1991.09.25)Duc in altumBorn:1916.08.28 (Limoeiro do Norte, CE, Brazil)Ordained Priest:1940.12.08Consecrated Bishop:1972.04.09Died:1994.08.31 (Rio de Janeiro, RJ, Brazil † 78)Bishop of Brejo (Brazil) (1971.11.29 – 1991.09.25)Former PrelatesCoadjutor Bishop: Bishop Valter Carrijo, S.D.S. (92) (1989.01.18 – 1991.09.25)Special ChurchesCathedral:  Catedral Nossa Senhora da Conceição, Brejo, Maranhão Churches by City (18)Show MapCoroatá (←), São Luís do Maranhão (↖), Parnaíba (↗), Campo Maior (↘), Teresina (↓), Caxias do Maranhão (↓)Statistics (2022.12.31)Area: 21,218 km²Population: 503,862 Catholics (70.9% of 710,550 total)Pastoral Centres: 22 parishes, 1 missionPersonnel: 31 priests (24 diocesan, 7 religious), 36 religious (9 brothers, 27 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "brej0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 710550,
+    "catholiques": 503862,
+    "pourcentage_catholiques": 70.9
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 31,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

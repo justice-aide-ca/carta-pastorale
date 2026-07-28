@@ -1,0 +1,29 @@
+{
+  "id": "us-lexi0",
+  "nom": "Lexington",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Lexington / Lexingtonen(sis) (Latin)Ecclesiastical Province: LouisvilleNeighbouring Dioceses: Louisville (←), Covington (↑), Columbus (↗), Steubenville (↗), Wheeling–Charleston (→), Richmond (↘), Knoxville (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Queenship of Mary (August 22)Cathedral Dedication Anniversary: March 2Liturgical Calendar 📅History1988.01.14: Established as Diocese of Lexington / Lexingtonen(sis) (Latin) (from Metropolitan Archdiocese of Louisville and Diocese of Covington and became suffragan of Louisville)Contact InfoAddress: The Catholic Center, 1310 W. Main St., Lexington, KY 40508-2048, USAPhone: +1 (606) 253-1993Present PrelatesBishop (2015.03.12 – ...):Bishop John Eric Stowe, O.F.M. Conv. (60)OrdinariesBishops of Lexington (Roman Rite)Bishop John Eric Stowe, O.F.M. Conv. (60)  (2015.03.12 – ...)Bishop of Lexington (USA)Annuntiamus verbum vitæBorn:1966.04.15 (Amherst, OH, USA)Ordained Priest:1995.09.16Consecrated Bishop:2015.05.05Bishop of Lexington (USA) (2015.03.12 – ...)Bishop Ronald William Gainer (78)  (2002.12.13 – 2014.01.24)Bishop emeritus of Harrisburg (USA)Ex de plenitudine gratiam pro gratiaBorn:1947.08.24 (Pottsville, PA, USA)Ordained Priest:1973.05.19Consecrated Bishop:2003.02.22Priest of Allentown (USA) (1973.05.19 – 2002.12.13)Prelate of Honour of His Holiness (1991.08.02 – 2002.12.13)Bishop of Lexington (USA) (2002.12.13 – 2014.01.24)Bishop of Harrisburg (USA) (2014.01.24 – 2023.04.25)Bishop James Kendrick Williams (89)  (1988.01.14 – 2002.06.11)Bishop emeritus of Lexington (USA)Born:1936.09.05 (Athertonville, KY, USA)Ordained Priest:1963.05.25Consecrated Bishop:1984.06.19Priest of Louisville (USA) (1963.05.25 – 1984.04.15)Titular Bishop of Catula (1984.04.15 – 1988.01.14)Auxiliary Bishop of Covington (USA) (1984.04.15 – 1988.01.14)Bishop of Lexington (USA) (1988.01.14 – 2002.06.11)Special ChurchesCathedral:  Cathedral of Christ the King, Lexington, Kentucky Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (66)Show MapLouisville (←), Covington (↑), Columbus (↗), Steubenville (↗), Wheeling–Charleston (→), Richmond (↘), Knoxville (↓)Statistics (2022.12.31)Area: 42,520 km²Population: 38,673 Catholics (2.4% of 1,588,319 total)Pastoral Centres: 59 parishesPersonnel: 70 priests (56 diocesan, 14 religious), 72 deacons, 49 religious (14 brothers, 35 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lexi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1588319,
+    "catholiques": 38673,
+    "pourcentage_catholiques": 2.4
+  },
+  "ressources": {
+    "pretres_diocesains": 56,
+    "pretres_religieux": null,
+    "total_pretres": 70,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 59
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

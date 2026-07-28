@@ -1,0 +1,29 @@
+{
+  "id": "pe-huac0",
+  "nom": "Huacho",
+  "pays": "pe",
+  "pays_nom": "Peru",
+  "continent": "amerique",
+  "type": "Diocese Name: Huacho / Huachen(sis) (Latin)Ecclesiastical Province: LimaNeighbouring Dioceses: Chimbote (↖), Huaraz (↑), Huánuco (↗), Tarma (→), Huancayo (→), Yauyos (↘), Chosica (↘), Carabayllo (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsCathedral Dedication Anniversary: January 13Liturgical Calendar 📅History1958.05.15: Established as Diocese of Huacho / Huachen(sis) (Latin) (from Metropolitan Archdiocese of Lima and became suffragan of Lima)Present PrelatesBishop:vacantApostolic Administrator (2026.07.15 – ...):Bishop Luis Alberto Barrera Pacheco, M.C.C.J. (59)Bishop of Callao (Peru)Second Vice-President of Episcopal Conference of PeruMonsignors (1)OrdinariesBishops of Huacho (Roman Rite)Bishop Luis Alberto Barrera Pacheco, M.C.C.J. (59)  (Apostolic Administrator 2026.07.15 – ...)Bishop Antonio Santarsiero Rosa, O.S.J. (75)  (2004.02.04 – 2026.07.15)Bishop emeritus of Huacho (Peru)Born:1951.06.13 (Avigliano, Italy)Ordained Priest:1980.06.14Consecrated Bishop:2001.08.12Bishop-Prelate of Huarí (Peru) (2001.06.13 – 2004.02.04)Bishop of Huacho (Peru) (2004.02.04 – 2026.07.15)General Secretary of Episcopal Conference of Peru (2024.11.13 – 2025.04.09)Bishop Lorenzo León Alvarado, O. de M.  (1967.08.03 – 2003.04.22)Born:1928.05.31 (Callao, Peru)Ordained Priest:1952.01.27Consecrated Bishop:1967.09.17Died:2020.02.17 (Lima, Peru † 91)Bishop of Huacho (Peru) (1967.08.03 – 2003.04.22)Bishop Pablo Ramírez Taboado, SS.CC.  (1960.01.28 – 1966.12.19)Born:1909.10.05 (Lima, Peru)Ordained Priest:1941.10.14Consecrated Bishop:1947.11.09Died:1966.12.19 († 57)Bishop of Cajamarca (Peru) (1947.09.05 – 1960.01.28)Bishop of Huacho (Peru) (1960.01.28 – 1966.12.19)Bishop Nemesio Rivera Meza  (1958.05.15 – 1960.01.28)Born:1918.08.11 (San Jerónimo de Tunán, Peru)Ordained Priest:1946.09.21Consecrated Bishop:1958.07.20Died:2007.01.09 (Lima, Peru † 88)Bishop of Huacho (Peru) (1958.05.15 – 1960.01.28)Bishop of Cajamarca (Peru) (1960.01.28 – 1961.07.08)Titular Bishop of Diospolis superior (1961.07.08 – 2007.01.09)Special ChurchesCathedral:  Catedral San Bartolomé, Huacho, Lima Show MapChimbote (↖), Huaraz (↑), Huánuco (↗), Tarma (→), Huancayo (→), Yauyos (↘), Chosica (↘), Carabayllo (↓)Statistics (2022.12.31)Area: 14,992 km²Population: 613,000 Catholics (90.3% of 679,000 total)Pastoral Centres: 61 parishes, 520 missionsPersonnel: 70 priests (59 diocesan, 11 religious), 2 deacons, 127 religious (44 brothers, 83 sisters), 50 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.16© 2026 GCatholic.org",
+  "code_gcatholic": "huac0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 679000,
+    "catholiques": 613000,
+    "pourcentage_catholiques": 90.3
+  },
+  "ressources": {
+    "pretres_diocesains": 59,
+    "pretres_religieux": null,
+    "total_pretres": 70,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 61
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mx-ciudA",
+  "nom": "Ciudad Victoria",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Ciudad Victoria / Civitatis Victorien(sis) (Latin)Ecclesiastical Province: MonterreyNeighbouring Dioceses: Matehuala (←), Linares (↖), Matamoros–Reynosa (↗), Tampico (↘), Ciudad Valles (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1964.12.21: Established as Diocese of Ciudad Victoria / Civitatis Victorien(sis) (Latin) (from Diocese of Matamoros and Diocese of Tampico and became suffragan of Monterrey)Contact InfoAddress: Morelos # 1046-A Ote. Col. Centro, 87000 - Cd. Victoria, Tamps., MexicoPhone: (834) 3-12-87-16Present PrelatesBishop (2021.09.23 – ...):Bishop Oscar Efraín Tamez Villareal (52)Monsignors (4)OrdinariesBishops of Ciudad Victoria (Roman Rite)Bishop Oscar Efraín Tamez Villareal (52)  (2021.09.23 – ...)Bishop of Ciudad Victoria (Mexico)Domine quid me vis facereBorn:1973.09.04 (Allende, Nuevo León, Mexico)Ordained Priest:2003.08.15Consecrated Bishop:2017.01.11Priest of Monterrey (Mexico) (2003.08.15 – 2016.10.31)Titular Bishop of Madaurus (2016.10.31 – 2021.09.23)Auxiliary Bishop of Monterrey (Mexico) (2016.10.31 – 2021.09.23)Bishop of Ciudad Victoria (Mexico) (2021.09.23 – ...)Apostolic Administrator of Tampico (Mexico) (2025.03.17 – 2026.02.06)Archbishop Rogelio Cabrera López (75)  (Apostolic Administrator 2021.03.30 – 2021.09.23)Bishop Antonio González Sánchez (78)  (1995.11.03 – 2021.03.30)Bishop emeritus of Ciudad Victoria (Mexico)Padre, que todos sean unoBorn:1947.09.15 (Amatlán de Jora, Mexico)Ordained Priest:1973.06.10Consecrated Bishop:1995.12.14Priest of Tepic (Mexico) (1973.06.10 – 1995.11.03)Bishop of Ciudad Victoria (Mexico) (1995.11.03 – 2021.03.30)Cardinal Adolfo Antonio Suárez Rivera  (Apostolic Administrator 1994.11.03 – 1995.12)Bishop Raymundo López Mateos, O.F.M.  (1985.12.20 – 1994.11.03)Born:1932.03.04 (Angangueo, Mexico)Ordained Priest:1955.06.04Consecrated Bishop:1986.01.29Died:2000.04.03 († 68)Bishop of Ciudad Victoria (Mexico) (1985.12.20 – 1994.11.03)Bishop Alfonso de Jesús Hinojosa Berrones  (1974.02.12 – 1985.04.10)Born:1924.10.07 (Monterrey, Mexico)Ordained Priest:1949.10.09Consecrated Bishop:1974.04.05Died:2017.02.23 († 92)Priest of Monterrey (Mexico) (1949.10.09 – 1974.02.12)Bishop of Ciudad Victoria (Mexico) (1974.02.12 – 1985.04.10)Auxiliary Bishop of Monterrey (Mexico) (1985.04.10 – 2000.02.02)Bishop José de Jesús Tirado Pedraza (later Archbishop)  (1965.04.01 – 1973.01.25)Born:1908.03.31 (Santa Ana Maya, Mexico)Ordained Priest:1931.05.10Consecrated Bishop:1963.07.25Died:1993.07.08 († 85)Priest of Morelia (Mexico) (1931.05.10 – 1963.05.21)Titular Bishop of Thelepte (1963.05.21 – 1965.04.01)Bishop of Ciudad Victoria (Mexico) (1965.04.01 – 1973.01.25)Titular Bishop of Bevagna (1973.01.25 – 1976.12.07)Auxiliary Bishop of Monterrey (Mexico) (1973.01.25 – 1976.12.07)Metropolitan Archbishop of Monterrey (Mexico) (1976.12.07 – 1983.11.08)Special ChurchesCathedral:  Catedral del Sagrado Corazón de Jesús, Ciudad Victoria, Tamaulipas Former Cathedral, Minor Basilica:  Basílica de Nuestra Señora del Refugio, Ciudad Victoria, Tamaulipas Show MapMatehuala (←), Linares (↖), Matamoros–Reynosa (↗), Tampico (↘), Ciudad Valles (↓)Statistics (2022.12.31)Area: 39,720 km²Population: 435,200 Catholics (86.7% of 502,000 total)Pastoral Centres: 35 parishesPersonnel: 65 priests (55 diocesan, 10 religious), 81 religious (11 brothers, 70 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ciudA",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 502000,
+    "catholiques": 435200,
+    "pourcentage_catholiques": 86.7
+  },
+  "ressources": {
+    "pretres_diocesains": 55,
+    "pretres_religieux": null,
+    "total_pretres": 65,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 35
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

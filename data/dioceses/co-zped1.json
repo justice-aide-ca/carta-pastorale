@@ -1,0 +1,29 @@
+{
+  "id": "co-zped1",
+  "nom": "San Pedro",
+  "pays": "co",
+  "pays_nom": "Cote d’Ivoire",
+  "continent": "unknown",
+  "type": "Diocese Name: San Pedro (français) / San Pedro-en-Côte-d’Ivoire (français) / Sancti Petri in Litore Eburneo (Latin)Ecclesiastical Province: GagnoaNeighbouring Dioceses: Man (↑), Gagnoa (↗), Yopougon (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1989.10.23: Established as Diocese of San Pedro (français) / San Pedro-en-Côte-d’Ivoire (français) / Sancti Petri in Litore Eburneo (Latin) (from Diocese of Gagnoa and became suffragan of Abidjan)1994.12.19: Became suffragan of GagnoaPresent PrelatesBishop (2025.10.22 – ...):Bishop Youlo Alexis Touabli (66)President of Regional Episcopal Conference of West AfricaOrdinariesBishops of San Pedro (Roman Rite)Bishop Youlo Alexis Touabli (66)  (2025.10.22 – ...)Bishop of San Pedro (Cote d’Ivoire)President of Regional Episcopal Conference of West AfricaViens Esprit SaintBorn:1959.11.17 (Béréblo, Cote d’Ivoire)Ordained Priest:1987.08.08Consecrated Bishop:2006.12.16Priest of Gagnoa (Cote d’Ivoire) (1987.08.08 – 1992)Priest of San Pedro (Cote d’Ivoire) (1992 – 2006.10.14)Bishop of Agboville (Cote d’Ivoire) (2006.10.14 – 2025.10.22)President of Catholic Bishops’ Conference of Côte d’Ivoire (2011.06 – 2017.05.21)Second Vice-President of Regional Episcopal Conference of West Africa (2016.02 – 2022.05.05)Apostolic Administrator of Yamoussoukro (Cote d’Ivoire) (2018.06.19 – 2022.12.28)President of Regional Episcopal Conference of West Africa (2022.05.05 – ...)Apostolic Administrator of Agboville (Cote d’Ivoire) (2025.10.22 – 2026.02.27)Bishop of San Pedro (Cote d’Ivoire) (2025.10.22 – ...)Archbishop Jean-Jacques Koffi Oi Koffi (64)  (Apostolic Administrator 2025.04.08 – 2025.10.22)Bishop Jean-Jacques Koffi Oi Koffi (64) (later Archbishop)  (2009.01.03 – 2025.04.08)Metropolitan Archbishop of Gagnoa (Cote d’Ivoire)AmenBorn:1962.03.22 (Bongouanou, Cote d’Ivoire)Ordained Priest:1990.08.04Consecrated Bishop:2003.12.21Priest of Abengourou (Cote d’Ivoire) (1990.08.04 – 2003.11.21)Bishop of Abengourou (Cote d’Ivoire) (2003.11.21 – 2009.01.03)Bishop of San Pedro (Cote d’Ivoire) (2009.01.03 – 2025.04.08)Vice-President of Catholic Bishops’ Conference of Côte d’Ivoire (2017.05.21 – 2023.06.04)Apostolic Administrator of Gagnoa (Cote d’Ivoire) (2023.10.04 – 2025.04.08)Apostolic Administrator of San Pedro (Cote d’Ivoire) (2025.04.08 – 2025.10.22)Metropolitan Archbishop of Gagnoa (Cote d’Ivoire) (2025.04.08 – ...)Bishop Paulin Kouabenan N’Gnamé  (2007.03.01 – 2008.03.21)Born:1962.05.12 (Mérékou, Cote d’Ivoire)Ordained Priest:1989.08.06Consecrated Bishop:2007.05.12Died:2008.03.21 (Méagui, Cote d’Ivoire † 45)Priest of Bondoukou (Cote d’Ivoire) (1989.08.06 – 2007.03.01)Bishop of San Pedro (Cote d’Ivoire) (2007.03.01 – 2008.03.21)Bishop Barthélémy Djabla (later Archbishop)  (1989.10.23 – 2006.07.21)Born:1936 (Mahibouo, Cote d’Ivoire)Ordained Priest:1964.03.15Consecrated Bishop:1990.01.07Died:2008.09.15 (Abidjan, Cote d’Ivoire † 71)Priest of Gagnoa (Cote d’Ivoire) (1964.03.15 – 1989.10.23)Bishop of San Pedro (Cote d’Ivoire) (1989.10.23 – 2006.07.21)Metropolitan Archbishop of Gagnoa (Cote d’Ivoire) (2006.07.21 – 2008.09.15)Special ChurchesCathedral:  Cathédrale Saint-Pierre, San Pedro, Bas-Sassandra Show MapMan (↑), Gagnoa (↗), Yopougon (→)Statistics (2022.12.31)Area: 27,382 km²Population: 249,000 Catholics (8.7% of 2,870,000 total)Pastoral Centres: 37 parishes, 4 missionsPersonnel: 74 priests (56 diocesan, 18 religious), 55 religious (22 brothers, 33 sisters), 25 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zped1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2870000,
+    "catholiques": 249000,
+    "pourcentage_catholiques": 8.7
+  },
+  "ressources": {
+    "pretres_diocesains": 56,
+    "pretres_religieux": null,
+    "total_pretres": 74,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 37
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

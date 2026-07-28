@@ -1,0 +1,29 @@
+{
+  "id": "cm-mbal0",
+  "nom": "Mbalmayo",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Mbalmayo / Mbalmayoën(sis) (Latin)Ecclesiastical Province: YaoundéNeighbouring Dioceses: Ebolowa (↙), Edéa (←), Yaoundé (↑), Doumé–Abong’ Mbang (→), Sangmélima (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1961.06.24: Established as Diocese of Mbalmayo / Mbalmayoën(sis) (Latin) (from Metropolitan Archdiocese of Yaoundé and became suffragan of Yaoundé)Present PrelatesBishop (2016.12.28 – ...):Bishop Joseph Marie Ndi-Okalla (68)Monsignors (3)OrdinariesBishops of Mbalmayo (Roman Rite)Bishop Joseph Marie Ndi-Okalla (68)  (2016.12.28 – ...)Bishop of Mbalmayo (Cameroon)Promittam Domino DeoBorn:1957.11.21 (Douala, Cameroon)Ordained Priest:1983.08.13Consecrated Bishop:2017.02.18Priest of Mbalmayo (Cameroon) (1983.08.13 – 2016.12.28)Bishop of Mbalmayo (Cameroon) (2016.12.28 – ...)Bishop Adalbert Ndzana  (1987.03.07 – 2016.12.27)Deum adoraBorn:1939.07.17 (Zoatoubsi, Cameroon)Ordained Priest:1969.08.15Consecrated Bishop:1985.01.20Died:2025.09.07 (Yaoundé, Cameroon † 86)Priest of Yaoundé (Cameroon) (1969.08.15 – 1984.11.08)Coadjutor Bishop of Mbalmayo (Cameroon) (1984.11.08 – 1987.03.07)Bishop of Mbalmayo (Cameroon) (1987.03.07 – 2016.12.27)Bishop Paul Etoga  (1961.06.24 – 1987.03.07)Scio cui credediBorn:1911 (Nkolmewrut, Cameroon)Ordained Priest:1939.09.19Consecrated Bishop:1955.11.30Died:1998.03.13 († 86)Priest of Yaoundé (Cameroon) (1939.09.19 – 1955.07.03)Titular Bishop of Ciparissia (1955.07.03 – 1961.06.24)Auxiliary Bishop of Yaoundé (Cameroon) (1955.07.03 – 1961.06.24)Bishop of Mbalmayo (Cameroon) (1961.06.24 – 1987.03.07)Former PrelatesCoadjutor Bishop: Bishop Adalbert Ndzana (1984.11.08 – 1987.03.07)Special ChurchesCathedral:  Cathédrale Saint-Rosaire, Mbalmayo, Centre Show MapEbolowa (↙), Edéa (←), Yaoundé (↑), Doumé–Abong’ Mbang (→), Sangmélima (↘)Statistics (2022.12.31)Area: 9,753 km²Population: 298,014 Catholics (57.6% of 516,942 total)Pastoral Centres: 98 parishes, 3 missionsPersonnel: 116 priests (96 diocesan, 20 religious), 110 religious (72 brothers, 38 sisters), 38 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mbal0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 516942,
+    "catholiques": 298014,
+    "pourcentage_catholiques": 57.6
+  },
+  "ressources": {
+    "pretres_diocesains": 96,
+    "pretres_religieux": null,
+    "total_pretres": 116,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 98
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mz-caia1",
+  "nom": "Caia",
+  "pays": "mz",
+  "pays_nom": "Mozambique",
+  "continent": "unknown",
+  "type": "Diocese Name: Caia / Caian(sis) (Latin)Ecclesiastical Province: BeiraNeighbouring Dioceses: Chimoio (↙), Tete (↖), Chikwawa (↑), Quelimane (→), Beira (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2025.12.23: Established as Diocese of Caia / Caian(sis) (Latin) (from Metropolitan Archdiocese of Beira, Diocese of Chimoio, Diocese of Quelimane and Diocese of Tete and became suffragan of Beira)Present PrelatesBishop (2025.12.23 – ...):Bishop António Manuel Bogaio Constantino, M.C.C.J. (56)Apostolic Administrator of Beira (Mozambique)OrdinariesBishops of Caia (Roman Rite)Bishop António Manuel Bogaio Constantino, M.C.C.J. (56)  (2025.12.23 – ...)Bishop of Caia (Mozambique)Apostolic Administrator of Beira (Mozambique)In omnia sapientia DominiBorn:1969.11.09 (Tete, Mozambique)Ordained Priest:2001.06.13Consecrated Bishop:2023.02.19Titular Bishop of Sutunurca (2022.12.13 – 2025.12.23)Auxiliary Bishop of Beira (Mozambique) (2022.12.13 – 2025.12.23)Bishop of Caia (Mozambique) (2025.12.23 – ...)Apostolic Administrator of Beira (Mozambique) (2026.06.12 – ...)Special ChurchesCathedral:  Catedral São Mateus Apostólo, Caia, Sofala Show MapChimoio (↙), Tete (↖), Chikwawa (↑), Quelimane (→), Beira (↓)Statistics (2025)Area: 54,569 km²Population: 153,149 Catholics (9.6% of 1,603,063 total)Pastoral Centres: 16 parishesPersonnel: 23 priests (15 diocesan, 8 religious), 17 religious (17 sisters), 18 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "caia1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1603063,
+    "catholiques": 153149,
+    "pourcentage_catholiques": 9.6
+  },
+  "ressources": {
+    "pretres_diocesains": 15,
+    "pretres_religieux": null,
+    "total_pretres": 23,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

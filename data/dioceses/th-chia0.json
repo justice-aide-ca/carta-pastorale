@@ -1,0 +1,29 @@
+{
+  "id": "th-chia0",
+  "nom": "Chiang Mai",
+  "pays": "th",
+  "pays_nom": "Thailand",
+  "continent": "unknown",
+  "type": "Diocese Name: Chiang Mai / สังฆมณฑลเชียงใหม่ (ไทย) / 清邁 (正體中文) / Chiangmaien(sis) (Latin)Ecclesiastical Province: BangkokNeighbouring Dioceses: Hpa-an (↙), Loikaw (←), Pekhon (↖), Kengtung (↑), Chiang Rai (↗), Nakhon Sawan (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsLiturgical Calendar (National) 📅History1959.11.17: Established as Apostolic Prefecture of Chieng-Mai / Chiengmaien(sis) (Latin) (from Apostolic Vicariate of Bangkok)1965.12.18: Promoted as Diocese of Chieng-Mai / Chiengmaien(sis) (Latin) (became suffragan of Bangkok)1969.07.02: Renamed as Diocese of Chiang Mai / สังฆมณฑลเชียงใหม่ (ไทย) / 清邁 (正體中文) / Chiangmaien(sis) (Latin)1970.06.20: Lost territory to Diocese of Nakhon Sawan2018.04.25: Lost territory to establish Diocese of Chiang RaiPresent PrelatesBishop (2026.05.07 – ...):Bishop-elect Peter Suphot Roeksujarit (64)OrdinariesBishops of Chiang Mai (Roman Rite)Bishop-elect Peter Suphot Roeksujarit (64)  (2026.05.07 – ...)Bishop of Chiang Mai (Thailand)Born:1961.11.02 (Ayutthaya, Thailand)Ordained Priest:1990.06.03Consecrated Bishop:2026.07.29Priest of Bangkok (Thailand) (1990.06.03 – 2026.05.07)Bishop of Chiang Mai (Thailand) (2026.05.07 – ...)Bishop Francis Xavier Vira Arpondratana (70) (later Archbishop)  (2009.02.10 – 2025.01.11)Metropolitan Archbishop of Bangkok (Thailand)President of Catholic Bishops’ Conference of ThailandOmnia facio propter evangeliumBorn:1955.10.03 (Samsen, Thailand)Ordained Priest:1981.06.07Consecrated Bishop:2009.05.01Priest of Bangkok (Thailand) (1981.06.07 – 2009.02.10)Bishop of Chiang Mai (Thailand) (2009.02.10 – 2025.01.11)General Secretary of Catholic Bishops’ Conference of Thailand (2018? – 2025.03.25)Apostolic Administrator of Bangkok (Thailand) (2024.06.27 – 2025.01.11)Metropolitan Archbishop of Bangkok (Thailand) (2025.01.11 – ...)President of Catholic Bishops’ Conference of Thailand (2025.03.25 – ...)Bishop Joseph Sangval Surasarang  (1986.10.17 – 2009.02.10)In spe salviBorn:1935.08.25 (Tambon Nakhok, Thailand)Ordained Priest:1962.12.22Consecrated Bishop:1987.01.06Died:2022.02.10 (Bangkok, Thailand † 86)Priest of Bangkok (Thailand) (1962.12.22 – 1986.10.17)Bishop of Chiang Mai (Thailand) (1986.10.17 – 2009.02.10)Bishop Robert Ratna Bamrungtrakul  (1975.04.28 – 1986.10.17)Born:1916.02.11 (Bangkok, Thailand)Ordained Priest:1949.01.31Consecrated Bishop:1969.09.07Died:2000.12.08 († 84)Priest of Ratburi (Thailand) (1949.01.31 – 1969.06.26)Bishop of Ratchaburi (Thailand) (1969.06.26 – 1975.04.28)President of Catholic Bishops’ Conference of Thailand (1973 – 1979)Bishop of Chiang Mai (Thailand) (1975.04.28 – 1986.10.17)Bishop Lucien-Bernard Lacoste (鄭紹基), S.C.I. di Béth.  (Apostolic Administrator 1959 – 1975.04.28)Special ChurchesCathedral:  Sacred Heart Cathedral, Chiang Mai, Chiang Mai Jubilee Churches in the Holy Year 2025Show MapHpa-an (↙), Loikaw (←), Pekhon (↖), Kengtung (↑), Chiang Rai (↗), Nakhon Sawan (↓)Statistics (2022.12.31)Area: 48,013 km²Population: 55,752 Catholics (1.8% of 3,142,985 total)Pastoral Centres: 34 parishes, 7 missionsPersonnel: 92 priests (44 diocesan, 48 religious), 224 religious (94 brothers, 130 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "chia0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3142985,
+    "catholiques": 55752,
+    "pourcentage_catholiques": 1.8
+  },
+  "ressources": {
+    "pretres_diocesains": 44,
+    "pretres_religieux": null,
+    "total_pretres": 92,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 34
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

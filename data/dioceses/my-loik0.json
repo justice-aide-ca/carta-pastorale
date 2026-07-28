@@ -1,0 +1,29 @@
+{
+  "id": "my-loik0",
+  "nom": "Loikaw",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Loikaw / Loikaven(sis) (Latin)Ecclesiastical Province: TaunggyiNeighbouring Dioceses: Taungngu (←), Pekhon (↑), Chiang Mai (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1988.11.14: Established as Diocese of Loikaw / Loikaven(sis) (Latin) (from Diocese of Taunggyi and became suffragan of Rangoon)1998.01.17: Became suffragan of TaunggyiPresent PrelatesBishop (2023.03.29 – ...):Bishop Celso Ba Shwe (61)OrdinariesBishops of Loikaw (Roman Rite)Bishop Celso Ba Shwe (61)  (2023.03.29 – ...)Bishop of Loikaw (Myanmar)Born:1964.07.22 (Momblo, Myanmar)Ordained Priest:1994.04.16Consecrated Bishop:2023.06.29Priest of Loikaw (Myanmar) (1994.04.16 – 2023.03.29)Bishop of Loikaw (Myanmar) (2023.03.29 – ...)Bishop Sephen Tjephe  (2014.11.15 – 2020.12.16)In the name of GodBorn:1955.08.01 (Danoku, Myanmar)Ordained Priest:1984.03.28Consecrated Bishop:2009.11.21Died:2020.12.16 (Loikaw, Myanmar † 65)Priest of Loikaw (Myanmar) (1984.03.28 – 2009.06.19)Titular Bishop of Nova barbara (2009.06.19 – 2014.11.15)Auxiliary Bishop of Loikaw (Myanmar) (2009.06.19 – 2014.11.15)Apostolic Administrator of Loikaw (Myanmar) (2014.04.26 – 2014.11.15)Bishop of Loikaw (Myanmar) (2014.11.15 – 2020.12.16)Bishop Sephen Tjephe  (Apostolic Administrator 2014.04.26 – 2014.11.15)Bishop Sotero Phamo (82)  (1988.11.14 – 2014.04.26)Bishop emeritus of Loikaw (Myanmar)We are one familyBorn:1943.11.23 (Hoya, Myanmar)Ordained Priest:1972.03.18Consecrated Bishop:1989.04.22Priest of Taunggyi (Myanmar) (1972.03.18 – 1988.11.14)Bishop of Loikaw (Myanmar) (1988.11.14 – 2014.04.26)Apostolic Administrator of Yangon (Myanmar) (2002.09.30 – 2003.05.24)Former PrelatesAuxiliary Bishop: Bishop Sephen Tjephe (2009.06.19 – 2014.11.15)Special ChurchesCathedral:  Christ the King Cathedral, Loikaw, Kayah Co-Cathedral:  Co-Cathedral of the Mother of God, Saungdu, Kayah Jubilee Churches in the Holy Year 2025Show MapTaungngu (←), Pekhon (↑), Chiang Mai (→)Statistics (2022.12.31)Area: 11,730 km²Population: 91,773 Catholics (30.2% of 304,150 total)Pastoral Centres: 40 parishes, 1 missionPersonnel: 102 priests (89 diocesan, 13 religious), 251 religious (21 brothers, 230 sisters), 15 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "loik0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 304150,
+    "catholiques": 91773,
+    "pourcentage_catholiques": 30.2
+  },
+  "ressources": {
+    "pretres_diocesains": 89,
+    "pretres_religieux": null,
+    "total_pretres": 102,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

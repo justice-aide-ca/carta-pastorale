@@ -1,0 +1,29 @@
+{
+  "id": "ec-amba0",
+  "nom": "Ambato",
+  "pays": "ec",
+  "pays_nom": "Ecuador",
+  "continent": "amerique",
+  "type": "Diocese Name: Ambato / Ambaten(sis) (Latin)Ecclesiastical Province: QuitoNeighbouring Dioceses: Guaranda (←), Latacunga (↑), Napo (↗), Puyo (→), Méndez (↘), Riobamba (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nuestra Señora de la ElevaciónLiturgical Calendar (National) 📅History1948.02.28: Established as Diocese of Ambato / Ambaten(sis) (Latin) (from Metropolitan Archdiocese of Quito and became suffragan of Quito)Present PrelatesBishop (2015.01.20 – ...):Bishop Jorge Giovanny Pazmiño Abril, O.P. (61)Monsignors (2)OrdinariesBishops of Ambato (Roman Rite)Bishop Jorge Giovanny Pazmiño Abril, O.P. (61)  (2015.01.20 – ...)Bishop of Ambato (Ecuador)Ay de mi si no anuncio el evangelioBorn:1965.07.03 (Baños, Ecuador)Ordained Priest:1995.12.16Consecrated Bishop:2015.03.21Bishop of Ambato (Ecuador) (2015.01.20 – ...)Bishop Germán Trajano Pavón Puente  (2001.04.19 – 2015.01.20)Born:1936.10.28 (Quito, Ecuador)Ordained Priest:1960.06.29Consecrated Bishop:1989.02.25Died:2025.02.22 (Quito, Ecuador † 88)Priest of Quito (Ecuador) (1960.06.29 – 1989.01.28)Bishop of Tulcán (Ecuador) (1989.01.28 – 2001.04.19)Bishop of Ambato (Ecuador) (2001.04.19 – 2015.01.20)Bishop Vicente Rodrigo Cisneros Durán (later Archbishop)  (1969.07.04 – 2000.02.15)Born:1934.02.23 (Pelileo, Ecuador)Ordained Priest:1957.07.17Consecrated Bishop:1968.01.07Died:2017.12.29 (Quito, Ecuador † 83)Priest of Ambato (Ecuador) (1957.07.17 – 1967.12.01)Titular Bishop of Tigisi in Mauretania (1967.12.01 – 1969.07.04)Auxiliary Bishop of Guayaquil (Ecuador) (1967.12.01 – 1969.07.04)Bishop of Ambato (Ecuador) (1969.07.04 – 2000.02.15)Metropolitan Archbishop of Cuenca (Ecuador) (2000.02.15 – 2009.04.20)President of Episcopal Conference of Ecuador (2002 – 2005)Bishop Bernardino Echeverría Ruiz, O.F.M. (later Cardinal)  (1949.10.23 – 1969.04.10)Pax et bonumBorn:1912.11.12 (Cotacachí, Ecuador)Ordained Priest:1937.07.04Consecrated Bishop:1949.12.04Created Cardinal:1994.11.26Died:2000.04.06 (Quito, Ecuador † 87)Bishop of Ambato (Ecuador) (1949.10.23 – 1969.04.10)Metropolitan Archbishop of Guayaquil (Ecuador) (1969.04.10 – 1989.12.07)President of Episcopal Conference of Ecuador (1973 – 1975)Apostolic Administrator of Galápagos (Ecuador) (1982.12.08 – 1984.05.18)President of Episcopal Conference of Ecuador (1984 – 1987)Apostolic Administrator of Ibarra (Ecuador) (1989.12.12 – 1995.07.25)Cardinal-Priest of Ss. Nereo ed Achilleo (1994.11.26 – 2000.04.06)Special ChurchesCathedral, Minor Basilica:  Basílica Catedral de Nuestra Señora de la Elevación, Ambato, Tungurahua Churches by City (54)Show MapGuaranda (←), Latacunga (↑), Napo (↗), Puyo (→), Méndez (↘), Riobamba (↓)Statistics (2022.12.31)Area: 3,386 km²Population: 531,540 Catholics (90.0% of 590,600 total)Pastoral Centres: 53 parishesPersonnel: 97 priests (74 diocesan, 23 religious), 3 deacons, 167 religious (26 brothers, 141 sisters), 24 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "amba0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 590600,
+    "catholiques": 531540,
+    "pourcentage_catholiques": 90.0
+  },
+  "ressources": {
+    "pretres_diocesains": 74,
+    "pretres_religieux": null,
+    "total_pretres": 97,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 53
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

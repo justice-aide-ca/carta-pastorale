@@ -1,0 +1,29 @@
+{
+  "id": "eq-mong2",
+  "nom": "Mongomo",
+  "pays": "eq",
+  "pays_nom": "Equatorial Guinea",
+  "continent": "unknown",
+  "type": "Diocese Name: Mongomo (español) / Mongomen(sis) (Latin)Ecclesiastical Province: MalaboNeighbouring Dioceses: Evinayong (←), Ebebiyín (↑), Oyem (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2017.04.01: Established as Diocese of Mongomo (español) / Mongomen(sis) (Latin) (from Diocese of Ebebiyín and became suffragan of Malabo)Papal VisitsPope Leo XIV (2026.04)Present PrelatesBishop (2017.04.01 – ...):Bishop Juan Domingo-Beka Esono Ayang, C.M.F. (57)President of Episcopal Conference of Equatorial GuineaOrdinariesBishops of Mongomo (Roman Rite)Bishop Juan Domingo-Beka Esono Ayang, C.M.F. (57)  (2017.04.01 – ...)Bishop of Mongomo (Equatorial Guinea)President of Episcopal Conference of Equatorial GuineaBorn:1969.02.18 (Mabewele-Yenkéng, Equatorial Guinea)Ordained Priest:2003.09.28Consecrated Bishop:2017.05.20Bishop of Mongomo (Equatorial Guinea) (2017.04.01 – ...)President of Episcopal Conference of Equatorial Guinea (2022.01 – ...)Special ChurchesCathedral, Minor Basilica:  Catedral Basílica de la Inmaculada Concepción, Mongomo, Wele-Nzas, Región Continental Show MapEvinayong (←), Ebebiyín (↑), Oyem (→)Statistics (2017.12.31)Area: 5,478 km²Population: 302,000 Catholics (80.3% of 376,000 total)Pastoral Centres: 12 parishes, 1 missionPersonnel: 28 priests (24 diocesan, 4 religious), 1 deacon, 26 religious (4 brothers, 22 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mong2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 376000,
+    "catholiques": 302000,
+    "pourcentage_catholiques": 80.3
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 28,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

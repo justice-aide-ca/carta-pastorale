@@ -1,0 +1,29 @@
+{
+  "id": "so-mala3",
+  "nom": "Malakal",
+  "pays": "so",
+  "pays_nom": "South Sudan",
+  "continent": "unknown",
+  "type": "Diocese Name: Malakal / Malakalen(sis) (Latin)Ecclesiastical Province: JubaNeighbouring Dioceses: Rumbek (↙), Bentiu (←), El Obeid (↑), Khartoum (↗), Nekemte (→), Torit (↘), Gambella (↘), Juba (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1933.01.10: Established as Mission sui juris of Kodok (from Apostolic Vicariate of Khartoum)1938.08.04: Promoted as Apostolic Prefecture of Kodok1949.07.14: Renamed as Apostolic Prefecture of Malakal / Malakalen(sis) (Latin)1974.12.12: Promoted as Diocese of Malakal / Malakalen(sis) (Latin) (became suffragan of Juba)2024.07.03: Lost territory to establish Diocese of BentiuPresent PrelatesBishop (2019.05.23 – ...):Bishop Stephen Nyodho Ador Majwok (53)OrdinariesBishops of Malakal (Roman Rite)Bishop Stephen Nyodho Ador Majwok (53)  (2019.05.23 – ...)Bishop of Malakal (South Sudan)Born:1973.01.01 (Andong, South Sudan)Ordained Priest:2005.05.15Consecrated Bishop:2019.07.28Priest of Malakal (South Sudan) (2005.05.15 – 2019.05.23)Bishop of Malakal (South Sudan) (2019.05.23 – ...)Msgr. Roko Taban Mousa  (Apostolic Administrator 2009 – 2019.05.23)Bishop Vincent Mojwok Nyiker  (1979.03.15 – 2009.05.16)Born:1933.01.25 (Atigo-Tonga, Sudan)Ordained Priest:1963.07.21Consecrated Bishop:1979.05.27Died:2018.01.05 (Khartoum, Sudan † 84)Priest of Malakal (South Sudan) (1963.07.21 – 1979.03.15)Apostolic Administrator of Malakal (South Sudan) (1976 – 1979.03.15)Bishop of Malakal (South Sudan) (1979.03.15 – 2009.05.16)Fr. Vincent Mojwok Nyiker (later Bishop)  (Apostolic Administrator 1976 – 1979.03.15)Bishop Pio Yukwan Deng  (1974.12.12 – 1976.12.03)Born:1921.01.01 (Aweci, Sudan)Ordained Priest:1956.01.06Consecrated Bishop:1975.04.06Died:1976.12.03 († 55)Priest of Malakal (South Sudan) (1956.01.06 – 1974.12.12)Prefect Apostolic of Malakal (South Sudan) (1967.08.19 – 1974.12.12)President of Sudan Bishops’ Conference (1973 – 1974)Bishop of Malakal (South Sudan) (1974.12.12 – 1976.12.03)Prefects Apostolic of Malakal (Roman Rite)Fr. Pio Yukwan Deng (later Bishop)  (1967.08.19 – 1974.12.12)(see above)Fr. Herman Gerard Te Riele, M.H.M.  (1962.05.29 – 1967)Died:1967Prefect Apostolic of Malakal (South Sudan) (1962.05.29 – 1967)Fr. John Hart, M.H.M.  (1949.07.14 – 1962)Died:1962Prefect Apostolic of Kodok (South Sudan) (1947.06.13 – 1949.07.14)Prefect Apostolic of Malakal (South Sudan) (1949.07.14 – 1962)Prefects Apostolic of Kodok (Roman Rite)Fr. John Hart, M.H.M.  (1947.06.13 – 1949.07.14)(see above)Fr. John A. Wall, M.H.M.  (1938.08.12 – 1945)Died:1945Prefect Apostolic of Kodok (South Sudan) (1938.08.12 – 1945)Ecclesiastical Superiors of Kodok (Roman Rite)Fr. Matteo Michelon, F.S.C.I.  (1933.07.08 – 1935)Died:1935Ecclesiastical Superior of Kodok (South Sudan) (1933.07.08 – 1935)Special ChurchesCathedral:  Cathedral of St. Joseph, Malakal, Upper Nile Show MapRumbek (↙), Bentiu (←), El Obeid (↑), Khartoum (↗), Nekemte (→), Torit (↘), Gambella (↘), Juba (↓)Statistics (2024)Area: 200,164 km²Population: 920,537 Catholics (31.0% of 2,972,114 total)Pastoral Centres: 14 parishesPersonnel: 23 priests (14 diocesan, 9 religious), 4 religious (1 brother, 3 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mala3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2972114,
+    "catholiques": 920537,
+    "pourcentage_catholiques": 31.0
+  },
+  "ressources": {
+    "pretres_diocesains": 14,
+    "pretres_religieux": null,
+    "total_pretres": 23,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

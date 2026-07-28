@@ -1,0 +1,29 @@
+{
+  "id": "ni-este0",
+  "nom": "Estelí",
+  "pays": "ni",
+  "pays_nom": "Nicaragua",
+  "continent": "unknown",
+  "type": "Diocese Name: Estelí / Estelien(sis) (Latin)Ecclesiastical Province: ManaguaNeighbouring Dioceses: León (↙), Choluteca (←), Danlí (↑), Jinotega (→), Matagalpa (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1962.12.17: Established as Diocese of Estelí / Estelien(sis) (Latin) (from Diocese of León and became suffragan of Managua)Present PrelatesBishop:vacantApostolic Administrator (2021.07.06 – ...):Bishop Rolando José Álvarez Lagos (59)Bishop of Matagalpa (Nicaragua)Monsignors (4)OrdinariesBishops of Estelí (Roman Rite)Bishop Rolando José Álvarez Lagos (59)  (Apostolic Administrator 2021.07.06 – ...)Bishop Juan Abelardo Mata Guevara, S.D.B. (80)  (1990.03.06 – 2021.07.06)Bishop emeritus of Estelí (Nicaragua)Me hice todo para todosBorn:1946.06.23 (Managua, Nicaragua)Ordained Priest:1976.08.15Consecrated Bishop:1988.03.19Titular Bishop of Cœliana (1988.02.13 – 1990.03.06)Auxiliary Bishop of Managua (Nicaragua) (1988.02.13 – 1990.03.06)Bishop of Estelí (Nicaragua) (1990.03.06 – 2021.07.06)General Secretary of Episcopal Conference of Nicaragua (1999 – 2002)Bishop Rubén López Ardón (92)  (1979.01.02 – 1990.03.06)Bishop emeritus of Estelí (Nicaragua)Born:1934.06.19 (Ocotal, Nicaragua)Ordained Priest:1961.12.22Consecrated Bishop:1979.05.27Priest of Estelí (Nicaragua) (1961.12.22 – 1979.01.02)Bishop of Estelí (Nicaragua) (1979.01.02 – 1990.03.06)Bishop Clemente Carranza y López  (1963.01.12 – 1978.02.07)Born:1905.11.23 (Nandasmo, Nicaragua)Ordained Priest:1932.03.12Consecrated Bishop:1963.03.19Died:1978.02.07 († 72)Priest of Managua (Nicaragua) (1932.03.12 – 1963.01.12)Bishop of Estelí (Nicaragua) (1963.01.12 – 1978.02.07)Special ChurchesCathedral:  Catedral Nuestra Señora del Santísimo Rosario, Estelí, Estelí Show MapLeón (↙), Choluteca (←), Danlí (↑), Jinotega (→), Matagalpa (↘)Statistics (2020.12.31)Area: 7,298 km²Population: 1,143,000 Catholics (80.7% of 1,416,000 total)Pastoral Centres: 43 parishesPersonnel: 60 priests (39 diocesan, 21 religious), 5 deacons, 65 religious (28 brothers, 37 sisters), 45 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "este0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1416000,
+    "catholiques": 1143000,
+    "pourcentage_catholiques": 80.7
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 43
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

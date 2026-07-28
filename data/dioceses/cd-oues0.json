@@ -1,0 +1,29 @@
+{
+  "id": "cd-oues0",
+  "nom": "Ouesso",
+  "pays": "cd",
+  "pays_nom": "Congo-Brazzaville",
+  "continent": "unknown",
+  "type": "Diocese Name: Ouesso / Uessitan(us) (Latin)Ecclesiastical Province: OwandoNeighbouring Dioceses: Makokou (↙), Oyem (←), Sangmélima (↖), Doumé–Abong’ Mbang (↖), Yokadouma (↑), Impfondo (→), Owando (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1983.06.06: Established as Diocese of Ouesso / Uessitan(us) (Latin) (from Diocese of Owando and became suffragan of Brazzaville)2000.10.30: Lost territory to establish Apostolic Prefecture of Likouala2020.05.30: Became suffragan of OwandoPresent PrelatesBishop (2025.05.28 – ...):Bishop Brice Armand Ibombo (52)OrdinariesBishops of Ouesso (Roman Rite)Bishop Brice Armand Ibombo (52)  (2025.05.28 – ...)Bishop of Ouesso (Congo-Brazzaville)Born:1973.11.23 (Abala, Congo-Brazzaville)Ordained Priest:2004.08.28Consecrated Bishop:2025.07.19Priest of Owando (Congo-Brazzaville) (2004.08.28 – 2013.02.22)Priest of Gamboma (Congo-Brazzaville) (2013.02.22 – 2025.05.28)Bishop of Ouesso (Congo-Brazzaville) (2025.05.28 – ...)Archbishop Gélase Armel Kema, C.S.Sp. (53)  (Apostolic Administrator 2024.01.06 – 2025.05.28)Bishop Gélase Armel Kema, C.S.Sp. (53) (later Archbishop)  (2021.12.08 – 2024.01.06)Metropolitan Archbishop of Owando (Congo-Brazzaville)Prædica verbum in patientiaBorn:1972.10.26 (Ouesso, Congo-Brazzaville)Ordained Priest:1999.08.29Consecrated Bishop:2022.02.13Bishop of Ouesso (Congo-Brazzaville) (2021.12.08 – 2024.01.06)Apostolic Administrator of Owando (Congo-Brazzaville) (2023.08.20 – 2024.01.06)Apostolic Administrator of Ouesso (Congo-Brazzaville) (2024.01.06 – 2025.05.28)Metropolitan Archbishop of Owando (Congo-Brazzaville) (2024.01.06 – ...)Bishop Yves Marie Monot, C.S.Sp. (82)  (2008.06.14 – 2021.12.08)Bishop emeritus of Ouesso (Congo-Brazzaville)Gratis accepistis gratis dateBorn:1944.05.29 (Pont-l’Abbé, France)Ordained Priest:1972.07.09Consecrated Bishop:2008.09.07Apostolic Administrator of Ouesso (Congo-Brazzaville) (2006.04.22 – 2008.06.14)Bishop of Ouesso (Congo-Brazzaville) (2008.06.14 – 2021.12.08)Fr. Yves Marie Monot, C.S.Sp. (82) (later Bishop)  (Apostolic Administrator 2006.04.22 – 2008.06.14)Bishop Hervé Itoua (83)  (1983.06.06 – 2006.04.22)Bishop emeritus of Ouesso (Congo-Brazzaville)Là où il est amoreux je serais làBorn:1942 (Otambioko, Congo-Brazzaville)Ordained Priest:1970.07.12Consecrated Bishop:1983.08.28Bishop of Ouesso (Congo-Brazzaville) (1983.06.06 – 2006.04.22)Special ChurchesCathedral:  Cathédrale Saint-Pierre Claver, Ouesso, Sangha Show MapMakokou (↙), Oyem (←), Sangmélima (↖), Doumé–Abong’ Mbang (↖), Yokadouma (↑), Impfondo (→), Owando (↓)Statistics (2022.12.31)Area: 56,800 km²Population: 25,600 Catholics (20.5% of 125,000 total)Pastoral Centres: 10 parishes, 9 missionsPersonnel: 15 priests (13 diocesan, 2 religious), 23 religious (4 brothers, 19 sisters), 21 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "oues0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 125000,
+    "catholiques": 25600,
+    "pourcentage_catholiques": 20.5
+  },
+  "ressources": {
+    "pretres_diocesains": 13,
+    "pretres_religieux": null,
+    "total_pretres": 15,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 10
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

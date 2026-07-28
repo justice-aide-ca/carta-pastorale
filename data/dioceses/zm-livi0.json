@@ -1,0 +1,29 @@
+{
+  "id": "zm-livi0",
+  "nom": "Livingstone",
+  "pays": "zm",
+  "pays_nom": "Zambia",
+  "continent": "unknown",
+  "type": "Diocese Name: Livingstone / Livingstonen(sis) (Latin)Ecclesiastical Province: LusakaNeighbouring Dioceses: Menongue (←), Mongu (↖), Monze (↗), Hwange (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1936.05.25: Established as Apostolic Prefecture of Victoria Falls (from Apostolic Prefecture of Broken Hill)1950.03.10: Promoted as Apostolic Vicariate of Livingstone / Livingstonen(sis) (Latin) (gained territory from Apostolic Vicariate of Windhoek)1959.04.25: Promoted as Diocese of Livingstone / Livingstonen(sis) (Latin) (became suffragan of Lusaka)1997.06.14: Lost territory to establish Diocese of MonguPresent PrelatesBishop (2016.06.18 – ...):Bishop Valentine Kalumba, O.M.I. (59)OrdinariesBishops of Livingstone (Roman Rite)Bishop Valentine Kalumba, O.M.I. (59)  (2016.06.18 – ...)Bishop of Livingstone (Zambia)That they may be oneBorn:1967.01.16 (Mufulira, Zambia)Ordained Priest:2005.10.22Consecrated Bishop:2016.09.03Bishop of Livingstone (Zambia) (2016.06.18 – ...)Bishop Raymond Mpezele (87)  (1985.05.03 – 2016.06.18)Bishop emeritus of Livingstone (Zambia)Born:1939.05.07 (Bulanda, Zambia)Ordained Priest:1969.09.07Consecrated Bishop:1985.07.07Bishop of Livingstone (Zambia) (1985.05.03 – 2016.06.18)Bishop Adrian Mung’andu (later Archbishop)  (1974.11.18 – 1984.01.09)Born:1920 (Kasisi, Zambia)Ordained Priest:1950.10.29Consecrated Bishop:1975.02.09Died:2007.06.25 († 86)Priest of Lusaka (Zambia) (1950.10.29 – 1974.11.18)Bishop of Livingstone (Zambia) (1974.11.18 – 1984.01.09)Metropolitan Archbishop of Lusaka (Zambia) (1984.01.09 – 1996.11.30)Bishop Timothy Phelim O’Shea, O.F.M. Cap.  (1959.04.25 – 1974)Born:1902.06.30 (Clondrohid, Ireland)Ordained Priest:1928.08.29Consecrated Bishop:1950.09.08Died:1979.05.26 (Lukulu, Zambia † 76)Titular Bishop of Hierocæsarea (1950.05.24 – 1959.04.25)Vicar Apostolic of Livingstone (Zambia) (1950.05.24 – 1959.04.25)Bishop of Livingstone (Zambia) (1959.04.25 – 1974)Vicars Apostolic of Livingstone (Roman Rite)Bishop Timothy Phelim O’Shea, O.F.M. Cap.  (1950.05.24 – 1959.04.25)(see above)Prefects Apostolic of Victoria Falls (Roman Rite)Fr. Killian Flynn (Vincent Joseph), O.F.M. Cap.  (1936.07.28 – 1950.03.10)Born:1905.05.27 (Killybegs, Ireland)Ordained Priest:1930.06Died:1972.12.03 (Dublin, Ireland † 67)Prefect Apostolic of Victoria Falls (Zambia) (1936.07.28 – 1950.03.10)Special ChurchesCathedral:  Cathedral of St. Theresa, Livingstone, Southern Show MapMenongue (←), Mongu (↖), Monze (↗), Hwange (↘)Statistics (2022.12.31)Area: 58,200 km²Population: 100,893 Catholics (20.1% of 501,850 total)Pastoral Centres: 19 parishes, 18 missionsPersonnel: 36 priests (20 diocesan, 16 religious), 79 religious (19 brothers, 60 sisters), 19 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "livi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 501850,
+    "catholiques": 100893,
+    "pourcentage_catholiques": 20.1
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 36,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

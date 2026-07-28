@@ -1,0 +1,29 @@
+{
+  "id": "cn-shas0",
+  "nom": "Shashi 沙市",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Apostolic Prefecture Name: Shashi 沙市 (中文) / Shasi / Shāshì 沙市 (简体中文) / Shasien(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Lixian 澧縣 (↙), Yichang 宜昌 (↖), Hanyang 漢陽 (→), Puqi 蒲圻 (↘)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Diocese: Jingzhou 荊州 CelebrationsLiturgical Calendar (Universal) 📅History1936.07.07: Established as Apostolic Prefecture of Shashi 沙市 (中文) / Shasi / Shāshì 沙市 (简体中文) / Shasien(sis) (Latin) (from Apostolic Vicariate of Yichang 宜昌)Present PrelatesPrefect Apostolic:vacantOrdinariesPrefects Apostolic of Shashi 沙市 (Roman Rite)Fr. Julian Edward Dillon (狄隆), O.F.M.  (1936.07.11 – 1961.06.25)Born:1899 (USA)Ordained Priest:1929Died:1961.06.25 († 61)Prefect Apostolic of Shashi 沙市 (China) (1936.07.11 – 1961.06.25)Special ChurchesCathedral:  Cathedral of the Immaculate Conception, Jingzhou 荆州, Hubei Show MapLixian 澧縣 (↙), Yichang 宜昌 (↖), Hanyang 漢陽 (→), Puqi 蒲圻 (↘)Statistics (1950.12.31)Area: 9,560 km²Population: 8,869 Catholics (0.4% of 2,000,000 total)Pastoral Centres: 14 parishes, 20 missionsPersonnel: 27 priests (10 diocesan, 17 religious), 36 religious (18 brothers, 18 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "shas0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2000000,
+    "catholiques": 8869,
+    "pourcentage_catholiques": 0.4
+  },
+  "ressources": {
+    "pretres_diocesains": 10,
+    "pretres_religieux": null,
+    "total_pretres": 27,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

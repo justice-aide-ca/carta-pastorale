@@ -1,0 +1,29 @@
+{
+  "id": "li-vadu0",
+  "nom": "Vaduz",
+  "pays": "li",
+  "pays_nom": "Liechtenstein",
+  "continent": "unknown",
+  "type": "Archdiocese Name: Vaduz / Vadutien(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Sankt Gallen (↖), Feldkirch (↗), Chur (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Luzius (December 2)Cathedral Dedication Anniversary: October 5Liturgical Calendar 📅History1997.12.02: Established as Archdiocese of Vaduz / Vadutien(sis) (Latin) (from Diocese of Chur and without ecclesiastical province)Papal VisitsPope John Paul II (1985.09)Present PrelatesArchbishop:vacantApostolic Administrator (2023.09.20 – ...):Bishop Benno Elbs (65)Bishop of Feldkirch (Austria)Monsignors (4)OrdinariesArchbishops of Vaduz (Roman Rite)Bishop Benno Elbs (65)  (Apostolic Administrator 2023.09.20 – ...)Archbishop Wolfgang Haas (77)  (1997.12.02 – 2023.09.20)Archbishop emeritus of Vaduz (Liechtenstein)Maria duce obviam ChristoBorn:1948.08.07 (Vaduz, Liechtenstein)Ordained Priest:1974.04.07Consecrated Bishop:1988.05.22Priest of Chur (Switzerland) (1974.04.07 – 1988.03.25)Coadjutor Bishop of Chur (Switzerland) (1988.03.25 – 1990.05.22)Bishop of Chur (Switzerland) (1990.05.22 – 1997.12.02)Archbishop of Vaduz (Liechtenstein) (1997.12.02 – 2023.09.20)Special ChurchesCathedral:  Kathedrale Pfarrkirche St. Florin, Vaduz, Vaduz Churches by City (11)Show MapSankt Gallen (↖), Feldkirch (↗), Chur (↓)Statistics (2022.12.31)Area: 160 km²Population: 27,476 Catholics (69.9% of 39,308 total)Pastoral Centres: 10 parishesPersonnel: 25 priests (20 diocesan, 5 religious), 51 religious (5 brothers, 46 sisters)PopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vadu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 39308,
+    "catholiques": 27476,
+    "pourcentage_catholiques": 69.9
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 25,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 10
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

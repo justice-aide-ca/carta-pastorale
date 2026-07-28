@@ -1,0 +1,29 @@
+{
+  "id": "mz-guru0",
+  "nom": "Gurúè",
+  "pays": "mz",
+  "pays_nom": "Mozambique",
+  "continent": "unknown",
+  "type": "Diocese Name: Gurúè / Guruen(sis) (Latin)Ecclesiastical Province: BeiraNeighbouring Dioceses: Quelimane (↙), Lichinga (↖), Nampula (→), Alto Molócuè (→)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Santo António de LisboaCathedral Dedication Anniversary: June 13Liturgical Calendar (Universal) 📅History1993.12.06: Established as Diocese of Gurúè / Guruen(sis) (Latin) (from Diocese of Quelimane and became suffragan of Beira)2025.01.23: Lost territory to establish Diocese of Alto MolócuèPresent PrelatesBishop (2021.02.02 – ...):Bishop Inácio Lucas Mwita (56)OrdinariesBishops of Gurúè (Roman Rite)Bishop Inácio Lucas Mwita (56)  (2021.02.02 – ...)Bishop of Gurúè (Mozambique)Born:1969.09.21 (Napaco, Mozambique)Ordained Priest:1998.06.21Consecrated Bishop:2021.03.21Priest of Nacala (Mozambique) (1998.06.21 – 2021.02.02)Bishop of Gurúè (Mozambique) (2021.02.02 – ...)Bishop Francisco Lerma Martínez, I.M.C.  (2010.03.24 – 2019.04.24)Born:1944.05.04 (El Palmar, Spain)Ordained Priest:1969.12.20Consecrated Bishop:2010.05.30Died:2019.04.24 (Maputo, Mozambique † 74)Bishop of Gurúè (Mozambique) (2010.03.24 – 2019.04.24)Bishop Manuel Chuanguira Machado  (1993.12.06 – 2009.10.09)Born:1950.06.11 (Banaze, Mozambique)Ordained Priest:1981.12.13Consecrated Bishop:1994.05.22Died:2023.10.11 (Quelimane, Mozambique † 73)Priest of Beira (Mozambique) (1981.12.13 – 1993.12.06)Bishop of Gurúè (Mozambique) (1993.12.06 – 2009.10.09)Special ChurchesCathedral:  Catedral de Santo António de Lisboa, Gurué, Zambézia Show MapQuelimane (↙), Lichinga (↖), Nampula (→), Alto Molócuè (→)Statistics (2025)Area: 18,578 km²Population: 559,783 Catholics (44.6% of 1,255,736 total)Pastoral Centres: 12 parishesPersonnel: 33 priests (24 diocesan, 9 religious), 37 religious (37 sisters), 18 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "guru0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1255736,
+    "catholiques": 559783,
+    "pourcentage_catholiques": 44.6
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 33,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

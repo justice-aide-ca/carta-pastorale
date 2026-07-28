@@ -1,0 +1,29 @@
+{
+  "id": "my-hakh0",
+  "nom": "Hakha",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Hakha / Hakhanen(sis) (Latin)Ecclesiastical Province: MandalayNeighbouring Dioceses: Aizawl (↖), Kalay (↗), Mindat (↘), Pyay (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1992.11.21: Established as Diocese of Hakha / Hakhanen(sis) (Latin) (from Metropolitan Archdiocese of Mandalay and became suffragan of Mandalay)2010.05.22: Lost territory to establish Diocese of Kalay2025.01.25: Lost territory to establish Diocese of MindatPresent PrelatesBishop (2013.10.19 – ...):Bishop Lucius Hre Kung (67)Monsignors (2)OrdinariesBishops of Hakha (Roman Rite)Bishop Lucius Hre Kung (67)  (2013.10.19 – ...)Bishop of Hakha (Myanmar)Thy kingdom comeBorn:1959.02.04 (Hnaring, Myanmar)Ordained Priest:1989.02.23Consecrated Bishop:2014.02.02Priest of Hakha (Myanmar) (1989.02.23 – 2013.10.19)Bishop of Hakha (Myanmar) (2013.10.19 – ...)Archbishop Nicholas Mang Thang (83)  (Apostolic Administrator 2011.11.30 – 2013.10.19)Bishop Nicholas Mang Thang (83) (later Archbishop)  (1992.11.21 – 2011.11.30)Metropolitan Archbishop emeritus of Mandalay (Myanmar)One Lord, one faith, one baptismBorn:1943.05.18 (Mindat, Myanmar)Ordained Priest:1973.03.28Consecrated Bishop:1989.01.15Priest of Mandalay (Myanmar) (1973.03.28 – 1988.06.21)Titular Bishop of Flenucleta (1988.06.21 – 1992.11.21)Auxiliary Bishop of Mandalay (Myanmar) (1988.06.21 – 1992.11.21)Bishop of Hakha (Myanmar) (1992.11.21 – 2011.11.30)Apostolic Administrator of Hakha (Myanmar) (2011.11.30 – 2013.10.19)Coadjutor Archbishop of Mandalay (Myanmar) (2011.11.30 – 2014.04.03)Metropolitan Archbishop of Mandalay (Myanmar) (2014.04.03 – 2019.04.25)Former PrelatesAuxiliary Bishop: Bishop Felix Lian Khen Thang (66) (2006.03.03 – 2010.05.22)Special ChurchesCathedral:  Cathedral of St. Joseph, Hakha, Chin Show MapAizawl (↖), Kalay (↗), Mindat (↘), Pyay (↓)Statistics (2025)Area: 10,357 km²Population: 21,073 Catholics (7.8% of 269,102 total)Pastoral Centres: 29 parishesPersonnel: 39 priests (diocesan), 52 religious (52 sisters), 9 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "hakh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 269102,
+    "catholiques": 21073,
+    "pourcentage_catholiques": 7.8
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

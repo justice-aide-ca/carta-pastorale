@@ -1,0 +1,29 @@
+{
+  "id": "br-cama1",
+  "nom": "Camaçari",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Camaçari (Português) / Camassarien(sis) (Latin)Ecclesiastical Province: São Salvador da BahiaNeighbouring Dioceses: Cruz das Almas (←), Feira de Santana (↖), Alagoinhas (↑), São Salvador da Bahia (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History2010.12.15: Established as Diocese of Camaçari (Português) / Camassarien(sis) (Latin) (from Metropolitan Archdiocese of São Salvador da Bahia and became suffragan of São Salvador da Bahia)Present PrelatesBishop (2021.10.27 – ...):Bishop Dirceu de Oliveira Medeiros (53)OrdinariesBishops of Camaçari (Roman Rite)Bishop Dirceu de Oliveira Medeiros (53)  (2021.10.27 – ...)Bishop of Camaçari (Brazil)In verbo tuoBorn:1973.03.28 (Barroso, MG, Brazil)Ordained Priest:2001.12.15Consecrated Bishop:2021.12.04Priest of São João del Rei (Brazil) (2001.12.15 – 2021.10.27)Bishop of Camaçari (Brazil) (2021.10.27 – ...)Bishop João Carlos Petrini (80)  (2010.12.15 – 2021.10.27)Bishop emeritus of Camaçari (Brazil)Habitavit in nobisBorn:1945.11.18 (Fermo, Italy)Ordained Priest:1975.06.28Consecrated Bishop:2005.03.10Priest of Fermo (Italy) (1975.06.28 – 2005.01.12)Titular Bishop of Augurus (2005.01.12 – 2010.12.15)Auxiliary Bishop of São Salvador da Bahia (Brazil) (2005.01.12 – 2010.12.15)Bishop of Camaçari (Brazil) (2010.12.15 – 2021.10.27)Special ChurchesCathedral:  Catedral São Tomás de Cantuária, Camaçari, Bahia Jubilee Churches in the Holy Year 2025Churches by City (27)Show MapCruz das Almas (←), Feira de Santana (↖), Alagoinhas (↑), São Salvador da Bahia (↓)Statistics (2022.12.31)Area: 2,382 km²Population: 500,000 Catholics (69.1% of 724,000 total)Pastoral Centres: 25 parishesPersonnel: 35 priests (30 diocesan, 5 religious), 33 deacons, 37 religious (7 brothers, 30 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cama1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 724000,
+    "catholiques": 500000,
+    "pourcentage_catholiques": 69.1
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

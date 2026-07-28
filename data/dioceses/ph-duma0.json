@@ -1,0 +1,29 @@
+{
+  "id": "ph-duma0",
+  "nom": "Dumaguete",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Dumaguete / Dumagueten(sis) (Latin)Ecclesiastical Province: CebuNeighbouring Dioceses: Kabankalan (↖), Cebu (↗), Tagbilaran (→), Ozamiz (↘), Dipolog (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Catherine of Alexandria (November 25)Cathedral Dedication Anniversary: April 7Liturgical Calendar (National) 📅History1955.04.05: Established as Diocese of Dumaguete / Dumagueten(sis) (Latin) (from Diocese of Bacolod and became suffragan of Cebu)1987.03.30: Lost territory to establish Diocese of San CarlosPresent PrelatesBishop (2013.09.28 – ...):Bishop Julito Buhisan Cortes (70)Monsignors (26)OrdinariesBishops of Dumaguete (Roman Rite)Bishop Julito Buhisan Cortes (70)  (2013.09.28 – ...)Bishop of Dumaguete (Philippines)Duce me DomineBorn:1956.07.04 (Parañaque, Philippines)Ordained Priest:1980.10.24Consecrated Bishop:2002.01.08Priest of Dumaguete (Philippines) (1980.10.24 – 2001.10.24)Prelate of Honour of His Holiness (1990.01.31 – 2001.10.24)Titular Bishop of Severiana (2001.10.24 – 2013.09.28)Auxiliary Bishop of Cebu (Philippines) (2001.10.24 – 2013.09.28)Bishop of Dumaguete (Philippines) (2013.09.28 – ...)Bishop John Forrosuelo Du (71) (later Archbishop)  (2001.04.21 – 2012.02.25)Metropolitan Archbishop of Palo (Philippines)Christus lux meaBorn:1954.10.18 (Bantayan, Philippines)Ordained Priest:1979.06.01Consecrated Bishop:1998.01.06Priest of Cebu (Philippines) (1979.06.01 – 1997.11.21)Prelate of Honour of His Holiness (1996.11.22 – 1997.11.21)Titular Bishop of Timici (1997.11.21 – 2001.04.21)Auxiliary Bishop of Cebu (Philippines) (1997.11.21 – 2001.04.21)Bishop of Dumaguete (Philippines) (2001.04.21 – 2012.02.25)Metropolitan Archbishop of Palo (Philippines) (2012.02.25 – ...)Bishop Angel Nacorda Lagdameo (later Archbishop)  (1989.05.30 – 2000.03.11)Faciem tuam Domine requiramBorn:1940.08.02 (Lucban, Philippines)Ordained Priest:1964.12.19Consecrated Bishop:1980.08.12Died:2022.07.08 (Iloilo City, Philippines † 81)Priest of Lucena (Philippines) (1964.12.19 – 1980.06.19)Titular Bishop of Oreto (1980.06.19 – 1986.01.31)Auxiliary Bishop of Cebu (Philippines) (1980.06.19 – 1986.01.31)Coadjutor Bishop of Dumaguete (Philippines) (1986.01.31 – 1989.05.30)Bishop of Dumaguete (Philippines) (1989.05.30 – 2000.03.11)Metropolitan Archbishop of Jaro (Philippines) (2000.03.11 – 2018.02.14)President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.) (2005.10 – 2009.12.01)Bishop Epifanio Surban Belmonte  (1955.07.29 – 1989.05.30)Sub tuum præsidiumBorn:1914.04.07 (Calolbon, Philippines)Ordained Priest:1938.04.09Consecrated Bishop:1955.10.24Died:1990.05.25 († 76)Bishop of Dumaguete (Philippines) (1955.07.29 – 1989.05.30)Former PrelatesCoadjutor Bishop: Bishop Angel Nacorda Lagdameo (later Archbishop) (1986.01.31 – 1989.05.30)Auxiliary Bishop: Bishop Salvador Trane Modesto (1978.12.28 – 1987.03.30)Auxiliary Bishop: Bishop Onesimo Cadiz Gordoncillo (later Archbishop) (1974.03.14 – 1976.07.03)Auxiliary Bishop: Bishop Bienvenido Solon Tudtud (1968.02.05 – 1971.02.17)Special ChurchesCathedral:  Cathedral of St. Catherine of Alexandria, Dumaguete City, Negros Oriental, Negros Island Jubilee Churches in the Holy Year 2025Churches by City (51)Show MapKabankalan (↖), Cebu (↗), Tagbilaran (→), Ozamiz (↘), Dipolog (↓)Statistics (2022.12.31)Area: 4,956 km²Population: 1,412,394 Catholics (88.4% of 1,598,455 total)Pastoral Centres: 43 parishes, 12 missionsPersonnel: 125 priests (97 diocesan, 28 religious), 127 religious (31 brothers, 96 sisters), 47 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "duma0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1598455,
+    "catholiques": 1412394,
+    "pourcentage_catholiques": 88.4
+  },
+  "ressources": {
+    "pretres_diocesains": 97,
+    "pretres_religieux": null,
+    "total_pretres": 125,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 43
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

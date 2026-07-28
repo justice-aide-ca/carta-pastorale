@@ -1,0 +1,29 @@
+{
+  "id": "br-osor0",
+  "nom": "Osório",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Osório / Osorien(us) (Latin)Ecclesiastical Province: Porto AlegreNeighbouring Dioceses: Rio Grande (↙), Porto Alegre (←), Novo Hamburgo (↖), Caxias do Sul (↖), Criciúma (↗)Depends on: Dicastery for BishopsWebsite: CelebrationsCathedral Dedication Anniversary: November 10 (2000)Liturgical Calendar (National) 📅History1999.11.10: Established as Diocese of Osório / Osorien(us) (Latin) (from Metropolitan Archdiocese of Porto Alegre and Diocese of Caxias do Sul and became suffragan of Porto Alegre)Present PrelatesBishop (2006.11.15 – ...):Bishop Jaime Pedro Kohl, P.S.D.P. (71)OrdinariesBishops of Osório (Roman Rite)Bishop Jaime Pedro Kohl, P.S.D.P. (71)  (2006.11.15 – ...)Bishop of Osório (Brazil)Fiat voluntas tuaBorn:1954.12.12 (Salvador do Sul, RS, Brazil)Ordained Priest:1984.09.02Consecrated Bishop:2007.02.04Bishop of Osório (Brazil) (2006.11.15 – ...)Bishop Thadeu Gomes Canellas  (1999.11.10 – 2006.11.15)Ut testimonium perhiberetBorn:1930.07.28 (Gravatai, RS, Brazil)Ordained Priest:1956.02.25Consecrated Bishop:1984.02.25Died:2026.01.20 (Gravataí, RS, Brazil † 95)Priest of Porto Alegre (Brazil) (1956.02.25 – 1983.11.19)Titular Bishop of Iunca in Byzacena (1983.11.19 – 1999.11.10)Auxiliary Bishop of Porto Alegre (Brazil) (1983.11.19 – 1999.11.10)Bishop of Osório (Brazil) (1999.11.10 – 2006.11.15)Special ChurchesCathedral:  Catedral Nossa Senhora da Conceição, Osório, Rio Grande do Sul Jubilee Churches in the Holy Year 2025Churches by City (25)Show MapRio Grande (↙), Porto Alegre (←), Novo Hamburgo (↖), Caxias do Sul (↖), Criciúma (↗)Statistics (2022.12.31)Area: 6,120 km²Population: 275,000 Catholics (67.7% of 406,175 total)Pastoral Centres: 23 parishes, 1 missionPersonnel: 32 priests (30 diocesan, 2 religious), 6 deacons, 32 religious (2 brothers, 30 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "osor0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 406175,
+    "catholiques": 275000,
+    "pourcentage_catholiques": 67.7
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 32,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 23
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

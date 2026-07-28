@@ -1,0 +1,29 @@
+{
+  "id": "tg-kara1",
+  "nom": "Kara",
+  "pays": "tg",
+  "pays_nom": "Togo",
+  "continent": "unknown",
+  "type": "Diocese Name: Kara / Karaën(sis) (Latin)Ecclesiastical Province: LoméNeighbouring Dioceses: Yendi (←), Dapaong (↖), Natitingou (↑), Djougou (→), Sokodé (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1994.07.01: Established as Diocese of Kara / Karaën(sis) (Latin) (from Diocese of Sokodé and became suffragan of Lomé)Papal VisitsPope John Paul II (1985.08)Present PrelatesBishop (2009.01.07 – ...):Bishop Jacques Danka Longa (64)Vice-President of Episcopal Conference of TogoMonsignors (1)OrdinariesBishops of Kara (Roman Rite)Bishop Jacques Danka Longa (64)  (2009.01.07 – ...)Bishop of Kara (Togo)Vice-President of Episcopal Conference of TogoNon egoBorn:1961.07.26 (Sokodé, Togo)Ordained Priest:1992.01.25Consecrated Bishop:2008.07.26Priest of Sokodé (Togo) (1992.01.25 – 1994.07.01)Priest of Kara (Togo) (1994.07.01 – 2008.04.23)Coadjutor Bishop of Kara (Togo) (2008.04.23 – 2009.01.07)Bishop of Kara (Togo) (2009.01.07 – ...)Vice-President of Episcopal Conference of Togo (2021? – ...)Bishop Ignace Baguibassa Sambar-Talkena  (1996.11.30 – 2009.01.07)Non egoBorn:1935.03.31 (Baga, Togo)Ordained Priest:1963.06.30Consecrated Bishop:1997.01.06Died:2013.02.03 († 77)Bishop of Kara (Togo) (1996.11.30 – 2009.01.07)Bishop Ernest Patili Assi  (1994.07.01 – 1996.02.16)Born:1936.12.31 (Bohou, Togo)Ordained Priest:1964.06.28Consecrated Bishop:1994.10.15Died:1996.02.16 († 59)Bishop of Kara (Togo) (1994.07.01 – 1996.02.16)Former PrelatesCoadjutor Bishop: Bishop Jacques Danka Longa (64) (2008.04.23 – 2009.01.07)Special ChurchesCathedral:  Cathédrale Saints Pierre et Paul, Kara, Kara Show MapYendi (←), Dapaong (↖), Natitingou (↑), Djougou (→), Sokodé (↓)Statistics (2022.12.31)Area: 10,590 km²Population: 209,239 Catholics (21.9% of 957,600 total)Pastoral Centres: 46 parishes, 4 missionsPersonnel: 125 priests (84 diocesan, 41 religious), 219 religious (85 brothers, 134 sisters), 47 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kara1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 957600,
+    "catholiques": 209239,
+    "pourcentage_catholiques": 21.9
+  },
+  "ressources": {
+    "pretres_diocesains": 84,
+    "pretres_religieux": null,
+    "total_pretres": 125,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ec-zele0",
+  "nom": "Santa Elena",
+  "pays": "ec",
+  "pays_nom": "Ecuador",
+  "continent": "amerique",
+  "type": "Diocese Name: Santa Elena (español) / Sanctæ Helenæ (Latin)Ecclesiastical Province: GuayaquilNeighbouring Dioceses: Galápagos (←), Portoviejo (↑), Daule (↗), Guayaquil (→)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2022.02.02: Established as Diocese of Santa Elena (español) / Sanctæ Helenæ (Latin) (from Metropolitan Archdiocese of Guayaquil and became suffragan of Guayaquil)Present PrelatesBishop (2022.02.02 – ...):Bishop Guido Iván Minda Chalá (66)OrdinariesBishops of Santa Elena (Roman Rite)Bishop Guido Iván Minda Chalá (66)  (2022.02.02 – ...)Bishop of Santa Elena (Ecuador)Ad Jesum per MariamBorn:1960.02.20 (San Bartolomé de Apula, Ecuador)Ordained Priest:1998.06.27Consecrated Bishop:2009.11.28Priest of Ibarra (Ecuador) (1998.06.27 – 2009.11.04)Titular Bishop of Nisa in Lycia (2009.11.04 – 2022.02.02)Auxiliary Bishop of Guayaquil (Ecuador) (2009.11.04 – 2022.02.02)Apostolic Administrator of Ibarra (Ecuador) (2018.10.13 – 2019.12.12)Bishop of Santa Elena (Ecuador) (2022.02.02 – ...)Special ChurchesCathedral:  Catedral Santa Elena, Santa Elena, Santa Elena Jubilee Churches in the Holy Year 2025Churches by City (30)Show MapGalápagos (←), Portoviejo (↑), Daule (↗), Guayaquil (→)Statistics (2022.12.31)Area: 6,343 km²Population: 340,000 Catholics (85.0% of 400,000 total)Pastoral Centres: 28 parishes, 123 missionsPersonnel: 43 priests (29 diocesan, 14 religious), 14 religious (14 brothers)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zele0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 400000,
+    "catholiques": 340000,
+    "pourcentage_catholiques": 85.0
+  },
+  "ressources": {
+    "pretres_diocesains": 29,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

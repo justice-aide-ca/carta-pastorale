@@ -1,0 +1,29 @@
+{
+  "id": "ph-vira0",
+  "nom": "Virac",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Virac / Viracen(sis) (Latin)Ecclesiastical Province: CaceresNeighbouring Dioceses: Legazpi (↙), Caceres (←), Sorsogon (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Our Lady of the Immaculate Conception, Saint Joseph (March 19)Cathedral Dedication Anniversary: August 27Liturgical Calendar (National) 📅History1974.05.27: Established as Diocese of Virac / Viracen(sis) (Latin) (from Diocese of Legazpi and became suffragan of Caceres)Present PrelatesBishop (2024.02.29 – ...):Bishop Luisito Audal Occiano (55)Monsignors (8)OrdinariesBishops of Virac (Roman Rite)Bishop Luisito Audal Occiano (55)  (2024.02.29 – ...)Bishop of Virac (Philippines)Cum gaudio prædicareBorn:1971.06.21 (San Miguel, Camarines Sur, Philippines)Ordained Priest:1996.11.10Consecrated Bishop:2024.06.21Priest of Caceres (Philippines) (1996.11.10 – 2024.02.29)Bishop of Virac (Philippines) (2024.02.29 – ...)Bishop Manolo Alarcon de los Santos (78)  (1994.08.12 – 2024.02.29)Bishop emeritus of Virac (Philippines)Pro paceBorn:1947.08.05 (Basud, Philippines)Ordained Priest:1974.05.07Consecrated Bishop:1994.09.12Priest of Caceres (Philippines) (1974.05.07 – 1994.08.12)Chaplain of His Holiness (1984.11.24 – 1994.08.12)Bishop of Virac (Philippines) (1994.08.12 – 2024.02.29)Bishop José Crisologo Sorra  (1974.05.27 – 1993.03.01)Christi impetus pacisBorn:1929.03.09 (Malinao, Philippines)Ordained Priest:1956.03.17Consecrated Bishop:1974.08.28Died:2021.01.21 (Legazpi City, Philippines † 91)Priest of Legazpi (Philippines) (1956.03.17 – 1974.05.27)Bishop of Virac (Philippines) (1974.05.27 – 1993.03.01)Bishop of Legazpi (Philippines) (1993.03.01 – 2005.04.01)Special ChurchesCathedral:  Cathedral of Our Lady of the Immaculate Conception, Virac, Catanduanes, Bicol Jubilee Churches in the Holy Year 2025Churches by City (31)Show MapLegazpi (↙), Caceres (←), Sorsogon (↓)Statistics (2022.12.31)Area: 1,512 km²Population: 265,162 Catholics (95.0% of 279,118 total)Pastoral Centres: 45 parishes, 12 missionsPersonnel: 78 priests (69 diocesan, 9 religious), 47 religious (10 brothers, 37 sisters), 24 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vira0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 279118,
+    "catholiques": 265162,
+    "pourcentage_catholiques": 95.0
+  },
+  "ressources": {
+    "pretres_diocesains": 69,
+    "pretres_religieux": null,
+    "total_pretres": 78,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 45
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "ca-edmundston",
+  "nom": "Edmundston",
+  "pays": "ca",
+  "continent": "amerique",
+  "type": "Diocese",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": 12838,
+    "population_totale": 43481,
+    "catholiques": 41996,
+    "pourcentage_catholiques": 96.6
+  },
+  "ressources": {
+    "pretres_diocesains": 22,
+    "pretres_religieux": 3,
+    "total_pretres": 25,
+    "religieuses": 26,
+    "diacres_permanents": 0,
+    "paroisses": 30,
+    "seminarians": 0
+  },
+  "sacrements_2021": {
+    "baptemes": 208,
+    "confirmations": 148,
+    "mariages": 17,
+    "funerailles": 513
+  },
+  "historique_clerge": [
+    { "annee": 1950, "pretres": 86, "religieuses": 247 },
+    { "annee": 1966, "pretres": 104, "religieuses": 400 },
+    { "annee": 1976, "pretres": 71, "religieuses": 248 },
+    { "annee": 2021, "pretres": 23, "religieuses": 26 }
+  ],
+  "communautes": {},
+  "source": "GCatholic.org + Catholic-Hierarchy.org",
+  "derniere_mise_a_jour": "2026-07-13",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_d%27Edmundston",
+    "conference_episcopale": "https://www.cecc.ca/"
+  }
+}

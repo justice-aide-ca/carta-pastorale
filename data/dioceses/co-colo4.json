@@ -1,0 +1,29 @@
+{
+  "id": "co-colo4",
+  "nom": "Colombia",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Apostolic Exarchate Name: Colombia (español) / Columbiæ (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Nuestra Señora de los Mártires del Líbano en México (↖)Depends on: Dicastery for the Eastern ChurchesWebsites: History2016.01.20: Established as Apostolic Exarchate of Colombia (español) / Columbiæ (Latin)Present PrelatesApostolic Exarch (2016.01.20 – ...):Fr. Fadi Abou Bou Chebl Abi Nassif, O.M.M. (56)OrdinariesApostolic Exarchs of Colombia (Maronite Rite)Fr. Fadi Abou Bou Chebl Abi Nassif, O.M.M. (56)  (2016.01.20 – ...)Apostolic Exarch of Colombia of the Maronites (Colombia)Born:1969.10.19 (Lebanon)Ordained Priest:1995.12.23Apostolic Exarch of Colombia of the Maronites (Colombia) (2016.01.20 – ...)Special ChurchesPro-Cathedral:  Parroquia de Nuestra Señora del Líbano, Chapinero, Distrito Capital de Bogotá Show MapNuestra Señora de los Mártires del Líbano en México (↖)Statistics (2022.12.31)Population: 5,050 CatholicsPastoral Centres: 2 parishes, 1 missionPersonnel: 2 priests (diocesan), 2 seminariansPopulationPastoral CentresPriestsSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "colo4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 2
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "br-cruz3",
+  "nom": "Cruz das Almas",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Cruz das Almas (Português) / Crucis Animarum (Latin)Ecclesiastical Province: São Salvador da BahiaNeighbouring Dioceses: Amargosa (↙), Feira de Santana (↑), Camaçari (→), São Salvador da Bahia (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2017.11.22: Established as Diocese of Cruz das Almas (Português) / Crucis Animarum (Latin) (from Metropolitan Archdiocese of São Salvador da Bahia and became suffragan of São Salvador da Bahia)Present PrelatesBishop (2017.11.22 – ...):Bishop Antônio Tourinho Neto (62)Monsignors (2)OrdinariesBishops of Cruz das Almas (Roman Rite)Bishop Antônio Tourinho Neto (62)  (2017.11.22 – ...)Bishop of Cruz das Almas (Brazil)Omnia vincit amorBorn:1964.01.09 (Jequié, BA, Brazil)Ordained Priest:1990.01.20Consecrated Bishop:2015.01.17Priest of Jequié (Brazil) (1990.01.20 – 2014.11.12)Titular Bishop of Satafi (2014.11.12 – 2017.11.22)Auxiliary Bishop of Olinda e Recife (Brazil) (2014.11.12 – 2017.11.22)Bishop of Cruz das Almas (Brazil) (2017.11.22 – ...)Special ChurchesCathedral:  Catedral Nossa Senhora do Bom Sucesso, Cruz das Almas, Bahia Minor Basilica:  Basílica Nossa Senhora da Purificação, Santo Amaro, Bahia Jubilee Churches in the Holy Year 2025Churches by City (20)Show MapAmargosa (↙), Feira de Santana (↑), Camaçari (→), São Salvador da Bahia (↘)Statistics (2022.12.31)Area: 2,409 km²Population: 199,800 Catholics (61.6% of 324,392 total)Pastoral Centres: 17 parishesPersonnel: 25 priests (24 diocesan, 1 religious), 21 deacons, 26 religious (1 brother, 25 sisters), 8 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cruz3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 324392,
+    "catholiques": 199800,
+    "pourcentage_catholiques": 61.6
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 25,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

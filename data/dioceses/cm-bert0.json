@@ -1,0 +1,29 @@
+{
+  "id": "cm-bert0",
+  "nom": "Bertoua",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese Name: Bertoua / Bertuan(us) (Latin)Suffragan Sees: Batouri, Doumé–Abong’ Mbang, YokadoumaNeighbouring Dioceses: Obala (←), Bafia (↖), Ngaoundéré (↑), Bouar (↗), Berbérati (→), Batouri (↘), Doumé–Abong’ Mbang (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1983.03.17: Established as Diocese of Bertoua / Bertuan(us) (Latin) (from Diocese of Doumé and became suffragan of Yaoundé)1991.05.20: Lost territory to establish Diocese of Yokadouma1994.02.03: Lost territory to establish Diocese of Batouri1994.11.11: Promoted as Metropolitan Archdiocese of Bertoua / Bertuan(us) (Latin) (with suffragan sees Batouri, Doumé–Abong’ Mbang and Yokadouma)Present PrelatesMetropolitan Archbishop (2009.12.03 – ...):Archbishop Joseph Atanga, S.J. (73)Monsignors (1)OrdinariesMetropolitan Archbishops of Bertoua (Roman Rite)Archbishop Joseph Atanga, S.J. (73)  (2009.12.03 – ...)Metropolitan Archbishop of Bertoua (Cameroon)AmenBorn:1952.08.14 (Akok-Bekoe, Cameroon)Ordained Priest:1987.07.11Consecrated Bishop:1999.09.18Bishop of Bafoussam (Cameroon) (1999.06.22 – 2009.12.03)Metropolitan Archbishop of Bertoua (Cameroon) (2009.12.03 – ...)President of National Episcopal Conference of Cameroon (2010 – 2013.04)Archbishop Roger Pirenne, C.I.C.M.  (1999.06.03 – 2009.12.03)Gardien de la véritéBorn:1934.08.09 (Clermont sur Berwinne, Belgium)Ordained Priest:1958.08.03Consecrated Bishop:1994.05.22Died:2023.08.06 (Yaoundé, Cameroon † 88)Bishop of Batouri (Cameroon) (1994.02.03 – 1999.06.03)Apostolic Administrator of Doumé–Abong’ Mbang (Cameroon) (1995.02.24 – 1997.04.20)Metropolitan Archbishop of Bertoua (Cameroon) (1999.06.03 – 2009.12.03)Archbishop Lambertus Johannes van Heygen, C.S.Sp.  (1994.11.11 – 1999.06.03)Sumus invicem membraBorn:1920.12.09 (’s-Gravenhage, Netherlands)Ordained Priest:1947.07.20Consecrated Bishop:1962.06.29Died:2007.05.30 († 86)Bishop of Doumé (Cameroon) (1962.04.16 – 1983.03.17)Bishop of Bertoua (Cameroon) (1983.03.17 – 1994.11.11)Metropolitan Archbishop of Bertoua (Cameroon) (1994.11.11 – 1999.06.03)Bishops of Bertoua (Roman Rite)Bishop Lambertus Johannes van Heygen, C.S.Sp. (later Archbishop)  (1983.03.17 – 1994.11.11)(see above)Special ChurchesCathedral:  Cathédrale de la Sainte-Famille, Bertoua, East Show MapObala (←), Bafia (↖), Ngaoundéré (↑), Bouar (↗), Berbérati (→), Batouri (↘), Doumé–Abong’ Mbang (↓)Statistics (2016.12.31)Area: 26,320 km²Population: 253,000 Catholics (60.2% of 420,000 total)Pastoral Centres: 48 parishesPersonnel: 116 priests (110 diocesan, 6 religious), 6 deacons, 66 religious (21 brothers, 45 sisters), 35 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bert0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 420000,
+    "catholiques": 253000,
+    "pourcentage_catholiques": 60.2
+  },
+  "ressources": {
+    "pretres_diocesains": 110,
+    "pretres_religieux": null,
+    "total_pretres": 116,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 48
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

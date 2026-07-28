@@ -1,0 +1,29 @@
+{
+  "id": "ec-zjac0",
+  "nom": "San Jacinto",
+  "pays": "ec",
+  "pays_nom": "Ecuador",
+  "continent": "amerique",
+  "type": "Diocese Name: San Jacinto (español) / Yaguachi (español) / Sancti Hyacinthi de Yaguachi (Latin)Ecclesiastical Province: GuayaquilNeighbouring Dioceses: Guayaquil (←), Babahoyo (↑), Azogues (→), Cuenca (↘), Machala (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History2009.11.04: Established as Diocese of San Jacinto de Yaguachi (español) / Yaguachi (español) / Sancti Hyacinthi de Yaguachi (Latin) (from Metropolitan Archdiocese of Guayaquil and became suffragan of Guayaquil)2015.10.08: Renamed as Diocese of San Jacinto (español) / Yaguachi (español) / Sancti Hyacinthi de Yaguachi (Latin)Present PrelatesBishop (2025.01.31 – ...):Bishop Gustavo Adolfo Rosales Escobar (61)OrdinariesBishops of San Jacinto (Roman Rite)Bishop Gustavo Adolfo Rosales Escobar (61)  (2025.01.31 – ...)Bishop of San Jacinto (Ecuador)Noli timereBorn:1964.08.26 (Valparaiso, Chile)Ordained Priest:1991.10.26Consecrated Bishop:2022.08.06Priest of Cuenca (Ecuador) (1991.10.26 – 2022.06.03)Titular Bishop of Glavinitza (2022.06.03 – 2025.01.31)Auxiliary Bishop of Guayaquil (Ecuador) (2022.06.03 – 2025.01.31)Bishop of San Jacinto (Ecuador) (2025.01.31 – ...)Bishop Aníbal Nieto Guerra, O.C.D. (77)  (2009.11.04 – 2025.01.31)Bishop emeritus of San Jacinto (Ecuador)Nihil sine teBorn:1949.02.23 (Formaselle, Spain)Ordained Priest:1982.08.08Consecrated Bishop:2006.07.22Titular Bishop of Tuscania (2006.06.10 – 2009.11.04)Auxiliary Bishop of Guayaquil (Ecuador) (2006.06.10 – 2009.11.04)Bishop of San Jacinto (Ecuador) (2009.11.04 – 2025.01.31)Special ChurchesCathedral, Minor Basilica:  Basílica Catedral San Jacinto, Yaguachi, Guayas Co-Cathedral:  Concatedral Santuario Divino Niño, Durán, Guayas Jubilee Churches in the Holy Year 2025Show MapGuayaquil (←), Babahoyo (↑), Azogues (→), Cuenca (↘), Machala (↓)Statistics (2022.12.31)Area: 6,265 km²Population: 739,300 Catholics (89.7% of 824,500 total)Pastoral Centres: 52 parishes, 350 missionsPersonnel: 53 priests (38 diocesan, 15 religious), 3 deacons, 73 religious (19 brothers, 54 sisters), 2 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "zjac0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 824500,
+    "catholiques": 739300,
+    "pourcentage_catholiques": 89.7
+  },
+  "ressources": {
+    "pretres_diocesains": 38,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 52
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sr-badu0",
+  "nom": "Badulla",
+  "pays": "sr",
+  "pays_nom": "Sri Lanka",
+  "continent": "unknown",
+  "type": "Diocese Name: Badulla / Badullan(us) (Latin)Ecclesiastical Province: ColomboNeighbouring Dioceses: Ratnapura (↙), Kandy (↖), Batticaloa (↗), Galle (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1972.12.18: Established as Diocese of Badulla / Badullan(us) (Latin) (from Diocese of Kandy and became suffragan of Colombo)Present PrelatesBishop (2023.01.30 – ...):Bishop Jude Nishantha Silva Echchampulle Arachchige (56)Monsignors (1)OrdinariesBishops of Badulla (Roman Rite)Bishop Jude Nishantha Silva Echchampulle Arachchige (56)  (2023.01.30 – ...)Bishop of Badulla (Sri Lanka)Born:1970.05.05 (Moratuwa, Sri Lanka)Ordained Priest:2001.10.02Consecrated Bishop:2023.04.22Priest of Badulla (Sri Lanka) (2001.10.02 – 2023.01.30)Bishop of Badulla (Sri Lanka) (2023.01.30 – ...)Bishop Julian Winston Sebastian Fernando, S.S.S. (81)  (1997.03.03 – 2023.01.30)Bishop emeritus of Badulla (Sri Lanka)Begin littleBorn:1945.01.16 (Moratuwa, Sri Lanka)Ordained Priest:1975.09.06Consecrated Bishop:1997.06.14Bishop of Badulla (Sri Lanka) (1997.03.03 – 2023.01.30)President of Bishops’ Conference of Sri Lanka (2017.02.21 – 2022.06.10)Bishop Edmund Joseph Fernando, O.M.I.  (1983.12.05 – 1997.03.03)Born:1921.03.25 (Pitipana, Sri Lanka)Ordained Priest:1949.08.06Consecrated Bishop:1968.07.17Died:2004.07.16 († 83)Titular Bishop of Igilgili (1968.04.09 – 1983.12.05)Auxiliary Bishop of Colombo (Sri Lanka) (1968.04.09 – 1983.12.05)Bishop of Badulla (Sri Lanka) (1983.12.05 – 1997.03.03)Bishop Leo Nanayakkara, O.S.B. Silv.  (1972.12.18 – 1982.05.28)Born:1917.11.26 (Polgahawela, Sri Lanka)Ordained Priest:1950.02.10Consecrated Bishop:1959.10.03Died:1982.05.28 († 64)Bishop of Kandy (Sri Lanka) (1959.07.02 – 1972.12.18)Bishop of Badulla (Sri Lanka) (1972.12.18 – 1982.05.28)Special ChurchesCathedral:  St. Mary’s Cathedral, Badulla, Uva Jubilee Churches in the Holy Year 2025Show MapRatnapura (↙), Kandy (↖), Batticaloa (↗), Galle (↓)Statistics (2022.12.31)Area: 8,500 km²Population: 18,540 Catholics (1.2% of 1,564,160 total)Pastoral Centres: 21 parishes, 5 missionsPersonnel: 40 priests (26 diocesan, 14 religious), 101 religious (17 brothers, 84 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "badu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1564160,
+    "catholiques": 18540,
+    "pourcentage_catholiques": 1.2
+  },
+  "ressources": {
+    "pretres_diocesains": 26,
+    "pretres_religieux": null,
+    "total_pretres": 40,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

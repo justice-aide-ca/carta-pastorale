@@ -1,0 +1,29 @@
+{
+  "id": "ro-roma0",
+  "nom": "Romania",
+  "pays": "ro",
+  "pays_nom": "Romania",
+  "continent": "unknown",
+  "type": "Ordinariate Name: Romania / Romaniæ (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Sainte-Croix-de-Paris (←), Lviv (↑), Istanbul (↘), Greece (↓)Depends on: Dicastery for the Eastern ChurchesHistory1930.06.05: Established as Ordinariate of Romania / Romaniæ (Latin)Contact InfoAddress: Str. Ştefan cel Mare 5, RO-405300 Gherla, RomaniaPresent PrelatesOrdinary:vacantApostolic Administrator (2020.09.02 – ...):Archbishop Gergely Kovács (57)Archbishop of Alba Iulia (Romania)OrdinariesOrdinaries of Romania (Armenian Rite)Archbishop Gergely Kovács (57)  (Apostolic Administrator 2020.09.02 – ...)Archbishop György Miklós Jakubínyi (80)  (Apostolic Administrator 1991.07.19 – 2020.09.02)Fr. Bertalan Sahin  (Apostolic Administrator 1971.11.30 – 1974.05.05)Venerable Archbishop Áron Márton  (Apostolic Administrator 1970.03.04 – 1971.11.15)Fr. Zoltán Lengyel  (Apostolic Administrator 1939.07.23 – 1964.10.05)Fr. Lorenzo Sahag Koguian, C.A.M. (later Bishop)  (Apostolic Administrator 1930.10.17 – 1939.07.23)Special ChurchesCathedral:  Catedrala Armeano-Catolică Sfânta Treime, Gherla, Cluj Show MapSainte-Croix-de-Paris (←), Lviv (↑), Istanbul (↘), Greece (↓)Statistics (2022.12.31)Population: 317 CatholicsPastoral Centres: 4 parishesPersonnel: 5 priests (diocesan)PopulationPastoral CentresPriestsLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "roma0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 4
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

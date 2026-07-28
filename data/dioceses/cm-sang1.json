@@ -1,0 +1,29 @@
+{
+  "id": "cm-sang1",
+  "nom": "Sangmélima",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Sangmélima / Sangmelimaën(sis) (Latin)Ecclesiastical Province: YaoundéNeighbouring Dioceses: Ebolowa (←), Mbalmayo (↖), Doumé–Abong’ Mbang (↗), Ouesso (↘), Oyem (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1963.01.18: Established as Diocese of Sangmélima / Sangmelimaën(sis) (Latin) (from Diocese of Douala and became suffragan of Yaoundé)1991.05.20: Lost territory to establish Diocese of Ebolowa–KribiPresent PrelatesBishop (2008.12.04 – ...):Bishop Christophe Zoa (65)Monsignors (1)OrdinariesBishops of Sangmélima (Roman Rite)Bishop Christophe Zoa (65)  (2008.12.04 – ...)Bishop of Sangmélima (Cameroon)L’amour ne passera jamaisBorn:1961.06.10 (Yaoundé, Cameroon)Ordained Priest:1991.06.15Consecrated Bishop:2007.02.03Priest of Yaoundé (Cameroon) (1991.06.15 – 2006.11.30)Titular Bishop of Hilta (2006.11.30 – 2008.12.04)Auxiliary Bishop of Yaoundé (Cameroon) (2006.11.30 – 2008.12.04)Bishop of Sangmélima (Cameroon) (2008.12.04 – ...)Bishop Raphaël Marie Ze  (1992.01.23 – 2008.12.04)Pais mes brébisBorn:1932.11.04 (Alangana, Cameroon)Ordained Priest:1962.04.29Consecrated Bishop:1992.04.25Died:2011.09.06 († 78)Bishop of Sangmélima (Cameroon) (1992.01.23 – 2008.12.04)Apostolic Administrator of Ebolowa–Kribi (Cameroon) (2002.03.15 – 2004.10.15)Bishop Jean-Baptiste Ama  (1983.07.22 – 1991.05.20)Born:1926.08.20 (Koundou, Cameroon)Ordained Priest:1955.06.04Consecrated Bishop:1975.02.02Died:2004.02.29 († 77)Titular Bishop of Accia (1974.12.12 – 1983.07.22)Auxiliary Bishop of Yaoundé (Cameroon) (1974.12.12 – 1983.07.22)Bishop of Sangmélima (Cameroon) (1983.07.22 – 1991.05.20)President of National Episcopal Conference of Cameroon (1991 – 1994)Bishop of Ebolowa–Kribi (Cameroon) (1991.05.20 – 2002.03.15)Bishop Pierre-Célestin Nkou  (1963.01.18 – 1983.05.16)Born:1927.11.08 (Edéa, Cameroon)Ordained Priest:1956.04.15Consecrated Bishop:1963.06.02Died:1983.05.16 (Roma, Italy † 55)Priest of Douala (Cameroon) (1956.04.15 – 1963.01.18)Bishop of Sangmélima (Cameroon) (1963.01.18 – 1983.05.16)Special ChurchesCathedral:  Cathédrale Notre-Dame, Sangmélima, South Future Cathedral:  Cathédrale Saint-Joseph, Sangmélima, South Show MapEbolowa (←), Mbalmayo (↖), Doumé–Abong’ Mbang (↗), Ouesso (↘), Oyem (↓)Statistics (2020.12.31)Area: 19,911 km²Population: 108,000 Catholics (46.6% of 232,000 total)Pastoral Centres: 39 parishesPersonnel: 47 priests (34 diocesan, 13 religious), 76 religious (48 brothers, 28 sisters), 21 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sang1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 232000,
+    "catholiques": 108000,
+    "pourcentage_catholiques": 46.6
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 47,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 39
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

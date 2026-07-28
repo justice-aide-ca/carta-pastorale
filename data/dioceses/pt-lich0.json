@@ -1,0 +1,29 @@
+{
+  "id": "pt-lich0",
+  "nom": "Lichinga",
+  "pays": "pt",
+  "pays_nom": "Portugal",
+  "continent": "unknown",
+  "type": "Diocese Name: Lichinga / Lichingaën(sis) (Latin)Ecclesiastical Province: NampulaNeighbouring Dioceses: Mangochi (↙), Mbinga (↑), Songea (↑), Tunduru–Masasi (↗), Pemba (→), Nampula (↘), Gurúè (↘), Quelimane (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Saint JosephCathedral Dedication Anniversary: March 19Liturgical Calendar (Universal) 📅History1963.07.21: Established as Diocese of Vila Cabral / Cabralopolitan(us) (Latin) (from Diocese of Nampula and became suffragan of Lourenço Marques)1976.07.29: Renamed as Diocese of Lichinga / Lichingaën(sis) (Latin)1984.06.04: Became suffragan of NampulaPresent PrelatesBishop (2015.02.08 – ...):Bishop Atanasio Amisse Canira (64)Monsignors (1)OrdinariesBishops of Lichinga (Roman Rite)Bishop Atanasio Amisse Canira (64)  (2015.02.08 – ...)Bishop of Lichinga (Mozambique)Born:1962.05.02 (Mossoril, Mozambique)Ordained Priest:1993.12.12Consecrated Bishop:2015.03.22Priest of Nacala (Mozambique) (1993.12.12 – 2015.02.08)Bishop of Lichinga (Mozambique) (2015.02.08 – ...)Bishop Elio Giovanni Greselin, S.C.I. (87)  (2008.12.30 – 2015.02.08)Bishop emeritus of Lichinga (Mozambique)Caritas Christi urget nosBorn:1938.11.15 (Tretto di Venza, Italy)Ordained Priest:1965.06.23Consecrated Bishop:2009.03.22Bishop of Lichinga (Mozambique) (2008.12.30 – 2015.02.08)Bishop Hilário Da Cruz Massinga, O.F.M. (68)  (Apostolic Administrator 2008.01.25 – 2008.12.30)Bishop Hilário Da Cruz Massinga, O.F.M. (68)  (2003.04.05 – 2008.01.25)Titular Bishop of ChulluAuxiliary Bishop of Inhambane (Mozambique)Eu confio na misericórdia de DeuBorn:1958.06.25 (Banze, Gabon)Ordained Priest:1994.01.09Consecrated Bishop:2003.06.15Bishop of Lichinga (Mozambique) (2003.04.05 – 2008.01.25)Apostolic Administrator of Lichinga (Mozambique) (2008.01.25 – 2008.12.30)Bishop of Quelimane (Mozambique) (2008.01.25 – 2023.08.11)Vice-President of Episcopal Conference of Mozambique (2015.11.10 – 2018.11.11)Titular Bishop of Chullu (2023.08.11 – ...)Auxiliary Bishop of Inhambane (Mozambique) (2023.08.11 – ...)Bishop Luís Gonzaga Ferreira da Silva, S.J.  (Apostolic Administrator 2003.01.25 – 2003.04.05)Bishop Luís Gonzaga Ferreira da Silva, S.J.  (1976.07.29 – 2003.01.25)Born:1923.04.02 (Rebordões, Portugal)Ordained Priest:1953.07.11Consecrated Bishop:1972.12.17Died:2013.08.07 († 90)Bishop of Vila Cabral (Mozambique) (1972.11.10 – 1976.07.29)Bishop of Lichinga (Mozambique) (1976.07.29 – 2003.01.25)Apostolic Administrator of Lichinga (Mozambique) (2003.01.25 – 2003.04.05)Bishops of Vila Cabral (Roman Rite)Bishop Luís Gonzaga Ferreira da Silva, S.J.  (1972.11.10 – 1976.07.29)(see above)Bishop Eurico Dias Nogueira (later Archbishop)  (1964.07.10 – 1972.02.19)Born:1923.03.06 (Dornelas do Zêzere, Portugal)Ordained Priest:1945.12.22Consecrated Bishop:1964.12.06Died:2014.05.19 (Braga, Portugal † 91)Priest of Coimbra (Portugal) (1945.12.22 – 1964.07.10)Bishop of Vila Cabral (Mozambique) (1964.07.10 – 1972.02.19)Bishop of Sá da Bandeira (Angola) (1972.02.19 – 1977.02.03)Apostolic Administrator of Pereira de Eça (Angola) (1975 – 1977.02.03)Metropolitan Archbishop of Braga (Portugal) (1977.02.03 – 1999.06.05)Special ChurchesCathedral:  Catedral de São José, Lichinga, Niassa Show MapMangochi (↙), Mbinga (↑), Songea (↑), Tunduru–Masasi (↗), Pemba (→), Nampula (↘), Gurúè (↘), Quelimane (↓)Statistics (2022.12.31)Area: 129,362 km²Population: 310,000 Catholics (19.7% of 1,574,000 total)Pastoral Centres: 21 parishesPersonnel: 35 priests (27 diocesan, 8 religious), 114 religious (10 brothers, 104 sisters), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lich0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1574000,
+    "catholiques": 310000,
+    "pourcentage_catholiques": 19.7
+  },
+  "ressources": {
+    "pretres_diocesains": 27,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

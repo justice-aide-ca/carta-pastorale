@@ -1,0 +1,29 @@
+{
+  "id": "hu-debr0",
+  "nom": "Debrecen–Nyíregyháza",
+  "pays": "hu",
+  "pays_nom": "Hungary",
+  "continent": "unknown",
+  "type": "Diocese Name: Debrecen–Nyíregyháza / Debrecenen(sis)–Nyiregyhazan(us) (Latin)Ecclesiastical Province: EgerNeighbouring Dioceses: Szeged–Csanád (↙), Eger (←), Mukačeve (↗), Satu Mare (→), Oradea Mare (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Szent László (June 27)Cathedral Dedication Anniversary: June 5Liturgical Calendar 📅History1993.05.31: Established as Diocese of Debrecen–Nyíregyháza / Debrecenen(sis)–Nyiregyhazan(us) (Latin) (from Metropolitan Archdiocese of Eger and Diocese of Szeged–Csanád and became suffragan of Eger)Present PrelatesBishop (2015.09.21 – ...):Bishop Ferenc Palánki (62)Monsignors (10)OrdinariesBishops of Debrecen–Nyíregyháza (Roman Rite)Bishop Ferenc Palánki (62)  (2015.09.21 – ...)Bishop of Debrecen–Nyíregyháza (Hungary)Jézus a feltámadás és az életBorn:1964.03.11 (Balassagyarmat, Hungary)Ordained Priest:1994.06.18Consecrated Bishop:2011.02.26Priest of Vác (Hungary) (1994.06.18 – 2010.12.27)Titular Bishop of Fidoloma (2010.12.27 – 2015.09.21)Auxiliary Bishop of Eger (Hungary) (2010.12.27 – 2015.09.21)Bishop of Debrecen–Nyíregyháza (Hungary) (2015.09.21 – ...)Bishop Nándor Bosák (86)  (1993.05.31 – 2015.09.21)Bishop emeritus of Debrecen–Nyíregyháza (Hungary)Törd meg kenyeredet az éhezőknekBorn:1939.12.28 (Taksonyíalva, Hungary)Ordained Priest:1963.06.13Consecrated Bishop:1993.06.15Priest of Eger (Hungary) (1963.06.13 – 1993.05.31)Bishop of Debrecen–Nyíregyháza (Hungary) (1993.05.31 – 2015.09.21)Special ChurchesCathedral:  Szent Anna székesegyház, Debrecen, Debrecen, Hajdú-Bihar Co-Cathedral:  Magyarok Nagyasszonya Társszékesegyház, Nyíregyháza, Nyíregyháza, Szabolcs-Szatmár-Bereg Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Show MapSzeged–Csanád (↙), Eger (←), Mukačeve (↗), Satu Mare (→), Oradea Mare (↓)Statistics (2022.12.31)Area: 11,300 km²Population: 186,021 Catholics (16.5% of 1,130,770 total)Pastoral Centres: 54 parishesPersonnel: 77 priests (71 diocesan, 6 religious), 21 religious (8 brothers, 13 sisters), 5 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "debr0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1130770,
+    "catholiques": 186021,
+    "pourcentage_catholiques": 16.5
+  },
+  "ressources": {
+    "pretres_diocesains": 71,
+    "pretres_religieux": null,
+    "total_pretres": 77,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 54
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

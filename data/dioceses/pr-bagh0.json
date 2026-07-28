@@ -1,0 +1,29 @@
+{
+  "id": "pr-bagh0",
+  "nom": "Baghdad",
+  "pays": "pr",
+  "pays_nom": "Present Prelates",
+  "continent": "unknown",
+  "type": "Metropolitan Archdiocese , Proper archeparchy of the Chaldean PatriarchName: Baghdad / Babylonen(sis) Chaldæorum (Latin)Governed by: Patriarchal See of BaghdadNeighbouring Dioceses: Jordan (←), Mossul–Aqrā (↖), Aleppo (↖), Kirkuk–Sulaimaniya (↑), Ahvaz (→), Bassorah (↘)Depends on: Dicastery for the Eastern ChurchesHistory1553.04.20: Established as Metropolitan Archdiocese of Baghdad / Babylonen(sis) Chaldæorum (Latin)1954.01.17: Lost territory to establish Archdiocese of Bassorah1960.10.24: Lost territory to establish Diocese of AlquochPapal VisitsPope Francis (2021.03)Present PrelatesPatriarch (2026.04.12 [2026.04.24] – ...):Patriarch Paul III Nona (58)President of Synod of the Chaldean ChurchPresident of Assembly of the Catholic Bishops of IraqAuxiliary Bishop (2015.01.15 – ...):Bishop Basel Yaldo (56)Titular Bishop of BethzabdaFormer PrelatesAuxiliary Bishop: Bishop Robert Saeed Jarjis (52) (2018.12.22 – 2021.09.11)Auxiliary Bishop: Bishop Saad Hanna Sirop (53) (2014.01.11 – 2016.11.19)Auxiliary Bishop: Archbishop Thomas Michel Bidawid (1970.08.24 – 1971.03.29)Auxiliary Bishop: Archbishop Emmanuel-Karim Delly (later Cardinal) (1962.12.26 – 1997)Auxiliary Bishop: Bishop Etienne Katcho (1947.02.22 – 1953.06.28)Auxiliary Bishop: Bishop Souleyman Kutchouk Ousta (1938.10.15 – 1939.12.04)Auxiliary Bishop: Archbishop Yousef Ghanima (later Patriarch) (1925.05.28 – 1947.09.17)Auxiliary Bishop: Bishop Giwargis Peter de Natali (1842 – 1847.01.12)Special ChurchesCathedral:  Chaldean Cathedral of St. Joseph, Baghdad Former Cathedral:  Chaldean Church of Mary Mother of Sorrows, Baghdad Show MapJordan (←), Mossul–Aqrā (↖), Aleppo (↖), Kirkuk–Sulaimaniya (↑), Ahvaz (→), Bassorah (↘)Statistics (2022.12.31)Population: 200,000 CatholicsPastoral Centres: 29 parishesPersonnel: 20 priests (18 diocesan, 2 religious), 3 deacons, 148 religious (4 brothers, 144 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bagh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 18,
+    "pretres_religieux": null,
+    "total_pretres": 20,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

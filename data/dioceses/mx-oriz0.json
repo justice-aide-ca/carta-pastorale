@@ -1,0 +1,29 @@
+{
+  "id": "mx-oriz0",
+  "nom": "Orizaba",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Orizaba / Mendoza / Orizaben(sis) (Latin)Ecclesiastical Province: JalapaNeighbouring Dioceses: Tehuacán (↙), Puebla de los Ángeles (↖), Córdoba (→)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History2000.04.15: Established as Diocese of Orizaba / Mendoza / Orizaben(sis) (Latin) (from Metropolitan Archdiocese of Jalapa and became suffragan of Jalapa)Contact InfoAddress: Templo de Nta. Sra del Carmen; Sur 9 #142 entre Oriente 2 y 4, 94300 - Orizaba, Ver., MexicoPhone: (272) 7-24-48-75Present PrelatesBishop (2015.02.02 – ...):Bishop Francisco Eduardo Cervantes Merino (72)OrdinariesBishops of Orizaba (Roman Rite)Bishop Francisco Eduardo Cervantes Merino (72)  (2015.02.02 – ...)Bishop of Orizaba (Mexico)Sólo somos siervosBorn:1953.10.13 (Ocatán Merino Palafox, Mexico)Ordained Priest:1979.03.24Consecrated Bishop:2015.04.23Priest of Tuxpan (Mexico) (1979.03.24 – 2015.02.02)Bishop of Orizaba (Mexico) (2015.02.02 – ...)Bishop Marcelino Hernández Rodríguez (80)  (2008.02.23 – 2013.11.11)Bishop emeritus of Colima (Mexico)Servir con alegríaBorn:1946.05.28 (San Luis Potosi, Mexico)Ordained Priest:1973.04.22Consecrated Bishop:1998.02.05Priest of Guadalajara (Mexico) (1973.04.22 – 1998.01.05)Titular Bishop of Ancusa (1998.01.05 – 2008.02.23)Auxiliary Bishop of México (Mexico) (1998.01.05 – 2008.02.23)Bishop of Orizaba (Mexico) (2008.02.23 – 2013.11.11)Bishop of Colima (Mexico) (2013.11.11 – 2021.12.23)Bishop Hipólito Reyes Larios (later Archbishop)  (2000.04.15 – 2007.04.10)Spiritus Domini super nosBorn:1946.08.13 (Ciudad Mendoza, Mexico)Ordained Priest:1973.08.15Consecrated Bishop:2000.06.13Died:2021.08.08 (Xapala, Mexico † 74)Priest of Jalapa (Mexico) (1973.08.15 – 2000.04.15)Bishop of Orizaba (Mexico) (2000.04.15 – 2007.04.10)Metropolitan Archbishop of Jalapa (Mexico) (2007.04.10 – 2021.08.08)Special ChurchesCathedral:  Catedral de San Miguel Arcangel, Orizaba, Veracruz Show MapTehuacán (↙), Puebla de los Ángeles (↖), Córdoba (→)Statistics (2022.12.31)Area: 2,012 km²Population: 693,779 Catholics (91.1% of 761,193 total)Pastoral Centres: 44 parishes, 11 missionsPersonnel: 88 priests (73 diocesan, 15 religious), 139 religious (17 brothers, 122 sisters), 27 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "oriz0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 761193,
+    "catholiques": 693779,
+    "pourcentage_catholiques": 91.1
+  },
+  "ressources": {
+    "pretres_diocesains": 73,
+    "pretres_religieux": null,
+    "total_pretres": 88,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 44
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

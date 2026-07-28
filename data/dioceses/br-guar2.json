@@ -1,0 +1,29 @@
+{
+  "id": "br-guar2",
+  "nom": "Guarapuava",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Guarapuava / Guarapuaven(sis) (Latin)Ecclesiastical Province: CuritibaNeighbouring Dioceses: Cascavel (←), Campo Mourão (↖), Apucarana (↑), Ponta Grossa (→), União da Vitória (↘), Palmas–Francisco Beltrão (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Nossa Senhora de BelémLiturgical Calendar (National) 📅History1965.12.16: Established as Diocese of Guarapuava / Guarapuaven(sis) (Latin) (from Diocese of Campo Mourão, Diocese of Ponta Grossa and Diocese of Toledo and became suffragan of Curitiba)1976.12.03: Lost territory to establish Diocese of União da VitóriaPresent PrelatesBishop (2020.05.06 – ...):Bishop Amilton Manoel da Silva, C.P. (63)Monsignors (3)OrdinariesBishops of Guarapuava (Roman Rite)Bishop Amilton Manoel da Silva, C.P. (63)  (2020.05.06 – ...)Bishop of Guarapuava (Brazil)Christi in cruce gloriariBorn:1963.03.02 (Osvaldo Cruz, SP, Brazil)Ordained Priest:2000.12.17Consecrated Bishop:2017.08.19Titular Bishop of Tusuros (2017.06.07 – 2020.05.06)Auxiliary Bishop of Curitiba (Brazil) (2017.06.07 – 2020.05.06)Bishop of Guarapuava (Brazil) (2020.05.06 – ...)Bishop Antônio Wagner da Silva, S.C.I. (82)  (2003.07.02 – 2020.05.06)Bishop emeritus of Guarapuava (Brazil)Sint unumBorn:1944.03.25 (Formiga, MG, Brazil)Ordained Priest:1971.12.11Consecrated Bishop:2000.06.18Coadjutor Bishop of Guarapuava (Brazil) (2000.03.29 – 2003.07.02)Bishop of Guarapuava (Brazil) (2003.07.02 – 2020.05.06)Bishop Giovanni Zerbini, S.D.B. (98)  (1995.01.11 – 2003.07.02)Bishop emeritus of Guarapuava (Brazil)Major est caritasBorn:1927.12.29 (Chiari, Italy)Ordained Priest:1956.06.29Consecrated Bishop:1995.02.19Bishop of Guarapuava (Brazil) (1995.01.11 – 2003.07.02)Bishop Albano Bortoletto Cavallin (later Archbishop)  (1986.10.24 – 1992.03.11)Interpretabatur in ScripturisBorn:1930.04.25 (Lapa, RJ, Brazil)Ordained Priest:1953.12.06Consecrated Bishop:1973.08.28Died:2017.02.01 (Londrina, PR, Brazil † 86)Priest of Curitiba (Brazil) (1953.12.06 – 1973.06.14)Titular Bishop of Aquæ novæ in Numidia (1973.06.14 – 1986.10.24)Auxiliary Bishop of Curitiba (Brazil) (1973.06.14 – 1986.10.24)Bishop of Guarapuava (Brazil) (1986.10.24 – 1992.03.11)Metropolitan Archbishop of Londrina (Brazil) (1992.03.11 – 2006.05.10)Bishop Friedrich Helmel, S.V.D.  (1966.03.19 – 1986.09.27)Caritas Christi urget nosBorn:1911.05.02 (Lunz am See, Austria)Ordained Priest:1937.10.31Consecrated Bishop:1966.05.19Died:1993.09.12 (Guarapuava, PR, Brazil † 82)Bishop of Guarapuava (Brazil) (1966.03.19 – 1986.09.27)Former PrelatesCoadjutor Bishop: Bishop Antônio Wagner da Silva, S.C.I. (82) (2000.03.29 – 2003.07.02)Special ChurchesCathedral:  Catedral Nossa Senhora de Belém, Guarapuava, Paraná Former Cathedral:  Santuário Nossa Senhora de Belém, Guarapuava, Paraná Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (49)Show MapCascavel (←), Campo Mourão (↖), Apucarana (↑), Ponta Grossa (→), União da Vitória (↘), Palmas–Francisco Beltrão (↓)Statistics (2022.12.31)Area: 27,360 km²Population: 431,000 Catholics (76.0% of 567,000 total)Pastoral Centres: 47 parishesPersonnel: 86 priests (28 diocesan, 58 religious), 1 deacon, 108 religious (60 brothers, 48 sisters), 19 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "guar2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 567000,
+    "catholiques": 431000,
+    "pourcentage_catholiques": 76.0
+  },
+  "ressources": {
+    "pretres_diocesains": 28,
+    "pretres_religieux": null,
+    "total_pretres": 86,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

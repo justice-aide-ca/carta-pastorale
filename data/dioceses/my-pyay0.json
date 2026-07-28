@@ -1,0 +1,29 @@
+{
+  "id": "my-pyay0",
+  "nom": "Pyay",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Pyay / Pyayen(sis) (Latin)Ecclesiastical Province: YangonNeighbouring Dioceses: Chattogram (↖), Hakha (↑), Mindat (↑), Mandalay (↗), Taungngu (→), Yangon (↘), Pathein (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1940.07.09: Established as Apostolic Prefecture of Akyab / de Akyab (Latin) (from Diocese of Chittagong)1955.01.01: Became suffragan of Rangoon1957.09.19: Renamed as Apostolic Prefecture of Prome / Promen(sis) (Latin)1961.02.21: Promoted as Diocese of Prome / Promen(sis) (Latin)1991.10.08: Renamed as Diocese of Pyay / Pyayen(sis) (Latin)Present PrelatesBishop (2024.12.03 – ...):Bishop Peter Tin Wai (61)OrdinariesBishops of Pyay (Roman Rite)Bishop Peter Tin Wai (61)  (2024.12.03 – ...)Bishop of Pyay (Myanmar)Born:1965.07.02 (Natshinchaung, Myanmar)Ordained Priest:1999.03.21Consecrated Bishop:2025.02.22Priest of Pyay (Myanmar) (1999.03.21 – 2024.12.03)Bishop of Pyay (Myanmar) (2024.12.03 – ...)Bishop Alexander Pyone Cho (77)  (2010.12.03 – 2024.12.03)Bishop emeritus of Pyay (Myanmar)Christ my communicator of peaceBorn:1949.07.10 (Oatshitpin, Myanmar)Ordained Priest:1975.03.15Consecrated Bishop:2011.02.27Priest of Pyay (Myanmar) (1975.03.15 – 2010.12.03)Bishop of Pyay (Myanmar) (2010.12.03 – 2024.12.03)Bishop Joseph Devellerez Thaung Shwe  (1991.10.08 – 2010.12.03)Born:1935.10.10 (Twante, Myanmar)Ordained Priest:1961.01.10Consecrated Bishop:1976.02.02Died:2015.02.17 († 79)Bishop of Prome (Myanmar) (1975.10.02 – 1991.10.08)Bishop of Pyay (Myanmar) (1991.10.08 – 2010.12.03)Bishops of Prome (Roman Rite)Bishop Gregory Taik Maung (79)  (Apostolic Administrator sede plena 1991 – 2010.07.16)Bishop Joseph Devellerez Thaung Shwe  (1975.10.02 – 1991.10.08)(see above)Bishop Thomas Albert Newman, M.S.  (1961.02.21 – 1975)Born:1903.11.03 (Waterbury, CT, USA)Ordained Priest:1929.06.29Consecrated Bishop:1961.05.21Died:1978.03.09 (Hartford, CT, USA † 74)Prefect Apostolic of Akyab (Myanmar) (1940.07.12 – 1957.09.19)Prefect Apostolic of Prome (Myanmar) (1957.09.19 – 1961.02.21)Bishop of Prome (Myanmar) (1961.02.21 – 1975)Prefects Apostolic of Prome (Roman Rite)Fr. Thomas Albert Newman, M.S. (later Bishop)  (1957.09.19 – 1961.02.21)(see above)Prefects Apostolic of Akyab (Roman Rite)Fr. Thomas Albert Newman, M.S. (later Bishop)  (1940.07.12 – 1957.09.19)(see above)Former PrelatesAuxiliary Bishop: Bishop Gregory Taik Maung (79) (1984.11.08 – 2010.07.16)Special ChurchesCathedral:  St. Paul’s Cathedral, Pyay, Bago Show MapChattogram (↖), Hakha (↑), Mindat (↑), Mandalay (↗), Taungngu (→), Yangon (↘), Pathein (↓)Statistics (2022.12.31)Area: 80,938 km²Population: 27,580 Catholics (0.4% of 7,530,000 total)Pastoral Centres: 22 parishesPersonnel: 48 priests (45 diocesan, 3 religious), 96 religious (5 brothers, 91 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pyay0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 7530000,
+    "catholiques": 27580,
+    "pourcentage_catholiques": 0.4
+  },
+  "ressources": {
+    "pretres_diocesains": 45,
+    "pretres_religieux": null,
+    "total_pretres": 48,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

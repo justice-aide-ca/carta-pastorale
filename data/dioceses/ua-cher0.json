@@ -1,0 +1,29 @@
+{
+  "id": "ua-cher0",
+  "nom": "Chernivtsi",
+  "pays": "ua",
+  "pays_nom": "Ukraine",
+  "continent": "unknown",
+  "type": "Diocese Name: Chernivtsi / Chernivcen(sis) (Latin)Ecclesiastical Province: Ivano-FrankivskNeighbouring Dioceses: Maramureş (↙), Kolomyia (←), Bučač (↑), Kamyanets-Podilskyi (→), Făgăraş şi Alba Iulia (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: History2017.09.12: Established as Diocese of Chernivtsi / Chernivcen(sis) (Latin) (from Diocese of Kolomyia–Chernivtsi and became suffragan of Ivano-Frankivsk)Present PrelatesBishop (2017.09.12 – ...):Bishop Yosafat Moshchych, C.M.S.A.A. (49)OrdinariesBishops of Chernivtsi (Ukrainian Rite)Bishop Yosafat Moshchych, C.M.S.A.A. (49)  (2017.09.12 – ...)Bishop of Chernivtsi of the Ukrainians (Ukraine)Ісус є ГосподьBorn:1976.09.16 (Stariy Rozdil, Ukraine)Ordained Priest:1999.09.26Consecrated Bishop:2014.08.03Superior General of Missionary Congregation of Saint Andrew the Apostle (2003.10.21 – 2013.11.18)Titular Bishop of Pulcheriopolis (2014.05.27 – 2017.09.12)Auxiliary Bishop of Ivano-Frankivsk of the Ukrainians (Ukraine) (2014.05.27 – 2017.09.12)Bishop of Chernivtsi of the Ukrainians (Ukraine) (2017.09.12 – ...)Special ChurchesCathedral:  Cathedral of the Dormition of the Blessed Virgin Mary, Chernivtsi (Чернівці), Chernihiv Oblast Jubilee Churches in the Holy Year 2025Show MapMaramureş (↙), Kolomyia (←), Bučač (↑), Kamyanets-Podilskyi (→), Făgăraş şi Alba Iulia (↓)Statistics (2022.12.31)Area: 8,097 km²Population: 19,500 Catholics (2.2% of 889,000 total)Pastoral Centres: 24 parishes, 1 missionPersonnel: 30 priests (diocesan), 2 religious (2 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cher0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 889000,
+    "catholiques": 19500,
+    "pourcentage_catholiques": 2.2
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

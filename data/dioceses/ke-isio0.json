@@ -1,0 +1,29 @@
+{
+  "id": "ke-isio0",
+  "nom": "Isiolo",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Isiolo / Isiolan(us) (Latin)Ecclesiastical Province: NyeriNeighbouring Dioceses: Nyeri (↙), Nyahururu (←), Maralal (↑), Garissa (→), Meru (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1995.12.15: Established as Apostolic Vicariate of Isiolo / Isiolan(us) (Latin) (from Diocese of Meru)2023.02.15: Promoted as Diocese of Isiolo / Isiolan(us) (Latin) (became suffragan of Nyeri)Present PrelatesBishop (2024.09.28 – ...):Bishop Peter Munguti Makau, I.M.C. (51)OrdinariesBishops of Isiolo (Roman Rite)Bishop Peter Munguti Makau, I.M.C. (51)  (2024.09.28 – ...)Bishop of Isiolo (Kenya)Born:1975.05.06 (Nairobi, Kenya)Ordained Priest:2004.11.20Consecrated Bishop:2024.07.27Coadjutor Bishop of Isiolo (Kenya) (2024.05.04 – 2024.09.28)Bishop of Isiolo (Kenya) (2024.09.28 – ...)Bishop Anthony Ireri Mukobo, I.M.C. (76)  (2023.02.15 – 2024.09.28)Bishop emeritus of Isiolo (Kenya)Lord increase our faithBorn:1949.09.23 (Mufu, Kenya)Ordained Priest:1980.01.05Consecrated Bishop:2000.03.18Auxiliary Bishop of Nairobi (Kenya) (1999.12.22 – 2006.01.25)Titular Bishop of Rusguniæ (1999.12.22 – 2023.02.15)Vicar Apostolic of Isiolo (Kenya) (2006.01.25 – 2023.02.15)Bishop of Isiolo (Kenya) (2023.02.15 – 2024.09.28)Vicars Apostolic of Isiolo (Roman Rite)Bishop Anthony Ireri Mukobo, I.M.C. (76)  (2006.01.25 – 2023.02.15)(see above)Archbishop John Njue (80) (later Cardinal)  (Apostolic Administrator 2005 – 2006.01.25)Bishop Luigi Locati  (1995.12.15 – 2005.07.14)Born:1928.07.23 (Vinzaglio, Italy)Ordained Priest:1952.06.29Consecrated Bishop:1996.02.04Died:2005.07.14 (Isiolo, Kenya † 76)Priest of Vercelli (Italy) (1952.06.29 – 1995.12.15)Titular Bishop of Zica (1995.12.15 – 2005.07.14)Vicar Apostolic of Isiolo (Kenya) (1995.12.15 – 2005.07.14)Former PrelatesCoadjutor Bishop: Bishop Peter Munguti Makau, I.M.C. (51) (2024.05.04 – 2024.09.28)Special ChurchesCathedral:  St. Eusebius Cathedral, Isiolo, Isiolo Churches by City (15)Show MapNyeri (↙), Nyahururu (←), Maralal (↑), Garissa (→), Meru (↓)Statistics (2022.12.31)Area: 25,336 km²Population: 69,070 Catholics (38.9% of 177,730 total)Pastoral Centres: 14 parishesPersonnel: 26 priests (21 diocesan, 5 religious), 84 religious (6 brothers, 78 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "isio0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 177730,
+    "catholiques": 69070,
+    "pourcentage_catholiques": 38.9
+  },
+  "ressources": {
+    "pretres_diocesains": 21,
+    "pretres_religieux": null,
+    "total_pretres": 26,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

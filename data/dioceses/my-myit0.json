@@ -1,0 +1,29 @@
+{
+  "id": "my-myit0",
+  "nom": "Myitkyina",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Myitkyina / Myitkyinaën(sis) (Latin)Ecclesiastical Province: MandalayNeighbouring Dioceses: Banmaw (↙), Kalay (←), Imphal (←), Kohima (←), Miao (↖), Kangding 康定 (↑), Dali 大理 (→), Lashio (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1939.01.05: Established as Apostolic Prefecture of Bhamo (from Apostolic Vicariate of Northern Burma)1955.01.01: Became suffragan of Mandalay1961.02.21: Promoted as Diocese of Myitkyina / Myitkyinaën(sis) (Latin)2006.08.28: Lost territory to establish Diocese of BanmawPresent PrelatesBishop (2024.10.29 – ...):Bishop John Mung-ngawn La Sam, M.F. (53)Monsignors (1)OrdinariesBishops of Myitkyina (Roman Rite)Bishop John Mung-ngawn La Sam, M.F. (53)  (2024.10.29 – ...)Bishop of Myitkyina (Myanmar)Born:1973.04.27 (Moe Gok, Myanmar)Ordained Priest:2016.01.16Consecrated Bishop:2025.01.12Bishop of Myitkyina (Myanmar) (2024.10.29 – ...)Cardinal Charles Maung Bo, S.D.B. (77)  (Apostolic Administrator 2020.11.18 – 2024.10.29)Bishop Francis Daw Tang (79)  (2004.12.03 – 2020.11.18)Bishop emeritus of Myitkyina (Myanmar)Peace, love, joyBorn:1946.12.19 (Maw Gun, Myanmar)Ordained Priest:1979.03.15Consecrated Bishop:2002.04.11Priest of Myitkyina (Myanmar) (1979.03.15 – 2002.01.15)Titular Bishop of Maturba (2002.01.15 – 2004.12.03)Auxiliary Bishop of Myitkyina (Myanmar) (2002.01.15 – 2004.12.03)Apostolic Administrator of Myitkyina (Myanmar) (2003.05.24 – 2004.12.03)Bishop of Myitkyina (Myanmar) (2004.12.03 – 2020.11.18)Bishop Francis Daw Tang (79)  (Apostolic Administrator 2003.05.24 – 2004.12.03)Bishop Paul Zinghtung Grawng (later Archbishop)  (1976.12.09 – 2003.05.24)Deus caritasBorn:1938.03.20 (Lunghkat, Myanmar)Ordained Priest:1965.03.27Consecrated Bishop:1976.04.03Died:2020.10.24 (Mandalay, Myanmar † 82)Priest of Myitkyina (Myanmar) (1965.03.27 – 1976.01.24)Titular Bishop of Rusguniæ (1976.01.24 – 1976.12.09)Auxiliary Bishop of Myitkyina (Myanmar) (1976.01.24 – 1976.12.09)Bishop of Myitkyina (Myanmar) (1976.12.09 – 2003.05.24)President of Myanmar Catholic Bishops’ Conference (1982 – 1992)Metropolitan Archbishop of Mandalay (Myanmar) (2003.05.24 – 2014.04.03)President of Myanmar Catholic Bishops’ Conference (2006 – 2012)Bishop John James Howe, S.S.C.M.E.  (1961.02.21 – 1976.12.09)Born:1912.01.20 (Ballinakill, Ireland)Ordained Priest:1936.12.21Consecrated Bishop:1961.07.01Died:2000.03.07 (Navan, Ireland † 88)Prefect Apostolic of Bhamo (Myanmar) (1959.07.18 – 1961.02.21)Bishop of Myitkyina (Myanmar) (1961.02.21 – 1976.12.09)Prefects Apostolic of Bhamo (Roman Rite)Fr. John James Howe, S.S.C.M.E. (later Bishop)  (1959.07.18 – 1961.02.21)(see above)Fr. Patrizio Usher, S.S.C.M.E.  (1939.01.07 – 1958)Died:1958Prefect Apostolic of Bhamo (Myanmar) (1939.01.07 – 1958)Former PrelatesAuxiliary Bishop: Bishop Francis Daw Tang (79) (2002.01.15 – 2004.12.03)Auxiliary Bishop: Bishop Philip Lasap Za Hawng (81) (1993.12.20 – 1998.04.03)Auxiliary Bishop: Bishop Paul Zinghtung Grawng (later Archbishop) (1976.01.24 – 1976.12.09)Special ChurchesCathedral:  St. Columban’s Cathedral, Myitkyina, Kachin Show MapBanmaw (↙), Kalay (←), Imphal (←), Kohima (←), Miao (↖), Kangding 康定 (↑), Dali 大理 (→), Lashio (↓)Statistics (2022.12.31)Area: 67,651 km²Population: 91,055 Catholics (7.5% of 1,206,580 total)Pastoral Centres: 27 parishes, 33 missionsPersonnel: 65 priests (54 diocesan, 11 religious), 184 religious (16 brothers, 168 sisters), 34 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "myit0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1206580,
+    "catholiques": 91055,
+    "pourcentage_catholiques": 7.5
+  },
+  "ressources": {
+    "pretres_diocesains": 54,
+    "pretres_religieux": null,
+    "total_pretres": 65,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

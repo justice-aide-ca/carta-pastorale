@@ -1,0 +1,29 @@
+{
+  "id": "be-pins0",
+  "nom": "Pinsk",
+  "pays": "be",
+  "pays_nom": "Belarus",
+  "continent": "unknown",
+  "type": "Diocese Name: Pinsk / Пінская (Беларуская) / Pinsken(sis) Latinorum (Latin)Ecclesiastical Province: Minsk–MohilevNeighbouring Dioceses: Lutsk (↙), Siedlce (←), Drohiczyn (←), Białystok (↖), Grodno (↖), Minsk–Mohilev (↑), Mother of God at Moscow (→), Kyïv–Žytomyr (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Andrzej BobolaLiturgical Calendar (Universal) 📅History1925.10.28: Established as Diocese of Pinsk / Пінская (Беларуская) / Pinsken(sis) Latinorum (Latin) (from Diocese of Minsk and became suffragan of Vilnius)1991.04.13: Gained territory from the suppressed Metropolitan Archdiocese of Mohilev, lost territory to establish Diocese of Grodno, exchanged territory with Diocese of Minsk and became suffragan of Minsk–Mohilev1991.06.05: Lost territory to establish Diocese of Drohiczyn1996.05.18: Lost territory to Diocese of LutskPresent PrelatesBishop (2012.05.03 – ...):Bishop Antoni Dziemianko (Антонi Дзям’янка) (66)Auxiliary Bishop (2024.07.19 – ...):Bishop Andrei Znoska (46)Titular Bishop of SkradinMonsignors (9)OrdinariesBishops of Pinsk (Roman Rite)Bishop Antoni Dziemianko (Антонi Дзям’янка) (66)  (2012.05.03 – ...)Bishop of Pinsk (Belarus)Ut unum sintBorn:1960.01.01 (Zabrodzie-Derevno, Belarus)Ordained Priest:1980.10.28Consecrated Bishop:1998.09.29Priest of Congregation of Marian Fathers of the Immaculate Conception of the Blessed Virgin Mary (Marian Fathers) (1980.10.28 – 1985.04.26)Priest of Minsk–Mohilev (Belarus) (1985.04.26 – 1998.07.04)Auxiliary Bishop of Grodno (Belarus) (1998.07.04 – 2004.12.14)Titular Bishop of Lesvi (1998.07.04 – 2012.05.03)Auxiliary Bishop of Minsk–Mohilev (Belarus) (2004.12.14 – 2012.05.03)General Secretary of Catholic Episcopal Conference of Belarus (2006? – 2015.06.03)Apostolic Administrator of Minsk–Mohilev (Belarus) (2006.06.14 – 2007.09.21)Bishop of Pinsk (Belarus) (2012.05.03 – ...)Archbishop Tadeusz Kondrusiewicz (80)  (Apostolic Administrator 2011.06.30 – 2012.05.03)Cardinal Kazimierz Świątek (Казімір Свёнтэк)  (Apostolic Administrator 1991.04.13 – 2011.06.30)Bishop Wladyslaw Jedruszuk  (Apostolic Administrator 1967 – 1991.06.05)Bishop Kazimierz Bukraba  (1932.07.10 – 1946.05.06)Born:1885.11.23 (Grodno, Belarus)Ordained Priest:1909.02.02Consecrated Bishop:1932.08.21Died:1946.05.06 (Łódź, Poland † 60)Priest of Vilnius (Lithuania) (1909.02.02 – 1932.07.10)Bishop of Pinsk (Belarus) (1932.07.10 – 1946.05.06)Bishop Zygmunt Łoziński  (1925.10.28 – 1932.03.26)Born:1870.07.05 (Baratin, Russia)Ordained Priest:1895.06.23Consecrated Bishop:1918.07.28Died:1932.03.26 (Pinsk, Peru † 61)Priest of Minsk (Belarus) (1895.06.23 – 1917.11.02)Bishop of Minsk (Belarus) (1917.11.02 – 1925.10.28)Bishop of Pinsk (Belarus) (1925.10.28 – 1932.03.26)Former PrelatesAuxiliary Bishop: Bishop Kazimierz Wielikosielec (Казiмiр Велікаселец), O.P. (1999.05.06 – 2024.10.10)Auxiliary Bishop: Bishop Wladyslaw Jedruszuk (1962.11.19 – 1991.06.05)Auxiliary Bishop: Bishop Karol Niemira (1933.05.26 – 1946)Special ChurchesCathedral, Minor Basilica:  Cathedral Basilica of the Assumption of the Blessed Virgin Mary, Pinsk, Brest Jubilee Churches in the Holy Year 2025Show MapLutsk (↙), Siedlce (←), Drohiczyn (←), Białystok (↖), Grodno (↖), Minsk–Mohilev (↑), Mother of God at Moscow (→), Kyïv–Žytomyr (↘)Statistics (2022.12.31)Area: 72,700 km²Population: 54,140 Catholics (2.0% of 2,716,430 total)Pastoral Centres: 88 parishesPersonnel: 53 priests (34 diocesan, 19 religious), 60 religious (24 brothers, 36 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pins0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2716430,
+    "catholiques": 54140,
+    "pourcentage_catholiques": 2.0
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 53,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 88
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

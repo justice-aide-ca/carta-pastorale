@@ -1,0 +1,29 @@
+{
+  "id": "be-vite0",
+  "nom": "Vitebsk",
+  "pays": "be",
+  "pays_nom": "Belarus",
+  "continent": "unknown",
+  "type": "Diocese Name: Vitebsk / Віцебская (Беларуская) / Vicebsk (Italiano) / Vitebscen(sis) (Latin)Ecclesiastical Province: Minsk–MohilevNeighbouring Dioceses: Minsk–Mohilev (↙), Vilnius (←), Jelgava (←), Rēzekne–Aglona (↖), Mother of God at Moscow (→)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1999.10.13: Established as Diocese of Vitebsk / Віцебская (Беларуская) / Vicebsk (Italiano) / Vitebscen(sis) (Latin) (from Metropolitan Archdiocese of Minsk–Mohilev and became suffragan of Minsk–Mohilev)Present PrelatesBishop (2013.11.29 – ...):Bishop Aleh Butkevich (54)Monsignors (5)OrdinariesBishops of Vitebsk (Roman Rite)Bishop Aleh Butkevich (54)  (2013.11.29 – ...)Bishop of Vitebsk (Belarus)Fiat voluntas tuaBorn:1972.03.18 (Braslau, Belarus)Ordained Priest:2000.05.13Consecrated Bishop:2014.01.18Priest of Vitebsk (Belarus) (2000.05.13 – 2013.11.29)Vice-President of Catholic Episcopal Conference of Belarus (2006? – 2021.04.14)Bishop of Vitebsk (Belarus) (2013.11.29 – ...)President of Catholic Episcopal Conference of Belarus (2021.04.14 – 2024.05.07)Msgr. Franciszek Kisiel  (Apostolic Administrator 2013.02.25 – 2013.11.29)Bishop Władysław Blin (Уладзіслаў БЛІН) (72)  (1999.10.13 – 2013.02.25)Bishop emeritus of Vitebsk (Belarus)Soli DeoBorn:1954.05.31 (Swidwin, Poland)Ordained Priest:1980.05.25Consecrated Bishop:1999.11.20Priest of Włocławek (Poland) (1980.05.25 – 1999.10.13)Bishop of Vitebsk (Belarus) (1999.10.13 – 2013.02.25)Special ChurchesCathedral:  Cathedral of the Merciful Jesus, Vitebsk, Vitebsk Former Cathedral:  Former Cathedral of St. Barbara and St. Paul, Vitebsk, Vitebsk Minor Basilica:  Basilica of Our Lady of the Nativity, Braslaw, Vitebsk Former Cathedral (now secular):  Former Cathedral of the Holy Wisdom, Polatsk, Vitebsk Jubilee Churches in the Holy Year 2025Show MapMinsk–Mohilev (↙), Vilnius (←), Jelgava (←), Rēzekne–Aglona (↖), Mother of God at Moscow (→)Statistics (2022.12.31)Area: 40,000 km²Population: 165,500 Catholics (11.9% of 1,396,430 total)Pastoral Centres: 95 parishesPersonnel: 69 priests (39 diocesan, 30 religious), 70 religious (32 brothers, 38 sisters), 6 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vite0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1396430,
+    "catholiques": 165500,
+    "pourcentage_catholiques": 11.9
+  },
+  "ressources": {
+    "pretres_diocesains": 39,
+    "pretres_religieux": null,
+    "total_pretres": 69,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 95
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

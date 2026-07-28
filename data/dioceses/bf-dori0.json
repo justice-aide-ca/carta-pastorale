@@ -1,0 +1,29 @@
+{
+  "id": "bf-dori0",
+  "nom": "Dori",
+  "pays": "bf",
+  "pays_nom": "Burkina Faso",
+  "continent": "unknown",
+  "type": "Diocese Name: Dori / Dorien(sis) (Latin)Ecclesiastical Province: KoupélaNeighbouring Dioceses: Kaya (↙), Ouahigouya (←), Mopti (↑), Niamey (→), Fada N’Gourma (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2004.11.20: Established as Diocese of Dori / Dorien(sis) (Latin) (from Diocese of Fada N’Gourma and Diocese of Ouahigouya and became suffragan of Koupéla)Present PrelatesBishop:vacantApostolic Administrator (2025.02.02 – ...):Bishop Théophile Nare (60)Bishop of Kaya (Burkina Faso)OrdinariesBishops of Dori (Roman Rite)Bishop Théophile Nare (60)  (Apostolic Administrator 2025.02.02 – ...)Bishop Laurent Birfuoré Dabiré (60) (later Archbishop)  (2013.01.31 – 2024.12.18)Metropolitan Archbishop of Bobo-Dioulasso (Burkina Faso)Fiat voluntas tuaBorn:1965.09.17 (Dissin, Burkina Faso)Ordained Priest:1995.12.29Consecrated Bishop:2013.05.04Priest of Diébougou (Burkina Faso) (1995.12.29 – 2013.01.31)Bishop of Dori (Burkina Faso) (2013.01.31 – 2024.12.18)President of Bishops’ Conference of Burkina Faso and Niger (2019.06.14 – 2025.06.13)Metropolitan Archbishop of Bobo-Dioulasso (Burkina Faso) (2024.12.18 – ...)Bishop Joachim Hermenegilde Ouédraogo (64)  (2004.11.20 – 2011.11.04)Bishop of Koudougou (Burkina Faso)Totus omnibus ut te cognoscant / Tout à tous afin qu’ils te connaissentBorn:1962.03.18 (Rouko, Burkina Faso)Ordained Priest:1991.07.06Consecrated Bishop:2005.03.19Priest of Ouahigouya (Burkina Faso) (1991.07.06 – 2004.11.20)Bishop of Dori (Burkina Faso) (2004.11.20 – 2011.11.04)Apostolic Administrator of Koudougou (Burkina Faso) (2011.05.21 – 2011.11.04)Bishop of Koudougou (Burkina Faso) (2011.11.04 – ...)Vice-President of Bishops’ Conference of Burkina Faso and Niger (2013.06.14 – 2019.06.14)Special ChurchesCathedral:  Cathédrale Sainte-Anne, Dori, Sahel Show MapKaya (↙), Ouahigouya (←), Mopti (↑), Niamey (→), Fada N’Gourma (↓)Statistics (2022.12.31)Area: 36,166 km²Population: 17,850 Catholics (1.4% of 1,274,700 total)Pastoral Centres: 6 parishesPersonnel: 14 priests (diocesan), 13 religious (13 sisters), 15 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "dori0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1274700,
+    "catholiques": 17850,
+    "pourcentage_catholiques": 1.4
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 6
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ce-mbai0",
+  "nom": "Mbaïki",
+  "pays": "ce",
+  "pays_nom": "Central African Republic",
+  "continent": "unknown",
+  "type": "Diocese Name: Mbaïki / Mbaikien(sis) (Latin)Ecclesiastical Province: BerbératiNeighbouring Dioceses: Berbérati (←), Bangui (↑), Molegbe (→), Impfondo (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1995.06.10: Established as Diocese of Mbaïki / Mbaikien(sis) (Latin) (from Metropolitan Archdiocese of Bangui and became suffragan of Bangui)2026.04.25: Became suffragan of BerbératiPresent PrelatesBishop (2021.03.10 – ...):Bishop Jesús Ruiz Molina, M.C.C.J. (67)OrdinariesBishops of Mbaïki (Roman Rite)Bishop Jesús Ruiz Molina, M.C.C.J. (67)  (2021.03.10 – ...)Bishop of Mbaïki (Central African Republic)Born:1959.01.23 (La Cueva de Roa, Spain)Ordained Priest:1987.07.11Consecrated Bishop:2017.11.12Titular Bishop of Aræ in Mauretania (2017.07.11 – 2021.03.10)Auxiliary Bishop of Bangassou (Central African Republic) (2017.07.11 – 2021.03.10)Bishop of Mbaïki (Central African Republic) (2021.03.10 – ...)Bishop Guerrino Perin, M.C.C.J. (82)  (1995.06.10 – 2021.03.10)Bishop emeritus of Mbaïki (Central African Republic)Dominus Jesus / Ndoye na Ta Tene a du fini na siriniBorn:1944.02.03 (Pianiga, Italy)Ordained Priest:1970.03.19Consecrated Bishop:1995.10.29Bishop of Mbaïki (Central African Republic) (1995.06.10 – 2021.03.10)Special ChurchesCathedral:  Cathédrale Sainte-Jeanne-d’Arc, M’Baïki, Lobaye Show MapBerbérati (←), Bangui (↑), Molegbe (→), Impfondo (↓)Statistics (2022.12.31)Area: 26,225 km²Population: 123,127 Catholics (39.7% of 310,365 total)Pastoral Centres: 10 parishesPersonnel: 17 priests (9 diocesan, 8 religious), 50 religious (9 brothers, 41 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mbai0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 310365,
+    "catholiques": 123127,
+    "pourcentage_catholiques": 39.7
+  },
+  "ressources": {
+    "pretres_diocesains": 9,
+    "pretres_religieux": null,
+    "total_pretres": 17,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 10
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

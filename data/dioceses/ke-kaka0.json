@@ -1,0 +1,29 @@
+{
+  "id": "ke-kaka0",
+  "nom": "Kakamega",
+  "pays": "ke",
+  "pays_nom": "Kenya",
+  "continent": "unknown",
+  "type": "Diocese Name: Kakamega / Kakamegaën(sis) (Latin)Ecclesiastical Province: KisumuNeighbouring Dioceses: Bungoma (↑), Eldoret (↗), Kapsabet (→), Kisumu (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1978.02.27: Established as Diocese of Kakamega / Kakamegaën(sis) (Latin) (from Diocese of Kisumu and became suffragan of Nairobi)1987.04.27: Lost territory to establish Diocese of Bungoma1990.05.21: Became suffragan of KisumuPresent PrelatesBishop (2014.12.05 – ...):Bishop Joseph Obanyi Sagwe (58)Apostolic Administrator of Eldoret (Kenya)Monsignors (1)OrdinariesBishops of Kakamega (Roman Rite)Bishop Joseph Obanyi Sagwe (58)  (2014.12.05 – ...)Bishop of Kakamega (Kenya)Apostolic Administrator of Eldoret (Kenya)Calicem salutaris accipiamBorn:1967 (Kebiro, Kenya)Ordained Priest:1996.10.25Consecrated Bishop:2015.03.07Priest of Kisii (Kenya) (1996.10.25 – 2014.12.05)Bishop of Kakamega (Kenya) (2014.12.05 – ...)Apostolic Administrator of Bungoma (Kenya) (2018.06.23 – 2021.12.14)Apostolic Administrator of Eldoret (Kenya) (2026.04.25 – ...)Bishop Philip Sulumeti  (1978.02.28 – 2014.12.05)Born:1937.08.15 (Kotur, Kenya)Ordained Priest:1966.01.06Consecrated Bishop:1972.08.20Died:2025.11.09 (Nairobi, Kenya † 88)Priest of Kisumu (Kenya) (1966.01.06 – 1972.05.28)Titular Bishop of Urci (1972.05.28 – 1976.12.09)Auxiliary Bishop of Kisumu (Kenya) (1972.05.28 – 1976.12.09)Bishop of Kisumu (Kenya) (1976.12.09 – 1978.02.28)Bishop of Kakamega (Kenya) (1978.02.28 – 2014.12.05)Special ChurchesCathedral:  Cathedral of St. Joseph, Kakamega, Kakamega Show MapBungoma (↑), Eldoret (↗), Kapsabet (→), Kisumu (↓)Statistics (2022.12.31)Area: 3,531 km²Population: 1,028,285 Catholics (40.3% of 2,549,790 total)Pastoral Centres: 46 parishes, 1 missionPersonnel: 101 priests (diocesan), 580 religious (96 brothers, 484 sisters), 46 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kaka0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2549790,
+    "catholiques": 1028285,
+    "pourcentage_catholiques": 40.3
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "mz-alto4",
+  "nom": "Alto Molócuè",
+  "pays": "mz",
+  "pays_nom": "Mozambique",
+  "continent": "unknown",
+  "type": "Diocese Name: Alto Molócuè (Português) / Molócuè Superioris (Latin)Ecclesiastical Province: NampulaNeighbouring Dioceses: Quelimane (↙), Gurúè (←), Nampula (↗)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2025.01.23: Established as Diocese of Alto Molócuè (Português) / Molócuè Superioris (Latin) (from Diocese of Gurúè and Diocese of Quelimane and became suffragan of Nampula)Present PrelatesBishop (2025.01.23 – ...):Bishop Estêvão Ângelo Fernando (52)Apostolic Administrator of Quelimane (Mozambique)OrdinariesBishops of Alto Molócuè (Roman Rite)Bishop Estêvão Ângelo Fernando (52)  (2025.01.23 – ...)Bishop of Alto Molócuè (Mozambique)Apostolic Administrator of Quelimane (Mozambique)Ego ero fidens in eumBorn:1974.06.17 (Inhassunge, Mozambique)Ordained Priest:2001.06.24Consecrated Bishop:2025.05.10Priest of Quelimane (Mozambique) (2001.06.24 – 2025.01.23)Bishop of Alto Molócuè (Mozambique) (2025.01.23 – ...)Apostolic Administrator of Quelimane (Mozambique) (2026.06.12 – ...)Special ChurchesCathedral:  Catedral Nossa Senhora Rainha do Mundo, Alto Molócuè, Zambézia Show MapQuelimane (↙), Gurúè (←), Nampula (↗)Statistics (2025)Area: 28,632 km²Population: 487,465 Catholics (40.6% of 1,199,649 total)Pastoral Centres: 14 parishesPersonnel: 32 priests (21 diocesan, 11 religious), 28 religious (2 brothers, 26 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "alto4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1199649,
+    "catholiques": 487465,
+    "pourcentage_catholiques": 40.6
+  },
+  "ressources": {
+    "pretres_diocesains": 21,
+    "pretres_religieux": null,
+    "total_pretres": 32,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

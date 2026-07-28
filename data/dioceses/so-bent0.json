@@ -1,0 +1,29 @@
+{
+  "id": "so-bent0",
+  "nom": "Bentiu",
+  "pays": "so",
+  "pays_nom": "South Sudan",
+  "continent": "unknown",
+  "type": "Diocese Name: Bentiu / Bentien(sis) (Latin)Ecclesiastical Province: JubaNeighbouring Dioceses: Wau (←), El Obeid (↑), Malakal (→), Rumbek (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2024.07.03: Established as Diocese of Bentiu / Bentien(sis) (Latin) (from Diocese of Malakal and became suffragan of Juba)Present PrelatesBishop (2024.07.03 – ...):Bishop Christian Carlassare, M.C.C.J. (48)Apostolic Administrator of Rumbek (South Sudan)OrdinariesBishops of Bentiu (Roman Rite)Bishop Christian Carlassare, M.C.C.J. (48)  (2024.07.03 – ...)Bishop of Bentiu (South Sudan)Apostolic Administrator of Rumbek (South Sudan)Born:1977.10.01 (Schio, Italy)Ordained Priest:2004.09.04Consecrated Bishop:2022.03.25Bishop of Rumbek (South Sudan) (2021.03.08 – 2024.07.03)Bishop of Bentiu (South Sudan) (2024.07.03 – ...)Apostolic Administrator of Rumbek (South Sudan) (2024.07.03 – ...)Special ChurchesCathedral:  Cathedral of St. Martin de Porres, Bentiu, Unity Show MapWau (←), El Obeid (↑), Malakal (→), Rumbek (↓)Statistics (2024)Area: 37,836 km²Population: 621,643 Catholics (54.9% of 1,131,886 total)Pastoral Centres: 7 parishesPersonnel: 11 priests (7 diocesan, 4 religious), 2 religious (2 brothers), 10 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bent0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1131886,
+    "catholiques": 621643,
+    "pourcentage_catholiques": 54.9
+  },
+  "ressources": {
+    "pretres_diocesains": 7,
+    "pretres_religieux": null,
+    "total_pretres": 11,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

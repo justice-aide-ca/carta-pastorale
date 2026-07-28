@@ -1,0 +1,29 @@
+{
+  "id": "ve-punt2",
+  "nom": "Punto Fijo",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: Punto Fijo / Punctifixen(sis) (Latin)Ecclesiastical Province: CoroNeighbouring Dioceses: Willemstad (↗), Coro (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsCathedral Dedication Anniversary: February 15Liturgical Calendar (National) 📅History1997.07.12: Established as Diocese of Punto Fijo / Punctifixen(sis) (Latin) (from Diocese of Coro and became suffragan of Maracaibo)1998.11.23: Became suffragan of CoroContact InfoAddress: Avenida Colombia, Esquina Sucre, Punto Fijo, Estado Falcón, VenezuelaPresent PrelatesBishop (2023.07.12 – ...):Bishop Luis Enrique Rojas Ruiz (57)Monsignors (1)OrdinariesBishops of Punto Fijo (Roman Rite)Bishop Luis Enrique Rojas Ruiz (57)  (2023.07.12 – ...)Bishop of Punto Fijo (Venezuela)Born:1968.08.31 (Mérida, Venezuela)Ordained Priest:1999.09.15Consecrated Bishop:2017.09.29Priest of Mérida (Venezuela) (1999.09.15 – 2017.06.19)Titular Bishop of Unizibira (2017.06.19 – 2023.07.12)Auxiliary Bishop of Mérida (Venezuela) (2017.06.19 – 2023.07.12)Bishop of Punto Fijo (Venezuela) (2023.07.12 – ...)Bishop Carlos Alfredo Cabezas Mendoza (60)  (2016.06.04 – 2022.12.08)Bishop of Ciudad Guayana (Venezuela)Born:1966.01.26 (Niquitao, Venezuela)Ordained Priest:1990.06.10Consecrated Bishop:2016.08.06Priest of Trujillo (Venezuela) (1990.06.10 – 2016.06.04)Bishop of Punto Fijo (Venezuela) (2016.06.04 – 2022.12.08)Bishop of Ciudad Guayana (Venezuela) (2022.12.08 – ...)Archbishop Roberto Lückert León  (Apostolic Administrator 2014.02.21 – 2016.06.04)Bishop Juan María Leonardi Villasmil  (1997.07.12 – 2014.06.07)Parare vias DominiBorn:1947.02.11 (Boconó, Venezuela)Ordained Priest:1979.08.04Consecrated Bishop:1994.04.08Died:2014.06.07 (Maracaibo, Venezuela † 67)Priest of Trujillo (Venezuela) (1979.08.04 – 1994.01.27)Titular Bishop of Lesvi (1994.01.27 – 1997.07.12)Auxiliary Bishop of Mérida (Venezuela) (1994.01.27 – 1997.07.12)Bishop of Punto Fijo (Venezuela) (1997.07.12 – 2014.06.07)Special ChurchesCathedral:  Catedral Nuestra Señora de Coromoto, Punto Fijo, Falcón Jubilee Churches in the Holy Year 2025Show MapWillemstad (↗), Coro (↓)Statistics (2022.12.31)Area: 3,405 km²Population: 323,000 Catholics (92.6% of 348,900 total)Pastoral Centres: 26 parishesPersonnel: 30 priests (23 diocesan, 7 religious), 1 deacon, 20 religious (7 brothers, 13 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "punt2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 348900,
+    "catholiques": 323000,
+    "pourcentage_catholiques": 92.6
+  },
+  "ressources": {
+    "pretres_diocesains": 23,
+    "pretres_religieux": null,
+    "total_pretres": 30,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 26
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

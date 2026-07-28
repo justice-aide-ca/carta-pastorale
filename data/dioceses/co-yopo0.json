@@ -1,0 +1,29 @@
+{
+  "id": "co-yopo0",
+  "nom": "Yopougon",
+  "pays": "co",
+  "pays_nom": "Cote d’Ivoire",
+  "continent": "unknown",
+  "type": "Diocese Name: Yopougon / Yopugonen(sis) (Latin)Ecclesiastical Province: AbidjanNeighbouring Dioceses: San Pedro (←), Gagnoa (↖), Agboville (↑), Abidjan (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1982.06.08: Established as Diocese of Yopougon / Yopugonen(sis) (Latin) (from Metropolitan Archdiocese of Abidjan and became suffragan of Abidjan)2006.10.14: Lost territory to establish Diocese of AgbovillePresent PrelatesBishop (2015.11.28 – ...):Bishop Jean Salomon Lezoutié (68)Monsignors (4)OrdinariesBishops of Yopougon (Roman Rite)Bishop Jean Salomon Lezoutié (68)  (2015.11.28 – ...)Bishop of Yopougon (Cote d’Ivoire)Born:1958.04.08 (Yopougon, Cote d’Ivoire)Ordained Priest:1989.07.23Consecrated Bishop:2005.10.08Priest of Yopougon (Cote d’Ivoire) (1989.07.23 – 2005.07.29)Bishop of Odienné (Cote d’Ivoire) (2005.07.29 – 2009.01.03)Coadjutor Bishop of Yopougon (Cote d’Ivoire) (2009.01.03 – 2015.11.28)Bishop of Yopougon (Cote d’Ivoire) (2015.11.28 – ...)Bishop Laurent Akran Mandjo  (1982.06.08 – 2015.11.28)Non ministrari sed ministrareBorn:1940.11.05 (Songon-Agba, Cote d’Ivoire)Ordained Priest:1971.07.11Consecrated Bishop:1982.09.18Died:2020.08.25 (Abidjan, Cote d’Ivoire † 79)Bishop of Yopougon (Cote d’Ivoire) (1982.06.08 – 2015.11.28)President of Catholic Bishops’ Conference of Côte d’Ivoire (2005.07 – 2008.06)Former PrelatesCoadjutor Bishop: Bishop Jean Salomon Lezoutié (68) (2009.01.03 – 2015.11.28)Special ChurchesCathedral:  Cathédrale Saint-André, Yopougon, Abidjan Future Cathedral:  Future Cathédrale Saint-André, Yopougon, Abidjan Show MapSan Pedro (←), Gagnoa (↖), Agboville (↑), Abidjan (→)Statistics (2020.12.31)Area: 13,011 km²Population: 1,163,000 Catholics (47.5% of 2,450,000 total)Pastoral Centres: 63 parishes, 2 missionsPersonnel: 192 priests (169 diocesan, 23 religious), 1 deacon, 153 religious (53 brothers, 100 sisters), 89 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "yopo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2450000,
+    "catholiques": 1163000,
+    "pourcentage_catholiques": 47.5
+  },
+  "ressources": {
+    "pretres_diocesains": 169,
+    "pretres_religieux": null,
+    "total_pretres": 192,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 63
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "cm-krib0",
+  "nom": "Kribi",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Kribi / Kriben(sis) (Latin)Ecclesiastical Province: YaoundéNeighbouring Dioceses: Edéa (↑), Ebolowa (→), Evinayong (↘), Bata (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History2008.06.19: Established as Diocese of Kribi / Kriben(sis) (Latin) (from Diocese of Ebolowa–Kribi and became suffragan of Yaoundé)Present PrelatesBishop (2015.11.07 – ...):Bishop Damase Zinga Atangana (61)OrdinariesBishops of Kribi (Roman Rite)Bishop Damase Zinga Atangana (61)  (2015.11.07 – ...)Bishop of Kribi (Cameroon)Per Christum et populoBorn:1964.12.09 (Nkog Bong, Cameroon)Ordained Priest:1992.07.25Consecrated Bishop:2015.12.08Priest of Obala (Cameroon) (1992.07.25 – 2015.11.07)Bishop of Kribi (Cameroon) (2015.11.07 – ...)Bishop Jean-Bosco Ntep (75)  (Apostolic Administrator 2014.06.06 – 2015.11.07)Bishop Joseph Befe Ateba  (2008.06.19 – 2014.06.04)Born:1964.04.25 (Nkoabe, Cameroon)Ordained Priest:1987.06.20Consecrated Bishop:2008.10.04Died:2014.06.04 († 50)Priest of Yaoundé (Cameroon) (1987.06.20 – 2008.06.19)Bishop of Kribi (Cameroon) (2008.06.19 – 2014.06.04)Special ChurchesCathedral:  Cathédrale Saint-Joseph, Kribi, South Show MapEdéa (↑), Ebolowa (→), Evinayong (↘), Bata (↓)Statistics (2020.12.31)Area: 11,208 km²Population: 128,400 Catholics (49.0% of 262,000 total)Pastoral Centres: 46 parishesPersonnel: 61 priests (46 diocesan, 15 religious), 44 religious (16 brothers, 28 sisters), 40 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "krib0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 262000,
+    "catholiques": 128400,
+    "pourcentage_catholiques": 49.0
+  },
+  "ressources": {
+    "pretres_diocesains": 46,
+    "pretres_religieux": null,
+    "total_pretres": 61,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

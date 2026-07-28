@@ -1,0 +1,29 @@
+{
+  "id": "ga-oyem0",
+  "nom": "Oyem",
+  "pays": "ga",
+  "pays_nom": "Gabon",
+  "continent": "unknown",
+  "type": "Diocese Name: Oyem / Oyemen(sis) (Latin)Ecclesiastical Province: LibrevilleNeighbouring Dioceses: Libreville (↙), Evinayong (↙), Mongomo (←), Ebebiyín (↖), Ebolowa (↖), Sangmélima (↗), Ouesso (→), Makokou (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1969.05.29: Established as Diocese of Oyem / Oyemen(sis) (Latin) (from Metropolitan Archdiocese of Libreville and became suffragan of Libreville)2003.03.07: Lost territory to establish Apostolic Prefecture of MakokouPresent PrelatesBishop (2000.02.17 – ...):Bishop Jean-Vincent Ondo Eyene (66)President of Episcopal Conference of GabonOrdinariesBishops of Oyem (Roman Rite)Bishop Jean-Vincent Ondo Eyene (66)  (2000.02.17 – ...)Bishop of Oyem (Gabon)President of Episcopal Conference of GabonBorn:1960.01.22 (Koulamoutou, Gabon)Ordained Priest:1990.07.01Consecrated Bishop:2000.05.07Priest of Franceville (Gabon) (1990.07.01 – 2000.02.17)Bishop of Oyem (Gabon) (2000.02.17 – ...)Vice-President of Episcopal Conference of Gabon (2014.07.11 – 2022.11.04)President of Episcopal Conference of Gabon (2022.11.04 – ...)Bishop Basile Mvé Engone, S.D.B. (85) (later Archbishop)  (1982.08.23 – 1998.04.03)Metropolitan Archbishop emeritus of Libreville (Gabon)Born:1941.05.30 (Nkolmelène, Gabon)Ordained Priest:1973.06.29Consecrated Bishop:1980.08.24Coadjutor Bishop of Oyem (Gabon) (1980.04.24 – 1982.08.23)Bishop of Oyem (Gabon) (1982.08.23 – 1998.04.03)President of Episcopal Conference of Gabon (1989 – 2005)Apostolic Administrator of Mouila (Gabon) (1992.04.22 – 1995.05.17)President of Association of Episcopal Conferences of the Central Africa Region (1994 – 1997)Metropolitan Archbishop of Libreville (Gabon) (1998.04.03 – 2020.03.12)Apostolic Administrator of Franceville (Gabon) (2016.04.04 – 2017.11.04)Bishop François Ndong  (1969.05.29 – 1982.08.23)Born:1906 (Nzamalige, Gabon)Ordained Priest:1938.04.17Consecrated Bishop:1961.07.02Died:1989.11.18 († 82)Priest of Libreville (Gabon) (1938.04.17 – 1960.11.15)Titular Bishop of Raphanea (1960.11.15 – 1969.05.29)Auxiliary Bishop of Libreville (Gabon) (1960.11.15 – 1969.05.29)Bishop of Oyem (Gabon) (1969.05.29 – 1982.08.23)Former PrelatesCoadjutor Bishop: Bishop Basile Mvé Engone, S.D.B. (85) (later Archbishop) (1980.04.24 – 1982.08.23)Special ChurchesCathedral:  Cathédrale Saint-Charles-Lwanga, Oyem Show MapLibreville (↙), Evinayong (↙), Mongomo (←), Ebebiyín (↖), Ebolowa (↖), Sangmélima (↗), Ouesso (→), Makokou (↘)Statistics (2022.12.31)Area: 38,465 km²Population: 176,630 Catholics (98.3% of 179,740 total)Pastoral Centres: 13 parishes, 4 missionsPersonnel: 42 priests (diocesan), 12 religious (2 brothers, 10 sisters), 17 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "oyem0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 179740,
+    "catholiques": 176630,
+    "pourcentage_catholiques": 98.3
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 13
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

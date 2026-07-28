@@ -1,0 +1,29 @@
+{
+  "id": "in-agar0",
+  "nom": "Agartala",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Agartala / Agartalan(us) (Latin)Ecclesiastical Province: ShillongNeighbouring Dioceses: Barishal (↙), Dhaka (←), Aizawl (↗), Chattogram (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint Francis XavierLiturgical Calendar (National) 📅History1996.01.11: Established as Diocese of Agartala / Agartalan(us) (Latin) (from Diocese of Silchar and became suffragan of Shillong)Present PrelatesBishop (1996.01.11 – ...):Bishop Lumen Monteiro, C.S.C. (74)OrdinariesBishops of Agartala (Roman Rite)Bishop Lumen Monteiro, C.S.C. (74)  (1996.01.11 – ...)Bishop of Agartala (India)Lead us onwardsBorn:1952.02.01 (Calangute, India)Ordained Priest:1980.10.28Consecrated Bishop:1996.05.26Bishop of Agartala (India) (1996.01.11 – ...)Special ChurchesCathedral:  Cathedral of St. Francis Xavier, Agartala, Tripura Former Cathedral:  Church of Shantir Rani, Mariamnagar, Tripura Show MapBarishal (↙), Dhaka (←), Aizawl (↗), Chattogram (↓)Statistics (2022.12.31)Area: 10,491 km²Population: 51,111 Catholics (1.2% of 4,242,000 total)Pastoral Centres: 24 parishes, 12 missionsPersonnel: 85 priests (7 diocesan, 78 religious), 317 religious (126 brothers, 191 sisters), 17 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "agar0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4242000,
+    "catholiques": 51111,
+    "pourcentage_catholiques": 1.2
+  },
+  "ressources": {
+    "pretres_diocesains": 7,
+    "pretres_religieux": null,
+    "total_pretres": 85,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

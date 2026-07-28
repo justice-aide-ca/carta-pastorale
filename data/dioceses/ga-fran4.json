@@ -1,0 +1,29 @@
+{
+  "id": "ga-fran4",
+  "nom": "Franceville",
+  "pays": "ga",
+  "pays_nom": "Gabon",
+  "continent": "unknown",
+  "type": "Diocese Name: Franceville / Francopolitan(us) in Gabone (Latin)Ecclesiastical Province: LibrevilleNeighbouring Dioceses: Dolisie (↙), Mouila (←), Makokou (↑), Owando (↗), Gamboma (→), Nkayi (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1974.10.05: Established as Diocese of Franceville / Francopolitan(us) in Gabone (Latin) (from Diocese of Mouila and became suffragan of Libreville)Present PrelatesBishop (2022.07.25 – ...):Bishop Ephrem Ndjoni (53)OrdinariesBishops of Franceville (Roman Rite)Bishop Ephrem Ndjoni (53)  (2022.07.25 – ...)Bishop of Franceville (Gabon)Fides per caritatem operaturBorn:1973.02.11 (Moanda, Gabon)Ordained Priest:2003.07.06Consecrated Bishop:2022.10.22Priest of Franceville (Gabon) (2003.07.06 – 2022.07.25)Bishop of Franceville (Gabon) (2022.07.25 – ...)Archbishop Jean-Patrick Iba-Ba (60)  (Apostolic Administrator 2020.03.12 – 2022.07.25)Bishop Jean-Patrick Iba-Ba (60) (later Archbishop)  (2017.11.04 – 2020.03.12)Metropolitan Archbishop of Libreville (Gabon)Vice-President of Episcopal Conference of GabonServiteur pour l’Amour de JésusBorn:1966.04.18 (Libreville, Gabon)Ordained Priest:1998.07.19Consecrated Bishop:2018.01.13Priest of Libreville (Gabon) (1998.07.19 – 2017.11.04)Bishop of Franceville (Gabon) (2017.11.04 – 2020.03.12)Apostolic Administrator of Franceville (Gabon) (2020.03.12 – 2022.07.25)Metropolitan Archbishop of Libreville (Gabon) (2020.03.12 – ...)Vice-President of Episcopal Conference of Gabon (2022.11.04 – ...)Archbishop Basile Mvé Engone, S.D.B. (85)  (Apostolic Administrator 2016.04.04 – 2017.11.04)Bishop Timothée Modibo-Nzockena  (1996.11.08 – 2016.03.24)Born:1950.01.01 (Mbomo, Gabon)Ordained Priest:1980.06.22Consecrated Bishop:1997.01.11Died:2016.03.24 († 66)Priest of Franceville (Gabon) (1980.06.22 – 1996.11.08)Bishop of Franceville (Gabon) (1996.11.08 – 2016.03.24)President of Episcopal Conference of Gabon (2005.07 – 2014.07.11)President of Association of Episcopal Conferences of the Central Africa Region (2008.07 – 2014.07)Bishop Félicien-Patrice Makouaka  (1974.10.05 – 1996.11.08)Born:1922 (Ngomo-Boulongo, Gabon)Ordained Priest:1954.10.10Consecrated Bishop:1975.01.12Died:2000.02.07 († 77)Bishop of Franceville (Gabon) (1974.10.05 – 1996.11.08)President of Episcopal Conference of Gabon (1981 – 1989)Special ChurchesCathedral:  Cathédrale Saint-Hilaire, Franceville Show MapDolisie (↙), Mouila (←), Makokou (↑), Owando (↗), Gamboma (→), Nkayi (↓)Statistics (2022.12.31)Area: 61,927 km²Population: 109,140 Catholics (29.0% of 376,500 total)Pastoral Centres: 17 parishes, 105 missionsPersonnel: 50 priests (17 diocesan, 33 religious), 61 religious (33 brothers, 28 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "fran4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 376500,
+    "catholiques": 109140,
+    "pourcentage_catholiques": 29.0
+  },
+  "ressources": {
+    "pretres_diocesains": 17,
+    "pretres_religieux": null,
+    "total_pretres": 50,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

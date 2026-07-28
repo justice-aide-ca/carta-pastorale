@@ -1,0 +1,29 @@
+{
+  "id": "cm-doum0",
+  "nom": "Doumé–Abong’ Mbang",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Doumé–Abong’ Mbang / Dumen(sis)–Abongen(sis)–Mbangen(sis) (Latin)Ecclesiastical Province: BertouaNeighbouring Dioceses: Sangmélima (↙), Mbalmayo (↙), Obala (←), Bertoua (↑), Batouri (→), Yokadouma (↘), Ouesso (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1949.03.03: Established as Apostolic Vicariate of Doumé / Dumen(sis) (Latin) (from Apostolic Vicariate of Yaoundé)1955.09.14: Promoted as Diocese of Doumé / Dumen(sis) (Latin) (became suffragan of Yaoundé)1983.03.17: Renamed as Diocese of Doumé–Abong’ Mbang / Dumen(sis)–Abongen(sis)–Mbangen(sis) (Latin) (lost territory to establish Diocese of Bertoua)1994.11.11: Became suffragan of BertouaPresent PrelatesBishop (1997.04.20 – ...):Bishop Jan Ozga (70)OrdinariesBishops of Doumé–Abong’ Mbang (Roman Rite)Bishop Jan Ozga (70)  (1997.04.20 – ...)Bishop of Doumé–Abong’ Mbang (Cameroon)Ut in humilitateBorn:1956.04.17 (Wola Ranizowska, Poland)Ordained Priest:1981.06.07Consecrated Bishop:1997.04.20Priest of Przemyśl (Poland) (1981.06.07 – 1997.04.20)Bishop of Doumé–Abong’ Mbang (Cameroon) (1997.04.20 – ...)Bishop Roger Pirenne, C.I.C.M. (later Archbishop)  (Apostolic Administrator 1995.02.24 – 1997.04.20)Bishop Pierre Augustin Tchouanga, S.C.I.  (1983.03.17 – 1995.02.24)Born:1928.04.28 (Bafang, Cameroon)Ordained Priest:1959.06.29Consecrated Bishop:1983.06.01Died:1999.10.23 († 71)Bishop of Doumé–Abong’ Mbang (Cameroon) (1983.03.17 – 1995.02.24)Bishops of Doumé (Roman Rite)Bishop Lambertus Johannes van Heygen, C.S.Sp. (later Archbishop)  (1962.04.16 – 1983.03.17)Sumus invicem membraBorn:1920.12.09 (’s-Gravenhage, Netherlands)Ordained Priest:1947.07.20Consecrated Bishop:1962.06.29Died:2007.05.30 († 86)Bishop of Doumé (Cameroon) (1962.04.16 – 1983.03.17)Bishop of Bertoua (Cameroon) (1983.03.17 – 1994.11.11)Metropolitan Archbishop of Bertoua (Cameroon) (1994.11.11 – 1999.06.03)Bishop Jacques Teerenstra, C.S.Sp.  (1955.09.14 – 1961.01.28)Born:1911.11.02 (Bolsward, Netherlands)Ordained Priest:1937.07.18Consecrated Bishop:1949.06.29Died:1961.01.28 († 49)Auxiliary Bishop of Doumé (Cameroon) (1949.03.16 – 1951)Titular Bishop of Bure (1949.03.16 – 1955.09.14)Vicar Apostolic of Doumé (Cameroon) (1951 – 1955.09.14)Bishop of Doumé (Cameroon) (1955.09.14 – 1961.01.28)Vicars Apostolic of Doumé (Roman Rite)Bishop Jacques Teerenstra, C.S.Sp.  (1951 – 1955.09.14)(see above)Bishop René Graffin, C.S.Sp. (later Archbishop)  (1949.03.03 – 1951)Born:1899.05.06 (Pontvallain, France)Ordained Priest:1925.10.28Consecrated Bishop:1932.03.19Died:1967.04.16 (Chevilly-Larue, France † 67)Coadjutor Vicar Apostolic of Yaoundé (Cameroon) (1931.12.14 – 1943.03.04)Titular Bishop of Mosynopolis (1931.12.14 – 1955.09.14)Vicar Apostolic of Yaoundé (Cameroon) (1943.03.04 – 1955.09.14)Vicar Apostolic of Doumé (Cameroon) (1949.03.03 – 1951)Metropolitan Archbishop of Yaoundé (Cameroon) (1955.09.14 – 1961.09.06)Titular Archbishop of Misthia (1961.09.06 – 1967.04.16)Former PrelatesAuxiliary Bishop: Bishop Jacques Teerenstra, C.S.Sp. (1949.03.16 – 1951)Special ChurchesCathedral:  Cathédrale Saint-Pierre et Saint-Paul, Doumé, East Co-Cathedral:  Co-cathédrale Sacré-Cœur, Abong Mbang, East Show MapSangmélima (↙), Mbalmayo (↙), Obala (←), Bertoua (↑), Batouri (→), Yokadouma (↘), Ouesso (↓)Statistics (2021.12.31)Area: 36,378 km²Population: 145,500 Catholics (49.7% of 293,000 total)Pastoral Centres: 25 parishesPersonnel: 66 priests (55 diocesan, 11 religious), 7 deacons, 61 religious (14 brothers, 47 sisters), 22 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "doum0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 293000,
+    "catholiques": 145500,
+    "pourcentage_catholiques": 49.7
+  },
+  "ressources": {
+    "pretres_diocesains": 55,
+    "pretres_religieux": null,
+    "total_pretres": 66,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 25
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

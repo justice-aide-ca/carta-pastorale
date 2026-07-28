@@ -1,0 +1,29 @@
+{
+  "id": "br-itap2",
+  "nom": "Itapipoca",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Itapipoca / Itapipocan(us) (Latin)Ecclesiastical Province: FortalezaNeighbouring Dioceses: Sobral (←), Fortaleza (→), Baturité (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1971.03.13: Established as Diocese of Itapipoca / Itapipocan(us) (Latin) (from Metropolitan Archdiocese of Fortaleza and Diocese of Sobral and became suffragan of Fortaleza)Present PrelatesBishop (2020.10.07 – ...):Bishop Rosalvo Cordeiro de Lima (64)OrdinariesBishops of Itapipoca (Roman Rite)Bishop Rosalvo Cordeiro de Lima (64)  (2020.10.07 – ...)Bishop of Itapipoca (Brazil)In verbo autem tuo laxabo retiaBorn:1962.01.25 (União dos Palmares, AL, Brazil)Ordained Priest:1992.11.01Consecrated Bishop:2011.03.25Priest of Mogi das Cruzes (Brazil) (1992.11.01 – 2011.02.02)Titular Bishop of Castellum Tatroportus (2011.02.02 – 2020.10.07)Auxiliary Bishop of Fortaleza (Brazil) (2011.02.02 – 2020.10.07)Bishop of Itapipoca (Brazil) (2020.10.07 – ...)Bishop Antônio Roberto Cavuto, O.F.M. Cap. (82)  (2005.05.25 – 2020.10.07)Bishop emeritus of Itapipoca (Brazil)Queremos ver JesusBorn:1944.05.19 (Espírito Santo do Pinhal, SP, Brazil)Ordained Priest:1971.01.24Consecrated Bishop:2005.07.02Bishop of Itapipoca (Brazil) (2005.05.25 – 2020.10.07)Bishop Benedito Francisco de Albuquerque (97)  (1985.01.04 – 2005.05.25)Bishop emeritus of Itapipoca (Brazil)Evangelizare PauperibusBorn:1928.07.24 (Coreau, CE, Brazil)Ordained Priest:1953.12.08Consecrated Bishop:1985.05.05Bishop of Itapipoca (Brazil) (1985.01.04 – 2005.05.25)Bishop Paulo Eduardo Andrade Ponte (later Archbishop)  (1971.06.25 – 1984.03.20)Christus heri et hodieBorn:1931.06.24 (Fortaleza, CE, Brazil)Ordained Priest:1954.04.03Consecrated Bishop:1971.11.21Died:2009.03.15 (São Luís, MA, Brazil † 77)Bishop of Itapipoca (Brazil) (1971.06.25 – 1984.03.20)Metropolitan Archbishop of São Luís do Maranhão (Brazil) (1984.03.20 – 2005.09.21)Vice-President of National Conference of Bishops of Brazil (1987 – 1991)Special ChurchesCathedral:  Catedral Nossa Senhora das Mercês, Itapipoca, Ceará Churches by City (26)Show MapSobral (←), Fortaleza (→), Baturité (↘)Statistics (2022.12.31)Area: 11,266 km²Population: 502,000 Catholics (85.1% of 590,000 total)Pastoral Centres: 36 parishes, 5 missionsPersonnel: 59 priests (56 diocesan, 3 religious), 10 deacons, 82 religious (16 brothers, 66 sisters), 27 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "itap2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 590000,
+    "catholiques": 502000,
+    "pourcentage_catholiques": 85.1
+  },
+  "ressources": {
+    "pretres_diocesains": 56,
+    "pretres_religieux": null,
+    "total_pretres": 59,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 36
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

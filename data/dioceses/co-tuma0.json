@@ -1,0 +1,29 @@
+{
+  "id": "co-tuma0",
+  "nom": "Tumaco",
+  "pays": "co",
+  "pays_nom": "Colombia",
+  "continent": "amerique",
+  "type": "Diocese Name: Tumaco / Tumacoën(sis) (Latin)Ecclesiastical Province: PopayánNeighbouring Dioceses: Esmeraldas (↙), Guapi (↗), Pasto (→), Ipiales (↘), Tulcán (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1927.05.01: Established as Apostolic Prefecture of Tumaco / Tumacoën(sis) (Latin) (from Diocese of Cali and Diocese of Pasto)1952.11.14: Lost territory to establish Apostolic Vicariate of Buenaventura1954.04.05: Lost territory to establish Apostolic Prefecture of Guapi1961.02.07: Promoted as Apostolic Vicariate of Tumaco / Tumacoën(sis) (Latin)1964.09.23: Lost territory to establish Diocese of Ipiales1999.10.29: Promoted as Diocese of Tumaco / Tumacoën(sis) (Latin) (became suffragan of Popayán)Papal VisitsPope John Paul II (1986.07)Present PrelatesBishop (2025.10.23 – ...):Bishop Franklin Misael Betancourt (58)OrdinariesBishops of Tumaco (Roman Rite)Bishop Franklin Misael Betancourt (58)  (2025.10.23 – ...)Bishop of Tumaco (Colombia)Born:1967.10.30 (Guaitarilla, Colombia)Ordained Priest:1996.11.10Consecrated Bishop:2025.11.27Priest of Ipiales (Colombia) (1996.11.10 – 2025.10.23)Bishop of Tumaco (Colombia) (2025.10.23 – ...)Bishop Orlando Olave Villanoba (57)  (2017.03.18 – 2024.07.11)Bishop of Ocaña (Colombia)In ministerium reconciliationisBorn:1969.01.28 (Barrancabermeja, Colombia)Ordained Priest:1998.12.05Consecrated Bishop:2017.05.06Priest of Barrancabermeja (Colombia) (1998.12.05 – 2017.03.18)Bishop of Tumaco (Colombia) (2017.03.18 – 2024.07.11)Bishop of Ocaña (Colombia) (2024.07.11 – ...)Bishop Gustavo Girón Higuita, O.C.D. (86)  (1999.10.29 – 2015.07.25)Bishop emeritus of Tumaco (Colombia)Born:1940.05.28 (Medellín, Colombia)Ordained Priest:1967.12.02Consecrated Bishop:1990.04.22Titular Bishop of Bisica (1990.02.08 – 1999.10.29)Vicar Apostolic of Tumaco (Colombia) (1990.02.08 – 1999.10.29)Bishop of Tumaco (Colombia) (1999.10.29 – 2015.07.25)Vicars Apostolic of Tumaco (Roman Rite)Bishop Gustavo Girón Higuita, O.C.D. (86)  (1990.02.08 – 1999.10.29)(see above)Bishop Miguel Ángel Lecumberri Erburu, O.C.D.  (1966.05.03 – 1990.02.08)Born:1924.05.21 (Arazuri, Spain)Ordained Priest:1948.06.29Consecrated Bishop:1966.07.31Died:2007.03.14 († 82)Vicar Apostolic of Tumaco (Colombia) (1966.05.03 – 1990.02.08)Titular Bishop of Lambiridi (1966.05.03 – 2007.03.14)Bishop Luis Francisco Irizar Salazar, O.C.D.  (1961.02.07 – 1965.11.05)Born:1909.03.15 (Ormáiztegui, Spain)Ordained Priest:1933.02.12Consecrated Bishop:1961.04.09Died:1965.11.05 (Tumaco, Colombia † 56)Prefect Apostolic of Tumaco (Colombia) (1954.04.23 – 1961.02.07)Titular Bishop of Philæ (1961.02.07 – 1965.11.05)Vicar Apostolic of Tumaco (Colombia) (1961.02.07 – 1965.11.05)Prefects Apostolic of Tumaco (Roman Rite)Fr. Luis Francisco Irizar Salazar, O.C.D. (later Bishop)  (1954.04.23 – 1961.02.07)(see above)Fr. Peitro Nel Ramirez, O.A.R.  (1949.07.14 – 1954.04.05)Born:1914.10.10 (Manizales, Colombia)Died:2000.07.24 († 85)Prefect Apostolic of Tumaco (Colombia) (1949.07.14 – 1954.04.05)Priest of Prato (Italy) (1955.04.22 – 2000.07.24)Fr. Bernardo Merizalde Morales, O.A.R.  (1928.03.30 – 1949)Born:1891.05.18 (Bogotá, Colombia)Ordained Priest:1914.10.04Died:1971.04.24 (Pamplona, Spain † 79)Prefect Apostolic of Tumaco (Colombia) (1928.03.30 – 1949)Special ChurchesCathedral:  Catedral San Andrés, Tumaco, Nariño Jubilee Churches in the Holy Year 2025Show MapEsmeraldas (↙), Guapi (↗), Pasto (→), Ipiales (↘), Tulcán (↘)Statistics (2021.12.31)Area: 16,000 km²Population: 216,000 Catholics (45.8% of 472,000 total)Pastoral Centres: 19 parishes, 1 missionPersonnel: 31 priests (20 diocesan, 11 religious), 26 religious (11 brothers, 15 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "tuma0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 472000,
+    "catholiques": 216000,
+    "pourcentage_catholiques": 45.8
+  },
+  "ressources": {
+    "pretres_diocesains": 20,
+    "pretres_religieux": null,
+    "total_pretres": 31,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

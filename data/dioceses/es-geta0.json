@@ -1,0 +1,29 @@
+{
+  "id": "es-geta0",
+  "nom": "Getafe",
+  "pays": "es",
+  "pays_nom": "Spain",
+  "continent": "unknown",
+  "type": "Diocese Name: Getafe / Xetafen(sis) (Latin)Ecclesiastical Province: MadridNeighbouring Dioceses: Ávila (←), Madrid (↑), Alcalá de Henares (↗), Toledo (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsCathedral Dedication Anniversary: July 23Liturgical Calendar 📅History1991.07.23: Established as Diocese of Getafe / Xetafen(sis) (Latin) (from Archdiocese of Madrid and became suffragan of Madrid)Present PrelatesBishop (2018.01.03 – ...):Bishop Ginés Ramón García Beltrán (64)Auxiliary Bishop (2022.09.30 – ...):Bishop José María Avendaño Perea (69)Titular Bishop of IlliberiMonsignors (3)OrdinariesBishops of Getafe (Roman Rite)Bishop Ginés Ramón García Beltrán (64)  (2018.01.03 – ...)Bishop of Getafe (Spain)Mihi vivere Christus estBorn:1961.10.03 (Lora, Spain)Ordained Priest:1985.09.20Consecrated Bishop:2010.02.27Priest of Almería (Spain) (1985.09.20 – 2009.12.03)Bishop of Guadix (Spain) (2009.12.03 – 2018.01.03)Bishop of Getafe (Spain) (2018.01.03 – ...)Bishop Joaquin María López de Andújar y Cánovas del Castillo (83)  (2004.10.29 – 2018.01.03)Bishop emeritus of Getafe (Spain)Veritatem facientes in caritateBorn:1942.09.13 (Madrid, Spain)Ordained Priest:1968.11.30Consecrated Bishop:2001.05.06Priest of Madrid (Spain) (1968.11.30 – 2001.03.19)Titular Bishop of Arcavica (2001.03.19 – 2004.10.29)Auxiliary Bishop of Getafe (Spain) (2001.03.19 – 2004.10.29)Bishop of Getafe (Spain) (2004.10.29 – 2018.01.03)Bishop Francisco José Pérez y Fernández-Golfin  (1991.07.23 – 2004.02.24)Libentissime impendam et superimpendar ipse pro animabus vestrisBorn:1931.02.12 (Madrid, Spain)Ordained Priest:1956.05.26Consecrated Bishop:1985.05.11Died:2004.02.24 († 73)Priest of Madrid (Spain) (1956.05.26 – 1985.03.20)Titular Bishop of Tigillava (1985.03.20 – 1991.07.23)Auxiliary Bishop of Madrid (Spain) (1985.03.20 – 1991.07.23)Bishop of Getafe (Spain) (1991.07.23 – 2004.02.24)Former PrelatesAuxiliary Bishop: Bishop José Rico Pavés (59) (2012.07.06 – 2021.06.09)Auxiliary Bishop: Bishop Rafael Zornoza Boy (76) (2005.12.13 – 2011.08.30)Auxiliary Bishop: Bishop Joaquin María López de Andújar y Cánovas del Castillo (83) (2001.03.19 – 2004.10.29)Special ChurchesCathedral:  Catedral de Santa María Magdalena, Getafe, Comunidad de Madrid Minor Basilica:  Basílica del Sagrado Corazón de Jesús, Cerro de los Ángeles, Comunidad de Madrid Jubilee Churches in the Holy Year 2025Show MapÁvila (←), Madrid (↑), Alcalá de Henares (↗), Toledo (↓)Statistics (2022.12.31)Area: 2,707 km²Population: 1,238,904 Catholics (75.0% of 1,651,872 total)Pastoral Centres: 126 parishesPersonnel: 303 priests (239 diocesan, 64 religious), 11 deacons, 547 religious (111 brothers, 436 sisters), 33 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "geta0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1651872,
+    "catholiques": 1238904,
+    "pourcentage_catholiques": 75.0
+  },
+  "ressources": {
+    "pretres_diocesains": 239,
+    "pretres_religieux": null,
+    "total_pretres": 303,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 126
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

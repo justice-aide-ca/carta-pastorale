@@ -1,0 +1,29 @@
+{
+  "id": "mx-lapa1",
+  "nom": "La Paz",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: La Paz / La Paz en la Baja California Sur / Pacien(sis) in California Inferiori Meridionali (Latin)Ecclesiastical Province: TijuanaNeighbouring Dioceses: Ensenada (↑)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1957.04.13: Established as Apostolic Prefecture of La Paz / La Paz en la Baja California Sur / Pacien(sis) in California Inferiori Meridionali (Latin) (from Apostolic Vicariate of California Inferiore and became suffragan of Durango)1963.07.13: Became suffragan of Hermosillo1976.03.01: Promoted as Apostolic Vicariate of La Paz / La Paz en la Baja California Sur / Pacien(sis) in California Inferiori Meridionali (Latin)1988.03.21: Promoted as Diocese of La Paz / La Paz en la Baja California Sur / Pacien(sis) in California Inferiori Meridionali (Latin)2006.11.25: Became suffragan of TijuanaContact InfoAddress: Revolución y 5 de mayo, Centro, 23000 - La Paz, B.C.S., MexicoPhone: (612) 1-22-25-96Present PrelatesBishop (2026.01.31 – ...):Bishop Miguel Ángel Espinoza Garza (60)OrdinariesBishops of La Paz (Roman Rite)Bishop Miguel Ángel Espinoza Garza (60)  (2026.01.31 – ...)Bishop of La Paz (Mexico)Caminando juntosBorn:1966.04.26 (San Nicolás de los Garza, Mexico)Ordained Priest:1991.08.15Consecrated Bishop:2023.01.24Priest of Monterrey (Mexico) (1991.08.15 – 2022.11.03)Coadjutor Bishop of La Paz (Mexico) (2022.11.03 – 2026.01.31)Bishop of La Paz (Mexico) (2026.01.31 – ...)Bishop Miguel Ángel Alba Díaz  (2001.06.16 – 2026.01.31)Omnibus omnia factus sumBorn:1951.01.23 (Monterrey, Mexico)Ordained Priest:1975.05.31Consecrated Bishop:1995.07.25Died:2026.02.02 (La Paz, Mexico † 75)Priest of Monterrey (Mexico) (1975.05.31 – 1995.06.10)Titular Bishop of Fesseë (1995.06.10 – 2001.06.16)Auxiliary Bishop of Antequera (Mexico) (1995.06.10 – 2001.06.16)Bishop of La Paz (Mexico) (2001.06.16 – 2026.01.31)Bishop Braulio Rafael León Villegas  (1990.02.21 – 1999.12.11)Born:1945.03.26 (León, Mexico)Ordained Priest:1970.05.17Consecrated Bishop:1990.03.29Died:2024.12.30 (Ciudad Guzmán, Mexico † 79)Priest of León (Mexico) (1970.05.17 – 1990.02.21)Prelate of Honour of His Holiness (1987.07.16 – 1990.02.21)Bishop of La Paz (Mexico) (1990.02.21 – 1999.12.11)Bishop of Ciudad Guzmán (Mexico) (1999.12.11 – 2017.09.25)Bishop Gilberto Valbuena Sánchez  (1988.03.21 – 1989.07.08)Born:1929.02.04 (Chietla, Mexico)Ordained Priest:1955.05.21Consecrated Bishop:1973.02.08Died:2021.12.22 (Colima, Mexico † 92)Auxiliary Bishop of Tacámbaro (Mexico) (1972.12.09 – 1976.03.01)Titular Bishop of Vazari-Didda (1972.12.09 – 1988.03.21)Vicar Apostolic of La Paz (Mexico) (1976.03.01 – 1988.03.21)Bishop of La Paz (Mexico) (1988.03.21 – 1989.07.08)Bishop of Colima (Mexico) (1989.07.08 – 2005.06.09)Vicars Apostolic of La Paz (Roman Rite)Bishop Gilberto Valbuena Sánchez  (1976.03.01 – 1988.03.21)(see above)Prefects Apostolic of La Paz (Roman Rite)Fr. Júan Giordani, F.S.C.J.  (1958.04.15 – 1976)Born:1906.03.25 (Lanzada Sondrio, Italy)Ordained Priest:1931.03.22Died:2001.01.08 (La Paz, Mexico † 94)Prefect Apostolic of La Paz (Mexico) (1958.04.15 – 1976)Former PrelatesCoadjutor Bishop: Bishop Miguel Ángel Espinoza Garza (60) (2022.11.03 – 2026.01.31)Special ChurchesCathedral:  Catedral de Nuestra Señora de la Paz, La Paz, Baja California Sur Show MapEnsenada (↑)Statistics (2022.12.31)Area: 73,909 km²Population: 659,000 Catholics (81.3% of 811,000 total)Pastoral Centres: 64 parishes, 2 missionsPersonnel: 111 priests (96 diocesan, 15 religious), 1 deacon, 69 religious (17 brothers, 52 sisters), 30 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lapa1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 811000,
+    "catholiques": 659000,
+    "pourcentage_catholiques": 81.3
+  },
+  "ressources": {
+    "pretres_diocesains": 96,
+    "pretres_religieux": null,
+    "total_pretres": 111,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 64
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

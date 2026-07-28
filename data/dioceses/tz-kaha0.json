@@ -1,0 +1,29 @@
+{
+  "id": "tz-kaha0",
+  "nom": "Kahama",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Kahama / Kahamaën(sis) (Latin)Ecclesiastical Province: TaboraNeighbouring Dioceses: Kigoma (↙), Rulenge–Ngara (↖), Geita (↑), Shinyanga (→), Tabora (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1983.11.11: Established as Diocese of Kahama / Kahamaën(sis) (Latin) (from Metropolitan Archdiocese of Tabora and became suffragan of Tabora)Present PrelatesBishop (2022.06.23 – ...):Bishop Christopher Ndizeye Nkoronko (56)OrdinariesBishops of Kahama (Roman Rite)Bishop Christopher Ndizeye Nkoronko (56)  (2022.06.23 – ...)Bishop of Kahama (Tanzania)Born:1970.03.25 (Kalinzi, Tanzania)Ordained Priest:2001.07.05Consecrated Bishop:2022.09.04Priest of Kigoma (Tanzania) (2001.07.05 – 2022.06.23)Bishop of Kahama (Tanzania) (2022.06.23 – ...)Bishop Ludovick Joseph Minde, ALCP/OSS (73)  (Apostolic Administrator 2019.12.02 – 2022.06.23)Bishop Ludovick Joseph Minde, ALCP/OSS (73)  (2001.04.24 – 2019.12.02)Bishop of Moshi (Tanzania)Veni Sancte SpiritusBorn:1952.12.09 (Kibosho, Tanzania)Ordained Priest:1986.06.26Consecrated Bishop:2001.08.05Bishop of Kahama (Tanzania) (2001.04.24 – 2019.12.02)Apostolic Administrator of Kahama (Tanzania) (2019.12.02 – 2022.06.23)Bishop of Moshi (Tanzania) (2019.12.02 – ...)Bishop Matthew Shija  (1983.11.11 – 2001.04.24)Born:1924.04.17 (Puge, Tanzania)Ordained Priest:1954.01.17Consecrated Bishop:1984.02.26Died:2015.12.09 († 91)Bishop of Kahama (Tanzania) (1983.11.11 – 2001.04.24)Special ChurchesCathedral:  Cathedral of St. Charles Lwanga, Kahama, Shinyanga Show MapKigoma (↙), Rulenge–Ngara (↖), Geita (↑), Shinyanga (→), Tabora (↓)Statistics (2022.12.31)Area: 19,946 km²Population: 723,000 Catholics (20.1% of 3,600,000 total)Pastoral Centres: 31 parishesPersonnel: 39 priests (24 diocesan, 15 religious), 88 religious (18 brothers, 70 sisters), 46 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kaha0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3600000,
+    "catholiques": 723000,
+    "pourcentage_catholiques": 20.1
+  },
+  "ressources": {
+    "pretres_diocesains": 24,
+    "pretres_religieux": null,
+    "total_pretres": 39,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

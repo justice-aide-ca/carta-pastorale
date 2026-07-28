@@ -1,0 +1,29 @@
+{
+  "id": "br-crat0",
+  "nom": "Crateús",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Crateús / Crateopolitan(us) (Latin)Ecclesiastical Province: FortalezaNeighbouring Dioceses: Teresina (↙), Campo Maior (←), Parnaíba (↖), Tianguá (↑), Sobral (↑), Quixadá (→), Iguatu (↘), Picos (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsLiturgical Calendar (National) 📅History1963.09.28: Established as Diocese of Crateús / Crateopolitan(us) (Latin) (from Diocese of Iguatu and Diocese of Sobral and became suffragan of Fortaleza)Present PrelatesBishop (2013.11.06 – ...):Bishop Ailton Menegussi (63)OrdinariesBishops of Crateús (Roman Rite)Bishop Ailton Menegussi (63)  (2013.11.06 – ...)Bishop of Crateús (Brazil)Basta-te a minha graçaBorn:1962.11.05 (Nova Venécia, ES, Brazil)Ordained Priest:1998.11.22Consecrated Bishop:2013.12.21Priest of São Mateus (Brazil) (1998.11.22 – 2013.11.06)Bishop of Crateús (Brazil) (2013.11.06 – ...)Bishop Jacinto Furtado de Brito Sobrinho (79) (later Archbishop)  (1998.02.18 – 2012.02.22)Metropolitan Archbishop emeritus of Teresina (Brazil)In verbo tuoBorn:1947.06.16 (Bacabal, MA, Brazil)Ordained Priest:1972.01.15Consecrated Bishop:1998.05.24Priest of Bacabal (Brazil) (1972.01.15 – 1998.02.18)Bishop of Crateús (Brazil) (1998.02.18 – 2012.02.22)Metropolitan Archbishop of Teresina (Brazil) (2012.02.22 – 2023.01.04)Bishop Antônio Batista Fragoso  (1964.04.28 – 1998.02.18)Opportet illas adducereBorn:1920.12.10 (Teixeira, BA, Brazil)Ordained Priest:1944.07.02Consecrated Bishop:1957.05.30Died:2006.08.12 (João Pessoa, PB, Brazil † 85)Titular Bishop of Ucres (1957.03.13 – 1964.04.28)Auxiliary Bishop of São Luís do Maranhão (Brazil) (1957.03.13 – 1964.04.28)Bishop of Crateús (Brazil) (1964.04.28 – 1998.02.18)Special ChurchesCathedral:  Catedral Senhor do Bonfim, Crateús, Ceará Churches by City (14)Show MapTeresina (↙), Campo Maior (←), Parnaíba (↖), Tianguá (↑), Sobral (↑), Quixadá (→), Iguatu (↘), Picos (↓)Statistics (2022.12.31)Area: 21,817 km²Population: 392,000 Catholics (91.4% of 429,000 total)Pastoral Centres: 17 parishes, 1 missionPersonnel: 27 priests (25 diocesan, 2 religious), 4 deacons, 28 religious (2 brothers, 26 sisters), 17 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "crat0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 429000,
+    "catholiques": 392000,
+    "pourcentage_catholiques": 91.4
+  },
+  "ressources": {
+    "pretres_diocesains": 25,
+    "pretres_religieux": null,
+    "total_pretres": 27,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

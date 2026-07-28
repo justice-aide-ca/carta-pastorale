@@ -1,0 +1,29 @@
+{
+  "id": "tz-kond0",
+  "nom": "Kondoa",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Kondoa / Kondoaën(sis) (Latin)Ecclesiastical Province: DodomaNeighbouring Dioceses: Singida (←), Mbulu (↑), Arusha (↗), Dodoma (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2011.03.12: Established as Diocese of Kondoa / Kondoaën(sis) (Latin) (from Diocese of Dodoma and became suffragan of Dar-es-Salaam)2014.11.06: Became suffragan of DodomaPresent PrelatesBishop:vacantApostolic Administrator (2026.04.22 – ...):Bishop Wilbroad Henry Kibozi (53)Titular Bishop of ZallataAuxiliary Bishop of Dodoma (Tanzania)OrdinariesBishops of Kondoa (Roman Rite)Bishop Wilbroad Henry Kibozi (53)  (Apostolic Administrator 2026.04.22 – ...)Bishop Bernardine Francis Mfumbusa  (2011.03.12 – 2026.04.14)Lux et salBorn:1962.04.01 (Arusha, Tanzania)Ordained Priest:1992.06.14Consecrated Bishop:2011.05.15Died:2026.04.14 (Dodoma, Tanzania † 64)Priest of Dodoma (Tanzania) (1992.06.14 – 2011.03.12)Bishop of Kondoa (Tanzania) (2011.03.12 – 2026.04.14)Apostolic Administrator of Dodoma (Tanzania) (2014.05.04 – 2014.11.06)Special ChurchesCathedral:  Cathedral of the Holy Spirit, Kondoa, Dodoma Former Cathedral:  Former Cathedral of the Holy Spirit, Kondoa, Dodoma Show MapSingida (←), Mbulu (↑), Arusha (↗), Dodoma (↓)Statistics (2022.12.31)Area: 13,210 km²Population: 63,102 Catholics (9.5% of 666,835 total)Pastoral Centres: 15 parishesPersonnel: 21 priests (15 diocesan, 6 religious), 57 religious (12 brothers, 45 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kond0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 666835,
+    "catholiques": 63102,
+    "pourcentage_catholiques": 9.5
+  },
+  "ressources": {
+    "pretres_diocesains": 15,
+    "pretres_religieux": null,
+    "total_pretres": 21,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

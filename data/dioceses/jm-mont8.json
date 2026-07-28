@@ -1,0 +1,29 @@
+{
+  "id": "jm-mont8",
+  "nom": "Montego Bay",
+  "pays": "jm",
+  "pays_nom": "Jamaica",
+  "continent": "unknown",
+  "type": "Diocese Name: Montego Bay / Sinus Sereni (Latin)Ecclesiastical Province: Kingston in JamaicaNeighbouring Dioceses: Cayman Islands (←), Kingston in Jamaica (→), Mandeville (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1967.09.14: Established as Diocese of Montego Bay / Sinus Sereni (Latin) (from Diocese of Kingston and became suffragan of Kingston in Jamaica)1991.04.15: Lost territory to establish Apostolic Vicariate of MandevillePresent PrelatesBishop:vacantApostolic Administrator (2023.10.16 – ...):Bishop John Derek Persaud (69)Bishop of Mandeville (Jamaica)Vice-President of Antilles Episcopal ConferenceMonsignors (3)OrdinariesBishops of Montego Bay (Roman Rite)Bishop John Derek Persaud (69)  (Apostolic Administrator 2023.10.16 – ...)Bishop Burchell Alexander McPherson  (2013.04.11 – 2023.10.16)Service before selfBorn:1951.05.07 (Mavis Bank-St. Andrew, Jamaica)Ordained Priest:1991.06.23Consecrated Bishop:2013.06.08Died:2026.03.25 (Kingston, Jamaica † 74)Priest of Kingston in Jamaica (Jamaica) (1991.06.23 – 2013.04.11)Bishop of Montego Bay (Jamaica) (2013.04.11 – 2023.10.16)Bishop Charles Henry Dufour (86) (later Archbishop)  (1995.12.06 – 2011.04.15)Metropolitan Archbishop emeritus of Kingston in Jamaica (Jamaica)Sent to serveBorn:1940.04.25 (Kingston, Jamaica)Ordained Priest:1970.08.12Consecrated Bishop:1996.02.10Priest of Kingston in Jamaica (Jamaica) (1970.08.12 – 1995.12.06)Prelate of Honour of His Holiness (1991.04.18 – 1995.12.06)Bishop of Montego Bay (Jamaica) (1995.12.06 – 2011.04.15)Apostolic Administrator of Mandeville (Jamaica) (2006.08.08 – 2008.05.20)Metropolitan Archbishop of Kingston in Jamaica (Jamaica) (2011.04.15 – 2016.04.29)Apostolic Administrator of Mandeville (Jamaica) (2016.04.29 – 2020.06.19)Bishop Edgerton Roland Clarke (later Archbishop)  (1967.09.14 – 1994.11.11)Born:1929.02.14 (Cambridge, Jamaica)Ordained Priest:1960.02.02Consecrated Bishop:1967.11.30Died:2025.02.13 (Kingston, Jamaica † 95)Priest of Kingston (Jamaica) (1960.02.02 – 1967.09.14)Bishop of Montego Bay (Jamaica) (1967.09.14 – 1994.11.11)Metropolitan Archbishop of Kingston in Jamaica (Jamaica) (1994.11.11 – 2004.01.23)President of Antilles Episcopal Conference (1997 – 2003)Special ChurchesCathedral:  Cathedral of the Most Blessed Sacrament, Montego Bay, Saint James Show MapCayman Islands (←), Kingston in Jamaica (→), Mandeville (↓)Statistics (2022.12.31)Area: 3,878 km²Population: 10,485 Catholics (1.6% of 658,100 total)Pastoral Centres: 15 parishes, 20 missionsPersonnel: 11 priests (9 diocesan, 2 religious), 7 deacons, 25 religious (4 brothers, 21 sisters), 1 seminarianPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mont8",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 658100,
+    "catholiques": 10485,
+    "pourcentage_catholiques": 1.6
+  },
+  "ressources": {
+    "pretres_diocesains": 9,
+    "pretres_religieux": null,
+    "total_pretres": 11,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

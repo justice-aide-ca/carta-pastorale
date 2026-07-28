@@ -1,0 +1,29 @@
+{
+  "id": "in-timi1",
+  "nom": "Timika",
+  "pays": "in",
+  "pays_nom": "Indonesia",
+  "continent": "oceanie",
+  "type": "Diocese Name: Timika / Timikaën(sis) (Latin)Ecclesiastical Province: MeraukeNeighbouring Dioceses: Amboina (↙), Manokwari–Sorong (↖), Jayapura (↗), Agats (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History2003.12.19: Established as Diocese of Timika / Timikaën(sis) (Latin) (from Diocese of Jayapura and became suffragan of Merauke)Present PrelatesBishop (2025.03.08 – ...):Bishop Bernardus Bofitwos Baru, O.S.A. (56)OrdinariesBishops of Timika (Roman Rite)Bishop Bernardus Bofitwos Baru, O.S.A. (56)  (2025.03.08 – ...)Bishop of Timika (Indonesia)Ego sum ostiumBorn:1969.08.22 (Suswa, Papua Barat, Indonesia)Ordained Priest:2006.07.30Consecrated Bishop:2025.05.14Bishop of Timika (Indonesia) (2025.03.08 – ...)Bishop John Philip Saklil  (2003.12.19 – 2019.08.03)Parate viam DominiBorn:1960.03.20 (Kokonao, Papua, Indonesia)Ordained Priest:1988.10.23Consecrated Bishop:2004.04.18Died:2019.08.03 (Timika, Papua, Indonesia † 59)Priest of Jayapura (Indonesia) (1988.10.23 – 2003.12.19)Bishop of Timika (Indonesia) (2003.12.19 – 2019.08.03)Apostolic Administrator sede plena of Merauke (Indonesia) (2019.07.27 – 2019.08.03)Special ChurchesCathedral:  Katedral Tiga Raja, Timika, Papua, Papua Churches by City (45)Show MapAmboina (↙), Manokwari–Sorong (↖), Jayapura (↗), Agats (→)Statistics (2018.12.31)Area: 81,811 km²Population: 123,000 Catholics (10.9% of 1,130,000 total)Pastoral Centres: 38 parishesPersonnel: 60 priests (36 diocesan, 24 religious), 1 deacon, 81 religious (29 brothers, 52 sisters), 26 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "timi1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1130000,
+    "catholiques": 123000,
+    "pourcentage_catholiques": 10.9
+  },
+  "ressources": {
+    "pretres_diocesains": 36,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 38
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "ht-jere0",
+  "nom": "Jérémie",
+  "pays": "ht",
+  "pays_nom": "Haiti",
+  "continent": "unknown",
+  "type": "Diocese Name: Jérémie / Ieremiopolitan(us) (Latin)Ecclesiastical Province: Port-au-PrinceNeighbouring Dioceses: Guantánamo–Baracoa (↖), Anse-à-Veau et Miragoâne (→), Les Cayes (↘)Depends on: Dicastery for BishopsCelebrationsCathedral Dedication Anniversary: May 23Liturgical Calendar 📅History1972.04.20: Established as Diocese of Jérémie / Ieremiopolitan(us) (Latin) (from Diocese of Les Cayes and became suffragan of Port-au-Prince)Present PrelatesBishop (2009.08.06 – ...):Bishop Joseph Gontran Décoste, S.J. (69)General Secretary of Episcopal Conference of HaitiMonsignors (3)OrdinariesBishops of Jérémie (Roman Rite)Bishop Joseph Gontran Décoste, S.J. (69)  (2009.08.06 – ...)Bishop of Jérémie (Haiti)General Secretary of Episcopal Conference of HaitiBorn:1957.04.24 (Saint Jean du Sud, Haiti)Ordained Priest:1984.07.01Consecrated Bishop:2009.10.18Bishop of Jérémie (Haiti) (2009.08.06 – ...)General Secretary of Episcopal Conference of Haiti (2011.12 – 2021.04.14)General Secretary of Episcopal Conference of Haiti (2023.11.28 – ...)Bishop Joseph Willy Romélus  (1977.04.26 – 2009.08.06)Born:1931.01.17 (Arniquet, Haiti)Ordained Priest:1958.07.13Consecrated Bishop:1977.06.26Died:2025.08.12 (Arniquet, Haiti † 94)Priest of Les Cayes (Haiti) (1958.07.13 – 1977.04.26)Bishop of Jérémie (Haiti) (1977.04.26 – 2009.08.06)Bishop Charles-Édouard Peters, S.M.M.  (1972.04.20 – 1975.07.04)Born:1911.06.02 (Port-au-Prince, Haiti)Ordained Priest:1936.03.07Consecrated Bishop:1966.10.28Died:1975.07.04 (Port-au-Prince, Haiti † 64)Titular Bishop of Castellum medianum (1966.10.17 – 1972.04.20)Auxiliary Bishop of Les Cayes (Haiti) (1966.10.17 – 1972.04.20)Bishop of Jérémie (Haiti) (1972.04.20 – 1975.07.04)Special ChurchesCathedral:  Cathédrale Saint-Louis Roi de France, Jérémie, Grande-Anse Future Cathedral:  Future Cathédrale Notre-Dame de la Médaille Miraculeuse, Jeremie, Grande-Anse Show MapGuantánamo–Baracoa (↖), Anse-à-Veau et Miragoâne (→), Les Cayes (↘)Statistics (2019.12.31)Area: 2,146 km²Population: 460,000 Catholics (68.1% of 675,000 total)Pastoral Centres: 47 parishesPersonnel: 91 priests (86 diocesan, 5 religious), 75 religious (15 brothers, 60 sisters), 43 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jere0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 675000,
+    "catholiques": 460000,
+    "pourcentage_catholiques": 68.1
+  },
+  "ressources": {
+    "pretres_diocesains": 86,
+    "pretres_religieux": null,
+    "total_pretres": 91,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 47
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

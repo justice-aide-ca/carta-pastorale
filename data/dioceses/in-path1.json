@@ -1,0 +1,29 @@
+{
+  "id": "in-path1",
+  "nom": "Pathanamthitta",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Pathanamthitta / Pathanamthitten(sis) (Latin)Ecclesiastical Province: TrivandrumNeighbouring Dioceses: Mavelikkara (←), Tiruvalla (↖), Trivandrum (↓)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint ThomasHistory2010.01.25: Established as Diocese of Pathanamthitta / Pathanamthitten(sis) (Latin) (from Metropolitan Archdiocese of Trivandrum and became suffragan of Trivandrum)Contact InfoAddress: Catholic Bishop’s House, Pathanamthitta, 689645, Kerala, IndiaPresent PrelatesBishop (2019.06.07 – ...):Bishop Samuel Irenios Kattukallil (74)Monsignors (1)OrdinariesBishops of Pathanamthitta (Syro-Malankara Rite)Bishop Samuel Irenios Kattukallil (74)  (2019.06.07 – ...)Bishop of Pathanamthitta of the Syro-Malankara (India)Born:1952.05.13 (Kadammanitta, India)Ordained Priest:1978.12.22Consecrated Bishop:2010.03.13Priest of Trivandrum of the Syro-Malankara (India) (1978.12.22 – 2010.01.25)Titular Bishop of Tamalluma (2010.01.25 – 2018.04.10)Auxiliary Bishop of Trivandrum of the Syro-Malankara (India) (2010.01.25 – 2018.04.10)Coadjutor Bishop of Pathanamthitta of the Syro-Malankara (India) (2018.04.10 – 2019.06.07)Bishop of Pathanamthitta of the Syro-Malankara (India) (2019.06.07 – ...)Bishop Yoohanon Chrysostom Kalloor (82)  (2010.01.25 – 2019.06.07)Bishop emeritus of Pathanamthitta of the Syro-Malankara (India)To love God and neighbourBorn:1944.05.19 (Kadammanitta, India)Ordained Priest:1973.05.05Consecrated Bishop:1998.06.29Bishop of Marthandam of the Syro-Malankara (India) (1998.04.16 – 2010.01.25)Bishop of Pathanamthitta of the Syro-Malankara (India) (2010.01.25 – 2019.06.07)Former PrelatesCoadjutor Bishop: Bishop Samuel Irenios Kattukallil (74) (2018.04.10 – 2019.06.07)Special ChurchesCathedral:  St. Peter’s Cathedral, Pathanamthitta, Kerala Show MapMavelikkara (←), Tiruvalla (↖), Trivandrum (↓)Statistics (2021.12.31)Area: 2,642 km²Population: 41,200 Catholics (3.6% of 1,147,000 total)Pastoral Centres: 100 parishesPersonnel: 79 priests (73 diocesan, 6 religious), 123 religious (6 brothers, 117 sisters), 32 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "path1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1147000,
+    "catholiques": 41200,
+    "pourcentage_catholiques": 3.6
+  },
+  "ressources": {
+    "pretres_diocesains": 73,
+    "pretres_religieux": null,
+    "total_pretres": 79,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 100
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

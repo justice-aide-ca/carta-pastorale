@@ -1,0 +1,29 @@
+{
+  "id": "ch-koum0",
+  "nom": "Koumra",
+  "pays": "ch",
+  "pays_nom": "Chad",
+  "continent": "unknown",
+  "type": "Diocese Name: Koumra / Coumranen(sis) (Latin)Ecclesiastical Province: N’DjaménaNeighbouring Dioceses: Goré (↙), Doba (←), Laï (↖), Sarh (→), Bossangoa (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2023.08.12: Established as Diocese of Koumra / Coumranen(sis) (Latin) (from Diocese of Sarh and became suffragan of N’Djaména)Present PrelatesBishop (2023.08.12 – ...):Bishop Samuel Mbairabé Tibingar (53)OrdinariesBishops of Koumra (Roman Rite)Bishop Samuel Mbairabé Tibingar (53)  (2023.08.12 – ...)Bishop of Koumra (Chad)Born:1972.07.27 (Sarh, Chad)Ordained Priest:2005.11.26Consecrated Bishop:2023.11.11Priest of N’Djaména (Chad) (2005.11.26 – 2023.08.12)Bishop of Koumra (Chad) (2023.08.12 – ...)Special ChurchesCathedral:  Cathédrale Sainte-Thérèse, Koumra, Mandoul Show MapGoré (↙), Doba (←), Laï (↖), Sarh (→), Bossangoa (↓)Statistics (2023.12.31)Area: 17,330 km²Population: 124,083 Catholics (13.8% of 900,000 total)Pastoral Centres: 11 parishesPersonnel: 28 priests (16 diocesan, 12 religious), 26 religious (15 brothers, 11 sisters), 23 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "koum0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 900000,
+    "catholiques": 124083,
+    "pourcentage_catholiques": 13.8
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 28,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

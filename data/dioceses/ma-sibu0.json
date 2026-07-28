@@ -1,0 +1,29 @@
+{
+  "id": "ma-sibu0",
+  "nom": "Sibu",
+  "pays": "ma",
+  "pays_nom": "Malaysia",
+  "continent": "unknown",
+  "type": "Diocese Name: Sibu / 詩巫 (正體中文) / Sibuen(sis) (Latin)Ecclesiastical Province: KuchingNeighbouring Dioceses: Kuching (←), Miri (↗), Tanjung Selor (→), Samarinda (↘), Sintang (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsCathedral Dedication Anniversary: July 30Liturgical Calendar (National) 📅History1986.12.22: Established as Diocese of Sibu / 詩巫 (正體中文) / Sibuen(sis) (Latin) (from Metropolitan Archdiocese of Kuching and became suffragan of Kuching)Present PrelatesBishop (2011.12.24 – ...):Bishop Joseph Hii Teck Kwong (許德光) (61)OrdinariesBishops of Sibu (Roman Rite)Bishop Joseph Hii Teck Kwong (許德光) (61)  (2011.12.24 – ...)Bishop of Sibu (Malaysia)Ecclesia Christi sponsaBorn:1965.06.25 (Sibu, Malaysia)Ordained Priest:1993.03.25Consecrated Bishop:2008.05.01Priest of Sibu (Malaysia) (1993.03.25 – 2008.01.25)Titular Bishop of Castellum medianum (2008.01.25 – 2011.12.24)Auxiliary Bishop of Sibu (Malaysia) (2008.01.25 – 2011.12.24)Bishop of Sibu (Malaysia) (2011.12.24 – ...)Bishop Dominic Su Haw Chiu (蘇孝洲)  (1986.12.22 – 2011.12.24)Laudetur DominusBorn:1939.05.29 (Sibu, Malaysia)Ordained Priest:1969.12.04Consecrated Bishop:1987.01.06Died:2026.05.15 (Sibu, Malaysia † 86)Priest of Kuching (Malaysia) (1969.12.04 – 1986.12.22)Bishop of Sibu (Malaysia) (1986.12.22 – 2011.12.24)Former PrelatesAuxiliary Bishop: Bishop Joseph Hii Teck Kwong (許德光) (61) (2008.01.25 – 2011.12.24)Special ChurchesCathedral:  Sacred Heart Cathedral, Sibu, Sarawak Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (15)Show MapKuching (←), Miri (↗), Tanjung Selor (→), Samarinda (↘), Sintang (↓)Statistics (2017.12.31)Area: 41,484 km²Population: 130,700 Catholics (14.6% of 895,000 total)Pastoral Centres: 12 parishes, 161 missionsPersonnel: 21 priests (11 diocesan, 10 religious), 46 religious (32 brothers, 14 sisters), 3 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sibu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 895000,
+    "catholiques": 130700,
+    "pourcentage_catholiques": 14.6
+  },
+  "ressources": {
+    "pretres_diocesains": 11,
+    "pretres_religieux": null,
+    "total_pretres": 21,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

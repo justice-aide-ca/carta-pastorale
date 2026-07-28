@@ -1,0 +1,29 @@
+{
+  "id": "ch-sarh0",
+  "nom": "Sarh",
+  "pays": "ch",
+  "pays_nom": "Chad",
+  "continent": "unknown",
+  "type": "Diocese Name: Sarh / Sarhen(sis) (Latin)Ecclesiastical Province: N’DjaménaNeighbouring Dioceses: Koumra (←), Laï (↖), Mongo (↑), Kaga-Bandoro (↘), Bossangoa (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1961.12.22: Established as Diocese of Fort-Archambault / Arcis Archambault (Latin) (from Diocese of Fort-Lamy and became suffragan of Fort-Lamy)1972.08.22: Renamed as Diocese of Sarh / Sarhen(sis) (Latin)2001.12.01: Lost territory to establish Apostolic Prefecture of Mongo2023.08.12: Lost territory to establish Diocese of KoumraPapal VisitsPope John Paul II (1990.01)Present PrelatesBishop (2026.07.16 – ...):Bishop-elect Jean Miguina, O.F.M. Cap. (47)OrdinariesBishops of Sarh (Roman Rite)Bishop-elect Jean Miguina, O.F.M. Cap. (47)  (2026.07.16 – ...)Bishop of Sarh (Chad)Born:1978.09.12 (Laï, Chad)Ordained Priest:2009.11.21Bishop of Sarh (Chad) (2026.07.16 – ...)Bishop Miguel Ángel Sebastián Martínez, M.C.C.J. (75)  (2018.10.10 – 2026.07.16)Bishop emeritus of Sarh (Chad)Dominus tecumBorn:1950.09.28 (Zaragoza, Spain)Ordained Priest:1975.06.07Consecrated Bishop:1999.02.14Bishop of Laï (Chad) (1998.11.28 – 2018.10.10)Apostolic Administrator of Doba (Chad) (2014.01.30 – 2016.12.10)Bishop of Sarh (Chad) (2018.10.10 – 2026.07.16)Bishop Goetbé Edmond Djitangar (73) (later Archbishop)  (1991.10.11 – 2016.08.20)Metropolitan Archbishop of N’Djaména (Chad)President of Episcopal Conference of ChadPresident of Association of Episcopal Conferences of the Central Africa RegionRegnat DeusBorn:1952.11.02 (Bekoro, Chad)Ordained Priest:1978.12.30Consecrated Bishop:1992.02.02Priest of Sarh (Chad) (1978.12.30 – 1991.10.11)Bishop of Sarh (Chad) (1991.10.11 – 2016.08.20)President of Episcopal Conference of Chad (2016.05 – ...)Metropolitan Archbishop of N’Djaména (Chad) (2016.08.20 – ...)President of Association of Episcopal Conferences of the Central Africa Region (2022.07.24 – ...)Bishop Matthias N’Gartéri Mayadi (later Archbishop)  (1987.03.07 – 1990.06.11)Born:1942 (Bedaya, Chad)Ordained Priest:1978.12.30Consecrated Bishop:1986.04.12Died:2013.11.19 (Colombier-Saugnieu, France † 70)Priest of Sarh (Chad) (1978.12.30 – 1985.10.28)Titular Bishop of Thuburnica (1985.10.28 – 1987.03.07)Auxiliary Bishop of Sarh (Chad) (1985.10.28 – 1987.03.07)Bishop of Sarh (Chad) (1987.03.07 – 1990.06.11)Bishop of Moundou (Chad) (1990.06.11 – 2003.07.31)Metropolitan Archbishop of N’Djaména (Chad) (2003.07.31 – 2013.11.19)Bishop Henri Véniat, S.J.  (1972.08.22 – 1987.03.07)Born:1917.09.23 (Paris, France)Ordained Priest:1949.07.31Consecrated Bishop:1962.04.01Died:1998.03.03 († 80)Bishop of Fort-Archambault (Chad) (1961.12.22 – 1972.08.22)Bishop of Sarh (Chad) (1972.08.22 – 1987.03.07)President of Episcopal Conference of Chad (1981 – 1983)Bishops of Fort-Archambault (Roman Rite)Bishop Henri Véniat, S.J.  (1961.12.22 – 1972.08.22)(see above)Former PrelatesAuxiliary Bishop: Bishop Matthias N’Gartéri Mayadi (later Archbishop) (1985.10.28 – 1987.03.07)Special ChurchesCathedral:  Cathédrale Notre-Dame de l’Immaculée Conception, Sarh, Moyen-Chari Show MapKoumra (←), Laï (↖), Mongo (↑), Kaga-Bandoro (↘), Bossangoa (↓)Statistics (2023)Area: 41,755 km²Population: 85,917 Catholics (10.7% of 800,000 total)Pastoral Centres: 12 parishesPersonnel: 13 priests (diocesan), 66 religious (33 brothers, 33 sisters), 14 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.16© 2026 GCatholic.org",
+  "code_gcatholic": "sarh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 800000,
+    "catholiques": 85917,
+    "pourcentage_catholiques": 10.7
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

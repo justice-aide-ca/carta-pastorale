@@ -1,0 +1,29 @@
+{
+  "id": "hr-vara1",
+  "nom": "Varaždin",
+  "pays": "hr",
+  "pays_nom": "Croatia",
+  "continent": "unknown",
+  "type": "Diocese Name: Varaždin (Hrvatski) / Varasdino (Italiano) / 瓦拉日丁 (正體中文) / Varasdinen(sis) (Latin)Ecclesiastical Province: ZagrebNeighbouring Dioceses: Zagreb (↙), Celje (←), Maribor (↖), Murska Sobota (↑), Szombathely (↑), Kaposvár (→), Bjelovar–Križevci (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Saint Marek Križin (September 7)Cathedral Dedication Anniversary: May 28Liturgical Calendar 📅History1997.07.05: Established as Diocese of Varaždin (Hrvatski) / Varasdino (Italiano) / 瓦拉日丁 (正體中文) / Varasdinen(sis) (Latin) (from Metropolitan Archdiocese of Zagreb and became suffragan of Zagreb)Present PrelatesBishop (2019.08.01 – ...):Bishop Bože Radoš (61)Monsignors (11)OrdinariesBishops of Varaždin (Roman Rite)Bishop Bože Radoš (61)  (2019.08.01 – ...)Bishop of Varaždin (Croatia)Služiti radosno GospodinuBorn:1964.09.05 (Crvenice, Croatia)Ordained Priest:1990.06.29Consecrated Bishop:2019.11.24Priest of Đakovo–Osijek (Croatia) (1990.06.29 – 2019.08.01)Bishop of Varaždin (Croatia) (2019.08.01 – ...)Bishop Josip Mrzljak (82)  (2007.03.20 – 2019.08.01)Bishop emeritus of Varaždin (Croatia)Bonum facere / Činiti DobroBorn:1944.01.19 (Vukovar, Croatia)Ordained Priest:1969.11.16Consecrated Bishop:1999.02.06Priest of Zagreb (Croatia) (1969.11.16 – 1998.12.29)Titular Bishop of Caltadria (1998.12.29 – 2007.03.20)Auxiliary Bishop of Zagreb (Croatia) (1998.12.29 – 2007.03.20)Bishop of Varaždin (Croatia) (2007.03.20 – 2019.08.01)Bishop Marko Culej  (1997.07.05 – 2006.08.19)Vita et paxBorn:1938.01.19 (Repno, Croatia)Ordained Priest:1964.04.24Consecrated Bishop:1992.02.22Died:2006.08.19 († 68)Priest of Zagreb (Croatia) (1964.04.24 – 1992.01.07)Titular Bishop of Limata (1992.01.07 – 1997.07.05)Auxiliary Bishop of Zagreb (Croatia) (1992.01.07 – 1997.07.05)Bishop of Varaždin (Croatia) (1997.07.05 – 2006.08.19)Special ChurchesCathedral:  Katedrala Uznesenja Blažene Djevice Marije na nebo, Varaždin, Varaždin Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (110)Show MapZagreb (↙), Celje (←), Maribor (↖), Murska Sobota (↑), Szombathely (↑), Kaposvár (→), Bjelovar–Križevci (↘)Statistics (2022.12.31)Area: 3,100 km²Population: 318,668 Catholics (92.4% of 344,837 total)Pastoral Centres: 106 parishesPersonnel: 173 priests (144 diocesan, 29 religious), 1 deacon, 120 religious (32 brothers, 88 sisters), 10 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vara1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 344837,
+    "catholiques": 318668,
+    "pourcentage_catholiques": 92.4
+  },
+  "ressources": {
+    "pretres_diocesains": 144,
+    "pretres_religieux": null,
+    "total_pretres": 173,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 106
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

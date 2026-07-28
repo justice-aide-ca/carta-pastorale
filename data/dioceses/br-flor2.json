@@ -1,0 +1,29 @@
+{
+  "id": "br-flor2",
+  "nom": "Floresta",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Floresta / Floresten(sis) (Latin)Ecclesiastical Province: Olinda e RecifeNeighbouring Dioceses: Salgueiro (↖), Afogados da Ingazeira (↗), Pesqueira (→), Palmeira dos Índios (↘), Paulo Afonso (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Senhor Bom Jesus dos Aflitos (January 1)Liturgical Calendar (National) 📅History1910.12.05: Established as Diocese of Floresta / Floresten(sis) (Latin) (from Diocese of Olinda and became suffragan of Olinda)1918.08.02: Suppressed (to establish Diocese of Pesqueira)1964.02.15: Restored as Diocese of Floresta / Floresten(sis) (Latin) (from Diocese of Pesqueira and Diocese of Petrolina and became suffragan of Olinda e Recife)2010.06.16: Lost territory to establish Diocese of SalgueiroPresent PrelatesBishop (2013.02.21 – ...):Bishop Gabriele Marchesi (72)OrdinariesBishops of Floresta (Roman Rite)Bishop Gabriele Marchesi (72)  (2013.02.21 – ...)Bishop of Floresta (Brazil)Ut unum sintBorn:1953.09.16 (Incisa Valdarno, Italy)Ordained Priest:1978.07.06Consecrated Bishop:2013.05.18Priest of Fiesole (Italy) (1978.07.06 – 2013.02.21)Bishop of Floresta (Brazil) (2013.02.21 – ...)Bishop Adriano Ciocca Vasino (77)  (1999.03.03 – 2012.03.21)Bishop-Prelate emeritus of São Félix (Brazil)Vim para servirBorn:1949.07.08 (Borgosesia, Italy)Ordained Priest:1974.09.08Consecrated Bishop:1999.05.02Priest of Novara (Italy) (1974.09.08 – 1999.03.03)Bishop of Floresta (Brazil) (1999.03.03 – 2012.03.21)Bishop-Prelate of São Félix (Brazil) (2012.03.21 – 2024.03.13)Bishop Czesław Stanula, C.SS.R.  (1989.06.17 – 1997.08.27)Vox Clamantis in DesertoBorn:1940.03.27 (Szerzyny, Poland)Ordained Priest:1964.07.19Consecrated Bishop:1989.11.05Died:2020.05.14 (Salvador, BA, Brazil † 80)Bishop of Floresta (Brazil) (1989.06.17 – 1997.08.27)Bishop of Itabuna (Brazil) (1997.08.27 – 2017.02.01)Bishop Francisco Xavier Nierhoff, M.S.F.  (1964.08.04 – 1988.12.12)Born:1913.03.25 (Fröndenberg, Germany)Ordained Priest:1940.06.23Consecrated Bishop:1964.11.29Died:1994.03.05 († 80)Bishop of Floresta (Brazil) (1964.08.04 – 1988.12.12)Bishop José Antônio de Oliveira Lopes  (1915.06.26 – 1918.08.02)In cruce salusBorn:1868.04.11 (Recife, PE, Brazil)Ordained Priest:1892.04.16Consecrated Bishop:1915.11.21Died:1932.11.24 († 64)Bishop of Floresta (Brazil) (1915.06.26 – 1918.08.02)Bishop of Pesqueira (Brazil) (1918.08.02 – 1932.11.24)Bishop Augusto Álvaro da Silva (later Cardinal)  (1911.05.12 – 1915.06.25)Per crucem ad lucemBorn:1876.04.08 (Recife, PE, Brazil)Ordained Priest:1899.03.05Consecrated Bishop:1911.10.22Created Cardinal:1953.01.12Died:1968.08.14 (São Salvador da Bahia, BA, Brazil † 92)Priest of Olinda (Brazil) (1899.03.05 – 1911.05.12)Bishop of Floresta (Brazil) (1911.05.12 – 1915.06.25)Bishop of Barra (Brazil) (1915.06.25 – 1924.12.17)Metropolitan Archbishop of São Salvador da Bahia (Brazil) (1924.12.17 – 1968.08.14)Cardinal-Priest of S. Angelo in Pescheria pro hac vice Title (1953.01.15 – 1968.08.14)Special ChurchesCathedral:  Catedral Senhor Bom Jesus dos Aflitos, Floresta, Pernambuco Churches by City (16)Show MapSalgueiro (↖), Afogados da Ingazeira (↗), Pesqueira (→), Palmeira dos Índios (↘), Paulo Afonso (↓)Statistics (2022.12.31)Area: 15,792 km²Population: 171,727 Catholics (72.1% of 238,037 total)Pastoral Centres: 12 parishesPersonnel: 17 priests (14 diocesan, 3 religious), 27 religious (6 brothers, 21 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "flor2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 238037,
+    "catholiques": 171727,
+    "pourcentage_catholiques": 72.1
+  },
+  "ressources": {
+    "pretres_diocesains": 14,
+    "pretres_religieux": null,
+    "total_pretres": 17,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 12
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

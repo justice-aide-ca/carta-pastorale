@@ -1,0 +1,29 @@
+{
+  "id": "mg-moro3",
+  "nom": "Morondava",
+  "pays": "mg",
+  "pays_nom": "Madagascar",
+  "continent": "unknown",
+  "type": "Diocese Name: Morondava / Morondaven(sis) (Latin)Ecclesiastical Province: ToliaraNeighbouring Dioceses: Maintirano (↑), Tsiroanomandidy (↗), Antsirabé (→), Ambositra (→), Morombe (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1938.01.08: Established as Apostolic Prefecture of Morondava / Morondaven(sis) (Latin) (from Apostolic Vicariate of Antsirabé, Apostolic Vicariate of Fianarantsoa, Apostolic Vicariate of Majunga and Apostolic Vicariate of Tananarive)1939.03.15: Gained territory from Mission sui juris of Miarinarivo1955.09.14: Promoted as Diocese of Morondava / Morondaven(sis) (Latin) (became suffragan of Tananarive)1958.12.11: Became suffragan of Fianarantsoa1960.04.25: Lost territory to establish Diocese of Morombe2003.12.03: Became suffragan of Toliara2017.02.08: Lost territory to establish Diocese of MaintiranoPresent PrelatesBishop (2010.02.26 – ...):Bishop Marie Fabien Samuelin Raharilamboniaina, O.C.D. (58)President of Episcopal Conference of MadagascarAuxiliary Bishop (2026.06.03 – ...):Bishop-elect Jeannot Martial Andrianandrainy (50)Titular Bishop of Elephantaria in MauretaniaOrdinariesBishops of Morondava (Roman Rite)Bishop Marie Fabien Samuelin Raharilamboniaina, O.C.D. (58)  (2010.02.26 – ...)Bishop of Morondava (Madagascar)President of Episcopal Conference of MadagascarBorn:1968.01.20 (Ambohijanahary, Madagascar)Ordained Priest:1997.07.05Consecrated Bishop:2010.05.16Bishop of Morondava (Madagascar) (2010.02.26 – ...)Vice-President of Episcopal Conference of Madagascar (2012 – 2021.11.11)President of Episcopal Conference of Madagascar (2021.11.11 – ...)Apostolic Administrator of Miarinarivo (Madagascar) (2023.06.12 – 2024.03.09)Bishop Donald Joseph Leo Pelletier, M.S.  (1999.10.15 – 2010.02.26)Born:1931.06.17 (Attleboro, MA, USA)Ordained Priest:1956.10.28Consecrated Bishop:2000.02.13Died:2022.06.04 (Enfield, NH, USA † 90)Bishop of Morondava (Madagascar) (1999.10.15 – 2010.02.26)Bishop Bernard Charles Ratsimamotoana, M.S.  (1964.09.29 – 1998.08.08)Born:1925.08.26 (Béthania, Madagascar)Ordained Priest:1955.09.25Consecrated Bishop:1964.12.03Died:2005.10.18 († 80)Bishop of Morondava (Madagascar) (1964.09.29 – 1998.08.08)Bishop Paul Joseph Girouard, M.S.  (1955.09.14 – 1964.02.18)Born:1898.12.27 (Hamilton, RI, USA)Ordained Priest:1927.07.26Consecrated Bishop:1956.03.07Died:1964.02.18 (Morondava, Madagascar † 65)Prefect Apostolic of Morondava (Madagascar) (1954 – 1955.09.14)Bishop of Morondava (Madagascar) (1955.09.14 – 1964.02.18)Prefects Apostolic of Morondava (Roman Rite)Fr. Paul Joseph Girouard, M.S. (later Bishop)  (1954 – 1955.09.14)(see above)Fr. Étienne Garon, M.S.  (1947.07.04 – 1954.06.06)Born:1880Died:1954.06.06 († 73)Prefect Apostolic of Morondava (Madagascar) (1947.07.04 – 1954.06.06)Fr. Joseph-Paul Futy, M.S. (later Bishop)  (1938 – 1947.02.13)Born:1889.05.05 (Poitiers, France)Ordained Priest:1912.07.14Consecrated Bishop:1947.04.27Died:1956.08.12 († 67)Prefect Apostolic of Morondava (Madagascar) (1938 – 1947.02.13)Vicar Apostolic of Antsirabé (Madagascar) (1947.02.13 – 1955.03)Titular Bishop of Aspendus (1947.02.13 – 1956.08.12)Former PrelatesAuxiliary Bishop: Bishop Jean Nicolas Rakotojaona (53) (later Archbishop) (2023.05.19 – 2025.10.25)Special ChurchesCathedral:  Cathédrale Maria Manjaka Namahora, Morondava, Toliara Co-Cathedral:  Co-cathédrale Saint-Joseph, Miandrivazo, Toliara Show MapMaintirano (↑), Tsiroanomandidy (↗), Antsirabé (→), Ambositra (→), Morombe (↓)Statistics (2022.12.31)Area: 46,121 km²Population: 85,639 Catholics (8.8% of 972,340 total)Pastoral Centres: 29 parishes, 2 missionsPersonnel: 54 priests (7 diocesan, 47 religious), 277 religious (80 brothers, 197 sisters), 52 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "moro3",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 972340,
+    "catholiques": 85639,
+    "pourcentage_catholiques": 8.8
+  },
+  "ressources": {
+    "pretres_diocesains": 7,
+    "pretres_religieux": null,
+    "total_pretres": 54,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

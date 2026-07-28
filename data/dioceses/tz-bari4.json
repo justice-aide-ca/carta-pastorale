@@ -1,0 +1,29 @@
+{
+  "id": "tz-bari4",
+  "nom": "Bariadi",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Bariadi / Bariaden(sis) (Latin)Ecclesiastical Province: MwanzaNeighbouring Dioceses: Shinyanga (↙), Mwanza (←), Bunda (↑), Musoma (↗), Arusha (↗), Mbulu (↘), Singida (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2026.01.08: Established as Diocese of Bariadi / Bariaden(sis) (Latin) (from Diocese of Shinyanga and became suffragan of Mwanza)Present PrelatesBishop (2026.01.08 – ...):Bishop Prosper Balthazar Lyimo (61)OrdinariesBishops of Bariadi (Roman Rite)Bishop Prosper Balthazar Lyimo (61)  (2026.01.08 – ...)Bishop of Bariadi (Tanzania)Born:1964.08.20 (Kyou-Kilema, Tanzania)Ordained Priest:1997.07.04Consecrated Bishop:2015.02.15Priest of Arusha (Tanzania) (1997.07.04 – 2014.11.11)Titular Bishop of Vanariona (2014.11.11 – 2026.01.08)Auxiliary Bishop of Arusha (Tanzania) (2014.11.11 – 2026.01.08)Bishop of Bariadi (Tanzania) (2026.01.08 – ...)Special ChurchesPro-Cathedral:  Pro-Cathedral of St. John the Evangelist, Bariadi, Simiyu Future Cathedral:  Cathedral of St. Luke, Bariadi, Simiyu Show MapShinyanga (↙), Mwanza (←), Bunda (↑), Musoma (↗), Arusha (↗), Mbulu (↘), Singida (↓)Statistics (2026)Area: 16,638 km²Population: 366,000 Catholics (30.0% of 1,221,540 total)Pastoral Centres: 19 parishesPersonnel: 43 priests (35 diocesan, 8 religious), 36 religious (4 brothers, 32 sisters), 48 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bari4",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1221540,
+    "catholiques": 366000,
+    "pourcentage_catholiques": 30.0
+  },
+  "ressources": {
+    "pretres_diocesains": 35,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 19
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

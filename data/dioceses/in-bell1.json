@@ -1,0 +1,29 @@
+{
+  "id": "in-bell1",
+  "nom": "Bellary",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Bellary / Bellaryen(sis) (Latin)Ecclesiastical Province: BangaloreNeighbouring Dioceses: Shimoga (↙), Belgaum (←), Gulbarga (↑), Nalgonda (↗), Kurnool (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint Anthony of PaduaLiturgical Calendar (National) 📅History1928.06.15: Established as Mission sui juris of Bellary / Bellaryen(sis) (Latin) (from Metropolitan Archdiocese of Madras and Diocese of Hyderabad and became suffragan of Madras)1949.03.10: Promoted as Diocese of Bellary / Bellaryen(sis) (Latin)1953.09.19: Became suffragan of Bangalore2005.06.24: Lost territory to establish Diocese of GulbargaPresent PrelatesBishop (2008.03.15 – ...):Bishop Henry D’Souza (76)OrdinariesBishops of Bellary (Roman Rite)Bishop Henry D’Souza (76)  (2008.03.15 – ...)Bishop of Bellary (India)Proclaim the GospelBorn:1949.09.09 (Kinnigoly, India)Ordained Priest:1976.05.05Consecrated Bishop:2008.06.12Priest of Mangalore (India) (1976.05.05 – 2008.03.15)Bishop of Bellary (India) (2008.03.15 – ...)Apostolic Administrator of Shimoga (India) (2012.10.16 – 2014.03.19)Archbishop Bernard Blasius Moras (84)  (Apostolic Administrator 2006.11.18 – 2008.03.15)Bishop Joseph D’Silva  (1992.10.06 – 2006.11.17)Guardian of the truthBorn:1932.02.09 (Virajpet, India)Ordained Priest:1960.04.09Consecrated Bishop:1993.03.09Died:2006.11.17 († 74)Bishop of Bellary (India) (1992.10.06 – 2006.11.17)Bishop Ambrose Papaiah Yeddanapalli, O.F.M.  (1963.12.10 – 1992)Born:1914.08.20 (Pannur, India)Ordained Priest:1943.10.03Consecrated Bishop:1964.04.14Died:1997.11.20 († 83)Bishop of Bellary (India) (1963.12.10 – 1992)Bishop John Forest Hogan, O.F.M.  (1949.03.10 – 1962.09.23)Born:1895.10.14 (Liverpool, England)Ordained Priest:1927.07.31Consecrated Bishop:1949.05.04Died:1962.09.23 († 66)Ecclesiastical Superior of Bellary (India) (1934 – 1949.03.10)Bishop of Bellary (India) (1949.03.10 – 1962.09.23)Ecclesiastical Superiors of Bellary (Roman Rite)Fr. John Forest Hogan, O.F.M. (later Bishop)  (1934 – 1949.03.10)(see above)Fr. Ernesto Reilly, O.F.M.  (1928 – 1934)Died:1934Ecclesiastical Superior of Bellary (India) (1928 – 1934)Special ChurchesCathedral:  St. Antony’s Cathedral, Bellary, Karnātaka Show MapShimoga (↙), Belgaum (←), Gulbarga (↑), Nalgonda (↗), Kurnool (→)Statistics (2022.12.31)Area: 23,002 km²Population: 33,593 Catholics (0.5% of 6,869,000 total)Pastoral Centres: 49 parishes, 1 missionPersonnel: 110 priests (70 diocesan, 40 religious), 293 religious (81 brothers, 212 sisters), 13 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "bell1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6869000,
+    "catholiques": 33593,
+    "pourcentage_catholiques": 0.5
+  },
+  "ressources": {
+    "pretres_diocesains": 70,
+    "pretres_religieux": null,
+    "total_pretres": 110,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 49
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

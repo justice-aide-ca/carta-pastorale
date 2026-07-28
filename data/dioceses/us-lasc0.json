@@ -1,0 +1,29 @@
+{
+  "id": "us-lasc0",
+  "nom": "Las Cruces",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Las Cruces / Crucien(sis) (Latin)Ecclesiastical Province: Santa FeNeighbouring Dioceses: Nuevo Casas Grandes (↙), Tucson (←), Gallup (↖), Santa Fe (↑), Lubbock (→), San Angelo (↘), El Paso (↓), Ciudad Juárez (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Holy Cross (September 14), Saint Francis of Assisi (October 4)Cathedral Dedication Anniversary: June 11Liturgical Calendar 📅History1982.08.17: Established as Diocese of Las Cruces / Crucien(sis) (Latin) (from Metropolitan Archdiocese of Santa Fe and Diocese of El Paso and became suffragan of Santa Fe)Contact InfoAddress: 1280 Med Park Dr., Las Cruces, NM 88005, USAPhone: +1 (505) 523-7577Present PrelatesBishop (2019.05.15 – ...):Bishop Peter Baldacchino (65)Monsignors (5)OrdinariesBishops of Las Cruces (Roman Rite)Bishop Peter Baldacchino (65)  (2019.05.15 – ...)Bishop of Las Cruces (USA)Ubi Dominus ibidem lætitiaBorn:1960.12.05 (Sliema, Malta)Ordained Priest:1996.05.25Consecrated Bishop:2014.03.19Priest of Newark (USA) (1996.05.25 – 2014.02.20)Chaplain of His Holiness (2009.03.30 – 2014.02.20)Titular Bishop of Vatarba (2014.02.20 – 2019.05.15)Auxiliary Bishop of Miami (USA) (2014.02.20 – 2019.05.15)Bishop of Las Cruces (USA) (2019.05.15 – ...)Bishop Gerald Frederick Kicanas (84)  (Apostolic Administrator 2018.09.28 – 2019.05.15)Bishop Oscar Cantú (59)  (2013.01.10 – 2018.07.11)Bishop of San Jose (USA)Zelus Domus tuæ comedit meBorn:1966.12.05 (Houston, TX, USA)Ordained Priest:1994.05.21Consecrated Bishop:2008.06.02Priest of Galveston–Houston (USA) (1994.05.21 – 2008.04.10)Titular Bishop of Dardanus (2008.04.10 – 2013.01.10)Auxiliary Bishop of San Antonio (USA) (2008.04.10 – 2013.01.10)Bishop of Las Cruces (USA) (2013.01.10 – 2018.07.11)Coadjutor Bishop of San Jose (USA) (2018.07.11 – 2019.05.01)Bishop of San Jose (USA) (2019.05.01 – ...)Bishop Ricardo Ramirez, C.S.B. (89)  (1982.08.17 – 2013.01.10)Bishop emeritus of Las Cruces (USA)Make me an instrument of your peaceBorn:1936.09.12 (Bay City, TX, USA)Ordained Priest:1966.12.10Consecrated Bishop:1981.12.06Titular Bishop of Vatarba (1981.10.27 – 1982.08.17)Auxiliary Bishop of San Antonio (USA) (1981.10.27 – 1982.08.17)Bishop of Las Cruces (USA) (1982.08.17 – 2013.01.10)Special ChurchesCathedral:  Immaculate Heart of Mary Cathedral, Las Cruces, New Mexico Minor Basilica:  Basilica of San Albino, Mesilla, New Mexico Jubilee Churches in the Holy Year 2025Churches by City (91)Show MapNuevo Casas Grandes (↙), Tucson (←), Gallup (↖), Santa Fe (↑), Lubbock (→), San Angelo (↘), El Paso (↓), Ciudad Juárez (↓)Statistics (2022.12.31)Area: 115,210 km²Population: 245,500 Catholics (42.1% of 582,742 total)Pastoral Centres: 46 parishes, 1 missionPersonnel: 65 priests (42 diocesan, 23 religious), 50 deacons, 84 religious (23 brothers, 61 sisters), 4 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lasc0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 582742,
+    "catholiques": 245500,
+    "pourcentage_catholiques": 42.1
+  },
+  "ressources": {
+    "pretres_diocesains": 42,
+    "pretres_religieux": null,
+    "total_pretres": 65,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 46
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

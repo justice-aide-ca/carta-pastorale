@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  api:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data:ro
+    environment:
+      - DATA_DIR=/app/data
+      - RAPPORTS_DIR=/app/data/rapports
+      - DIOCESES_FILE=/app/data/dioceses_enriched.json
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - api
+    restart: unless-stopped

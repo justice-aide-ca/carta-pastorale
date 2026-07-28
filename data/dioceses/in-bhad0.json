@@ -1,0 +1,29 @@
+{
+  "id": "in-bhad0",
+  "nom": "Bhadravathi",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Bhadravathi / Bhadravathen(sis) (Latin)Ecclesiastical Province: TellicherryNeighbouring Dioceses: Belthangady (↙), Mandya (↘)Depends on: Dicastery for the Eastern ChurchesWebsites: CelebrationsPatron Saint: Saint Joseph, Saint Alphonsa of the Immaculate Conception MuttathupadathuHistory2007.08.29: Established as Diocese of Bhadravathi / Bhadravathen(sis) (Latin) (from Diocese of Mananthavady and became suffragan of Tellicherry)2010.01.15: Gained territory from Diocese of Mananthavady2025.08.28: Gained territory from Diocese of ShamshabadPresent PrelatesBishop (2007.08.29 – ...):Bishop Joseph Arumachadath, M.C.B.S. (66)OrdinariesBishops of Bhadravathi (Syro-Malabar Rite)Bishop Joseph Arumachadath, M.C.B.S. (66)  (2007.08.29 – ...)Bishop of Bhadravathi of the Syro-Malabars (India)Born:1960.04.10 (Uppukandam, India)Ordained Priest:1988.05.07Consecrated Bishop:2007.10.25Bishop of Bhadravathi of the Syro-Malabars (India) (2007.08.29 – ...)Special ChurchesCathedral:  Cathedral of the Little Flower, Narasimharajapura, Karnātaka Show MapBelthangady (↙), Mandya (↘)Statistics (2022.12.31)Area: 15,666 km²Population: 9,955 Catholics (0.3% of 3,289,570 total)Pastoral Centres: 24 parishes, 8 missionsPersonnel: 50 priests (13 diocesan, 37 religious), 158 religious (37 brothers, 121 sisters), 10 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "bhad0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3289570,
+    "catholiques": 9955,
+    "pourcentage_catholiques": 0.3
+  },
+  "ressources": {
+    "pretres_diocesains": 13,
+    "pretres_religieux": null,
+    "total_pretres": 50,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

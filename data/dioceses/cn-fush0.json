@@ -1,0 +1,29 @@
+{
+  "id": "cn-fush0",
+  "nom": "Fushun 撫順",
+  "pays": "cn",
+  "pays_nom": "China",
+  "continent": "unknown",
+  "type": "Diocese Name: Fushun 撫順 (中文) / Fushun / Fǔshùn 抚顺 (简体中文) / Fusciœnen(sis) (Latin)Ecclesiastical Province: Shenyang 瀋陽Neighbouring Dioceses: Yingkou 營口 (↙), Shenyang 瀋陽 (←), Jilin 吉林 (↗), Hamhung 함흥 (→), Yanji 延吉 (→), Pyong-yang 평양 (↓)Depends on: Dicastery for EvangelisationNow Governed by Patriotic Dioceses: Liaoning 遼寧 , Jilin 吉林 CelebrationsLiturgical Calendar (Universal) 📅History1932.02.04: Established as Apostolic Prefecture of Fushun 撫順 (中文) / Fushun / Fǔshùn 抚顺 (简体中文) / de Fushun (Latin) (from Apostolic Vicariate of Shenyang 瀋陽)1940.02.13: Promoted as Apostolic Vicariate of Fushun 撫順 (中文) / Fushun / Fǔshùn 抚顺 (简体中文) / de Fushun (Latin)1946.04.11: Promoted as Diocese of Fushun 撫順 (中文) / Fushun / Fǔshùn 抚顺 (简体中文) / Fusciœnen(sis) (Latin) (became suffragan of Shenyang 瀋陽)Present PrelatesBishop:vacantOrdinariesBishops of Fushun 撫順 (Roman Rite)Bishop Raymond Aloysius Lane (林化東), M.M.  (1946.04.11 – 1946.08.07)Born:1894.01.02 (Lawrence, MA, USA)Ordained Priest:1920.02.08Consecrated Bishop:1940.06.11Died:1974.07.31 (Mountain View, CA, USA † 80)Prefect Apostolic of Fushun 撫順 (China) (1932.04.14 – 1940.02.13)Titular Bishop of Hypæpa (1940.02.13 – 1946.04.11)Vicar Apostolic of Fushun 撫順 (China) (1940.02.13 – 1946.04.11)Bishop of Fushun 撫順 (China) (1946.04.11 – 1946.08.07)Superior General of Catholic Foreign Mission Society of America (Maryknoll Fathers) (1946.08.07 – 1956.08.06)Vicars Apostolic of Fushun 撫順 (Roman Rite)Bishop Raymond Aloysius Lane (林化東), M.M.  (1940.02.13 – 1946.04.11)(see above)Prefects Apostolic of Fushun 撫順 (Roman Rite)Fr. Raymond Aloysius Lane (林化東), M.M. (later Bishop)  (1932.04.14 – 1940.02.13)(see above)Special ChurchesCathedral:  Cathedral of St. Joseph, Fushun 抚顺, Liaoning Show MapYingkou 營口 (↙), Shenyang 瀋陽 (←), Jilin 吉林 (↗), Hamhung 함흥 (→), Yanji 延吉 (→), Pyong-yang 평양 (↓)Statistics (1949.12.31)Area: 75,204 km²Population: 10,000 Catholics (0.2% of 6,250,000 total)Pastoral Centres: 17 parishesPersonnel: 8 priests (diocesan), 16 religious (16 sisters), 7 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "fush0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 6250000,
+    "catholiques": 10000,
+    "pourcentage_catholiques": 0.2
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

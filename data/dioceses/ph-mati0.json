@@ -1,0 +1,29 @@
+{
+  "id": "ph-mati0",
+  "nom": "Mati",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Mati / Matien(sis) (Latin)Ecclesiastical Province: DavaoNeighbouring Dioceses: Tagum (↖), Prosperidad (↑), Tandag (↑), Caroline Islands (→)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Nicholas of Tolentino (September 10)Cathedral Dedication Anniversary: December 14Liturgical Calendar (National) 📅History1984.02.16: Established as Diocese of Mati / Matien(sis) (Latin) (from Diocese of Tagum and became suffragan of Davao)Present PrelatesBishop (2018.02.10 – ...):Bishop Abel Cahiles Apigo (58)OrdinariesBishops of Mati (Roman Rite)Bishop Abel Cahiles Apigo (58)  (2018.02.10 – ...)Bishop of Mati (Philippines)Fortitudo mea DominusBorn:1968.05.21 (Huisquilco, Philippines)Ordained Priest:1994.04.18Consecrated Bishop:2018.04.24Priest of Davao (Philippines) (1994.04.18 – 2018.02.10)Bishop of Mati (Philippines) (2018.02.10 – ...)Bishop Patricio Hacbang Alo  (1984.11.09 – 2014.10.19)Gaudete in DominoBorn:1939.12.02 (Cebu, Philippines)Ordained Priest:1964.03.14Consecrated Bishop:1981.06.07Died:2021.04.13 (Cebu, Philippines † 81)Priest of Cebu (Philippines) (1964.03.14 – 1981.04.14)Chaplain of His Holiness (1969.06.14 – 1975.11.04)Prelate of Honour of His Holiness (1975.11.04 – 1981.04.14)Titular Bishop of Thibiuca (1981.04.14 – 1984.11.09)Auxiliary Bishop of Davao (Philippines) (1981.04.14 – 1984.11.09)Bishop of Mati (Philippines) (1984.11.09 – 2014.10.19)Special ChurchesCathedral:  Cathedral of San Nicolas de Tolentino, Mati, Davao Oriental, Davao Jubilee Churches in the Holy Year 2025Churches by City (20)Show MapTagum (↖), Prosperidad (↑), Tandag (↑), Caroline Islands (→)Statistics (2022.12.31)Area: 5,164 km²Population: 369,160 Catholics (62.4% of 591,289 total)Pastoral Centres: 22 parishesPersonnel: 51 priests (40 diocesan, 11 religious), 1 deacon, 63 religious (29 brothers, 34 sisters), 43 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mati0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 591289,
+    "catholiques": 369160,
+    "pourcentage_catholiques": 62.4
+  },
+  "ressources": {
+    "pretres_diocesains": 40,
+    "pretres_religieux": null,
+    "total_pretres": 51,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 22
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

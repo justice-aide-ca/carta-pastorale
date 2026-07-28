@@ -1,0 +1,29 @@
+{
+  "id": "br-bage0",
+  "nom": "Bagé",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Bagé / Bagen(sis) (Latin)Ecclesiastical Province: PelotasNeighbouring Dioceses: Tacuarembó (←), Uruguaiana (↖), Santa Maria (↑), Cachoeira do Sul (↗), Santa Cruz do Sul (↗), Pelotas (→), Melo (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1960.06.25: Established as Diocese of Bagé / Bagen(sis) (Latin) (from Diocese of Pelotas and Diocese of Uruguaiana and became suffragan of Porto Alegre)1997.12.12: Gained territory from Diocese of Santa Maria2011.04.13: Became suffragan of PelotasPresent PrelatesBishop (2018.09.26 – ...):Bishop Cleonir Paulo Dalbosco, O.F.M. Cap. (55)OrdinariesBishops of Bagé (Roman Rite)Bishop Cleonir Paulo Dalbosco, O.F.M. Cap. (55)  (2018.09.26 – ...)Bishop of Bagé (Brazil)Eu vim para servirBorn:1970.09.25 (Barros Cassal, RS, Brazil)Ordained Priest:1999.02.20Consecrated Bishop:2018.12.01Bishop of Bagé (Brazil) (2018.09.26 – ...)Bishop Gílio Felício (76)  (2002.12.11 – 2018.06.06)Bishop emeritus of Bagé (Brazil)Evangelizar a TodosBorn:1949.11.11 (Sério, RS, Brazil)Ordained Priest:1979.11.11Consecrated Bishop:1998.05.03Priest of Santa Cruz do Sul (Brazil) (1979.11.11 – 1998.01.21)Titular Bishop of Illiberi (1998.01.21 – 2002.12.11)Auxiliary Bishop of São Salvador da Bahia (Brazil) (1998.01.21 – 2002.12.11)Bishop of Bagé (Brazil) (2002.12.11 – 2018.06.06)Bishop Laurindo Guizzardi, C.S.  (1982.02.12 – 2002.12.11)Omnia propter electosBorn:1934.07.07 (Nova Bassano, RS, Brazil)Ordained Priest:1959.12.20Consecrated Bishop:1982.04.18Died:2021.02.22 (Foz do Iguaçu, PR, Brazil † 86)Coadjutor Bishop of Bagé (Brazil) (1982.02.04 – 1982.02.12)Bishop of Bagé (Brazil) (1982.02.12 – 2002.12.11)Bishop of Foz do Iguaçu (Brazil) (2002.12.11 – 2010.10.20)Bishop Angelo Félix Mugnol  (1969.01.15 – 1982.02.12)Born:1915.12.12 (Farroupilha, RS, Brazil)Ordained Priest:1941.11.30Consecrated Bishop:1966.04.24Died:1982.02.12 († 66)Titular Bishop of Nicives (1966.02.07 – 1969.01.15)Auxiliary Bishop of Pelotas (Brazil) (1966.02.07 – 1969.01.15)Bishop of Bagé (Brazil) (1969.01.15 – 1982.02.12)Bishop José Gomes  (1961.03.18 – 1968.07.16)Ut diligatis invicemBorn:1921.03.25 (Erexim, RS, Brazil)Ordained Priest:1947.12.21Consecrated Bishop:1961.06.25Died:2002.09.19 (Chapecó, SC, Brazil † 81)Bishop of Bagé (Brazil) (1961.03.18 – 1968.07.16)Bishop of Chapecó (Brazil) (1968.07.16 – 1998.10.28)Former PrelatesCoadjutor Bishop: Bishop-elect Laurindo Guizzardi, C.S. (1982.02.04 – 1982.02.12)Special ChurchesCathedral:  Catedral São Sebastião, Bagé, Rio Grande do Sul Churches by City (16)Show MapTacuarembó (←), Uruguaiana (↖), Santa Maria (↑), Cachoeira do Sul (↗), Santa Cruz do Sul (↗), Pelotas (→), Melo (↓)Statistics (2022.12.31)Area: 35,554 km²Population: 396,000 Catholics (79.7% of 497,000 total)Pastoral Centres: 16 parishesPersonnel: 27 priests (17 diocesan, 10 religious), 47 religious (12 brothers, 35 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "bage0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 497000,
+    "catholiques": 396000,
+    "pourcentage_catholiques": 79.7
+  },
+  "ressources": {
+    "pretres_diocesains": 17,
+    "pretres_religieux": null,
+    "total_pretres": 27,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

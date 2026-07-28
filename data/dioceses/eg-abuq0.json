@@ -1,0 +1,29 @@
+{
+  "id": "eg-abuq0",
+  "nom": "Abu Qurqas",
+  "pays": "eg",
+  "pays_nom": "Egypt",
+  "continent": "unknown",
+  "type": "Diocese Name: Abu Qurqas / Abucurcasen(sis) (Latin)Ecclesiastical Province: AlexandriaNeighbouring Dioceses: Al Qusia (↙), Minya (←), Guizeh (↑)Depends on: Dicastery for the Eastern ChurchesHistory2020.01.07: Established as Diocese of Abu Qurqas / Abucurcasen(sis) (Latin) (from Diocese of Minya and became suffragan of Alexandria)Present PrelatesBishop (2020.01.07 – ...):Bishop Bechara Giuda Matarana, O.F.M. (54)OrdinariesBishops of Abu Qurqas (Coptic Rite)Bishop Bechara Giuda Matarana, O.F.M. (54)  (2020.01.07 – ...)Bishop of Abu Qurqas of the Copts (Egypt)Born:1971.08.28 (Al-Nagila, Egypt)Ordained Priest:2001.06.08Consecrated Bishop:2020.02.27Bishop of Abu Qurqas of the Copts (Egypt) (2020.01.07 – ...)Special ChurchesCathedral:  Cathédrale Saint-Antoine et Saint-Paul, Abu Qurqas, Minya Show MapAl Qusia (↙), Minya (←), Guizeh (↑)Statistics (2022.12.31)Area: 24,200 km²Population: 40,245 Catholics (2.0% of 2,040,000 total)Pastoral Centres: 21 parishesPersonnel: 25 priests (diocesan), 17 religious (2 brothers, 15 sisters), 2 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "abuq0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2040000,
+    "catholiques": 40245,
+    "pourcentage_catholiques": 2.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "br-batu0",
+  "nom": "Baturité",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Baturité (Português)Ecclesiastical Province: FortalezaNeighbouring Dioceses: Sobral (←), Itapipoca (↖), Fortaleza (↗), Quixadá (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2026.01.01: Established as Diocese of Baturité (Português) (from Metropolitan Archdiocese of Fortaleza and became suffragan of Fortaleza)Present PrelatesArchbishop-Bishop (2026.01.01 – ...):Archbishop Luis Gonzaga Silva Pepeu, O.F.M. Cap. (69)OrdinariesBishops of Baturité (Roman Rite)Archbishop Luis Gonzaga Silva Pepeu, O.F.M. Cap. (69)  (2026.01.01 – ...)Archbishop-Bishop of Baturité (Brazil)Ne timeas tecum ego sum / Não temas estou contigoBorn:1957.02.18 (Caruaru, PE, Brazil)Ordained Priest:1982.12.08Consecrated Bishop:2001.10.06Bishop of Afogados da Ingazeira (Brazil) (2001.06.13 – 2008.06.11)Metropolitan Archbishop of Vitória da Conquista (Brazil) (2008.06.11 – 2019.10.09)Archbishop-Bishop of Baturité (Brazil) (2026.01.01 – ...)Special ChurchesCathedral:  Catedral Nossa Senhora da Palma, Baturité, Ceará Minor Basilica:  Basílica São Francisco das Chagas, Canindé, Ceará Churches by City (23)Show MapSobral (←), Itapipoca (↖), Fortaleza (↗), Quixadá (↓)Statistics (2026)Area: 7,072 km²Population: 205,770 Catholics (69.0% of 298,221 total)Pastoral Centres: 21 parishesPersonnel: 39 priests (28 diocesan, 11 religious), 1 deacon, 41 religious (10 brothers, 31 sisters), 6 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "batu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 298221,
+    "catholiques": 205770,
+    "pourcentage_catholiques": 69.0
+  },
+  "ressources": {
+    "pretres_diocesains": 28,
+    "pretres_religieux": null,
+    "total_pretres": 39,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 21
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

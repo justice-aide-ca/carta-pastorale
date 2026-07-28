@@ -1,0 +1,29 @@
+{
+  "id": "ug-arua0",
+  "nom": "Arua",
+  "pays": "ug",
+  "pays_nom": "Uganda",
+  "continent": "unknown",
+  "type": "Diocese Name: Arua / Aruaën(sis) (Latin)Ecclesiastical Province: GuluNeighbouring Dioceses: Mahagi–Nioka (↙), Yei (↑), Juba (↗), Gulu (→), Nebbi (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Sacred Heart of Jesus, Our Lady Mediatrix of all GracesLiturgical Calendar (National) 📅History1958.06.23: Established as Diocese of Arua / Aruaën(sis) (Latin) (from Diocese of Gulu and became suffragan of Rubaga)1966.08.05: Became suffragan of Kampala1996.02.23: Lost territory to establish Diocese of Nebbi1999.01.02: Became suffragan of GuluPresent PrelatesBishop (2010.10.20 – ...):Bishop Sabino Ocan Odoki (68)OrdinariesBishops of Arua (Roman Rite)Bishop Sabino Ocan Odoki (68)  (2010.10.20 – ...)Bishop of Arua (Uganda)In caritate Christi fundatiBorn:1957.08.08 (Layibi, Uganda)Ordained Priest:1983.09.10Consecrated Bishop:2006.10.21Priest of Gulu (Uganda) (1983.09.10 – 2006.07.22)Titular Bishop of Sabrata (2006.07.22 – 2010.10.20)Auxiliary Bishop of Gulu (Uganda) (2006.07.22 – 2010.10.20)Apostolic Administrator of Arua (Uganda) (2009.09 – 2010.10.20)Bishop of Arua (Uganda) (2010.10.20 – ...)Bishop Sabino Ocan Odoki (68)  (Apostolic Administrator 2009.09 – 2010.10.20)Bishop Frederick Drandua  (1986.05.27 – 2009.08.19)Ut unum sintBorn:1943.08.12 (Uleppi, Uganda)Ordained Priest:1970.08.09Consecrated Bishop:1986.08.15Died:2016.09.01 († 73)Priest of Arua (Uganda) (1970.08.09 – 1986.05.27)Bishop of Arua (Uganda) (1986.05.27 – 2009.08.19)Bishop Angelo Tarantino, M.C.C.J.  (1959.02.12 – 1984.12.29)Born:1908.04.08 (Porto Gruaro, Italy)Ordained Priest:1932.03.19Consecrated Bishop:1959.05.01Died:1990.04.15 († 82)Bishop of Arua (Uganda) (1959.02.12 – 1984.12.29)Special ChurchesCathedral:  Cathedral of the Sacred Heart of Jesus, Arua, Arua, Northern Minor Basilica:  Basilica of the Blessed Virgin Mary, Lodonga, Yumbe, Northern Show MapMahagi–Nioka (↙), Yei (↑), Juba (↗), Gulu (→), Nebbi (↓)Statistics (2022.12.31)Area: 10,562 km²Population: 2,399,103 Catholics (69.4% of 3,458,797 total)Pastoral Centres: 60 parishesPersonnel: 163 priests (117 diocesan, 46 religious), 258 religious (81 brothers, 177 sisters), 65 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "arua0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3458797,
+    "catholiques": 2399103,
+    "pourcentage_catholiques": 69.4
+  },
+  "ressources": {
+    "pretres_diocesains": 117,
+    "pretres_religieux": null,
+    "total_pretres": 163,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 60
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

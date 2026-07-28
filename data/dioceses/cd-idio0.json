@@ -1,0 +1,29 @@
+{
+  "id": "cd-idio0",
+  "nom": "Idiofa",
+  "pays": "cd",
+  "pays_nom": "Congo-Kinshasa",
+  "continent": "unknown",
+  "type": "Diocese Name: Idiofa / Idiofaën(sis) (Latin)Ecclesiastical Province: KinshasaNeighbouring Dioceses: Kikwit (←), Inongo (↑), Mweka (→), Luebo (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1937.04.13: Established as Apostolic Prefecture of Ipamu / Ipamuen(sis) (Latin) (from Apostolic Vicariate of Kasaï Supérieur and Apostolic Vicariate of Kwango)1939.04.25: Gained territory from Apostolic Vicariate of Kasaï Supérieur and Apostolic Vicariate of Kwango1948.02.12: Promoted as Apostolic Vicariate of Ipamu / Ipamuen(sis) (Latin)1959.11.10: Promoted as Diocese of Ipamu / Ipamuen(sis) (Latin) (became suffragan of Léopoldville)1960.06.20: Renamed as Diocese of Idiofa / Idiofaën(sis) (Latin)Present PrelatesBishop (2009.05.26 – ...):Bishop José Moko Ekanga, P.S.S. (67)OrdinariesBishops of Idiofa (Roman Rite)Bishop José Moko Ekanga, P.S.S. (67)  (2009.05.26 – ...)Bishop of Idiofa (Congo-Kinshasa)Faites tout ce qu’il vous diraBorn:1958.07.18 (Kinshasa, Congo-Kinshasa)Ordained Priest:1986.08.01Consecrated Bishop:2009.08.15Bishop of Idiofa (Congo-Kinshasa) (2009.05.26 – ...)Vice-President of National Episcopal Conference of Congo (2020.10.15 – 2024.07.01)President of Association of Episcopal Conferences of Central Africa (2023.05.30 – 2025.12.18)Bishop Louis Nzala Kianza  (Apostolic Administrator 2006.05.31 – 2009.05.26)Bishop Louis Mbwôl-Mpasi, O.M.I. (95)  (1997.05.20 – 2006.05.31)Bishop emeritus of Idiofa (Congo-Kinshasa)Christus regnatBorn:1931.02.11 (Ipamu, Congo-Kinshasa)Ordained Priest:1962.01.26Consecrated Bishop:1984.11.25Titular Bishop of Carcabia (1984.06.04 – 1988.09.01)Auxiliary Bishop of Isangi (Congo-Kinshasa) (1984.06.04 – 1988.09.01)Bishop of Isangi (Congo-Kinshasa) (1988.09.01 – 1997.05.20)Bishop of Idiofa (Congo-Kinshasa) (1997.05.20 – 2006.05.31)Bishop Eugène Biletsi Onim  (1970.05.21 – 1994.11.04)Born:1934.08.08 (Mbulu, Congo-Kinshasa)Ordained Priest:1959.03.29Consecrated Bishop:1970.09.13Died:1997.12.01 († 63)Priest of Idiofa (Congo-Kinshasa) (1959.03.29 – 1970.05.21)Bishop of Idiofa (Congo-Kinshasa) (1970.05.21 – 1994.11.04)Bishop René Toussaint, O.M.I.  (1960.06.20 – 1970.05.21)Born:1920.03.05 (Ochamps, Belgium)Ordained Priest:1945.07.08Consecrated Bishop:1958.05.11Died:1993.03.21 (Namur, Belgium † 73)Titular Bishop of Calama (1958.01.16 – 1959.11.10)Vicar Apostolic of Ipamu (Congo-Kinshasa) (1958.01.16 – 1959.11.10)Bishop of Ipamu (Congo-Kinshasa) (1959.11.10 – 1960.06.20)Bishop of Idiofa (Congo-Kinshasa) (1960.06.20 – 1970.05.21)Titular Bishop of Cluain Iraird (1970.05.21 – 1976.07.23)Bishops of Ipamu (Roman Rite)Bishop René Toussaint, O.M.I.  (1959.11.10 – 1960.06.20)(see above)Vicars Apostolic of Ipamu (Roman Rite)Bishop René Toussaint, O.M.I.  (1958.01.16 – 1959.11.10)(see above)Bishop Alfonse Bossart, O.M.I.  (1948.02.12 – 1957)Born:1888.10.20 (Bastogne, Belgium)Ordained Priest:1913.08.10Consecrated Bishop:1948.05.17Died:1963.03.03 († 74)Prefect Apostolic of Ipamu (Congo-Kinshasa) (1937.06.11 – 1948.02.12)Vicar Apostolic of Ipamu (Congo-Kinshasa) (1948.02.12 – 1957)Titular Bishop of Tigava (1948.02.12 – 1963.03.03)Prefects Apostolic of Ipamu (Roman Rite)Fr. Alfonse Bossart, O.M.I. (later Bishop)  (1937.06.11 – 1948.02.12)(see above)Special ChurchesCathedral:  Cathédrale Saint-Kizito, Idiofa, Kwilu Show MapKikwit (←), Inongo (↑), Mweka (→), Luebo (↘)Statistics (2022.12.31)Area: 40,000 km²Population: 2,084,000 Catholics (51.5% of 4,044,000 total)Pastoral Centres: 43 parishes, 49 missionsPersonnel: 133 priests (117 diocesan, 16 religious), 130 religious (37 brothers, 93 sisters), 77 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "idio0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 4044000,
+    "catholiques": 2084000,
+    "pourcentage_catholiques": 51.5
+  },
+  "ressources": {
+    "pretres_diocesains": 117,
+    "pretres_religieux": null,
+    "total_pretres": 133,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 43
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

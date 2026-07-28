@@ -1,0 +1,29 @@
+{
+  "id": "af-afgh0",
+  "nom": "Afghanistan",
+  "pays": "af",
+  "pays_nom": "Afghanistan",
+  "continent": "unknown",
+  "type": "Mission sui juris Name: Afghanistan / Afghanistanien(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Tehran–Isfahan (←), Turkmenistan (↖), Uzbekistan (↑), Tajikistan (↑), Xinjiang 新疆 (↗), Islamabad–Rawalpindi (→), Quetta (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2002.05.16: Established as Mission sui juris of Afghanistan / Afghanistanien(sis) (Latin)Present PrelatesEcclesiastical Superior (2014.11.04 – ...):Fr. Giovanni M. Scalese, B. (70)OrdinariesEcclesiastical Superiors of Afghanistan (Roman Rite)Fr. Giovanni M. Scalese, B. (70)  (2014.11.04 – ...)Ecclesiastical Superior of Afghanistan (Afghanistan)Born:1955.08.19 (Roma, Italy)Ordained Priest:1981.06.20Ecclesiastical Superior of Afghanistan (Afghanistan) (2014.11.04 – ...)Fr. Giuseppe Moretti, B.  (2002.05.16 – 2014.11.04)Born:1938.11.10 (Italy)Ordained Priest:1963.03.09Ecclesiastical Superior of Afghanistan (Afghanistan) (2002.05.16 – 2014.11.04)Churches by City (1)Show MapTehran–Isfahan (←), Turkmenistan (↖), Uzbekistan (↑), Tajikistan (↑), Xinjiang 新疆 (↗), Islamabad–Rawalpindi (→), Quetta (↓)Statistics (2022.12.31)Area: 652,230 km²Population: 200 Catholics (0.0% of 32,095,000 total)Pastoral Centres: 1 parishPersonnel: 4 priests (religious), 12 religious (4 brothers, 8 sisters)PopulationPastoral CentresPriestsReligiousLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "afgh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 32095000,
+    "catholiques": 200,
+    "pourcentage_catholiques": 0.0
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "li-cape2",
+  "nom": "Cape Palmas",
+  "pays": "li",
+  "pays_nom": "Liberia",
+  "continent": "unknown",
+  "type": "Diocese Name: Cape Palmas / Capitis Palmen(sis) (Latin)Ecclesiastical Province: MonroviaNeighbouring Dioceses: Monrovia (↖), Gbarnga (↖), Man (↑)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1950.02.02: Established as Apostolic Prefecture of Cape Palmas / Capitis Palmen(sis) (Latin) (from Apostolic Vicariate of Liberia)1962.05.07: Promoted as Apostolic Vicariate of Cape Palmas / Capitis Palmen(sis) (Latin)1981.12.19: Promoted as Diocese of Cape Palmas / Capitis Palmen(sis) (Latin) (became suffragan of Monrovia)Present PrelatesBishop (2011.01.05 – ...):Bishop Andrew Jagaye Karnley (59)Monsignors (3)OrdinariesBishops of Cape Palmas (Roman Rite)Bishop Andrew Jagaye Karnley (59)  (2011.01.05 – ...)Bishop of Cape Palmas (Liberia)Omnia per vim ChristiBorn:1967.04.29 (Jawajeh, Liberia)Ordained Priest:1995.07.09Consecrated Bishop:2011.04.30Priest of Monrovia (Liberia) (1995.07.09 – 2011.01.05)Apostolic Administrator sede plena of Monrovia (Liberia) (2005.02 – 2011.01.05)Bishop of Cape Palmas (Liberia) (2011.01.05 – ...)Bishop Boniface Nyema Dalieh  (1981.12.19 – 2008.10.15)Born:1933.12.09 (Pleebo, Liberia)Ordained Priest:1965.07.11Consecrated Bishop:1974.03.17Died:2014.04.25 († 80)Priest of Cape Palmas (Liberia) (1965.07.11 – 1973.12.17)Titular Bishop of Talaptula (1973.12.17 – 1981.12.19)Vicar Apostolic of Cape Palmas (Liberia) (1973.12.17 – 1981.12.19)Bishop of Cape Palmas (Liberia) (1981.12.19 – 2008.10.15)President of Inter-territorial Catholic Bishops’ Conference of the Gambia and Sierra Leone / ITCABIC (1989 – 1992)Vicars Apostolic of Cape Palmas (Roman Rite)Bishop Boniface Nyema Dalieh  (1973.12.17 – 1981.12.19)(see above)Bishop Patrick Kla Juwle  (1972.07.30 – 1973.08.18)Born:1913.10.20 (Grand Cess, Liberia)Ordained Priest:1946.12.29Consecrated Bishop:1972.11.26Died:1973.08.18 († 59)Priest of Liberia (Liberia) (1946.12.29 – 1950.02.02)Priest of Cape Palmas (Liberia) (1950.02.02 – 1972.07.30)Titular Bishop of Tigamibena (1972.07.30 – 1973.08.18)Vicar Apostolic of Cape Palmas (Liberia) (1972.07.30 – 1973.08.18)Bishop Nicholas Grimley, S.M.A.  (1962.05.07 – 1972.07.30)Born:1917.08.18 (Skerries, Ireland)Ordained Priest:1954.02.06Consecrated Bishop:1962.07.25Died:1995.06.09 (Skerries, Ireland † 77)Vicar Apostolic of Cape Palmas (Liberia) (1962.05.07 – 1972.07.30)Titular Bishop of Thuburbo minus (1962.05.07 – 1995.06.09)Prefects Apostolic of Cape Palmas (Roman Rite)Fr. Francis Carroll, S.M.A. (later Archbishop)  (1950.10.27 – 1960.12.20)Born:1912.06.12 (Newry, Ireland)Ordained Priest:1936.12.20Consecrated Bishop:1961.05.21Died:1980.10.10 (Newry, Ireland † 68)Prefect Apostolic of Cape Palmas (Liberia) (1950.10.27 – 1960.12.20)Titular Bishop of Sozopolis in Hæmimonto (1960.12.20 – 1964.01.14)Vicar Apostolic of Monrovia (Liberia) (1960.12.20 – 1976.10.28)Apostolic Internuncio to Liberia (1961.11.09 – 1966.03.07)Titular Archbishop of Gabula (1964.01.14 – 1980.10.10)Apostolic Pro-Nuncio to Liberia (1966.03.07 – 1979.08.25)Special ChurchesCathedral:  Cathedral of St. Therese of the Child Jesus, Cape Palmas, Maryland Show MapMonrovia (↖), Gbarnga (↖), Man (↑)Statistics (2022.12.31)Area: 31,760 km²Population: 189,500 Catholics (41.4% of 457,300 total)Pastoral Centres: 10 parishes, 10 missionsPersonnel: 25 priests (23 diocesan, 2 religious), 27 religious (3 brothers, 24 sisters), 8 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cape2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 457300,
+    "catholiques": 189500,
+    "pourcentage_catholiques": 41.4
+  },
+  "ressources": {
+    "pretres_diocesains": 23,
+    "pretres_religieux": null,
+    "total_pretres": 25,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 10
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

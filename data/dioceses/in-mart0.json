@@ -1,0 +1,29 @@
+{
+  "id": "in-mart0",
+  "nom": "Marthandam",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Marthandam / Marthandom / Marthandomen(sis) (Latin)Ecclesiastical Province: TrivandrumNeighbouring Dioceses: Parassala (←), Trivandrum (↖)Depends on: Dicastery for the Eastern ChurchesWebsite: CelebrationsPatron Saint: Saint Paul of Tarsus, Saint Thérèse of the Child JesusHistory1996.12.16: Established as Diocese of Marthandam / Marthandom / Marthandomen(sis) (Latin) (from Metropolitanate sui juris of Trivandrum and became suffragan of Trivandrum)2020.09.21: Gained territory from Diocese of Saint Ephrem of KhadkiPresent PrelatesBishop (2010.01.25 – ...):Bishop Vincent Paulos Kulappuravilai (62)OrdinariesBishops of Marthandam (Syro-Malankara Rite)Bishop Vincent Paulos Kulappuravilai (62)  (2010.01.25 – ...)Bishop of Marthandam of the Syro-Malankara (India)Born:1964.01.22 (Anakkarai, India)Ordained Priest:1991.01.02Consecrated Bishop:2010.03.13Priest of Marthandam of the Syro-Malankara (India) (1991.01.02 – 2010.01.25)Bishop of Marthandam of the Syro-Malankara (India) (2010.01.25 – ...)Bishop Yoohanon Chrysostom Kalloor (82)  (1998.04.16 – 2010.01.25)Bishop emeritus of Pathanamthitta of the Syro-Malankara (India)To love God and neighbourBorn:1944.05.19 (Kadammanitta, India)Ordained Priest:1973.05.05Consecrated Bishop:1998.06.29Bishop of Marthandam of the Syro-Malankara (India) (1998.04.16 – 2010.01.25)Bishop of Pathanamthitta of the Syro-Malankara (India) (2010.01.25 – 2019.06.07)Bishop Lawrence Ephraem Thottam  (1996.12.16 – 1997.04.08)Born:1928.05.15 (Vellalampu, India)Ordained Priest:1953.05.14Consecrated Bishop:1980.12.27Died:1997.04.08 († 68)Priest of Trivandrum of the Syro-Malankara (India) (1953.05.14 – 1980.11.06)Titular Bishop of Barcusus (1980.11.06 – 1996.12.16)Auxiliary Bishop of Trivandrum of the Syro-Malankara (India) (1980.11.06 – 1996.12.16)Bishop of Marthandam of the Syro-Malankara (India) (1996.12.16 – 1997.04.08)Special ChurchesCathedral:  Christuraja Cathedral, Marthandam, Tamil Nādu Show MapParassala (←), Trivandrum (↖)Statistics (2020.12.31)Area: 1,665 km²Population: 71,400 Catholics (3.0% of 2,406,000 total)Pastoral Centres: 97 parishesPersonnel: 66 priests (59 diocesan, 7 religious), 252 religious (7 brothers, 245 sisters), 33 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "mart0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2406000,
+    "catholiques": 71400,
+    "pourcentage_catholiques": 3.0
+  },
+  "ressources": {
+    "pretres_diocesains": 59,
+    "pretres_religieux": null,
+    "total_pretres": 66,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 97
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

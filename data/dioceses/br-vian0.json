@@ -1,0 +1,29 @@
+{
+  "id": "br-vian0",
+  "nom": "Viana",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Viana / Vianen(sis) (Latin)Ecclesiastical Province: São Luís do MaranhãoNeighbouring Dioceses: Imperatriz (↙), Zé Doca (←), Pinheiro (↑), São Luís do Maranhão (↗), Coroatá (→), Bacabal (↘)Depends on: Dicastery for BishopsWebsite: CelebrationsLiturgical Calendar (National) 📅History1962.10.30: Established as Diocese of Viana / Vianen(sis) (Latin) (from Metropolitan Archdiocese of São Luís do Maranhão and became suffragan of São Luís do Maranhão)Present PrelatesBishop (2019.02.20 – ...):Bishop Evaldo Carvalho dos Santos, C.M. (57)Monsignors (2)OrdinariesBishops of Viana (Roman Rite)Bishop Evaldo Carvalho dos Santos, C.M. (57)  (2019.02.20 – ...)Bishop of Viana (Brazil)Quia misericordiamBorn:1969.03.09 (Fortaleza, CE, Brazil)Ordained Priest:1998.01.10Consecrated Bishop:2019.04.27Bishop of Viana (Brazil) (2019.02.20 – ...)Bishop Sebastião Lima Duarte (62)  (2010.07.07 – 2017.12.20)Bishop of Caxias do Maranhão (Brazil)Fiat voluntas tuaBorn:1964.04.03 (Carutapera, MA, Brazil)Ordained Priest:1991.11.30Consecrated Bishop:2010.09.18Priest of Zé Doca (Brazil) (1991.11.30 – 2010.07.07)Bishop of Viana (Brazil) (2010.07.07 – 2017.12.20)Bishop of Caxias do Maranhão (Brazil) (2017.12.20 – ...)Bishop Xavier Gilles de Maupeou d’Ableiges (91)  (1998.02.18 – 2010.07.07)Bishop emeritus of Viana (Brazil)Omnia Possum in eo qui me confortatBorn:1935.03.16 (Saumur, France)Ordained Priest:1962.06.30Consecrated Bishop:1995.09.03Priest of Le Mans (France) (1962.06.30 – 1995.08.02)Titular Bishop of Casæ medianæ (1995.08.02 – 1998.02.18)Auxiliary Bishop of São Luís do Maranhão (Brazil) (1995.08.02 – 1998.02.18)Bishop of Viana (Brazil) (1998.02.18 – 2010.07.07)Bishop Ricardo Pedro Paglia, M.S.C. (89)  (Apostolic Administrator 1995.05.24 – 1998.02.18)Bishop Ricardo Pedro Paglia, M.S.C. (89)  (Apostolic Administrator sede plena 1994 – 1995.05.24)Bishop Adalberto Paulo da Silva, O.F.M. Cap.  (1975.04.03 – 1995.05.24)Veni ministrareBorn:1929.01.25 (Sambaíba, MA, Brazil)Ordained Priest:1956.12.08Consecrated Bishop:1975.08.03Died:2025.07.30 (Fortaleza, CE, Brazil † 96)Bishop of Viana (Brazil) (1975.04.03 – 1995.05.24)Auxiliary Bishop of Fortaleza (Brazil) (1995.05.24 – 2004.03.24)Titular Bishop of Capsa (1995.05.24 – 2025.07.30)Bishop Francisco Hélio Campos  (1969.04.14 – 1975.01.23)Born:1912.07.24 (Itatira, CE, Brazil)Ordained Priest:1937.08.05Consecrated Bishop:1969.07.06Died:1975.01.23 († 62)Bishop of Viana (Brazil) (1969.04.14 – 1975.01.23)Bishop Amleto de Angelis, M.S.C.  (1963.05.30 – 1967.02.25)Born:1919.01.07 (Artena, Italy)Ordained Priest:1943.07.18Consecrated Bishop:1963.07.14Died:1967.02.25 († 48)Bishop of Viana (Brazil) (1963.05.30 – 1967.02.25)Special ChurchesCathedral:  Catedral Nossa Senhora da Conceição, Viana, Maranhão Jubilee Churches in the Holy Year 2025Churches by City (28)Show MapImperatriz (↙), Zé Doca (←), Pinheiro (↑), São Luís do Maranhão (↗), Coroatá (→), Bacabal (↘)Statistics (2022.12.31)Area: 26,000 km²Population: 525,000 Catholics (79.8% of 658,000 total)Pastoral Centres: 27 parishesPersonnel: 46 priests (33 diocesan, 13 religious), 4 deacons, 49 religious (28 brothers, 21 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "vian0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 658000,
+    "catholiques": 525000,
+    "pourcentage_catholiques": 79.8
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 46,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 27
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

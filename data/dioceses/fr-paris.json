@@ -1,0 +1,54 @@
+{
+  "id": "fr-paris",
+  "nom": "Paris",
+  "pays": "fr",
+  "continent": "europe",
+  "type": "Metropolitan Archdiocese",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": 105.4,
+    "population_totale": 2152860,
+    "catholiques": 1307750,
+    "pourcentage_catholiques": 60.7
+  },
+  "ressources": {
+    "pretres_diocesains": 637,
+    "pretres_religieux": 428,
+    "total_pretres": 1065,
+    "religieuses": 1211,
+    "diacres_permanents": 131,
+    "paroisses": 106,
+    "seminarians": 49
+  },
+  "sacrements_2021": {
+    "baptemes": 5432,
+    "confirmations": null,
+    "mariages": 2341,
+    "funerailles": null
+  },
+  "historique_clerge": [
+    { "annee": 2025, "pretres": 1065, "religieuses": 1211 },
+    { "annee": 2020, "pretres": 1092, "religieuses": 1250 },
+    { "annee": 2015, "pretres": 1120, "religieuses": 1290 }
+  ],
+  "communautes": {},
+  "source": "GCatholic.org + Catholic-Hierarchy.org + Rapport diocésain",
+  "derniere_mise_a_jour": "2026-07-12",
+  "rapport": {
+    "url": "https://dioceseparis.fr/rapport-annuel-2024",
+    "annee": 2024,
+    "baptemes": 5432,
+    "mariages": 2341,
+    "visiteurs_sanctuaires": 1270000,
+    "initiatives": [
+      "Catéchuménat",
+      "Accueil des migrants",
+      "Pastorale des jeunes",
+      "Dialogue interreligieux"
+    ]
+  },
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Archidioc%C3%A8se_de_Paris",
+    "conference_episcopale": "https://eglise.catholique.fr/conference-des-eveques-de-france/"
+  }
+}

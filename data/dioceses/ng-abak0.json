@@ -1,0 +1,29 @@
+{
+  "id": "ng-abak0",
+  "nom": "Abakaliki",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Abakaliki / Abakalikien(sis) (Latin)Ecclesiastical Province: OnitshaNeighbouring Dioceses: Awgu (↙), Enugu (←), Nsukka (↖), Gboko (↑), Ogoja (→)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (National) 📅History1973.03.01: Established as Diocese of Abakaliki / Abakalikien(sis) (Latin) (from Diocese of Ogoja and became suffragan of Onitsha)Present PrelatesBishop:vacantApostolic Administrator (2026.04.12 – ...):Bishop Ernest Anaezichukwu Obodo (59)Titular Bishop of MedianaAuxiliary Bishop of Enugu (Nigeria)Monsignors (12)OrdinariesBishops of Abakaliki (Roman Rite)Bishop Ernest Anaezichukwu Obodo (59)  (Apostolic Administrator 2026.04.12 – ...)Bishop Peter Nworie Chukwu  (2021.07.06 – 2026.04.10)Totus tuus ego sumBorn:1965.11.05 (Ededeagu Umuezekohohu, Nigeria)Ordained Priest:1993.07.03Consecrated Bishop:2021.08.19Died:2026.04.10 (Nigeria † 60)Priest of Abakaliki (Nigeria) (1993.07.03 – 2021.07.06)Bishop of Abakaliki (Nigeria) (2021.07.06 – 2026.04.10)Bishop Michael Nnachi Okoro (85)  (1983.02.19 – 2021.07.06)Bishop emeritus of Abakaliki (Nigeria)Sanctificetur nomen tuumBorn:1940.11.01 (Adiabo, Nigeria)Ordained Priest:1965.12.19Consecrated Bishop:1977.11.27Priest of Ogoja (Nigeria) (1965.12.19 – 1977.06.27)Titular Bishop of Catabum castra (1977.06.27 – 1983.02.19)Auxiliary Bishop of Abakaliki (Nigeria) (1977.06.27 – 1983.02.19)Bishop of Abakaliki (Nigeria) (1983.02.19 – 2021.07.06)Bishop Thomas McGettrick, S.P.S.  (1973.03.01 – 1983.02.19)Born:1905.12.22 (Emlegh, Ireland)Ordained Priest:1930.06.22Consecrated Bishop:1955.05.22Died:1988.12.17 († 82)Prefect Apostolic of Ogoja (Nigeria) (1939.11.10 – 1955.01.01)Bishop of Ogoja (Nigeria) (1955.01.01 – 1973.03.01)Bishop of Abakaliki (Nigeria) (1973.03.01 – 1983.02.19)Former PrelatesAuxiliary Bishop: Bishop Michael Nnachi Okoro (85) (1977.06.27 – 1983.02.19)Special ChurchesCathedral:  St. Theresa’s Cathedral, Abakaliki, Ebonyi Show MapAwgu (↙), Enugu (←), Nsukka (↖), Gboko (↑), Ogoja (→)Statistics (2022.12.31)Area: 6,342 km²Population: 664,200 Catholics (26.9% of 2,470,250 total)Pastoral Centres: 179 parishesPersonnel: 201 priests (190 diocesan, 11 religious), 226 religious (18 brothers, 208 sisters), 170 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "abak0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2470250,
+    "catholiques": 664200,
+    "pourcentage_catholiques": 26.9
+  },
+  "ressources": {
+    "pretres_diocesains": 190,
+    "pretres_religieux": null,
+    "total_pretres": 201,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 179
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

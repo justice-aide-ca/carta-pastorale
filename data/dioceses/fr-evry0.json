@@ -1,0 +1,29 @@
+{
+  "id": "fr-evry0",
+  "nom": "Évry–Corbeil-Essonnes",
+  "pays": "fr",
+  "pays_nom": "France",
+  "continent": "unknown",
+  "type": "Diocese Name: Évry–Corbeil-Essonnes / Evrien(sis)–Corbilien(sis)–Exonen(sis) (Latin)Ecclesiastical Province: ParisNeighbouring Dioceses: Chartres (←), Versailles (↖), Nanterre (↑), Créteil (↗), Meaux (↗), Orléans (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Notre Dame de Bonne Garde (May 31), Saint Corbinian (September 8), Saint Spire de Bayeux (August 1)Cathedral Dedication Anniversary: May 8Liturgical Calendar 📅History1966.10.09: Established as Diocese of Corbeil / Corbilien(sis) (Latin) (from Diocese of Versailles and became suffragan of Paris)1988.06.11: Renamed as Diocese of Évry–Corbeil-Essonnes / Evrien(sis)–Corbilien(sis)–Exonen(sis) (Latin)Papal VisitsPope John Paul II (1997.08)Present PrelatesBishop (2017.08.01 – ...):Bishop Michel Pansard (70)Monsignors (3)OrdinariesBishops of Évry–Corbeil-Essonnes (Roman Rite)Bishop Michel Pansard (70)  (2017.08.01 – ...)Bishop of Évry–Corbeil-Essonnes (France)À cause de l’évangileBorn:1955.07.16 (Rennes, France)Ordained Priest:1982.06.19Consecrated Bishop:2006.02.05Priest of Nanterre (France) (1982.06.19 – 2005.12.21)Bishop of Chartres (France) (2005.12.21 – 2017.08.01)Bishop of Évry–Corbeil-Essonnes (France) (2017.08.01 – ...)Bishop Michel Marie Jacques Dubost, C.I.M. (84)  (2000.04.15 – 2017.08.01)Bishop emeritus of Évry–Corbeil-Essonnes (France)Born:1942.04.15 (Safi, Morocco)Ordained Priest:1967.05.25Consecrated Bishop:1989.09.08Titular Bishop of Oëa (1989.08.09 – 1998.03.07)Military Ordinary of France (France) (1989.08.09 – 2000.04.15)Bishop of Évry–Corbeil-Essonnes (France) (2000.04.15 – 2017.08.01)Apostolic Administrator of Lyon (France) (2019.06.24 – 2020.10.22)Apostolic Administrator of Cayenne (French Guiana) (2021.04.07 – 2021.12.10)Bishop Guy Alexis Herbulot  (1988.06.11 – 2000.04.15)Préparez les chemins du SeigneurBorn:1925.03.07 (Saint-Menges, France)Ordained Priest:1950.06.29Consecrated Bishop:1974.09.08Died:2021.08.01 (Athis-Mons, France † 96)Priest of Reims (France) (1950.06.29 – 1974.06.20)Titular Bishop of Obbi (1974.06.20 – 1978.05.12)Auxiliary Bishop of Reims (France) (1974.06.20 – 1978.05.12)Bishop of Corbeil (France) (1978.05.12 – 1988.06.11)Bishop of Évry–Corbeil-Essonnes (France) (1988.06.11 – 2000.04.15)Bishops of Corbeil (Roman Rite)Bishop Guy Alexis Herbulot  (1978.05.12 – 1988.06.11)(see above)Bishop Albert-Georges-Yves Malbois  (1966.10.09 – 1977.09.13)Born:1915.11.17 (Versailles, France)Ordained Priest:1938.06.29Consecrated Bishop:1961.04.22Died:2017.02.12 (Saint-Germain-en-Laye, France † 101)Priest of Versailles (France) (1938.06.29 – 1961.03.09)Titular Bishop of Altava (1961.03.09 – 1966.10.09)Auxiliary Bishop of Versailles (France) (1961.03.09 – 1966.10.09)Bishop of Corbeil (France) (1966.10.09 – 1977.09.13)Former PrelatesAuxiliary Bishop: Bishop Yves-Marie-Henri Bescond (1971.01.26 – 1979.07.12)Special ChurchesCathedral:  Cathédrale de la Résurrection et Saint-Corbinien, Évry, Essonne, Île-de-France Co-Cathedral:  Co-cathédrale Saint-Spire, Corbeil-Essonnes, Essonne, Île-de-France Minor Basilica:  Basilique Notre-Dame de Bonne-Garde, Longpont-sur-Orge, Essonne, Île-de-France Jubilee Churches in the Holy Year 2025Churches by City (226)Show MapChartres (←), Versailles (↖), Nanterre (↑), Créteil (↗), Meaux (↗), Orléans (↓)Statistics (2022.12.31)Area: 1,804 km²Population: 905,200 Catholics (69.3% of 1,306,118 total)Pastoral Centres: 95 parishesPersonnel: 142 priests (100 diocesan, 42 religious), 39 deacons, 324 religious (102 brothers, 222 sisters), 1 seminarianPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "evry0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1306118,
+    "catholiques": 905200,
+    "pourcentage_catholiques": 69.3
+  },
+  "ressources": {
+    "pretres_diocesains": 100,
+    "pretres_religieux": null,
+    "total_pretres": 142,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 95
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

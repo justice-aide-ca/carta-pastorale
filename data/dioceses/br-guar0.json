@@ -1,0 +1,29 @@
+{
+  "id": "br-guar0",
+  "nom": "Guarabira",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Guarabira / Guarabiren(sis) (Latin)Ecclesiastical Province: ParaíbaNeighbouring Dioceses: Campina Grande (↙), Natal (↑), Paraíba (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nossa Senhora da Luz (February 2)Cathedral Dedication Anniversary: October 11 (2020)Liturgical Calendar (National) 📅History1980.10.11: Established as Diocese of Guarabira / Guarabiren(sis) (Latin) (from Metropolitan Archdiocese of Paraíba and became suffragan of Paraíba)1999.11.20: Gained territory from Metropolitan Archdiocese of ParaíbaPresent PrelatesBishop (2026.05.13 – ...):Bishop Edilson Soares Nobre (61)Monsignors (2)OrdinariesBishops of Guarabira (Roman Rite)Bishop Edilson Soares Nobre (61)  (2026.05.13 – ...)Bishop of Guarabira (Brazil)In omnes caritasBorn:1965.05.09 (Touros, RN, Brazil)Ordained Priest:1991.04.06Consecrated Bishop:2017.03.20Priest of Natal (Brazil) (1991.04.06 – 2017.01.11)Bishop of Oeiras (Brazil) (2017.01.11 – 2026.05.13)Bishop of Guarabira (Brazil) (2026.05.13 – ...)Bishop Aldemiro Sena dos Santos (62)  (2017.10.04 – 2026.02.04)Bishop of Teixeira de Freitas–Caravelas (Brazil)Servite in lætitiaBorn:1964.06.26 (Ibirataia, BA, Brazil)Ordained Priest:1992.12.20Consecrated Bishop:2017.12.17Priest of Ilhéus (Brazil) (1992.12.20 – 2017.10.04)Bishop of Guarabira (Brazil) (2017.10.04 – 2026.02.04)Bishop of Teixeira de Freitas–Caravelas (Brazil) (2026.02.04 – ...)Bishop Francisco de Assis Dantas de Lucena (62)  (2008.05.28 – 2016.07.13)Bishop of Nazaré (Brazil)Lux vestra luceatBorn:1963.10.19 (Jardim do Seridó, RN, Brazil)Ordained Priest:1991.07.21Consecrated Bishop:2008.08.17Priest of Caicó (Brazil) (1991.07.21 – 2008.05.28)Bishop of Guarabira (Brazil) (2008.05.28 – 2016.07.13)Bishop of Nazaré (Brazil) (2016.07.13 – ...)Bishop Antônio Muniz Fernandes, O. Carm. (73) (later Archbishop)  (1998.02.04 – 2006.11.22)Metropolitan Archbishop emeritus of Maceió (Brazil)Erit vester servusBorn:1952.08.11 (Princesa Isabel, PB, Brazil)Ordained Priest:1980.05.24Consecrated Bishop:1998.05.24Bishop of Guarabira (Brazil) (1998.02.04 – 2006.11.22)Metropolitan Archbishop of Maceió (Brazil) (2006.11.22 – 2024.04.03)Bishop Marcelo Pinto Carvalheira (later Archbishop)  (1981.11.09 – 1995.11.29)EvangelizareBorn:1928.05.01 (Recife, PE, Brazil)Ordained Priest:1953.02.28Consecrated Bishop:1975.12.27Died:2017.03.25 (Recife, PE, Brazil † 88)Titular Bishop of Bitylius (1975.10.29 – 1981.11.09)Auxiliary Bishop of Paraíba (Brazil) (1975.10.29 – 1981.11.09)Bishop of Guarabira (Brazil) (1981.11.09 – 1995.11.29)Metropolitan Archbishop of Paraíba (Brazil) (1995.11.29 – 2004.05.05)Vice-President of National Conference of Bishops of Brazil (1998 – 2003)Special ChurchesCathedral:  Catedral Nossa Senhora da Luz, Guarabira, Paraíba Churches by City (32)Show MapCampina Grande (↙), Natal (↑), Paraíba (↘)Statistics (2022.12.31)Area: 4,391 km²Population: 435,000 Catholics (88.4% of 492,000 total)Pastoral Centres: 38 parishesPersonnel: 59 priests (52 diocesan, 7 religious), 19 deacons, 64 religious (9 brothers, 55 sisters), 29 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "guar0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 492000,
+    "catholiques": 435000,
+    "pourcentage_catholiques": 88.4
+  },
+  "ressources": {
+    "pretres_diocesains": 52,
+    "pretres_religieux": null,
+    "total_pretres": 59,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 38
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

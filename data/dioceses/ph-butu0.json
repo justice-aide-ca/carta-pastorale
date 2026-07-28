@@ -1,0 +1,29 @@
+{
+  "id": "ph-butu0",
+  "nom": "Butuan",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Diocese Name: Butuan / Butuanen(sis) (Latin)Ecclesiastical Province: Cagayan de OroNeighbouring Dioceses: Cagayan de Oro (←), Surigao (↑), Tandag (→), Prosperidad (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Saint Joseph (March 19)Cathedral Dedication Anniversary: July 9Liturgical Calendar (National) 📅History1967.03.20: Established as Diocese of Butuan / Butuanen(sis) (Latin) (from Diocese of Surigao and became suffragan of Cagayan de Oro)2024.10.15: Lost territory to establish Diocese of ProsperidadPresent PrelatesBishop (2019.03.25 – ...):Bishop Cosme Damian Racines Almedilla (66)Monsignors (6)OrdinariesBishops of Butuan (Roman Rite)Bishop Cosme Damian Racines Almedilla (66)  (2019.03.25 – ...)Bishop of Butuan (Philippines)Pasce oves measBorn:1959.09.27 (Capayas, Philippines)Ordained Priest:1987.08.04Consecrated Bishop:2019.06.25Priest of Talibon (Philippines) (1987.08.04 – 2019.03.25)Bishop of Butuan (Philippines) (2019.03.25 – ...)Archbishop Antonio Javellana Ledesma, S.J. (83)  (Apostolic Administrator 2017.10.23 – 2019.03.25)Bishop Juan de Dios Mataflorida Pueblos  (1995.11.27 – 2017.10.21)Sic luceat lux vestra in nosBorn:1943.03.08 (Loon, Philippines)Ordained Priest:1968.03.30Consecrated Bishop:1985.06.24Died:2017.10.21 (San Juan City, Philippines † 74)Titular Bishop of Zaba (1985.04.29 – 1987.02.03)Auxiliary Bishop of Davao (Philippines) (1985.04.29 – 1987.02.03)Bishop of Kidapawan (Philippines) (1987.02.03 – 1995.11.27)Bishop of Butuan (Philippines) (1995.11.27 – 2017.10.21)Bishop Carmelo Dominador Flores Morelos (later Archbishop)  (1967.04.04 – 1994.12.08)Ego veni ut serviamus tibiBorn:1930.12.11 (Sorsogon, Philippines)Ordained Priest:1954.04.03Consecrated Bishop:1967.07.05Died:2016.09.17 († 85)Bishop of Butuan (Philippines) (1967.04.04 – 1994.12.08)President of Catholic Bishops’ Conference of the Philippines (C.B.C.P.) (1991 – 1995)Metropolitan Archbishop of Zamboanga (Philippines) (1994.12.08 – 2006.11.13)Former PrelatesAuxiliary Bishop: Bishop Zacharias Cenita Jimenez (2003.06.11 – 2009.05.07)Auxiliary Bishop: Bishop Jose Paala Salazar, O.P. (2002.11.23 – 2003.06.11)Special ChurchesCathedral:  St. Joseph Cathedral Shrine, Butuan City, Agusan del Norte, Caraga Jubilee Churches in the Holy Year 2025Churches by City (27)Show MapCagayan de Oro (←), Surigao (↑), Tandag (→), Prosperidad (↓)Statistics (2024)Area: 3,429 km²Population: 490,326 Catholics (64.5% of 760,413 total)Pastoral Centres: 28 parishes, 3 missionsPersonnel: 88 priests (76 diocesan, 12 religious), 71 religious (1 brother, 70 sisters), 70 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "butu0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 760413,
+    "catholiques": 490326,
+    "pourcentage_catholiques": 64.5
+  },
+  "ressources": {
+    "pretres_diocesains": 76,
+    "pretres_religieux": null,
+    "total_pretres": 88,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 28
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

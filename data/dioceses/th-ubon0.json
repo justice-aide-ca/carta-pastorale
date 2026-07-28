@@ -1,0 +1,29 @@
+{
+  "id": "th-ubon0",
+  "nom": "Ubon Ratchathani",
+  "pays": "th",
+  "pays_nom": "Thailand",
+  "continent": "unknown",
+  "type": "Diocese Name: Ubon Ratchathani / สังฆมณฑลอุบลราชธานี (ไทย) / 烏汶叻差他尼 (正體中文) / Ubonratchatanien(sis) (Latin)Ecclesiastical Province: Tharé–NonsengNeighbouring Dioceses: Bătdâmbâng (↙), Nakhon Ratchasima (←), Udon Thani (↖), Tharé–Nonseng (↑), Savannakhet (↗), Pakse (→)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1953.05.07: Established as Apostolic Vicariate of Ubon / Ubonen(sis) (Latin) (from Apostolic Vicariate of Thare)1965.03.22: Lost territory to establish Apostolic Vicariate of Nakhorn-Rajasima1965.12.18: Promoted as Diocese of Ubon / Ubonen(sis) (Latin) (became suffragan of Thare and Nonseng)1969.07.02: Renamed as Diocese of Ubon Ratchathani / สังฆมณฑลอุบลราชธานี (ไทย) / 烏汶叻差他尼 (正體中文) / Ubonratchatanien(sis) (Latin)Present PrelatesBishop (2023.12.02 – ...):Bishop Stephen Boonlert Phromsena (66)OrdinariesBishops of Ubon Ratchathani (Roman Rite)Bishop Stephen Boonlert Phromsena (66)  (2023.12.02 – ...)Bishop of Ubon Ratchathani (Thailand)Born:1960.02.24 (Ban Sithan, Thailand)Ordained Priest:1987.05.08Consecrated Bishop:2024.02.24Priest of Ubon Ratchathani (Thailand) (1987.05.08 – 2023.12.02)Bishop of Ubon Ratchathani (Thailand) (2023.12.02 – ...)Bishop Philip Banchong Chaiyara, C.SS.R. (81)  (2006.03.25 – 2023.12.02)Bishop emeritus of Ubon Ratchathani (Thailand)Nolite timereBorn:1945.01.30 (Chang Ming, Thailand)Ordained Priest:1975.06.12Consecrated Bishop:2006.06.27Bishop of Ubon Ratchathani (Thailand) (2006.03.25 – 2023.12.02)Bishop Michael Bunluen Mansap  (1976.05.21 – 2006.03.25)Born:1929.04.02 (Watpleng, Thailand)Ordained Priest:1951.12.21Consecrated Bishop:1976.08.12Died:2010.12.02 († 81)Priest of Ratchaburi (Thailand) (1951.12.21 – 1976.05.21)Bishop of Ubon Ratchathani (Thailand) (1976.05.21 – 2006.03.25)Bishop Claude Germain Berthold, M.E.P.  (1970.04.09 – 1976.05.21)Born:1923.03.22 (Ocourt, Switzerland)Ordained Priest:1953.05.31Consecrated Bishop:1970.07.17Died:1994.02.22 (Ubon Ratchathani, Thailand † 70)Bishop of Ubon Ratchathani (Thailand) (1970.04.09 – 1976.05.21)Bishop Claude-Philippe Bayet, M.E.P.  (1969.07.02 – 1969.08.13)Born:1900.02.08 (Apinac, France)Ordained Priest:1925.03.28Consecrated Bishop:1947.10.03Died:1990.08.19 († 90)Vicar Apostolic of Laos (Thailand) (1947.04.10 – 1950.12.21)Titular Bishop of Cidyessus (1947.04.10 – 1965.12.18)Vicar Apostolic of Thare (Thailand) (1950.12.21 – 1953.03.07)Vicar Apostolic of Ubon (Thailand) (1953.03.07 – 1965.12.18)President of Catholic Bishops’ Conference of Thailand (1964 – 1970)Bishop of Ubon (Thailand) (1965.12.18 – 1969.07.02)Bishop of Ubon Ratchathani (Thailand) (1969.07.02 – 1969.08.13)Titular Bishop of Mascula (1969.08.13 – 1970.12.22)Bishops of Ubon (Roman Rite)Bishop Claude-Philippe Bayet, M.E.P.  (1965.12.18 – 1969.07.02)(see above)Vicars Apostolic of Ubon (Roman Rite)Bishop Claude-Philippe Bayet, M.E.P.  (1953.03.07 – 1965.12.18)(see above)Special ChurchesCathedral:  Cathedral of the Immaculate Conception, Ubon Ratchathani, Ubon Ratchathani Jubilee Churches in the Holy Year 2025Show MapBătdâmbâng (↙), Nakhon Ratchasima (←), Udon Thani (↖), Tharé–Nonseng (↑), Savannakhet (↗), Pakse (→)Statistics (2022.12.31)Area: 53,917 km²Population: 24,668 Catholics (0.3% of 7,825,099 total)Pastoral Centres: 60 parishesPersonnel: 35 priests (34 diocesan, 1 religious), 138 religious (4 brothers, 134 sisters), 18 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ubon0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 7825099,
+    "catholiques": 24668,
+    "pourcentage_catholiques": 0.3
+  },
+  "ressources": {
+    "pretres_diocesains": 34,
+    "pretres_religieux": null,
+    "total_pretres": 35,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 60
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

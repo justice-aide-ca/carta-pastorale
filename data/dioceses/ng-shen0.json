@@ -1,0 +1,29 @@
+{
+  "id": "ng-shen0",
+  "nom": "Shendam",
+  "pays": "ng",
+  "pays_nom": "Nigeria",
+  "continent": "unknown",
+  "type": "Diocese Name: Shendam / Shendamen(sis) (Latin)Ecclesiastical Province: JosNeighbouring Dioceses: Makurdi (↙), Lafia (←), Pankshin (↑), Jalingo (→), Wukari (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History2007.06.02: Established as Diocese of Shendam / Shendamen(sis) (Latin) (from Metropolitan Archdiocese of Jos and became suffragan of Jos)2014.03.18: Lost territory to establish Diocese of PankshinPresent PrelatesBishop (2016.11.05 – ...):Bishop Philip Davou Dung (67)OrdinariesBishops of Shendam (Roman Rite)Bishop Philip Davou Dung (67)  (2016.11.05 – ...)Bishop of Shendam (Nigeria)Christus spes nostraBorn:1958.08.19 (Kuru Station, Nigeria)Ordained Priest:1984.11.24Consecrated Bishop:2017.01.11Priest of Jos (Nigeria) (1984.11.24 – 2016.11.05)Bishop of Shendam (Nigeria) (2016.11.05 – ...)Bishop James Naanman Daman, O.S.A.  (2007.06.02 – 2015.01.12)Born:1956.04.10 (Kwa, Nigeria)Ordained Priest:1982.02.14Consecrated Bishop:2001.02.24Died:2015.01.12 († 58)Bishop of Jalingo (Nigeria) (2000.12.05 – 2007.06.02)Apostolic Administrator of Jalingo (Nigeria) (2007.06.02 – 2008.04.16)Bishop of Shendam (Nigeria) (2007.06.02 – 2015.01.12)Special ChurchesCathedral:  Cathedral of the Sacred Heart of Jesus, Shendam, Plateau Show MapMakurdi (↙), Lafia (←), Pankshin (↑), Jalingo (→), Wukari (↓)Statistics (2022.12.31)Area: 11,644 km²Population: 228,341 Catholics (13.4% of 1,708,923 total)Pastoral Centres: 39 parishes, 3 missionsPersonnel: 63 priests (62 diocesan, 1 religious), 20 religious (1 brother, 19 sisters), 39 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "shen0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1708923,
+    "catholiques": 228341,
+    "pourcentage_catholiques": 13.4
+  },
+  "ressources": {
+    "pretres_diocesains": 62,
+    "pretres_religieux": null,
+    "total_pretres": 63,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 39
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

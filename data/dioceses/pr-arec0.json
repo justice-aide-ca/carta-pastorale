@@ -1,0 +1,29 @@
+{
+  "id": "pr-arec0",
+  "nom": "Arecibo",
+  "pays": "pr",
+  "pays_nom": "Puerto Rico",
+  "continent": "unknown",
+  "type": "Diocese Name: Arecibo / Areciben(sis) (Latin)Ecclesiastical Province: San Juan de Puerto RicoNeighbouring Dioceses: Mayagüez (←), San Juan de Puerto Rico (→), Caguas (↘), Ponce (↓)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nuestra Señora del Perpetuo Socorro (June 27)Cathedral Dedication Anniversary: September 26Liturgical Calendar 📅History1960.04.30: Established as Diocese of Arecibo / Areciben(sis) (Latin) (from Diocese of Ponce and Diocese of San Juan de Puerto Rico and became suffragan of San Juan de Puerto Rico)1968.10.21: Lost territory to Metropolitan Archdiocese of San Juan de Puerto Rico1976.03.01: Lost territory to establish Diocese of MayagüezPresent PrelatesBishop (2022.09.14 – ...):Bishop Alberto Arturo Figueroa Morales (64)General Secretary of Episcopal Conference of Puerto RicoMonsignors (8)OrdinariesBishops of Arecibo (Roman Rite)Bishop Alberto Arturo Figueroa Morales (64)  (2022.09.14 – ...)Bishop of Arecibo (Puerto Rico)General Secretary of Episcopal Conference of Puerto RicoAdonde no hay amor, pon amor y sacarás amorBorn:1961.08.09 (Guaynabo, Puerto Rico)Ordained Priest:1990.06.02Consecrated Bishop:2019.12.27Priest of Arecibo (Puerto Rico) (1990.06.02 – 1991)Priest of Order of Friars Minor Capuchin (Capuchin Franciscans) (1991 – 2010)Priest of San Juan de Puerto Rico (Puerto Rico) (2010 – 2019.11.19)Titular Bishop of Phelbes (2019.11.19 – 2022.09.14)Auxiliary Bishop of San Juan de Puerto Rico (Puerto Rico) (2019.11.19 – 2022.09.14)General Secretary of Episcopal Conference of Puerto Rico (2020 – ...)Bishop of Arecibo (Puerto Rico) (2022.09.14 – ...)Bishop Álvaro Corrada Del Río, S.J. (84)  (Apostolic Administrator 2022.03.09 – 2022.09.14)Bishop Daniel Fernández Torres (62)  (2010.09.24 – 2022.03.09 deposed)Bishop emeritus of Arecibo (Puerto Rico)No hay temor en el amorBorn:1964.04.27 (Chicago, IL, USA)Ordained Priest:1995.01.07Consecrated Bishop:2007.04.21Priest of Arecibo (Puerto Rico) (1995.01.07 – 2007.02.14)Titular Bishop of Sufes (2007.02.14 – 2010.09.24)Auxiliary Bishop of San Juan de Puerto Rico (Puerto Rico) (2007.02.14 – 2010.09.24)Bishop of Arecibo (Puerto Rico) (2010.09.24 – 2022.03.09 deposed)General Secretary of Episcopal Conference of Puerto Rico (2012.12 – 2015)Bishop Iñaki Mallona Txertudi, C.P.  (1991.12.14 – 2010.09.24)Born:1932.07.01 (Frúniz, Spain)Ordained Priest:1956.03.27Consecrated Bishop:1992.01.06Died:2021.05.03 (Lares, Puerto Rico † 88)Bishop of Arecibo (Puerto Rico) (1991.12.14 – 2010.09.24)President of Episcopal Conference of Puerto Rico (1994 – 1997)Bishop Miguel Rodriguez Rodriguez, C.SS.R.  (1974.01.21 – 1990.03.20)Born:1931.04.18 (Mayaguez, Puerto Rico)Ordained Priest:1958.06.22Consecrated Bishop:1974.03.23Died:2001.08.13 (Arecibo, Puerto Rico † 70)Bishop of Arecibo (Puerto Rico) (1974.01.21 – 1990.03.20)Bishop Alfredo José Isaac Cecilio Francesco Méndez-Gonzalez, C.S.C.  (1960.07.23 – 1974.01.21)Born:1907.06.03 (Chicago, IL, USA)Ordained Priest:1935.06.24Consecrated Bishop:1960.10.28Died:1995.01.29 (Cincinnati, OH, USA † 87)Bishop of Arecibo (Puerto Rico) (1960.07.23 – 1974.01.21)Special ChurchesCathedral:  Catedral de San Felipe Apóstol, Arecibo Jubilee Churches in the Holy Year 2025Churches by City (63)Show MapMayagüez (←), San Juan de Puerto Rico (→), Caguas (↘), Ponce (↓)Statistics (2022.12.31)Area: 2,157 km²Population: 307,903 Catholics (56.0% of 549,827 total)Pastoral Centres: 58 parishesPersonnel: 80 priests (51 diocesan, 29 religious), 54 deacons, 156 religious (35 brothers, 121 sisters), 3 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "arec0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 549827,
+    "catholiques": 307903,
+    "pourcentage_catholiques": 56.0
+  },
+  "ressources": {
+    "pretres_diocesains": 51,
+    "pretres_religieux": null,
+    "total_pretres": 80,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 58
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sr-kuru0",
+  "nom": "Kurunegala",
+  "pays": "sr",
+  "pays_nom": "Sri Lanka",
+  "continent": "unknown",
+  "type": "Diocese Name: Kurunegala / Kurunegalaën(sis) (Latin)Ecclesiastical Province: ColomboNeighbouring Dioceses: Colombo (↙), Chilaw (←), Anuradhapura (↑), Kandy (↘), Ratnapura (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsPatron Saint: Saint Anne (July 26)Liturgical Calendar (Universal) 📅History1987.05.15: Established as Diocese of Kurunegala / Kurunegalaën(sis) (Latin) (from Diocese of Chilaw and became suffragan of Colombo)Present PrelatesBishop (2009.05.14 – ...):Bishop Harold Anthony Perera (75)President of Bishops’ Conference of Sri LankaOrdinariesBishops of Kurunegala (Roman Rite)Bishop Harold Anthony Perera (75)  (2009.05.14 – ...)Bishop of Kurunegala (Sri Lanka)President of Bishops’ Conference of Sri LankaCaritas est vinculum pacisBorn:1951.06.09 (Bopitiya, Sri Lanka)Ordained Priest:1980.07.05Consecrated Bishop:2003.03.18Priest of Colombo (Sri Lanka) (1980.07.05 – 2003.01.29)Bishop of Ratnapura (Sri Lanka) (2003.01.29 – 2005.02.15)Bishop of Galle (Sri Lanka) (2005.02.15 – 2009.05.14)Apostolic Administrator of Ratnapura (Sri Lanka) (2006.07 – 2007.05.04)Bishop of Kurunegala (Sri Lanka) (2009.05.14 – ...)President of Bishops’ Conference of Sri Lanka (2022.06.10 – ...)Bishop Anthony Leopold Raymond Peiris  (1987.05.15 – 2009.05.14)Harmonious bond with Jesus ChristBorn:1932.08.09 (Kalaeliya, Sri Lanka)Ordained Priest:1958.12.20Consecrated Bishop:1987.07.18Died:2017.09.29 (Kurunegala, Sri Lanka † 85)Bishop of Kurunegala (Sri Lanka) (1987.05.15 – 2009.05.14)Special ChurchesCathedral:  Cathedral of St. Anne, Kurunegala, North Western Show MapColombo (↙), Chilaw (←), Anuradhapura (↑), Kandy (↘), Ratnapura (↓)Statistics (2022.12.31)Area: 4,816 km²Population: 56,658 Catholics (3.3% of 1,743,000 total)Pastoral Centres: 37 parishes, 6 missionsPersonnel: 73 priests (63 diocesan, 10 religious), 80 religious (13 brothers, 67 sisters), 11 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "kuru0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1743000,
+    "catholiques": 56658,
+    "pourcentage_catholiques": 3.3
+  },
+  "ressources": {
+    "pretres_diocesains": 63,
+    "pretres_religieux": null,
+    "total_pretres": 73,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 37
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

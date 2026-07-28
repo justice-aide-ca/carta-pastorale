@@ -1,0 +1,29 @@
+{
+  "id": "it-ital1",
+  "nom": "Italy",
+  "pays": "it",
+  "pays_nom": "Italy",
+  "continent": "unknown",
+  "type": "Apostolic Exarchate Name: Italy / Italiæ (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Saint-Vladimir-le-Grand de Paris (↖), Deutschland und Skandinavien (↑)Depends on: Dicastery for the Eastern ChurchesWebsite: History2019.07.11: Established as Apostolic Exarchate of Italy / Italiæ (Latin)Papal VisitsPope Paul VI (1969.09)Pope Francis (2018.01)Present PrelatesApostolic Exarch:vacantApostolic Administrator (2025.03.07 – ...):Bishop Hryhoriy Komar (50)Titular Bishop of AcciOrdinariesApostolic Exarchs of Italy (Ukrainian Rite)Bishop Hryhoriy Komar (50)  (Apostolic Administrator 2025.03.07 – ...)Bishop Paulo Dionisio Lachovicz, O.S.B.M. (80)  (2020.10.24 – 2025.03.07)Apostolic Exarch emeritus of Italy of the Ukrainians (Italy)Я між вами як той, що служитьBorn:1946.07.02 (Pombas, SE, Brazil)Ordained Priest:1972.12.08Consecrated Bishop:2006.02.26Protoarchimandrite of Basilian Order of Saint Josaphat (1996 – 2004.07.16)Bishop of Curia of the Ukrainians (2005.12.21 – 2009.01.19)Titular Bishop of Egnatia (2005.12.21 – 2020.10.24)Apostolic Visitator in Italy and Spain of the Ukrainians (2009.01.19 – 2016.06.09)Apostolic Visitator in Italy of the Ukrainians (2016.06.09 – 2019.07.11)Apostolic Delegate for Italy of the Ukrainians (Italy) (2019.09.05 – 2020.10.24)Apostolic Exarch of Italy of the Ukrainians (Italy) (2020.10.24 – 2025.03.07)Cardinal Angelo De Donatis (72)  (Apostolic Administrator 2019.07.11 – 2020.10.24)Former PrelatesApostolic Delegate: Bishop Paulo Dionisio Lachovicz, O.S.B.M. (80) (2019.09.05 – 2020.10.24)Special ChurchesCathedral:  Cattedrale di Santi Sergio e Bacco degli Ucraini, Roma, Roma, Lazio Minor Basilica:  Basilica di Santa Sofia, Roma, Roma, Lazio World Heritage Site (Minor):  Chiesa Santi Simone e Giuda, Firenze, Firenze, Toscana Jubilee Churches in the Holy Year 2025Churches by City (8)Show MapSaint-Vladimir-le-Grand de Paris (↖), Deutschland und Skandinavien (↑)Statistics (2022.12.31)Population: 68,470 CatholicsPastoral Centres: 2 parishes, 171 missionsPersonnel: 105 priests (88 diocesan, 17 religious), 85 religious (26 brothers, 59 sisters), 4 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "ital1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 88,
+    "pretres_religieux": null,
+    "total_pretres": 105,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 2
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

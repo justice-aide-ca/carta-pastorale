@@ -1,0 +1,29 @@
+{
+  "id": "cd-doli0",
+  "nom": "Dolisie",
+  "pays": "cd",
+  "pays_nom": "Congo-Brazzaville",
+  "continent": "unknown",
+  "type": "Diocese Name: Dolisie / Dolisien(sis) (Latin)Ecclesiastical Province: Pointe-NoireNeighbouring Dioceses: Pointe-Noire (↙), Mouila (↖), Franceville (↑), Nkayi (→), Boma (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History2013.05.24: Established as Diocese of Dolisie / Dolisien(sis) (Latin) (from Diocese of Nkayi and became suffragan of Brazzaville)2020.05.30: Became suffragan of Pointe-NoirePresent PrelatesBishop (2022.05.11 – ...):Bishop Toussaint Ngoma Foumanet, C.S.Sp. (50)OrdinariesBishops of Dolisie (Roman Rite)Bishop Toussaint Ngoma Foumanet, C.S.Sp. (50)  (2022.05.11 – ...)Bishop of Dolisie (Congo-Brazzaville)Deus caritas estBorn:1975.11.01 (Sibiti, Congo-Brazzaville)Ordained Priest:2008.07.26Consecrated Bishop:2022.07.31Bishop of Dolisie (Congo-Brazzaville) (2022.05.11 – ...)Archbishop Bienvenu Manamika Bafouakouahou (61)  (Apostolic Administrator 2020.04.18 – 2022.05.11)Bishop Bienvenu Manamika Bafouakouahou (61) (later Archbishop)  (2013.05.24 – 2020.04.18)Metropolitan Archbishop of Brazzaville (Congo-Brazzaville)President of Episcopal Conference of CongoConfirma fratres tuosBorn:1964.10.16 (Brazzaville, Congo-Brazzaville)Ordained Priest:1993.08.29Consecrated Bishop:2013.08.25Priest of Kinkala (Congo-Brazzaville) (1993.08.29 – 2013.05.24)Bishop of Dolisie (Congo-Brazzaville) (2013.05.24 – 2020.04.18)Coadjutor Archbishop of Brazzaville (Congo-Brazzaville) (2020.04.18 – 2021.11.21)Apostolic Administrator of Dolisie (Congo-Brazzaville) (2020.04.18 – 2022.05.11)Metropolitan Archbishop of Brazzaville (Congo-Brazzaville) (2021.11.21 – ...)President of Episcopal Conference of Congo (2022.05.01 – ...)Special ChurchesCathedral:  Cathédrale Saint-Paul, Dolisie, Niari Show MapPointe-Noire (↙), Mouila (↖), Franceville (↑), Nkayi (→), Boma (↓)Statistics (2022.12.31)Area: 25,942 km²Population: 103,700 Catholics (34.6% of 300,000 total)Pastoral Centres: 15 parishesPersonnel: 34 priests (diocesan), 24 religious (18 brothers, 6 sisters), 31 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "doli0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 300000,
+    "catholiques": 103700,
+    "pourcentage_catholiques": 34.6
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 15
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

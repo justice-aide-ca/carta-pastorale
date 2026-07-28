@@ -1,0 +1,29 @@
+{
+  "id": "us-lake0",
+  "nom": "Lake Charles",
+  "pays": "us",
+  "pays_nom": "USA",
+  "continent": "amerique",
+  "type": "Diocese Name: Lake Charles / Lacus Carolini (Latin)Ecclesiastical Province: New OrleansNeighbouring Dioceses: Beaumont (←), Alexandria (↑), Lafayette in Louisiana (→)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Peter Claver (September 10)Cathedral Dedication Anniversary: August 31Liturgical Calendar 📅History1980.01.29: Established as Diocese of Lake Charles / Lacus Carolini (Latin) (from Diocese of Lafayette in Louisiana and became suffragan of New Orleans)Contact InfoAddress: 414 Iris St., P.O. Box 3223, Lake Charles, LA 70602, USAPhone: +1 (337) 439-7400Present PrelatesBishop (2007.03.06 – ...):Bishop Glen John Provost (76)Monsignors (8)OrdinariesBishops of Lake Charles (Roman Rite)Bishop Glen John Provost (76)  (2007.03.06 – ...)Bishop of Lake Charles (USA)Pro venturis seritBorn:1949.08.09 (Lafayette, LA, USA)Ordained Priest:1975.06.29Consecrated Bishop:2007.04.23Priest of Lafayette in Louisiana (USA) (1975.06.29 – 2007.03.06)Chaplain of His Holiness (1988.07.08 – 2007.03.06)Bishop of Lake Charles (USA) (2007.03.06 – ...)Bishop Edward Kenneth Braxton (82)  (2000.12.12 – 2005.03.15)Bishop emeritus of Belleville (USA)Mane nobiscum DomineBorn:1944.06.28 (Chicago, IL, USA)Ordained Priest:1970.05.13Consecrated Bishop:1995.05.17Priest of Chicago (USA) (1970.05.13 – 1995.03.28)Titular Bishop of Macomades rusticiana (1995.03.28 – 2000.12.12)Auxiliary Bishop of Saint Louis (USA) (1995.03.28 – 2000.12.12)Bishop of Lake Charles (USA) (2000.12.12 – 2005.03.15)Bishop of Belleville (USA) (2005.03.15 – 2020.04.03)Bishop Jude Speyrer  (1980.01.29 – 2000.12.12)To bring glad tidingsBorn:1929.04.14 (Leonville, LA, USA)Ordained Priest:1953.07.25Consecrated Bishop:1980.04.25Died:2013.07.21 (Opelousas, LA, USA † 84)Priest of Lafayette in Louisiana (USA) (1953.07.25 – 1980.01.29)Bishop of Lake Charles (USA) (1980.01.29 – 2000.12.12)Special ChurchesCathedral:  Immaculate Conception Cathedral, Lake Charles, Louisiana Jubilee Churches in the Holy Year 2025Churches by City (47)Show MapBeaumont (←), Alexandria (↑), Lafayette in Louisiana (→)Statistics (2022.12.31)Area: 14,548 km²Population: 100,075 Catholics (31.8% of 314,529 total)Pastoral Centres: 37 parishesPersonnel: 60 priests (41 diocesan, 19 religious), 31 deacons, 33 religious (20 brothers, 13 sisters), 9 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "lake0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 314529,
+    "catholiques": 100075,
+    "pourcentage_catholiques": 31.8
+  },
+  "ressources": {
+    "pretres_diocesains": 41,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 37
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

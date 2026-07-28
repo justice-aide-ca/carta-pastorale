@@ -1,0 +1,29 @@
+{
+  "id": "in-ambi0",
+  "nom": "Ambikapur",
+  "pays": "in",
+  "pays_nom": "India",
+  "continent": "unknown",
+  "type": "Diocese Name: Ambikapur / Ambikapuren(sis) (Latin)Ecclesiastical Province: RaipurNeighbouring Dioceses: Raipur (↙), Jabalpur (←), Satna (↖), Allahabad (↑), Daltonganj (↗), Gumla (→), Jashpur (→), Raigarh (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Immaculate Mother of GodLiturgical Calendar (National) 📅History1977.11.10: Established as Diocese of Ambikapur / Ambikapuren(sis) (Latin) (from Diocese of Raigarh–Ambikapur and became suffragan of Bhopal)2004.02.27: Became suffragan of RaipurPresent PrelatesBishop (2021.12.22 – ...):Bishop Antonis Bara (68)OrdinariesBishops of Ambikapur (Roman Rite)Bishop Antonis Bara (68)  (2021.12.22 – ...)Bishop of Ambikapur (India)Born:1958.03.02 (Shobha, India)Ordained Priest:1988.05.13Consecrated Bishop:2022.02.22Priest of Ambikapur (India) (1988.05.13 – 2021.12.22)Bishop of Ambikapur (India) (2021.12.22 – ...)Bishop Patras Minj, S.J. (81)  (1996.07.05 – 2021.12.22)Bishop emeritus of Ambikapur (India)Duc in altumBorn:1944.12.23 (Tapkara, India)Ordained Priest:1977.04.30Consecrated Bishop:1996.10.18Bishop of Ambikapur (India) (1996.07.05 – 2021.12.22)Bishop Paschal Topno, S.J. (later Archbishop)  (1985.10.28 – 1994.03.26)Rise to the highestBorn:1932.06.15 (Torpa, India)Ordained Priest:1965.07.31Consecrated Bishop:1986.01.18Died:2025.04.06 (Ambikapur, India † 92)Bishop of Ambikapur (India) (1985.10.28 – 1994.03.26)Metropolitan Archbishop of Bhopal (India) (1994.03.26 – 2007.06.15)Bishop Philip Ekka, S.J.  (1977.11.10 – 1984.10.20)Born:1923.07.22 (Talora, India)Ordained Priest:1956.08.10Consecrated Bishop:1978.02.26Died:1991.05.16 († 67)Bishop of Ambikapur (India) (1977.11.10 – 1984.10.20)Bishop of Raipur (India) (1984.10.20 – 1991.02.15)Special ChurchesCathedral:  Cathedral of the Immaculate Mother of God, Ambikapur, Chhattīsgarh Show MapRaipur (↙), Jabalpur (←), Satna (↖), Allahabad (↑), Daltonganj (↗), Gumla (→), Jashpur (→), Raigarh (↓)Statistics (2021.12.31)Area: 22,337 km²Population: 103,000 Catholics (3.4% of 3,032,000 total)Pastoral Centres: 55 parishes, 1 missionPersonnel: 194 priests (117 diocesan, 77 religious), 660 religious (168 brothers, 492 sisters), 45 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.17© 2026 GCatholic.org",
+  "code_gcatholic": "ambi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 3032000,
+    "catholiques": 103000,
+    "pourcentage_catholiques": 3.4
+  },
+  "ressources": {
+    "pretres_diocesains": 117,
+    "pretres_religieux": null,
+    "total_pretres": 194,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 55
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

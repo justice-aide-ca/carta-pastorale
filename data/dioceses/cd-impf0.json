@@ -1,0 +1,29 @@
+{
+  "id": "cd-impf0",
+  "nom": "Impfondo",
+  "pays": "cd",
+  "pays_nom": "Congo-Brazzaville",
+  "continent": "unknown",
+  "type": "Diocese Name: Impfondo / Impfonden(sis) (Latin)Ecclesiastical Province: OwandoNeighbouring Dioceses: Owando (↙), Ouesso (←), Berbérati (↖), Yokadouma (↖), Mbaïki (↑), Molegbe (↗), Budjala (→), Mbandaka–Bikoro (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History2000.10.30: Established as Apostolic Prefecture of Likouala / Likualen(sis) (Latin) (from Diocese of Ouesso and became suffragan of Brazzaville)2011.02.11: Promoted as Diocese of Impfondo / Impfonden(sis) (Latin)2020.05.30: Became suffragan of OwandoPresent PrelatesBishop (2019.12.12 – ...):Bishop Daniel Nzika (55)OrdinariesBishops of Impfondo (Roman Rite)Bishop Daniel Nzika (55)  (2019.12.12 – ...)Bishop of Impfondo (Congo-Brazzaville)Quid autem habes quod non accepistiBorn:1971.02.16 (Ouesso, Congo-Brazzaville)Ordained Priest:2000.12.09Consecrated Bishop:2020.03.01Priest of Ouesso (Congo-Brazzaville) (2000.12.09 – 2019.12.12)Bishop of Impfondo (Congo-Brazzaville) (2019.12.12 – ...)Bishop Jean Gardin, C.S.Sp. (84)  (2011.02.11 – 2019.12.12)Bishop emeritus of Impfondo (Congo-Brazzaville)Veni ut servus omniumBorn:1941.10.28 (Saint-Pois, France)Ordained Priest:1969.06.29Consecrated Bishop:2011.03.26Prefect Apostolic of Likouala (Congo-Brazzaville) (2000.10.30 – 2011.02.11)Bishop of Impfondo (Congo-Brazzaville) (2011.02.11 – 2019.12.12)Prefects Apostolic of Likouala (Roman Rite)Fr. Jean Gardin, C.S.Sp. (84) (later Bishop)  (2000.10.30 – 2011.02.11)(see above)Special ChurchesCathedral:  Cathédrale Saint-Paul, Impfondo, Likouala Show MapOwando (↙), Ouesso (←), Berbérati (↖), Yokadouma (↖), Mbaïki (↑), Molegbe (↗), Budjala (→), Mbandaka–Bikoro (↓)Statistics (2022.12.31)Area: 66,044 km²Population: 91,240 Catholics (25.4% of 358,970 total)Pastoral Centres: 11 parishes, 10 missionsPersonnel: 17 priests (diocesan), 11 religious (11 sisters), 20 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "impf0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 358970,
+    "catholiques": 91240,
+    "pourcentage_catholiques": 25.4
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 11
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

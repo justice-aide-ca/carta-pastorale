@@ -1,0 +1,29 @@
+{
+  "id": "ve-elti0",
+  "nom": "El Tigre",
+  "pays": "ve",
+  "pays_nom": "Venezuela",
+  "continent": "amerique",
+  "type": "Diocese Name: El Tigre (español) / Tigren(sis) (Latin)Ecclesiastical Province: CumanáNeighbouring Dioceses: Valle de la Pascua (←), Barcelona (↑), Maturín (↗), Ciudad Guayana (↘), Ciudad Bolívar (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2018.05.31: Established as Diocese of El Tigre (español) / Tigren(sis) (Latin) (from Diocese of Barcelona and became suffragan of Cumaná)Present PrelatesBishop (2018.05.31 – ...):Bishop José Manuel Romero Barrios (71)OrdinariesBishops of El Tigre (Roman Rite)Bishop José Manuel Romero Barrios (71)  (2018.05.31 – ...)Bishop of El Tigre (Venezuela)Appropinquavit et ambulavit cum illisBorn:1955.04.09 (Pariaguán, Venezuela)Ordained Priest:1979.12.01Consecrated Bishop:2012.04.14Priest of Barcelona (Venezuela) (1979.12.01 – 2012.02.02)Chaplain of His Holiness (1990.02.01 – 2012.02.02)Titular Bishop of Materiana (2012.02.02 – 2018.05.31)Auxiliary Bishop of Barcelona (Venezuela) (2012.02.02 – 2018.05.31)Bishop of El Tigre (Venezuela) (2018.05.31 – ...)Special ChurchesCathedral:  Catedral Nuestra Señora del Valle, El Tigre, Anzoátegui Jubilee Churches in the Holy Year 2025Show MapValle de la Pascua (←), Barcelona (↑), Maturín (↗), Ciudad Guayana (↘), Ciudad Bolívar (↓)Statistics (2022.12.31)Area: 22,972 km²Population: 350,225 Catholics (89.2% of 392,453 total)Pastoral Centres: 14 parishesPersonnel: 7 priests (6 diocesan, 1 religious), 10 religious (2 brothers, 8 sisters), 16 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "elti0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 392453,
+    "catholiques": 350225,
+    "pourcentage_catholiques": 89.2
+  },
+  "ressources": {
+    "pretres_diocesains": 6,
+    "pretres_religieux": null,
+    "total_pretres": 7,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 14
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

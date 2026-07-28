@@ -1,0 +1,29 @@
+{
+  "id": "tz-rule0",
+  "nom": "Rulenge–Ngara",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Rulenge–Ngara / Rulengen(sis)–Ngaren(sis) (Latin)Ecclesiastical Province: MwanzaNeighbouring Dioceses: Ruyigi (↙), Muyinga (←), Kibungo (↑), Kayanga (↗), Bukoba (↗), Geita (→), Kahama (↘), Kigoma (↓)Depends on: Dicastery for EvangelisationWebsites: CelebrationsPatron Saint: Saint Francis of AssisiLiturgical Calendar (Universal) 📅History1929.04.08: Established as Apostolic Vicariate of Bubuka (from Apostolic Vicariate of Tabora and Apostolic Vicariate of Victoria-Nyanza)1951.12.13: Lost territory to establish Apostolic Vicariate of Lower Kagera1953.03.25: Promoted as Diocese of Bukoba / de Bukoba (Latin) (became suffragan of Tabora)1960.06.21: Renamed as Diocese of Rulenge / Rulengen(sis) (Latin)1987.11.18: Became suffragan of Mwanza2008.08.14: Renamed as Diocese of Rulenge–Ngara / Rulengen(sis)–Ngaren(sis) (Latin) (lost territory to establish Diocese of Kayanga)Present PrelatesBishop (2008.08.14 – ...):Bishop Severine Niwemugizi (70)Monsignors (5)OrdinariesBishops of Rulenge–Ngara (Roman Rite)Bishop Severine Niwemugizi (70)  (2008.08.14 – ...)Bishop of Rulenge–Ngara (Tanzania)Hekima ya Mungu iniongozeBorn:1956.06.03 (Katoke, Tanzania)Ordained Priest:1984.12.16Consecrated Bishop:1997.02.16Priest of Rulenge (Tanzania) (1984.12.16 – 1996.11.08)Bishop of Rulenge (Tanzania) (1996.11.08 – 2008.08.14)President of Tanzania Episcopal Conference (2000 – 2006)Bishop of Rulenge–Ngara (Tanzania) (2008.08.14 – ...)Vice-President of Tanzania Episcopal Conference (2012 – 2015.09.04)Bishops of Rulenge (Roman Rite)Bishop Severine Niwemugizi (70)  (1996.11.08 – 2008.08.14)(see above)Bishop Christopher Mwoleka  (1969.06.26 – 1996.11.08)Born:1927.08.09 (Itahwa, Tanzania)Ordained Priest:1962.06.30Consecrated Bishop:1969.06.19Died:2002.10.16 († 75)Titular Bishop of Zica (1969.03.06 – 1969.06.26)Auxiliary Bishop of Rulenge (Tanzania) (1969.03.06 – 1969.06.26)Bishop of Rulenge (Tanzania) (1969.06.26 – 1996.11.08)Bishop Alfred Lanctôt, M. Afr.  (1960.06.21 – 1969.05.30)Born:1912.04.14 (Sherbrooke, QC, Canada)Ordained Priest:1936.06.29Consecrated Bishop:1952.03.06Died:1969.05.30 († 57)Titular Bishop of Avensa (1951.12.13 – 1953.03.25)Vicar Apostolic of Bubuka (Tanzania) (1951.12.13 – 1953.03.25)Bishop of Bukoba (Tanzania) (1953.03.25 – 1960.06.21)Bishop of Rulenge (Tanzania) (1960.06.21 – 1969.05.30)Bishops of Bukoba (Roman Rite)Bishop Alfred Lanctôt, M. Afr.  (1953.03.25 – 1960.06.21)(see above)Vicars Apostolic of Bubuka (Roman Rite)Bishop Alfred Lanctôt, M. Afr.  (1951.12.13 – 1953.03.25)(see above)Bishop Laurent Tétrault, M. Afr.  (1947.11.13 – 1951.03.20)Caritas omnia speratBorn:1904.05.21 (Saint-Malo, QC, Canada)Ordained Priest:1929.06.29Consecrated Bishop:1948.03.11Died:1951.03.20 († 46)Titular Bishop of Tabuda (1947.11.13 – 1951.03.20)Vicar Apostolic of Bubuka (Tanzania) (1947.11.13 – 1951.03.20)Bishop Burcardo Huwiler, M. Afr.  (1929.03.18 – 1946.03.20)Born:1868.04.07 (Buttwil-Argau, Switzerland)Ordained Priest:1893.07.02Consecrated Bishop:1929.07.14Died:1954.10.01 († 86)Vicar Apostolic of Bubuka (Tanzania) (1929.03.18 – 1946.03.20)Titular Bishop of Vazari (1929.03.18 – 1954.10.01)Former PrelatesAuxiliary Bishop: Bishop Christopher Mwoleka (1969.03.06 – 1969.06.26)Special ChurchesPro-Cathedral:  Pro-Cathedral of Christ the King, Rulenge, Kagera Show MapRuyigi (↙), Muyinga (←), Kibungo (↑), Kayanga (↗), Bukoba (↗), Geita (→), Kahama (↘), Kigoma (↓)Statistics (2022.12.31)Area: 13,004 km²Population: 419,188 Catholics (30.9% of 1,355,654 total)Pastoral Centres: 30 parishesPersonnel: 60 priests (58 diocesan, 2 religious), 281 religious (8 brothers, 273 sisters), 54 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "rule0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1355654,
+    "catholiques": 419188,
+    "pourcentage_catholiques": 30.9
+  },
+  "ressources": {
+    "pretres_diocesains": 58,
+    "pretres_religieux": null,
+    "total_pretres": 60,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

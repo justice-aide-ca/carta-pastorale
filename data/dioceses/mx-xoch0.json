@@ -1,0 +1,29 @@
+{
+  "id": "mx-xoch0",
+  "nom": "Xochimilco",
+  "pays": "mx",
+  "pays_nom": "Mexico",
+  "continent": "amerique",
+  "type": "Diocese Name: Xochimilco (español) / Xochimilcen(sis) (Latin)Ecclesiastical Province: MéxicoNeighbouring Dioceses: México (↖), Iztapalapa (↑), Valle de Chalco (→), Cuernavaca (↓)Depends on: Dicastery for BishopsCelebrationsLiturgical Calendar (National) 📅History2019.09.28: Established as Diocese of Xochimilco (español) / Xochimilcen(sis) (Latin) (from Metropolitan Archdiocese of México and became suffragan of México)Present PrelatesBishop (2025.02.11 – ...):Bishop Juan María Huerta Muro, O.F.M. (64)OrdinariesBishops of Xochimilco (Roman Rite)Bishop Juan María Huerta Muro, O.F.M. (64)  (2025.02.11 – ...)Bishop of Xochimilco (Mexico)Justicia, paz y gozoBorn:1962.04.09 (Guadalajara, Mexico)Ordained Priest:1989.07.01Consecrated Bishop:2012.05.02Bishop-Prelate of El Salto (Mexico) (2012.02.02 – 2025.02.11)Bishop of Xochimilco (Mexico) (2025.02.11 – ...)Bishop Andrés Vargas Peña (79)  (2019.09.28 – 2025.02.11)Bishop emeritus of Xochimilco (Mexico)Born:1946.12.06 (Villa de la Paz, Mexico)Ordained Priest:1973.10.12Consecrated Bishop:2010.07.30Priest of San Luis Potosí (Mexico) (1973.10.12 – 2010.06.22)Titular Bishop of Utimmira (2010.06.22 – 2019.09.28)Auxiliary Bishop of México (Mexico) (2010.06.22 – 2019.09.28)Bishop of Xochimilco (Mexico) (2019.09.28 – 2025.02.11)Special ChurchesCathedral:  Catedral San Bernardino de Siena, Ciudad de México, Ciudad de México Churches by City (52)Show MapMéxico (↖), Iztapalapa (↑), Valle de Chalco (→), Cuernavaca (↓)Statistics (2022.12.31)Area: 433 km²Population: 877,727 Catholics (88.1% of 996,726 total)Pastoral Centres: 40 parishesPersonnel: 70 priests (49 diocesan, 21 religious), 10 deacons, 144 religious (23 brothers, 121 sisters), 18 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "xoch0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 996726,
+    "catholiques": 877727,
+    "pourcentage_catholiques": 88.1
+  },
+  "ressources": {
+    "pretres_diocesains": 49,
+    "pretres_religieux": null,
+    "total_pretres": 70,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 40
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

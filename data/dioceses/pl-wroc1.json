@@ -1,0 +1,29 @@
+{
+  "id": "pl-wroc1",
+  "nom": "Wrocław–Koszalin",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Wrocław–Koszalin (polski) / Vratislavien(sis)–Coslinen(sis) (Latin)Ecclesiastical Province: Przemyśl–WarszawaNeighbouring Dioceses: Czech Republic (↙), Deutschland und Skandinavien (←), Olsztyn–Gdańsk (↗), Przemyśl–Warszawa (→)Depends on: Dicastery for the Eastern ChurchesWebsites: History1996.06.01: Established as Diocese of Wrocław–Gdańsk (polski) / Breslavia–Danzica (Italiano) / Vratislavien(sis)–Gedanen(sis) (Latin) (from Metropolitan Archdiocese of Przemyśl–Warszawa and became suffragan of Przemyśl–Warszawa)2020.11.25: Renamed as Diocese of Wrocław–Koszalin (polski) / Vratislavien(sis)–Coslinen(sis) (Latin) (lost territory to establish Diocese of Olsztyn–Gdańsk)Present PrelatesBishop (1999.04.24 – ...):Bishop Włodzimierz Roman Juszczak, O.S.B.M. (68)Auxiliary Bishop (2025.07.10 – ...):Bishop Mariusz Dmyterko (46)Titular Bishop of TzernicusOrdinariesBishops of Wrocław–Koszalin (Ukrainian Rite)Bishop Włodzimierz Roman Juszczak, O.S.B.M. (68)  (1999.04.24 – ...)Bishop of Wrocław–Koszalin of the Ukrainians (Poland)W horu pidniesmy sercaBorn:1957.07.19 (Legnica, Poland)Ordained Priest:1983.05.28Consecrated Bishop:1999.06.19Bishop of Wrocław–Koszalin of the Ukrainians (Poland) (1999.04.24 – ...)Bishops of Wrocław–Gdańsk (Ukrainian Rite)Bishop Teodor Majkowicz  (1996.05.24 – 1998.05.09)Born:1932.01.06 (Rzepedz, Poland)Ordained Priest:1956.06.24Consecrated Bishop:1996.07.12Died:1998.05.09 (Kraków, Poland † 66)Priest of Warmia (Poland) (1956.06.24 – 1991.01.16)Priest of Przemyśl (Poland) (1991.01.16 – 1996.05.24)Bishop of Wrocław–Gdańsk of the Ukrainians (Poland) (1996.05.24 – 1998.05.09)Special ChurchesCathedral:  Katedra św. Wincentego i św. Jakuba, Wrocław, Dolnośląskie Co-Cathedral:  Konkatedra Zaśnięcia Najświętszej Bogurodzicy, Koszalin, Zachodniopomorskie Jubilee Churches in the Holy Year 2025Show MapCzech Republic (↙), Deutschland und Skandinavien (←), Olsztyn–Gdańsk (↗), Przemyśl–Warszawa (→)Statistics (2022.12.31)Population: 20,120 CatholicsPastoral Centres: 56 parishes, 28 missionsPersonnel: 43 priests (42 diocesan, 1 religious), 1 deacon, 10 religious (1 brother, 9 sisters), 4 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "wroc1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": null,
+    "catholiques": null,
+    "pourcentage_catholiques": null
+  },
+  "ressources": {
+    "pretres_diocesains": 42,
+    "pretres_religieux": null,
+    "total_pretres": 43,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 56
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

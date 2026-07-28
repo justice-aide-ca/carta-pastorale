@@ -1,0 +1,29 @@
+{
+  "id": "cm-obal0",
+  "nom": "Obala",
+  "pays": "cm",
+  "pays_nom": "Cameroon",
+  "continent": "unknown",
+  "type": "Diocese Name: Obala / Obalan(us) (Latin)Ecclesiastical Province: YaoundéNeighbouring Dioceses: Eséka (↙), Bafia (↑), Bertoua (→), Doumé–Abong’ Mbang (→), Yaoundé (↓)Depends on: Dicastery for EvangelisationWebsite: CelebrationsLiturgical Calendar (Universal) 📅History1987.07.03: Established as Diocese of Obala / Obalan(us) (Latin) (from Metropolitan Archdiocese of Yaoundé and became suffragan of Yaoundé)Present PrelatesBishop (2009.12.03 – ...):Bishop Sosthène Léopold Bayemi Matjei (61)OrdinariesBishops of Obala (Roman Rite)Bishop Sosthène Léopold Bayemi Matjei (61)  (2009.12.03 – ...)Bishop of Obala (Cameroon)Fais-mois un instrument de paixBorn:1964.12.26 (Matomb, Cameroon)Ordained Priest:1994.02.12Consecrated Bishop:2010.02.02Priest of Eséka (Cameroon) (1994.02.12 – 2009.12.03)Bishop of Obala (Cameroon) (2009.12.03 – ...)Bishop Jérôme Owono-Mimboe  (1987.07.03 – 2009.12.03)Born:1933.02.04 (Ngoulémakong, Cameroon)Ordained Priest:1962.07.22Consecrated Bishop:1987.09.06Died:2016.07.15 († 83)Bishop of Obala (Cameroon) (1987.07.03 – 2009.12.03)Special ChurchesCathedral:  Cathédrale Notre-Dame du Mont Carmel, Obala, Centre Show MapEséka (↙), Bafia (↑), Bertoua (→), Doumé–Abong’ Mbang (→), Yaoundé (↓)Statistics (2018.12.31)Area: 14,849 km²Population: 578,000 Catholics (58.9% of 981,000 total)Pastoral Centres: 62 parishes, 1 missionPersonnel: 168 priests (124 diocesan, 44 religious), 281 religious (187 brothers, 94 sisters), 78 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "obal0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 981000,
+    "catholiques": 578000,
+    "pourcentage_catholiques": 58.9
+  },
+  "ressources": {
+    "pretres_diocesains": 124,
+    "pretres_religieux": null,
+    "total_pretres": 168,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 62
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

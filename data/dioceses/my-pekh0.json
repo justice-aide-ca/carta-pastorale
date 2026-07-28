@@ -1,0 +1,29 @@
+{
+  "id": "my-pekh0",
+  "nom": "Pekhon",
+  "pays": "my",
+  "pays_nom": "Myanmar",
+  "continent": "unknown",
+  "type": "Diocese Name: Pekhon / Pekhonen(sis) (Latin)Ecclesiastical Province: TaunggyiNeighbouring Dioceses: Taungngu (↙), Mandalay (↖), Taunggyi (↑), Kengtung (→), Chiang Mai (↘), Loikaw (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2005.12.15: Established as Diocese of Pekhon / Pekhonen(sis) (Latin) (from Metropolitan Archdiocese of Taunggyi and became suffragan of Taunggyi)Present PrelatesBishop (2026.02.02 – ...):Bishop Felice Ba Htoo (63)OrdinariesBishops of Pekhon (Roman Rite)Bishop Felice Ba Htoo (63)  (2026.02.02 – ...)Bishop of Pekhon (Myanmar)Born:1963.04.27 (Sonbalan, Myanmar)Ordained Priest:1991.04.04Consecrated Bishop:2024.06.29Priest of Pekhon (Myanmar) (1991.04.04 – 2024.03.25)Coadjutor Bishop of Pekhon (Myanmar) (2024.03.25 – 2026.02.02)Bishop of Pekhon (Myanmar) (2026.02.02 – ...)Bishop Peter Hla (74)  (2005.12.15 – 2026.02.02)Bishop emeritus of Pekhon (Myanmar)Keep the faithBorn:1952.01.15 (Hwary, Myanmar)Ordained Priest:1981.03.08Consecrated Bishop:2001.12.15Priest of Taunggyi (Myanmar) (1981.03.08 – 2001.03.13)Titular Bishop of Castellum in Numidia (2001.03.13 – 2005.12.15)Auxiliary Bishop of Taunggyi (Myanmar) (2001.03.13 – 2005.12.15)Bishop of Pekhon (Myanmar) (2005.12.15 – 2026.02.02)Former PrelatesCoadjutor Bishop: Bishop Felice Ba Htoo (63) (2024.03.25 – 2026.02.02)Special ChurchesCathedral:  Cathedral of the Sacred Heart of Jesus, Pekon, Shan Show MapTaungngu (↙), Mandalay (↖), Taunggyi (↑), Kengtung (→), Chiang Mai (↘), Loikaw (↓)Statistics (2022.12.31)Area: 16,240 km²Population: 58,715 Catholics (14.3% of 410,260 total)Pastoral Centres: 16 parishesPersonnel: 45 priests (diocesan), 1 deacon, 68 religious (6 brothers, 62 sisters), 5 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "pekh0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 410260,
+    "catholiques": 58715,
+    "pourcentage_catholiques": 14.3
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

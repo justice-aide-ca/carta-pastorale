@@ -1,0 +1,29 @@
+{
+  "id": "ao-cabi1",
+  "nom": "Cabinda",
+  "pays": "ao",
+  "pays_nom": "Angola",
+  "continent": "unknown",
+  "type": "Diocese Name: Cabinda / Cabindan(us) (Latin)Ecclesiastical Province: LuandaNeighbouring Dioceses: Pointe-Noire (↑), Boma (→)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Nossa Senhora Rainha do Mundo (August 22)Liturgical Calendar (National) 📅History1984.07.02: Established as Diocese of Cabinda / Cabindan(us) (Latin) (from Metropolitan Archdiocese of Luanda and became suffragan of Luanda)Present PrelatesBishop (2018.07.03 – ...):Bishop Belmiro Cuica Chissengueti, C.S.Sp. (57)OrdinariesBishops of Cabinda (Roman Rite)Bishop Belmiro Cuica Chissengueti, C.S.Sp. (57)  (2018.07.03 – ...)Bishop of Cabinda (Angola)Born:1969.03.05 (Bié, Angola)Ordained Priest:1996.05.05Consecrated Bishop:2018.09.30Bishop of Cabinda (Angola) (2018.07.03 – ...)Archbishop Filomeno do Nascimento Vieira Dias (68)  (Apostolic Administrator 2014.12.08 – 2018.07.03)Bishop Filomeno do Nascimento Vieira Dias (68) (later Archbishop)  (2005.02.11 – 2014.12.08)Metropolitan Archbishop of Luanda (Angola)Gaudium et spesBorn:1958.04.18 (Luanda, Angola)Ordained Priest:1983.10.30Consecrated Bishop:2004.01.11Priest of Luanda (Angola) (1983.10.30 – 2003.10.04)Titular Bishop of Flumenpiscense (2003.10.04 – 2005.02.11)Auxiliary Bishop of Luanda (Angola) (2003.10.04 – 2005.02.11)Bishop of Cabinda (Angola) (2005.02.11 – 2014.12.08)Apostolic Administrator of Cabinda (Angola) (2014.12.08 – 2018.07.03)Metropolitan Archbishop of Luanda (Angola) (2014.12.08 – ...)President of Episcopal Conference of Angola and São Tomé (2015.11.09 – 2021.10.11)Bishop Paulino Fernandes Madeca  (1984.07.02 – 2005.02.11)Born:1927.11.28 (Povo Grande, Angola)Ordained Priest:1958.07.20Consecrated Bishop:1983.10.09Died:2008.01.09 († 80)Priest of Luanda (Angola) (1958.07.20 – 1983.07.22)Titular Bishop of Egnatia (1983.07.22 – 1984.07.02)Auxiliary Bishop of Luanda (Angola) (1983.07.22 – 1984.07.02)Bishop of Cabinda (Angola) (1984.07.02 – 2005.02.11)Special ChurchesCathedral:  Sé Catedral de Nossa Senhora Rainha do Mundo, Cabinda, Cabinda Show MapPointe-Noire (↑), Boma (→)Statistics (2022.12.31)Area: 7,283 km²Population: 600,490 Catholics (79.0% of 760,140 total)Pastoral Centres: 24 parishesPersonnel: 37 priests (33 diocesan, 4 religious), 65 religious (6 brothers, 59 sisters), 36 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "cabi1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 760140,
+    "catholiques": 600490,
+    "pourcentage_catholiques": 79.0
+  },
+  "ressources": {
+    "pretres_diocesains": 33,
+    "pretres_religieux": null,
+    "total_pretres": 37,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 24
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "si-sing0",
+  "nom": "Singapore",
+  "pays": "si",
+  "pays_nom": "Singapore",
+  "continent": "unknown",
+  "type": "Archdiocese Name: Singapore / 新加坡 (正體中文) / Singaporen(sis) (Latin)Immediately subject to the Holy SeeNeighbouring Dioceses: Padang (↙), Melaka–Johor (↑), Kuching (→), Pangkalpinang (↘)Depends on: Dicastery for EvangelisationWebsites: CelebrationsCathedral Dedication Anniversary: February 14 (2017)Liturgical Calendar 📅History1972.12.18: Established as Archdiocese of Singapore / 新加坡 (正體中文) / Singaporen(sis) (Latin) (from Metropolitan Archdiocese of Malacca–Singapore and without ecclesiastical province)1981.05.27: Gained territory from Diocese of Macau 澳門Contact InfoAddress: Archbishop’s House, 31 Victoria Street, SingaporePhone: 6339.6715Papal VisitsPope John Paul II (1986.11)Pope Francis (2024.09)Present PrelatesArchbishop (2013.05.20 – ...):Cardinal William Goh Seng Chye (吳成才) (69)Cardinal-Priest of S. Maria «Regina Pacis» in Ostia mareVice-President of Catholic Bishops’ Conference of Malaysia, Singapore and BruneiMonsignors (4)OrdinariesArchbishops of Singapore (Roman Rite)Cardinal William Goh Seng Chye (吳成才) (69)  (2013.05.20 – ...)Cardinal-Priest of S. Maria «Regina Pacis» in Ostia mareArchbishop of Singapore (Singapore)Vice-President of Catholic Bishops’ Conference of Malaysia, Singapore and BruneiUt vivantBorn:1957.06.25 (Singapore)Ordained Priest:1985.05.01Consecrated Bishop:2013.02.22Created Cardinal:2022.08.27Priest of Singapore (Singapore) (1985.05.01 – 2012.12.29)Coadjutor Archbishop of Singapore (Singapore) (2012.12.29 – 2013.05.20)Archbishop of Singapore (Singapore) (2013.05.20 – ...)General Secretary of Catholic Bishops’ Conference of Malaysia, Singapore and Brunei (2017.01.01 – 2018)Vice-President of Catholic Bishops’ Conference of Malaysia, Singapore and Brunei (2021 – ...)Cardinal-Priest of S. Maria «Regina Pacis» in Ostia mare (2022.08.27 [2023.04.23] – ...)Archbishop Nicholas Chia Yeck Joo (謝益裕)  (2001.05.15 – 2013.05.18)Omnia omnibusBorn:1938.04.08 (Singapore)Ordained Priest:1964.01.26Consecrated Bishop:2001.10.07Died:2024.12.17 (Singapore † 86)Priest of Malacca–Singapore (Malaysia) (1964.01.26 – 1972.12.18)Priest of Singapore (Singapore) (1972.12.18 – 2001.05.15)Archbishop of Singapore (Singapore) (2001.05.15 – 2013.05.18)President of Catholic Bishops’ Conference of Malaysia, Singapore and Brunei (2003.08 – 2007.02)Archbishop Gregory Yong Sooi Ngean (楊瑞元)  (1977.02.03 – 2000.10.14)Born:1925.05.20 (Batu Gajah, Malaysia)Ordained Priest:1951.12.03Consecrated Bishop:1968.07.01Died:2008.06.28 († 83)Priest of Penang (Malaysia) (1951.12.03 – 1968.04.09)Bishop of Penang (Malaysia) (1968.04.09 – 1977.02.03)Archbishop of Singapore (Singapore) (1977.02.03 – 2000.10.14)President of Catholic Bishops’ Conference of Malaysia, Singapore and Brunei (1980 – 1987)President of Catholic Bishops’ Conference of Malaysia, Singapore and Brunei (1990 – 1994)Archbishop Michel Olçomendy (奧爾科曼迪), M.E.P.  (1972.12.18 – 1977.02.03)Born:1901.08.29 (Saint-Etienne-de-Baïgorry, France)Ordained Priest:1926.05.29Consecrated Bishop:1947.06.01Died:1977.07.04 (Singapore † 75)Bishop of Malacca (Malaysia) (1947.01.21 – 1953.09.19)Archbishop of Malacca (Malaysia) (1953.09.19 – 1955.02.25)Metropolitan Archbishop of Malacca–Singapore (Malaysia) (1955.02.25 – 1972.12.18)President of Catholic Bishops’ Conference of Malaysia, Singapore and Brunei (1964 – 1969)Archbishop of Singapore (Singapore) (1972.12.18 – 1977.02.03)Former PrelatesCoadjutor Archbishop: Archbishop William Goh Seng Chye (吳成才) (69) (later Cardinal) (2012.12.29 – 2013.05.20)Special ChurchesCathedral:  Cathedral of the Good Shepherd, Singapore Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Churches by City (36)Show MapPadang (↙), Melaka–Johor (↑), Kuching (→), Pangkalpinang (↘)Statistics (2022.12.31)Area: 729 km²Population: 175,872 Catholics (3.1% of 5,637,000 total)Pastoral Centres: 29 parishes, 3 missionsPersonnel: 156 priests (77 diocesan, 79 religious), 2 deacons, 282 religious (126 brothers, 156 sisters), 16 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "sing0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 5637000,
+    "catholiques": 175872,
+    "pourcentage_catholiques": 3.1
+  },
+  "ressources": {
+    "pretres_diocesains": 77,
+    "pretres_religieux": null,
+    "total_pretres": 156,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 29
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

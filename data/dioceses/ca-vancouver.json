@@ -1,0 +1,31 @@
+{
+  "id": "ca-vancouver",
+  "nom": "Vancouver",
+  "pays": "ca",
+  "continent": "Amérique",
+  "type": "Archidiocèse",
+  "annee_donnees": 2023,
+  "territoire": {
+    "superficie_km2": 119439,
+    "population_totale": 3270160,
+    "catholiques": 405761,
+    "pourcentage_catholiques": 12.4
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": 192,
+    "religieuses": 92,
+    "diacres_permanents": 34,
+    "paroisses": 77
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15",
+  "sources": {
+    "wikipedia": "https://fr.wikipedia.org/wiki/Dioc%C3%A8se_de_Vancouver",
+    "conference_episcopale": "https://www.cecc.ca/"
+  }
+}

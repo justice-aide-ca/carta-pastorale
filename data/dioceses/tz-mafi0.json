@@ -1,0 +1,29 @@
+{
+  "id": "tz-mafi0",
+  "nom": "Mafinga",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Mafinga / Mafingen(sis) (Latin)Ecclesiastical Province: MbeyaNeighbouring Dioceses: Mbeya (↙), Iringa (↑), Mahenge (→), Njombe (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2023.12.22: Established as Diocese of Mafinga / Mafingen(sis) (Latin) (from Diocese of Iringa and became suffragan of Mbeya)Present PrelatesBishop (2023.12.22 – ...):Bishop Vincent Cosmas Mwagala (52)OrdinariesBishops of Mafinga (Roman Rite)Bishop Vincent Cosmas Mwagala (52)  (2023.12.22 – ...)Bishop of Mafinga (Tanzania)Born:1973.12.11 (Makungu, Iringa, Tanzania)Ordained Priest:2007.07.11Consecrated Bishop:2024.03.19Priest of Iringa (Tanzania) (2007.07.11 – 2023.12.22)Bishop of Mafinga (Tanzania) (2023.12.22 – ...)Special ChurchesCathedral:  Cathedral of the Assumption of the Blessed Virgin Mary, Mafinga, Iringa Show MapMbeya (↙), Iringa (↑), Mahenge (→), Njombe (↓)Statistics (2023.12.31)Area: 11,016 km²Population: 236,299 Catholics (38.3% of 617,770 total)Pastoral Centres: 17 parishesPersonnel: 41 priests (30 diocesan, 11 religious), 152 religious (16 brothers, 136 sisters), 52 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mafi0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 617770,
+    "catholiques": 236299,
+    "pourcentage_catholiques": 38.3
+  },
+  "ressources": {
+    "pretres_diocesains": 30,
+    "pretres_religieux": null,
+    "total_pretres": 41,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 17
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

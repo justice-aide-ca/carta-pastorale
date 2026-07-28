@@ -1,0 +1,29 @@
+{
+  "id": "mg-main1",
+  "nom": "Maintirano",
+  "pays": "mg",
+  "pays_nom": "Madagascar",
+  "continent": "unknown",
+  "type": "Diocese Name: Maintirano (Português) / Maintiranen(sis) (Latin)Ecclesiastical Province: AntananarivoNeighbouring Dioceses: Mahajanga (↗), Tsiroanomandidy (↘), Morondava (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2017.02.08: Established as Diocese of Maintirano (Português) / Maintiranen(sis) (Latin) (from Diocese of Mahajanga, Diocese of Morondava and Diocese of Tsiroanomandidy and became suffragan of Antananarivo)Present PrelatesBishop (2024.05.02 – ...):Bishop Clément Herizo Rakotoasimbola, M.S. (51)OrdinariesBishops of Maintirano (Roman Rite)Bishop Clément Herizo Rakotoasimbola, M.S. (51)  (2024.05.02 – ...)Bishop of Maintirano (Madagascar)Born:1974.11.27 (Ambohipihaonana-Ambohimanga, Madagascar)Ordained Priest:2016.07.30Consecrated Bishop:2024.07.14Bishop of Maintirano (Madagascar) (2024.05.02 – ...)Bishop Zygmunt Robaszkiewicz, M.S.F. (67)  (Apostolic Administrator 2023.10.01 – 2024.05.02)Bishop Gustavo Bombín Espino, O.SS.T. (65) (later Archbishop)  (2017.02.08 – 2023.07.22)Metropolitan Archbishop of Toliara (Madagascar)Fiainana sy fanantenana ary fiadnanaBorn:1960.09.24 (San Llorente, Spain)Ordained Priest:1987.03.21Consecrated Bishop:2004.02.08Bishop of Tsiroanomandidy (Madagascar) (2003.10.04 – 2017.02.08)Bishop of Maintirano (Madagascar) (2017.02.08 – 2023.07.22)Apostolic Administrator of Mahajanga (Madagascar) (2018.11.13 – 2022.11.19)Metropolitan Archbishop of Toliara (Madagascar) (2023.07.22 – ...)Special ChurchesCathedral:  Cathédrale de l’Assomption, Maintirano, Mahajanga Show MapMahajanga (↗), Tsiroanomandidy (↘), Morondava (↓)Statistics (2022.12.31)Area: 38,852 km²Population: 36,120 Catholics (7.8% of 462,300 total)Pastoral Centres: 1 parishPersonnel: 16 priests (7 diocesan, 9 religious), 41 religious (11 brothers, 30 sisters), 12 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "main1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 462300,
+    "catholiques": 36120,
+    "pourcentage_catholiques": 7.8
+  },
+  "ressources": {
+    "pretres_diocesains": 7,
+    "pretres_religieux": null,
+    "total_pretres": 16,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": null
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

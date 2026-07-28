@@ -1,0 +1,29 @@
+{
+  "id": "zm-mans0",
+  "nom": "Mansa",
+  "pays": "zm",
+  "pays_nom": "Zambia",
+  "continent": "unknown",
+  "type": "Diocese Name: Mansa / Mansaën(sis) (Latin)Ecclesiastical Province: KasamaNeighbouring Dioceses: Sakania–Kipushi (↙), Kilwa–Kasenga (↖), Kasama (→), Mpika (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1952.07.10: Established as Apostolic Prefecture of Fort Rosebery / Arcis Rosebery (Latin) (from Apostolic Vicariate of Bangweulu)1961.01.03: Promoted as Diocese of Fort Rosebery / Arcis Rosebery (Latin) (became suffragan of Lusaka)1967.06.12: Became suffragan of Kasama1967.11.22: Renamed as Diocese of Mansa / Mansaën(sis) (Latin)Present PrelatesBishop (2013.11.30 – ...):Bishop Patrick Chilekwa Chisanga, O.F.M. Conv. (55)Monsignors (2)OrdinariesBishops of Mansa (Roman Rite)Bishop Patrick Chilekwa Chisanga, O.F.M. Conv. (55)  (2013.11.30 – ...)Bishop of Mansa (Zambia)Ut vitam habeant et abundatiusBorn:1971.05.16 (Kamuchanga, Zambia)Ordained Priest:1999.06.27Consecrated Bishop:2014.02.01Bishop of Mansa (Zambia) (2013.11.30 – ...)Fr. Michel Merizzi, M. Afr.  (Apostolic Administrator 2009.01.15 – 2013.11.30)Bishop Andrew Aaron Chisha (92)  (1993.07.01 – 2009.01.15)Bishop emeritus of Mansa (Zambia)Born:1933.11.24 (Kapatu, Zambia)Ordained Priest:1965.08.29Consecrated Bishop:1993.12.12Bishop of Mansa (Zambia) (1993.07.01 – 2009.01.15)Bishop James Spaita (later Archbishop)  (1974.02.28 – 1990.12.03)Born:1934.04.08 (Bombwe, Zambia)Ordained Priest:1962.09.09Consecrated Bishop:1974.04.28Died:2014.11.04 (Kasama, Zambia † 80)Priest of Mansa (Zambia) (1962.09.09 – 1974.02.28)Bishop of Mansa (Zambia) (1974.02.28 – 1990.12.03)President of Zambia Episcopal Conference (1984 – 1988)Metropolitan Archbishop of Kasama (Zambia) (1990.12.03 – 2009.05.04)Bishop Elias White Mutale (later Archbishop)  (1971.07.03 – 1973.09.17)Born:1929.11.21 (Cikamutumba, Zambia)Ordained Priest:1964.09.06Consecrated Bishop:1971.09.12Died:1990.02.12 († 60)Priest of Kasama (Zambia) (1964.09.06 – 1971.07.03)Bishop of Mansa (Zambia) (1971.07.03 – 1973.09.17)Apostolic Administrator of Kasama (Zambia) (1973.03.01 – 1973.09.17)Metropolitan Archbishop of Kasama (Zambia) (1973.09.17 – 1990.02.12)President of Zambia Episcopal Conference (1975 – 1977)Apostolic Administrator of Lusaka (Zambia) (1983.08.06 – 1984.01.09)Bishop René-Georges Pailloux, M. Afr.  (1967.11.22 – 1971.07.03)Born:1902.12.31 (Paris, France)Ordained Priest:1928.06.28Consecrated Bishop:1961.06.18Died:1988.12.07 (Bry-sur-Marne, France † 85)Prefect Apostolic of Fort Rosebery (Zambia) (1952.11.07 – 1961.01.03)Bishop of Fort Rosebery (Zambia) (1961.01.03 – 1967.11.22)Bishop of Mansa (Zambia) (1967.11.22 – 1971.07.03)Bishops of Fort Rosebery (Roman Rite)Bishop René-Georges Pailloux, M. Afr.  (1961.01.03 – 1967.11.22)(see above)Prefects Apostolic of Fort Rosebery (Roman Rite)Fr. René-Georges Pailloux, M. Afr. (later Bishop)  (1952.11.07 – 1961.01.03)(see above)Former PrelatesAuxiliary Bishop: Bishop Clemens P. Chabukasansha (later Archbishop) (1963.09.13 – 1965.07.06)Special ChurchesCathedral:  Cathedral of the Assumption of Our Lady, Mansa, Luapula Show MapSakania–Kipushi (↙), Kilwa–Kasenga (↖), Kasama (→), Mpika (↘)Statistics (2022.12.31)Area: 44,000 km²Population: 352,732 Catholics (23.3% of 1,514,011 total)Pastoral Centres: 30 parishesPersonnel: 72 priests (54 diocesan, 18 religious), 131 religious (21 brothers, 110 sisters), 19 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mans0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1514011,
+    "catholiques": 352732,
+    "pourcentage_catholiques": 23.3
+  },
+  "ressources": {
+    "pretres_diocesains": 54,
+    "pretres_religieux": null,
+    "total_pretres": 72,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 30
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

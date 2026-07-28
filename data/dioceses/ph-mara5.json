@@ -1,0 +1,29 @@
+{
+  "id": "ph-mara5",
+  "nom": "Marawi",
+  "pays": "ph",
+  "pays_nom": "Philippines",
+  "continent": "unknown",
+  "type": "Territorial Prelature Name: Marawi / Maravien(sis) (Latin)Ecclesiastical Province: OzamizNeighbouring Dioceses: Iligan (↑), Malaybalay (→), Cotabato (↓)Depends on: Dicastery for BishopsCelebrationsPatron Saint: Mary, Help of Christians, Saint Tomás de VillanuevaLiturgical Calendar (National) 📅History1976.11.20: Established as Territorial Prelature of Marawi / Maravien(sis) (Latin) (from Territorial Prelature of Iligan and became suffragan of Cagayan de Oro)1983.01.24: Became suffragan of OzamizContact InfoAddress: Bishop’s House, Saint Mary’s Church Compound, Bato Ali St., Moncado Colony, 9700 Marawi City, PhilippinesPhone: (0910)577.69.86Present PrelatesBishop-Prelate (2001.10.22 – ...):Bishop Edwin Angot de la Peña, M.S.P. (72)OrdinariesPrelates of Marawi (Roman Rite)Bishop Edwin Angot de la Peña, M.S.P. (72)  (2001.10.22 – ...)Bishop-Prelate of Marawi (Philippines)Jesus is the way, the truth, and the lifeBorn:1954.04.05 (San Juan, Siquijor, Philippines)Ordained Priest:1981.04.22Consecrated Bishop:2001.12.27Priest of Palo (Philippines) (1981.04.22 – 2001.10.22)Bishop-Prelate of Marawi (Philippines) (2001.10.22 – ...)Bishop Bienvenido Solon Tudtud  (1977.04.25 – 1987.06.26)Born:1931.03.22 (Cebu, Philippines)Ordained Priest:1959.02.02Consecrated Bishop:1968.03.24Died:1987.06.26 († 56)Auxiliary Bishop of Dumaguete (Philippines) (1968.02.05 – 1971.02.17)Titular Bishop of Thimida (1968.02.05 – 1987.06.26)Bishop-Prelate of Iligan (Philippines) (1971.02.17 – 1977.04.25)Bishop-Prelate of Marawi (Philippines) (1977.04.25 – 1987.06.26)Special ChurchesFormer Cathedral (now ruined):  Cathedral of Santa Maria Auxiliadora, Marawi City, Lanao del Sur, Autonomous Region in Muslim Mindanao Jubilee Churches in the Holy Year 2025Churches by City (6)Show MapIligan (↑), Malaybalay (→), Cotabato (↓)Statistics (2016.12.31)Area: 4,567 km²Population: 38,800 Catholics (3.7% of 1,039,000 total)Pastoral Centres: 7 parishesPersonnel: 8 priests (3 diocesan, 5 religious), 10 religious (5 brothers, 5 sisters), 1 seminarianPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "mara5",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 1039000,
+    "catholiques": 38800,
+    "pourcentage_catholiques": 3.7
+  },
+  "ressources": {
+    "pretres_diocesains": 3,
+    "pretres_religieux": null,
+    "total_pretres": 8,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 7
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

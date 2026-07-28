@@ -1,0 +1,29 @@
+{
+  "id": "mw-karo0",
+  "nom": "Karonga",
+  "pays": "mw",
+  "pays_nom": "Malawi",
+  "continent": "unknown",
+  "type": "Diocese Name: Karonga / Karongan(us) (Latin)Ecclesiastical Province: LilongweNeighbouring Dioceses: Mbeya (↑), Mzuzu (↓), Mpika (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History2010.07.21: Established as Diocese of Karonga / Karongan(us) (Latin) (from Diocese of Mzuzu and became suffragan of Blantyre)2011.02.09: Became suffragan of LilongwePresent PrelatesBishop (2010.07.21 – ...):Bishop Martin Anwel Mtumbuka (68)President of Episcopal Conference of MalawiOrdinariesBishops of Karonga (Roman Rite)Bishop Martin Anwel Mtumbuka (68)  (2010.07.21 – ...)Bishop of Karonga (Malawi)President of Episcopal Conference of MalawiBorn:1957.08.05 (Majimbula, Malawi)Ordained Priest:1988.07.31Consecrated Bishop:2010.11.20Priest of Mzuzu (Malawi) (1988.07.31 – 2010.07.21)Bishop of Karonga (Malawi) (2010.07.21 – ...)Vice-President of Episcopal Conference of Malawi (2015.01.30 – 2022.02.04)President of Episcopal Conference of Malawi (2025.02.14 – ...)Special ChurchesCathedral:  Cathedral of St. Mary, Karonga, Karonga, Northern Region Show MapMbeya (↑), Mzuzu (↓), Mpika (↓)Statistics (2022.12.31)Area: 12,000 km²Population: 72,870 Catholics (11.0% of 662,637 total)Pastoral Centres: 16 parishes, 1 missionPersonnel: 31 priests (16 diocesan, 15 religious), 1 deacon, 46 religious (20 brothers, 26 sisters), 25 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "karo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 662637,
+    "catholiques": 72870,
+    "pourcentage_catholiques": 11.0
+  },
+  "ressources": {
+    "pretres_diocesains": 16,
+    "pretres_religieux": null,
+    "total_pretres": 31,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 16
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

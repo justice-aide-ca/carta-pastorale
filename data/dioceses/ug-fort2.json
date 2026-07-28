@@ -1,0 +1,29 @@
+{
+  "id": "ug-fort2",
+  "nom": "Fort Portal",
+  "pays": "ug",
+  "pays_nom": "Uganda",
+  "continent": "unknown",
+  "type": "Diocese Name: Fort Portal / Arcis Portal (Latin)Ecclesiastical Province: MbararaNeighbouring Dioceses: Kasese (↙), Butembo–Beni (↙), Bunia (↑), Hoima (↗), Kiyinda–Mityana (→), Mbarara (↓)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (National) 📅History1961.02.21: Established as Diocese of Fort Portal / Arcis Portal (Latin) (from Diocese of Mbarara and became suffragan of Rubaga)1965.08.09: Lost territory to establish Diocese of Hoima1966.08.05: Became suffragan of Kinshasa1989.03.06: Lost territory to establish Diocese of Kasese1999.01.02: Became suffragan of MbararaPresent PrelatesBishop (2003.03.18 – ...):Bishop Robert Kisaija Muhiirwa (67)Monsignors (9)OrdinariesBishops of Fort Portal (Roman Rite)Bishop Robert Kisaija Muhiirwa (67)  (2003.03.18 – ...)Bishop of Fort Portal (Uganda)Remain in my loveBorn:1958.10.23 (Ibonde, Uganda)Ordained Priest:1985.08.11Consecrated Bishop:2003.06.15Priest of Fort Portal (Uganda) (1985.08.11 – 2003.03.18)Bishop of Fort Portal (Uganda) (2003.03.18 – ...)Vice-President of Uganda Episcopal Conference (2018.11.14 – 2022.11.12)Bishop Paul Lokiru Kalanda  (1991.06.17 – 2003.03.18)I will be with you as I was with MosesBorn:1927.02.24 (Buwunde, Uganda)Ordained Priest:1957.12.21Consecrated Bishop:1981.03.22Died:2015.08.19 († 88)Bishop of Moroto (Uganda) (1980.11.29 – 1991.06.17)Bishop of Fort Portal (Uganda) (1991.06.17 – 2003.03.18)President of Uganda Episcopal Conference (1994 – 2002)Bishop Serapio Bwemi Magambo  (1972.11.16 – 1991.06.17)Born:1928.05.08 (Kyaka, Uganda)Ordained Priest:1957.12.15Consecrated Bishop:1969.08.01Died:1995.02.08 († 66)Priest of Fort Portal (Uganda) (1957.12.15 – 1969.06.26)Prelate of Honour of His Holiness (1968.10.08 – 1969.06.26)Titular Bishop of Muzuca in Proconsulari (1969.06.26 – 1972.11.16)Auxiliary Bishop of Fort Portal (Uganda) (1969.06.26 – 1972.11.16)Bishop of Fort Portal (Uganda) (1972.11.16 – 1991.06.17)Bishop Vincent Joseph McCauley, C.S.C.  (1961.02.21 – 1972.11.16)Born:1906.03.08 (Council Bluffs, IA, USA)Ordained Priest:1934.06.24Consecrated Bishop:1961.05.18Died:1982.11.01 (Rochester, MN, USA † 76)Bishop of Fort Portal (Uganda) (1961.02.21 – 1972.11.16)Former PrelatesAuxiliary Bishop: Bishop Joseph Mugenyi Sabiiti (78) (1999.01.02 – 2023.07.08)Auxiliary Bishop: Bishop Serapio Bwemi Magambo (1969.06.26 – 1972.11.16)Special ChurchesCathedral:  Virika Cathedral of Our Lady of Snows, Fort Portal, Kabarole, Western Show MapKasese (↙), Butembo–Beni (↙), Bunia (↑), Hoima (↗), Kiyinda–Mityana (→), Mbarara (↓)Statistics (2022.12.31)Area: 13,553 km²Population: 1,036,458 Catholics (39.3% of 2,637,300 total)Pastoral Centres: 33 parishes, 1 missionPersonnel: 132 priests (118 diocesan, 14 religious), 376 religious (115 brothers, 261 sisters), 52 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "fort2",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 2637300,
+    "catholiques": 1036458,
+    "pourcentage_catholiques": 39.3
+  },
+  "ressources": {
+    "pretres_diocesains": 118,
+    "pretres_religieux": null,
+    "total_pretres": 132,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 33
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

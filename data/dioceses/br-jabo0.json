@@ -1,0 +1,29 @@
+{
+  "id": "br-jabo0",
+  "nom": "Jaboticabal",
+  "pays": "br",
+  "pays_nom": "Brazil",
+  "continent": "amerique",
+  "type": "Diocese Name: Jaboticabal / Iaboticaballen(sis) (Latin)Ecclesiastical Province: Ribeirão PretoNeighbouring Dioceses: Catanduva (←), Barretos (↑), Ribeirão Preto (→), São Carlos (↘)Depends on: Dicastery for BishopsWebsites: CelebrationsPatron Saint: Nossa Senhora do Carmo (July 16)Liturgical Calendar (National) 📅History1929.01.25: Established as Diocese of Jaboticabal / Iaboticaballen(sis) (Latin) (from Diocese of São Carlos do Pinhal and became suffragan of São Paulo)1958.04.19: Became suffragan of Ribeirão Preto1973.04.14: Lost territory to establish Diocese of Barretos2000.02.09: Lost territory to establish Diocese of CatanduvaPresent PrelatesBishop (2015.04.22 – ...):Bishop Eduardo Pinheiro da Silva, S.D.B. (67)Monsignors (2)OrdinariesBishops of Jaboticabal (Roman Rite)Bishop Eduardo Pinheiro da Silva, S.D.B. (67)  (2015.04.22 – ...)Bishop of Jaboticabal (Brazil)Chamo-vos AmigosBorn:1959.01.20 (Lins, SP, Brazil)Ordained Priest:1991.01.19Consecrated Bishop:2005.05.06Titular Bishop of Gisipa (2005.03.02 – 2015.04.22)Auxiliary Bishop of Campo Grande (Brazil) (2005.03.02 – 2015.04.22)Bishop of Jaboticabal (Brazil) (2015.04.22 – ...)Bishop Antônio Fernando Brochini, C.S.S.  (2003.06.25 – 2014.10.15)Testemunho de ComunhãoBorn:1946.11.10 (Rio Claro, SP, Brazil)Ordained Priest:1973.12.08Consecrated Bishop:2002.03.03Died:2024.03.15 (Uberlândia, MG, Brazil † 77)Coadjutor Bishop of Jaboticabal (Brazil) (2001.12.12 – 2003.06.25)Bishop of Jaboticabal (Brazil) (2003.06.25 – 2014.10.15)Bishop of Itumbiara (Brazil) (2014.10.15 – 2023.07.13)Bishop Luíz Eugênio Pérez  (1981.06.07 – 2003.06.25)Todos Sois IrmãosBorn:1928.05.05 (Orlandia, SP, Brazil)Ordained Priest:1954.12.08Consecrated Bishop:1970.06.11Died:2012.11.14 (Cavite, Philippines † 84)Bishop of Jales (Brazil) (1970.03.09 – 1981.06.07)Bishop of Jaboticabal (Brazil) (1981.06.07 – 2003.06.25)Bishop José Varani  (1961.02.07 – 1981.06.07)Testemunho de comunhãoBorn:1915.10.14 (Jaboticabal, SP, Brazil)Ordained Priest:1939.12.23Consecrated Bishop:1950.11.01Died:1990.06.24 († 74)Priest of Jaboticabal (Brazil) (1939.12.23 – 1950.08.27)Titular Bishop of Altava (1950.08.27 – 1961.02.07)Coadjutor Bishop of Jaboticabal (Brazil) (1950.08.27 – 1961.02.07)Bishop of Jaboticabal (Brazil) (1961.02.07 – 1981.06.07)Archbishop Antônio Augusto de Assis  (1931.07.31 – 1961.02.07)Born:1863.12.05 (Lagôa Dourada, MG, Brazil)Ordained Priest:1892.04.24Consecrated Bishop:1907.11.17Died:1961.02.07 († 97)Titular Bishop of Sura (1907.07.10 – 1909.11.29)Coadjutor Bishop of Pouso Alegre (Brazil) (1907.07.10 – 1909.11.29)Bishop of Pouso Alegre (Brazil) (1909.11.29 – 1916.02.07)Bishop of Guaxupé (Brazil) (1916.02.07 – 1918.08.02)Titular Bishop of Diocletianopolis (1918.08.02 – 1922.02.24)Auxiliary Bishop of Mariana (Brazil) (1918.08.02 – 1931.07.31)Titular Archbishop of Beirut (1922.02.24 – 1931.07.31)Bishop of Jaboticabal (Brazil) (1931.07.31 – 1961.02.07)Former PrelatesCoadjutor Bishop: Bishop Antônio Fernando Brochini, C.S.S. (2001.12.12 – 2003.06.25)Coadjutor Bishop: Bishop José Varani (1950.08.27 – 1961.02.07)Auxiliary Bishop: Bishop Gabriel Paulino Bueno Couto, O. Carm. (1946.10.26 – 1954)Special ChurchesCathedral:  Catedral Nossa Senhora do Carmo, Jaboticabal, São Paulo Minor Basilica:  Basílica Menor Senhor Bom Jesus, Monte Alo, São Paulo Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (45)Show MapCatanduva (←), Barretos (↑), Ribeirão Preto (→), São Carlos (↘)Statistics (2022.12.31)Area: 5,175 km²Population: 382,000 Catholics (75.2% of 508,000 total)Pastoral Centres: 43 parishesPersonnel: 61 priests (58 diocesan, 3 religious), 28 deacons, 55 religious (3 brothers, 52 sisters), 7 seminariansPopulationPastoral CentresPriestsDeaconsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "jabo0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 508000,
+    "catholiques": 382000,
+    "pourcentage_catholiques": 75.2
+  },
+  "ressources": {
+    "pretres_diocesains": 58,
+    "pretres_religieux": null,
+    "total_pretres": 61,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 43
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

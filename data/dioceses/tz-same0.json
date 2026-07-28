@@ -1,0 +1,29 @@
+{
+  "id": "tz-same0",
+  "nom": "Same",
+  "pays": "tz",
+  "pays_nom": "Tanzania",
+  "continent": "unknown",
+  "type": "Diocese Name: Same / Samen(sis) (Latin)Ecclesiastical Province: ArushaNeighbouring Dioceses: Arusha (←), Moshi (↖), Mombasa (↗), Tanga (↘)Depends on: Dicastery for EvangelisationCelebrationsLiturgical Calendar (Universal) 📅History1963.12.10: Established as Apostolic Prefecture of Same / Samen(sis) (Latin) (from Diocese of Moshi)1977.02.03: Promoted as Diocese of Same / Samen(sis) (Latin) (became suffragan of Dar-es-Salaam)1999.03.16: Became suffragan of ArushaPresent PrelatesBishop (2010.04.30 – ...):Bishop Rogath Fundimoya Kimaryo, C.S.Sp. (69)Monsignors (2)OrdinariesBishops of Same (Roman Rite)Bishop Rogath Fundimoya Kimaryo, C.S.Sp. (69)  (2010.04.30 – ...)Bishop of Same (Tanzania)Caritas in veritateBorn:1956.10.30 (Mkuu, Tanzania)Ordained Priest:1987.05.30Consecrated Bishop:2010.06.13Apostolic Administrator sede plena of Same (Tanzania) (2009.05.01 – 2010.04.30)Bishop of Same (Tanzania) (2010.04.30 – ...)Fr. Rogath Fundimoya Kimaryo, C.S.Sp. (69) (later Bishop)  (Apostolic Administrator sede plena 2009.05.01 – 2010.04.30)Bishop Jacob Venance Koda (68)  (1999.03.16 – 2010.04.15)Bishop emeritus of Same (Tanzania)Born:1957.12.09 (Kilomeni, Tanzania)Ordained Priest:1987.06.25Consecrated Bishop:1999.05.30Priest of Same (Tanzania) (1987.06.25 – 1999.03.16)Bishop of Same (Tanzania) (1999.03.16 – 2010.04.15)Bishop Josaphat Louis Lebulu (84) (later Archbishop)  (1979.02.12 – 1998.11.28)Metropolitan Archbishop emeritus of Arusha (Tanzania)Born:1942.06.13 (Kisangara, Tanzania)Ordained Priest:1968.12.11Consecrated Bishop:1979.05.24Priest of Same (Tanzania) (1968.12.11 – 1979.02.12)Bishop of Same (Tanzania) (1979.02.12 – 1998.11.28)President of Tanzania Episcopal Conference (1988 – 1994)President of Association of Member Episcopal Conferences in Eastern Africa (1997 – 2008.07)Apostolic Administrator sede plena of Arusha (Tanzania) (1997.07.30 – 1998.07.20)Apostolic Administrator of Arusha (Tanzania) (1998.07.20 – 1998.11.28)Bishop of Arusha (Tanzania) (1998.11.28 – 1999.03.16)Metropolitan Archbishop of Arusha (Tanzania) (1999.03.16 – 2017.12.27)Prefects Apostolic of Same (Roman Rite)Fr. Henry Joachim Winkelmolen, C.S.Sp.  (Apostolic Administrator 1977.02.03 – 1979.02.12)Fr. Henry Joachim Winkelmolen, C.S.Sp.  (1964.01.03 – 1977.02.03)Born:1921.09.23 (Limburg, Netherlands)Died:1998.07.15 (Weert, Netherlands † 76)Prefect Apostolic of Same (Tanzania) (1964.01.03 – 1977.02.03)Apostolic Administrator of Same (Tanzania) (1977.02.03 – 1979.02.12)Special ChurchesCathedral:  Cathedral of Christ the King, Same, Manyara Show MapArusha (←), Moshi (↖), Mombasa (↗), Tanga (↘)Statistics (2022.12.31)Area: 11,000 km²Population: 32,726 Catholics (7.6% of 433,160 total)Pastoral Centres: 31 parishes, 7 missionsPersonnel: 72 priests (68 diocesan, 4 religious), 153 religious (19 brothers, 134 sisters), 35 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "same0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 433160,
+    "catholiques": 32726,
+    "pourcentage_catholiques": 7.6
+  },
+  "ressources": {
+    "pretres_diocesains": 68,
+    "pretres_religieux": null,
+    "total_pretres": 72,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 31
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

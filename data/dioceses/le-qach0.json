@@ -1,0 +1,29 @@
+{
+  "id": "le-qach0",
+  "nom": "Qacha’s Nek",
+  "pays": "le",
+  "pays_nom": "Lesotho",
+  "continent": "unknown",
+  "type": "Diocese Name: Qacha’s Nek / Qachasneken(sis) (Latin)Ecclesiastical Province: MaseruNeighbouring Dioceses: Aliwal (↙), Mohale’s Hoek (←), Maseru (↖), Leribe (↑), Bethlehem (↑), Durban (↗), Mariannhill (↗), Umzimkulu (→), Kokstad (↘), Mthatha (↓)Depends on: Dicastery for EvangelisationCelebrationsPatron Saint: Our Lady of the RosaryLiturgical Calendar (Universal) 📅History1961.01.03: Established as Diocese of Qacha’s Nek / Qachasneken(sis) (Latin) (from Diocese of Maseru and became suffragan of Maseru)Present PrelatesBishop (2013.06.19 – ...):Bishop Joseph Mopeli Sephamola, O.M.I. (66)President of Lesotho Catholic Bishops’ ConferenceOrdinariesBishops of Qacha’s Nek (Roman Rite)Bishop Joseph Mopeli Sephamola, O.M.I. (66)  (2013.06.19 – ...)Bishop of Qacha’s Nek (Lesotho)President of Lesotho Catholic Bishops’ ConferenceCaritas nunquam exciditBorn:1960.03.14 (Tsoelike, Lesotho)Ordained Priest:1991.04.27Consecrated Bishop:2013.09.21Bishop of Qacha’s Nek (Lesotho) (2013.06.19 – ...)President of Lesotho Catholic Bishops’ Conference (2024? – ...)Bishop Evaristus Thatho Bitsoane  (1981.07.17 – 2010.07.17)Born:1938.09.17 (Rojane, Lesotho)Ordained Priest:1964.12.19Consecrated Bishop:1981.10.11Died:2010.07.17 († 71)Priest of Qacha’s Nek (Lesotho) (1964.12.19 – 1981.07.17)Bishop of Qacha’s Nek (Lesotho) (1981.07.17 – 2010.07.17)President of Lesotho Catholic Bishops’ Conference (1991 – 1997)President of Lesotho Catholic Bishops’ Conference (2002 – 2010.07.17)Bishop Joseph Delphis Desrosiers, O.M.I.  (1961.01.03 – 1981)In omnibus ChristusBorn:1906.02.23 (Saint-Jacques d’Embrun, ON, Canada)Ordained Priest:1930.07.06Consecrated Bishop:1948.06.29Died:1989.06.22 († 83)Titular Bishop of Pachnemunis (1948.03.11 – 1951.01.11)Vicar Apostolic of Basutoland (Lesotho) (1948.03.11 – 1951.01.11)Bishop of Maseru (Lesotho) (1951.01.11 – 1961.01.03)Bishop of Qacha’s Nek (Lesotho) (1961.01.03 – 1981)Special ChurchesCathedral:  Cathedral of the Holy Redeemer, Qacha’s Nek, Qacha’s Nek Show MapAliwal (↙), Mohale’s Hoek (←), Maseru (↖), Leribe (↑), Bethlehem (↑), Durban (↗), Mariannhill (↗), Umzimkulu (→), Kokstad (↘), Mthatha (↓)Statistics (2022.12.31)Area: 11,602 km²Population: 280,790 Catholics (45.1% of 623,230 total)Pastoral Centres: 9 parishesPersonnel: 11 priests (diocesan), 51 religious (51 sisters), 9 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "qach0",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 623230,
+    "catholiques": 280790,
+    "pourcentage_catholiques": 45.1
+  },
+  "ressources": {
+    "pretres_diocesains": null,
+    "pretres_religieux": null,
+    "total_pretres": null,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 9
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

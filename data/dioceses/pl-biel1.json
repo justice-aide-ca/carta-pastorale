@@ -1,0 +1,29 @@
+{
+  "id": "pl-biel1",
+  "nom": "Bielsko–Żywiec",
+  "pays": "pl",
+  "pays_nom": "Poland",
+  "continent": "unknown",
+  "type": "Diocese Name: Bielsko–Żywiec / Bielscen(sis)–Żyviecen(sis) (Latin)Ecclesiastical Province: KrakówNeighbouring Dioceses: Ostrava–Opava (←), Katowice (↑), Kraków (→), Žilina (↓)Depends on: Dicastery for BishopsWebsite: CelebrationsPatron Saint: Saint Maximilian Kolbe (August 14), Saint Jan Sarkander (May 30), Saint John Cantius (October 20)Cathedral Dedication Anniversary: September 24Liturgical Calendar 📅History1992.03.25: Established as Diocese of Bielsko–Żywiec / Bielscen(sis)–Żyviecen(sis) (Latin) (from Metropolitan Archdiocese of Kraków and Diocese of Katowice and became suffragan of Kraków)Present PrelatesBishop (2013.11.16 – ...):Bishop Roman Pindel (67)Auxiliary Bishop (2011.10.22 – ...):Bishop Piotr Greger (62)Titular Bishop of AssavaMonsignors (54)OrdinariesBishops of Bielsko–Żywiec (Roman Rite)Bishop Roman Pindel (67)  (2013.11.16 – ...)Bishop of Bielsko–Żywiec (Poland)Verbum vitæ continentesBorn:1958.11.18 (Oświęcim, Poland)Ordained Priest:1983.05.22Consecrated Bishop:2014.01.06Priest of Kraków (Poland) (1983.05.22 – 2013.11.16)Chaplain of His Holiness (2005.02.11 – 2013.11.16)Bishop of Bielsko–Żywiec (Poland) (2013.11.16 – ...)Bishop Tadeusz Rakoczy (88)  (1992.03.25 – 2013.11.16)Bishop emeritus of Bielsko–Żywiec (Poland)In ædificationem Corporis ChristiBorn:1938.03.30 (Gilowice, Poland)Ordained Priest:1963.06.23Consecrated Bishop:1992.04.26Priest of Kraków (Poland) (1963.06.23 – 1992.03.25)Chaplain of His Holiness (1979.06.18 – 1987.12.24)Prelate of Honour of His Holiness (1987.12.24 – 1992.03.25)Bishop of Bielsko–Żywiec (Poland) (1992.03.25 – 2013.11.16)Former PrelatesAuxiliary Bishop: Bishop Janusz Edmund Zimniak (1992.03.25 – 2010.01.16)Special ChurchesCathedral:  Katedra św. Mikołaja, Bielsko-Biała, Śląskie Co-Cathedral:  Konkatedra Narodzenia NMP, Żywiec, Śląskie Minor Basilica:  Bazylika Nawiedzenia Najświętszej Maryi Panny, Hałcnow, Śląskie Minor Basilica:  Bazylika św. Mikołaja, Rychwałd, Śląskie Jubilee Churches in the Extraordinary Jubilee of Mercy (2016)Jubilee Churches in the Holy Year 2025Churches by City (214)Show MapOstrava–Opava (←), Katowice (↑), Kraków (→), Žilina (↓)Statistics (2022.12.31)Area: 3,000 km²Population: 654,867 Catholics (83.9% of 780,942 total)Pastoral Centres: 210 parishesPersonnel: 639 priests (520 diocesan, 119 religious), 590 religious (180 brothers, 410 sisters), 34 seminariansPopulationPastoral CentresPriestsReligiousSeminariansLast updated on 2026.07.14© 2026 GCatholic.org",
+  "code_gcatholic": "biel1",
+  "annee_donnees": 2025,
+  "territoire": {
+    "superficie_km2": null,
+    "population_totale": 780942,
+    "catholiques": 654867,
+    "pourcentage_catholiques": 83.9
+  },
+  "ressources": {
+    "pretres_diocesains": 520,
+    "pretres_religieux": null,
+    "total_pretres": 639,
+    "religieuses": null,
+    "diacres_permanents": null,
+    "paroisses": 210
+  },
+  "sacrements_2021": {},
+  "historique_clerge": [],
+  "communautes": {},
+  "source": "GCatholic.org",
+  "derniere_mise_a_jour": "2025-01-15"
+}

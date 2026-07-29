@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carte Pastorale Interactive</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --primary: #1a3a5c;
+  --secondary: #c9a84c;
+  --accent: #e8f4f8;
+  --text: #2c3e50;
+  --light: #f8f9fa;
+  --border: #e0e6ed;
+  --shadow: 0 4px 20px rgba(26,58,92,0.08);
+  --shadow-lg: 0 10px 40px rgba(26,58,92,0.12);
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Inter',sans-serif; color:var(--text); background:#fff; line-height:1.6; }
+h1,h2,h3 { font-family:'Playfair Display',serif; }
+
+nav {
+  position:fixed; top:0; left:0; right:0; z-index:1000;
+  background:rgba(255,255,255,0.95); backdrop-filter:blur(12px);
+  border-bottom:1px solid var(--border); padding:0 2rem;
+  display:flex; align-items:center; justify-content:space-between; height:64px;
+}
+nav .logo { font-family:'Playfair Display',serif; font-weight:700; font-size:1.3rem; color:var(--primary); }
+nav .logo i { color:var(--secondary); margin-right:8px; }
+nav .nav-links { display:flex; gap:2rem; list-style:none; }
+nav .nav-links a {
+  text-decoration:none; color:var(--text); font-weight:500; font-size:0.9rem;
+  padding:0.5rem 0; border-bottom:2px solid transparent; transition:all 0.3s;
+  cursor:pointer;
+}
+nav .nav-links a:hover, nav .nav-links a.active { color:var(--primary); border-bottom-color:var(--secondary); }
+.nav-toggle { display:none; background:none; border:none; font-size:1.4rem; color:var(--primary); cursor:pointer; }
+
+.hero {
+  min-height:55vh; display:flex; align-items:center; justify-content:center;
+  background: linear-gradient(135deg, var(--primary) 0%, #0d2137 100%);
+  color:#fff; text-align:center; padding:7rem 2rem 4rem;
+  position:relative; overflow:hidden;
+}
+.hero::before {
+  content:''; position:absolute; top:-50%; left:-50%; width:200%; height:200%;
+  background: radial-gradient(circle, rgba(201,168,76,0.08) 0%, transparent 60%);
+  animation:rotate 30s linear infinite;
+}
+@keyframes rotate { from{transform:rotate(0)} to{transform:rotate(360deg)} }
+.hero-content { position:relative; z-index:1; max-width:700px; }
+.hero h1 { font-size:3rem; margin-bottom:1rem; font-weight:700; }
+.hero h1 span { color:var(--secondary); }
+.hero p { font-size:1.15rem; opacity:0.9; margin-bottom:2rem; font-weight:300; }
+.hero .btn {
+  display:inline-flex; align-items:center; gap:0.5rem;
+  background:var(--secondary); color:var(--primary); padding:0.9rem 2rem;
+  border-radius:50px; text-decoration:none; font-weight:600; font-size:0.95rem;
+  transition:all 0.3s; border:none; cursor:pointer;
+}
+.hero .btn:hover { transform:translateY(-2px); box-shadow:0 8px 25px rgba(201,168,76,0.3); }
+
+.section { padding:4rem 2rem; max-width:1200px; margin:0 auto; display:none; }
+.section.active { display:block; animation:fadeIn 0.5s ease; }
+@keyframes fadeIn { from{opacity:0; transform:translateY(10px)} to{opacity:1; transform:translateY(0)} }
+.section-title {
+  font-size:2rem; color:var(--primary); margin-bottom:0.5rem; text-align:center;
+}
+.section-subtitle { text-align:center; color:#6c757d; margin-bottom:2.5rem; font-size:0.95rem; }
+
+#map-section { display:block; padding:2rem; }
+.map-container {
+  border-radius:16px; overflow:hidden; box-shadow:var(--shadow-lg);
+  border:1px solid var(--border); background:#fff; position:relative;
+}
+#map { height:65vh; min-height:400px; width:100%; background:#c5e3ec; }
+.map-legend {
+  display:flex; gap:1.5rem; justify-content:center; padding:1rem;
+  background:var(--light); border-top:1px solid var(--border); flex-wrap:wrap;
+}
+.legend-item { display:flex; align-items:center; gap:0.5rem; font-size:0.85rem; }
+.legend-dot { width:12px; height:12px; border-radius:50%; }
+
+.projects-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:1.5rem; }
+.project-card {
+  background:#fff; border-radius:12px; padding:1.8rem; border:1px solid var(--border);
+  box-shadow:var(--shadow); transition:all 0.3s;
+}
+.project-card:hover { transform:translateY(-4px); box-shadow:var(--shadow-lg); }
+.project-card .icon { font-size:2rem; color:var(--secondary); margin-bottom:1rem; }
+.project-card h3 { color:var(--primary); margin-bottom:0.5rem; font-size:1.1rem; }
+.project-card p { font-size:0.9rem; color:#6c757d; margin-bottom:1rem; }
+.project-card a { color:var(--primary); font-weight:600; font-size:0.85rem; text-decoration:none; }
+
+.about-grid { display:grid; grid-template-columns:1fr 1fr; gap:3rem; align-items:start; }
+.about-col h3 { color:var(--primary); margin-bottom:1rem; font-size:1.2rem; }
+.about-col ul { list-style:none; }
+.about-col li { padding:0.5rem 0; display:flex; align-items:flex-start; gap:0.7rem; font-size:0.95rem; }
+.about-col li i { color:var(--secondary); margin-top:3px; width:20px; text-align:center; }
+.about-col.neg li i { color:#dc3545; }
+
+.sources-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:1.5rem; }
+.source-card {
+  background:#fff; border-radius:12px; padding:1.5rem; border:1px solid var(--border);
+  box-shadow:var(--shadow);
+}
+.source-card h4 { color:var(--primary); font-size:1rem; margin-bottom:0.5rem; display:flex; align-items:center; gap:0.5rem; }
+.source-card h4 i { color:var(--secondary); }
+.source-card p { font-size:0.85rem; color:#6c757d; line-height:1.6; }
+.source-card .ref { font-size:0.8rem; color:var(--primary); font-weight:500; margin-top:0.5rem; font-style:italic; }
+
+.privacy-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:1.5rem; }
+.privacy-card {
+  background:#fff; border-radius:12px; padding:1.5rem; border:1px solid var(--border);
+  box-shadow:var(--shadow); text-align:center;
+}
+.privacy-card .icon { font-size:2rem; color:var(--secondary); margin-bottom:1rem; }
+.privacy-card h4 { color:var(--primary); margin-bottom:0.5rem; }
+.privacy-card p { font-size:0.85rem; color:#6c757d; }
+
+footer { background:var(--primary); color:rgba(255,255,255,0.7); text-align:center; padding:2rem; font-size:0.85rem; }
+
+@media(max-width:768px){
+  .hero h1 { font-size:2rem; }
+  .about-grid { grid-template-columns:1fr; }
+  nav .nav-links { display:none; position:absolute; top:64px; left:0; right:0; background:#fff; flex-direction:column; padding:1rem 2rem; gap:1rem; border-bottom:1px solid var(--border); }
+  nav .nav-links.open { display:flex; }
+  .nav-toggle { display:block; }
+  #map { height:50vh; }
+}
+</style>
+<base target="_blank">
+</head>
+<body>
+
+<nav>
+  <div class="logo"><i class="fas fa-globe-americas"></i>Carte Pastorale</div>
+  <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')"><i class="fas fa-bars"></i></button>
+  <ul class="nav-links">
+    <li><a class="active" onclick="showSection('home')">Accueil</a></li>
+    <li><a onclick="showSection('projects')">Projets</a></li>
+    <li><a onclick="showSection('about')">À propos</a></li>
+    <li><a onclick="showSection('sources')">Sources</a></li>
+    <li><a onclick="showSection('privacy')">Confidentialité</a></li>
+  </ul>
+</nav>
+
+<section class="hero" id="home">
+  <div class="hero-content">
+    <h1>Carte <span>Pastorale</span> Interactive</h1>
+    <p>Explorez la répartition des diocèses et des territoires pastoraux à travers le monde. Un outil de référence pour comprendre la structure ecclésiale globale.</p>
+    <a class="btn" onclick="document.getElementById('map-section').scrollIntoView({behavior:'smooth'})"><i class="fas fa-map-marked-alt"></i> Explorer la carte</a>
+  </div>
+</section>
+
+<section id="map-section">
+  <div class="map-container">
+    <div id="map"></div>
+    <div class="map-legend">
+      <div class="legend-item"><span class="legend-dot" style="background:#1a3a5c"></span> Siège apostolique</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#c9a84c"></span> Archidiocèse métropolitain</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#2ecc71"></span> Diocèse suffragant</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#e74c3c"></span> Prélature / Ordinariat</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#9b59b6"></span> Mission sui iuris</div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="projects">
+  <h2 class="section-title">Mes autres projets</h2>
+  <p class="section-subtitle">Outils complémentaires pour l'étude et la pastorale</p>
+  <div class="projects-grid">
+    <div class="project-card">
+      <div class="icon"><i class="fas fa-book-open"></i></div>
+      <h3>Lexique Canonique</h3>
+      <p>Dictionnaire interactif des termes du droit canonique avec références au Code de 1983.</p>
+      <a href="#">Découvrir <i class="fas fa-arrow-right"></i></a>
+    </div>
+    <div class="project-card">
+      <div class="icon"><i class="fas fa-users"></i></div>
+      <h3>Annuaire des Conférences</h3>
+      <p>Registre des épiscopats nationaux et régionaux avec contacts et statistiques.</p>
+      <a href="#">Découvrir <i class="fas fa-arrow-right"></i></a>
+    </div>
+    <div class="project-card">
+      <div class="icon"><i class="fas fa-chart-line"></i></div>
+      <h3>Statistiques Ecclesia</h3>
+      <p>Visualisation des données statistiques de l'Église catholique dans le monde.</p>
+      <a href="#">Découvrir <i class="fas fa-arrow-right"></i></a>
+    </div>
+    <div class="project-card">
+      <div class="icon"><i class="fas fa-calendar-alt"></i></div>
+      <h3>Calendrier Liturgique</h3>
+      <p>Calendrier perpétuel avec lectures, solennités et fêtes mobiles.</p>
+      <a href="#">Découvrir <i class="fas fa-arrow-right"></i></a>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="about">
+  <h2 class="section-title">À propos</h2>
+  <p class="section-subtitle">Ce que cet outil est — et ce qu'il n'est pas</p>
+  <div class="about-grid">
+    <div class="about-col">
+      <h3><i class="fas fa-check-circle" style="color:var(--secondary)"></i> Cet outil EST</h3>
+      <ul>
+        <li><i class="fas fa-check"></i> Une carte de référence des circonscriptions ecclésiales</li>
+        <li><i class="fas fa-check"></i> Un support pédagogique pour la formation pastorale</li>
+        <li><i class="fas fa-check"></i> Basé sur des données publiques et vérifiées</li>
+        <li><i class="fas fa-check"></i> Mis à jour périodiquement selon les changements canoniques</li>
+        <li><i class="fas fa-check"></i> Un projet personnel sans affiliation institutionnelle</li>
+      </ul>
+    </div>
+    <div class="about-col neg">
+      <h3><i class="fas fa-times-circle" style="color:#dc3545"></i> Cet outil N'EST PAS</h3>
+      <ul>
+        <li><i class="fas fa-times"></i> Un document officiel du Saint-Siège</li>
+        <li><i class="fas fa-times"></i> Une source juridique canonique</li>
+        <li><i class="fas fa-times"></i> Un outil de géolocalisation précise au mètre près</li>
+        <li><i class="fas fa-times"></i> Exhaustif à 100% (certaines missions peuvent manquer)</li>
+        <li><i class="fas fa-times"></i> Un forum de discussion ou espace de débat</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="sources">
+  <h2 class="section-title">Sources & Références</h2>
+  <p class="section-subtitle">Les données contextualisées et vérifiables qui fondent cette carte</p>
+  <div class="sources-grid">
+    <div class="source-card">
+      <h4><i class="fas fa-book"></i> Annuario Pontificio</h4>
+      <p>Annuaire officiel du Saint-Siège publié annuellement par la Librairie Éditrice Vaticane. Référence canonique pour les circonscriptions ecclésiales.</p>
+      <div class="ref">Réf. : LEV, Città del Vaticano, éd. annuelle</div>
+    </div>
+    <div class="source-card">
+      <h4><i class="fas fa-chart-bar"></i> Annus Statisticus Ecclesiae</h4>
+      <p>Recueil statistique annuel du Secrétariat d'État du Vatican. Données démographiques et pastorales par pays et par diocèse.</p>
+      <div class="ref">Réf. : Secrétariat d'État, Section pour les Relations avec les États</div>
+    </div>
+    <div class="source-card">
+      <h4><i class="fas fa-globe"></i> Catholic-Hierarchy.org</h4>
+      <p>Base de données indépendante maintenue par David M. Cheney. Répertoire structuré des diocèses, évêques et évêchés vacants.</p>
+      <div class="ref">Réf. : catholic-hierarchy.org (consulté régulièrement)</div>
+    </div>
+    <div class="source-card">
+      <h4><i class="fas fa-university"></i> GCatholic.org</h4>
+      <p>Base de données globale des structures ecclésiales avec cartographie, historique des créations/suppressions de diocèses.</p>
+      <div class="ref">Réf. : gcatholic.org (consulté régulièrement)</div>
+    </div>
+    <div class="source-card">
+      <h4><i class="fas fa-map"></i> OpenStreetMap</h4>
+      <p>Fond cartographique libre de droits utilisé pour le rendu de la carte interactive.</p>
+      <div class="ref">Réf. : © OpenStreetMap contributors, ODbL</div>
+    </div>
+    <div class="source-card">
+      <h4><i class="fas fa-leaf"></i> Leaflet.js</h4>
+      <p>Bibliothèque JavaScript open-source pour cartes interactives. Moteur de rendu de cette application.</p>
+      <div class="ref">Réf. : leafletjs.com, licence BSD-2</div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="privacy">
+  <h2 class="section-title">Confidentialité</h2>
+  <p class="section-subtitle">Vos données sont votre propriété</p>
+  <div class="privacy-grid">
+    <div class="privacy-card">
+      <div class="icon"><i class="fas fa-user-secret"></i></div>
+      <h4>Pas de collecte</h4>
+      <p>Aucune donnée personnelle n'est collectée, stockée ou transmise à des tiers.</p>
+    </div>
+    <div class="privacy-card">
+      <div class="icon"><i class="fas fa-cookie-bite"></i></div>
+      <h4>Sans cookies</h4>
+      <p>Aucun cookie de traçage ou de profilage n'est utilisé sur cette page.</p>
+    </div>
+    <div class="privacy-card">
+      <div class="icon"><i class="fas fa-server"></i></div>
+      <h4>Hébergement simple</h4>
+      <p>Fichier HTML statique sans base de données ni traitement serveur.</p>
+    </div>
+    <div class="privacy-card">
+      <div class="icon"><i class="fas fa-map-marker-alt"></i></div>
+      <h4>Géolocalisation désactivée</h4>
+      <p>Votre position n'est jamais demandée ni utilisée.</p>
+    </div>
+    <div class="privacy-card">
+      <div class="icon"><i class="fas fa-lock"></i></div>
+      <h4>HTTPS obligatoire</h4>
+      <p>Connexion sécurisée si hébergée sur un serveur web moderne.</p>
+    </div>
+    <div class="privacy-card">
+      <div class="icon"><i class="fas fa-code-branch"></i></div>
+      <h4>Code ouvert</h4>
+      <p>Le code source est lisible et auditable directement dans le navigateur.</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>Carte Pastorale Interactive — Projet personnel à but éducatif — 2026</p>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+function showSection(id) {
+  document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
+  if (id !== 'home') {
+    const target = document.getElementById(id);
+    if (target) target.classList.add('active');
+    target.scrollIntoView({behavior:'smooth', block:'start'});
+  } else {
+    window.scrollTo({top:0, behavior:'smooth'});
+  }
+  document.querySelectorAll('.nav-links a').forEach(a => a.classList.remove('active'));
+  if (event && event.target) event.target.classList.add('active');
+  document.querySelector('.nav-links').classList.remove('open');
+}
+
+const map = L.map('map', {
+  center: [20, 0],
+  zoom: 2,
+  minZoom: 1,
+  maxZoom: 8,
+  zoomControl: true,
+  attributionControl: false
+});
+
+L.GridLayer.AutonomousMap = L.GridLayer.extend({
+  createTile: function(coords) {
+    const tile = document.createElement('canvas');
+    const tileSize = this.getTileSize();
+    tile.setAttribute('width', tileSize.x);
+    tile.setAttribute('height', tileSize.y);
+    const ctx = tile.getContext('2d');
+    ctx.fillStyle = '#c5e3ec';
+    ctx.fillRect(0, 0, tileSize.x, tileSize.y);
+    const s = tileSize.x;
+    const z = coords.z;
+    const x = coords.x;
+    const y = coords.y;
+    const n = Math.pow(2, z);
+    const nwLng = x / n * 360 - 180;
+    const nwLatRad = Math.atan(Math.sinh(Math.PI * (1 - 2 * y / n)));
+    const nwLat = nwLatRad * 180 / Math.PI;
+    const seLng = (x + 1) / n * 360 - 180;
+    const seLatRad = Math.atan(Math.sinh(Math.PI * (1 - 2 * (y + 1) / n)));
+    const seLat = seLatRad * 180 / Math.PI;
+    const lngPerTile = 360 / n;
+    const merc = function(lat) { return Math.log(Math.tan(lat/2 + Math.PI/4)); };
+    const latToY = function(lat) {
+      const latR = lat * Math.PI / 180;
+      return ((merc(latR) - merc(nwLatRad)) / (merc(seLatRad) - merc(nwLatRad))) * s;
+    };
+    const lngToX = function(lng) {
+      return ((lng - nwLng) / lngPerTile) * s;
+    };
+    ctx.strokeStyle = 'rgba(255,255,255,0.35)';
+    ctx.lineWidth = 0.8;
+    for (let lng = Math.ceil(nwLng / 10) * 10; lng < nwLng + lngPerTile; lng += 10) {
+      const px = lngToX(lng);
+      ctx.beginPath(); ctx.moveTo(px, 0); ctx.lineTo(px, s); ctx.stroke();
+    }
+    for (let lat = Math.ceil(nwLat / 10) * 10; lat > seLat - 5; lat -= 10) {
+      const py = latToY(lat);
+      if (py >= -10 && py <= s + 10) {
+        ctx.beginPath(); ctx.moveTo(0, py); ctx.lineTo(s, py); ctx.stroke();
+      }
+    }
+    const eqY = latToY(0);
+    if (eqY >= -5 && eqY <= s + 5) {
+      ctx.strokeStyle = 'rgba(26,58,92,0.25)';
+      ctx.lineWidth = 1.5;
+      ctx.beginPath(); ctx.moveTo(0, eqY); ctx.lineTo(s, eqY); ctx.stroke();
+    }
+    const pmX = lngToX(0);
+    if (pmX >= -5 && pmX <= s + 5) {
+      ctx.strokeStyle = 'rgba(26,58,92,0.25)';
+      ctx.lineWidth = 1.5;
+      ctx.beginPath(); ctx.moveTo(pmX, 0); ctx.lineTo(pmX, s); ctx.stroke();
+    }
+    if (z >= 3) {
+      ctx.fillStyle = 'rgba(26,58,92,0.35)';
+      ctx.font = '10px Inter, sans-serif';
+      ctx.textAlign = 'center';
+      for (let lat = Math.ceil(nwLat / 10) * 10; lat > seLat - 5; lat -= 10) {
+        if (lat === 0) continue;
+        const py = latToY(lat);
+        if (py >= 15 && py <= s - 5) {
+          ctx.fillText((lat > 0 ? lat + '°N' : (-lat) + '°S'), s - 22, py - 3);
+        }
+      }
+    }
+    return tile;
+  }
+});
+
+new L.GridLayer.AutonomousMap().addTo(map);
+
+const continents = [
+  [[75,-170],[75,-50],[60,-50],[60,-80],[50,-60],[45,-55],[40,-70],[35,-75],[25,-80],[20,-105],[15,-90],[10,-85],[5,-78],[8,-60],[15,-60],[25,-80],[30,-115],[35,-120],[40,-125],[45,-125],[50,-130],[55,-135],[60,-140],[65,-165],[70,-170],[75,-170]],
+  [[15,-60],[5,-50],[0,-50],[-5,-35],[-10,-35],[-15,-40],[-20,-40],[-25,-45],[-30,-50],[-35,-55],[-40,-65],[-45,-65],[-50,-75],[-55,-70],[-55,-65],[-50,-70],[-45,-75],[-40,-73],[-35,-72],[-30,-71],[-25,-70],[-20,-70],[-15,-75],[-10,-78],[-5,-80],[0,-80],[5,-78],[10,-75],[12,-77],[12,-72],[10,-60],[15,-60]],
+  [[70,-25],[70,30],[65,30],[65,40],[60,45],[55,50],[50,40],[45,40],[40,30],[35,25],[35,15],[40,10],[45,0],[50,-10],[55,-10],[60,0],[65,10],[70,-10],[70,-25]],
+  [[35,-10],[40,10],[35,25],[30,30],[25,35],[20,35],[15,15],[10,15],[5,10],[0,10],[-5,12],[-10,15],[-15,12],[-20,17],[-25,15],[-30,17],[-35,20],[-30,30],[-25,32],[-20,35],[-15,35],[-10,40],[-5,40],[0,45],[5,45],[10,50],[15,50],[20,45],[25,40],[30,35],[35,30],[35,-10]],
+  [[75,30],[75,60],[70,60],[70,100],[65,100],[65,120],[60,120],[60,140],[55,140],[55,160],[50,160],[50,140],[45,140],[45,130],[40,130],[40,120],[35,120],[35,110],[30,110],[30,100],[25,100],[25,90],[20,90],[20,80],[15,80],[10,80],[10,75],[8,78],[8,92],[10,100],[15,105],[20,110],[25,115],[30,120],[35,125],[40,130],[45,135],[50,140],[55,145],[60,150],[65,170],[70,180],[75,180],[75,30]],
+  [[-10,115],[-15,115],[-20,115],[-25,115],[-30,115],[-35,115],[-40,115],[-40,140],[-35,145],[-30,150],[-25,150],[-20,148],[-15,145],[-10,140],[-10,115]],
+  [[85,-75],[85,-10],[80,-10],[80,-20],[75,-20],[75,-30],[70,-30],[70,-40],[65,-40],[65,-50],[70,-50],[70,-60],[75,-60],[75,-70],[80,-70],[80,-75],[85,-75]],
+  [[60,-11],[58,-4],[55,-6],[52,-5],[50,-5],[50,-10],[52,-10],[55,-8],[58,-11],[60,-11]],
+  [[46,140],[44,143],[40,140],[35,136],[33,130],[35,129],[38,140],[42,141],[46,140]],
+  [[-34,172],[-37,175],[-42,174],[-47,166],[-47,168],[-42,172],[-37,177],[-34,172]],
+  [[-12,43],[-16,44],[-20,44],[-25,47],[-26,44],[-24,43],[-20,43],[-16,43],[-12,43]],
+  [[5,95],[5,140],[0,140],[0,130],[-5,130],[-5,140],[-10,140],[-10,150],[-5,150],[0,150],[5,150],[5,95]],
+  [[20,120],[18,122],[15,121],[12,125],[10,120],[12,118],[15,120],[18,119],[20,120]],
+];
+
+continents.forEach(poly => {
+  L.polygon(poly.map(p => [p[0], p[1]]), {
+    color: '#8fbfa0',
+    weight: 1,
+    fillColor: '#b8d4c2',
+    fillOpacity: 0.65
+  }).addTo(map);
+});
+
+const labels = [
+  [45, 2, 'France'], [52, -1, 'UK'], [51, 10, 'Germany'], [41, 12, 'Italy'],
+  [40, -4, 'Spain'], [39, 22, 'Greece'], [47, 19, 'Hungary'], [50, 20, 'Poland'],
+  [60, 18, 'Sweden'], [64, 26, 'Finland'], [39, 35, 'Turkey'], [55, 37, 'Russia'],
+  [30, 69, 'Pakistan'], [20, 78, 'India'], [23, 90, 'Bangladesh'], [14, 121, 'Philippines'],
+  [1, 103, 'Singapore'], [-6, 107, 'Indonesia'], [-25, 133, 'Australia'],
+  [36, 138, 'Japan'], [37, 127, 'S. Korea'], [39, 116, 'China'], [21, 105, 'Vietnam'],
+  [13, 100, 'Thailand'], [3, 101, 'Malaysia'], [-1, 36, 'Kenya'], [-1, 15, 'DR Congo'],
+  [6, -5, 'Ivory Coast'], [9, 8, 'Nigeria'], [-26, 28, 'South Africa'],
+  [-13, 34, 'Malawi'], [-19, 30, 'Zimbabwe'], [0, 32, 'Uganda'],
+  [30, 31, 'Egypt'], [33, 44, 'Iraq'], [33, 35, 'Lebanon'],
+  [38, -97, 'USA'], [56, -106, 'Canada'], [19, -99, 'Mexico'],
+  [14, -90, 'Guatemala'], [9, -80, 'Panama'],
+  [-14, -51, 'Brazil'], [-34, -64, 'Argentina'], [-33, -70, 'Chile'],
+  [-12, -77, 'Peru'], [4, -74, 'Colombia'], [-1, -78, 'Ecuador'],
+  [-17, -65, 'Bolivia'], [-23, -58, 'Paraguay'], [-33, -56, 'Uruguay'],
+  [-41, 174, 'New Zealand'], [-17, 178, 'Fiji'],
+];
+
+labels.forEach(l => {
+  L.marker([l[0], l[1]], {
+    icon: L.divIcon({
+      className: 'country-label',
+      html: '<span style="font-size:10px;color:rgba(26,58,92,0.5);font-weight:600;white-space:nowrap;font-family:Inter,sans-serif;text-shadow:0 0 4px rgba(255,255,255,0.9);">' + l[2] + '</span>',
+      iconSize: [80, 14],
+      iconAnchor: [40, 7]
+    }),
+    interactive: false
+  }).addTo(map);
+});
+
+const colors = {
+  siege: '#1a3a5c',
+  archeveche: '#c9a84c',
+  diocese: '#2ecc71',
+  prelature: '#e74c3c',
+  mission: '#9b59b6'
+};
+
+function addMarker(lat, lng, title, type, desc) {
+  const color = colors[type] || '#333';
+  const icon = L.divIcon({
+    className: 'custom-marker',
+    html: '<div style="width:14px;height:14px;background:' + color + ';border-radius:50%;border:2px solid #fff;box-shadow:0 2px 6px rgba(0,0,0,0.3);cursor:pointer;"></div>',
+    iconSize: [14, 14],
+    iconAnchor: [7, 7]
+  });
+  L.marker([lat, lng], {icon}).addTo(map)
+    .bindPopup('<strong>' + title + '</strong><br><em>' + desc + '</em>');
+}
+
+
+// ===== VATICAN / ITALY =====
+addMarker(41.9029, 12.4534, 'Saint-Siège (Vatican)', 'siege', 'Siège apostolique');
+addMarker(41.8967, 12.4822, 'Diocèse de Rome', 'archeveche', 'Archidiocèse du Pape');
+addMarker(45.4642, 9.1900, 'Archidiocèse de Milan', 'archeveche', 'Italie');
+addMarker(40.8518, 14.2681, 'Archidiocèse de Naples', 'archeveche', 'Italie');
+addMarker(43.7696, 11.2558, 'Archidiocèse de Florence', 'archeveche', 'Italie');
+addMarker(44.4949, 11.3426, 'Archidiocèse de Bologne', 'archeveche', 'Italie');
+addMarker(45.4064, 11.8768, 'Diocèse de Padoue', 'diocese', 'Italie');
+addMarker(38.1157, 13.3615, 'Archidiocèse de Palerme', 'archeveche', 'Sicile, Italie');
+addMarker(37.5079, 15.0830, 'Archidiocèse de Catane', 'archeveche', 'Sicile, Italie');
+addMarker(45.0703, 7.6869, 'Archidiocèse de Turin', 'archeveche', 'Italie');
+addMarker(44.4056, 8.9463, 'Archidiocèse de Gênes', 'archeveche', 'Italie');
+addMarker(41.1171, 16.8719, 'Archidiocèse de Bari', 'archeveche', 'Italie');
+addMarker(45.6495, 13.7768, 'Archidiocèse de Trieste', 'archeveche', 'Italie');
+
+// ===== FRANCE =====
+addMarker(48.8566, 2.3522, 'Archidiocèse de Paris', 'archeveche', 'France');
+addMarker(45.7640, 4.8357, 'Archidiocèse de Lyon', 'archeveche', 'Primat des Gaules');
+addMarker(43.2965, 5.3698, 'Diocèse de Marseille', 'diocese', 'France');
+addMarker(47.2184, -1.5536, 'Diocèse de Nantes', 'diocese', 'France');
+addMarker(44.8378, -0.5792, 'Archidiocèse de Bordeaux', 'archeveche', 'France');
+addMarker(43.6047, 1.4442, 'Archidiocèse de Toulouse', 'archeveche', 'France');
+addMarker(48.5734, 7.7521, 'Archidiocèse de Strasbourg', 'archeveche', 'France');
+addMarker(50.6292, 3.0573, 'Archidiocèse de Lille', 'archeveche', 'France');
+addMarker(49.2583, 4.0317, 'Archidiocèse de Reims', 'archeveche', 'France');
+addMarker(43.7102, 7.2620, 'Diocèse de Nice', 'diocese', 'France');
+addMarker(47.4784, -0.5632, "Diocèse d'Angers", 'diocese', 'France');
+addMarker(48.3904, -4.4861, 'Diocèse de Quimper', 'diocese', 'France');
+
+// ===== SPAIN =====
+addMarker(40.4168, -3.7038, 'Archidiocèse de Madrid', 'archeveche', 'Espagne');
+addMarker(41.3851, 2.1734, 'Archidiocèse de Barcelone', 'archeveche', 'Espagne');
+addMarker(37.3891, -5.9845, 'Archidiocèse de Séville', 'archeveche', 'Espagne');
+addMarker(43.2630, -2.9350, 'Diocèse de Bilbao', 'diocese', 'Espagne');
+addMarker(39.4699, -0.3763, 'Archidiocèse de Valence', 'archeveche', 'Espagne');
+addMarker(36.7213, -4.4214, 'Diocèse de Málaga', 'diocese', 'Espagne');
+addMarker(43.3619, -5.8494, "Archidiocèse d'Oviedo", 'archeveche', 'Espagne');
+addMarker(42.8782, -8.5448, 'Archidiocèse de Saint-Jacques-de-Compostelle', 'archeveche', 'Espagne');
+
+// ===== GERMANY =====
+addMarker(50.1109, 8.6821, 'Diocèse de Limbourg', 'diocese', 'Allemagne');
+addMarker(48.1351, 11.5820, 'Archidiocèse de Munich et Freising', 'archeveche', 'Allemagne');
+addMarker(50.9375, 6.9603, 'Archidiocèse de Cologne', 'archeveche', 'Allemagne');
+addMarker(52.5200, 13.4050, 'Archidiocèse de Berlin', 'archeveche', 'Allemagne');
+addMarker(48.7758, 9.1829, 'Diocèse de Rottenburg-Stuttgart', 'diocese', 'Allemagne');
+addMarker(51.2277, 6.7735, 'Archidiocèse de Fribourg-en-Brisgau', 'archeveche', 'Allemagne');
+addMarker(49.7913, 9.9534, 'Diocèse de Würzburg', 'diocese', 'Allemagne');
+addMarker(53.5511, 9.9937, 'Archidiocèse de Hambourg', 'archeveche', 'Allemagne');
+
+// ===== UK =====
+addMarker(51.5074, -0.1278, 'Archidiocèse de Westminster', 'archeveche', 'Angleterre');
+addMarker(53.4084, -2.9916, 'Archidiocèse de Liverpool', 'archeveche', 'Angleterre');
+addMarker(53.4808, -2.2426, 'Diocèse de Salford', 'diocese', 'Angleterre');
+addMarker(55.9533, -3.1883, 'Archidiocèse de Saint Andrews et Édimbourg', 'archeveche', 'Écosse');
+addMarker(55.8642, -4.2518, 'Archidiocèse de Glasgow', 'archeveche', 'Écosse');
+addMarker(51.4816, -3.1791, 'Archidiocèse de Cardiff', 'archeveche', 'Pays de Galles');
+
+// ===== NORTH AMERICA =====
+addMarker(38.9072, -77.0369, 'Archidiocèse de Washington', 'archeveche', 'USA');
+addMarker(40.7128, -74.0060, 'Archidiocèse de New York', 'archeveche', 'USA');
+addMarker(34.0522, -118.2437, 'Archidiocèse de Los Angeles', 'archeveche', 'USA');
+addMarker(41.8781, -87.6298, 'Archidiocèse de Chicago', 'archeveche', 'USA');
+addMarker(29.7604, -95.3698, 'Archidiocèse de Galveston-Houston', 'archeveche', 'USA');
+addMarker(25.7617, -80.1918, 'Archidiocèse de Miami', 'archeveche', 'USA');
+addMarker(37.7749, -122.4194, 'Archidiocèse de San Francisco', 'archeveche', 'USA');
+addMarker(42.3601, -71.0589, 'Archidiocèse de Boston', 'archeveche', 'USA');
+addMarker(39.9526, -75.1652, 'Archidiocèse de Philadelphie', 'archeveche', 'USA');
+addMarker(45.5017, -73.5673, 'Archidiocèse de Montréal', 'archeveche', 'Canada');
+addMarker(43.6532, -79.3832, 'Archidiocèse de Toronto', 'archeveche', 'Canada');
+addMarker(49.2827, -123.1207, 'Archidiocèse de Vancouver', 'archeveche', 'Canada');
+addMarker(45.4215, -75.6972, "Archidiocèse d'Ottawa", 'archeveche', 'Canada');
+addMarker(19.4326, -99.1332, 'Archidiocèse de Mexico', 'archeveche', 'Mexique');
+addMarker(20.6597, -103.3496, 'Archidiocèse de Guadalajara', 'archeveche', 'Mexique');
+addMarker(25.6866, -100.3161, 'Archidiocèse de Monterrey', 'archeveche', 'Mexique');
+addMarker(19.0414, -98.2063, 'Diocèse de Puebla', 'diocese', 'Mexique');
+
+// ===== SOUTH AMERICA =====
+addMarker(-22.9068, -43.1729, 'Archidiocèse de São Sebastião do Rio de Janeiro', 'archeveche', 'Brésil');
+addMarker(-23.5505, -46.6333, 'Archidiocèse de São Paulo', 'archeveche', 'Brésil');
+addMarker(-12.9714, -38.5014, 'Archidiocèse de São Salvador da Bahia', 'archeveche', 'Brésil');
+addMarker(-3.7319, -38.5267, 'Archidiocèse de Fortaleza', 'archeveche', 'Brésil');
+addMarker(-8.0476, -34.8770, "Archidiocèse d'Olinda et Recife", 'archeveche', 'Brésil');
+addMarker(-30.0346, -51.2177, 'Archidiocèse de Porto Alegre', 'archeveche', 'Brésil');
+addMarker(-34.6037, -58.3816, 'Archidiocèse de Buenos Aires', 'archeveche', 'Argentine');
+addMarker(-31.4201, -64.1888, 'Archidiocèse de Córdoba', 'archeveche', 'Argentine');
+addMarker(-32.8895, -68.8458, 'Diocèse de Mendoza', 'diocese', 'Argentine');
+addMarker(-33.4489, -70.6693, 'Archidiocèse de Santiago du Chili', 'archeveche', 'Chili');
+addMarker(-36.8201, -73.0444, 'Archidiocèse de Concepción', 'archeveche', 'Chili');
+addMarker(-12.0464, -77.0428, 'Archidiocèse de Lima', 'archeveche', 'Pérou');
+addMarker(-16.4090, -71.5375, "Archidiocèse d'Arequipa", 'archeveche', 'Pérou');
+addMarker(-13.1631, -72.5450, 'Diocèse de Cuzco', 'diocese', 'Pérou');
+addMarker(-0.1807, -78.4678, 'Archidiocèse de Quito', 'archeveche', 'Équateur');
+addMarker(-2.1894, -79.8891, 'Archidiocèse de Guayaquil', 'archeveche', 'Équateur');
+addMarker(4.7110, -74.0721, 'Archidiocèse de Bogota', 'archeveche', 'Colombie');
+addMarker(6.2442, -75.5812, 'Archidiocèse de Medellín', 'archeveche', 'Colombie');
+addMarker(10.4806, -66.9036, 'Archidiocèse de Caracas', 'archeveche', 'Venezuela');
+addMarker(-17.7833, -63.1821, 'Archidiocèse de Santa Cruz de la Sierra', 'archeveche', 'Bolivie');
+addMarker(-16.5000, -68.1500, 'Diocèse de La Paz', 'diocese', 'Bolivie');
+addMarker(-25.2637, -57.5759, "Archidiocèse d'Asunción", 'archeveche', 'Paraguay');
+addMarker(-34.9011, -56.1645, 'Archidiocèse de Montevideo', 'archeveche', 'Uruguay');
+
+// ===== AFRICA =====
+addMarker(6.5244, 3.3792, 'Archidiocèse de Lagos', 'archeveche', 'Nigéria');
+addMarker(9.0579, 7.4951, "Archidiocèse d'Abuja", 'archeveche', 'Nigéria');
+addMarker(5.6037, -0.1870, "Archidiocèse d'Accra", 'archeveche', 'Ghana');
+addMarker(5.3600, -4.0083, "Archidiocèse d'Abidjan", 'archeveche', "Côte d'Ivoire");
+addMarker(6.1319, 1.2228, 'Diocèse de Lomé', 'diocese', 'Togo');
+addMarker(12.3714, -1.5197, 'Archidiocèse de Ouagadougou', 'archeveche', 'Burkina Faso');
+addMarker(14.7167, -17.4677, 'Archidiocèse de Dakar', 'archeveche', 'Sénégal');
+addMarker(36.8065, 10.1815, 'Archidiocèse de Tunis', 'archeveche', 'Tunisie');
+addMarker(33.8869, 9.5375, 'Diocèse de Sfax', 'diocese', 'Tunisie');
+addMarker(30.0444, 31.2357, "Patriarcat d'Alexandrie des Coptes", 'archeveche', 'Égypte');
+addMarker(31.2001, 29.9187, "Diocèse d'Alexandrie (Latins)", 'diocese', 'Égypte');
+addMarker(-1.2921, 36.8219, 'Archidiocèse de Nairobi', 'archeveche', 'Kenya');
+addMarker(-4.4419, 15.2663, 'Archidiocèse de Kinshasa', 'archeveche', 'RDC');
+addMarker(-11.6647, 27.4794, 'Archidiocèse de Lubumbashi', 'archeveche', 'RDC');
+addMarker(-6.7924, 39.2083, 'Archidiocèse de Dar es Salaam', 'archeveche', 'Tanzanie');
+addMarker(-3.3869, 36.6830, "Diocèse d'Arusha", 'diocese', 'Tanzanie');
+addMarker(-18.8792, 47.5079, "Archidiocèse d'Antananarivo", 'archeveche', 'Madagascar');
+addMarker(-13.2543, 34.3015, 'Diocèse de Lilongwe', 'diocese', 'Malawi');
+addMarker(-15.3875, 28.3228, 'Archidiocèse de Lusaka', 'archeveche', 'Zambie');
+addMarker(-17.8252, 31.0335, 'Archidiocèse de Harare', 'archeveche', 'Zimbabwe');
+addMarker(-22.5609, 17.0658, 'Archidiocèse de Windhoek', 'archeveche', 'Namibie');
+addMarker(-33.9249, 18.4241, 'Archidiocèse du Cap', 'archeveche', 'Afrique du Sud');
+addMarker(-26.2041, 28.0473, 'Archidiocèse de Johannesburg', 'archeveche', 'Afrique du Sud');
+addMarker(-29.8587, 31.0218, 'Archidiocèse de Durban', 'archeveche', 'Afrique du Sud');
+addMarker(-25.7479, 28.2293, 'Archidiocèse de Pretoria', 'archeveche', 'Afrique du Sud');
+addMarker(-8.8390, 13.2894, 'Archidiocèse de Luanda', 'archeveche', 'Angola');
+addMarker(3.8480, 11.5021, 'Archidiocèse de Yaoundé', 'archeveche', 'Cameroun');
+addMarker(4.0511, 9.7679, 'Archidiocèse de Douala', 'archeveche', 'Cameroun');
+addMarker(0.4162, 9.4673, 'Archidiocèse de Libreville', 'archeveche', 'Gabon');
+addMarker(-4.2634, 15.2429, 'Archidiocèse de Brazzaville', 'archeveche', 'Congo');
+addMarker(0.5153, 25.1909, 'Archidiocèse de Kisangani', 'archeveche', 'RDC');
+addMarker(-1.6585, 29.2203, 'Archidiocèse de Goma', 'archeveche', 'RDC');
+addMarker(-2.5167, 28.8500, 'Diocèse de Bukavu', 'diocese', 'RDC');
+addMarker(5.1521, 46.1996, 'Diocèse de Mogadiscio', 'diocese', 'Somalie');
+addMarker(9.1450, 40.4897, "Diocèse d'Harar", 'diocese', 'Éthiopie');
+addMarker(15.5007, 32.5599, 'Archidiocèse de Khartoum', 'archeveche', 'Soudan');
+addMarker(4.8594, 31.5713, 'Diocèse de Djouba', 'diocese', 'Soudan du Sud');
+addMarker(32.8872, 13.1913, 'Diocèse de Tripoli', 'diocese', 'Libye');
+addMarker(35.7595, -5.8340, 'Diocèse de Tanger', 'diocese', 'Maroc');
+addMarker(33.5731, -7.5898, 'Archidiocèse de Rabat', 'archeveche', 'Maroc');
+
+// ===== ASIA =====
+addMarker(41.9028, 12.4964, 'Patriarcat latin de Jérusalem', 'archeveche', 'Terre Sainte');
+addMarker(31.7683, 35.2137, 'Patriarcat de Jérusalem (Grecs-Melkites)', 'archeveche', 'Israël/Palestine');
+addMarker(33.3152, 44.3661, 'Patriarcat de Babylone des Chaldéens', 'archeveche', 'Irak');
+addMarker(33.8938, 35.5018, "Maronite Patriarcat d'Antioche", 'archeveche', 'Liban');
+addMarker(33.8938, 35.5018, 'Archidiocèse maronite de Beyrouth', 'archeveche', 'Liban');
+addMarker(33.2720, 35.2033, 'Archidiocèse de Tyr (Maronite)', 'archeveche', 'Liban');
+addMarker(33.5138, 36.2765, 'Archidiocèse grec-melkite de Damas', 'archeveche', 'Syrie');
+addMarker(33.5138, 36.2765, "Archidiocèse syriaque d'Antioche", 'archeveche', 'Syrie');
+addMarker(39.9334, 32.8597, 'Archidiocèse de Ankara', 'archeveche', 'Turquie');
+addMarker(41.0082, 28.9784, 'Patriarcat œcuménique de Constantinople', 'siege', 'Turquie');
+addMarker(35.6892, 51.3890, 'Archidiocèse de Téhéran', 'archeveche', 'Iran');
+addMarker(24.7136, 46.6753, 'Archidiocèse de Riyad (Arabie)', 'archeveche', 'Arabie saoudite');
+addMarker(25.2854, 51.5310, 'Archidiocèse de Doha', 'archeveche', 'Qatar');
+addMarker(25.2048, 55.2708, 'Apostolic Vicariate of Southern Arabia', 'prelature', 'Émirats');
+addMarker(23.5880, 58.3829, 'Archidiocèse de Mascate', 'archeveche', 'Oman');
+addMarker(28.6139, 77.2090, 'Archidiocèse de Delhi', 'archeveche', 'Inde');
+addMarker(19.0760, 72.8777, 'Archidiocèse de Bombay', 'archeveche', 'Inde');
+addMarker(13.0827, 80.2707, 'Archidiocèse de Madras et Mylapore', 'archeveche', 'Inde');
+addMarker(9.9312, 76.2673, 'Archidiocèse de Verapoly', 'archeveche', 'Inde');
+addMarker(15.2993, 74.1240, 'Archidiocèse de Goa et Daman', 'archeveche', 'Inde');
+addMarker(22.5726, 88.3639, 'Archidiocèse de Calcutta', 'archeveche', 'Inde');
+addMarker(6.9271, 79.8612, 'Archidiocèse de Colombo', 'archeveche', 'Sri Lanka');
+addMarker(7.8731, 80.7718, "Diocèse d'Anuradhapura", 'diocese', 'Sri Lanka');
+addMarker(27.7172, 85.3240, 'Apostolic Vicariate of Kathmandu', 'prelature', 'Népal');
+addMarker(23.8103, 90.4125, 'Archidiocèse de Dacca', 'archeveche', 'Bangladesh');
+addMarker(14.5995, 120.9842, 'Archidiocèse de Manille', 'archeveche', 'Philippines');
+addMarker(10.3157, 123.8854, 'Archidiocèse de Cebu', 'archeveche', 'Philippines');
+addMarker(7.1907, 125.4553, 'Archidiocèse de Davao', 'archeveche', 'Philippines');
+addMarker(14.6760, 121.0437, 'Diocèse de Quezon City', 'diocese', 'Philippines');
+addMarker(1.3521, 103.8198, 'Archidiocèse de Singapour', 'archeveche', 'Singapour');
+addMarker(3.1390, 101.6869, 'Archidiocèse de Kuala Lumpur', 'archeveche', 'Malaisie');
+addMarker(-6.2088, 106.8456, 'Archidiocèse de Jakarta', 'archeveche', 'Indonésie');
+addMarker(-7.7971, 110.3688, 'Archidiocèse de Semarang', 'archeveche', 'Indonésie');
+addMarker(-5.1477, 119.4327, 'Archidiocèse de Makassar', 'archeveche', 'Indonésie');
+addMarker(-8.6500, 115.2167, 'Diocèse de Denpasar', 'diocese', 'Indonésie');
+addMarker(13.7563, 100.5018, 'Archidiocèse de Bangkok', 'archeveche', 'Thaïlande');
+addMarker(18.7883, 98.9853, 'Diocèse de Chiang Mai', 'diocese', 'Thaïlande');
+addMarker(16.8661, 96.1951, 'Archidiocèse de Rangoun', 'archeveche', 'Myanmar');
+addMarker(21.0278, 105.8342, 'Archidiocèse de Hanoï', 'archeveche', 'Vietnam');
+addMarker(10.8231, 106.6297, "Archidiocèse d'Ho Chi Minh-Ville", 'archeveche', 'Vietnam');
+addMarker(15.8800, 108.3380, 'Diocèse de Đà Nẵng', 'diocese', 'Vietnam');
+addMarker(11.5564, 104.9282, 'Diocèse de Phnom Penh', 'diocese', 'Cambodge');
+addMarker(35.6762, 139.6503, 'Archidiocèse de Tokyo', 'archeveche', 'Japon');
+addMarker(34.6937, 135.5023, "Archidiocèse d'Osaka", 'archeveche', 'Japon');
+addMarker(43.0618, 141.3545, 'Diocèse de Sapporo', 'diocese', 'Japon');
+addMarker(37.5665, 126.9780, 'Archidiocèse de Séoul', 'archeveche', 'Corée du Sud');
+addMarker(35.1796, 129.0756, 'Diocèse de Busan', 'diocese', 'Corée du Sud');
+addMarker(39.9042, 116.4074, 'Archidiocèse de Pékin', 'archeveche', 'Chine');
+addMarker(31.2304, 121.4737, 'Diocèse de Shanghai', 'diocese', 'Chine');
+addMarker(23.1291, 113.2644, 'Archidiocèse de Canton', 'archeveche', 'Chine');
+addMarker(30.5728, 104.0668, 'Diocèse de Chengdu', 'diocese', 'Chine');
+addMarker(22.3193, 114.1694, 'Diocèse de Hong Kong', 'diocese', 'Chine');
+addMarker(25.0330, 121.5654, 'Archidiocèse de Taipei', 'archeveche', 'Taïwan');
+addMarker(47.9185, 106.9170, "Mission sui iuris d'Oulan-Bator", 'mission', 'Mongolie');
+addMarker(41.2995, 69.2401, 'Mission sui iuris de Tachkent', 'mission', 'Ouzbékistan');
+addMarker(38.5598, 68.7870, 'Mission sui iuris de Douchanbé', 'mission', 'Tadjikistan');
+addMarker(42.8746, 74.5698, 'Mission sui iuris de Bichkek', 'mission', 'Kirghizistan');
+addMarker(43.2220, 76.8512, "Mission sui iuris d'Almaty", 'mission', 'Kazakhstan');
+addMarker(51.1605, 71.4704, "Mission sui iuris d'Astana", 'mission', 'Kazakhstan');
+addMarker(40.4093, 49.8671, 'Mission sui iuris de Bakou', 'mission', 'Azerbaïdjan');
+addMarker(40.1792, 44.4991, "Mission sui iuris d'Erevan", 'mission', 'Arménie');
+addMarker(41.7151, 44.8271, 'Mission sui iuris de Tbilissi', 'mission', 'Géorgie');
+
+// ===== OCEANIA =====
+addMarker(-33.8688, 151.2093, 'Archidiocèse de Sydney', 'archeveche', 'Australie');
+addMarker(-37.8136, 144.9631, 'Archidiocèse de Melbourne', 'archeveche', 'Australie');
+addMarker(-27.4698, 153.0251, 'Archidiocèse de Brisbane', 'archeveche', 'Australie');
+addMarker(-31.9505, 115.8605, 'Archidiocèse de Perth', 'archeveche', 'Australie');
+addMarker(-34.9285, 138.6007, "Archidiocèse d'Adélaïde", 'archeveche', 'Australie');
+addMarker(-35.2809, 149.1300, 'Archidiocèse de Canberra', 'archeveche', 'Australie');
+addMarker(-12.4634, 130.8456, 'Diocèse de Darwin', 'diocese', 'Australie');
+addMarker(-41.4545, 145.9707, 'Diocèse de Hobart', 'diocese', 'Australie');
+addMarker(-36.7789, 144.2827, 'Diocèse de Sandhurst', 'diocese', 'Australie');
+addMarker(-17.7134, 178.0650, 'Archidiocèse de Suva', 'archeveche', 'Fidji');
+addMarker(-21.1394, -175.2018, "Diocèse de Nuku'alofa", 'diocese', 'Tonga');
+addMarker(-13.8507, -171.7514, 'Diocèse de Samoa-Pago Pago', 'diocese', 'Samoa américaines');
+addMarker(-13.7590, -172.1046, 'Diocèse de Samoa-Apia', 'diocese', 'Samoa');
+addMarker(-9.2000, -171.8000, 'Mission sui iuris de Tokelau', 'mission', 'Tokelau');
+addMarker(-8.5241, 179.1961, 'Mission sui iuris de Funafuti', 'mission', 'Tuvalu');
+addMarker(-0.7893, -176.4773, 'Mission sui iuris de Kiribati', 'mission', 'Kiribati');
+addMarker(7.1164, 171.1840, 'Mission sui iuris des Îles Marshall', 'mission', 'Îles Marshall');
+addMarker(6.9248, 158.1611, 'Mission sui iuris des États fédérés de Micronésie', 'mission', 'Micronésie');
+addMarker(7.5000, 134.5000, 'Mission sui iuris de Palau', 'mission', 'Palau');
+addMarker(-9.4438, 159.9723, "Diocèse d'Honiara", 'diocese', 'Îles Salomon');
+addMarker(-9.0000, 160.0000, 'Diocèse de Gizo', 'diocese', 'Îles Salomon');
+addMarker(-6.7250, 147.0010, 'Archidiocèse de Mount Hagen', 'archeveche', 'Papouasie-Nouvelle-Guinée');
+addMarker(-5.2076, 145.7887, 'Archidiocèse de Madang', 'archeveche', 'Papouasie-Nouvelle-Guinée');
+addMarker(-9.4431, 147.1797, 'Archidiocèse de Port Moresby', 'archeveche', 'Papouasie-Nouvelle-Guinée');
+addMarker(-4.1991, 152.1965, 'Diocèse de Rabaul', 'diocese', 'Papouasie-Nouvelle-Guinée');
+addMarker(-3.5833, 143.6500, 'Diocèse de Wewak', 'diocese', 'Papouasie-Nouvelle-Guinée');
+addMarker(-16.2309, 167.5965, 'Diocèse de Port-Vila', 'diocese', 'Vanuatu');
+addMarker(-19.0544, 169.9185, 'Mission sui iuris de Nouvelle-Calédonie', 'mission', 'Nouvelle-Calédonie');
+addMarker(-22.2758, 166.4580, 'Archidiocèse de Nouméa', 'archeveche', 'Nouvelle-Calédonie');
+addMarker(-17.6509, 149.4260, 'Diocèse de Papeete', 'diocese', 'Polynésie française');
+addMarker(-23.1350, -134.9497, 'Mission sui iuris de Rapa Nui', 'mission', 'Île de Pâques');
+addMarker(-41.2865, 174.7762, 'Archidiocèse de Wellington', 'archeveche', 'Nouvelle-Zélande');
+addMarker(-36.8485, 174.7633, "Diocèse d'Auckland", 'diocese', 'Nouvelle-Zélande');
+addMarker(-43.5320, 172.6306, 'Diocèse de Christchurch', 'diocese', 'Nouvelle-Zélande');
+addMarker(-45.8788, 170.5028, 'Diocèse de Dunedin', 'diocese', 'Nouvelle-Zélande');
+addMarker(-39.4928, 176.9120, 'Diocèse de Palmerston North', 'diocese', 'Nouvelle-Zélande');
+addMarker(-37.7870, 175.2793, 'Diocèse de Hamilton', 'diocese', 'Nouvelle-Zélande');
+
+// Force invalidateSize
+setTimeout(function() { map.invalidateSize(); }, 300);
+window.addEventListener('load', function() { map.invalidateSize(); });
+</script>
+
+</body>
+</html>

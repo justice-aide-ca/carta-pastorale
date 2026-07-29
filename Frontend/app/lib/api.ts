@@ -6,19 +6,19 @@ const API_BASE = ""
 
 export async function fetchDioceses(): Promise<DioceseSummary[]> {
   const res = await fetch(`${API_BASE}/dioceses`)
-  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  if (!res.ok) throw new Error(`HTTP ${res.status}: Erreur chargement diocèses`)
   return res.json()
 }
 
 export async function searchDioceses(query: string): Promise<SearchResult> {
   const res = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}`)
-  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  if (!res.ok) throw new Error(`HTTP ${res.status}: Erreur recherche`)
   return res.json()
 }
 
 export async function fetchDioceseDetail(id: string): Promise<RapportDioceseData> {
   const res = await fetch(`${API_BASE}/dioceses/${id}`)
-  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  if (!res.ok) throw new Error(`HTTP ${res.status}: Diocèse non trouvé`)
   const raw = await res.json()
   return mapRawToRapport(raw)
 }
@@ -49,6 +49,14 @@ function safeNum(val: any): number {
 function mapRawToRapport(raw: any): RapportDioceseData {
   const terr = raw.territoire || {}
   const ress = raw.ressources || {}
+  
+  // Utiliser les données enrichies du backend si disponibles
+  const backendIndicateurs = raw.indicateurs || []
+  const backendPistes = raw.pistes || []
+  const backendQuestions = raw.questions || []
+  const backendTendances = raw.tendances || []
+  const backendQualite = raw.qualite || "partiel"
+
   return {
     id: raw.id || "",
     nom: raw.nom || "Inconnu",
@@ -78,15 +86,12 @@ function mapRawToRapport(raw: any): RapportDioceseData {
     score_persecution: 0,
     contexte_liberte: "Données détaillées non disponibles pour ce diocèse.",
     defis_liberte: [],
-    tendances: [],
-    indicateurs: [],
-    pistes: [
-      "**Données pastorales** : Les rapports détaillés avec pistes missionnaires et indicateurs comparés nécessitent une génération spécifique. Les données brutes affichées proviennent de GCatholic.org.",
-    ],
-    questions: [
-      "Comment enrichir les données de ce diocèse avec des indicateurs pastoraux et des pistes missionnaires ?",
-    ],
-    qualite: "partiel",
+    // Utiliser les données du backend si elles existent
+    tendances: backendTendances,
+    indicateurs: backendIndicateurs,
+    pistes: backendPistes,
+    questions: backendQuestions,
+    qualite: backendQualite,
     sources: raw.source ? [raw.source] : ["GCatholic.org"],
   }
 }

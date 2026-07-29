@@ -59,14 +59,19 @@ export interface DioceseSummary {
   continent: string
   type: string
   categorie: string
-  description_categorie: string
+  description_categorie?: string
   catholiques?: number
   pourcentage_catholiques?: number
 }
 
 export interface SearchResult {
   total: number
-  page: number
-  per_page: number
+  page?: number
+  per_page?: number
   results: DioceseSummary[]
+}
+
+export interface CompareResult {
+  compared: number
+  dioceses: RapportDioceseData[]
 }

@@ -6,21 +6,39 @@ const API_BASE = ""
 
 export async function fetchDioceses(): Promise<DioceseSummary[]> {
   const res = await fetch(`${API_BASE}/dioceses`)
-  if (!res.ok) throw new Error(`HTTP ${res.status}: Erreur chargement diocèses`)
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
   return res.json()
 }
 
 export async function searchDioceses(query: string): Promise<SearchResult> {
   const res = await fetch(`${API_BASE}/search?q=${encodeURIComponent(query)}`)
-  if (!res.ok) throw new Error(`HTTP ${res.status}: Erreur recherche`)
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
   return res.json()
 }
 
 export async function fetchDioceseDetail(id: string): Promise<RapportDioceseData> {
   const res = await fetch(`${API_BASE}/dioceses/${id}`)
-  if (!res.ok) throw new Error(`HTTP ${res.status}: Diocèse non trouvé`)
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
   const raw = await res.json()
   return mapRawToRapport(raw)
+}
+
+export async function fetchContinents(): Promise<string[]> {
+  const res = await fetch(`${API_BASE}/continents`)
+  if (!res.ok) return []
+  return res.json()
+}
+
+export async function fetchCountries(): Promise<string[]> {
+  const res = await fetch(`${API_BASE}/countries`)
+  if (!res.ok) return []
+  return res.json()
+}
+
+export async function fetchCompare(ids: string): Promise<{ compared: number; dioceses: any[] }> {
+  const res = await fetch(`${API_BASE}/compare?diocese_ids=${encodeURIComponent(ids)}`)
+  if (!res.ok) throw new Error(`HTTP ${res.status}`)
+  return res.json()
 }
 
 function safeNum(val: any): number {

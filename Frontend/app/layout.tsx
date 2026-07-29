@@ -1,23 +1,20 @@
-import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
-import './globals.css'
+import type { Metadata } from "next"
+import { Inter } from "next/font/google"
+import "./globals.css"
+import { I18nProvider } from "./i18n/context"
 
-const inter = Inter({ subsets: ['latin'], variable: '--font-sans' })
+const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: 'Carta Pastorale — Rapports pastoraux par diocèse',
-  description: 'Carte pastorale interactive : données, indicateurs et pistes missionnaires pour chaque diocèse du monde.',
+  title: "Carta Pastorale",
+  description: "Outil d'observation et de discernement pastoral",
 }
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="fr">
-      <body className={`${inter.variable} font-sans antialiased`}>
-        {children}
+      <body className={inter.className}>
+        <I18nProvider>{children}</I18nProvider>
       </body>
     </html>
   )

@@ -16,6 +16,8 @@ from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
+from socioeco_data import get_socioeco_data
+
 # ═══════════════════════════════════════════════════════════════
 #  APP
 # ═══════════════════════════════════════════════════════════════
@@ -453,6 +455,18 @@ def enrich_diocese(raw: dict) -> dict:
     raw["tendances"] = tendances
     raw["qualite"] = "enrichi" if indicateurs else "partiel"
     
+
+    # Enrichissement socio-economique
+    pays_nom = raw.get('pays', '') or raw.get('pays_nom', '')
+    continent = raw.get('continent', '')
+    socio = get_socioeco_data(pays_nom, continent)
+    raw['idh'] = socio['idh']
+    raw['pib_par_habitant'] = socio['pib']
+    raw['taux_urbanisation'] = socio['urbanisation']
+    raw['indice_liberte_religion'] = str(socio['liberte']) + '/100'
+    raw['score_persecution'] = socio['persecution']
+    raw['contexte_liberte'] = socio['contexte']
+    raw['defis_liberte'] = socio['defis']
     return raw
 
 

@@ -1,23 +1,31 @@
 #!/usr/bin/env python3
 """
-api.py
-API FastAPI pour Carta Pastorale.
-Chemins absolus pour fonctionner sur Render (Root Directory = backend).
+api.py — Carta Pastorale API v2.1
+FastAPI avec fallback automatique :
+  1. Données générées (dioceses_enriched.json + rapports/)
+  2. Fichiers bruts (data/dioceses/*.json)
+  3. Données vides (aucun fichier trouvé)
 """
 import json
 import os
+import re
 from pathlib import Path
 from typing import List, Optional, Dict, Any
+from collections import Counter
+
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse
 from pydantic import BaseModel
 
+# ═══════════════════════════════════════════════════════════════
+#  APP
+# ═══════════════════════════════════════════════════════════════
 app = FastAPI(
     title="Carta Pastorale API",
     description="Outil d'observation et de discernement pastoral",
-    version="2.0.0"
+    version="2.1.0"
 )
 
 app.add_middleware(
@@ -28,89 +36,316 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# ─── Chemins des données ─────────────────────────────────────────
-# Sur Render : Root Directory = backend/ → working dir = /app/backend/
-# Les données sont à /app/data/ (au même niveau que backend/)
-BASE_DIR = Path(__file__).resolve().parent.parent  # /app/
+# ═══════════════════════════════════════════════════════════════
+#  CHEMINS (Render : Root Directory = backend → working dir /app/backend/)
+# ═══════════════════════════════════════════════════════════════
+BASE_DIR = Path(__file__).resolve().parent.parent          # /app/
 DATA_DIR = Path(os.environ.get("DATA_DIR", str(BASE_DIR / "data")))
-RAPPORTS_DIR = Path(os.environ.get("RAPPORTS_DIR", str(DATA_DIR / "rapports")))
-DIOCESES_FILE = Path(os.environ.get("DIOCESES_FILE", str(DATA_DIR / "dioceses_enriched.json")))
 
-print(f"[API] DATA_DIR: {DATA_DIR}")
-print(f"[API] RAPPORTS_DIR: {RAPPORTS_DIR}")
-print(f"[API] DIOCESES_FILE: {DIOCESES_FILE}")
+RAW_DIOCESES_DIR = DATA_DIR / "dioceses"
+DIOCESES_FILE    = DATA_DIR / "dioceses_enriched.json"
+RAPPORTS_DIR     = DATA_DIR / "rapports"
 
-# ─── Chargement des données ────────────────────────────────────────
+print(f"[API] BASE_DIR         : {BASE_DIR}")
+print(f"[API] DATA_DIR         : {DATA_DIR}")
+print(f"[API] RAW_DIOCESES_DIR : {RAW_DIOCESES_DIR}")
+print(f"[API] DIOCESES_FILE    : {DIOCESES_FILE}")
+print(f"[API] RAPPORTS_DIR     : {RAPPORTS_DIR}")
+
+# ═══════════════════════════════════════════════════════════════
+#  MAPPING PAYS → CONTINENT (codes ISO-2)
+# ═══════════════════════════════════════════════════════════════
+PAYS_CONTINENT: Dict[str, str] = {
+    "af": "Asie", "al": "Europe", "am": "Océanie", "an": "Amérique du Nord",
+    "ao": "Afrique", "aq": "Antarctique", "ar": "Amérique du Sud", "as": "Océanie",
+    "at": "Europe", "au": "Océanie", "aw": "Amérique du Nord", "ax": "Europe",
+    "az": "Asie", "ba": "Europe", "bb": "Amérique du Nord", "bd": "Asie",
+    "be": "Europe", "bf": "Afrique", "bg": "Europe", "bh": "Asie", "bi": "Afrique",
+    "bj": "Afrique", "bl": "Amérique du Nord", "bm": "Amérique du Nord",
+    "bn": "Asie", "bo": "Amérique du Sud", "bq": "Amérique du Nord",
+    "br": "Amérique du Sud", "bs": "Amérique du Nord", "bt": "Asie",
+    "bv": "Antarctique", "bw": "Afrique", "by": "Europe", "bz": "Amérique du Nord",
+    "ca": "Amérique du Nord", "cc": "Asie", "cd": "Afrique", "cf": "Afrique",
+    "cg": "Afrique", "ch": "Europe", "ci": "Afrique", "ck": "Océanie",
+    "cl": "Amérique du Sud", "cm": "Afrique", "cn": "Asie", "co": "Amérique du Sud",
+    "cr": "Amérique du Nord", "cu": "Amérique du Nord", "cv": "Afrique",
+    "cw": "Amérique du Nord", "cx": "Asie", "cy": "Europe", "cz": "Europe",
+    "de": "Europe", "dj": "Afrique", "dk": "Europe", "dm": "Amérique du Nord",
+    "do": "Amérique du Nord", "dz": "Afrique", "ec": "Amérique du Sud",
+    "ee": "Europe", "eg": "Afrique", "eh": "Afrique", "er": "Afrique",
+    "es": "Europe", "et": "Afrique", "fi": "Europe", "fj": "Océanie",
+    "fk": "Amérique du Sud", "fm": "Océanie", "fo": "Europe", "fr": "Europe",
+    "ga": "Afrique", "gb": "Europe", "gd": "Amérique du Nord", "ge": "Asie",
+    "gf": "Amérique du Sud", "gg": "Europe", "gh": "Afrique", "gi": "Europe",
+    "gl": "Amérique du Nord", "gm": "Afrique", "gn": "Afrique", "gp": "Amérique du Nord",
+    "gq": "Afrique", "gr": "Europe", "gs": "Antarctique", "gt": "Amérique du Nord",
+    "gu": "Océanie", "gw": "Afrique", "gy": "Amérique du Sud", "hk": "Asie",
+    "hm": "Antarctique", "hn": "Amérique du Nord", "hr": "Europe", "ht": "Amérique du Nord",
+    "hu": "Europe", "id": "Asie", "ie": "Europe", "il": "Asie", "im": "Europe",
+    "in": "Asie", "io": "Asie", "iq": "Asie", "ir": "Asie", "is": "Europe",
+    "it": "Europe", "je": "Europe", "jm": "Amérique du Nord", "jo": "Asie",
+    "jp": "Asie", "ke": "Afrique", "kg": "Asie", "kh": "Asie", "ki": "Océanie",
+    "km": "Afrique", "kn": "Amérique du Nord", "kp": "Asie", "kr": "Asie",
+    "kw": "Asie", "ky": "Amérique du Nord", "kz": "Asie", "la": "Asie",
+    "lb": "Asie", "lc": "Amérique du Nord", "li": "Europe", "lk": "Asie",
+    "lr": "Afrique", "ls": "Afrique", "lt": "Europe", "lu": "Europe",
+    "lv": "Europe", "ly": "Afrique", "ma": "Afrique", "mc": "Europe",
+    "md": "Europe", "me": "Europe", "mf": "Amérique du Nord", "mg": "Afrique",
+    "mh": "Océanie", "mk": "Europe", "ml": "Afrique", "mm": "Asie", "mn": "Asie",
+    "mo": "Asie", "mp": "Océanie", "mq": "Amérique du Nord", "mr": "Afrique",
+    "ms": "Amérique du Nord", "mt": "Europe", "mu": "Afrique", "mv": "Asie",
+    "mw": "Afrique", "mx": "Amérique du Nord", "my": "Asie", "mz": "Afrique",
+    "na": "Afrique", "nc": "Océanie", "ne": "Afrique", "nf": "Océanie",
+    "ng": "Afrique", "ni": "Amérique du Nord", "nl": "Europe", "no": "Europe",
+    "np": "Asie", "nr": "Océanie", "nu": "Océanie", "nz": "Océanie",
+    "om": "Asie", "pa": "Amérique du Nord", "pe": "Amérique du Sud", "pf": "Océanie",
+    "pg": "Océanie", "ph": "Asie", "pk": "Asie", "pl": "Europe", "pm": "Amérique du Nord",
+    "pn": "Océanie", "pr": "Amérique du Nord", "ps": "Asie", "pt": "Europe",
+    "pw": "Océanie", "py": "Amérique du Sud", "qa": "Asie", "re": "Afrique",
+    "ro": "Europe", "rs": "Europe", "ru": "Europe", "rw": "Afrique",
+    "sa": "Asie", "sb": "Océanie", "sc": "Afrique", "sd": "Afrique",
+    "se": "Europe", "sg": "Asie", "sh": "Afrique", "si": "Europe",
+    "sj": "Europe", "sk": "Europe", "sl": "Afrique", "sm": "Europe",
+    "sn": "Afrique", "so": "Afrique", "sr": "Amérique du Sud", "ss": "Afrique",
+    "st": "Afrique", "sv": "Amérique du Nord", "sx": "Amérique du Nord",
+    "sy": "Asie", "sz": "Afrique", "tc": "Amérique du Nord", "td": "Afrique",
+    "tf": "Antarctique", "tg": "Afrique", "th": "Asie", "tj": "Asie",
+    "tk": "Océanie", "tl": "Asie", "tm": "Asie", "tn": "Afrique", "to": "Océanie",
+    "tr": "Europe", "tt": "Amérique du Nord", "tv": "Océanie", "tw": "Asie",
+    "tz": "Afrique", "ua": "Europe", "ug": "Afrique", "um": "Océanie",
+    "us": "Amérique du Nord", "uy": "Amérique du Sud", "uz": "Asie",
+    "va": "Europe", "vc": "Amérique du Nord", "ve": "Amérique du Sud",
+    "vg": "Amérique du Nord", "vi": "Amérique du Nord", "vn": "Asie",
+    "vu": "Océanie", "wf": "Océanie", "ws": "Océanie", "ye": "Asie",
+    "yt": "Afrique", "za": "Afrique", "zm": "Afrique", "zw": "Afrique",
+}
+
+# ═══════════════════════════════════════════════════════════════
+#  HELPERS
+# ═══════════════════════════════════════════════════════════════
+
+def extract_categorie(type_str: str) -> str:
+    """Déduit la catégorie diocésaine depuis le champ 'type' brut."""
+    if not type_str:
+        return "inconnu"
+    t = type_str.lower()
+    if "metropolitan archdiocese" in t:
+        return "archidiocèse métropolitain"
+    if "archdiocese" in t:
+        return "archidiocèse"
+    if "diocese" in t:
+        return "diocèse"
+    if "apostolic vicariate" in t:
+        return "vicariat apostolique"
+    if "apostolic prefecture" in t:
+        return "préfecture apostolique"
+    if "apostolic administration" in t:
+        return "administration apostolique"
+    if "mission sui juris" in t:
+        return "mission sui juris"
+    if "territorial abbacy" in t:
+        return "abbaye territoriale"
+    if "patriarchate" in t:
+        return "patriarcat"
+    if "cardinalate" in t:
+        return "cardinalice"
+    return "autre"
+
+
+def get_continent(pays_code: str, raw_continent: str) -> str:
+    """Retourne le continent : utilise le mapping si le brut est 'unknown'."""
+    if raw_continent and raw_continent.lower() not in ("", "unknown", "null", "none"):
+        # Capitaliser proprement
+        c = raw_continent.strip()
+        return c[0].upper() + c[1:].lower() if len(c) > 1 else c
+    return PAYS_CONTINENT.get(pays_code.lower(), "Inconnu")
+
+
+def safe_int(val) -> Optional[int]:
+    try:
+        return int(val) if val is not None else None
+    except (ValueError, TypeError):
+        return None
+
+
+def safe_float(val) -> Optional[float]:
+    try:
+        return float(val) if val is not None else None
+    except (ValueError, TypeError):
+        return None
+
+
+# ═══════════════════════════════════════════════════════════════
+#  CHARGEMENT DES DONNÉES
+# ═══════════════════════════════════════════════════════════════
 
 dioceses_data: Dict[str, Any] = {}
 rapports_index: List[Dict[str, Any]] = []
 stats_cache: Optional[Dict[str, Any]] = None
 
-def load_data():
-    global dioceses_data, rapports_index, stats_cache
-    
-    if DIOCESES_FILE.exists():
-        with open(DIOCESES_FILE, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            dioceses_data = {d['id']: d for d in data.get('dioceses', [])}
-        print(f"[API] ✅ {len(dioceses_data)} diocèses chargés")
-    else:
-        print(f"[API] ⚠️ Fichier introuvable: {DIOCESES_FILE}")
-        fallback = DATA_DIR / "dioceses.json"
-        if fallback.exists():
-            with open(fallback, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                dioceses_data = {d['id']: d for d in data.get('dioceses', [])}
-            print(f"[API] ✅ {len(dioceses_data)} diocèses chargés (fallback)")
-    
+
+def _build_from_raw() -> bool:
+    """Charge les fichiers bruts data/dioceses/*.json. Retourne True si OK."""
+    global dioceses_data, rapports_index
+
+    if not RAW_DIOCESES_DIR.exists():
+        print(f"[API] ⚠️ Dossier brut introuvable : {RAW_DIOCESES_DIR}")
+        return False
+
+    raw_files = sorted(RAW_DIOCESES_DIR.glob("*.json"))
+    if not raw_files:
+        print(f"[API] ⚠️ Aucun fichier brut dans {RAW_DIOCESES_DIR}")
+        return False
+
+    dioceses_data.clear()
+    rapports_index.clear()
+
+    for fpath in raw_files:
+        try:
+            with open(fpath, "r", encoding="utf-8") as fh:
+                d = json.load(fh)
+        except Exception as e:
+            print(f"[API] ⚠️ Erreur lecture {fpath.name}: {e}")
+            continue
+
+        did = d.get("id") or fpath.stem
+        nom = d.get("nom", "")
+        pays_code = d.get("pays", "")
+        pays_nom = d.get("pays_nom", "")
+        continent_raw = d.get("continent", "")
+        type_str = d.get("type", "")
+
+        continent = get_continent(pays_code, continent_raw)
+        categorie = extract_categorie(type_str)
+
+        terr = d.get("territoire", {}) or {}
+        ress = d.get("ressources", {}) or {}
+
+        catholiques = safe_int(terr.get("catholiques"))
+        pourcentage = safe_float(terr.get("pourcentage_catholiques"))
+        total_pretres = safe_int(ress.get("total_pretres"))
+        paroisses = safe_int(ress.get("paroisses"))
+        superficie = safe_int(terr.get("superficie_km2"))
+        population = safe_int(terr.get("population_totale"))
+
+        # Enrichissement minimal
+        enriched = {
+            **d,
+            "continent": continent,
+            "categorie": categorie,
+            "territoire": {
+                **terr,
+                "superficie_km2": superficie,
+                "population_totale": population,
+                "catholiques": catholiques,
+                "pourcentage_catholiques": pourcentage,
+            },
+            "ressources": {
+                **ress,
+                "total_pretres": total_pretres,
+                "paroisses": paroisses,
+            },
+        }
+
+        dioceses_data[did] = enriched
+
+        rapports_index.append({
+            "id": did,
+            "nom": nom,
+            "pays": pays_nom or pays_code.upper(),
+            "continent": continent,
+            "type": type_str.split(" Name:")[0] if " Name:" in type_str else type_str,
+            "categorie": categorie,
+            "catholiques": catholiques,
+            "pourcentage_catholiques": pourcentage,
+        })
+
+    print(f"[API] ✅ {len(dioceses_data)} diocèses chargés depuis fichiers bruts")
+    return True
+
+
+def _build_from_enriched() -> bool:
+    """Charge dioceses_enriched.json + rapports/*.json. Retourne True si OK."""
+    global dioceses_data, rapports_index
+
+    if not DIOCESES_FILE.exists():
+        return False
+
+    try:
+        with open(DIOCESES_FILE, "r", encoding="utf-8") as fh:
+            data = json.load(fh)
+            raw_list = data.get("dioceses", [])
+            if not raw_list:
+                raw_list = data if isinstance(data, list) else []
+            dioceses_data = {d["id"]: d for d in raw_list if d.get("id")}
+        print(f"[API] ✅ {len(dioceses_data)} diocèses chargés depuis {DIOCESES_FILE.name}")
+    except Exception as e:
+        print(f"[API] ⚠️ Erreur {DIOCESES_FILE}: {e}")
+        return False
+
     rapports_index.clear()
     if RAPPORTS_DIR.exists():
         for f in sorted(RAPPORTS_DIR.glob("*.json")):
             if f.name == "_index.json":
                 continue
             try:
-                with open(f, 'r', encoding='utf-8') as fh:
+                with open(f, "r", encoding="utf-8") as fh:
                     r = json.load(fh)
                     rapports_index.append({
-                        "id": r.get('id', f.stem),
-                        "nom": r.get('nom', ''),
-                        "pays": r.get('pays', ''),
-                        "continent": r.get('continent', ''),
-                        "type": r.get('type', ''),
-                        "categorie": r.get('categorie', ''),
-                        "catholiques": r.get('indicateurs', {}).get('catholiques'),
-                        "pourcentage_catholiques": r.get('indicateurs', {}).get('pourcentage_catholiques'),
+                        "id": r.get("id", f.stem),
+                        "nom": r.get("nom", ""),
+                        "pays": r.get("pays", ""),
+                        "continent": r.get("continent", ""),
+                        "type": r.get("type", ""),
+                        "categorie": r.get("categorie", ""),
+                        "catholiques": r.get("indicateurs", {}).get("catholiques"),
+                        "pourcentage_catholiques": r.get("indicateurs", {}).get("pourcentage_catholiques"),
                     })
             except Exception as e:
                 print(f"[API] ⚠️ Erreur lecture {f}: {e}")
-        print(f"[API] ✅ {len(rapports_index)} rapports chargés")
+        print(f"[API] ✅ {len(rapports_index)} rapports chargés depuis {RAPPORTS_DIR}")
     else:
-        print(f"[API] ⚠️ Dossier rapports introuvable: {RAPPORTS_DIR}")
-    
-    _compute_stats()
+        # Pas de rapports générés → construire l'index depuis dioceses_data
+        for d in dioceses_data.values():
+            rapports_index.append({
+                "id": d.get("id", ""),
+                "nom": d.get("nom", ""),
+                "pays": d.get("pays_nom", d.get("pays", "")),
+                "continent": d.get("continent", ""),
+                "type": d.get("type", "").split(" Name:")[0] if " Name:" in d.get("type", "") else d.get("type", ""),
+                "categorie": d.get("categorie", ""),
+                "catholiques": d.get("territoire", {}).get("catholiques"),
+                "pourcentage_catholiques": d.get("territoire", {}).get("pourcentage_catholiques"),
+            })
+        print(f"[API] ✅ {len(rapports_index)} entrées d'index construites depuis dioceses_data")
+
+    return True
+
 
 def _compute_stats():
     global stats_cache
     if not dioceses_data:
         stats_cache = {"total_dioceses": 0}
         return
-    
+
     dioceses = list(dioceses_data.values())
-    from collections import Counter
-    
-    total_cath = sum(d.get('territoire', {}).get('catholiques', 0) or 0 for d in dioceses)
-    total_pretres = sum(d.get('ressources', {}).get('total_pretres', 0) or 0 for d in dioceses)
-    
+    total_cath = sum(
+        (d.get("territoire", {}).get("catholiques") or 0) for d in dioceses
+    )
+    total_pretres = sum(
+        (d.get("ressources", {}).get("total_pretres") or 0) for d in dioceses
+    )
+
     categories = Counter()
     continents = Counter()
     pays = Counter()
-    
+
     for d in dioceses:
-        cat = d.get('categorie', 'inconnu')
+        cat = d.get("categorie", "inconnu")
         categories[cat] += 1
-        continents[d.get('continent', 'inconnu')] += 1
-        pays[d.get('pays_nom', 'inconnu')] += 1
-    
+        continents[d.get("continent", "Inconnu")] += 1
+        pays[d.get("pays_nom", d.get("pays", "Inconnu"))] += 1
+
     stats_cache = {
         "total_dioceses": len(dioceses),
         "total_catholiques": total_cath,
@@ -120,9 +355,22 @@ def _compute_stats():
         "par_pays": dict(pays),
     }
 
+
+def load_data():
+    """Ordonnancement : 1) fichiers générés, 2) fichiers bruts, 3) vide."""
+    ok = _build_from_enriched()
+    if not ok:
+        ok = _build_from_raw()
+    if not ok:
+        print("[API] ⚠️ Aucune donnée trouvée — API en mode vide")
+    _compute_stats()
+
+
 load_data()
 
-# ─── Modèles ─────────────────────────────────────────────────────
+# ═══════════════════════════════════════════════════════════════
+#  MODÈLES
+# ═══════════════════════════════════════════════════════════════
 
 class DioceseSummary(BaseModel):
     id: str
@@ -134,16 +382,31 @@ class DioceseSummary(BaseModel):
     catholiques: Optional[int] = None
     pourcentage_catholiques: Optional[float] = None
 
-# ─── Endpoints ─────────────────────────────────────────────────────
+
+# ═══════════════════════════════════════════════════════════════
+#  ENDPOINTS
+# ═══════════════════════════════════════════════════════════════
 
 @app.get("/")
 def root():
     return {
         "name": "Carta Pastorale API",
-        "version": "2.0.0",
+        "version": "2.1.0",
+        "description": "Outil d'observation et de discernement pastoral",
+        "endpoints": [
+            "/dioceses",
+            "/dioceses/{id}",
+            "/search",
+            "/stats",
+            "/continents",
+            "/countries",
+            "/compare",
+        ],
         "dioceses_loaded": len(dioceses_data),
         "rapports_loaded": len(rapports_index),
+        "last_load": __import__("datetime").datetime.utcnow().isoformat(),
     }
+
 
 @app.get("/dioceses", response_model=List[DioceseSummary])
 def list_dioceses(
@@ -151,59 +414,80 @@ def list_dioceses(
     continent: Optional[str] = Query(None),
     categorie: Optional[str] = Query(None),
 ):
-    results = rapports_index
+    results = list(rapports_index)
     if pays:
-        results = [r for r in results if r['pays'].lower() == pays.lower()]
+        results = [r for r in results if pays.lower() in r["pays"].lower()]
     if continent:
-        results = [r for r in results if r['continent'].lower() == continent.lower()]
+        results = [r for r in results if continent.lower() in r["continent"].lower()]
     if categorie:
-        results = [r for r in results if r['categorie'].lower() == categorie.lower()]
+        results = [r for r in results if categorie.lower() in r["categorie"].lower()]
     return results
+
 
 @app.get("/dioceses/{diocese_id}")
 def get_diocese(diocese_id: str):
+    # 1) rapport généré
     rapport_path = RAPPORTS_DIR / f"{diocese_id}.json"
     if rapport_path.exists():
-        with open(rapport_path, 'r', encoding='utf-8') as f:
+        with open(rapport_path, "r", encoding="utf-8") as f:
             return json.load(f)
+    # 2) données brutes enrichies
     if diocese_id in dioceses_data:
         return dioceses_data[diocese_id]
     raise HTTPException(status_code=404, detail=f"Diocèse '{diocese_id}' non trouvé")
 
+
 @app.get("/search")
 def search(q: str = Query(...)):
     q_lower = q.lower()
-    results = [r for r in rapports_index if q_lower in r['nom'].lower() or q_lower in r['pays'].lower()]
+    results = [
+        r for r in rapports_index
+        if q_lower in r["nom"].lower() or q_lower in r["pays"].lower()
+    ]
     return {"total": len(results), "results": results}
+
 
 @app.get("/stats")
 def get_stats():
     return stats_cache or {"total_dioceses": 0}
 
+
 @app.get("/continents")
 def get_continents():
-    return list(set(r['continent'] for r in rapports_index))
+    return sorted({r["continent"] for r in rapports_index})
+
 
 @app.get("/countries")
 def get_countries():
-    return sorted(list(set(r['pays'] for r in rapports_index)))
+    return sorted({r["pays"] for r in rapports_index})
+
 
 @app.get("/compare")
 def compare(diocese_ids: str = Query(..., description="IDs séparés par des virgules")):
     ids = [id.strip() for id in diocese_ids.split(",")]
     results = []
-    for id in ids:
-        path = RAPPORTS_DIR / f"{id}.json"
+    for did in ids:
+        # 1) rapport généré
+        path = RAPPORTS_DIR / f"{did}.json"
         if path.exists():
-            with open(path, 'r', encoding='utf-8') as f:
+            with open(path, "r", encoding="utf-8") as f:
                 results.append(json.load(f))
+                continue
+        # 2) données brutes
+        if did in dioceses_data:
+            results.append(dioceses_data[did])
     return {"compared": len(results), "dioceses": results}
 
-# ─── Static files (frontend) ───────────────────────────────────────
+
+# ═══════════════════════════════════════════════════════════════
+#  STATIC FILES (frontend Next.js / Vite)
+# ═══════════════════════════════════════════════════════════════
 
 static_candidates = [
     BASE_DIR / "frontend" / "dist",
     BASE_DIR / "Frontend" / "dist",
+    BASE_DIR / "frontend" / ".next",
+    BASE_DIR / "Frontend" / ".next",
 ]
 static_dir = None
 for candidate in static_candidates:
@@ -215,7 +499,8 @@ if static_dir:
     app.mount("/", StaticFiles(directory=static_dir, html=True), name="static")
     print(f"[API] ✅ Frontend servi depuis {static_dir}")
 else:
-    print("[API] ⚠️ Frontend dist/ introuvable")
+    print("[API] ⚠️ Frontend dist/ ou .next/ introuvable")
+
 
 @app.get("/{path:path}", include_in_schema=False)
 def serve_spa(path: str):
@@ -224,6 +509,7 @@ def serve_spa(path: str):
         if index_path.exists():
             return FileResponse(str(index_path))
     return {"detail": "Frontend not built"}
+
 
 if __name__ == "__main__":
     import uvicorn

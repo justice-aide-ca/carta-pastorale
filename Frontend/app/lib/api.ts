@@ -36,7 +36,7 @@ export async function fetchCountries(): Promise<string[]> {
 }
 
 export async function fetchCompare(ids: string): Promise<{ compared: number; dioceses: any[] }> {
-  const res = await fetch(`${API_BASE}/compare?diocese_ids=${encodeURIComponent(ids)}`)
+  const res = await fetch(`${API_BASE}/api/compare?diocese_ids=${encodeURIComponent(ids)}`)
   if (!res.ok) throw new Error(`HTTP ${res.status}`)
   return res.json()
 }

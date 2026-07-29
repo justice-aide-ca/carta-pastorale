@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """
-api.py — Carta Pastorale API v2.1
-FastAPI avec fallback automatique :
-  1. Données générées (dioceses_enriched.json + rapports/)
-  2. Fichiers bruts (data/dioceses/*.json)
-  3. Données vides (aucun fichier trouvé)
+api.py — Carta Pastorale API v2.2
+Fallback automatique + robustesse face aux env vars malformées.
 """
 import json
 import os
@@ -25,7 +22,7 @@ from pydantic import BaseModel
 app = FastAPI(
     title="Carta Pastorale API",
     description="Outil d'observation et de discernement pastoral",
-    version="2.1.0"
+    version="2.3.0"
 )
 
 app.add_middleware(
@@ -37,14 +34,23 @@ app.add_middleware(
 )
 
 # ═══════════════════════════════════════════════════════════════
-#  CHEMINS (Render : Root Directory = backend → working dir /app/backend/)
+#  CHEMINS — robuste face aux env vars malformées
 # ═══════════════════════════════════════════════════════════════
-BASE_DIR = Path(__file__).resolve().parent.parent          # /app/
-DATA_DIR = Path(os.environ.get("DATA_DIR", str(BASE_DIR / "data")))
+BASE_DIR = Path(__file__).resolve().parent.parent          # /opt/render/project/src
 
+def _resolve_env_path(env_name: str, default: Path) -> Path:
+    """Lit une variable d'env, ignore si malformée ou inexistante."""
+    raw = os.environ.get(env_name, "").strip()
+    if not raw or raw.startswith("|") or "\n" in raw or "`" in raw:
+        print(f"[API] ⚠️ Env var {env_name} malformée/ignorée : {raw[:60]}")
+        return default
+    p = Path(raw)
+    return p if p.exists() else default
+
+DATA_DIR         = _resolve_env_path("DATA_DIR",      BASE_DIR / "data")
+DIOCESES_FILE    = _resolve_env_path("DIOCESES_FILE", DATA_DIR / "dioceses_enriched.json")
+RAPPORTS_DIR     = _resolve_env_path("RAPPORTS_DIR",  DATA_DIR / "rapports")
 RAW_DIOCESES_DIR = DATA_DIR / "dioceses"
-DIOCESES_FILE    = DATA_DIR / "dioceses_enriched.json"
-RAPPORTS_DIR     = DATA_DIR / "rapports"
 
 print(f"[API] BASE_DIR         : {BASE_DIR}")
 print(f"[API] DATA_DIR         : {DATA_DIR}")
@@ -125,7 +131,6 @@ PAYS_CONTINENT: Dict[str, str] = {
 # ═══════════════════════════════════════════════════════════════
 
 def extract_categorie(type_str: str) -> str:
-    """Déduit la catégorie diocésaine depuis le champ 'type' brut."""
     if not type_str:
         return "inconnu"
     t = type_str.lower()
@@ -153,9 +158,7 @@ def extract_categorie(type_str: str) -> str:
 
 
 def get_continent(pays_code: str, raw_continent: str) -> str:
-    """Retourne le continent : utilise le mapping si le brut est 'unknown'."""
     if raw_continent and raw_continent.lower() not in ("", "unknown", "null", "none"):
-        # Capitaliser proprement
         c = raw_continent.strip()
         return c[0].upper() + c[1:].lower() if len(c) > 1 else c
     return PAYS_CONTINENT.get(pays_code.lower(), "Inconnu")
@@ -176,7 +179,7 @@ def safe_float(val) -> Optional[float]:
 
 
 # ═══════════════════════════════════════════════════════════════
-#  CHARGEMENT DES DONNÉES
+#  CHARGEMENT
 # ═══════════════════════════════════════════════════════════════
 
 dioceses_data: Dict[str, Any] = {}
@@ -185,9 +188,7 @@ stats_cache: Optional[Dict[str, Any]] = None
 
 
 def _build_from_raw() -> bool:
-    """Charge les fichiers bruts data/dioceses/*.json. Retourne True si OK."""
     global dioceses_data, rapports_index
-
     if not RAW_DIOCESES_DIR.exists():
         print(f"[API] ⚠️ Dossier brut introuvable : {RAW_DIOCESES_DIR}")
         return False
@@ -228,7 +229,6 @@ def _build_from_raw() -> bool:
         superficie = safe_int(terr.get("superficie_km2"))
         population = safe_int(terr.get("population_totale"))
 
-        # Enrichissement minimal
         enriched = {
             **d,
             "continent": continent,
@@ -248,7 +248,6 @@ def _build_from_raw() -> bool:
         }
 
         dioceses_data[did] = enriched
-
         rapports_index.append({
             "id": did,
             "nom": nom,
@@ -265,12 +264,9 @@ def _build_from_raw() -> bool:
 
 
 def _build_from_enriched() -> bool:
-    """Charge dioceses_enriched.json + rapports/*.json. Retourne True si OK."""
     global dioceses_data, rapports_index
-
     if not DIOCESES_FILE.exists():
         return False
-
     try:
         with open(DIOCESES_FILE, "r", encoding="utf-8") as fh:
             data = json.load(fh)
@@ -305,7 +301,6 @@ def _build_from_enriched() -> bool:
                 print(f"[API] ⚠️ Erreur lecture {f}: {e}")
         print(f"[API] ✅ {len(rapports_index)} rapports chargés depuis {RAPPORTS_DIR}")
     else:
-        # Pas de rapports générés → construire l'index depuis dioceses_data
         for d in dioceses_data.values():
             rapports_index.append({
                 "id": d.get("id", ""),
@@ -318,7 +313,6 @@ def _build_from_enriched() -> bool:
                 "pourcentage_catholiques": d.get("territoire", {}).get("pourcentage_catholiques"),
             })
         print(f"[API] ✅ {len(rapports_index)} entrées d'index construites depuis dioceses_data")
-
     return True
 
 
@@ -327,25 +321,17 @@ def _compute_stats():
     if not dioceses_data:
         stats_cache = {"total_dioceses": 0}
         return
-
     dioceses = list(dioceses_data.values())
-    total_cath = sum(
-        (d.get("territoire", {}).get("catholiques") or 0) for d in dioceses
-    )
-    total_pretres = sum(
-        (d.get("ressources", {}).get("total_pretres") or 0) for d in dioceses
-    )
-
+    total_cath = sum((d.get("territoire", {}).get("catholiques") or 0) for d in dioceses)
+    total_pretres = sum((d.get("ressources", {}).get("total_pretres") or 0) for d in dioceses)
     categories = Counter()
     continents = Counter()
     pays = Counter()
-
     for d in dioceses:
         cat = d.get("categorie", "inconnu")
         categories[cat] += 1
         continents[d.get("continent", "Inconnu")] += 1
         pays[d.get("pays_nom", d.get("pays", "Inconnu"))] += 1
-
     stats_cache = {
         "total_dioceses": len(dioceses),
         "total_catholiques": total_cath,
@@ -357,7 +343,6 @@ def _compute_stats():
 
 
 def load_data():
-    """Ordonnancement : 1) fichiers générés, 2) fichiers bruts, 3) vide."""
     ok = _build_from_enriched()
     if not ok:
         ok = _build_from_raw()
@@ -387,21 +372,13 @@ class DioceseSummary(BaseModel):
 #  ENDPOINTS
 # ═══════════════════════════════════════════════════════════════
 
-@app.get("/")
-def root():
+@app.get("/api")
+def api_info():
     return {
         "name": "Carta Pastorale API",
-        "version": "2.1.0",
+        "version": "2.3.0",
         "description": "Outil d'observation et de discernement pastoral",
-        "endpoints": [
-            "/dioceses",
-            "/dioceses/{id}",
-            "/search",
-            "/stats",
-            "/continents",
-            "/countries",
-            "/compare",
-        ],
+        "endpoints": ["/dioceses", "/dioceses/{id}", "/search", "/stats", "/continents", "/countries", "/compare"],
         "dioceses_loaded": len(dioceses_data),
         "rapports_loaded": len(rapports_index),
         "last_load": __import__("datetime").datetime.utcnow().isoformat(),
@@ -426,12 +403,10 @@ def list_dioceses(
 
 @app.get("/dioceses/{diocese_id}")
 def get_diocese(diocese_id: str):
-    # 1) rapport généré
     rapport_path = RAPPORTS_DIR / f"{diocese_id}.json"
     if rapport_path.exists():
         with open(rapport_path, "r", encoding="utf-8") as f:
             return json.load(f)
-    # 2) données brutes enrichies
     if diocese_id in dioceses_data:
         return dioceses_data[diocese_id]
     raise HTTPException(status_code=404, detail=f"Diocèse '{diocese_id}' non trouvé")
@@ -440,10 +415,7 @@ def get_diocese(diocese_id: str):
 @app.get("/search")
 def search(q: str = Query(...)):
     q_lower = q.lower()
-    results = [
-        r for r in rapports_index
-        if q_lower in r["nom"].lower() or q_lower in r["pays"].lower()
-    ]
+    results = [r for r in rapports_index if q_lower in r["nom"].lower() or q_lower in r["pays"].lower()]
     return {"total": len(results), "results": results}
 
 
@@ -467,20 +439,18 @@ def compare(diocese_ids: str = Query(..., description="IDs séparés par des vir
     ids = [id.strip() for id in diocese_ids.split(",")]
     results = []
     for did in ids:
-        # 1) rapport généré
         path = RAPPORTS_DIR / f"{did}.json"
         if path.exists():
             with open(path, "r", encoding="utf-8") as f:
                 results.append(json.load(f))
                 continue
-        # 2) données brutes
         if did in dioceses_data:
             results.append(dioceses_data[did])
     return {"compared": len(results), "dioceses": results}
 
 
 # ═══════════════════════════════════════════════════════════════
-#  STATIC FILES (frontend Next.js / Vite)
+#  STATIC FILES
 # ═══════════════════════════════════════════════════════════════
 
 static_candidates = [
@@ -502,13 +472,7 @@ else:
     print("[API] ⚠️ Frontend dist/ ou .next/ introuvable")
 
 
-@app.get("/{path:path}", include_in_schema=False)
-def serve_spa(path: str):
-    if static_dir:
-        index_path = static_dir / "index.html"
-        if index_path.exists():
-            return FileResponse(str(index_path))
-    return {"detail": "Frontend not built"}
+# Catch-all supprimé — StaticFiles avec html=True gère le fallback SPA
 
 
 if __name__ == "__main__":

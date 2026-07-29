@@ -33,10 +33,14 @@ export default function RapportDiocese({ data }: RapportDioceseProps) {
   const router = useRouter()
   const [activeTab, setActiveTab] = useState<"overview" | "indicators" | "pastoral" | "context">("overview")
 
+  const liberteScore = typeof data.indice_liberte_religion === 'string'
+    ? parseInt(data.indice_liberte_religion.split('/')[0])
+    : (data.indice_liberte_religion || 0);
+
   const liberteStatus =
-    data.score_persecution === 0
+    liberteScore >= 80
       ? { label: t.diocese.freedom, color: "text-green-600", bg: "bg-green-50" }
-      : data.score_persecution < 30
+      : liberteScore >= 50
       ? { label: t.diocese.freedom, color: "text-amber-600", bg: "bg-amber-50" }
       : { label: t.diocese.freedom, color: "text-red-600", bg: "bg-red-50" }
 
@@ -221,7 +225,7 @@ export default function RapportDiocese({ data }: RapportDioceseProps) {
             <h2 className="text-base font-medium mb-3 flex items-center gap-2"><Shield className="w-4 h-4" />{t.diocese.freedom}</h2>
             <div className="border border-border rounded-xl p-4">
               <span className={`inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md text-xs font-medium mb-3 ${liberteStatus.bg} ${liberteStatus.color}`}>
-                {liberteStatus.label} · score {data.score_persecution}/100
+                {liberteStatus.label} · score {data.indice_liberte_religion}/100
               </span>
               <p className="text-sm text-muted-foreground leading-relaxed">{data.contexte_liberte}</p>
               {data.defis_liberte.length > 0 && (

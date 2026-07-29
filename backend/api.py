@@ -434,7 +434,7 @@ def get_countries():
     return sorted({r["pays"] for r in rapports_index})
 
 
-@app.get("/compare")
+@app.get("/api/compare")
 def compare(diocese_ids: str = Query(..., description="IDs séparés par des virgules")):
     ids = [id.strip() for id in diocese_ids.split(",")]
     results = []
@@ -464,6 +464,14 @@ for candidate in static_candidates:
     if candidate.exists():
         static_dir = candidate
         break
+
+@app.get("/compare", include_in_schema=False)
+def serve_compare():
+    if static_dir:
+        index_path = static_dir / "index.html"
+        if index_path.exists():
+            return FileResponse(str(index_path))
+    return {"detail": "Frontend not built"}
 
 if static_dir:
     app.mount("/", StaticFiles(directory=static_dir, html=True), name="static")

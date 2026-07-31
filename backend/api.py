@@ -128,6 +128,89 @@ PAYS_CONTINENT: Dict[str, str] = {
     "yt": "Afrique", "za": "Afrique", "zm": "Afrique", "zw": "Afrique",
 }
 
+# Noms GCatholic -> continent (corrige le bug des prefixes 2 lettres non uniques :
+# "ir"=Ireland etait pris pour l'ISO "ir"=Iran, "ch"=Chad pour "ch"=Suisse, etc.)
+PAYS_NOM_CONTINENT: Dict[str, str] = {
+    "Afghanistan": "Asie", "Albania": "Europe", "Algeria": "Afrique", "American Samoa": "Océanie",
+    "Angola": "Afrique", "Antigua and Barbuda": "Amérique du Nord", "Argentina": "Amérique du Sud", "Armenia": "Asie",
+    "Australia": "Océanie", "Austria": "Europe", "Azerbaijan": "Asie", "Bahamas": "Amérique du Nord",
+    "Bangladesh": "Asie", "Barbados": "Amérique du Nord", "Belarus": "Europe", "Belgium": "Europe",
+    "Belize": "Amérique du Nord", "Benin": "Afrique", "Bermuda": "Amérique du Nord", "Bolivia": "Amérique du Sud",
+    "Bosnia and Herzegovina": "Europe", "Botswana": "Afrique", "Brazil": "Amérique du Sud", "Brunei": "Asie",
+    "Bulgaria": "Europe", "Burkina Faso": "Afrique", "Burundi": "Afrique", "Cabo Verde": "Afrique",
+    "Cambodia": "Asie", "Cameroon": "Afrique", "Canada": "Amérique du Nord", "Central African Republic": "Afrique",
+    "Chad": "Afrique", "Chile": "Amérique du Sud", "China": "Asie", "Colombia": "Amérique du Sud",
+    "Comoros": "Afrique", "Congo-Brazzaville": "Afrique", "Congo-Kinshasa": "Afrique", "Cook Islands": "Océanie",
+    "Costa Rica": "Amérique du Nord", "Cote d’Ivoire": "Afrique", "Croatia": "Europe", "Cuba": "Amérique du Nord",
+    "Curaçao": "Amérique du Nord", "Czechia": "Europe", "Denmark": "Europe", "Djibouti": "Afrique",
+    "Dominican Republic": "Amérique du Nord", "Ecuador": "Amérique du Sud", "Egypt": "Afrique", "El Salvador": "Amérique du Nord",
+    "England": "Europe", "Equatorial Guinea": "Afrique", "Eritrea": "Afrique", "Estonia": "Europe",
+    "Eswatini": "Afrique", "Ethiopia": "Afrique", "Falkland Islands": "Amérique du Sud", "Fiji": "Océanie",
+    "Finland": "Europe", "France": "Europe", "French Guiana": "Amérique du Sud", "French Polynesia": "Océanie",
+    "Gabon": "Afrique", "Gambia": "Afrique", "Georgia": "Asie", "Germany": "Europe",
+    "Ghana": "Afrique", "Gibraltar": "Europe", "Greece": "Europe", "Grenada": "Amérique du Nord",
+    "Guadeloupe": "Amérique du Nord", "Guam": "Océanie", "Guatemala": "Amérique du Nord", "Guinea": "Afrique",
+    "Guinea-Bissau": "Afrique", "Guyana": "Amérique du Sud", "Haiti": "Amérique du Nord", "Honduras": "Amérique du Nord",
+    "Hong Kong": "Asie", "Hungary": "Europe", "Iceland": "Europe", "India": "Asie",
+    "Indonesia": "Asie", "Iran": "Asie", "Iraq": "Asie", "Ireland": "Europe",
+    "Israel": "Asie", "Italy": "Europe", "Jamaica": "Amérique du Nord", "Japan": "Asie",
+    "Jordan": "Asie", "Kazakhstan": "Asie", "Kenya": "Afrique", "Kiribati": "Océanie",
+    "Kosovo": "Europe", "Kuwait": "Asie", "Kyrgyzstan": "Asie", "Laos": "Asie",
+    "Latvia": "Europe", "Lebanon": "Asie", "Lesotho": "Afrique", "Liberia": "Afrique",
+    "Libya": "Afrique", "Liechtenstein": "Europe", "Lithuania": "Europe", "Luxembourg": "Europe",
+    "Macau": "Asie", "Madagascar": "Afrique", "Malawi": "Afrique", "Malaysia": "Asie",
+    "Mali": "Afrique", "Malta": "Europe", "Marshall Islands": "Océanie", "Martinique": "Amérique du Nord",
+    "Mauritania": "Afrique", "Mauritius": "Afrique", "Mexico": "Amérique du Nord", "Moldova": "Europe",
+    "Monaco": "Europe", "Mongolia": "Asie", "Montenegro": "Europe", "Morocco": "Afrique",
+    "Mozambique": "Afrique", "Myanmar": "Asie", "Namibia": "Afrique", "Nepal": "Asie",
+    "Netherlands": "Europe", "New Caledonia": "Océanie", "New Zealand": "Océanie", "Nicaragua": "Amérique du Nord",
+    "Niger": "Afrique", "Nigeria": "Afrique", "North Korea": "Asie", "North Macedonia": "Europe",
+    "Northern Ireland": "Europe", "Northern Mariana Islands": "Océanie", "Norway": "Europe", "Pakistan": "Asie",
+    "Palestine": "Asie", "Panama": "Amérique du Nord", "Papua New Guinea": "Océanie", "Paraguay": "Amérique du Sud",
+    "Peru": "Amérique du Sud", "Philippines": "Asie", "Poland": "Europe", "Portugal": "Europe",
+    "Puerto Rico": "Amérique du Nord", "Romania": "Europe", "Russia": "Europe", "Rwanda": "Afrique",
+    "Saint Helena, Ascension and Tristan da Cunha": "Afrique", "Saint Lucia": "Amérique du Nord", "Samoa": "Océanie", "Scotland": "Europe",
+    "Senegal": "Afrique", "Serbia": "Europe", "Seychelles": "Afrique", "Sierra Leone": "Afrique",
+    "Singapore": "Asie", "Slovakia": "Europe", "Slovenia": "Europe", "Solomon Islands": "Océanie",
+    "Somalia": "Afrique", "South Korea": "Asie", "South Sudan": "Afrique", "Spain": "Europe",
+    "Sri Lanka": "Asie", "Sudan": "Afrique", "Suriname": "Amérique du Sud", "Sweden": "Europe",
+    "Switzerland": "Europe", "Syria": "Asie", "Taiwan": "Asie", "Tajikistan": "Asie",
+    "Tanzania": "Afrique", "Thailand": "Asie", "Timor-Leste": "Asie", "Togo": "Afrique",
+    "Tokelau": "Océanie", "Tonga": "Océanie", "Trinidad and Tobago": "Amérique du Nord", "Tunisia": "Afrique",
+    "Turkiye": "Europe", "Turkmenistan": "Asie", "U.S. Virgin Islands": "Amérique du Nord", "USA": "Amérique du Nord",
+    "Uganda": "Afrique", "Ukraine": "Europe",
+}
+
+# Normalisation des continents bruts (accents / casse)
+CONT_NORM = {"oceanie": "Océanie", "amerique": "Amérique", "amérique": "Amérique",
+             "afrique": "Afrique", "asie": "Asie", "europe": "Europe"}
+
+# Libellés FR -> EN (pour le fallback CONTINENT_DEFAULTS de socioeco_data)
+CONT_FR_EN = {"Afrique": "Africa", "Asie": "Asia", "Europe": "Europe",
+              "Amérique du Nord": "North America", "Amérique du Sud": "South America",
+              "Océanie": "Oceania", "Amérique": "North America", "Inconnu": ""}
+
+# Noms GCatholic -> clés de SOCIO_ECO_DATA (quand ils different)
+PAYS_NOM_FIX = {
+    "Cote d’Ivoire": "Ivory Coast", "Cote d'Ivoire": "Ivory Coast",
+    "Turkiye": "Turkey", "Timor-Leste": "East Timor", "USA": "United States",
+    "Congo-Kinshasa": "Democratic Republic of the Congo",
+    "England": "United Kingdom", "Scotland": "United Kingdom",
+    "Northern Ireland": "United Kingdom", "Wales": "United Kingdom",
+    "Czechia": "Czech Republic", "South Korea": "South Korea",
+}
+
+# Traductions anglaises des contextes de liberte religieuse (contexte_liberte_en.json)
+CTX_EN: Dict[str, str] = {}
+_ctx_en_path = BASE_DIR / "contexte_liberte_en.json"
+if _ctx_en_path.exists():
+    try:
+        with open(_ctx_en_path, "r", encoding="utf-8") as _f:
+            CTX_EN = json.load(_f)
+        print(f"[API] ✅ {len(CTX_EN)} contextes anglais chargés")
+    except Exception as _e:
+        print(f"[API] ⚠️ contexte_liberte_en.json illisible : {_e}")
+
 # ═══════════════════════════════════════════════════════════════
 #  HELPERS
 # ═══════════════════════════════════════════════════════════════
@@ -159,10 +242,14 @@ def extract_categorie(type_str: str) -> str:
     return "autre"
 
 
-def get_continent(pays_code: str, raw_continent: str) -> str:
+def get_continent(pays_code: str, raw_continent: str, pays_nom: str = "") -> str:
     if raw_continent and raw_continent.lower() not in ("", "unknown", "null", "none"):
         c = raw_continent.strip()
-        return c[0].upper() + c[1:].lower() if len(c) > 1 else c
+        c = c[0].upper() + c[1:].lower() if len(c) > 1 else c
+        return CONT_NORM.get(c.lower(), c)
+    # Priorité au nom du pays (les prefixes GCatholic 2 lettres ne sont PAS des codes ISO)
+    if pays_nom and pays_nom in PAYS_NOM_CONTINENT:
+        return PAYS_NOM_CONTINENT[pays_nom]
     return PAYS_CONTINENT.get(pays_code.lower(), "Inconnu")
 
 
@@ -218,7 +305,7 @@ def _build_from_raw() -> bool:
         continent_raw = d.get("continent", "")
         type_str = d.get("type", "")
 
-        continent = get_continent(pays_code, continent_raw)
+        continent = get_continent(pays_code, continent_raw, pays_nom)
         categorie = extract_categorie(type_str)
 
         terr = d.get("territoire", {}) or {}
@@ -457,15 +544,19 @@ def enrich_diocese(raw: dict) -> dict:
     
 
     # Enrichissement socio-economique
-    pays_nom = raw.get('pays', '') or raw.get('pays_nom', '')
+    # Corrige le bug : raw['pays'] est un prefixe GCatholic 2 lettres ("ir"=Ireland),
+    # pas un code ISO -> utiliser pays_nom ("Ireland") pour la recherche.
+    pays_nom = raw.get('pays_nom', '') or raw.get('pays', '')
+    pays_lookup = PAYS_NOM_FIX.get(pays_nom, pays_nom)
     continent = raw.get('continent', '')
-    socio = get_socioeco_data(pays_nom, continent)
+    socio = get_socioeco_data(pays_lookup, CONT_FR_EN.get(continent, continent))
     raw['idh'] = socio['idh']
     raw['pib_par_habitant'] = socio['pib']
     raw['taux_urbanisation'] = socio['urbanisation']
     raw['indice_liberte_religion'] = str(socio['liberte']) + '/100'
     raw['score_persecution'] = socio['persecution']
     raw['contexte_liberte'] = socio['contexte']
+    raw['contexte_liberte_en'] = CTX_EN.get(socio['contexte'])
     raw['defis_liberte'] = socio['defis']
     return raw
 
@@ -615,4 +706,3 @@ if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
 # Redeploy force 2026-07-29 00:09
-
